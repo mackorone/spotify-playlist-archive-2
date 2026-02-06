@@ -1,13 +1,69 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: TH;EN",
-  "num_followers": 118648,
+  "num_followers": 118645,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgitr2tmuVHn3CBikVlEETV4zmO2zP",
+  "snapshot_id": "AAAgjj46nc9xDpQuNmrcOk9/REh8gipS",
   "tracks": [
+    {
+      "added_at": "2026-02-05 23:00:02",
+      "album": {
+        "name": "Begin Again (feat. Mokita)",
+        "url": "https://open.spotify.com/album/1zDTTyqP5iEHTKTjI1kI0R"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 218482,
+      "name": "Begin Again (feat. Mokita)",
+      "url": "https://open.spotify.com/track/4W7h2WuFuCPDXey0LclFM1"
+    },
+    {
+      "added_at": "2026-02-05 23:00:10",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3EXw9tcmiPJmCQY1s0tKfR"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Upside Down - Extended Mix",
+      "url": "https://open.spotify.com/track/2TGR0byhu1tDMCUdCGYoa8"
+    },
+    {
+      "added_at": "2026-02-05 23:00:03",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/70fRnyz6NqVivoOngE85R6"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK"
+    },
     {
       "added_at": "2026-01-29 23:20:02",
       "album": {
@@ -99,6 +155,38 @@
       "duration_ms": 182780,
       "name": "Satisfaction (with KASIA, Moonphazes, Majewski) - Remix",
       "url": "https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki"
+    },
+    {
+      "added_at": "2026-02-05 23:00:13",
+      "album": {
+        "name": "Turn The Lights Off (with Jaxstyle) [Joshua Robbie & VYTO Remix]",
+        "url": "https://open.spotify.com/album/5t962jL0Tb4ua4EcXP0Ln2"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "VYTO",
+          "url": "https://open.spotify.com/artist/4ty8oeZNU9JAQGAqSLDkyG"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Turn The Lights Off (with Jaxstyle) - Joshua Robbie & VYTO Remix",
+      "url": "https://open.spotify.com/track/1y4LD6eIWYHeABqhxzKo49"
     },
     {
       "added_at": "2026-01-29 23:20:01",
@@ -572,7 +660,7 @@
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 173754,
+      "duration_ms": 209859,
       "name": "Show Me Love (Future Tropical 2025 Remix)",
       "url": "https://open.spotify.com/track/22b2GzP8oXAGsZ9LaoEOJB"
     },

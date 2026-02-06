@@ -4,7 +4,7 @@
 
 > layan je
 
-335 songs - 22 hr 10 min
+336 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 | 2024-05-10 | 2024-05-17 |
 | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/track/4uvJC4WMRE0g2hpvZhIO07) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8), [Fareez Fauzi](https://open.spotify.com/artist/44egeaQFX2Ix8J1kUIYYRk) | [Bimbang Serumpun Kasih Terbuang](https://open.spotify.com/album/4ypQxWOOBy3FmI8aPwXADj) | 5:26 | 2024-07-25 | 2024-08-31 |
 | [Bisa Tanpamu](https://open.spotify.com/track/4C8HJNJEMkpgjELGuSResW) | [Waode](https://open.spotify.com/artist/1iU8z5mT1cM2GpMZ9JRemX) | [Bisa Tanpamu](https://open.spotify.com/album/4Ln1aLoPIWbVq9qqHPP1tW) | 4:06 | 2024-01-18 | 2024-01-26 |
-| [Bisakah?](https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Bisakah?](https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V) | 3:38 | 2025-05-16 |  |
+| [Bisakah?](https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I), [Sammy Simorangkir](https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq) | [Bisakah?](https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V) | 3:38 | 2025-05-16 | 2026-02-06 |
 | [Bodohnya Aku](https://open.spotify.com/track/6fhzeXO35qmuB4ZKW9FD2j) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe) | [Bodohnya Aku](https://open.spotify.com/album/5uW54jIdd3kcwaFTlYB8NP) | 3:18 | 2024-10-03 | 2024-10-18 |
 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 | 2025-06-19 | 2025-07-28 |
 | [Break The Silence \- Indonesia Version](https://open.spotify.com/track/2T3pycj5laBVctruGZUtC7) | [Audrey Vanessa](https://open.spotify.com/artist/0wKI7n8o1gQRhMV8R5nGSA) | [Break The Silence](https://open.spotify.com/album/27OWtD1B5EOAVq7sBfEZgO) | 3:48 | 2024-01-25 | 2024-02-02 |
@@ -272,6 +272,7 @@
 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 | 2024-07-12 | 2024-07-27 |
 | [Selamat Ulang Tahun Sayang \- Acoustic](https://open.spotify.com/track/4P69sE4FMw4ZLLnLYzlt7q) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Selamat Ulang Tahun Sayang \(Acoustic\)](https://open.spotify.com/album/6FYfpCUjZSKaH7DGaJuhSM) | 3:35 | 2024-01-25 | 2024-02-23 |
 | [Selimut Hati](https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 4:40 | 2024-10-17 | 2024-12-13 |
+| [Seluruh Cinta](https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Seluruh Cinta](https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW) | 4:10 | 2025-07-28 |  |
 | [Semangat Wira](https://open.spotify.com/track/18wkRaVoEO5Fg4RCyvh5Cx) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Semangat Wira](https://open.spotify.com/album/3Nbl6VxFMTxa0AaGlhcFoJ) | 3:48 | 2024-05-23 | 2024-06-07 |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 | 2024-07-13 |
 | [Semoga Ada Waktu Luang](https://open.spotify.com/track/6xKg948XDmszEygPYYUMIP) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Hitam Putih](https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN) | 3:59 | 2024-10-03 | 2024-10-18 |

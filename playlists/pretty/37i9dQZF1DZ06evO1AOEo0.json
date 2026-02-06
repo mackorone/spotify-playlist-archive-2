@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38216,
+  "num_followers": 38220,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADoRUXt666S0ULHIAAB+o5i",
+  "snapshot_id": "aYKMAAAAAACH5cFa3NocpgJXFwovkb1G",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 25 (Live)",
-        "url": "https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 381773,
-      "name": "Worthy of It All - Live",
-      "url": "https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4"
+      "duration_ms": 326652,
+      "name": "Psalm 34 (Taste and See)",
+      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
     },
     {
       "added_at": null,
@@ -259,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "The Worship Initiative, Vol. 25 (Live)",
+        "url": "https://open.spotify.com/album/6AaJ2dqRVXDBEDC4HsaP7Q"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 326652,
-      "name": "Psalm 34 (Taste and See)",
-      "url": "https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ"
+      "duration_ms": 381773,
+      "name": "Worthy of It All - Live",
+      "url": "https://open.spotify.com/track/0adk2kXGdxRVILjoFUUeX4"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
       "duration_ms": 378076,
       "name": "I Will Wait for You (Psalm 130) [Live]",
       "url": "https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 244639,
+      "name": "Psalm 91 (On Eagles' Wings)",
+      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
       "duration_ms": 360299,
       "name": "All Sufficient Merit",
       "url": "https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 244639,
-      "name": "Psalm 91 (On Eagles' Wings)",
-      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 312592,
-      "name": "Psalm 139 (Far Too Wonderful)",
-      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 18",
         "url": "https://open.spotify.com/album/1cNnDUzgbdJG0i4GVrb609"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 352086,
       "name": "Yet Not I but Through Christ in Me",
       "url": "https://open.spotify.com/track/1jGkQvxcRMqQf8VZhGpoNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
     },
     {
       "added_at": null,
@@ -543,34 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms from the Well",
-        "url": "https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Writers Well",
-          "url": "https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Max Dasher",
-          "url": "https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Yahweh (Psalm 84)",
-      "url": "https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 22",
         "url": "https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp"
       },
@@ -595,6 +567,34 @@
       "duration_ms": 301743,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms from the Well",
+        "url": "https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Writers Well",
+          "url": "https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Max Dasher",
+          "url": "https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Yahweh (Psalm 84)",
+      "url": "https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 1",
-        "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
+        "name": "The Worship Initiative, Vol. 11",
+        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 279973,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
+      "duration_ms": 340129,
+      "name": "O Come to the Altar",
+      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 11",
-        "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
+        "name": "The Worship Initiative, Vol. 1",
+        "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 340129,
-      "name": "O Come to the Altar",
-      "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
+      "duration_ms": 279973,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 315007,
+      "name": "Psalm 90 (Satisfy Us with Your Love)",
+      "url": "https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 3",
         "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 271670,
       "name": "Shout to the Lord",
       "url": "https://open.spotify.com/track/5NUSjjLmbSZGJGbT7SFPYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 315007,
-      "name": "Psalm 90 (Satisfy Us with Your Love)",
-      "url": "https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr"
     },
     {
       "added_at": null,

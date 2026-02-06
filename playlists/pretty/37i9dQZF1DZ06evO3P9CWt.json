@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280226,
+  "num_followers": 280224,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAycusLcXFL2V3YPVXNEuku",
+  "snapshot_id": "aYKMAAAAAABEgfVMGVos4QLEHSmTmXhI",
   "tracks": [
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
+      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prazer, Mam\u00e3e Noel",
         "url": "https://open.spotify.com/album/3N9ANUKLXnxmyff9xG9UqB"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 174016,
       "name": "Prazer, Mam\u00e3e Noel",
       "url": "https://open.spotify.com/track/5AirfKJ8zi8Chm3TbMY4i5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,

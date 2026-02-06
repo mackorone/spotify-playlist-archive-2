@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 997559,
+  "num_followers": 997774,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -267,30 +267,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -319,6 +295,30 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -563,6 +563,30 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 148135,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Sauti",
         "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "Crazy For It",
         "url": "https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "Les Gout",
         "url": "https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 344000,
       "name": "Les Gout",
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "Blue Berries",
-        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        },
-        {
-          "name": "Tagmann",
-          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
-        }
-      ],
-      "duration_ms": 170008,
-      "name": "Blue Berries",
-      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 153692,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "In Your Eyes (feat. Alida)",
         "url": "https://open.spotify.com/album/7Aq8cN8Br8AHcDqC327dlV"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 208222,
       "name": "In Your Eyes (feat. Alida)",
       "url": "https://open.spotify.com/track/61ZM92T2zaXIVsqncThQzC"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2026-01-30 05:00:39",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-01-30 05:00:39",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2026-01-30 05:00:39",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-01-30 05:00:39",

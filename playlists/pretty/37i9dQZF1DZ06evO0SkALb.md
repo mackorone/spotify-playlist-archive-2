@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,690 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,692 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [\(They Call It\) Stormy Monday](https://open.spotify.com/track/2crEiBgrvX5Etv2E8yCysO) | [Lou Rawls And Les McCann Trio](https://open.spotify.com/artist/4ldWE2nRMsjaNC9HZS6cRJ), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:45 |
 | 50 | [You Are](https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:51 |
 
-Snapshot ID: `aYE6gAAAAADwnqJxePxk7g/LdQEzVcyx`
+Snapshot ID: `aYKMAAAAAADwoSyTZy1jCla3dQ2hXGUp`

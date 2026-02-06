@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Cam Stockman",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: MK",
   "name": "UK House Music",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 184791,
       "name": "A Place You Wanna Go (Good Life)",
       "url": "https://open.spotify.com/track/0aDKvLIttZfWCA0zFjVn92"
@@ -5226,7 +5226,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 225250,
       "name": "Dancing Together",
       "url": "https://open.spotify.com/track/3s2pe025NN7oLtuRQjr5xO"
@@ -5797,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Does Ya Momma Know?",
+        "url": "https://open.spotify.com/album/0tPf8tp2h5BMH18VA7H1lv"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "Does Ya Momma Know?",
+      "url": "https://open.spotify.com/track/2Q6j60VeDs9gY3O2m67CAu"
+    },
+    {
+      "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
       },
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 168750,
       "name": "Don't Forget To Breathe",
       "url": "https://open.spotify.com/track/0oUszHe1amsQIganTqaIa3"
@@ -6362,7 +6380,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146953,
       "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
       "url": "https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP"
@@ -6620,6 +6638,24 @@
       "duration_ms": 207500,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/0HPhh6qb8R9uklOyCZPghi"
+    },
+    {
+      "album": {
+        "name": "Ease Your Mind",
+        "url": "https://open.spotify.com/album/0FNX04BMYj2bBxJno6sWxo"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/12tSrqvAnzM62NyJAS4c6L"
     },
     {
       "album": {
@@ -7002,7 +7038,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 185654,
       "name": "Euro Flow",
       "url": "https://open.spotify.com/track/0QgE29v3AaacwaB1OHRUYK"
@@ -8102,7 +8138,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 205059,
       "name": "For My People",
       "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
@@ -10922,7 +10958,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190258,
       "name": "I'm Watching You (So Many Times)",
       "url": "https://open.spotify.com/track/6KzhSkI5PAP0F2qL8ASGlP"
@@ -11633,6 +11669,28 @@
     },
     {
       "album": {
+        "name": "It's Time / Showblow",
+        "url": "https://open.spotify.com/album/36lnyKZKROYaSCxOskBsWZ"
+      },
+      "artists": [
+        {
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
+        },
+        {
+          "name": "Gissa",
+          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0r5Vg7vF0wFgcOY5od6Qsi"
+    },
+    {
+      "album": {
         "name": "Its Time to Move",
         "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
       },
@@ -11889,7 +11947,7 @@
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159130,
+      "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
@@ -11910,7 +11968,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 173604,
       "name": "Keep Forgettin'",
       "url": "https://open.spotify.com/track/1Bc9nB7Kyett9oZ4KCPm3c"
@@ -12136,6 +12194,24 @@
       "duration_ms": 216318,
       "name": "KMT",
       "url": "https://open.spotify.com/track/5CZs2xfkxlnuHLN72MujtZ"
+    },
+    {
+      "album": {
+        "name": "Knockin\u2019",
+        "url": "https://open.spotify.com/album/2LyZHX29xpJxMWjqtjLD29"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Knockin\u2019",
+      "url": "https://open.spotify.com/track/3IRzG2YlLaOpHU9ehv7jsk"
     },
     {
       "album": {
@@ -12598,7 +12674,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 140787,
       "name": "Let It In",
       "url": "https://open.spotify.com/track/0GZmhzycLPrYgUElDVnppA"
@@ -13676,7 +13752,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
@@ -14762,7 +14838,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190153,
       "name": "Moth To A Flame",
       "url": "https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK"
@@ -15062,7 +15138,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166874,
       "name": "Murder Mystery",
       "url": "https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw"
@@ -15284,7 +15360,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208194,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/4GeYXbE3YlrJNxok6MvfpS"
@@ -15623,6 +15699,28 @@
     },
     {
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181476,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST"
+    },
+    {
+      "album": {
         "name": "Never The Same",
         "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
       },
@@ -15846,6 +15944,28 @@
       "duration_ms": 163890,
       "name": "No Hesitating",
       "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
+    },
+    {
+      "album": {
+        "name": "No Hesitating (Max Dean Remix)",
+        "url": "https://open.spotify.com/album/1awnJYspbXb7Ge3hNDX0QK"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195243,
+      "name": "No Hesitating - Max Dean Remix",
+      "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
       "album": {
@@ -16276,7 +16396,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177230,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6Fh6tRQEtn1LBllyS6j27l"
@@ -16789,6 +16909,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx"
       },
@@ -17066,10 +17204,32 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 238423,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0d0Do6Co9OFnr5WRubXvKN"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/7J3SVJeMwyuGZQ7w1IenYB"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        },
+        {
+          "name": "Tobias Gerard",
+          "url": "https://open.spotify.com/artist/1ReDnqgOhy44VBuE0zvIaB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180966,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0RBDLXIq1soyS2IuOrFjpY"
     },
     {
       "album": {
@@ -17128,6 +17288,28 @@
       "duration_ms": 209374,
       "name": "Party Out",
       "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
+    },
+    {
+      "album": {
+        "name": "Pass The Aux",
+        "url": "https://open.spotify.com/album/2kE2d1Ue6Xm8LAWRAnR02K"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181534,
+      "name": "Pass The Aux",
+      "url": "https://open.spotify.com/track/6AZ4zP4srPZ0wh4uF2z7D3"
     },
     {
       "album": {
@@ -18476,7 +18658,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 243692,
       "name": "Reset",
       "url": "https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl"
@@ -19466,7 +19648,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179641,
       "name": "Serious",
       "url": "https://open.spotify.com/track/1XOJO5pe9p6beZDuP6UGvp"
@@ -20230,7 +20412,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179622,
       "name": "So Real",
       "url": "https://open.spotify.com/track/3KACjpc0vmQa34VeWbZ9Vy"
@@ -21573,6 +21755,28 @@
     },
     {
       "album": {
+        "name": "Taking Over (feat. Obi Franky)",
+        "url": "https://open.spotify.com/album/6eZbHd1fVfXHUuwYnMRJD1"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206009,
+      "name": "Taking Over (feat. Obi Franky)",
+      "url": "https://open.spotify.com/track/7fnm4mEmlhV9p9s2VhrLab"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/3URwEJGF4PEt0wjxudHoCS"
       },
@@ -22660,7 +22864,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 257766,
       "name": "The Way I'm Feeling",
       "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
@@ -24546,7 +24750,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 193636,
       "name": "Was I Loved?",
       "url": "https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z"

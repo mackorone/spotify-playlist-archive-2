@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 167009,
+  "num_followers": 167021,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Delirios Delicias",
-        "url": "https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "O Amanh\u00e3",
-      "url": "https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Maria Rita - Portugal",
         "url": "https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 282293,
       "name": "Cara valente",
       "url": "https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Delirios Delicias",
+        "url": "https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp"
+      },
+      "artists": [
+        {
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "O Amanh\u00e3",
+      "url": "https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
-      },
-      "artists": [
-        {
-          "name": "Candeia",
-          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Express\u00e3o do Teu Olhar",
-      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 272559,
       "name": "Pago Pra Ver",
       "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+      },
+      "artists": [
+        {
+          "name": "Candeia",
+          "url": "https://open.spotify.com/artist/3pXm8H2lDUNFkmQMiJbx6F"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Express\u00e3o do Teu Olhar",
+      "url": "https://open.spotify.com/track/1wnTbrv4oZNYAIEg1KXToa"
     },
     {
       "added_at": "2025-11-25 18:58:58",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-11-25 18:58:58",
       "album": {
-        "name": "Invers\u00e3o de Valores",
-        "url": "https://open.spotify.com/album/1p3aaNPA3l6JwIi8nKObxd"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 173190,
-      "name": "Invers\u00e3o de Valores",
-      "url": "https://open.spotify.com/track/5BXjNU3lFXx30vMZ0bTUXx"
-    },
-    {
-      "added_at": "2025-11-25 18:58:58",
-      "album": {
         "name": "Sambas\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 215720,
       "name": "Trilha do Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1"
+    },
+    {
+      "added_at": "2025-11-25 18:58:58",
+      "album": {
+        "name": "Invers\u00e3o de Valores",
+        "url": "https://open.spotify.com/album/1p3aaNPA3l6JwIi8nKObxd"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 173190,
+      "name": "Invers\u00e3o de Valores",
+      "url": "https://open.spotify.com/track/5BXjNU3lFXx30vMZ0bTUXx"
     },
     {
       "added_at": "2025-11-25 18:58:58",

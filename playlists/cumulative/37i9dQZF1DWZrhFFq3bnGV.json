@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jundy Salut",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 229000,
       "name": "Catch The Love",
       "url": "https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn"
@@ -5320,6 +5320,28 @@
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/0J7GpXSdG2U6WNvyT8vnYj"
+    },
+    {
+      "album": {
+        "name": "Syakara",
+        "url": "https://open.spotify.com/album/66pZEXYVoEP6WTFvFXKOHs"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142093,
+      "name": "Syakara",
+      "url": "https://open.spotify.com/track/14IfSGKq7UeGRg7Ib10vfG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-104 songs - 5 hr 51 min
+105 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Tuxedo](https://open.spotify.com/track/5wEnFcmoUs8ExWLhJlxlxd) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [The Show](https://open.spotify.com/album/3cRJXGmJYvaKfwnDlMVjqi) | 3:26 | 2022-09-08 |  |
 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 | 2022-09-08 |  |
 | [Walking Through The Desert](https://open.spotify.com/track/6nAnpLRB9KQPg2juqXbzHe) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits](https://open.spotify.com/album/3LwLqcW85aPAOIZz6qH4MJ) | 3:22 | 2022-09-08 |  |
+| [when I'm with you](https://open.spotify.com/track/2yTH2vxuKDTYV9mXDVaOYV) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [when I'm with you](https://open.spotify.com/album/0r0HT9Fr1kfAu3D5pYPB1p) | 2:59 | 2026-02-05 |  |
 | [Where Do We Go from Here](https://open.spotify.com/track/0BH0lfTcEUUlTf9GjuS2MF) | [Malte Castro](https://open.spotify.com/artist/2lPlzhzb48iN2IMxmjMPZ8) | [Where Do We Go from Here](https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw) | 3:42 | 2022-09-08 |  |
 | [Wild](https://open.spotify.com/track/1kEc9ep3rFqhwG4OlqbjLH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2022-09-08 |  |
 | [Wild](https://open.spotify.com/track/0nxBz99N3KlrQQlhnm6vg0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Wild](https://open.spotify.com/album/63iOoFuxyGJSKT0PPBY7PU) | 3:34 | 2023-12-13 | 2024-01-31 |

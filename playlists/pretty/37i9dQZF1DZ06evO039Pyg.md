@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,955 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,027 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN) | 4:02 |
+| 1 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 | 2 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 3 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
 | 4 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [Playinwitme \(feat\. Kehlani\)](https://open.spotify.com/track/4F1yvJfQ7gJkrcgFJQDjOr) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Light of Mine](https://open.spotify.com/album/2c1ipXPsfn6ylm6PrQNuDU) | 3:11 |
 | 50 | [any given sunday \(feat\. blxst\)](https://open.spotify.com/track/4gnrIW6VqlCxVbOSVE50zi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:45 |
 
-Snapshot ID: `aYE6gAAAAACDu0a7grlkrjWElaS9PBU3`
+Snapshot ID: `aYKMAAAAAABrO/9q5TIzgP/QhfjRQ/r9`

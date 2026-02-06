@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -2610,6 +2610,24 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "album": {
+        "name": "Jeanie",
+        "url": "https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi"
+      },
+      "artists": [
+        {
+          "name": "Dreamboys The Band",
+          "url": "https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
     },
     {
       "album": {
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167038,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM"
@@ -4559,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "Tell Me One Lie",
+        "url": "https://open.spotify.com/album/1B9VQ8HIZdeZEzd5F3iJB8"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161098,
+      "name": "Tell Me One Lie",
+      "url": "https://open.spotify.com/track/5UVJybNgRKoIkegkEipqfQ"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -4588,7 +4624,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 174688,
       "name": "The Day That I Die",
       "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
@@ -5422,6 +5458,28 @@
       "duration_ms": 171124,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n"
+    },
+    {
+      "album": {
+        "name": "WIE LIEBE GEHT",
+        "url": "https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k"
+      },
+      "artists": [
+        {
+          "name": "Gregor H\u00e4gele",
+          "url": "https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt"
+        },
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "WIE LIEBE GEHT",
+      "url": "https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1"
     },
     {
       "album": {

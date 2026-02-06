@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-454 songs - 22 hr 47 min
+455 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Good Old Days](https://open.spotify.com/track/10JsmLVZb3LAW0G7i1iOeN) | [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH), [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [Casino Stereo](https://open.spotify.com/artist/2i2CzDQp1hwba2JbTTwic7) | [Good Old Days](https://open.spotify.com/album/20cPSA70bwAh7XozjQsjve) | 2:19 | 2025-10-08 |  |
 | [Good Time \(feat\. Møf\-Lo & Giin\)](https://open.spotify.com/track/3G7flRKWPtHsCiF133HjzV) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Møf\-Lo](https://open.spotify.com/artist/3yWi2r7BWyQU41iBLkk0UK), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Good Time \(feat\. Møf\-Lo & Giin\)](https://open.spotify.com/album/6DHDCWga80PloPeSoBa6s3) | 2:52 | 2024-07-12 | 2025-03-13 |
 | [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-10-22 | 2025-10-09 |
+| [Happy Now](https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [LEA KEY](https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py) | [Happy Now](https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT) | 2:48 | 2026-02-05 |  |
 | [Head In The Clouds](https://open.spotify.com/track/59GEDGJ3gwfMCWMBEIaB5L) | [Fablers](https://open.spotify.com/artist/54XePvvWvcqPr7Jj95qOWX), [Denmatt](https://open.spotify.com/artist/3cV7xalGnxwyfYaO5K4NQE), [Baiden Holland](https://open.spotify.com/artist/0nTCgWKkvxKVqpldaLIolY) | [Head In The Clouds](https://open.spotify.com/album/3IpGNw2lxNQWOaO4SsOZuG) | 3:11 | 2024-04-18 | 2025-10-09 |
 | [Heart To Break](https://open.spotify.com/track/7atMbgCHuRqcC5IlzJ1ZCs) | [PRATAMA](https://open.spotify.com/artist/7bts4mZSgz00gAAyL8Kb6M), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Heart To Break](https://open.spotify.com/album/6RWa7xGVC3i21oEpbScePa) | 3:23 | 2023-10-27 | 2023-11-22 |
 | [Heartbeat](https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Heartbeat](https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0) | 2:59 | 2023-07-20 | 2023-08-05 |

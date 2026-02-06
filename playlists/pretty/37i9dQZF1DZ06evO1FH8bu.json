@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 72316,
+  "num_followers": 72322,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABWvhWNk8AtG53SbXU4SBrU",
+  "snapshot_id": "aYKMAAAAAACO1gfYWpCf02SyfJeuA1Ci",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL"
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 244480,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT"
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+      "duration_ms": 244480,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT"
     },
     {
       "added_at": null,

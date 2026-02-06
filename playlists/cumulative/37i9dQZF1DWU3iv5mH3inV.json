@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 215641,
       "name": "3 Leches",
       "url": "https://open.spotify.com/track/3nR936UaLZNPsgQ6CCPvR2"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 212231,
       "name": "ALADIN",
       "url": "https://open.spotify.com/track/7tXmXwJ0DCCiIdD9cngNBR"
@@ -3235,6 +3235,32 @@
     },
     {
       "album": {
+        "name": "Chi Tu",
+        "url": "https://open.spotify.com/album/6VURKr8XXk24TP5JRfTK6r"
+      },
+      "artists": [
+        {
+          "name": "Chiki El De La Vaina",
+          "url": "https://open.spotify.com/artist/3FRVhQjAe73b3Et1XsOCnF"
+        },
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "Malcom Produce",
+          "url": "https://open.spotify.com/artist/0zLv6N4yO8Eqn3MZQFpqit"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113998,
+      "name": "Chi Tu",
+      "url": "https://open.spotify.com/track/7EVQFbHOe6asz84Wf17E6N"
+    },
+    {
+      "album": {
         "name": "Chica Divertida (feat. Three Seven Music)",
         "url": "https://open.spotify.com/album/1fdk0hzou3xC8eJVmhyAfx"
       },
@@ -3276,7 +3302,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 126374,
       "name": "Chica Linda",
       "url": "https://open.spotify.com/track/0yeUOJ3giLwutiNLMG8Zpx"
@@ -5102,7 +5128,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 95303,
       "name": "DALE TEJIO",
       "url": "https://open.spotify.com/track/2T2EKld3MX5bp9iiZqr4Hx"
@@ -5266,7 +5292,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 136320,
       "name": "Dando Vuelta Como Happy",
       "url": "https://open.spotify.com/track/3XxxoHh2RAeveoUXxmzrbn"
@@ -5464,7 +5490,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 212830,
       "name": "De Tiguere",
       "url": "https://open.spotify.com/track/1LMHMi3Ko0LpOvjDiGFRLp"
@@ -5684,7 +5710,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 100984,
       "name": "Del Colmado",
       "url": "https://open.spotify.com/track/0a90RpIPpZQ453DOhFtuII"
@@ -7386,7 +7412,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 95608,
       "name": "El Motor",
       "url": "https://open.spotify.com/track/3wNWBqMftzCtiLn5BzgRkL"
@@ -8004,7 +8030,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 129206,
       "name": "ELLA TA EN TIEMPO",
       "url": "https://open.spotify.com/track/47ekmcyTMtLm9ighHrXlpd"
@@ -9250,7 +9276,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 135267,
       "name": "FUEGO PA PRENDERLO",
       "url": "https://open.spotify.com/track/29LDYuJxBAnTwvkfNCbdAd"
@@ -9716,7 +9742,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 136000,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
@@ -12012,7 +12038,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 154134,
       "name": "LA VA' SUBI",
       "url": "https://open.spotify.com/track/7MbNrk4VXSABsQ2ggnUKUB"
@@ -17707,6 +17733,28 @@
     },
     {
       "album": {
+        "name": "PASES BIEN",
+        "url": "https://open.spotify.com/album/6nqyusgU4dXXBO8VWSodpK"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Hansel Acocotealo",
+          "url": "https://open.spotify.com/artist/0BdYv0mEkjBC6Xib8vDfvw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99829,
+      "name": "PASES BIEN",
+      "url": "https://open.spotify.com/track/0qjyrKhQ6PkgGXDNAsYoVc"
+    },
+    {
+      "album": {
         "name": "Paso 1",
         "url": "https://open.spotify.com/album/16Ycnz5gZamkjcXXVNRKRK"
       },
@@ -18608,7 +18656,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 82000,
       "name": "Pire",
       "url": "https://open.spotify.com/track/3u7FPClMoZjNLLHE194BtR"
@@ -19364,7 +19412,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 150232,
       "name": "Prendela Malvada",
       "url": "https://open.spotify.com/track/7z05AsM67ZqJ0sV28kgdZ3"
@@ -20960,7 +21008,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 152542,
       "name": "Quita y Pone",
       "url": "https://open.spotify.com/track/50dyymlFvgh1tH6WiqRkUe"
@@ -25190,7 +25238,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 117120,
       "name": "Tetere",
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
@@ -25566,7 +25614,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 113275,
       "name": "TITON",
       "url": "https://open.spotify.com/track/0Kd55044MzRH1jaUJX07xy"
@@ -27544,7 +27592,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 115555,
       "name": "UNA ALTA",
       "url": "https://open.spotify.com/track/3FMocIQ2mmQWPD1qnJuxIi"
@@ -28314,6 +28362,28 @@
       "duration_ms": 92444,
       "name": "Vikiny - Remix",
       "url": "https://open.spotify.com/track/3H1xOCMcE6mXm8jWO9XMf5"
+    },
+    {
+      "album": {
+        "name": "Vite",
+        "url": "https://open.spotify.com/album/5Acg3BdVigbSaEzazPlPpJ"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "TOLO DESAPARECELO",
+          "url": "https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86640,
+      "name": "Vite",
+      "url": "https://open.spotify.com/track/73gy02Fb3oQrGT7RlOzZ26"
     },
     {
       "album": {

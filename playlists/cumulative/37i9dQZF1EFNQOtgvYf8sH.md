@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-40 songs - 2 hr 14 min
+41 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2025-10-09 | 2025-12-18 |
 | [leavemealone](https://open.spotify.com/track/1PTWicTyEUeYeWq4H25a4N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 3:42 | 2024-03-06 | 2024-04-15 |
 | [leavemealone](https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 3:42 | 2024-04-14 | 2024-08-16 |
+| [leavemealone](https://open.spotify.com/track/22BeTyERsitYBJVZohJxOT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:42 | 2026-02-05 |  |
 | [leavemealone](https://open.spotify.com/track/2vOjCXKZ5kcbmzOJ1ylT1h) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 3:42 | 2025-08-01 | 2025-10-10 |
 | [leavemealone](https://open.spotify.com/track/34vzTHRwW8Im0Rkim8IJGs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 3:42 | 2025-06-20 | 2025-08-02 |
 | [leavemealone](https://open.spotify.com/track/4AA57loUSZKtuHdULvizrc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/6CNWkUVb8kLkM3B464RMTx) | 3:42 | 2024-12-21 | 2025-06-21 |
-| [leavemealone](https://open.spotify.com/track/6IOTukhTcumU9dtAk1OLLF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:42 | 2025-12-17 |  |
+| [leavemealone](https://open.spotify.com/track/6IOTukhTcumU9dtAk1OLLF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:42 | 2025-12-17 | 2026-02-06 |
 | [leavemealone](https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 3:42 | 2023-12-16 | 2024-03-07 |
 | [MY EX](https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:33 | 2023-02-24 |  |
 | [only me](https://open.spotify.com/track/75CQb3vXfiah8MOyXqio8t) | [Jake The Snake](https://open.spotify.com/artist/6WeH5ssIPZ0KmBSYu8u30V), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [only me](https://open.spotify.com/album/0iFRaaqEcEECluhl0UdjR0) | 2:40 | 2026-02-03 |  |

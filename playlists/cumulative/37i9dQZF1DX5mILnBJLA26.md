@@ -2,9 +2,9 @@
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Tyler ICU
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: Royal MusiQ
 
-1,541 songs - 6 day 17 hr 25 min
+1,542 songs - 6 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Amaphupho \(feat\. De Rose & Tonic Blue\)](https://open.spotify.com/track/0ImFFgrdcoDbE4IlTnedn6) | [Tycoon](https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc), [Warren Justin](https://open.spotify.com/artist/1Tc3f6b90orSbqLkwjRW0E), [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd), [Tonic Blue](https://open.spotify.com/artist/48tbu0uAFseFvC5rTFZFL5) | [Art of Love II](https://open.spotify.com/album/4hzP6zs24G3mllBrlZfEKU) | 6:23 | 2024-08-02 | 2024-08-30 |
 | [Amaphutha \(feat\. Master KG, Lowsheen & Murumba Pitch\)](https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [Amaphutha \(feat\. Master KG, Lowsheen & Murumba Pitch\)](https://open.spotify.com/album/2GMJgh17pztmTfoH740Xs0) | 6:16 | 2023-06-02 | 2023-07-01 |
 | [Amaqhawe \(feat\. Spizzy, Mashudu & Da Ish\)](https://open.spotify.com/track/1jFhXowfUBKvRQUD1qEAIY) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR), [Spizzy](https://open.spotify.com/artist/08d3kRXpuOCx4pmybvUQK0), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Da Ish](https://open.spotify.com/artist/1DXmdKSx3VTfykbW1Pp4N5) | [Amaqhawe \(feat\. Spizzy, Mashudu & Da Ish\)](https://open.spotify.com/album/58ibBpDds8N8JuHLGzjz5J) | 6:49 | 2023-06-02 | 2023-06-23 |
+| [AmaRider](https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp) | [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Officixl RSA](https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv) | [AmaRider](https://open.spotify.com/album/6swCK9UtZeTTl96vYWp5Td) | 4:06 | 2026-02-05 |  |
 | [Amasango](https://open.spotify.com/track/2dyXSngDixmAFdvTRp1gJ0) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq) | [WHAT A TIME TO BE ALIVE](https://open.spotify.com/album/1CyHyaaOOrhBg0IBSOkKOG) | 6:51 | 2022-12-01 | 2022-12-08 |
 | [Amasango \(feat\. Sjavasdadeejay & TitoM\)](https://open.spotify.com/track/3IKb9dsBhceDuKzxvJQdpu) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [Amasango \(feat\. Sjavasdadeejay & TitoM\)](https://open.spotify.com/album/3e4kcnfW5lh8vLnhVeeyer) | 6:55 | 2022-12-15 | 2023-07-29 |
 | [Amasheleni](https://open.spotify.com/track/0WR8CKjAyG81Q4hYCKRu69) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Native Deep](https://open.spotify.com/artist/0tZbBTi7omOqebILw89VBo) | [My Turn](https://open.spotify.com/album/258cdpLnvAW9YaxL8d0wNt) | 6:00 | 2022-09-22 | 2022-10-28 |

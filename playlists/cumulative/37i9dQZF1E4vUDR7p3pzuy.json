@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Evil Level Live, Jamie Rust and more",
+  "description": "With Rob Harrowven, Jamie Rust, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Cycle Breaker",
       "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 230632,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/40Y5xwUpxzWqTJKOVjfaI5"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 203357,
       "name": "Everything and Nothing",
       "url": "https://open.spotify.com/track/20ONfwjSKbNy0lHiUtCEjQ"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 240953,
       "name": "Heroes + Legends",
       "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Life's a Party",
+        "url": "https://open.spotify.com/album/0dcRIfzAlXsjbtLb6fwdfg"
+      },
+      "artists": [
+        {
+          "name": "Vyvyan Hammond",
+          "url": "https://open.spotify.com/artist/1JPouwqYivSkQIKFLLoIzp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248328,
+      "name": "Life's a Party",
+      "url": "https://open.spotify.com/track/1QWy0cx6ApyVqwwmrpXmha"
+    },
+    {
+      "album": {
         "name": "Lifetime after Lifetime",
         "url": "https://open.spotify.com/album/2LOM13hCndLOWvxvL2svtI"
       },
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165000,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/2iRwMsbQyEg72oH6INaMoO"
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 230975,
       "name": "never enough",
       "url": "https://open.spotify.com/track/3xOGzJzfPKYLVSk1MF9Zrl"
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 206462,
       "name": "POV",
       "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/3g3i3u2CY5DFNDEc5BNHnH"
@@ -4306,7 +4324,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 187401,
       "name": "Red Sky at Noon - Dandysounds Mix",
       "url": "https://open.spotify.com/track/3JtLK1sccvAaKdhPKotx4P"
@@ -4378,7 +4396,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
@@ -4440,6 +4458,24 @@
       "duration_ms": 183716,
       "name": "Safe Distance",
       "url": "https://open.spotify.com/track/4Bd64nOz1Adpa0EUFd8puy"
+    },
+    {
+      "album": {
+        "name": "Gypsy Genes",
+        "url": "https://open.spotify.com/album/7jRbOF5YgqUIBW3GMpwjY8"
+      },
+      "artists": [
+        {
+          "name": "Zephyros Gowa",
+          "url": "https://open.spotify.com/artist/1Iv1LdRofr2Rtt5d0bBVSP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270031,
+      "name": "Salem For The Solstice",
+      "url": "https://open.spotify.com/track/1KBhJLAxDTqA4Q71L4GAKz"
     },
     {
       "album": {
@@ -4614,6 +4650,24 @@
       "duration_ms": 294389,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7n3N6Thp6WFEyBIxdiOZH9"
+    },
+    {
+      "album": {
+        "name": "To Die Like a God",
+        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
+      },
+      "artists": [
+        {
+          "name": "Die Oberherren",
+          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185227,
+      "name": "Shadows Across The South",
+      "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
     },
     {
       "album": {
@@ -5891,6 +5945,28 @@
     },
     {
       "album": {
+        "name": "Cut To The Core (Vol. 2)",
+        "url": "https://open.spotify.com/album/6j2Z6agLjQqtafbgujg1cf"
+      },
+      "artists": [
+        {
+          "name": "Stephen Brodsky",
+          "url": "https://open.spotify.com/artist/7kcQqnnBCPSa28dVFfG43Q"
+        },
+        {
+          "name": "Adam McGrath",
+          "url": "https://open.spotify.com/artist/1OZ0uJvIiUrLNc74RgXRFV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Wait for a Day",
+      "url": "https://open.spotify.com/track/16BAb39sC5QuFyS1mVIBEM"
+    },
+    {
+      "album": {
         "name": "Wait for a Day",
         "url": "https://open.spotify.com/album/4lcAWqT0FyLk2gucGlFBF5"
       },
@@ -6314,7 +6390,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Your Disaster",
       "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"

@@ -224,7 +224,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 174807,
       "name": "Barman",
       "url": "https://open.spotify.com/track/57FswJp3cmjj0EXolasm8o"
@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "DOLCE & GABBANA",
+        "url": "https://open.spotify.com/album/76Q7Qnr1qhU90Unkr9yL0t"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117960,
+      "name": "DOLCE & GABBANA",
+      "url": "https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3"
+    },
+    {
+      "album": {
         "name": "Donkerblauwe Deuntjes",
         "url": "https://open.spotify.com/album/73eYiVbNZ51AyTSHnoKYqD"
       },
@@ -900,6 +918,36 @@
       "duration_ms": 163750,
       "name": "Eindeloze Sleur",
       "url": "https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN"
+    },
+    {
+      "album": {
+        "name": "Ey Gap (feat. Big2, Willie Wartaal & Donnie) [DANIQ Remix]",
+        "url": "https://open.spotify.com/album/2KgWppoNGzr84Lorr57Cwp"
+      },
+      "artists": [
+        {
+          "name": "DANIQ",
+          "url": "https://open.spotify.com/artist/4pVwni0qNGtLWvGhRiXmZl"
+        },
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Willie Wartaal",
+          "url": "https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167700,
+      "name": "Ey Gap (feat. Big2, Willie Wartaal & Donnie) - DANIQ Remix",
+      "url": "https://open.spotify.com/track/3B7jRvIxaFRygXFlNMlgpS"
     },
     {
       "album": {
@@ -2174,7 +2222,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181718,
       "name": "Rock That Body - Kris McTwain Remix Edit",
       "url": "https://open.spotify.com/track/7jaUp76e4cZTYhEhO2uYoC"

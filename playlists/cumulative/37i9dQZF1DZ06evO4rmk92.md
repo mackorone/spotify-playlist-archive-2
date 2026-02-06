@@ -4,7 +4,7 @@
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-132 songs - 6 hr 19 min
+133 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Te Quiero Dijiste](https://open.spotify.com/track/5XaRuenP7XjJt1IjWrw49J) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:40 | 2024-06-13 | 2024-09-02 |
 | [Tenderly \- Remastered](https://open.spotify.com/track/1ufl86TmFCzPuoIJzPCJlU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:57 | 2024-06-15 | 2024-07-17 |
 | [Thanks To You](https://open.spotify.com/track/7i1B7J2VmDAORA5L5YzeC6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 3:24 | 2024-06-13 | 2025-07-02 |
-| [That's All \- Remastered](https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:59 | 2024-06-13 |  |
+| [That's All \- Remastered](https://open.spotify.com/track/5ru3nEtJjwEGjzPq3si0de) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [This Is Nat King Cole](https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY) | 2:59 | 2024-06-13 | 2026-02-06 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2025-03-30 | 2025-04-03 |
 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 | 2024-06-30 |  |
 | [The Late, Late Show](https://open.spotify.com/track/5tFvnHL61U4gcIU8fv4fHA) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Welcome To The Club](https://open.spotify.com/album/2fXsEEfRc7t3Q7nvriXlD3) | 2:32 | 2024-06-16 | 2024-07-23 |
@@ -115,6 +115,7 @@
 | [Those Lazy, Hazy, Crazy Days Of Summer](https://open.spotify.com/track/0ItlbY5mHDSYQd3SOgAlZu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 2:25 | 2024-06-13 | 2024-07-22 |
 | [Three Little Words](https://open.spotify.com/track/6J1oewqsGoNwIyTUv88E7O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:16 | 2024-06-14 | 2025-09-10 |
 | [To The Ends Of The Earth \- Remastered](https://open.spotify.com/track/44QpcUOhq2u0GNzfvO1WBm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:25 | 2024-06-13 | 2024-06-22 |
+| [Too Marvelous For Words](https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:34 | 2026-02-06 |  |
 | [Too Marvelous For Words \- Remastered](https://open.spotify.com/track/7CGoWgyKiAOO9tvpAEayYp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Penthouse Serenade \(Deluxe Edition\)](https://open.spotify.com/album/6b04OM0B7hYI2XVy2PAtnJ) | 1:56 | 2024-06-21 | 2025-02-08 |
 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 | 2024-06-21 |  |
 | [Tres Palabras](https://open.spotify.com/track/5KN5TBU6dbz9I8oP2bUmZq) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [More Cole Español](https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr) | 2:05 | 2024-06-15 | 2024-07-24 |

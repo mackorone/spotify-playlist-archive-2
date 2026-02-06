@@ -5290,7 +5290,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 274841,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5QNHKiu5EtYcAcZEX0ImXt"
@@ -5312,6 +5312,24 @@
       "duration_ms": 274877,
       "name": "BONITA BONITA",
       "url": "https://open.spotify.com/track/4EMJl0imBLiNOQ21WdE7ZH"
+    },
+    {
+      "album": {
+        "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/6DnijYTJLedFzZ1VJ5ZA6O"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/2d6UcgkEmxi6QKUjJEpint"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275293,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
     },
     {
       "album": {
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167652,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
@@ -19695,6 +19713,24 @@
     },
     {
       "album": {
+        "name": "JET SET!",
+        "url": "https://open.spotify.com/album/3fAJax4592qNOBH0V5TjU7"
+      },
+      "artists": [
+        {
+          "name": "XmegaLxl",
+          "url": "https://open.spotify.com/artist/2bsWEYKNfeSYqYe6Q8GuVv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127096,
+      "name": "JET SET!",
+      "url": "https://open.spotify.com/track/3uBw0g1kWTVWn3zZriKgj0"
+    },
+    {
+      "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
       },
@@ -23204,6 +23240,28 @@
       "duration_ms": 201933,
       "name": "Ma Meilleure Ennemie ft. Coldplay",
       "url": "https://open.spotify.com/track/1ZHvGQZNz6HLbxhAtu7pin"
+    },
+    {
+      "album": {
+        "name": "Machista",
+        "url": "https://open.spotify.com/album/01QGN3BF5vsCzi7NgRDZrJ"
+      },
+      "artists": [
+        {
+          "name": "M3LOON",
+          "url": "https://open.spotify.com/artist/0a9Hj8nVifQaVUwkwT41rB"
+        },
+        {
+          "name": "ElGranAlexis",
+          "url": "https://open.spotify.com/artist/77dBqhGBLZodn35OJzEvGS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150812,
+      "name": "Machista",
+      "url": "https://open.spotify.com/track/7MBzFtzoTxGVfbqR6aSQsq"
     },
     {
       "album": {
@@ -39390,7 +39448,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
@@ -45076,10 +45134,28 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 269879,
       "name": "Y as\u00ed empez\u00f3",
       "url": "https://open.spotify.com/track/4XcxlSEKfyd4o9pFgicz2O"
+    },
+    {
+      "album": {
+        "name": "Entre nosotros",
+        "url": "https://open.spotify.com/album/5ys4XoyGb77htRTiKdjoeY"
+      },
+      "artists": [
+        {
+          "name": "WoundsMusic",
+          "url": "https://open.spotify.com/artist/4qqyZl4xNCFjYxMviA7Inv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269879,
+      "name": "Y as\u00ed empez\u00f3",
+      "url": "https://open.spotify.com/track/6gjJAjNwD4g3GoIpsA6Lxd"
     },
     {
       "album": {

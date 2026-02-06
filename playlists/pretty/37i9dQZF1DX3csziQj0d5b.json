@@ -1,6 +1,6 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1903288,
+  "num_followers": 1903576,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -425,20 +441,20 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-12-09 15:36:00",
+      "added_at": "2025-08-29 04:00:32",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+      "duration_ms": 154386,
+      "name": "Ok Love You Bye",
+      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -471,22 +487,6 @@
       "duration_ms": 199986,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": "2025-08-29 04:00:32",
-      "album": {
-        "name": "Ok Love You Bye",
-        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Ok Love You Bye",
-      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
     },
     {
       "added_at": "2025-08-29 04:00:32",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
-      "added_at": "2025-01-17 05:00:32",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
       "added_at": "2024-12-09 15:36:00",
       "album": {
         "name": "Narrated For You",
@@ -663,6 +647,22 @@
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2025-01-17 05:00:32",
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
-      "added_at": "2025-03-25 16:11:45",
-      "album": {
-        "name": "Feel It (From \u201cInvincible\u201d)",
-        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Feel It (From \u201cInvincible\u201d)",
-      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
-    },
-    {
       "added_at": "2025-04-08 15:47:58",
       "album": {
         "name": "I Love You.",
@@ -1107,6 +1091,22 @@
       "duration_ms": 251186,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
+    },
+    {
+      "added_at": "2025-03-25 16:11:45",
+      "album": {
+        "name": "Feel It (From \u201cInvincible\u201d)",
+        "url": "https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Feel It (From \u201cInvincible\u201d)",
+      "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
       "added_at": "2025-08-18 14:23:18",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "Constellations (Piano Version)",
-        "url": "https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 230073,
-      "name": "Constellations - Piano Version",
-      "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "Strawberries & Cigarettes",
         "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 201538,
       "name": "Strawberries & Cigarettes",
       "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Constellations (Piano Version)",
+        "url": "https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "duration_ms": 230073,
+      "name": "Constellations - Piano Version",
+      "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-12-09 15:36:00",
       "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 177609,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 177609,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -1885,22 +1885,6 @@
       "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     },
     {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "I GUESS I'M IN LOVE",
-        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "I GUESS I'M IN LOVE",
-      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
-    },
-    {
       "added_at": "2025-08-17 04:46:09",
       "album": {
         "name": "savior",
@@ -1915,6 +1899,22 @@
       "duration_ms": 180626,
       "name": "savior",
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "I GUESS I'M IN LOVE",
+        "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "I GUESS I'M IN LOVE",
+      "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
     },
     {
       "added_at": "2024-12-09 15:36:00",
@@ -2129,22 +2129,6 @@
       "url": "https://open.spotify.com/track/1mZ91JmvUPfraFsQgifFW7"
     },
     {
-      "added_at": "2024-12-09 15:36:00",
-      "album": {
-        "name": "Moral of the Story",
-        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201083,
-      "name": "Moral of the Story",
-      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
-    },
-    {
       "added_at": "2025-08-01 04:00:27",
       "album": {
         "name": "No More",
@@ -2159,6 +2143,22 @@
       "duration_ms": 201452,
       "name": "No More",
       "url": "https://open.spotify.com/track/51TIf6rPwW8m5jnsO5f37E"
+    },
+    {
+      "added_at": "2024-12-09 15:36:00",
+      "album": {
+        "name": "Moral of the Story",
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 201083,
+      "name": "Moral of the Story",
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
     },
     {
       "added_at": "2025-08-29 04:00:32",

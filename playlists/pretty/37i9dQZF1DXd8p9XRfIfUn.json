@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80787,
+  "num_followers": 80797,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Uy k raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy k raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Que Loco Mami",
         "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
       },
@@ -979,18 +995,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Uy k raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 127264,
-      "name": "Uy k raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1011,26 +1031,6 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2025-09-18 23:00:14",

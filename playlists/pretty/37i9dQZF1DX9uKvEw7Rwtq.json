@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 122530,
+  "num_followers": 122555,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 350228,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 361760,
       "name": "A Citizen's Dream",
       "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 350228,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Goodbye Sierra",
-      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "The Ever Shifting Fields",
         "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 277133,
       "name": "In Collusion with the Waves",
       "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Goodbye Sierra",
+      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Old Joy",
-        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 101337,
-      "name": "Path to Springs",
-      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Feeling Everything but Lost",
         "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 295104,
       "name": "Feeling Everything but Lost",
       "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Old Joy",
+        "url": "https://open.spotify.com/album/2CAW8tKG9OAJVqr0Ol48F1"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 101337,
+      "name": "Path to Springs",
+      "url": "https://open.spotify.com/track/0vkhr3CIesnwAsZcNDG60b"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Leaving Home",
-        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 332704,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Leaving Home",
+        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 332704,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
-      },
-      "artists": [
-        {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
-        }
-      ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "I Dreamt Our Whole City Burned",
         "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 284076,
       "name": "I Dreamt Our Whole City Burned",
       "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 283200,
       "name": "A Letter from the Past",
       "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 420330,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1251,50 +1235,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
-      },
-      "artists": [
-        {
-          "name": "Flumina",
-          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1315,6 +1267,54 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
+      },
+      "artists": [
+        {
+          "name": "Flumina",
+          "url": "https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Chronos",
         "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
-      },
-      "artists": [
-        {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 439449,
       "name": "Cura",
       "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+      },
+      "artists": [
+        {
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
-      },
-      "artists": [
-        {
-          "name": "Rain No Rain",
-          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+      },
+      "artists": [
+        {
+          "name": "Rain No Rain",
+          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0qLppbcnPxM0EcGFNZzAji"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Calvo",
-          "url": "https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "The World Is A House On Fire",
         "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 405400,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/0qLppbcnPxM0EcGFNZzAji"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Calvo",
+          "url": "https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz"
     },
     {
       "added_at": "2025-09-25 12:08:17",

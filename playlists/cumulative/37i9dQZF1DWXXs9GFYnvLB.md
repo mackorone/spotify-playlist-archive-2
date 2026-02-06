@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Harry Styles
+> The hottest tracks with the freshest hits! Cover: PinkPantheress, Zara Larsson
 
 417 songs - 22 hr 20 min
 

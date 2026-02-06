@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62329,
+  "num_followers": 62337,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
+      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "Lancetta\u300c\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/0lDNCSOC8fLuIKSMq6vD7I"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 293011,
       "name": "\u50ac\u82b1\u96e8\u306e\u7247\u9053\u5207\u7b26",
       "url": "https://open.spotify.com/track/0h2J374g21zVASx4Ahlr3h"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-        "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
-      "url": "https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -963,8 +963,8 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
+        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 214749,
-      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
-      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
+      "duration_ms": 217766,
+      "name": "\u660e\u93e1\u6d41\u6c34",
+      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u7d05\u6708\u300c\u660e\u93e1\u6d41\u6c34\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/383W6Pd0RmZ3AdzkS8MOUl"
+        "name": "\u7d05\u6708\u300c\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/2zswpyvNjZHvXLcxaf3kGp"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
         }
       ],
-      "duration_ms": 217766,
-      "name": "\u660e\u93e1\u6d41\u6c34",
-      "url": "https://open.spotify.com/track/4dTrZCkSIFEcsrwyouLop3"
+      "duration_ms": 214749,
+      "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
+      "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1347,6 +1347,38 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u300cDancin\u2019 Celebrity Party!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
+        "url": "https://open.spotify.com/album/3GaTPz7WxkcKw5NhFOWx3d"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)",
+          "url": "https://open.spotify.com/artist/4LWnaUNq8suwmoiWWdDWQo"
+        },
+        {
+          "name": "\u59eb\u5bae \u6843\u674e(CV.\u6751\u702c \u6b69)",
+          "url": "https://open.spotify.com/artist/6idlDSmmhwFjyoyrVlPulm"
+        },
+        {
+          "name": "\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f \u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/0OcqPbYLMti4RXcfyZSCnp"
+        },
+        {
+          "name": "\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/1r0MP4iYcIJegetAIgXlrd"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 202107,
+      "name": "Dancin\u2019 Celebrity Party!",
+      "url": "https://open.spotify.com/track/45NWYfB3PQDV2hJPVoufCM"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "\u300cLet\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/7A2KSWOiyIsSbA455L7dbl"
       },
@@ -1379,38 +1411,6 @@
       "duration_ms": 232522,
       "name": "Let\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606",
       "url": "https://open.spotify.com/track/506QEdY4JMYq3g174Z2Z2B"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u300cDancin\u2019 Celebrity Party!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
-        "url": "https://open.spotify.com/album/3GaTPz7WxkcKw5NhFOWx3d"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u7965\u9662 \u82f1\u667a(CV.\u7dd1\u5ddd \u5149)",
-          "url": "https://open.spotify.com/artist/4LWnaUNq8suwmoiWWdDWQo"
-        },
-        {
-          "name": "\u59eb\u5bae \u6843\u674e(CV.\u6751\u702c \u6b69)",
-          "url": "https://open.spotify.com/artist/6idlDSmmhwFjyoyrVlPulm"
-        },
-        {
-          "name": "\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f \u590f\u6a39)",
-          "url": "https://open.spotify.com/artist/0OcqPbYLMti4RXcfyZSCnp"
-        },
-        {
-          "name": "\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)",
-          "url": "https://open.spotify.com/artist/1r0MP4iYcIJegetAIgXlrd"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 202107,
-      "name": "Dancin\u2019 Celebrity Party!",
-      "url": "https://open.spotify.com/track/45NWYfB3PQDV2hJPVoufCM"
     },
     {
       "added_at": "2026-01-13 16:06:44",

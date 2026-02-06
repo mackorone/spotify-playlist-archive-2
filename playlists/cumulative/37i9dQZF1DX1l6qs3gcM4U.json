@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros & Matias Dam\u00e1sio",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -863,28 +863,6 @@
     },
     {
       "album": {
-        "name": "Dores d'um Malandro",
-        "url": "https://open.spotify.com/album/133UT2nzvQaMcBPj91219y"
-      },
-      "artists": [
-        {
-          "name": "MDO (Menino de Ouro)",
-          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
-        },
-        {
-          "name": "Helio Baiano",
-          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
-        }
-      ],
-      "date_added": "2026-01-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176517,
-      "name": "Ate Quando II",
-      "url": "https://open.spotify.com/track/6mgz2WqzjwzAFmMlpNsPHx"
-    },
-    {
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6xL4r0BUvTQ0QmNQiK4fwo"
       },
@@ -930,6 +908,28 @@
       "duration_ms": 166000,
       "name": "At\u00e9 Quando",
       "url": "https://open.spotify.com/track/7slbyYPHe4LvQwySBudRLP"
+    },
+    {
+      "album": {
+        "name": "Dores d'um Malandro",
+        "url": "https://open.spotify.com/album/133UT2nzvQaMcBPj91219y"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        },
+        {
+          "name": "Helio Baiano",
+          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176517,
+      "name": "At\u00e9 Quando II",
+      "url": "https://open.spotify.com/track/6mgz2WqzjwzAFmMlpNsPHx"
     },
     {
       "album": {
@@ -7186,7 +7186,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 203720,
       "name": "Namorado",
       "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
@@ -11494,6 +11494,24 @@
       "duration_ms": 206879,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "album": {

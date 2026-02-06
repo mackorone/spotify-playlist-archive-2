@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dirty Harry, Yolte",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: HGEMONA$",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "50 CENT",
+        "url": "https://open.spotify.com/album/0urfxc46odu6zD7UvZlHyI"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "50 CENT",
+      "url": "https://open.spotify.com/track/27f62QDRVencjisrZxarp9"
+    },
+    {
+      "album": {
         "name": "5G",
         "url": "https://open.spotify.com/album/5PRrzJZQTL2KeYgLEvBruP"
       },
@@ -566,7 +592,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 247912,
       "name": "Adeies Verantes",
       "url": "https://open.spotify.com/track/4d2L1ntfgswj1aVWdnb5RO"
@@ -854,7 +880,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 214000,
       "name": "ALEPOU",
       "url": "https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R"
@@ -1648,7 +1674,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 156837,
       "name": "BANDA ORGANISE",
       "url": "https://open.spotify.com/track/6IVZ7TzEOS8N4eeGCi1rep"
@@ -2073,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/7yBViNI3908qk7Rt4XowDj"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156585,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/7oPqAlO0jFfC4z6EQusQaL"
+    },
+    {
+      "album": {
         "name": "ALEQUAN",
         "url": "https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl"
       },
@@ -2132,6 +2180,36 @@
       "duration_ms": 172300,
       "name": "BOY",
       "url": "https://open.spotify.com/track/0FdK7KqMT1ygJAxnywVjwf"
+    },
+    {
+      "album": {
+        "name": "BOYKA",
+        "url": "https://open.spotify.com/album/28tc22zEAO5QTsieSJ5HJd"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Xjay",
+          "url": "https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "BOYKA",
+      "url": "https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK"
     },
     {
       "album": {
@@ -4082,6 +4160,32 @@
       "duration_ms": 154480,
       "name": "ETSI DE GINETE",
       "url": "https://open.spotify.com/track/5sQVqxvMimtLqi6p1d9tby"
+    },
+    {
+      "album": {
+        "name": "Dope Sport (Vol.3)",
+        "url": "https://open.spotify.com/album/38mlNJEqWEVsA26F9EtBMN"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "BTK 187",
+          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "EURO",
+      "url": "https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn"
     },
     {
       "album": {
@@ -10559,6 +10663,24 @@
     },
     {
       "album": {
+        "name": "PROSTIMO",
+        "url": "https://open.spotify.com/album/3F4zAY9olhJ1Yu8l1932eF"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "PROSTIMO",
+      "url": "https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6"
+    },
+    {
+      "album": {
         "name": "PROTI FORA",
         "url": "https://open.spotify.com/album/2aIDC0j3fJvA31vjPXQhe8"
       },
@@ -12350,7 +12472,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 149243,
       "name": "SYBANTIKO",
       "url": "https://open.spotify.com/track/4Dljmix9x2UQeruEvVYXkT"
@@ -12472,7 +12594,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 140906,
       "name": "TAKEOVER",
       "url": "https://open.spotify.com/track/5yaBUyYf6ZRn3SngG0qyBu"
@@ -13491,6 +13613,32 @@
     },
     {
       "album": {
+        "name": "ZOUGLA",
+        "url": "https://open.spotify.com/album/6UDER5XBSxxfPUipBFXKua"
+      },
+      "artists": [
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Rjay",
+          "url": "https://open.spotify.com/artist/2CaHe8TG0kJ8gTTodohITQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "UNDERDOGS",
+      "url": "https://open.spotify.com/track/46kJk0QCZ5SDiRK5BNnHkT"
+    },
+    {
+      "album": {
         "name": "V.A.R.",
         "url": "https://open.spotify.com/album/1mj6Fki6aITCoQjSYqOl1h"
       },
@@ -13862,7 +14010,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 158857,
       "name": "WANNABES",
       "url": "https://open.spotify.com/track/1D8IVZP06Clm5B3KJ0u9oC"

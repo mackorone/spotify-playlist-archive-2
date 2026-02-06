@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 16 hr 14 min
+275 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2step \(feat\. reezy\)](https://open.spotify.com/track/6Md7OetCK5pP3HzcX0ermc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:33 | 2025-04-10 |  |
 | [2step \(feat\. Ultimo\)](https://open.spotify.com/track/4EDm3svAC8LREh5b6fHZzt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [2step \(The Remixes\)](https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI) | 2:34 | 2025-04-10 | 2025-12-04 |
 | [A Little Light](https://open.spotify.com/track/5FCdNyA2VICUVsvbWkSDo2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:22 | 2025-04-10 |  |
+| [A Long Goodbye](https://open.spotify.com/track/6jqH5HXEsyuyDCO3EqucQJ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:47 | 2026-02-05 |  |
 | [A Place in My Heart](https://open.spotify.com/track/2KTpE5ItXdtfUNzuwQmRub) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Are You Ready?](https://open.spotify.com/album/57WzHBJGngVVWhd1V3pXMM) | 3:33 | 2025-04-10 | 2025-04-12 |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2025-04-10 |  |
 | [About Last Night](https://open.spotify.com/track/6zCvA2MctP74yeHgvlDkFn) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:28 | 2025-04-10 |  |

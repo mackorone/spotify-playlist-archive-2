@@ -2,12 +2,13 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : TRK.
+> Le meilleur du rap africain francophone\. Photo : Black K
 
-258 songs - 11 hr 54 min
+260 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$ign](https://open.spotify.com/track/39sT4m32Z3aowyOZ6EtMXp) | [Andy S](https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK) | [$ign](https://open.spotify.com/album/4f2k1aP10IBXdSHsTy6ADW) | 2:21 | 2026-02-05 |  |
 | [13500 Volts](https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [13500 Volts](https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT) | 3:30 | 2025-12-18 |  |
 | [15500 Volts](https://open.spotify.com/track/0FvmJPfFiqoFz1HRrGLFHN) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [15500 Volts](https://open.spotify.com/album/5JtOdStbV6Djj4aBRp6u9e) | 1:47 | 2025-06-19 | 2025-07-11 |
 | [24H Chrono](https://open.spotify.com/track/5j3IQvpktPI41fZzZdIBag) | [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [24H Chrono](https://open.spotify.com/album/3cVip0lEuRC0tGOp009wJI) | 3:30 | 2025-07-03 | 2025-09-26 |
@@ -52,7 +53,7 @@
 | [CA GLOW](https://open.spotify.com/track/7Fp5yUcTy3bVI9eP31WnKf) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 3:49 | 2025-09-25 | 2025-11-28 |
 | [CAMERA](https://open.spotify.com/track/5g6KbDdqijAIhBoaCEsljr) | [Ced'](https://open.spotify.com/artist/7BbpiKiLkyw6S48KUYcIvB), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT) | [29 : Bouteilles à la Mer](https://open.spotify.com/album/6yL3g3AHaN7eeZDM01zsc3) | 2:42 | 2026-01-15 |  |
 | [CARDIO](https://open.spotify.com/track/61GLuMu70Cn6RwTLSRWOTn) | [LePapara](https://open.spotify.com/artist/2J7P5cx3l8PKzQnVo6BEhT), [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [CARDIO](https://open.spotify.com/album/4sl9N2N97tl2Tskx9u7nhJ) | 2:24 | 2025-09-04 | 2025-10-03 |
-| [Catimini](https://open.spotify.com/track/6ZMUrUT5e2aQabvEL2iGY0) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Catimini](https://open.spotify.com/album/1CV376kiafI3z4tHv5UFWm) | 2:42 | 2025-11-06 |  |
+| [Catimini](https://open.spotify.com/track/6ZMUrUT5e2aQabvEL2iGY0) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Catimini](https://open.spotify.com/album/1CV376kiafI3z4tHv5UFWm) | 2:42 | 2025-11-06 | 2026-02-06 |
 | [CDG VOL 2](https://open.spotify.com/track/3eSahiMkW8oIug9n4Hqupc) | [WIZY K](https://open.spotify.com/artist/7rj7FttMXXNENt7qUiR1O1) | [CDG VOL 2](https://open.spotify.com/album/37xz2PaRAwYuLq38Jpsz06) | 2:23 | 2025-11-06 | 2025-11-21 |
 | [Charger](https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Charger](https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR) | 3:12 | 2025-11-27 | 2026-01-23 |
 | [Cherie Coco](https://open.spotify.com/track/5HrLD9Z6v0bb9F4kmJJlXE) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR) | [Cherie Coco](https://open.spotify.com/album/3dTDsQsyjFGae6y4NZg4SG) | 2:55 | 2025-08-28 | 2025-10-03 |
@@ -60,6 +61,7 @@
 | [Coco](https://open.spotify.com/track/6tgh9OuEO11QgstLGl8KJm) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Coco](https://open.spotify.com/album/7iZwli2gUCz01bdk0CfyB4) | 3:02 | 2025-11-13 | 2025-12-19 |
 | [COCO](https://open.spotify.com/track/0BiAWtwGN5rNSjoq9WD5Qs) | [Skulio](https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ) | [COCO](https://open.spotify.com/album/2LlQhd1JWZN9eY13NZfAHE) | 2:44 | 2026-01-22 |  |
 | [COLO](https://open.spotify.com/track/6dAAJi5OLOg8Nz4WcMWmO4) | [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [Kountchala Vibz](https://open.spotify.com/album/58ExDT5CthRuLojn76SdlL) | 2:13 | 2025-05-29 | 2025-06-27 |
+| [COMBIEN DE FOIS ?](https://open.spotify.com/track/5iI15dKa3nHKOb1zg8FaZI) | [RBIB](https://open.spotify.com/artist/4igLe1UmkagupsFjyuyFL1) | [SORRY FOR THE WAIT](https://open.spotify.com/album/1fWsAhemKEksNqC9Wg56lg) | 2:25 | 2026-02-05 |  |
 | [Comeback](https://open.spotify.com/track/1lnP1rWlyKTAPMs9q4d00w) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Comeback](https://open.spotify.com/album/139A0uqOwHS7kze5JJKHZd) | 2:04 | 2025-12-18 |  |
 | [Commando](https://open.spotify.com/track/2x8SaiCPgnkqakvBn5ovk6) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR) | [Commando](https://open.spotify.com/album/4Ko7zAShNmYKNLE9U8JWlC) | 2:50 | 2025-06-19 | 2025-08-08 |
 | [Comme ça](https://open.spotify.com/track/3iZmDuQ50BXFi6bYcCsUto) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Wantché](https://open.spotify.com/artist/12IHM2ppR26NmIUesKOGZQ) | [Vision d'Or](https://open.spotify.com/album/3M3R6SXI5wLge4Y2No3eee) | 2:57 | 2025-05-29 | 2025-06-20 |
@@ -177,7 +179,7 @@
 | [MOUMAN](https://open.spotify.com/track/0S1Hb8ROnRtcyMpq8xznz1) | [J\-Haine](https://open.spotify.com/artist/6xqk9AhuWQXiyARu2ViDvI), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [CAMÉLÉON](https://open.spotify.com/album/5nGLtJnAcONnruVS4nRaWb) | 2:29 | 2025-05-29 | 2025-06-20 |
 | [MOUMENT](https://open.spotify.com/track/0PtVvvQQcRQyWvwbtCgVC0) | [Boykito](https://open.spotify.com/artist/6UsBAhzHN7UEOEChp1L0mA) | [NOUSHI ROCK](https://open.spotify.com/album/7lN6gd71pTqSfl6djzjNT7) | 2:12 | 2025-07-03 | 2025-08-15 |
 | [MOUTOUNÉNÉ](https://open.spotify.com/track/0hX2XJcISm8qWhKpbF1JNf) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [MOUTOUNÉNÉ](https://open.spotify.com/album/4AW8MMmHmSMTPhKS24B6W8) | 2:36 | 2025-07-10 | 2025-12-05 |
-| [Mélangé \(feat\. DAVINHOR\)](https://open.spotify.com/track/0NocF4Xg0qUClKzJaXEu9X) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Y'a Pas l'Homme \(Deluxe\)](https://open.spotify.com/album/5H93InqARz9Xdt2gI2IGb4) | 2:40 | 2026-01-08 |  |
+| [Mélangé \(feat\. DAVINHOR\)](https://open.spotify.com/track/0NocF4Xg0qUClKzJaXEu9X) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Y'a Pas l'Homme \(Deluxe\)](https://open.spotify.com/album/5H93InqARz9Xdt2gI2IGb4) | 2:40 | 2026-01-08 | 2026-02-06 |
 | [Ngoze Sisia](https://open.spotify.com/track/2TNGpZ3E3j4b70dbYztg5d) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Don'zer](https://open.spotify.com/artist/2nxPUQcu3EpsHQIrfGgalc) | [Ngoze Sisia](https://open.spotify.com/album/4PTHuV8MSqvSc99rq4vvzk) | 2:40 | 2025-10-02 |  |
 | [NIAMATOS](https://open.spotify.com/track/6cee6K304uT7AHe4DXaRZH) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [NIAMATOS](https://open.spotify.com/album/0t4rLht6zhZ8mjsjIPU7pM) | 2:46 | 2025-05-29 | 2025-07-04 |
 | [Nie Les Faits](https://open.spotify.com/track/2Nb97LbrINavdRIXnPTuX2) | [Kawid](https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN) | [En Mission](https://open.spotify.com/album/1HJW8OzVxMRJnyOWOW5Qcc) | 2:07 | 2025-07-10 | 2025-08-22 |
@@ -260,7 +262,7 @@
 | [Whatsapp](https://open.spotify.com/track/4oFUIXTJfKWW1sQXGwBvNy) | [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Election](https://open.spotify.com/album/28wOO7sKBChGI7UaTW5Tm4) | 3:13 | 2025-10-23 |  |
 | [WOLOLO](https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [WOLOLO](https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI) | 3:10 | 2025-08-21 | 2025-12-19 |
 | [Yako](https://open.spotify.com/track/6G43nkxTAkhPDTema2kixZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Yako](https://open.spotify.com/album/3KWBg8J1bmuwDKg3gzCs4G) | 2:52 | 2025-05-29 | 2025-09-05 |
-| [Ye Wanda](https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW) | [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [Ye Wanda](https://open.spotify.com/album/6fOpiq1geGRailuT7OPCrA) | 2:16 | 2026-01-22 |  |
+| [Ye Wanda](https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW) | [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [Ye Wanda](https://open.spotify.com/album/6fOpiq1geGRailuT7OPCrA) | 2:16 | 2026-01-22 | 2026-02-06 |
 | [YPM](https://open.spotify.com/track/4wgHqq6QkVdAC9ElkBegdC) | [Drino](https://open.spotify.com/artist/2zQfW0dSrpcyuJZTQMeRgC), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [YPM](https://open.spotify.com/album/7n3iaSiyFvU172FHDEYCjM) | 2:35 | 2025-06-19 | 2025-07-11 |
 | [Zigi Zaga \(feat\. Bolémvn\)](https://open.spotify.com/track/4ULxqd5Fbx3LszKJLBgPCG) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [De Kabo à Brazza](https://open.spotify.com/album/2MpliIz6SCEjmX8CH4xHmH) | 3:12 | 2026-01-22 |  |
 | [ZÉRO](https://open.spotify.com/track/1rCpRaidop0h75ng6VpIDd) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [CONCRÉTISATION](https://open.spotify.com/album/6EMsKH0Ul0A2OgKE3ybDcm) | 2:46 | 2025-12-18 | 2026-01-16 |

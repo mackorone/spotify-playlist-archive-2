@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,688 likes - 121 songs - 7 hr 44 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,691 likes - 124 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,5 +129,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 119 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 |
 | 120 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 |
 | 121 | [EL CONGELADOR](https://open.spotify.com/track/1Lnuym6raYt4j61Lqlb6qE) | [VicenticoMusic](https://open.spotify.com/artist/3ejOmbwBSMeVpvtt29yr3K) | [EL CONGELADOR](https://open.spotify.com/album/1sq0bzeQMr8etlaCrXa8pQ) | 3:56 |
+| 122 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 |
+| 123 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 |
+| 124 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 |
 
-Snapshot ID: `AAAKi92iCk9chd5cHl0OdYXglBedce6S`
+Snapshot ID: `AAAKjsQSduuGUp5LMoUuk+2sWFpOipD6`

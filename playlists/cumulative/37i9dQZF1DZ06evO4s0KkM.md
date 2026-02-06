@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-154 songs - 8 hr 25 min
+155 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chesterfields and Aftershave](https://open.spotify.com/track/1iL1Uu7Mxi2S8HD3dAXcEn) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 4:30 | 2025-11-29 |  |
 | [Chesterfields and Aftershave](https://open.spotify.com/track/3KNbuMWChxt7X9qO6jY2oC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 4:30 | 2025-07-06 | 2025-11-29 |
 | [Citizen C.I.A\. \(Live At Ryman Auditorium\)](https://open.spotify.com/track/32q1ILx2fzW64DqqKCPyOX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Live At Ryman Auditorium](https://open.spotify.com/album/47D7JxsBmpXvkQdauxqQVA) | 2:42 | 2024-09-10 | 2024-09-22 |
+| [Citizen I.C.E.](https://open.spotify.com/track/1Gjk9xVoLX2c5xFSBow3ut) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Citizen I.C.E.](https://open.spotify.com/album/0a8UXVBxYkdx4KmYkjMamt) | 1:23 | 2026-02-06 |  |
 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 | 2025-01-19 | 2025-07-06 |
 | [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 | 2025-07-20 |  |
 | [Dig A Hole \(feat\. Woody Guthrie\)](https://open.spotify.com/track/6ExuAoRylhOacHhNp9aoKa) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:09 | 2023-02-04 | 2023-02-07 |
@@ -143,7 +144,7 @@
 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 | 2022-09-16 |  |
 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 | 2022-09-16 | 2025-03-17 |
 | [Turn Up That Dial](https://open.spotify.com/track/42ef8hFlFvRtMYTEelfiTm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:42 | 2022-09-16 | 2023-02-12 |
-| [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 | 2023-02-11 |  |
+| [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 | 2023-02-11 | 2026-02-06 |
 | [Two 6's Upside Down](https://open.spotify.com/track/0aE2HXcm7eoEGZG5i6rPXK) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:29 | 2023-02-07 | 2024-06-11 |
 | [Two 6's Upside Down](https://open.spotify.com/track/33OFWa8o5rf99TIDEIslQG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Two 6's Upside Down](https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5) | 3:29 | 2022-09-16 | 2022-10-08 |
 | [Two 6's Upside Down](https://open.spotify.com/track/6ZNEDdpGk4ToVof1gtMjNo) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 3:29 | 2022-10-09 | 2023-02-08 |

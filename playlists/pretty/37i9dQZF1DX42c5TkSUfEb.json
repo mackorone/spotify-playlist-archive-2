@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 899207,
+  "num_followers": 899208,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 281757,
-      "name": "Mon idole",
-      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
         "name": "Bloody Eyes",
         "url": "https://open.spotify.com/album/7x7YMbEy3FNKzoRPMa5hIU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 159729,
       "name": "Bloody Eyes",
       "url": "https://open.spotify.com/track/4YUBcBSUIXfCNNFAaWQcyG"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 281757,
+      "name": "Mon idole",
+      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
+        "name": "she want",
+        "url": "https://open.spotify.com/album/3X6x3cb9s7I2cOLjt3PZv0"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "she want",
+      "url": "https://open.spotify.com/track/2Mn7LQrByS1iGQmz2MLefu"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
         "name": "Gordon in the Willows",
         "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 239895,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
-        "name": "she want",
-        "url": "https://open.spotify.com/album/3X6x3cb9s7I2cOLjt3PZv0"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "she want",
-      "url": "https://open.spotify.com/track/2Mn7LQrByS1iGQmz2MLefu"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "forever and always",
-        "url": "https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 148666,
-      "name": "chemicals",
-      "url": "https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
+        "name": "forever and always",
+        "url": "https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 148666,
+      "name": "chemicals",
+      "url": "https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4sDhnxgHsTp65nUWTlEjBl"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+      "duration_ms": 182254,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1279,22 +1295,18 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "Own It (feat. Jordana)",
-        "url": "https://open.spotify.com/album/3ngZ4bZnG9jkQGZJ8JSmO4"
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
       "artists": [
         {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
         }
       ],
-      "duration_ms": 204898,
-      "name": "Own It (feat. Jordana)",
-      "url": "https://open.spotify.com/track/6ITAd4qAw09I14eSFbbQdV"
+      "duration_ms": 192597,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1315,18 +1327,22 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
+        "name": "Own It (feat. Jordana)",
+        "url": "https://open.spotify.com/album/3ngZ4bZnG9jkQGZJ8JSmO4"
       },
       "artists": [
         {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 192597,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
+      "duration_ms": 204898,
+      "name": "Own It (feat. Jordana)",
+      "url": "https://open.spotify.com/track/6ITAd4qAw09I14eSFbbQdV"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1359,22 +1375,6 @@
       "duration_ms": 268560,
       "name": "Sugar Clouds",
       "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 182254,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "Lisbon",
-        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 150656,
-      "name": "Lisbon",
-      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
+        "name": "Lisbon",
+        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 150656,
+      "name": "Lisbon",
+      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
     },
     {
       "added_at": "2026-01-30 15:41:04",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-30 15:41:04",
       "album": {
-        "name": "Please Slow Down (Rubber Bridge Version)",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down - Rubber Bridge Version",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
-    },
-    {
-      "added_at": "2026-01-30 15:41:04",
-      "album": {
         "name": "failles",
         "url": "https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 148834,
       "name": "mieux",
       "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
+    },
+    {
+      "added_at": "2026-01-30 15:41:04",
+      "album": {
+        "name": "Please Slow Down (Rubber Bridge Version)",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down - Rubber Bridge Version",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2026-01-30 15:41:04",

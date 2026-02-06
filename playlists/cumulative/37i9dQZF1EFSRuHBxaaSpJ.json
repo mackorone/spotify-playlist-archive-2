@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "NOV",
+        "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Toxic girl",
+      "url": "https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg"
+    },
+    {
+      "album": {
         "name": "Cullinan : La Gel\u00e9e Royale",
         "url": "https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt"
       },

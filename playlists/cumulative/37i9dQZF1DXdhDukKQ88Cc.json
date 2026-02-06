@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 ",
+  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Fouli",
   "name": "rap dk",
   "tracks": [
     {
@@ -3172,6 +3172,24 @@
       "duration_ms": 166352,
       "name": "FEAR NOBODY",
       "url": "https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu"
+    },
+    {
+      "album": {
+        "name": "Februar Freestyle",
+        "url": "https://open.spotify.com/album/2CTnTJrK4jE2G76tMjyalO"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83812,
+      "name": "Februar Freestyle",
+      "url": "https://open.spotify.com/track/0DyQV86Wwq9SlxtELN02xf"
     },
     {
       "album": {
@@ -9134,6 +9152,32 @@
       "duration_ms": 118240,
       "name": "VAN CLEEF",
       "url": "https://open.spotify.com/track/4I74Dshx4uU5g0GQ8FZxxe"
+    },
+    {
+      "album": {
+        "name": "Varm",
+        "url": "https://open.spotify.com/album/5l2oAgLpTdcUd5xKmgYNBW"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        },
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9"
+        },
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174849,
+      "name": "Varm",
+      "url": "https://open.spotify.com/track/4iFrwVS2GzHGAhHr2xafZG"
     },
     {
       "album": {

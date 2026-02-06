@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: Dani Lia",
+  "description": "Deutschpop, der jetzt passiert. Cover: Esther Graf, NESS",
   "name": "POPLAND",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 158852,
       "name": "2:47 min",
       "url": "https://open.spotify.com/track/1v66JUQFM3qex4IPSsNtU9"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "9 Blocks",
+        "url": "https://open.spotify.com/album/2Tyl9jwEgrQxMUg2qyh5Kz"
+      },
+      "artists": [
+        {
+          "name": "LOUA",
+          "url": "https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162359,
+      "name": "9 Blocks",
+      "url": "https://open.spotify.com/track/0jfhimkhcFx1lbwguUSFHV"
+    },
+    {
+      "album": {
         "name": "Adieu",
         "url": "https://open.spotify.com/album/2kAvTA4eyLVM8e3w38GPqd"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166666,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/5GCadjq15wCiYe5l8CAUfL"
@@ -294,10 +312,28 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 172346,
       "name": "Alles in Flammen",
       "url": "https://open.spotify.com/track/04nHyx9FyhDs0RDSOrp532"
+    },
+    {
+      "album": {
+        "name": "Alles ist vergessen",
+        "url": "https://open.spotify.com/album/5fZ5J1RpljU7RsyuzGae9r"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111724,
+      "name": "Alles ist vergessen",
+      "url": "https://open.spotify.com/track/3aVdrIU7BsuIljhV8jzjGS"
     },
     {
       "album": {
@@ -507,6 +543,24 @@
     },
     {
       "album": {
+        "name": "aurelian",
+        "url": "https://open.spotify.com/album/4zHn1HRugSbGNI72BjbXIa"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143489,
+      "name": "aurelian",
+      "url": "https://open.spotify.com/track/0Tma31IJTrFwQfSlz79taX"
+    },
+    {
+      "album": {
         "name": "ausnahmsweise",
         "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
       },
@@ -594,7 +648,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171162,
       "name": "Ballon",
       "url": "https://open.spotify.com/track/4HffmyTN0zjtcESW8A4PvF"
@@ -768,7 +822,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 154000,
       "name": "Danke",
       "url": "https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA"
@@ -804,7 +858,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 138399,
       "name": "dar\u00fcber schlafen",
       "url": "https://open.spotify.com/track/4ukYKO5e1mMKoSUCr7nEO5"
@@ -916,7 +970,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 126410,
       "name": "DAS W\u00c4REN NICHT WIR",
       "url": "https://open.spotify.com/track/2GRWefcLh9dyAjItVBlol9"
@@ -977,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Deine Liebe",
+        "url": "https://open.spotify.com/album/6MqQFB7MUOSOYg86UOFfCT"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "Deine Liebe",
+      "url": "https://open.spotify.com/track/6Rj6N6sYzWjERndS9O0NSB"
+    },
+    {
+      "album": {
         "name": "deine Stadt",
         "url": "https://open.spotify.com/album/719helCLe1AcQKs05Niwu0"
       },
@@ -992,7 +1064,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 149316,
       "name": "deine Stadt",
       "url": "https://open.spotify.com/track/7F2NXcvdnzoOfTqdEwz2OC"
@@ -1104,6 +1176,24 @@
       "duration_ms": 140577,
       "name": "Doktor Doktor",
       "url": "https://open.spotify.com/track/1P2CfJixPtgRQkBEgZl7Jq"
+    },
+    {
+      "album": {
+        "name": "Du bist sch\u00f6n",
+        "url": "https://open.spotify.com/album/5honlx5we2hDEYf31kfrbg"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147067,
+      "name": "Du bist sch\u00f6n",
+      "url": "https://open.spotify.com/track/3CBGQZZSAwLqfRmBPmy8fd"
     },
     {
       "album": {
@@ -1357,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Es tut mir so weh",
+        "url": "https://open.spotify.com/album/1Bj490275ZJHtwt4AdddB8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Aslani",
+          "url": "https://open.spotify.com/artist/2bFfSoUJZ0oACwo0FFM7ll"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135205,
+      "name": "Es tut mir so weh",
+      "url": "https://open.spotify.com/track/4INGbWpmGG6CL6qwF2P6tI"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/10P9sY4n3L1duh6qWByMN5"
       },
@@ -1530,7 +1638,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 158500,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2WP04Evx9wa0wOeQoDYCRR"
@@ -1584,7 +1692,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 172220,
       "name": "f\u00fcr mama",
       "url": "https://open.spotify.com/track/6hOLVMDdxBfEoGk1GuyIF7"
@@ -1664,6 +1772,24 @@
       "duration_ms": 148509,
       "name": "Gl\u00fccklich",
       "url": "https://open.spotify.com/track/1QCtEF7Gq6JwvyQp4sibdM"
+    },
+    {
+      "album": {
+        "name": "GROSSE WORTE",
+        "url": "https://open.spotify.com/album/5DlO8YR0dwLXOI8upesqVY"
+      },
+      "artists": [
+        {
+          "name": "KAYEF",
+          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127005,
+      "name": "GROSSE WORTE",
+      "url": "https://open.spotify.com/track/5MluGZSQSkblJesI4CnqDE"
     },
     {
       "album": {
@@ -1956,7 +2082,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 138688,
       "name": "Herzerw\u00e4rmend",
       "url": "https://open.spotify.com/track/05GvJcVS8Opytkl0jhu3uu"
@@ -1978,6 +2104,24 @@
       "duration_ms": 168396,
       "name": "heute nacht sind die h\u00fchner wild",
       "url": "https://open.spotify.com/track/41dXUCPkQVcRppmgCbqE15"
+    },
+    {
+      "album": {
+        "name": "H\u00e4tte nie gedacht",
+        "url": "https://open.spotify.com/album/3auZbOiuGozCgxz1NM81M0"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "H\u00e4tte nie gedacht",
+      "url": "https://open.spotify.com/track/5LBYCl7c7B8T57zXDlrYnx"
     },
     {
       "album": {
@@ -2161,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Immer wenn du nicht da bist",
+        "url": "https://open.spotify.com/album/2AbIRVHVP803Ojz32sswBM"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163616,
+      "name": "Immer wenn du nicht da bist",
+      "url": "https://open.spotify.com/track/4F81sXilDRuPmNOoOOFIiO"
+    },
+    {
+      "album": {
         "name": "INNENLEBEN",
         "url": "https://open.spotify.com/album/1lusCOu3YELL3WLCyq17oM"
       },
@@ -2212,7 +2374,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181084,
       "name": "Je t'aime",
       "url": "https://open.spotify.com/track/6YOCx2VG0PFBsZEhaS1jjY"
@@ -2278,6 +2440,28 @@
       "duration_ms": 162201,
       "name": "juli",
       "url": "https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D"
+    },
+    {
+      "album": {
+        "name": "KALTE HAUT",
+        "url": "https://open.spotify.com/album/3DdizX3exRtgw8iQWtqS2S"
+      },
+      "artists": [
+        {
+          "name": "HE/RO",
+          "url": "https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6"
+        },
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "KALTE HAUT",
+      "url": "https://open.spotify.com/track/3kQVOpI5ilACyGlzx4ch1w"
     },
     {
       "album": {
@@ -2422,7 +2606,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 187371,
       "name": "Kennst du das (2025)",
       "url": "https://open.spotify.com/track/7n6TpWMvvf43gZhXyXDNpq"
@@ -2527,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "kommst du runter bin hier",
+        "url": "https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161938,
+      "name": "kommst du runter bin hier",
+      "url": "https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG"
+    },
+    {
+      "album": {
         "name": "Kontraste",
         "url": "https://open.spotify.com/album/3Gt8DxMev8l8M3Z6Tp4sLc"
       },
@@ -2538,7 +2744,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164516,
       "name": "Kontraste",
       "url": "https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F"
@@ -3120,7 +3326,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 173216,
       "name": "Neuanfang (happy new year)",
       "url": "https://open.spotify.com/track/49nZtnGWJjZFXSbGkVRoUF"
@@ -3200,7 +3406,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181056,
       "name": "Nie gleich",
       "url": "https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR"
@@ -3261,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "nirgendwen",
+        "url": "https://open.spotify.com/album/08K20mD88tcaRkeOV6SiCa"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        },
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169909,
+      "name": "nirgendwen",
+      "url": "https://open.spotify.com/track/3gqSqMYKDyRplVYUjYLVYr"
+    },
+    {
+      "album": {
         "name": "NIRWANA",
         "url": "https://open.spotify.com/album/3aDMruaJit8uASJSo1aS6X"
       },
@@ -3276,6 +3504,24 @@
       "duration_ms": 144462,
       "name": "NIRWANA",
       "url": "https://open.spotify.com/track/6clGRPJr49RZHyUrol7Vy4"
+    },
+    {
+      "album": {
+        "name": "Nokia",
+        "url": "https://open.spotify.com/album/4RsvpOMmsoydZCknHCdpDS"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209416,
+      "name": "Nokia",
+      "url": "https://open.spotify.com/track/2ukYEXUL7LGPPb8T6tEqgF"
     },
     {
       "album": {
@@ -3420,7 +3666,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189110,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
@@ -3805,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "sp\u00fcr dich nicht",
+        "url": "https://open.spotify.com/album/3sK7SB5RiSbBnqnYwIggeE"
+      },
+      "artists": [
+        {
+          "name": "PAUL FALC",
+          "url": "https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138620,
+      "name": "sp\u00fcr dich nicht",
+      "url": "https://open.spotify.com/track/6ogOeP39FvJXi92FtcTAAu"
+    },
+    {
+      "album": {
         "name": "Sp\u00fcrst du das auch",
         "url": "https://open.spotify.com/album/4r91wKpYcCe9Vu9VV25jGE"
       },
@@ -3838,7 +4102,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 154060,
       "name": "stabiler verlierer",
       "url": "https://open.spotify.com/track/4uNiQsNvXabVZ0f1JvaOrK"
@@ -3935,6 +4199,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh"
       },
@@ -4011,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Unendliche Geschichte",
+        "url": "https://open.spotify.com/album/75Fu1FLNKZ79FphapJ4vFj"
+      },
+      "artists": [
+        {
+          "name": "helena Delphi ",
+          "url": "https://open.spotify.com/artist/1Bl1zS084yAe6JnH3SYzVy"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Unendliche Geschichte",
+      "url": "https://open.spotify.com/track/2jOUL7YuwqZFZ6LV7SVBtI"
+    },
+    {
+      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/1A1V9e9mHLSPyCYpocPVJw"
       },
@@ -4062,6 +4380,24 @@
       "duration_ms": 209685,
       "name": "Unter meinem Kissen",
       "url": "https://open.spotify.com/track/0sgINGKcJpc31YEXh32430"
+    },
+    {
+      "album": {
+        "name": "Ups & Downs (Teil 4.5)",
+        "url": "https://open.spotify.com/album/1qpOOBLaxinREGihxqFFvZ"
+      },
+      "artists": [
+        {
+          "name": "Carlo5",
+          "url": "https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133201,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/5wVQkK3wSa7ExEYAdfXAKg"
     },
     {
       "album": {
@@ -4199,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145587,
+      "name": "V\u00f6llig normal",
+      "url": "https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS"
+    },
+    {
+      "album": {
         "name": "Wahrheit oder Pflicht",
         "url": "https://open.spotify.com/album/2L8feE6pLdkErUCdmhHnX5"
       },
@@ -4210,7 +4564,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 162994,
       "name": "Wahrheit oder Pflicht",
       "url": "https://open.spotify.com/track/1j8QY4LZEjrs2B9xhZ772d"

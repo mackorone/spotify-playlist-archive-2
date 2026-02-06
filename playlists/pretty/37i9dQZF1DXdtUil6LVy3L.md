@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,714 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,705 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 77 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
 | 78 | [Christmas Love](https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Love](https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua) | 3:13 |
 | 79 | [Ring in the Season](https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Ring in the Season](https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB) | 3:32 |
-| 80 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |
+| 80 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 
 Snapshot ID: `AAAAACoy51VSkRN6nY37HBP7e7qY0lxU`

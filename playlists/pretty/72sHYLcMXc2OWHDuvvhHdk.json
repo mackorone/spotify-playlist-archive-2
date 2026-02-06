@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJdRlBI/hj57bH5xOb/1fPMYmMDnJi",
+  "snapshot_id": "AAAJdw53IHpB3K+acoEK7Ak+kUnc895I",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -37707,6 +37707,38 @@
       "duration_ms": 156000,
       "name": "DELUSIONAL",
       "url": "https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v"
+    },
+    {
+      "added_at": "2026-02-05 19:56:44",
+      "album": {
+        "name": "Don't Care for Carolina",
+        "url": "https://open.spotify.com/album/6DsdvPQqxNxbNPdUIS3KFh"
+      },
+      "artists": [
+        {
+          "name": "Elfrida",
+          "url": "https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Don't Care for Carolina",
+      "url": "https://open.spotify.com/track/683NrysqQaIRzIfak8fcFZ"
+    },
+    {
+      "added_at": "2026-02-05 19:58:35",
+      "album": {
+        "name": "Volverte A Ver",
+        "url": "https://open.spotify.com/album/3uigmjEJPtau8rlzhMa3Bv"
+      },
+      "artists": [
+        {
+          "name": "Odalce",
+          "url": "https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/6wJ7Y3zs6zW1dirjIq0nMn"
     }
   ],
   "unique_name": "Cruise Music",

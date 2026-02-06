@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,837 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,842 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 50 | [Madrugada y Soledad](https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if) | [Marisa Vázquez](https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR) | [Esa Mujer: Buenos Aires](https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF) | 2:35 |
 | 51 | [India de Tango](https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9) | [Patricia Malanca](https://open.spotify.com/artist/7ivb9TxkVrd4D5ssh1EsXJ), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Rafael Varela](https://open.spotify.com/artist/4U5EaR8hJD8J5Ov5L78KKa) | [Plebeyas \(Ellas, Yo y Superellas\)](https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI) | 2:12 |
 | 52 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 |
-| 53 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
-| 54 | [Mi Buenos Aires Querido](https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [La Grela Quinteto de Tango](https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53) | [Mi Buenos Aires Querido](https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n) | 3:43 |
+| 53 | [Mi Buenos Aires Querido](https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [La Grela Quinteto de Tango](https://open.spotify.com/artist/3P7aMfgfzuP6ltbwWDTj53) | [Mi Buenos Aires Querido](https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n) | 3:43 |
+| 54 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
 | 55 | [Morocha Triste](https://open.spotify.com/track/7CIcWoxE0p2uaWyDGdT428) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 2:12 |
 
 Snapshot ID: `AAAAAEhnwGEFxVoyyCZISHGMbOriAWHV`

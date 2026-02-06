@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House Music\. Period.
 
-[Houseium's Bassline Therapy](https://open.spotify.com/user/jayke0108) - 10,777 likes - 100 songs - 5 hr 20 min
+[Houseium's Bassline Therapy](https://open.spotify.com/user/jayke0108) - 10,776 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

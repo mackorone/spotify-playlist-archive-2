@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "La Micaela",
+        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "La Micaela",
+      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
+    },
+    {
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
       },
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"

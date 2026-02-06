@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3616229,
+  "num_followers": 3616086,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
       "added_at": "2025-03-25 15:28:45",
       "album": {
         "name": "Come Around and Love Me",
@@ -459,6 +443,22 @@
       "duration_ms": 189706,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fabulous Miracles",
         "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Good To You",
-        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
-      },
-      "artists": [
-        {
-          "name": "Jonny P",
-          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
-        }
-      ],
-      "duration_ms": 158855,
-      "name": "Good To You",
-      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Wish Someone Would Care",
         "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 172666,
       "name": "Time Is On My Side",
       "url": "https://open.spotify.com/track/6IpxLzChgCbFSJwso2Q84D"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Good To You",
+        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
+      },
+      "artists": [
+        {
+          "name": "Jonny P",
+          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
+        }
+      ],
+      "duration_ms": 158855,
+      "name": "Good To You",
+      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1665,6 +1665,22 @@
       "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
+      "added_at": "2025-07-11 04:00:07",
+      "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "BIG MONEY",
+      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
+    },
+    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Tina!",
@@ -1695,22 +1711,6 @@
       "duration_ms": 129613,
       "name": "Mama Said (Rerecorded)",
       "url": "https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB"
-    },
-    {
-      "added_at": "2025-07-11 04:00:07",
-      "album": {
-        "name": "BIG MONEY",
-        "url": "https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 154174,
-      "name": "BIG MONEY",
-      "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2197,22 +2197,6 @@
       "url": "https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH"
     },
     {
-      "added_at": "2024-02-29 20:11:01",
-      "album": {
-        "name": "Hello, I'm Britti.",
-        "url": "https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a"
-      },
-      "artists": [
-        {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
-    },
-    {
       "added_at": "2024-04-19 04:01:00",
       "album": {
         "name": "Luther",
@@ -2231,6 +2215,22 @@
       "duration_ms": 204293,
       "name": "Everybody Rejoice - From the Tony Award Winning Musical, \"The Wiz\"",
       "url": "https://open.spotify.com/track/5uopS4wpKT3UYYWeNFF6vG"
+    },
+    {
+      "added_at": "2024-02-29 20:11:01",
+      "album": {
+        "name": "Hello, I'm Britti.",
+        "url": "https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
     },
     {
       "added_at": "2023-03-28 15:59:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Smooth Sailin'",
-      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Smooth Sailin'",
+      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2449,20 +2449,20 @@
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
+      "added_at": "2023-03-28 15:59:00",
       "album": {
-        "name": "Rhino Hi-Five: Wilson Pickett",
-        "url": "https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd"
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1"
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/33Z6FvhXVw8HJ8ulGQ6Kj2"
     }
   ],
   "unique_name": "Feelin' Good",

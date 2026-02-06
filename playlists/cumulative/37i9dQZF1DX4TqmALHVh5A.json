@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : KALIKA & Tess Kirby",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Marlon Magn\u00e9e",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -3201,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Je voulais te dire que je t'attends",
+        "url": "https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca"
+      },
+      "artists": [
+        {
+          "name": "Flora Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "Je voulais te dire que je t'attends",
+      "url": "https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05"
+    },
+    {
+      "album": {
         "name": "Johnny Cash",
         "url": "https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 216216,
       "name": "LA PROPH\u00c9TIE",
       "url": "https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3"

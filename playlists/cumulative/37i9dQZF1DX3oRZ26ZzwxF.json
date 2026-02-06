@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : TRK.",
+  "description": "Le meilleur du rap africain francophone. Photo : Black K",
   "name": "Afro Rap",
   "tracks": [
+    {
+      "album": {
+        "name": "$ign",
+        "url": "https://open.spotify.com/album/4f2k1aP10IBXdSHsTy6ADW"
+      },
+      "artists": [
+        {
+          "name": "Andy S",
+          "url": "https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "$ign",
+      "url": "https://open.spotify.com/track/39sT4m32Z3aowyOZ6EtMXp"
+    },
     {
       "album": {
         "name": "13500 Volts",
@@ -932,7 +950,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 162701,
       "name": "Catimini",
       "url": "https://open.spotify.com/track/6ZMUrUT5e2aQabvEL2iGY0"
@@ -1066,6 +1084,24 @@
       "duration_ms": 133322,
       "name": "COLO",
       "url": "https://open.spotify.com/track/6dAAJi5OLOg8Nz4WcMWmO4"
+    },
+    {
+      "album": {
+        "name": "SORRY FOR THE WAIT",
+        "url": "https://open.spotify.com/album/1fWsAhemKEksNqC9Wg56lg"
+      },
+      "artists": [
+        {
+          "name": "RBIB",
+          "url": "https://open.spotify.com/artist/4igLe1UmkagupsFjyuyFL1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145135,
+      "name": "COMBIEN DE FOIS ?",
+      "url": "https://open.spotify.com/track/5iI15dKa3nHKOb1zg8FaZI"
     },
     {
       "album": {
@@ -3430,7 +3466,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 160551,
       "name": "M\u00e9lang\u00e9 (feat. DAVINHOR)",
       "url": "https://open.spotify.com/track/0NocF4Xg0qUClKzJaXEu9X"
@@ -5128,7 +5164,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 136956,
       "name": "Ye Wanda",
       "url": "https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW"

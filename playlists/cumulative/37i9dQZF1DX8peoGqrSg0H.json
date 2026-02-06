@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189624,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/0tsE3ZC0FbUkEkWNmHQBpi"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 238000,
       "name": "SWIPE UP",
       "url": "https://open.spotify.com/track/3PdlXtVedjuSJSKVU0IIEi"
@@ -5709,6 +5709,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19 (Friend Zone) [feat. NANON]",
+        "url": "https://open.spotify.com/album/016MKzSiXkyOxK2O2stc3o"
+      },
+      "artists": [
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        },
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19 (Friend Zone) [feat. NANON]",
+      "url": "https://open.spotify.com/track/6JuvNtX6JxhtXxZpXkiUDY"
+    },
+    {
+      "album": {
         "name": "MONO / SPECTRUM",
         "url": "https://open.spotify.com/album/2qOC78skUSP5Z8SmKiLjhM"
       },
@@ -6135,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e49\u0e32\u0e07\u0e04\u0e32 (Doubt) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Dare You To Death \u0e44\u0e02\u0e04\u0e14\u0e35\u0e40\u0e1b\u0e47\u0e19 \u0e40\u0e2b\u0e47\u0e19\u0e04\u0e14\u0e35\u0e15\u0e32\u0e22\"]",
+        "url": "https://open.spotify.com/album/0JoJBqoJwgxXOMYmqTIhw1"
+      },
+      "artists": [
+        {
+          "name": "Joong Archen",
+          "url": "https://open.spotify.com/artist/4qqSbta0ZgVIBdlBbwQqxk"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212991,
+      "name": "\u0e04\u0e49\u0e32\u0e07\u0e04\u0e32 (Doubt) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Dare You To Death \u0e44\u0e02\u0e04\u0e14\u0e35\u0e40\u0e1b\u0e47\u0e19 \u0e40\u0e2b\u0e47\u0e19\u0e04\u0e14\u0e35\u0e15\u0e32\u0e22\"",
+      "url": "https://open.spotify.com/track/78gIW7yTjpAHfPN3YbIC2g"
+    },
+    {
+      "album": {
         "name": "\u0e07\u0e2d\u0e19\u0e15\u0e25\u0e2d\u0e14 (Tell Me What You Want)",
         "url": "https://open.spotify.com/album/1vUv6QoW9OEGv70WF6Rfru"
       },
@@ -6348,7 +6388,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 249230,
       "name": "\u0e08\u0e33\u0e19\u0e19",
       "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
@@ -9700,6 +9740,24 @@
       "duration_ms": 215675,
       "name": "\u0e23\u0e2d\u0e40\u0e01\u0e48\u0e07 - Introvert",
       "url": "https://open.spotify.com/track/60lOiEJVxbn4Crv8344i1W"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
+      },
+      "artists": [
+        {
+          "name": "La Moon",
+          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
     },
     {
       "album": {
@@ -14570,7 +14628,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 231836,
       "name": "\u0e42\u0e04\u0e49\u0e14\u0e25\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/7yPsDvID4lBpGfm2AHliHy"
@@ -15420,6 +15478,24 @@
       "duration_ms": 221686,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23\u0e21\u0e31\u0e49\u0e07 - Original Soundtrack From \"\u0e27\u0e38\u0e48\u0e19\u0e23\u0e31\u0e01\u0e19\u0e31\u0e01\u0e08\u0e34\u0e49\u0e19 Why You Y Me?",
       "url": "https://open.spotify.com/track/1pxrSbfXB51N5WRoSHZAX5"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 ? (PLAY WITH ME)",
+        "url": "https://open.spotify.com/album/1q7UxcOdCwHh0Cjn96DuBL"
+      },
+      "artists": [
+        {
+          "name": "AuAu",
+          "url": "https://open.spotify.com/artist/55Oq4jpvGbHxHQ2jrpFSZs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206737,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 ? (PLAY WITH ME)",
+      "url": "https://open.spotify.com/track/0tXadPfyJ8LdiGGfJV2ggr"
     },
     {
       "album": {

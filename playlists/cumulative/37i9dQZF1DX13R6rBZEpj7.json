@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Feel Your Soul",
+        "url": "https://open.spotify.com/album/1O3UpGEXfynX2KNPs7NSbZ"
+      },
+      "artists": [
+        {
+          "name": "Bailey P",
+          "url": "https://open.spotify.com/artist/7MJpKixo6xeRETtQC1KFHd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195815,
+      "name": "Feel Your Soul",
+      "url": "https://open.spotify.com/track/5ZlQPc8yJgt3wba3ZM5q5B"
+    },
+    {
+      "album": {
         "name": "Fire & Brimstones Remix",
         "url": "https://open.spotify.com/album/4xnuK00nlvQT6X8ibv5Bsb"
       },
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166285,
       "name": "Round eyaa",
       "url": "https://open.spotify.com/track/41rY2m91ihx5J5juMTJ7Iz"

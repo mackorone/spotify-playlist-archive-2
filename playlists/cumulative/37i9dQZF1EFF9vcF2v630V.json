@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "when I'm with you",
+        "url": "https://open.spotify.com/album/0r0HT9Fr1kfAu3D5pYPB1p"
+      },
+      "artists": [
+        {
+          "name": "Malou Lovis",
+          "url": "https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "when I'm with you",
+      "url": "https://open.spotify.com/track/2yTH2vxuKDTYV9mXDVaOYV"
+    },
+    {
+      "album": {
         "name": "Where Do We Go from Here",
         "url": "https://open.spotify.com/album/6D8nN0cdKR6Ds9tyKHdNVw"
       },

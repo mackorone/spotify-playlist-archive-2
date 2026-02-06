@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 449350,
+  "num_followers": 449404,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "George Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
-    },
-    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
@@ -531,6 +515,22 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "George Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 230048,
-      "name": "Saranga Dariya",
-      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
         "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221000,
       "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 230048,
+      "name": "Saranga Dariya",
+      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -757,30 +757,6 @@
       "url": "https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Chitralahari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sudharshan Ashok",
-          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
-        },
-        {
-          "name": "Srimani",
-          "url": "https://open.spotify.com/artist/0EyiqvK7GFXBk0xcoLb6si"
-        }
-      ],
-      "duration_ms": 217875,
-      "name": "Prema Vennela",
-      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -807,6 +783,30 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Chitralahari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sudharshan Ashok",
+          "url": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
+        },
+        {
+          "name": "Srimani",
+          "url": "https://open.spotify.com/artist/0EyiqvK7GFXBk0xcoLb6si"
+        }
+      ],
+      "duration_ms": 217875,
+      "name": "Prema Vennela",
+      "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -881,30 +881,6 @@
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
-      "added_at": "2022-11-28 04:35:07",
-      "album": {
-        "name": "Boss Party (From \"Waltair Veerayya\")",
-        "url": "https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        }
-      ],
-      "duration_ms": 200208,
-      "name": "Boss Party (From \"Waltair Veerayya\")",
-      "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Acharya",
@@ -927,6 +903,30 @@
       "duration_ms": 247660,
       "name": "Laahe Laahe",
       "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
+    },
+    {
+      "added_at": "2022-11-28 04:35:07",
+      "album": {
+        "name": "Boss Party (From \"Waltair Veerayya\")",
+        "url": "https://open.spotify.com/album/0JB0Brs2tTPzy9Su8TKLGl"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        }
+      ],
+      "duration_ms": 200208,
+      "name": "Boss Party (From \"Waltair Veerayya\")",
+      "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
     },
     {
       "added_at": "2025-12-16 12:04:49",
@@ -1569,20 +1569,28 @@
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
+      "added_at": "2023-12-12 05:49:47",
       "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+        "name": "Veera Simha Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/75cyVUKLaK7KZKVrLYBjbM"
       },
       "artists": [
         {
-          "name": "Padmalatha Vishnu Priya",
-          "url": "https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Snigdha Sharma",
+          "url": "https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl"
         }
       ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
+      "duration_ms": 254094,
+      "name": "Suguna Sundari",
+      "url": "https://open.spotify.com/track/1E0uPi2rjMgcZ3ayODv6DX"
     },
     {
       "added_at": "2023-01-11 20:52:12",

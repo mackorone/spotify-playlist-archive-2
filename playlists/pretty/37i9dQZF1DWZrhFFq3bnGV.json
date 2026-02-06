@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jundy Salut",
-  "num_followers": 113951,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
+  "num_followers": 113957,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOwUOvBeWz81emcx1HE80qnIfUQk",
+  "snapshot_id": "AAAAALfozBz1d6guxCoJHUXfNfhhin9B",
   "tracks": [
+    {
+      "added_at": "2026-02-05 19:00:06",
+      "album": {
+        "name": "Syakara",
+        "url": "https://open.spotify.com/album/66pZEXYVoEP6WTFvFXKOHs"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "duration_ms": 142093,
+      "name": "Syakara",
+      "url": "https://open.spotify.com/track/14IfSGKq7UeGRg7Ib10vfG"
+    },
     {
       "added_at": "2026-01-30 07:00:25",
       "album": {
@@ -1199,22 +1219,6 @@
       "duration_ms": 195242,
       "name": "The Thought of Loving You",
       "url": "https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX"
-      },
-      "artists": [
-        {
-          "name": "ikkubaru",
-          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Catch The Love",
-      "url": "https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn"
     },
     {
       "added_at": "2025-06-26 17:47:30",

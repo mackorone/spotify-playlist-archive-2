@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Cover: JJerome87
+> The best indie music of the moment\. Cover: Noah Kahan
 
-816 songs - 2 day 0 hr 30 min
+820 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 | 2024-11-08 | 2025-02-14 |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-08-30 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-05-02 |
+| [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 | 2026-02-06 |  |
 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 | 2024-10-07 | 2024-12-06 |
 | [Bitter Everyday](https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bitter Everyday](https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs) | 3:21 | 2025-08-21 | 2025-09-19 |
 | [Blackout Drunk](https://open.spotify.com/track/0PyN8JswfA5otVomw09V5Q) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:28 | 2024-09-13 | 2025-01-17 |
@@ -354,6 +355,7 @@
 | [i love you, you've got this](https://open.spotify.com/track/1U1oryFDXmpSodAN3DgZof) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Finding Love in Wilmer pt.1](https://open.spotify.com/album/2ol6LjcZLt8Cv9IkjM10oq) | 2:52 | 2025-05-29 | 2025-08-01 |
 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 | 2025-07-03 | 2025-09-03 |
 | [I'll Be Gone](https://open.spotify.com/track/2GAZrSRYZQKyJM0VOBpS3U) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:28 | 2025-03-07 | 2025-05-16 |
+| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 |  |
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2024-10-04 |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-11-01 | 2025-02-21 |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-07 | 2025-04-18 |
@@ -465,6 +467,7 @@
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 | 2024-11-01 |
 | [midori](https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [midori](https://open.spotify.com/album/3CJbDB2BVuj3sVZ8o2kwk3) | 4:14 | 2025-09-18 | 2026-01-30 |
 | [Midwest Kid](https://open.spotify.com/track/2FdBPmiPhymeikyvrhD8gJ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Midwest Kid](https://open.spotify.com/album/17PKl0hIeOg9wv87RkvP8T) | 3:45 | 2025-01-17 | 2025-02-28 |
+| [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 | 2026-02-06 |  |
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-04-11 |
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-09-26 | 2025-01-17 |
 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 | 2024-06-27 | 2024-07-12 |
@@ -572,6 +575,7 @@
 | [retrograde](https://open.spotify.com/track/1R4EhWbWc44SYWyVzRD0yq) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Permanent Retrograde](https://open.spotify.com/album/1zh2lev0hl9C7YrmxFo3Bn) | 2:24 | 2025-11-21 |  |
 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 | 2024-09-05 | 2024-11-01 |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-04-04 |
+| [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 | 2026-02-06 |  |
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-17 | 2025-02-28 |
 | [Roobosh](https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Roobosh](https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5) | 3:20 | 2025-07-10 | 2025-09-19 |
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-09-18 | 2025-10-17 |

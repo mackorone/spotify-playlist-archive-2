@@ -7769,6 +7769,24 @@
     },
     {
       "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Work Like That",
+      "url": "https://open.spotify.com/track/4RtFL3XU21zaFg4o1O3Wr8"
+    },
+    {
+      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },

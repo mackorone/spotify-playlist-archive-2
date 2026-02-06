@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10395,
+  "num_followers": 10398,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABv1iObsyMEClx5L4YJOMyu",
+  "snapshot_id": "aYKMAAAAAAC7kVggDCDLMPqLDDMDMkLN",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
-        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
       "artists": [
         {
@@ -380,17 +380,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
         },
         {
-          "name": "Nadia Vasileva",
-          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
         }
       ],
-      "duration_ms": 509994,
-      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
-      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
+      "duration_ms": 688413,
+      "name": "Fratres",
+      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
+        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
       },
       "artists": [
         {
@@ -424,17 +424,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
         },
         {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+          "name": "Nadia Vasileva",
+          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
         }
       ],
-      "duration_ms": 688413,
-      "name": "Fratres",
-      "url": "https://open.spotify.com/track/7HghA8IIzsVsoF16SNSmbn"
+      "duration_ms": 509994,
+      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
+      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
     },
     {
       "added_at": null,
@@ -463,50 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 432626,
-      "name": "Kanon Pokajanen: Ode IV",
-      "url": "https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 43093,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
-      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -531,6 +487,50 @@
       "duration_ms": 350626,
       "name": "Es sang vor langen Jahren",
       "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 43093,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
+      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 432626,
+      "name": "Kanon Pokajanen: Ode IV",
+      "url": "https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA"
     },
     {
       "added_at": null,

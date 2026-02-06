@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96065,
+  "num_followers": 96067,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACEQ+MXYUeElyZKCe+kRcvo",
+  "snapshot_id": "aYKMAAAAAAD2OOC8KNmXdBgzdwBIlmoL",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 242586,
-      "name": "TTD",
-      "url": "https://open.spotify.com/track/32tOBDCwd8bKn0gfOAdsbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204137,
       "name": "ABOUT YOU (with NAV)",
       "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daytona (Remix)",
         "url": "https://open.spotify.com/album/2QLjscrXJ2ZsWL7VM20mjr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 219741,
       "name": "Daytona - Remix",
       "url": "https://open.spotify.com/track/6YRxtTysuvoAvo4aTOmQmv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 242586,
+      "name": "TTD",
+      "url": "https://open.spotify.com/track/32tOBDCwd8bKn0gfOAdsbx"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 164937,
       "name": "Interstellar (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man (2015)",
+        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 259472,
+      "name": "The Man (2015)",
+      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6AM Thoughts",
         "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 200933,
       "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
       "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man (2015)",
-        "url": "https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 259472,
-      "name": "The Man (2015)",
-      "url": "https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 432643,
+  "num_followers": 432673,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Aperetif",
+        "url": "https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "duration_ms": 153378,
+      "name": "Aperetif",
+      "url": "https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Noct\u00e9",
         "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 141818,
       "name": "Noct\u00e9",
       "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Just Like the Movies",
-        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 127497,
-      "name": "Just Like the Movies",
-      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Aperetif",
-        "url": "https://open.spotify.com/album/441Vp8czTgLjVLFPPZxHxP"
+        "name": "Just Like the Movies",
+        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
       },
       "artists": [
         {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
         }
       ],
-      "duration_ms": 153378,
-      "name": "Aperetif",
-      "url": "https://open.spotify.com/track/0gTbCfoGn1ZHru7ZfBk0x3"
+      "duration_ms": 127497,
+      "name": "Just Like the Movies",
+      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Slowly \u6162\u6162\u5730",
-        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 129828,
-      "name": "Slowly \u6162\u6162\u5730",
-      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Slowly \u6162\u6162\u5730",
+        "url": "https://open.spotify.com/album/5gQPws4thKwNUF73TcUGIx"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 129828,
+      "name": "Slowly \u6162\u6162\u5730",
+      "url": "https://open.spotify.com/track/4qly3FfGri8B6IwAFOfO9T"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Desde el alma",
-        "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
-      },
-      "artists": [
-        {
-          "name": "Justin Dell",
-          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Desde el alma",
-      "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Sogni di Positano",
         "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207111,
       "name": "Sogni di Positano",
       "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Desde el alma",
+        "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
+      },
+      "artists": [
+        {
+          "name": "Justin Dell",
+          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Desde el alma",
+      "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Campania",
-        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
-      },
-      "artists": [
-        {
-          "name": "Gilded Reverie",
-          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
-        }
-      ],
-      "duration_ms": 141014,
-      "name": "Campania",
-      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -1083,34 +1067,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "campfire",
-        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
+        "name": "Campania",
+        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
       },
       "artists": [
         {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
         }
       ],
-      "duration_ms": 186701,
-      "name": "campfire",
-      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Ing\u00e9nue",
-        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 147639,
-      "name": "Ing\u00e9nue",
-      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+      "duration_ms": 141014,
+      "name": "Campania",
+      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Ing\u00e9nue",
+        "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
+      },
+      "artists": [
+        {
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+        }
+      ],
+      "duration_ms": 147639,
+      "name": "Ing\u00e9nue",
+      "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "Making peace",
         "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 143034,
       "name": "Making peace",
       "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "campfire",
+        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 186701,
+      "name": "campfire",
+      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Rowan",
-        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
-      },
-      "artists": [
-        {
-          "name": "Ben Moldau",
-          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Rowan",
-      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Bird of Passage",
         "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
+        "name": "Rowan",
+        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rowan",
+      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
         "name": "The Seventh Wave",
         "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 128088,
       "name": "The Seventh Wave",
       "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "fallen leaves",
+        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
+      },
+      "artists": [
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "fallen leaves",
+      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "fallen leaves",
-        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
-      },
-      "artists": [
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "fallen leaves",
-      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "My Solace My Home",
         "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 146125,
       "name": "My Solace My Home",
       "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
+      },
+      "artists": [
+        {
+          "name": "Ambrosiae",
+          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
+        }
+      ],
+      "duration_ms": 157347,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
-      },
-      "artists": [
-        {
-          "name": "Ambrosiae",
-          "url": "https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm"
-        }
-      ],
-      "duration_ms": 157347,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Little Boy",
         "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Simple Beauty",
-        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
-      },
-      "artists": [
-        {
-          "name": "Jon Hailey",
-          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
-        }
-      ],
-      "duration_ms": 168675,
-      "name": "Simple Beauty",
-      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Into the Light",
         "url": "https://open.spotify.com/album/103ieLQ54WKXA1dqhtcif5"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 166000,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Simple Beauty",
+        "url": "https://open.spotify.com/album/70rVMRRBihLgLnJimjHGZ3"
+      },
+      "artists": [
+        {
+          "name": "Jon Hailey",
+          "url": "https://open.spotify.com/artist/0Kr5kE9OFqjufb7gRkDBz0"
+        }
+      ],
+      "duration_ms": 168675,
+      "name": "Simple Beauty",
+      "url": "https://open.spotify.com/track/6r5txGtAi1qZDRt93OJrcF"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Murano",
-        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
-      },
-      "artists": [
-        {
-          "name": "Afon A\u00e9ron",
-          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Murano",
-      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "In Case",
         "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 140541,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Murano",
+        "url": "https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte"
+      },
+      "artists": [
+        {
+          "name": "Afon A\u00e9ron",
+          "url": "https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Murano",
+      "url": "https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
-      },
-      "artists": [
-        {
-          "name": "Jon Cossack",
-          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Fleur De Vie",
         "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 176717,
       "name": "Fleur De Vie",
       "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5"
+      },
+      "artists": [
+        {
+          "name": "Jon Cossack",
+          "url": "https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6"
+        }
+      ],
+      "duration_ms": 139952,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Sailing Away",
-        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
-      },
-      "artists": [
-        {
-          "name": "Anthony Jacobus",
-          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
-        }
-      ],
-      "duration_ms": 143879,
-      "name": "Sailing Away",
-      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Stigen",
         "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 174905,
       "name": "Stigen",
       "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Sailing Away",
+        "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "duration_ms": 143879,
+      "name": "Sailing Away",
+      "url": "https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Interim",
-        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
       },
       "artists": [
         {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
         }
       ],
-      "duration_ms": 139124,
-      "name": "Interim",
-      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
+        "name": "Interim",
+        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
       },
       "artists": [
         {
-          "name": "Kyo Himura",
-          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 146073,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
+      "duration_ms": 139124,
+      "name": "Interim",
+      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2007,22 +2007,6 @@
       "duration_ms": 144291,
       "name": "Fireside",
       "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
-      },
-      "artists": [
-        {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
-        }
-      ],
-      "duration_ms": 140592,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2059,18 +2043,34 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
       },
       "artists": [
         {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
         }
       ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Emanate",
+        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "duration_ms": 179281,
+      "name": "Emanate",
+      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Emanate",
-        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
       },
       "artists": [
         {
-          "name": "Aldo Talete",
-          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
         }
       ],
-      "duration_ms": 179281,
-      "name": "Emanate",
-      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "Open Window",
-        "url": "https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE"
-      },
-      "artists": [
-        {
-          "name": "Aurelian Juno",
-          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Open Window",
-      "url": "https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "The Magic of a Piano",
         "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 167844,
       "name": "The Magic of a Piano",
       "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "Open Window",
+        "url": "https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE"
+      },
+      "artists": [
+        {
+          "name": "Aurelian Juno",
+          "url": "https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Open Window",
+      "url": "https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg"
     },
     {
       "added_at": "2026-01-06 14:26:54",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-01-06 14:26:54",
       "album": {
-        "name": "A Walk by the River",
-        "url": "https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 136941,
-      "name": "A Walk by the River",
-      "url": "https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP"
-    },
-    {
-      "added_at": "2026-01-06 14:26:54",
-      "album": {
         "name": "Across the Currents",
         "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 123818,
       "name": "Across the Currents",
       "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
+    },
+    {
+      "added_at": "2026-01-06 14:26:54",
+      "album": {
+        "name": "A Walk by the River",
+        "url": "https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "A Walk by the River",
+      "url": "https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP"
     },
     {
       "added_at": "2026-01-06 14:26:54",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Kid Yugi in cover.",
+  "description": "Punchline, storytelling, rap italiano. Nitro in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 191280,
       "name": "1 ora d'aria, 1 ora d'ansia (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/1Cx82FHMvNMoug9qldg8yb"
+    },
+    {
+      "album": {
+        "name": "10 AD",
+        "url": "https://open.spotify.com/album/5ZCtDKhvCG3KgLZ82qQ5JQ"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209802,
+      "name": "10 AD",
+      "url": "https://open.spotify.com/track/1r6AV5MMjO8xAkBB9g8Cde"
     },
     {
       "album": {
@@ -657,6 +675,32 @@
     },
     {
       "album": {
+        "name": "Amore Disonesto (feat. Jake La Furia & Carl Brave)",
+        "url": "https://open.spotify.com/album/063lnUXq1RZ00T4tBjblA9"
+      },
+      "artists": [
+        {
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157404,
+      "name": "Amore Disonesto (feat. Jake La Furia & Carl Brave)",
+      "url": "https://open.spotify.com/track/12fsMaTcj5LSds7YjtCM4a"
+    },
+    {
+      "album": {
         "name": "Umile (Deluxe)",
         "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
       },
@@ -858,7 +902,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 152850,
       "name": "BEATCOIN",
       "url": "https://open.spotify.com/track/7fdHC4jR6EXhu2wcA3ljk8"
@@ -928,7 +972,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 168113,
       "name": "Biancoenero (feat. Jake La Furia)",
       "url": "https://open.spotify.com/track/6LymhYMtDBfHxjVb9parOd"
@@ -1166,6 +1210,28 @@
       "duration_ms": 171060,
       "name": "Bruce Wayne (feat. thasup)",
       "url": "https://open.spotify.com/track/5mnX1xQIhIMztkuxBchRwr"
+    },
+    {
+      "album": {
+        "name": "AKA Danno",
+        "url": "https://open.spotify.com/album/5OTsBlCszJKIDpvQnNvCkb"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203916,
+      "name": "Brucia Roma",
+      "url": "https://open.spotify.com/track/6MzYCmD1zVihTB7VAb7cLH"
     },
     {
       "album": {
@@ -1776,6 +1842,24 @@
       "duration_ms": 193043,
       "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/7yhNfdwemomRUQjgSOcgw8"
+    },
+    {
+      "album": {
+        "name": "CHE SCHIFO",
+        "url": "https://open.spotify.com/album/1OYzU7cWeE0FF6ZQ6EQrdr"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "CHE SCHIFO",
+      "url": "https://open.spotify.com/track/21irZ1OF5GSDVTWeSs9aQd"
     },
     {
       "album": {
@@ -2829,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Fottuta",
+        "url": "https://open.spotify.com/album/0A1Pd39i7cv9XkDosVI4lp"
+      },
+      "artists": [
+        {
+          "name": "Fandino",
+          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Fottuta",
+      "url": "https://open.spotify.com/track/1YpJkNdtzcQwiH9rC025ok"
+    },
+    {
+      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -3020,7 +3122,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191193,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/5XSDWYzMXzPtwimHufQ1Ai"
@@ -3046,7 +3148,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 114350,
       "name": "Grillz col tartaro (feat. 18K)",
       "url": "https://open.spotify.com/track/4nLLm1ZPxmD9BSvfRUmlhw"
@@ -3238,7 +3340,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178333,
       "name": "I Soldi Parlano (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/4PSDLLgC4A1eZ5Wf340oh0"
@@ -3512,6 +3614,36 @@
       "duration_ms": 162893,
       "name": "INCUBI",
       "url": "https://open.spotify.com/track/04Jt7tpjw9z0OugNDAZxnk"
+    },
+    {
+      "album": {
+        "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
+        "url": "https://open.spotify.com/album/7c0wmhZ4UFreXQnNimQkec"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159605,
+      "name": "INFAMI (feat. Side Baby, Ketama126 & Close Listen)",
+      "url": "https://open.spotify.com/track/4O6POAxljB6cfjKx3I2s8A"
     },
     {
       "album": {
@@ -4420,7 +4552,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164211,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw"
@@ -5375,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/3AGnHGssZokETorb9IRbXL"
+      },
+      "artists": [
+        {
+          "name": "Lorenzza",
+          "url": "https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135285,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4KB5YSxkhJsRimltaSICcp"
+    },
+    {
+      "album": {
         "name": "decrescendo.",
         "url": "https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd"
       },
@@ -6022,7 +6172,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 175137,
       "name": "Push It (feat. ANNA)",
       "url": "https://open.spotify.com/track/5FLxKWv8HEFI67uKzSX27K"
@@ -6420,6 +6570,36 @@
       "duration_ms": 200869,
       "name": "S.X.S.I.C.",
       "url": "https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7"
+    },
+    {
+      "album": {
+        "name": "SALUTE",
+        "url": "https://open.spotify.com/album/55PpcerLBwwc3TzbM593QO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Madbuddy",
+          "url": "https://open.spotify.com/artist/1tBJtWHAbcvZF9qfGwLp1J"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152656,
+      "name": "SALUTE",
+      "url": "https://open.spotify.com/track/5NIkl4dia2BsQwypOUSy4Y"
     },
     {
       "album": {
@@ -7220,7 +7400,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 183285,
       "name": "TRE (feat. Salmo, Low Kidd, Nitro)",
       "url": "https://open.spotify.com/track/5XAJzu72otPTtWWjZX6XOZ"
@@ -7253,6 +7433,24 @@
     },
     {
       "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217593,
+      "name": "Tristano e Isotta",
+      "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"
+    },
+    {
+      "album": {
         "name": "FASTLIFE 5 : Audio Luxury",
         "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
       },
@@ -7268,7 +7466,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170100,
       "name": "True Story",
       "url": "https://open.spotify.com/track/1y6okCY7BRD80ckBFf9wkv"

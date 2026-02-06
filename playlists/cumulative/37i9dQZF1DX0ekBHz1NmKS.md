@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,131 songs - 4 day 14 hr 30 min
+2,134 songs - 4 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-05-16 | 2024-06-14 |
 | [Daddy Issues](https://open.spotify.com/track/6gohkTYsaQDvrcD6sMUxq2) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:18 | 2021-12-16 | 2022-03-11 |
 | [Dag & Natt](https://open.spotify.com/track/0UYWu73xSqMqc2V6oMNrAY) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Dag & Natt](https://open.spotify.com/album/0rc3ipMDmum6TxdzS6et3E) | 2:33 | 2025-06-19 | 2025-08-01 |
-| [Dag 1](https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Dag 1](https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp) | 3:34 | 2025-09-18 |  |
+| [Dag 1](https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Dag 1](https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp) | 3:34 | 2025-09-18 | 2026-02-06 |
 | [Dagar som aldrig tar slut](https://open.spotify.com/track/09olrvgVUSM3dbNGP6x7fE) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dagar som aldrig tar slut](https://open.spotify.com/album/02dhUBkEIAJWMu7Uf1MWn2) | 3:12 | 2024-05-02 | 2024-06-01 |
 | [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 | 2025-07-17 | 2025-10-24 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
@@ -437,6 +437,7 @@
 | [Du](https://open.spotify.com/track/5jXpg2H0a1isxNpcQkPVu8) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Du](https://open.spotify.com/album/64xGRV93vELnR9Cu63fvAd) | 4:22 | 2023-04-06 | 2023-06-13 |
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 | 2024-09-26 | 2024-11-10 |
+| [Du fick aldrig veta](https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Du fick aldrig veta](https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry) | 2:38 | 2026-02-05 |  |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [du får vara min ikväll](https://open.spotify.com/track/4FjTt2t005M50VaS6PpGbD) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [du får vara min ikväll](https://open.spotify.com/album/3r3kACBwzv1rf3a5PJj6Js) | 2:39 | 2024-01-25 | 2024-03-15 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 | 2023-10-06 |
@@ -465,6 +466,7 @@
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2025-03-14 |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
+| [Där hela världen väntar](https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Där hela världen väntar](https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC) | 3:02 | 2026-02-05 |  |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
 | [Då är det inte jag](https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Då är det inte jag](https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV) | 3:27 | 2024-11-14 | 2025-02-01 |
 | [Dålig teve](https://open.spotify.com/track/1MRBWzBJkmj7hhsIoWP2kx) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dålig teve](https://open.spotify.com/album/5Jtg0DVZ0hIBlaMkm3oxAc) | 3:39 | 2025-10-02 |  |
@@ -1219,7 +1221,7 @@
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-12 | 2026-01-15 |
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-06 | 2024-08-09 |
 | [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-13 | 2024-08-16 |
-| [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 |  |
+| [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 | 2026-02-06 |
 | [Mika](https://open.spotify.com/track/1xv6D146GY71LviF0cT52P) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Mika](https://open.spotify.com/album/4FSUbcwDoAcFtSo1MAZTC6) | 4:28 | 2024-06-06 | 2024-08-09 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Miles away](https://open.spotify.com/track/3F222sKuqRhPDVWX3zFrsF) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Miles away](https://open.spotify.com/album/1IJ0AewQmGV57xx81FMF1B) | 2:34 | 2024-02-24 | 2024-04-06 |
@@ -1255,7 +1257,7 @@
 | [Mitt vackraste felsteg](https://open.spotify.com/track/6cO9yPqaCClf1zhObaLJh6) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Mitt vackraste felsteg](https://open.spotify.com/album/4qq53wdKELAFTfM8t5C6Zb) | 3:57 | 2025-05-16 | 2025-08-07 |
 | [Mjuka Lakan](https://open.spotify.com/track/2pvb8B0VBgHlObZipNnLFu) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Mjuka Lakan](https://open.spotify.com/album/5LV6RkFjWOZ5buzyck2NiY) | 2:56 | 2024-05-02 | 2024-06-01 |
 | [Mjukt ljus](https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Mjukt ljus](https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe) | 2:40 | 2025-09-18 | 2025-11-15 |
-| [Modigare](https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Modigare](https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i) | 3:53 | 2025-11-06 |  |
+| [Modigare](https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Modigare](https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i) | 3:53 | 2025-11-06 | 2026-02-06 |
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 | 2024-09-29 |
 | [Mon amour](https://open.spotify.com/track/5ZTdySod7Vo16k6TH0qD31) | [RASK](https://open.spotify.com/artist/20WH7ULuCsW9nUtPh0lWxl) | [Mon amour](https://open.spotify.com/album/3Q9l5MLWf8dW7JO7rJHEZb) | 2:34 | 2024-02-24 | 2024-03-18 |
 | [Mood Swings](https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Mood Swings](https://open.spotify.com/album/3JELtHOEOf6dDIJQCmar1O) | 2:15 | 2021-12-16 | 2022-01-11 |
@@ -1284,6 +1286,7 @@
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
 | [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 | 2024-10-24 | 2025-04-13 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
+| [My System](https://open.spotify.com/track/3AfX2EhXub2DqgqJABSIXL) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [](https://open.spotify.com/album/null) | 3:02 | 2026-02-05 |  |
 | [Mycket bättre](https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Mycket bättre](https://open.spotify.com/album/3FowZl9TscFdAmRsUfdTI7) | 2:39 | 2024-04-18 | 2024-05-10 |
 | [Människobarn](https://open.spotify.com/track/0VaIs3pVGqAeXidW86x7Nc) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/11cjyNBwd0KWKHcAsrQhS7) | 3:38 | 2025-12-04 |  |
 | [Mästerverk](https://open.spotify.com/track/3A2cYgrSFJZu4KeYKNOQmt) | [Trofé](https://open.spotify.com/artist/73f5jwqJwX59X2tzNFDyBx), [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Mästerverk](https://open.spotify.com/album/3Ski67nWnQRMOVCe0xohbj) | 3:14 | 2024-05-02 | 2024-06-01 |

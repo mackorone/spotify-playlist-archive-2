@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Courtney Barnett",
+  "description": "New and local indie noise. Cover: Rolling Blackouts Coastal Fever",
   "name": "Local Noise",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 140243,
       "name": "(I'm here for the) GIRLS",
       "url": "https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1"
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "And Angel",
+        "url": "https://open.spotify.com/album/6lOPTzfrBneSEOjPlabMn7"
+      },
+      "artists": [
+        {
+          "name": "HEADSEND",
+          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232881,
+      "name": "And Angel",
+      "url": "https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf"
+    },
+    {
+      "album": {
         "name": "Angela",
         "url": "https://open.spotify.com/album/28FfHkZdHj58QwUbxmB3eM"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191956,
       "name": "Bad For My Health",
       "url": "https://open.spotify.com/track/5hstoClN1sRJsIYT4gjZ4O"
@@ -1202,6 +1220,42 @@
       "duration_ms": 256920,
       "name": "Beat To Beat",
       "url": "https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD"
+    },
+    {
+      "album": {
+        "name": "Beautiful Country",
+        "url": "https://open.spotify.com/album/0FxmyJliJRVYem01DaFhdJ"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247405,
+      "name": "Beautiful Country",
+      "url": "https://open.spotify.com/track/1W1hUUuDko94HVziWmaLUh"
+    },
+    {
+      "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/6yxUcLVeTa6wM1Cm0G4n9N"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "Bedroom Pacer - Bonus Track",
+      "url": "https://open.spotify.com/track/0iNqyGZczC7qyUITTNyM2e"
     },
     {
       "album": {
@@ -1378,7 +1432,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 223124,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/4NCqL9ReBKw729aWzmWXb3"
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 229849,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3"
@@ -2199,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Chain My Heart To Plastic",
+        "url": "https://open.spotify.com/album/4woSJx7zn9oyFAnxtUuqaI"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Chain My Heart to Plastic",
+      "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
+    },
+    {
+      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/0eFOszsJpKSgad60alFN3g"
       },
@@ -2264,7 +2336,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 186222,
       "name": "Change",
       "url": "https://open.spotify.com/track/0VFqWDsAT06W0FlKaRhjXY"
@@ -2300,7 +2372,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 172758,
       "name": "Changing Shapes",
       "url": "https://open.spotify.com/track/06uRd3Zvphvo7F17IEBl4o"
@@ -2523,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Chubby Money",
+        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211243,
+      "name": "Chubby Money",
+      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
+    },
+    {
+      "album": {
         "name": "Chugg",
         "url": "https://open.spotify.com/album/0jwgIgzqPNctMYNT8kmMUE"
       },
@@ -2664,6 +2754,24 @@
       "duration_ms": 157086,
       "name": "Clover",
       "url": "https://open.spotify.com/track/3fjhggzP3OIeNN1G7ZRrBR"
+    },
+    {
+      "album": {
+        "name": "Coal Dust",
+        "url": "https://open.spotify.com/album/4VaI6BZB9ayjqCRp3KRb6z"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207468,
+      "name": "Coal Dust",
+      "url": "https://open.spotify.com/track/5E5LeotIuFrQGJHlrJxQtq"
     },
     {
       "album": {
@@ -3135,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Cut It Out",
+        "url": "https://open.spotify.com/album/1n4mAv6vK1zXMfWyfse2Mp"
+      },
+      "artists": [
+        {
+          "name": "Public Figures",
+          "url": "https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182124,
+      "name": "Cut It Out",
+      "url": "https://open.spotify.com/track/3ZGUHN7vCL1ylsV7pV0X79"
+    },
+    {
+      "album": {
         "name": "TOY",
         "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
       },
@@ -3294,7 +3420,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 216991,
       "name": "DEATH CULT ZOMBIE",
       "url": "https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd"
@@ -6739,6 +6865,24 @@
     },
     {
       "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261931,
+      "name": "ITS FINE",
+      "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
+    },
+    {
+      "album": {
         "name": "I\u2019m Sure You\u2019ve Heard",
         "url": "https://open.spotify.com/album/6AINfbHDogwU6vqaHe1NCf"
       },
@@ -7482,6 +7626,24 @@
       "duration_ms": 176226,
       "name": "Long Way To Go",
       "url": "https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu"
+    },
+    {
+      "album": {
+        "name": "Look Down",
+        "url": "https://open.spotify.com/album/6YAu3ka3hkAenly3At4DDY"
+      },
+      "artists": [
+        {
+          "name": "Sly Withers",
+          "url": "https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Look Down",
+      "url": "https://open.spotify.com/track/0yZrMtfSp8ait1DhJwlr9k"
     },
     {
       "album": {
@@ -9164,7 +9326,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 249320,
       "name": "One Of These Nights (I'll Be Gone)",
       "url": "https://open.spotify.com/track/2cIvJuXeCHzUMM9XwRDVUf"
@@ -9423,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "Pack It In",
+        "url": "https://open.spotify.com/album/5zrg90UtdqLdMREPQj4cj6"
+      },
+      "artists": [
+        {
+          "name": "WIN BIG",
+          "url": "https://open.spotify.com/artist/2orZchuwGu2NABhzq1tEiH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146052,
+      "name": "Pack It In",
+      "url": "https://open.spotify.com/track/6QHw7XRCLWGuXAorcPii87"
+    },
+    {
+      "album": {
         "name": "The Burrow",
         "url": "https://open.spotify.com/album/0Da6mJ7GIXB91ybJn1b22k"
       },
@@ -9488,7 +9668,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 155400,
       "name": "Pale Blue",
       "url": "https://open.spotify.com/track/2bGSuFriNuFKna7xf4pY6s"
@@ -9578,7 +9758,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 228971,
       "name": "Payback",
       "url": "https://open.spotify.com/track/33YhipFgDdC8eP4xOFVDYd"
@@ -10223,6 +10403,28 @@
     },
     {
       "album": {
+        "name": "IN VERSES",
+        "url": "https://open.spotify.com/album/2QJhJYgrwIL5C8x7FphmVk"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        },
+        {
+          "name": "Guthrie Govan",
+          "url": "https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441219,
+      "name": "Reanimation (feat. Guthrie Govan)",
+      "url": "https://open.spotify.com/track/4tWtR17rb4c4jxdn60y6gK"
+    },
+    {
+      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/1MFhkeAlGK5SdHtAq588rr"
       },
@@ -10648,7 +10850,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217769,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7raiI3iMXLAlwz0pq8bZEF"
@@ -10868,7 +11070,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 233254,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu"
@@ -10958,7 +11160,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189333,
       "name": "Serpent Skin",
       "url": "https://open.spotify.com/track/1gXxraV26TuwUvtV5S1XBF"
@@ -11509,6 +11711,24 @@
     },
     {
       "album": {
+        "name": "Situation Lost Control",
+        "url": "https://open.spotify.com/album/33RdNRozY0tS5ZJulNI8HR"
+      },
+      "artists": [
+        {
+          "name": "The Cheaks",
+          "url": "https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203435,
+      "name": "Situation Lost Control",
+      "url": "https://open.spotify.com/track/0WG1iYgvHuOf25wERaFjUZ"
+    },
+    {
+      "album": {
         "name": "Skinwalk",
         "url": "https://open.spotify.com/album/145sQ9zNrPRiM4PNDQDtme"
       },
@@ -11816,7 +12036,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217333,
       "name": "Sony Ericsson",
       "url": "https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40"
@@ -11996,7 +12216,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 183746,
       "name": "Squeeze Down",
       "url": "https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP"
@@ -12430,6 +12650,24 @@
       "duration_ms": 255167,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/3dIZXaEZaeLAnm9cHv81Cu"
+    },
+    {
+      "album": {
+        "name": "Sunburned in London",
+        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397448,
+      "name": "Sunburned in London",
+      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
     },
     {
       "album": {
@@ -13352,7 +13590,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 231870,
       "name": "Theodore",
       "url": "https://open.spotify.com/track/2sm6s9KIXTWAx1aEQogjKY"
@@ -13498,6 +13736,24 @@
       "duration_ms": 248964,
       "name": "This Room",
       "url": "https://open.spotify.com/track/72qtN95Mfq1PEeIlowGwkK"
+    },
+    {
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/6ZfyjPPdOY3cOJI7fgFzVA"
+      },
+      "artists": [
+        {
+          "name": "CHEEKY LEASH",
+          "url": "https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175373,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/1Mkzso9GUY2krkEpQGpZ3w"
     },
     {
       "album": {
@@ -13984,6 +14240,24 @@
       "duration_ms": 193250,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/0TeCb2PCua64lwn30ueT2y"
+    },
+    {
+      "album": {
+        "name": "UH OH (Bardcore Girls)",
+        "url": "https://open.spotify.com/album/6Qu7EAVoHGnsGwENC6ZSLq"
+      },
+      "artists": [
+        {
+          "name": "WAAX",
+          "url": "https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "UH OH (Bardcore Girls)",
+      "url": "https://open.spotify.com/track/6n2k7lsFwh3BdJL10ue80u"
     },
     {
       "album": {
@@ -14622,6 +14896,24 @@
       "duration_ms": 202702,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI"
+    },
+    {
+      "album": {
+        "name": "Work Out Fine",
+        "url": "https://open.spotify.com/album/1UadDRX1FV1jBjUGUrXk1u"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132694,
+      "name": "Work Out Fine",
+      "url": "https://open.spotify.com/track/2GL3ureNXlitWxKzCelq5A"
     },
     {
       "album": {

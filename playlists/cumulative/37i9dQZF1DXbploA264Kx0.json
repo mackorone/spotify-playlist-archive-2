@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Sunset Rollercoaster (\u843d\u65e5\u98db\u8eca)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Elephant Gym (\u5927\u8c61\u9ad4\u64cd)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -2327,6 +2327,32 @@
     },
     {
       "album": {
+        "name": "More Real than Dreams (Original Documentary Soundtrack)",
+        "url": "https://open.spotify.com/album/3dVAoxGLONO7xe3WyAhoQr"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        },
+        {
+          "name": "dooodooo",
+          "url": "https://open.spotify.com/artist/1dHH1PggnBoToO5M35Rv9A"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213216,
+      "name": "Feather - Remix",
+      "url": "https://open.spotify.com/track/5Ye8qFcZ8KywKqRQF5sDMO"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/5kGOAASVomzriytdsAT08e"
       },
@@ -3098,7 +3124,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164000,
       "name": "Hackery",
       "url": "https://open.spotify.com/track/50HuO1enoZQANZ7cWYyr4b"
@@ -7272,7 +7298,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 225399,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/6fvkgvwJsSaVHWlChRvXGx"

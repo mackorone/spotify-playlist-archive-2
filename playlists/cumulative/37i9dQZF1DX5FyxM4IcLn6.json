@@ -7618,7 +7618,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181894,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
@@ -11134,6 +11134,28 @@
       "duration_ms": 250200,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
+    },
+    {
+      "album": {
+        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
+        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216596,
+      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
+      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
     },
     {
       "album": {

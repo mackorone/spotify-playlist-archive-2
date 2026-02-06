@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2824,
+  "num_followers": 2826,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADsMfpIJTuRX/SqNTZPxFUd",
+  "snapshot_id": "aYKMAAAAAADPP6x0N6P9xDgiwlm82D0y",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 134903,
-      "name": "Nuestra Historia",
-      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
+      "duration_ms": 134903,
+      "name": "Nuestra Historia",
+      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 198622,
-      "name": "Agua Helada",
-      "url": "https://open.spotify.com/track/5RTwxQJO725bKdK2a8d5om"
+      "duration_ms": 171895,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/6vi8gdPYPpGnmJZR8o5TLK"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 171895,
-      "name": "D\u00e9jenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/6vi8gdPYPpGnmJZR8o5TLK"
+      "duration_ms": 198622,
+      "name": "Agua Helada",
+      "url": "https://open.spotify.com/track/5RTwxQJO725bKdK2a8d5om"
     },
     {
       "added_at": null,

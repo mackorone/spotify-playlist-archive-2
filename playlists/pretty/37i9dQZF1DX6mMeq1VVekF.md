@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,637 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,635 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 57 | [Fit ID](https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Fit ID](https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt) | 2:38 |
 | 58 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 |
 | 59 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
-| 60 | [Jolie \(Pretty Like This Song\)](https://open.spotify.com/track/2dK2lSIfrEZSyeoaIn75Su) | [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Sweet Dreams](https://open.spotify.com/album/0AQ63KDpYp3CP3UabjPJEL) | 2:40 |
+| 60 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
 
 Snapshot ID: `AAAAAB76h0bIH6mJZFiopx2/9Ji+faKn`

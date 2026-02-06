@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41193,
+  "num_followers": 41203,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAC8krOmhW1zCZZWIDRYAoAS",
+  "snapshot_id": "aYKMAAAAAACD/lo6UqMwKKHef5njcQ1u",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambas & Biritas, Vol. 1",
-        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/6TejnanlyEl203l8tnsS5C"
       },
       "artists": [
         {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "DJ Soul Slinger",
-          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
         }
       ],
-      "duration_ms": 307253,
-      "name": "Na Noite Se Resolve",
-      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+      "duration_ms": 217444,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4unkavPztEQg9VGdVJI9hK"
     },
     {
       "added_at": null,
@@ -539,22 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/6TejnanlyEl203l8tnsS5C"
+        "name": "Bambas & Biritas, Vol. 1",
+        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "DJ Soul Slinger",
+          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
         }
       ],
-      "duration_ms": 217444,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4unkavPztEQg9VGdVJI9hK"
+      "duration_ms": 307253,
+      "name": "Na Noite Se Resolve",
+      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
     },
     {
       "added_at": null,

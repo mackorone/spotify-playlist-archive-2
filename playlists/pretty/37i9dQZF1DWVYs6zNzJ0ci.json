@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Nonpalidece & Tippy I-Grade",
-  "num_followers": 1175073,
+  "num_followers": 1174995,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Caney",
-        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Caney",
-      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Ll\u00e9vame (Cultura Remix)",
         "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 264913,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Caney",
+        "url": "https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Caney",
+      "url": "https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Binikini",
-        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Binikini",
-      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Binikini",
+        "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 183253,
+      "name": "Binikini",
+      "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Volando",
-        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Volando",
-      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Sierra del Mar",
         "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
       },
@@ -1027,22 +1011,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+        "name": "Volando",
+        "url": "https://open.spotify.com/album/7v9HxzEvMgfrrWznESp8xB"
       },
       "artists": [
         {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+      "duration_ms": 190761,
+      "name": "Volando",
+      "url": "https://open.spotify.com/track/0wxpeuCoSkPpbviobSt54E"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1059,6 +1039,26 @@
       "duration_ms": 319933,
       "name": "\u00daltimos D\u00edas",
       "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Bonito y Cruel",
-        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Bonito y Cruel",
-      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La Distancia",
         "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
       },
@@ -1267,8 +1247,8 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Ra\u00edces Muy Fuertes",
-        "url": "https://open.spotify.com/album/4J2QQWQVgQqnynklIPx3Yq"
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
       "artists": [
         {
@@ -1276,9 +1256,9 @@
           "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
         }
       ],
-      "duration_ms": 256937,
-      "name": "Se parece mas a ti",
-      "url": "https://open.spotify.com/track/6FjqJmoZSPmH1wc27b3lV1"
+      "duration_ms": 297426,
+      "name": "Luz y Compa\u00f1\u00eda",
+      "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1299,6 +1279,26 @@
       "duration_ms": 142962,
       "name": "BOOM BOOM",
       "url": "https://open.spotify.com/track/2I9eR0VGMWyqadUK3HD7KE"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Bonito y Cruel",
+        "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Bonito y Cruel",
+      "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1483,30 +1483,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "El Curandero",
-        "url": "https://open.spotify.com/album/2r9FHOtGmhEFV88vfwCFt5"
-      },
-      "artists": [
-        {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "El Curandero",
-      "url": "https://open.spotify.com/track/6Gs3BpUh7sSv4yjOWXDy63"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1543,6 +1519,30 @@
       "duration_ms": 183626,
       "name": "Besos Para Ti",
       "url": "https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "El Curandero",
+        "url": "https://open.spotify.com/album/2r9FHOtGmhEFV88vfwCFt5"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "El Curandero",
+      "url": "https://open.spotify.com/track/6Gs3BpUh7sSv4yjOWXDy63"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Baile de Miradas",
-        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Long Time Ago",
         "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
       },
@@ -1735,22 +1719,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Fragmentos del Alma",
-        "url": "https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua"
+        "name": "Baile de Miradas",
+        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
       },
       "artists": [
         {
-          "name": "Pure Negga",
-          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
-        },
-        {
-          "name": "Oto Beats",
-          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
         }
       ],
-      "duration_ms": 321379,
-      "name": "Fragmentos del Alma",
-      "url": "https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ"
+      "duration_ms": 217717,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1767,6 +1747,26 @@
       "duration_ms": 227265,
       "name": "Como Un Volc\u00e1n",
       "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Fragmentos del Alma",
+        "url": "https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Oto Beats",
+          "url": "https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68"
+        }
+      ],
+      "duration_ms": 321379,
+      "name": "Fragmentos del Alma",
+      "url": "https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ"
     },
     {
       "added_at": "2026-01-23 03:00:06",

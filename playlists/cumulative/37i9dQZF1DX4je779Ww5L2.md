@@ -4,10 +4,11 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-92 songs - 5 hr 47 min
+95 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [22 Weeks](https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B) | 3:52 | 2026-02-05 |  |
 | [4am](https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [4am](https://open.spotify.com/album/5EIG5KoHg9xuwuJw46BLox) | 3:30 | 2025-08-08 |  |
 | [a woman to you](https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [a woman to you](https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki) | 3:16 | 2025-08-08 | 2025-12-05 |
 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 | 2025-08-29 |  |
@@ -30,6 +31,7 @@
 | [EMBERS](https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [AT LEAST SOMETHING IS PROTECTING YOU](https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0) | 3:37 | 2025-08-08 |  |
 | [Embers](https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Time Drifts](https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61) | 3:57 | 2025-08-08 |  |
 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 | 2025-08-08 |  |
+| [Everyone Around Me Dancing](https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Everyone Around Me Dancing](https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW) | 3:05 | 2026-02-05 |  |
 | [Evol](https://open.spotify.com/track/1GRLxWFbZZZGF8mQw2BKSY) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:14 | 2025-08-08 | 2025-10-14 |
 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 | 2025-08-08 |  |
 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 | 2025-08-08 |  |
@@ -79,6 +81,7 @@
 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 | 2025-08-08 |  |
 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 | 2025-08-08 |  |
 | [Swimming](https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Swimming](https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD) | 3:29 | 2025-08-08 |  |
+| [Tardigrades](https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z) | [Slow Res](https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF) | [Tardigrades](https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd) | 3:10 | 2026-02-05 |  |
 | [The Distance](https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2) | [Prize Collect](https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr) | [The Distance](https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud) | 3:04 | 2025-08-08 |  |
 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 | 2025-08-08 |  |
 | [The Moon Is Going For A Swim](https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6) | [Christopher Green](https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL) | [The Moon Is Going For A Swim](https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq) | 3:47 | 2026-01-23 |  |

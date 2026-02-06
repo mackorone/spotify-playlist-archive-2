@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Shary-An",
+  "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Livay",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 152013,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/3eXXBkkrs33qvJXwUHhWxS"
@@ -8312,7 +8312,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 182908,
       "name": "Het Komt Allemaal Wel Goed",
       "url": "https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN"
@@ -9288,7 +9288,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 192049,
       "name": "Houden Van Haten",
       "url": "https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S"
@@ -11336,6 +11336,24 @@
       "duration_ms": 187836,
       "name": "Kom Dansen",
       "url": "https://open.spotify.com/track/4GWSLrTdJoRSFMJRirlypJ"
+    },
+    {
+      "album": {
+        "name": "Kom Je Langs",
+        "url": "https://open.spotify.com/album/1LBMlV3vNWjzOvX3PfULWD"
+      },
+      "artists": [
+        {
+          "name": "Vincent Visser",
+          "url": "https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Kom Je Langs",
+      "url": "https://open.spotify.com/track/6LmSV5LnSxTBRvGA4sXhOD"
     },
     {
       "album": {
@@ -17543,6 +17561,24 @@
     },
     {
       "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "album": {
         "name": "Sluitingstijd",
         "url": "https://open.spotify.com/album/3BQ2NJ6hQYu6WyT6CUjG2X"
       },
@@ -20614,6 +20650,24 @@
       "duration_ms": 168888,
       "name": "Waar Ben Jij",
       "url": "https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde"
+    },
+    {
+      "album": {
+        "name": "Waar Ben Jij Geweest",
+        "url": "https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168442,
+      "name": "Waar Ben Jij Geweest",
+      "url": "https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM"
     },
     {
       "album": {

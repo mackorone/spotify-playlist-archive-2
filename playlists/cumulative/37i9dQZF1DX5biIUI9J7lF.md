@@ -4,7 +4,7 @@
 
 > Opted out of strife
 
-206 songs - 10 hr 24 min
+207 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Soft Life](https://open.spotify.com/track/6hmNM4b5zHtuJAx6u6DCwe) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Soft Life](https://open.spotify.com/album/6nCucOPAL5ANvo0fGAJ6KG) | 2:34 | 2022-08-26 | 2025-05-02 |
 | [Soft Life](https://open.spotify.com/track/1BbD9IQf55q0jwZwdCF7cZ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [Soft Life](https://open.spotify.com/album/3Q03NHEHcLV4Omb7cacqUL) | 2:51 | 2022-07-27 | 2024-02-23 |
 | [Soft Life](https://open.spotify.com/track/6u2IvQN4TBBPLXkGYwWTlw) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:08 | 2022-07-27 | 2024-06-28 |
-| [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 | 2025-10-24 |  |
+| [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 | 2025-10-24 | 2026-02-06 |
 | [Soft Vibez](https://open.spotify.com/track/2YRKNDgSjfGNZJgP0xXfXY) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W) | [Soft Vibez](https://open.spotify.com/album/4b44eL5sGIOEFAe6GEyfI8) | 2:52 | 2024-03-22 | 2025-05-02 |
 | [Softies Vibe](https://open.spotify.com/track/45gohzfD4mrYZgVRkkNSRE) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Angel On The Run](https://open.spotify.com/album/2T574vuC96N9WW0bpIQzcR) | 2:45 | 2023-06-15 | 2024-05-03 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-07-05 |  |
@@ -192,6 +192,7 @@
 | [Star](https://open.spotify.com/track/0vzIrXgc2Z28t2JDddfOo1) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [Star](https://open.spotify.com/album/611t57rkpgi1z9kF76QnW0) | 2:18 | 2024-03-29 | 2024-05-03 |
 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 | 2022-07-27 | 2024-08-02 |
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-07-27 | 2025-05-02 |
+| [STINGY](https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [STINGY](https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V) | 3:40 | 2026-02-06 |  |
 | [SUMMER BUNNY](https://open.spotify.com/track/4rVsGP9aHXWyjk1OZNmEfR) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [SUMMER BUNNY](https://open.spotify.com/album/5u2qU4l0XTxrSEYBPbhjwe) | 2:57 | 2024-07-19 |  |
 | [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 | 2022-07-27 | 2024-05-03 |
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 |  |

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "album": {
         "name": "A92 x Fumez The Engineer - Plugged In Freestyle",
         "url": "https://open.spotify.com/album/2d2jGNehp3V4MKWusgvMbk"
       },
@@ -1027,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "fingers crossed",
+        "url": "https://open.spotify.com/album/6pG7gONWECHILHBqd0t6OA"
+      },
+      "artists": [
+        {
+          "name": "kwes e",
+          "url": "https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140546,
+      "name": "entitled",
+      "url": "https://open.spotify.com/track/7jn7SOuYxnrAoz3QSmhIgQ"
+    },
+    {
+      "album": {
         "name": "Evil Eye - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx"
       },
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 168798,
       "name": "First Love",
       "url": "https://open.spotify.com/track/3NjRL5odT7eVY7zod4PROD"
@@ -1653,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/1hZ3bCY29MblTl9bsQkcRj"
+      },
+      "artists": [
+        {
+          "name": "Zaska",
+          "url": "https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k"
+        },
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321450,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/32jlL8mVwPu53xYYDxpLS6"
+    },
+    {
+      "album": {
         "name": "Introvert",
         "url": "https://open.spotify.com/album/21PQEuG2z3sCoxHo4SIenI"
       },
@@ -2022,7 +2080,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
@@ -2360,6 +2418,24 @@
       "duration_ms": 172258,
       "name": "No Time",
       "url": "https://open.spotify.com/track/12hi13T84P1AHFmE5f3bue"
+    },
+    {
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/36jgline0lR83kGP9YFXcE"
     },
     {
       "album": {
@@ -2754,7 +2830,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 151658,
       "name": "READY TO GO",
       "url": "https://open.spotify.com/track/2iILrivggWe9J9YjSpLCtl"
@@ -2798,7 +2874,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 161095,
       "name": "Remontada (feat. Blanco)",
       "url": "https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP"
@@ -3182,6 +3258,24 @@
       "duration_ms": 130351,
       "name": "SNEAKY SNEAKY",
       "url": "https://open.spotify.com/track/166ISgUbZrnJxjJqlBAOhR"
+    },
+    {
+      "album": {
+        "name": "Feline's Return",
+        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224498,
+      "name": "Sofa Joy",
+      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
     },
     {
       "album": {
@@ -3824,7 +3918,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 123979,
       "name": "TRUTH",
       "url": "https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb"

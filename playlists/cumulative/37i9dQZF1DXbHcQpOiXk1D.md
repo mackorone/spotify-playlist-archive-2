@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: <br/>Amy Gadiaga
+> The best from Britain's vibrant scene\. Cover: Shabaka
 
-773 songs - 2 day 5 hr 48 min
+774 songs - 2 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 | 2024-03-08 | 2024-03-12 |
 | [Eye Glass](https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Show Your Face](https://open.spotify.com/album/0hCQ1KdPi8iTGuisaQzeBh) | 4:54 | 2022-02-11 | 2022-08-30 |
 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 | 2023-03-08 | 2024-06-01 |
+| [Eyes Lowered](https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Eyes Lowered](https://open.spotify.com/album/2ZoUCoXKmNTQso7YaDWrRL) | 3:44 | 2026-02-06 |  |
 | [Fade Away](https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW) | [Kurtis Li](https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L) | [In Bloom](https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn) | 5:25 | 2024-07-12 | 2024-08-30 |
 | [Fallen](https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Fallen](https://open.spotify.com/album/6GEDmIVCjsICy3Jw4mZZD1) | 2:14 | 2022-03-24 | 2023-07-13 |
 | [Falling](https://open.spotify.com/track/6wylJQBd31qKnAtbEmrN5P) | [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Falling](https://open.spotify.com/album/4JUVXlxZJ7g1K9YQD4lnzs) | 3:21 | 2022-03-24 | 2022-04-20 |
@@ -372,7 +373,7 @@
 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 | 2023-07-13 | 2024-03-12 |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-03-31 | 2023-07-22 |
 | [Let Go](https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Let Go](https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ) | 3:57 | 2024-08-15 | 2025-10-10 |
-| [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 | 2024-10-10 |  |
+| [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 | 2024-10-10 | 2026-02-06 |
 | [Liam's Eavestaff](https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Liam's Eavestaff](https://open.spotify.com/album/4H2dfKsnWH6PwpfjEX07La) | 3:16 | 2024-09-05 | 2025-12-12 |
 | [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-23 | 2024-11-07 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-11-11 | 2023-09-03 |

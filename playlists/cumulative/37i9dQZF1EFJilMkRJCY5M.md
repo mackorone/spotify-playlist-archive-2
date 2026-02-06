@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 9 hr 19 min
+181 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 | 2026-01-01 |  |
 | [Down the Road](https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn) | 3:13 | 2025-10-08 | 2026-01-02 |
 | [Easy for You to Say](https://open.spotify.com/track/2JlJyrMZetXkuwAL7ntuWz) | [Dave Blenkhorn](https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh), [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [Easy for You to Say](https://open.spotify.com/album/57359rsxD8n5crU2jNz7tP) | 3:04 | 2025-07-24 | 2025-07-31 |
-| [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 | 2022-05-29 |  |
+| [Easy on Me](https://open.spotify.com/track/1PZNwWmUCQVuH39sooxPQT) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/0jsFsXKWSichKhDTk9UvhY) | 2:56 | 2026-02-05 |  |
+| [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 | 2022-05-29 | 2026-02-06 |
 | [End of Time](https://open.spotify.com/track/3QNELTJE1rx5TwDFOel2rr) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [End of Time](https://open.spotify.com/album/3cz09fVEDtdj90y4UUVa7s) | 3:01 | 2025-07-24 |  |
 | [Euphoria](https://open.spotify.com/track/2vzUVBdfbzFtfIqhgM0tDA) | [ØSAS ØHM](https://open.spotify.com/artist/3hnjTkOixhsMrlPlPcrdF2), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Euphoria](https://open.spotify.com/album/6ToeKKnL3eHDjtkyFxtsVF) | 3:50 | 2024-05-23 |  |
 | [Evergreen](https://open.spotify.com/track/1lQSetX6AhrCJD2sU7Jfph) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Evergreen](https://open.spotify.com/album/4uMpjZ3LcrGuAB8RuB0eFf) | 2:21 | 2024-11-01 |  |

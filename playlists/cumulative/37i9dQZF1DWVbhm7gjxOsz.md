@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-191 songs - 11 hr 11 min
+192 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke..\. \(Expanded Edition\)](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2023-05-01 |  |
 | [Daddy's Home](https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Daddy's Home: The Very Best Of Shep & The Limelites](https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr) | 2:47 | 2023-05-01 |  |
 | [Daddy's Home](https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [All the Hits and More](https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc) | 2:54 | 2023-05-01 |  |
+| [Darling Baby](https://open.spotify.com/track/51qGBOwgoMkjoSQtsUiEmf) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Complete Motown Singles, Volume 5: 1965](https://open.spotify.com/album/2KCZeZkFeasjUWc8CylCpb) | 2:35 | 2025-05-23 |  |
 | [Darling Baby](https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [Hitsville USA \- The Motown Singles Collection 1959\-1971](https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj) | 2:36 | 2023-05-01 | 2024-04-19 |
 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 | 2024-01-05 |  |
 | [Dedicated To The One I Love](https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:04 | 2023-05-01 | 2024-04-19 |
@@ -187,7 +188,7 @@
 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 | 2023-05-01 |  |
 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 | 2023-08-29 |  |
 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 | 2023-05-01 |  |
-| [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 | 2024-01-05 |  |
+| [You Are Everything](https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Very Best of the Stylistics ..\. And More!](https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk) | 2:55 | 2024-01-05 | 2026-02-06 |
 | [You Are Everything](https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 2:55 | 2023-05-01 | 2024-04-19 |
 | [You Beat Me To The Punch](https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:45 | 2023-05-01 |  |
 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 | 2023-05-01 |  |

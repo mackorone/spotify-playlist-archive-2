@@ -1,6 +1,6 @@
 {
   "description": "Where your favourites hang out with your next favourites. Cover: Charlotte Day Wilson",
-  "num_followers": 41320,
+  "num_followers": 41324,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-30 05:01:53",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
+    },
+    {
+      "added_at": "2026-01-30 05:01:53",
+      "album": {
         "name": "the theory of you",
         "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
-    },
-    {
-      "added_at": "2026-01-30 05:01:53",
-      "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2026-01-30 05:01:53",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2026-01-30 05:01:53",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
-    },
-    {
-      "added_at": "2026-01-30 05:01:53",
-      "album": {
-        "name": "SALES LP",
-        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
     },
     {
       "added_at": "2026-01-30 05:01:53",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-01-30 05:01:53",
       "album": {
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "added_at": "2026-01-30 05:01:53",
+      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
-    },
-    {
-      "added_at": "2026-01-30 05:01:53",
-      "album": {
-        "name": "A Little Rhythm and a Wicked Feeling",
-        "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
     },
     {
       "added_at": "2026-01-30 05:01:53",
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-01-30 05:01:53",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
+        "name": "A Little Rhythm and a Wicked Feeling",
+        "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 206393,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
+      "duration_ms": 236363,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
     },
     {
       "added_at": "2026-01-30 05:01:53",
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2026-01-30 05:01:53",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/3FkPbizteyMJfT2tLyvnkE"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+      "duration_ms": 206393,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI"
     },
     {
       "added_at": "2026-01-30 05:01:53",
@@ -1287,6 +1267,26 @@
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:53",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2026-01-30 05:01:53",

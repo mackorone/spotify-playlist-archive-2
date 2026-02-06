@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Samad Khan, Shikhar, Janisht Joshi and other exciting artists.
 
-1,321 songs - 3 day 0 hr 13 min
+1,322 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 | 2025-11-28 | 2025-12-17 |
 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 | 2026-01-09 |  |
 | [Doob Doob\-Doob Raha \- From "Phir Se Rock & Roll"](https://open.spotify.com/track/0FHsCg7VYzXJ1KEtpqh5b6) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Doob Doob\-Doob Raha \(From "Phir Se Rock & Roll"\)](https://open.spotify.com/album/0v7MKFW2Jb55ELqN5iE2Gf) | 2:47 | 2024-04-05 | 2024-05-18 |
+| [Doob Jaane De](https://open.spotify.com/track/1rYeEKg74fv2vfaQASo665) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Doob Jaane De](https://open.spotify.com/album/3gxJFtWQO3wshwWaQCaaEM) | 4:44 | 2026-01-30 |  |
 | [Dooba Dooba](https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD) | [Dooba Dooba](https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh) | 3:22 | 2025-12-19 |  |
 | [Door](https://open.spotify.com/track/5RH7D4HIQmAVcuni4fwsHu) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jollypop](https://open.spotify.com/album/7gAWqQEs19WD8iepu3g51v) | 2:00 | 2024-04-19 | 2024-05-24 |
 | [Dooriyaan](https://open.spotify.com/track/0xxuGSQNbaloqr2E8iLuqT) | [Anindita Chatterjee](https://open.spotify.com/artist/7607WTqsIlb2OikQKSfpNQ), [Avishek Majumder](https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO) | [Dooriyaan](https://open.spotify.com/album/1fKJrdLCJ0RG0KER1zBn7R) | 3:45 | 2024-02-16 | 2024-03-16 |
@@ -664,7 +665,7 @@
 | [Kismet](https://open.spotify.com/track/5uuN0Br13jpilHaV6OTzpK) | [Raman Negi](https://open.spotify.com/artist/1ZsF8DeNQav5xvu4X5KsYB) | [Kismet](https://open.spotify.com/album/1kYV2ozbBjtCARj0B5JNM1) | 3:36 | 2024-07-05 | 2024-08-10 |
 | [Kiss a Stranger](https://open.spotify.com/track/0riJXCsFHkpgreVFiyGwiv) | [Harry Grover](https://open.spotify.com/artist/2DVZCMPmAXGd8QmItZkBSG) | [Kiss a Stranger](https://open.spotify.com/album/0VeWWiCUcWMAUug201yO8k) | 3:15 | 2026-01-09 | 2026-01-31 |
 | [Kisse](https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Kisse](https://open.spotify.com/album/7dkpnaX8v3uCNDKZ8gWASu) | 2:58 | 2025-07-25 | 2025-08-30 |
-| [Kisse Kahein](https://open.spotify.com/track/5Wv4SKb47yIfogR1Ce6xRE) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Alvina D'souza](https://open.spotify.com/artist/11pk708XY9mlYHHNWLTWry) | [Kisse Kahein](https://open.spotify.com/album/2QuhFrkgs0MMV8xOmyi3aH) | 2:49 | 2025-12-19 |  |
+| [Kisse Kahein](https://open.spotify.com/track/5Wv4SKb47yIfogR1Ce6xRE) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Alvina D'souza](https://open.spotify.com/artist/11pk708XY9mlYHHNWLTWry) | [Kisse Kahein](https://open.spotify.com/album/2QuhFrkgs0MMV8xOmyi3aH) | 2:49 | 2025-12-19 | 2026-02-06 |
 | [Kithe Jawan \(From "UR Debut"\)](https://open.spotify.com/track/4f0PM72QRUVgpNPw6lCGbw) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Kithe Jawan \(From "UR Debut"\)](https://open.spotify.com/album/0uGDPyWdO8IhEJ1Md8xixj) | 2:59 | 2025-11-14 |  |
 | [Kiya Dhara](https://open.spotify.com/track/7LOQN5ZIcfVbLGN1z9UJqa) | [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kiya Dhara](https://open.spotify.com/album/5LNmi8aUJQXt0IOMFcjIae) | 2:02 | 2024-10-18 | 2024-11-09 |
 | [Kohinoor](https://open.spotify.com/track/1fmPlmof4bVJFWjzvTCjy2) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Kohinoor](https://open.spotify.com/album/1dvgCUkwd38ZacYjSP13NT) | 2:41 | 2025-02-07 | 2025-03-02 |

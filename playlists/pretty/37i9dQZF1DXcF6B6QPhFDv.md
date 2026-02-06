@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Joyce Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,267,896 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,267,568 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Know Where Mark Chen Lives](https://open.spotify.com/track/7zvZ18HvFVsR9O9B0vn47c) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 1:50 |
 | 2 | [THUM](https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [THUM](https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr) | 2:11 |
-| 3 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
+| 3 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
 | 4 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 |
 | 5 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
 | 6 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |

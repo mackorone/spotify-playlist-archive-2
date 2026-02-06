@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 37753,
+  "num_followers": 37764,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAXB3gSDn9k/379PCYrec6i",
+  "snapshot_id": "aYKMAAAAAAC/yV5Ow5YmmpJYveir1fWj",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265225,
-      "name": "Wanna Be Happy?",
-      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265225,
+      "name": "Wanna Be Happy?",
+      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
     },
     {
       "added_at": null,

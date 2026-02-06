@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE0yFczkMGLe6D62j039dzo1WRytjY",
+  "snapshot_id": "AAAE12jKgZM663XogJtiMv/2bXVoCTZv",
   "tracks": [
+    {
+      "added_at": "2026-02-05 16:29:28",
+      "album": {
+        "name": "im so burnt out......",
+        "url": "https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        }
+      ],
+      "duration_ms": 71455,
+      "name": "im so burnt out......",
+      "url": "https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS"
+    },
     {
       "added_at": "2026-01-27 13:35:27",
       "album": {
@@ -3781,22 +3797,6 @@
       "url": "https://open.spotify.com/track/7iV6Qd17zrFGLSimz2CbDG"
     },
     {
-      "added_at": "2023-08-10 12:56:11",
-      "album": {
-        "name": "Magnum Bullets a Capella Cover",
-        "url": "https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS"
-      },
-      "artists": [
-        {
-          "name": "Danno GSD",
-          "url": "https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN"
-        }
-      ],
-      "duration_ms": 236224,
-      "name": "Magnum Bullets a Capella Cover",
-      "url": "https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD"
-    },
-    {
       "added_at": "2024-02-23 09:38:38",
       "album": {
         "name": "BLISS IN THE MIDST OF UNCERTAIN TIDES",
@@ -4975,22 +4975,6 @@
       "duration_ms": 167735,
       "name": "inconsequential",
       "url": "https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp"
-    },
-    {
-      "added_at": "2024-08-15 23:13:24",
-      "album": {
-        "name": "Another Perfect Day, Another Perfect Night",
-        "url": "https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb"
-      },
-      "artists": [
-        {
-          "name": "Spring Silver",
-          "url": "https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv"
-        }
-      ],
-      "duration_ms": 209483,
-      "name": "Another Perfect Day, Another Perfect Night",
-      "url": "https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH"
     },
     {
       "added_at": "2024-01-18 21:24:47",
@@ -7223,26 +7207,6 @@
       "duration_ms": 188800,
       "name": "Around You",
       "url": "https://open.spotify.com/track/5ehLnLEsE4bcJW1ad2RWlx"
-    },
-    {
-      "added_at": "2024-03-06 09:49:10",
-      "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn"
-      },
-      "artists": [
-        {
-          "name": "Everender",
-          "url": "https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6"
-        },
-        {
-          "name": "Aural Alliance",
-          "url": "https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM"
     },
     {
       "added_at": "2024-02-18 08:00:15",

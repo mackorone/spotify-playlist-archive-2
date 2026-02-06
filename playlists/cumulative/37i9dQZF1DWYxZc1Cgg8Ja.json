@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "5 Estrellas - W Sound 23",
+        "url": "https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191397,
+      "name": "5 Estrellas - W Sound 23",
+      "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
+    },
+    {
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
@@ -3750,7 +3776,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 197000,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU"

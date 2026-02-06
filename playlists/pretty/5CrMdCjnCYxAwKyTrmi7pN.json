@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...",
-  "num_followers": 128877,
+  "num_followers": 128859,
   "original_name": "Winter Vibes 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA7Ukcc5HeY1q+/qLtK0Q1uzL3LmNRM",
+  "snapshot_id": "AAA7UwtVe1Qtc6fAsZPNsLT05L4movGA",
   "tracks": [
     {
       "added_at": "2026-01-23 10:34:33",
@@ -307,6 +307,22 @@
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2026-02-05 08:58:14",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
     },
     {
       "added_at": "2026-01-23 10:34:33",

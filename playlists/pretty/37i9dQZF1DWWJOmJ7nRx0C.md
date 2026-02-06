@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Papa Roach
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,534 likes - 101 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,548 likes - 101 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 28 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
 | 29 | [It's A Sin](https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [It's A Sin](https://open.spotify.com/album/69jnd8KXGiAkG8FDkox8nE) | 4:40 |
 | 30 | [Profane Prophecy](https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Profane Prophecy and Pharmacy Chronicles](https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U) | 4:07 |
-| 31 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
+| 31 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
 | 32 | [So Far So Fake](https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:56 |
 | 33 | [Die To Fall](https://open.spotify.com/track/79gHcOX0YegMXSZ9apmepr) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Die To Fall](https://open.spotify.com/album/0qfxMFrlNpqg6vTkYITpv4) | 3:20 |
 | 34 | [LOOK OUT FOR ME](https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 6:43 |

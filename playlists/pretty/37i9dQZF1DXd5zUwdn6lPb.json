@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 580570,
+  "num_followers": 580734,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
+        "name": "Lavender Fields",
+        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
-        "name": "Lavender Fields",
-        "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Lavender Fields",
-      "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -331,26 +331,6 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Liszt: Liebestraum",
-        "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Mariam Batsashvili",
-          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
-        }
-      ],
-      "duration_ms": 272120,
-      "name": "Liszt: Liebestr\u00e4ume, S. 541: No. 3 in A-Flat Major, Oh Lieb, so lang du lieben kannst",
-      "url": "https://open.spotify.com/track/1lsoLwWEBShib552HKgr2y"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
         "name": "Bewitched (Rework)",
         "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 262876,
       "name": "Bewitched - Rework",
       "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
+        "name": "Liszt: Liebestraum",
+        "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "duration_ms": 272120,
+      "name": "Liszt: Liebestr\u00e4ume, S. 541: No. 3 in A-Flat Major, Oh Lieb, so lang du lieben kannst",
+      "url": "https://open.spotify.com/track/1lsoLwWEBShib552HKgr2y"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2025-12-22 13:22:10",
+      "album": {
         "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
         "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 194000,
       "name": "Lieder ohne Worte, Op. 19, No. 1",
       "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
-    },
-    {
-      "added_at": "2025-12-22 13:22:10",
-      "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Four Hands",
-        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
       "artists": [
         {
@@ -1156,17 +1156,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
         }
       ],
-      "duration_ms": 140626,
-      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
-      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2025-12-22 13:22:10",
@@ -1255,8 +1251,8 @@
     {
       "added_at": "2025-12-22 13:22:10",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
+        "name": "Four Hands",
+        "url": "https://open.spotify.com/album/2BA8KYF8Dm4TzpeV7B3iVa"
       },
       "artists": [
         {
@@ -1264,13 +1260,17 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
         }
       ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+      "duration_ms": 140626,
+      "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
+      "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
     },
     {
       "added_at": "2025-12-22 13:22:10",

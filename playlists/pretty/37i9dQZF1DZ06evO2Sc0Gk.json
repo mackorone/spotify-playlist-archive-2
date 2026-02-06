@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAC47fsXlC0o0MVPtGsGish4",
+  "snapshot_id": "aYKMAAAAAAC9pQEdhyLiBkbB2pph4nHw",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 205990,
-      "name": "Make E No Tey",
-      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 205990,
+      "name": "Make E No Tey",
+      "url": "https://open.spotify.com/track/1HG1EuikzwOyMu1jWGQj6L"
     },
     {
       "added_at": null,
@@ -1019,18 +1019,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
       "artists": [
+        {
+          "name": "DJ Battle",
+          "url": "https://open.spotify.com/artist/5rQh3Nz0mE7UaBIp9hotMq"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 145325,
-      "name": "Love Me Now",
-      "url": "https://open.spotify.com/track/7z6IhNr7jIoW5WhC3UMdTq"
+      "duration_ms": 213354,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
     }
   ],
   "unique_name": "This Is Mr Eazi",

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "swim",
+        "url": "https://open.spotify.com/album/4lHEtHGt79utQFn5XauGUP"
+      },
+      "artists": [
+        {
+          "name": "Suzu Toyama",
+          "url": "https://open.spotify.com/artist/22PLvYimVUNQsA4G9HfM1u"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268019,
+      "name": "away",
+      "url": "https://open.spotify.com/track/1MYetTbja5QTuFPovHz51u"
+    },
+    {
+      "album": {
         "name": "\u7a7a\u4e2d\u30ad\u30e3\u30f3\u30d7",
         "url": "https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI"
       },
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"

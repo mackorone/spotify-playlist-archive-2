@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u8c93\u54aa\u5eab\u746a\u62c9 (Kumara the Cat)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u798f\u5922 (FUMON)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "More Real than Dreams (Original Documentary Soundtrack)",
+        "url": "https://open.spotify.com/album/3dVAoxGLONO7xe3WyAhoQr"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        },
+        {
+          "name": "dooodooo",
+          "url": "https://open.spotify.com/artist/1dHH1PggnBoToO5M35Rv9A"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213216,
+      "name": "Feather - Remix",
+      "url": "https://open.spotify.com/track/5Ye8qFcZ8KywKqRQF5sDMO"
+    },
+    {
+      "album": {
         "name": "FEEL THE FRIGHT",
         "url": "https://open.spotify.com/album/5tqDpYAW88b4QBYnyHNOQA"
       },
@@ -2532,6 +2558,24 @@
       "duration_ms": 221596,
       "name": "Leeroy Jenkins",
       "url": "https://open.spotify.com/track/0ooNgDTsM7TMPWv7ZDnn8g"
+    },
+    {
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/5e4RbnxjNEXMv7XbQTFUzo"
+      },
+      "artists": [
+        {
+          "name": "FUMON",
+          "url": "https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197663,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/6yPJonblWxOkMVscbU8c45"
     },
     {
       "album": {
@@ -3488,7 +3532,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 130540,
       "name": "POLO",
       "url": "https://open.spotify.com/track/2GZD90AuGnOydViwTdxlEY"
@@ -4766,7 +4810,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 249573,
       "name": "Underwater - Live in Santiago, Chile",
       "url": "https://open.spotify.com/track/2HpcfxdfZryN0K2HdC0Gyi"
@@ -7842,7 +7886,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169714,
       "name": "\u5403\u82e6\u5927\u88dc The NPC Anthem",
       "url": "https://open.spotify.com/track/4jucAaL6KmifmMJh7wo2qU"
@@ -9744,6 +9788,24 @@
       "duration_ms": 150313,
       "name": "\u5f71\u5b50\u7684\u5149",
       "url": "https://open.spotify.com/track/32qlAuHFqv3tDfuuvg4g9F"
+    },
+    {
+      "album": {
+        "name": "\u5f7c\u4e00\u5de5 (\u81fa\u8a9e\u53f0\u5f71\u96c6\u300a\u4eba\u751f\u53ea\u79df\u4e0d\u8ce3\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/4SaYWzfOPEggcDDL2LH99g"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u9752\u54e5",
+          "url": "https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u5f7c\u4e00\u5de5 - \u81fa\u8a9e\u53f0\u5f71\u96c6\u300a\u4eba\u751f\u53ea\u79df\u4e0d\u8ce3\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/5BkE63oB7FsMjjQHh2duk6"
     },
     {
       "album": {
@@ -15238,7 +15300,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 243933,
       "name": "\u80a5\u524d\u5c4b",
       "url": "https://open.spotify.com/track/356k0vzsXNVtiC0OvRddHo"

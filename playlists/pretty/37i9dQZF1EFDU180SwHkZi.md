@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 3 | [BOYTOY](https://open.spotify.com/track/69ubGJ11Ot1NsltUcVm4n0) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [BOYTOY](https://open.spotify.com/album/7GbEE7z2pf7QqFroyS2Kpv) | 1:50 |
 | 4 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
 | 5 | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc) | 3:06 |
-| 6 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
-| 7 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
+| 6 | [1+1](https://open.spotify.com/track/3WID8m6M9eEQ1w1k486vMc) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [1+1](https://open.spotify.com/album/7cP06bf7dmkZN52CEaoz4a) | 3:36 |
+| 7 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
 | 8 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 |
 | 9 | [Control](https://open.spotify.com/track/5NH6GqeHO5Zi4bJpPfnwPs) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Control](https://open.spotify.com/album/6QRfFKXgzfBmVcdrUq6L9u) | 2:33 |
 | 10 | [Thank You God](https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [Thank You God](https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK) | 2:12 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 136 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 137 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcIzLAAAAADPolTogvQ+HMikNimKdEKp`
+Snapshot ID: `AcI49AAAAACpW1xh4gpK7dP+q+84jTHQ`

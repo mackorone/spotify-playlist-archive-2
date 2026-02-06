@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 207280,
+  "num_followers": 207298,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADhVskBfVLKja5mxgq0q9f8",
+  "snapshot_id": "aYKMAAAAAADb4nswZkyI6IKZZPizqUy/",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 395161,
-      "name": "Back To Life (Live)",
-      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Will Not Be Shaken",
         "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You",
       "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 395161,
+      "name": "Back To Life (Live)",
+      "url": "https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe (Live)",
+      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Must Respond (Deluxe) [Live]",
         "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 419549,
       "name": "Even Though I Walk - Live At Church",
       "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe (Live)",
-      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 369923,
-      "name": "I Want Jesus - Live",
-      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 389982,
       "name": "Send Me (Live)",
       "url": "https://open.spotify.com/track/5f9NBSHUJ85cpV1tfDDJM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 369923,
+      "name": "I Want Jesus - Live",
+      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,

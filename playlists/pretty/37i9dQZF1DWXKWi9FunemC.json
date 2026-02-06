@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 393250,
+  "num_followers": 393302,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "That's who I praise (from the studio)",
+        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 193926,
+      "name": "That's who I praise - from the studio",
+      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Brittle",
         "url": "https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 188463,
       "name": "i love You",
       "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "That's who I praise (from the studio)",
-        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 193926,
-      "name": "That's who I praise - from the studio",
-      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Be My Glory",
+        "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
+      },
+      "artists": [
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "duration_ms": 262213,
+      "name": "Be My Glory",
+      "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Childlike",
         "url": "https://open.spotify.com/album/3B5TCTmp4qMynkhVWJVZCa"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 137851,
       "name": "RIPE",
       "url": "https://open.spotify.com/track/6C6aqax6d3fYf2qZC7R4Zr"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Be My Glory",
-        "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
-      },
-      "artists": [
-        {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
-        }
-      ],
-      "duration_ms": 262213,
-      "name": "Be My Glory",
-      "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1663,22 +1679,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/769783yoELFpFOSUNmv5St"
       },
@@ -1691,26 +1691,6 @@
       "duration_ms": 184839,
       "name": "Water",
       "url": "https://open.spotify.com/track/2XYipR92BgIvtWuXiaIK8C"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Better Plan",
-        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Better Plan",
-      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1767,18 +1747,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "back to life",
-        "url": "https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY"
+        "name": "Better Plan",
+        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
       },
       "artists": [
         {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
         }
       ],
-      "duration_ms": 138400,
-      "name": "back to life",
-      "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
+      "duration_ms": 238152,
+      "name": "Better Plan",
+      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1795,6 +1779,22 @@
       "duration_ms": 202117,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "back to life",
+        "url": "https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY"
+      },
+      "artists": [
+        {
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "back to life",
+      "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+      },
+      "artists": [
+        {
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+        }
+      ],
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
-      },
-      "artists": [
-        {
-          "name": "In the Wild",
-          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
-        }
-      ],
-      "duration_ms": 284545,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Who's My Neighbor? (Acoustic)",
+        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Who's My Neighbor? - Acoustic",
+      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1943,22 +1959,6 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Who's My Neighbor? (Acoustic)",
-        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Who's My Neighbor? - Acoustic",
-      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "This Holy Moment",
-        "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
-      },
-      "artists": [
-        {
-          "name": "Neal Carpenter",
-          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
-        },
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "This Holy Moment",
-      "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "on Christ the solid rock i stand.",
         "url": "https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 154000,
       "name": "on Christ the solid rock i stand.",
       "url": "https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "This Holy Moment",
+        "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
+      },
+      "artists": [
+        {
+          "name": "Neal Carpenter",
+          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
+        },
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 212192,
+      "name": "This Holy Moment",
+      "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "I Smile (Neo-Soul Version)",
-        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
-      },
-      "artists": [
-        {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "I Smile - Neo-Soul Version",
-      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "I See It Now",
         "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 189292,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "I Smile (Neo-Soul Version)",
+        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "I Smile - Neo-Soul Version",
+      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Jesus the Vine",
+        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
+      },
+      "artists": [
+        {
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
+        }
+      ],
+      "duration_ms": 270740,
+      "name": "Jesus the Vine",
+      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/6Vpp6LsUPvDZ1ltewfdijO"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 192168,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5mRoQMgnniTmh9IITXZnwn"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Jesus the Vine",
-        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
-      },
-      "artists": [
-        {
-          "name": "Michael Gabriel Monroe",
-          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
-        }
-      ],
-      "duration_ms": 270740,
-      "name": "Jesus the Vine",
-      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Holy Here and Now",
-        "url": "https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i"
-      },
-      "artists": [
-        {
-          "name": "Sophia Rebekah Mitchell",
-          "url": "https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f"
-        }
-      ],
-      "duration_ms": 247336,
-      "name": "Holy Here and Now",
-      "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Go With Me",
         "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 265566,
       "name": "Go With Me",
       "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Holy Here and Now",
+        "url": "https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i"
+      },
+      "artists": [
+        {
+          "name": "Sophia Rebekah Mitchell",
+          "url": "https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f"
+        }
+      ],
+      "duration_ms": 247336,
+      "name": "Holy Here and Now",
+      "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Miracle Service",
-        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
-      },
-      "artists": [
-        {
-          "name": "Andy Squyres",
-          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
-        }
-      ],
-      "duration_ms": 261918,
-      "name": "Gutter Punk",
-      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "The Friend & True King",
         "url": "https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 122000,
       "name": "Glory of God",
       "url": "https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Miracle Service",
+        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
+      },
+      "artists": [
+        {
+          "name": "Andy Squyres",
+          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
+        }
+      ],
+      "duration_ms": 261918,
+      "name": "Gutter Punk",
+      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Who Loves",
-        "url": "https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF"
-      },
-      "artists": [
-        {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
-        }
-      ],
-      "duration_ms": 144326,
-      "name": "Who Loves",
-      "url": "https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 219402,
       "name": "Tomorrow Mind",
       "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Who Loves",
+        "url": "https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "duration_ms": 144326,
+      "name": "Who Loves",
+      "url": "https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN"
     },
     {
       "added_at": "2025-12-12 22:29:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 162 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 162 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 110 | [HONEST](https://open.spotify.com/track/6l0mMVn53nV2steaFy2Umv) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:59 |
 | 111 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
 | 112 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 |
-| 113 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
-| 114 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
+| 113 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
+| 114 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
 | 115 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
 | 116 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 117 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 122 | [CLARITY](https://open.spotify.com/track/3z1z0Rjwhi6U71yv0qy85D) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:44 |
 | 123 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 124 | [smile](https://open.spotify.com/track/1o5PIcmxZ6Hl6kiLAljn8U) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 2:35 |
-| 125 | [Prayer](https://open.spotify.com/track/0Icee9AJypU9jfgXPc2NkV) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 3:05 |
-| 126 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
+| 125 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
+| 126 | [Prayer](https://open.spotify.com/track/0Icee9AJypU9jfgXPc2NkV) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 3:05 |
 | 127 | [Love Ain't Perfect](https://open.spotify.com/track/5hb43H5mkRI1sEML9jakgy) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:54 |
 | 128 | [Know You Bare](https://open.spotify.com/track/19kCmuqL53m9Hr6hAUnbQn) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:11 |
 | 129 | [SOBER](https://open.spotify.com/track/0nkOBl6xJlmThbW6gwbD6k) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NEW HOLLYWOOD](https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc) | 2:53 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 161 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 162 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcIzNgAAAACALNW+tLRdAe5SMlRiws1b`
+Snapshot ID: `AcI4zAAAAADd8/HkhjcKobJXNtn8YpUY`

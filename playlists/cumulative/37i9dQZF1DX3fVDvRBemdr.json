@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste releases Hollands & Volks. Cover: Quido van de Graaf",
+  "description": "De nieuwste releases Hollands & Volks. Cover: Jesse Prins",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 167462,
       "name": "1 keer in je leven",
       "url": "https://open.spotify.com/track/40k7gc5XwQdU7VtKrRnDAP"
+    },
+    {
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/4amrfzBhiVhXDGLyrMnzkX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Prins",
+          "url": "https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171950,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/25vyONTCBi5i4J2k8NSngB"
     },
     {
       "album": {
@@ -777,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Amor De Mis Amores (De Pijn Zit Diep In Mij)",
+        "url": "https://open.spotify.com/album/3znIkOJ8gx864A0YFsLUel"
+      },
+      "artists": [
+        {
+          "name": "William Janz",
+          "url": "https://open.spotify.com/artist/6QOY0ValrQ2jZFVDR7kxUP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174794,
+      "name": "Amor De Mis Amores (De Pijn Zit Diep In Mij)",
+      "url": "https://open.spotify.com/track/7ClaUNp2RUzAWRKYmmPpyj"
+    },
+    {
+      "album": {
         "name": "Amore Bella Ciao",
         "url": "https://open.spotify.com/album/6tbso4EAEJ81shffvgFtIw"
       },
@@ -860,7 +896,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 207304,
       "name": "Avond 2.0",
       "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
@@ -1920,7 +1956,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 157613,
       "name": "De Tent Moet Op Z'n Kop",
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
@@ -2855,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Ga Maar Weg",
+        "url": "https://open.spotify.com/album/1LdSdblkB9FyS7UgMqV7dG"
+      },
+      "artists": [
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Ga Maar Weg",
+      "url": "https://open.spotify.com/track/5hKzFdijIotT1gIqz0OeSU"
+    },
+    {
+      "album": {
         "name": "Gas erop!",
         "url": "https://open.spotify.com/album/42jWVRVwpS1cDOtJ1KucYL"
       },
@@ -2992,7 +3046,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 156000,
       "name": "Gekke Henkie",
       "url": "https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 141714,
       "name": "Geniet Zo Van Het Leven",
       "url": "https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY"
@@ -3468,7 +3522,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143326,
       "name": "Het Maakt Niet Uit",
       "url": "https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC"
@@ -4215,6 +4269,28 @@
     },
     {
       "album": {
+        "name": "Ik wacht op jou",
+        "url": "https://open.spotify.com/album/4iw7F23zKBVUQkxVdENIdz"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Lake",
+          "url": "https://open.spotify.com/artist/3mQHrWl5C7GlT27Ad6rdW3"
+        },
+        {
+          "name": "Shirma Rouse",
+          "url": "https://open.spotify.com/artist/1vNl797vEfGx0JnC1eFoH0"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185574,
+      "name": "Ik wacht op jou",
+      "url": "https://open.spotify.com/track/4YcfFwDlneJoTvSC1v2HMI"
+    },
+    {
+      "album": {
         "name": "Ik War Laot",
         "url": "https://open.spotify.com/album/7pooZROmgtmAYjPgVzfGt8"
       },
@@ -4718,6 +4794,24 @@
       "duration_ms": 150819,
       "name": "Je Bent Hier Nooit Alleen",
       "url": "https://open.spotify.com/track/2TyGIyrjaXrKbOTXR6RXQG"
+    },
+    {
+      "album": {
+        "name": "Je bent zo veranderd",
+        "url": "https://open.spotify.com/album/1DqPBenTbUmhQgW8dBYu78"
+      },
+      "artists": [
+        {
+          "name": "Wesley Wassenaar",
+          "url": "https://open.spotify.com/artist/5eX5kUZ9b4t0CmEytjKcDT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Je bent zo veranderd",
+      "url": "https://open.spotify.com/track/4vYZ7nlG0iQNLFyibvIi4M"
     },
     {
       "album": {
@@ -7156,7 +7250,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177777,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/6fODWXYbCne8bFDOCvmDJs"
@@ -9338,6 +9432,28 @@
       "duration_ms": 167124,
       "name": "Wie Is De Mol",
       "url": "https://open.spotify.com/track/62SrmfifnwvjVnSbViCvYM"
+    },
+    {
+      "album": {
+        "name": "Wiegelied (2.0)",
+        "url": "https://open.spotify.com/album/09UBeoyQDy3ay8sBgQmXZE"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        },
+        {
+          "name": "Jeffrey Parmentier",
+          "url": "https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158209,
+      "name": "Wiegelied - 2.0",
+      "url": "https://open.spotify.com/track/0uzWXLY18awtT7GiisLBrG"
     },
     {
       "album": {

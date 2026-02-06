@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,545 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,549 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 45 | [Legendary \(feat\. Gunna\)](https://open.spotify.com/track/4yn0ftNHQSwsWE81h33y4K) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:32 |
 | 46 | [For The Road](https://open.spotify.com/track/0OtheRYyJGITOx0jq6pDEJ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 4:03 |
 | 47 | [soak city \(feat\. BlueBucksClan\)](https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 4:04 |
-| 48 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:15 |
+| 48 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
 | 49 | [Haute \(feat\. J Balvin & Chris Brown\)](https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:40 |
-| 50 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
+| 50 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:15 |
 
-Snapshot ID: `aYE6gAAAAAAL7Iy19JmLP9vhVIYYb0R1`
+Snapshot ID: `aYKMAAAAAACXOgABg1pbB+Yhq55ZQx6U`

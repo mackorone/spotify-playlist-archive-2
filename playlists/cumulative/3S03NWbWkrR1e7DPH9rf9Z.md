@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-222 songs - 10 hr 51 min
+224 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Greenlight](https://open.spotify.com/track/1KsQ8y9wtQnOnQHgnZLu3L) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Greenlight](https://open.spotify.com/album/64xjMvMB0ysQiX9gjeMUug) | 2:57 | 2025-07-04 |  |
 | [Guilty Spark](https://open.spotify.com/track/0IGGOWosubSFpF6Iwrdjul) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Guilty Spark](https://open.spotify.com/album/71hB2QziDrXE4oe7bkM83p) | 2:52 | 2025-07-04 |  |
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2025-07-04 |  |
+| [Happy Now](https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [LEA KEY](https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py) | [Happy Now](https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT) | 2:48 | 2026-02-05 |  |
 | [Happy Revolution](https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Happy Revolution](https://open.spotify.com/album/6qSGivtT6c6VqXtXNjoeuL) | 2:52 | 2025-07-04 |  |
 | [Happy Revolution \- Alex D'Rosso Remix](https://open.spotify.com/track/77sLBjkgbknLR0mfW34ZcQ) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Blood, Sweat & Smiles \(The Remixes\)](https://open.spotify.com/album/7KfQZEIyNZJF97vH1UXgTp) | 2:41 | 2025-07-04 |  |
 | [Hardcore MOFO](https://open.spotify.com/track/3TV30JPYS42sExP4UeBFN7) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Hardcore MOFO](https://open.spotify.com/album/1pah82RaSRH7t0HaVw5pZd) | 2:58 | 2025-07-04 |  |
@@ -213,6 +214,7 @@
 | [Trippin](https://open.spotify.com/track/27ekQRCAsBNinImk4GE7Hl) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Trippin](https://open.spotify.com/album/42yJ828gmop6RvNRbBCab0) | 3:06 | 2025-07-04 |  |
 | [Tsunami \- Original Mix](https://open.spotify.com/track/3felG0BIvmmOoCIeE2A5vq) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami \(Original Mix\)](https://open.spotify.com/album/11bkt0bAaSycDHNd4OYH3R) | 3:56 | 2025-07-04 |  |
 | [Turn It Up](https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Turn It Up](https://open.spotify.com/album/5mQaSzlFbbTR1XgxBuJJJL) | 2:49 | 2025-07-04 | 2025-09-06 |
+| [Turn Up The Volume](https://open.spotify.com/track/6eA17OjmhaKOaLsSdkzQxk) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Gaz Meeko](https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6) | [Turn Up The Volume](https://open.spotify.com/album/0fqsIXjekfrVEPggWdgvFg) | 2:30 | 2026-02-05 |  |
 | [Unobsidian](https://open.spotify.com/track/7hK5LzrcxkYFDrrWTL2La3) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 6:11 | 2025-07-04 |  |
 | [Venno](https://open.spotify.com/track/5c6b3gmHsKRh06BMsZeJNa) | [Erik Hubo](https://open.spotify.com/artist/1imbx6HxQr0PkQtA5LHB9b) | [Venno](https://open.spotify.com/album/4nJ3zZhKsHvUTYuRF0osKI) | 3:04 | 2025-08-29 |  |
 | [Virus \(How About Now\) \- Radio Edit](https://open.spotify.com/track/6GLzN6o2fkOupy8e1vGzwp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\) \[Radio Edit\]](https://open.spotify.com/album/22GK1YrW3XnIFnhifmv5nZ) | 3:19 | 2025-07-04 |  |

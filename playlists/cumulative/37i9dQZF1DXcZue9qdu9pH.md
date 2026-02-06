@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-155 songs - 8 hr 33 min
+158 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Find Your Way \- Acoustic](https://open.spotify.com/track/2dE4C4x6itFc1Lxops4Hgy) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Presha \(Acoustic\)](https://open.spotify.com/album/3tXc0EcWrNJIWMQMSz8bF6) | 3:39 | 2023-06-30 | 2023-09-02 |
 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 | 2024-09-26 | 2024-10-04 |
 | [Freak Show](https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Freak Show](https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg) | 2:27 | 2025-09-11 |  |
+| [Free Rein](https://open.spotify.com/track/0qUAJXjeX3Xjy3ZvlSRUaz) | [Sidi](https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Free Rein](https://open.spotify.com/album/5U3H0A6fCzyl0FIzxmWcme) | 4:24 | 2026-02-05 |  |
 | [From the Other Side](https://open.spotify.com/track/6CpGpXZp9HMp0gkMUafRwC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [From the Other Side](https://open.spotify.com/album/2nleFIOQCJ9SAKQJt4bzSG) | 3:21 | 2024-12-05 | 2025-03-14 |
 | [Fuego](https://open.spotify.com/track/7EDyotg14mU02A92I7MIkF) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:29 | 2023-06-30 | 2024-05-04 |
 | [Further Lighter](https://open.spotify.com/track/4OIlpwFnpccLfdiVLZEV47) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7) | [Further Lighter](https://open.spotify.com/album/6zLOG4yi9RyGYmZEpBc8z9) | 3:17 | 2023-06-30 | 2024-06-01 |
@@ -92,6 +93,7 @@
 | [My Light](https://open.spotify.com/track/0ODhQkKwD6Sg3nIFK7GD7R) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [Let The Light In EP](https://open.spotify.com/album/3KcggRmGrhbU47A71dJ4HH) | 6:01 | 2023-06-30 | 2023-10-24 |
 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 | 2025-08-21 |  |
 | [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 |  |
+| [Next to You](https://open.spotify.com/track/6jzTlL6HZzakz2kTUU38WG) | [Macua](https://open.spotify.com/artist/41ODikbo3Wh2SWsZORQJIh), [Attara](https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN) | [Next to You](https://open.spotify.com/album/2nRJDMEAicvIZv4NQp5z1E) | 2:43 | 2026-02-05 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
 | [no promises](https://open.spotify.com/track/6zH0Q8VlQs18p6TFe9xD8H) | [Klyffe](https://open.spotify.com/artist/3cUBcmugvvHi9RW6hDGnmO) | [no promises](https://open.spotify.com/album/7r3JRAU0Oy7ONXhO4ddt8l) | 3:37 | 2026-01-29 |  |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 | 2025-11-28 |
@@ -152,6 +154,7 @@
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |
 | [UCHUMI NI MBAYA](https://open.spotify.com/track/6DXRuErErntN421fotfSY4) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [UCHUMI NI MBAYA](https://open.spotify.com/album/5tqDC86E1wrPERlqZMO2Rn) | 2:33 | 2023-06-30 | 2024-08-02 |
 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 | 2023-06-30 | 2024-03-23 |
+| [UNTITLED 1981](https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [UNTITLED 1981](https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0) | 3:07 | 2026-02-05 |  |
 | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 | 2025-06-14 |
 | [Wa Nyonia](https://open.spotify.com/track/4oyO1JIYJxzcYA6y0VZDD6) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Nyona](https://open.spotify.com/album/4XimS41pHdNcGhrUZ6uyRg) | 5:38 | 2025-07-24 |  |
 | [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 | 2024-02-09 |

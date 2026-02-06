@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,759 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,753 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [Move & Flow](https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Move & Flow](https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK) | 3:56 |
 | 25 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
 | 26 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |
-| 27 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
-| 28 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
+| 27 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
+| 28 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
 | 29 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 |
 | 30 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 |
 | 31 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 41 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 |
 | 42 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
 | 43 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
-| 44 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 |
-| 45 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
+| 44 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
+| 45 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 |
 | 46 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 |
 | 47 | [Love4Life](https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Love4Life](https://open.spotify.com/album/2kFAnmsfslBSfxxOfWo1Ju) | 3:28 |
 | 48 | [two shots in and sobbing](https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [two shots in and sobbing](https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7) | 3:44 |

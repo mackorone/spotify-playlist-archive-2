@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 294910,
+  "num_followers": 294984,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "La Mina Verde",
-        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
-      },
-      "artists": [
-        {
-          "name": "Los Sembradores",
-          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
-        }
-      ],
-      "duration_ms": 204019,
-      "name": "El Celoso",
-      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 234586,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "La Mina Verde",
+        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "El Celoso",
+      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -2067,8 +2067,8 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Tres Semanas",
-        "url": "https://open.spotify.com/album/2St0cnAHnTIvGeigZz5wkJ"
+        "name": "M\u00e1s De Mi Alma",
+        "url": "https://open.spotify.com/album/5A6qYZGIWnOXhPFtGnrKAF"
       },
       "artists": [
         {
@@ -2076,9 +2076,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 219680,
-      "name": "Tres Semanas",
-      "url": "https://open.spotify.com/track/1OqcfMMZrkxtQFRXFhk2j6"
+      "duration_ms": 257399,
+      "name": "Donde Estara Mi Primavera",
+      "url": "https://open.spotify.com/track/5fUMiojNarx83jSyA1MhFH"
     },
     {
       "added_at": "2025-01-23 17:30:18",

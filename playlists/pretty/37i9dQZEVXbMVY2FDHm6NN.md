@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,583 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,601 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [看着我的眼睛说](https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi) | 4:20 |
 | 50 | [一個人想著一個人](https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [終極一班2 \(電視原聲帶\)](https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM) | 4:03 |
 
-Snapshot ID: `MRaswAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MRf+QAAAAAAAAAAAAAAAAAAAAAAAAGVu`

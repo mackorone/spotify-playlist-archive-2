@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: R2Bees",
+  "description": "The hottest and recent Ghana party starters. Cover: King Promise & Mr Eazi ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -4036,10 +4036,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 244571,
       "name": "Fire (feat. NATURE)",
       "url": "https://open.spotify.com/track/1DB7dwGuuAC4vhKMjzwvHR"
+    },
+    {
+      "album": {
+        "name": "Fire Go",
+        "url": "https://open.spotify.com/album/0khtpC9XGPRe9CFLQjPVWI"
+      },
+      "artists": [
+        {
+          "name": "Blacq \u00c9nergy",
+          "url": "https://open.spotify.com/artist/73PqrrbJs3V4BgYvKXzMm8"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Fire Go",
+      "url": "https://open.spotify.com/track/5nvokuidjeeZ0EvK6IB3Nm"
     },
     {
       "album": {
@@ -4210,7 +4228,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167568,
       "name": "FOTO (feat. Olivetheboy)",
       "url": "https://open.spotify.com/track/62YA8oIfNjNIrvR8ZgVMft"
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 158267,
       "name": "OMG",
       "url": "https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B"
@@ -10912,6 +10930,28 @@
       "duration_ms": 201869,
       "name": "Terry Bonchaka",
       "url": "https://open.spotify.com/track/21AxRJVvN79UfvAiIBfPYz"
+    },
+    {
+      "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "album": {

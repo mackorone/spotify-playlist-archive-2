@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 24569,
+  "num_followers": 24574,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAA5T89Y2T3gmvgBij6FO/NA",
+  "snapshot_id": "aYKMAAAAAABqMgO8eh6sTrHtOi4imvaI",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 385307,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 385307,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Imenso Amor",
         "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 203235,
       "name": "Imenso Amor",
       "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 336644,
-      "name": "O Caminho do Milagre",
-      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
     },
     {
       "added_at": null,

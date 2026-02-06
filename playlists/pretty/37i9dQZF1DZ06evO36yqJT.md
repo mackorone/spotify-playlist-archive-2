@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,906 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,907 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 12 | [He'll Do It Again](https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 |
 | 13 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:57 |
 | 14 | [I Am Determined](https://open.spotify.com/track/06lXRkRWOse6IQjVEHdYcr) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Go](https://open.spotify.com/album/2vUXb5h6EOjpUdRfPT58vo) | 4:08 |
-| 15 | [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 |
-| 16 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 |
+| 15 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 |
+| 16 | [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 |
 | 17 | [Strong Man](https://open.spotify.com/track/226jnN4L43ACMq1CdP96py) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 5:40 |
 | 18 | [911 \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/4z3IFdq3JshRr3NIeWCiJk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 4:41 |
 | 19 | [Prayer Changes Things](https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:59 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 38 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
 | 39 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 |
 | 40 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
-| 41 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 |
-| 42 | [Faded Rose](https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [First Lady](https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG) | 5:15 |
-| 43 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
+| 41 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
+| 42 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 |
+| 43 | [Faded Rose](https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [First Lady](https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG) | 5:15 |
 | 44 | [When You Pray God Answers](https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 6:40 |
-| 45 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 |
+| 45 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
 | 46 | [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 |
-| 47 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 |
-| 48 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
-| 49 | [There Is Power in the Blood](https://open.spotify.com/track/6DNpzYsh4UzvHlnUwMa0Ks) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 2:58 |
+| 47 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 |
+| 48 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 |
+| 49 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
 | 50 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel) | 3:56 |
 
-Snapshot ID: `aYE6gAAAAAC3RWORaHqmZsnmE2PUkAcz`
+Snapshot ID: `aYKMAAAAAADZ9ge5e13NLU8QYAOiECLd`

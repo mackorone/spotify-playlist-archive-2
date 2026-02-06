@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
+    },
+    {
+      "album": {
         "name": "AIN'T MY GAME",
         "url": "https://open.spotify.com/album/4wPVVVZAqOGl4JMQAn50aq"
       },
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Eat My Dust!",
+        "url": "https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179387,
+      "name": "Eat My Dust!",
+      "url": "https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl"
+    },
+    {
+      "album": {
         "name": "1/2",
         "url": "https://open.spotify.com/album/1gysbgJ8ZrAqrWEgKHl5uN"
       },
@@ -3392,6 +3428,24 @@
       "duration_ms": 175233,
       "name": "HELL BOY",
       "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
+    },
+    {
+      "album": {
+        "name": "Hella Good",
+        "url": "https://open.spotify.com/album/0pHlaQDXd2x2XiSj3urIyX"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/0qpqTbW0hU89ekz6E8t5if"
     },
     {
       "album": {
@@ -9451,6 +9505,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+    },
+    {
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -9928,7 +10000,7 @@
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
+          "name": "alexsucks",
           "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],

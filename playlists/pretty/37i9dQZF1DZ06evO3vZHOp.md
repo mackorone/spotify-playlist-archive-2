@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,360 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,432 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 18 | [Sin Frenos](https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:31 |
 | 19 | [100 Conmigo](https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:31 |
 | 20 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 |
-| 21 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 |
-| 22 | [1%](https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [1%](https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln) | 3:44 |
+| 21 | [1%](https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [1%](https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln) | 3:44 |
+| 22 | [$extape](https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [$extape](https://open.spotify.com/album/7dYjX7872rRPpLmiNG15nF) | 4:04 |
 | 23 | [H.I.M.](https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 2:10 |
 | 24 | [Quizás, Tal Vez](https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:27 |
 | 25 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 49 | [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 |
 | 50 | [77](https://open.spotify.com/track/6jUgruwAzfIA3HUQIO3wCR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:35 |
 
-Snapshot ID: `aYE6gAAAAABj4q5RDhrXcod9kPueguNT`
+Snapshot ID: `aYKMAAAAAACQCOLLsNxFC4g62UGFuNk/`

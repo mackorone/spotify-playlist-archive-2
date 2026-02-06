@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-512 songs - 1 day 17 hr 10 min
+513 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [For Life](https://open.spotify.com/track/5vNkdBzuK63Ciq0p1A2Ch2) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Gogo Majin](https://open.spotify.com/artist/19hVEjAVM5ZdyX04WQvZeP), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 4:15 | 2025-04-18 | 2025-04-22 |
 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 | 2023-12-29 | 2025-10-10 |
 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 | 2023-12-29 | 2025-02-14 |
-| [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2024-03-29 |  |
+| [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2024-03-29 | 2026-02-06 |
 | [Forever It Is Done](https://open.spotify.com/track/3TyRJ4x7El0PujsfO5yzHg) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/0c3D3i10HWtE7ue0emwOA7) | 5:15 | 2024-03-29 | 2024-04-05 |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Fragrance](https://open.spotify.com/track/5d7XeBCY5V4WV7yO6BD4Cq) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance](https://open.spotify.com/album/2e8K2P2XWzFxeyGWEHVEKV) | 4:27 | 2024-01-12 | 2024-02-24 |
@@ -397,6 +397,7 @@
 | [Pull Up](https://open.spotify.com/track/1WC7cB9fAdM2pffBJeGa3y) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Sam Jamz](https://open.spotify.com/artist/0WVbwaQHSJrgNuAOfxmwJd) | [Pull Up](https://open.spotify.com/album/6H7qFdcJ8Oan5gkkxLjjaU) | 2:58 | 2023-08-19 | 2023-09-01 |
 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-12-29 | 2024-07-27 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-09 | 2024-09-07 |
+| [Rap Version with Drakare & Miracle Paul \- Remix](https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Miracle Paul](https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0) | [Goodness and Mercy EP \(Remix Pack\)](https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz) | 2:14 | 2026-02-06 |  |
 | [Reckless Love](https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg) | 5:33 | 2025-07-18 |  |
 | [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 |  |
 | [Remember](https://open.spotify.com/track/04wVpeALDGkERQJUxcUVDh) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Remember](https://open.spotify.com/album/0WYQeKtos7ECUjiA8k1Yao) | 3:48 | 2024-03-29 | 2024-04-05 |

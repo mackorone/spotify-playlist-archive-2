@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. COUCOU CHLOE
+> welcome to our universe ft\. ecca vandal
 
-1,249 songs - 2 day 13 hr 34 min
+1,253 songs - 2 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [ASHAMED \[Feat\. Lauren Mayberry\]](https://open.spotify.com/track/15b2BhawVZK3pQ7c2BhUcU) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [ASHAMED f/ Lauren Mayberry](https://open.spotify.com/album/1N5ZcTHlOBXHGhnQtUu2BZ) | 3:01 | 2024-06-13 | 2024-10-11 |
 | [ask nicely](https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9) | 2:39 | 2024-02-16 | 2024-05-17 |
 | [ask nicely](https://open.spotify.com/track/0z2SfGU6eMdIxmGRP86cLL) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [ask nicely](https://open.spotify.com/album/1lEfntFhy6muNSOVI9V2Bp) | 2:39 | 2024-03-29 | 2024-04-19 |
+| [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-06 |  |
 | [atoms](https://open.spotify.com/track/139vV5MsZSsOgzz0CU6Mgk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [hawthorne81 / atoms](https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV) | 2:48 | 2023-07-20 | 2023-07-28 |
 | [Attainable](https://open.spotify.com/track/2RMWx21y9xyUZ8naxDae2w) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Only Constant](https://open.spotify.com/album/3khEZvQmpSLplYYIlmK8ti) | 1:43 | 2024-05-28 | 2024-06-07 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 | 2022-09-09 |
@@ -117,6 +118,7 @@
 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-07-28 | 2023-03-09 |
 | [blame](https://open.spotify.com/track/3nuMtZAqdSLTGAWBQnvjsZ) | [Sinxi](https://open.spotify.com/artist/7gPvslUym7gEDxebPSkGkZ) | [blame](https://open.spotify.com/album/3SfHODt7uKCPq4lcesaFum) | 3:57 | 2024-07-18 | 2024-10-04 |
 | [BLAST](https://open.spotify.com/track/1KFoSgEXNktySoRzA3dQwT) | [Charles Jeffrey LOVERBOY](https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ), [Taliable](https://open.spotify.com/artist/2STpck5MSfT4rIOAVsdn1L) | [NEKO](https://open.spotify.com/album/6uDqbQjGjh4X8CMK9mPJc6) | 2:09 | 2022-11-04 | 2023-01-13 |
+| [BLEACH](https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [BLEACH](https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO) | 2:28 | 2026-02-06 |  |
 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-03-24 | 2023-07-07 |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-12-27 | 2022-01-19 |
 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 | 2025-09-11 | 2025-10-17 |
@@ -785,7 +787,7 @@
 | [My Mother Wants Me Dead](https://open.spotify.com/track/04rzwxnFGsFYeP3rqE1s3U) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 1:45 | 2023-03-08 | 2023-03-09 |
 | [My Name is Dark \- Art Mix](https://open.spotify.com/track/43DBhwmvfhWTQwBRmJsafC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:56 | 2021-12-27 | 2022-01-19 |
 | [my pointy teeth](https://open.spotify.com/track/27kaLzrGddRuVAEVaJUidv) | [plastic dagger](https://open.spotify.com/artist/2HTx7d0LmFQtmzj7pdBivS) | [ambrosia](https://open.spotify.com/album/6ddwnogzbyQjvjPEe7auo4) | 2:22 | 2022-04-19 | 2022-04-29 |
-| [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-07 |  |
+| [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-07 | 2026-02-06 |
 | [N.O.V.A](https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [N.O.V.A](https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487) | 2:40 | 2025-07-24 | 2025-10-04 |
 | [Nadi](https://open.spotify.com/track/6tlJe47ByWS9zs1op6cHfB) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Nadi](https://open.spotify.com/album/3wPfyer3cgvYnj9fAvIzMK) | 3:07 | 2025-05-01 | 2025-10-24 |
 | [NAKED](https://open.spotify.com/track/23FE8L9m7gFYt9UBpWfJCo) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [NAKED](https://open.spotify.com/album/2E9m50Y6IaXTewP1sT6ZP6) | 3:14 | 2025-08-28 | 2025-11-21 |
@@ -1005,6 +1007,7 @@
 | [sL33pwalking.idl](https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 4:25 | 2025-07-10 | 2025-12-09 |
 | [Slap On The Wrist](https://open.spotify.com/track/54t4eAvCmdEWh2QwelmCXC) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Slap On The Wrist](https://open.spotify.com/album/7hVghiFPHSveuIwK8YzQWt) | 2:38 | 2026-01-23 |  |
 | [Slaughterhouse](https://open.spotify.com/track/2ihOfzUITCgdd5Q3GGrkHB) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Slaughterhouse](https://open.spotify.com/album/7lL4zgnKOC8Ip2C0Y00NZ8) | 2:44 | 2024-04-05 | 2024-07-12 |
+| [Slave to the Rithm](https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [](https://open.spotify.com/album/null) | 4:29 | 2026-02-06 |  |
 | [Sleep](https://open.spotify.com/track/5fbZVhEcjSma29ifhegrdR) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sleep](https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq) | 3:13 | 2023-04-20 | 2023-08-04 |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-30 | 2023-05-13 |
 | [SLOW DEATH](https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [SLOW DEATH](https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV) | 2:15 | 2023-05-25 | 2023-08-25 |
@@ -1123,6 +1126,7 @@
 | [Time Will Tell](https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Empty Hands](https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C) | 3:27 | 2026-01-23 |  |
 | [TIMEPIECE](https://open.spotify.com/track/3iO5is79RNo5V8ESIqblcj) | [BUBZ](https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p) | [TIMEPIECE](https://open.spotify.com/album/5nptLfPlk5DSp0VU3cuC9y) | 3:47 | 2024-06-06 | 2024-06-28 |
 | [Tired](https://open.spotify.com/track/39OLKv0t5sBBoOCjbNwfFb) | [Zascha](https://open.spotify.com/artist/3KFcZNDet9wKNfdnEt7X8i), [Food For Thought](https://open.spotify.com/artist/1k8EGYgHPe4xN2OliBpzRH) | [Tired](https://open.spotify.com/album/2cWNwLaroTgYw5nIhl1hN4) | 2:11 | 2023-08-17 | 2023-11-11 |
+| [Tissues](https://open.spotify.com/track/62bfW3EPm01YSEPogb4gdp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Tissues](https://open.spotify.com/album/4iJHHK9rAPfifV0KSGZBmm) | 2:08 | 2026-02-06 |  |
 | [to breed](https://open.spotify.com/track/19fwvJDJAITeSDxZBpBeAP) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [to breed](https://open.spotify.com/album/1F7YOgInFvsJMhke6YGO1P) | 4:29 | 2023-02-24 | 2023-03-03 |
 | [TOES!](https://open.spotify.com/track/5xyttaYPcls5oPMqu8ZPMl) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [TOES!](https://open.spotify.com/album/5iAW91ztSFFhi1prcn1K6E) | 3:50 | 2025-05-15 | 2025-10-17 |
 | [Toilet](https://open.spotify.com/track/1EwrRgBEsPpL5CWA7kMfr0) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 3:49 | 2023-03-30 | 2023-05-13 |

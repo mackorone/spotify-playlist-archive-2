@@ -1,12 +1,12 @@
 {
   "description": "This is Zudizilla. The essential tracks, all in one playlist.",
-  "num_followers": 920,
+  "num_followers": 921,
   "original_name": "This Is Zudizilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADDFTS9qabWH9SIpqnjjr18",
+  "snapshot_id": "aYKMAAAAAAAHzygwQ8gK3P3Chy6xOkMl",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine #21",
-        "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
+        "name": "N\u00e3o",
+        "url": "https://open.spotify.com/album/2GM5jnRyzUeMAgxxMDkcvp"
       },
       "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 344540,
-      "name": "Sem Distra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3"
+      "duration_ms": 267473,
+      "name": "N\u00e3o",
+      "url": "https://open.spotify.com/track/1thKrfS5jqJbN9h4E2DGUU"
     },
     {
       "added_at": null,
@@ -635,18 +627,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o",
-        "url": "https://open.spotify.com/album/2GM5jnRyzUeMAgxxMDkcvp"
+        "name": "Hip Hop Machine #21",
+        "url": "https://open.spotify.com/album/3UjPGDykHKIVQAgIDoHRvg"
       },
       "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 267473,
-      "name": "N\u00e3o",
-      "url": "https://open.spotify.com/track/1thKrfS5jqJbN9h4E2DGUU"
+      "duration_ms": 344540,
+      "name": "Sem Distra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5aeCOJtsb0adjVAFLdeGL3"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pref\u00e1cio",
+        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 313020,
+      "name": "Pref\u00e1cio",
+      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Rimo Por Grammys",
         "url": "https://open.spotify.com/album/4htJju9wpP413iOJHuOix1"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 125648,
       "name": "N\u00e3o Rimo Por Grammys",
       "url": "https://open.spotify.com/track/57BVnuRIEXZj4QbhDv26q6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pref\u00e1cio",
-        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 313020,
-      "name": "Pref\u00e1cio",
-      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 232222,
-      "name": "N\u00e3o Sei Se Me Ouvem",
-      "url": "https://open.spotify.com/track/35qEQQP7yqzRlEoYj6zcyM"
+      "duration_ms": 313714,
+      "name": "Smooth Operator",
+      "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"
     },
     {
       "added_at": null,

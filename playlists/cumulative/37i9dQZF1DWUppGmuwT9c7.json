@@ -122,10 +122,28 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
+    },
+    {
+      "album": {
+        "name": "Al Heb Je Niets",
+        "url": "https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152458,
+      "name": "Al Heb Je Niets",
+      "url": "https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW"
     },
     {
       "album": {
@@ -300,6 +318,24 @@
       "duration_ms": 198222,
       "name": "Atje Voor De Sfeer",
       "url": "https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC"
+    },
+    {
+      "album": {
+        "name": "Avond 2.0",
+        "url": "https://open.spotify.com/album/0BVSguaWW08ymbT39URufK"
+      },
+      "artists": [
+        {
+          "name": "Martijn Stam",
+          "url": "https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207304,
+      "name": "Avond 2.0",
+      "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
     },
     {
       "album": {

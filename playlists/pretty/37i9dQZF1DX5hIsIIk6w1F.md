@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Katteyes & SINAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,596 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,612 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 8 | [VAMOS AL PARTY](https://open.spotify.com/track/00bnHZ6vxzJTMyeqQQUCOV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Kennat](https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq) | [VAMOS AL PARTY](https://open.spotify.com/album/0gJajBGn5jTrnenN5N5Vi5) | 3:40 |
 | 9 | [GALAXIA](https://open.spotify.com/track/5ctcBFR5eCxAxLfeBVv7xH) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [GALAXIA](https://open.spotify.com/album/73LvwBjzn43dc4LHqYbVVI) | 2:36 |
 | 10 | [EN LA DISCO](https://open.spotify.com/track/4avL7ImjHKmAu1KoEZu65j) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [EN LA DISCO](https://open.spotify.com/album/4j0DGrHAvPDzEwOLn4oddC) | 2:42 |
-| 11 | [no pa la tele](https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [no pa la tele](https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3) | 3:31 |
+| 11 | [No Pa La Tele](https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY) | [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [No Pa La Tele](https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3) | 3:31 |
 | 12 | [TU Y YO](https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [TU Y YO](https://open.spotify.com/album/0zIVCVPhluii2owRVJn9Nm) | 2:35 |
 | 13 | [PERVERSA](https://open.spotify.com/track/645bl0c9hBtlDKA4vgDpCU) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [PERVERSA](https://open.spotify.com/album/1leogKtflW5HxhrEaNGhYS) | 2:39 |
 | 14 | [NO ES LO MISMO \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/4XTJaWt6SRr2rjZOhocq9m) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [QUIERE IRSE CON LOS YGRIEGA](https://open.spotify.com/album/4zizl1JrnVNMMl9BGdAdHL) | 3:42 |

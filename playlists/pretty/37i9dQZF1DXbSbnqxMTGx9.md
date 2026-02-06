@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,182,565 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,182,882 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 32 | [Simmerdown](https://open.spotify.com/track/7lbl1Ki2GqaXenJlM4zvGh) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [The Sleepwalking Society](https://open.spotify.com/album/6QXQyG4RvihMqXqCl7muS4) | 3:27 |
 | 33 | [Babylon Too Rough](https://open.spotify.com/track/2CFxgaypHjxdYWgfGFoDs0) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 2:53 |
 | 34 | [Stop That Train](https://open.spotify.com/track/4lrwg5ZBwcyRQ92seMGhIf) | [Keith & Tex](https://open.spotify.com/artist/1pyZxTpbRw7gwnEw73cfUy) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:14 |
-| 35 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 |
-| 36 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
+| 35 | [Reggae Night](https://open.spotify.com/track/6zN1eYnMZ80UHV3MLmHilT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:04 |
+| 36 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 |
 | 37 | [Last War](https://open.spotify.com/track/3CATV9Xarrz4sK5Audiq6r) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Zap Pow](https://open.spotify.com/artist/4HLDioLcWkWNKy9gWJMZAU) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 4:00 |
 | 38 | [Eastern Standard Time](https://open.spotify.com/track/04cCYxaUC2LObYVTGlRYBX) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 2:43 |
 | 39 | [The Upsetter](https://open.spotify.com/track/2oU3L7aXP2ohVQBWMN71H9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:05 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 84 | [It Comes And Goes](https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:36 |
 | 85 | [Bad Boys \(Theme from COPS\)](https://open.spotify.com/track/0qeKzbUsW0V4ZWRJrHNiD3) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:49 |
 | 86 | [Stir It Up](https://open.spotify.com/track/452CB7U24P2K6HiBS4PRY4) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection](https://open.spotify.com/album/74dSntt5j1iLVDmGguRmwj) | 3:07 |
-| 87 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 88 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 |
+| 87 | [Sky Larking](https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 3:01 |
+| 88 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
 | 89 | [The Harder They Come \- From "The Harder They Come" Soundtrack](https://open.spotify.com/track/63yKj3bpZUCWcJ4Xh6Ygl1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 3:39 |
 | 90 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 | 91 | [Could You Be Loved](https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi) | 3:56 |

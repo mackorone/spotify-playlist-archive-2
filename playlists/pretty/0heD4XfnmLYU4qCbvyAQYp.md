@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,759 likes - 90 songs - 5 hr 54 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,760 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 55 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 |
 | 56 | [Silent code](https://open.spotify.com/track/6aYkXZKiZtZdzKogJ5ghFn) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:03 |
 | 57 | [Heavy Hands](https://open.spotify.com/track/0aJlVbtOB0n5oxgJtkSsrn) | [Pebblepimp](https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV) | [Finish Grade](https://open.spotify.com/album/2YGsZ5MMye11RxtFO2nY6k) | 4:24 |
-| 58 | [Cigarettes & You](https://open.spotify.com/track/7FZVT77Cdxym3m1NIoTMsh) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Cigarettes & You](https://open.spotify.com/album/4RU6yASw82LGwgKQkxXEHp) | 4:43 |
+| 58 | [Cigarettes & You](https://open.spotify.com/track/7FZVT77Cdxym3m1NIoTMsh) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Cigarettes & You](https://open.spotify.com/album/4RU6yASw82LGwgKQkxXEHp) | 4:44 |
 | 59 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
 | 60 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 |
 | 61 | [Slack Rope](https://open.spotify.com/track/3x8nIorifFOoWpOVIeQOhC) | [Marionet](https://open.spotify.com/artist/6gGDtaknwTYnz3uL27y0Cy) | [The Last Party](https://open.spotify.com/album/4m6NOxX7CcquS9izfAs1mO) | 4:20 |

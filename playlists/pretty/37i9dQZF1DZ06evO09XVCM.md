@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,904 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,912 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 37 | [Weekend's Long](https://open.spotify.com/track/4Y2GDsWFPYA7ijDSYB4m9Y) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/7fIN5avPoJja6R05c0h0NI) | 4:27 |
 | 38 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
 | 39 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
-| 40 | [See Dem Fake Leaders](https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:58 |
-| 41 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 |
+| 40 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 |
+| 41 | [See Dem Fake Leaders](https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:58 |
 | 42 | [Reggae In My Head](https://open.spotify.com/track/1pSoPYqaxWTpiqGOnWWIOj) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:54 |
 | 43 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 |
 | 44 | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [This Train \(feat\. Willie Nelson\)](https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:38 |
 | 50 | [Black Cat](https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 2:41 |
 
-Snapshot ID: `aYE6gAAAAAA0Da8KgjydV7QgWHV6l2PT`
+Snapshot ID: `aYKMAAAAAACBqqbAclBZcPv4xVu6l0oD`

@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2031642,
+  "num_followers": 2031681,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Ruthless",
         "url": "https://open.spotify.com/album/4ioMd5NHk2AUHC7D4Wjl0n"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 187890,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/6bZ97N6T4TigAwBignOJXp"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2240,7 +2240,7 @@
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
+          "name": "alexsucks",
           "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 233596,
-      "name": "Blank Generation (Studio Version) - Recorded at Electric Lady Studios",
-      "url": "https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Funeral Mixtape",
         "url": "https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 250013,
       "name": "Making Gestures",
       "url": "https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 233596,
+      "name": "Blank Generation (Studio Version) - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Seal The Deal & Let's Boogie",
-        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 238653,
-      "name": "The Devil's Bleeding Crown",
-      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Vilified",
         "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
       },
@@ -2471,6 +2455,22 @@
       "duration_ms": 271346,
       "name": "Vilified",
       "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Seal The Deal & Let's Boogie",
+        "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 238653,
+      "name": "The Devil's Bleeding Crown",
+      "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
     }
   ],
   "unique_name": "Pure Rock & Roll",

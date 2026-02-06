@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66733,
+  "num_followers": 66726,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACiSd/I3TcgRxKpxUYkeqeJ",
+  "snapshot_id": "aYKMAAAAAAA1TNuS4dybk9to3F7fOaSG",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 257013,
-      "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle + Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
-        }
-      ],
-      "duration_ms": 301280,
-      "name": "Deus no Controle + Milagre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 334310,
       "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle + Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "duration_ms": 301280,
+      "name": "Deus no Controle + Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, o Brasil Te Adora",
-        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 353893,
-      "name": "Eu Me Arrependo",
-      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 383490,
       "name": "Simplesmente Te Adorar",
       "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, o Brasil Te Adora",
+        "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 353893,
+      "name": "Eu Me Arrependo",
+      "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
     },
     {
       "added_at": null,

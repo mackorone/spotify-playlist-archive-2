@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Gunship, The Bad Dreamers, Siamese Youth and more",
+  "description": "With FM-84, Gunship, The Bad Dreamers and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -1898,6 +1898,24 @@
       "duration_ms": 239000,
       "name": "Arcade Summer",
       "url": "https://open.spotify.com/track/6Vy3rIRe1ANhRLm6vL1nGB"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/19KeCQ4PtPNfXCQl8BgdD2"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Arcade Summer",
+      "url": "https://open.spotify.com/track/6cGuuaVjtieAcw4chRhIbx"
     },
     {
       "album": {
@@ -4004,7 +4022,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 252000,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/1Qa7UpG3l3RyYIUhgcopQW"
@@ -4250,6 +4268,24 @@
       "duration_ms": 235728,
       "name": "Chasing Yesterday",
       "url": "https://open.spotify.com/track/1znnwRl4cNhCNCfz7NjtAO"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/19KeCQ4PtPNfXCQl8BgdD2"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "Chasing Yesterday",
+      "url": "https://open.spotify.com/track/7cbav1sEWCmZAQz7LXdQcr"
     },
     {
       "album": {
@@ -5396,7 +5432,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 314181,
       "name": "Crystal Ships",
       "url": "https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5"
@@ -5450,7 +5486,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 362410,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr"
@@ -5932,7 +5968,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 251203,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/4ymsxpFvqFeYdNTxE0kHb4"
@@ -5950,7 +5986,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 324018,
       "name": "Days of Thunder",
       "url": "https://open.spotify.com/track/28uitw2AXQQIUHvSJW9qy6"
@@ -7098,7 +7134,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 222051,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/477qFNpf0lrYfIrxvGYdI6"
@@ -7960,7 +7996,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 405907,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/1EMPhniZKycZabKUTf74q6"
@@ -8267,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/19KeCQ4PtPNfXCQl8BgdD2"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3kyBKAXUUhZM8yQabe22WU"
+    },
+    {
+      "album": {
         "name": "Everything Is Going to Be Okay",
         "url": "https://open.spotify.com/album/1IgBUzBGm2yHSAqkb1zT5V"
       },
@@ -8484,6 +8538,24 @@
       "duration_ms": 300000,
       "name": "Fade (Running in the Night)",
       "url": "https://open.spotify.com/track/2EDdKYoiHFnENLbrq6Rxfi"
+    },
+    {
+      "album": {
+        "name": "Maverick (Atlas B-Sides)",
+        "url": "https://open.spotify.com/album/4aymamFKhnAYMPCQSx8ROz"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Fade - Running in the Night",
+      "url": "https://open.spotify.com/track/7ETH4kLP7tdHNp2HFK7WRg"
     },
     {
       "album": {
@@ -10830,7 +10902,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 236103,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/6pW3oStHbBcwhJYGJfnooT"
@@ -15082,7 +15154,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 389094,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5MPLeS9KdZlA04OOCUb5Bt"
@@ -15248,7 +15320,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 277335,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/6BHWr5TZ3YV1xczv3n5OZj"
@@ -15884,6 +15956,24 @@
       "duration_ms": 308571,
       "name": "Matters of the Heart",
       "url": "https://open.spotify.com/track/48XEDQGbM4SYdfllJL7jk6"
+    },
+    {
+      "album": {
+        "name": "Maverick (Atlas B-Sides)",
+        "url": "https://open.spotify.com/album/4aymamFKhnAYMPCQSx8ROz"
+      },
+      "artists": [
+        {
+          "name": "FM-84",
+          "url": "https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215526,
+      "name": "Maverick",
+      "url": "https://open.spotify.com/track/2DJYgQ1Qz7slMbndwNKvpm"
     },
     {
       "album": {
@@ -17802,7 +17892,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "New Cydonia (Alternate Version)",
       "url": "https://open.spotify.com/track/4quEnq53y9XiUjyfsTscS0"
@@ -18642,7 +18732,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 262500,
       "name": "Nothing Beats Like A Heart",
       "url": "https://open.spotify.com/track/3luyxUZhvDs0qLwcIyzj4Y"
@@ -23360,7 +23450,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 243033,
       "name": "Silence",
       "url": "https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3"
@@ -23458,7 +23548,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 203369,
       "name": "Sing It Louder",
       "url": "https://open.spotify.com/track/3T3B2VppIHXaYvJneNcTAZ"
@@ -24552,7 +24642,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -26572,7 +26662,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 220146,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof"
@@ -29158,7 +29248,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 268403,
       "name": "Wanting More",
       "url": "https://open.spotify.com/track/0v41NdLS8hp0KHGvj0EUXo"
@@ -29342,7 +29432,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 271530,
       "name": "Wave",
       "url": "https://open.spotify.com/track/5wf2668YEFHpFNiEb3rLKb"

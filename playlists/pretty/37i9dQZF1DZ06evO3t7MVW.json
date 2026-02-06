@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 93610,
+  "num_followers": 93638,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAGw7zY0tjRVv4Ky87Lo9vh",
+  "snapshot_id": "aYKMAAAAAACzI3BBppPaxfUPp/b1NHOe",
   "tracks": [
     {
       "added_at": null,
@@ -54,15 +54,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 238810,
-      "name": "World on Fire (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": null,
@@ -130,11 +126,15 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hopes and Dreams",
-        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
-      },
-      "artists": [
-        {
-          "name": "KBong",
-          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233810,
-      "name": "Livin' Easy",
-      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -499,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
+        "name": "Hopes and Dreams",
+        "url": "https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5"
       },
       "artists": [
         {
-          "name": "Sensamotion",
-          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+          "name": "KBong",
+          "url": "https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 194225,
-      "name": "Show Love (with Stick Figure)",
-      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
+      "duration_ms": 233810,
+      "name": "Livin' Easy",
+      "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
     },
     {
       "added_at": null,
@@ -535,6 +515,26 @@
       "duration_ms": 269090,
       "name": "Middle of the Ocean",
       "url": "https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
+      },
+      "artists": [
+        {
+          "name": "Sensamotion",
+          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Show Love (with Stick Figure)",
+      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
     },
     {
       "added_at": null,

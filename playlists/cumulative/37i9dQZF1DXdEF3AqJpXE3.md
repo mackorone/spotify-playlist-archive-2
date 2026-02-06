@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Bruno Mars
+> The best tracks from the world of music\. Cover: Djo
 
 600 songs - 1 day 8 hr 43 min
 

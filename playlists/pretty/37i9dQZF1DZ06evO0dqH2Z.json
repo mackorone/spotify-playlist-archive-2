@@ -1,18 +1,18 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4502,
+  "num_followers": 4503,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAm3vwbyDr35aoab0PCCoIB",
+  "snapshot_id": "aYKMAAAAAAAG/Z+5oWObkgeI4spOZlVg",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
+        "name": "Primary Colors",
+        "url": "https://open.spotify.com/album/2nCLtvl6yrfO52EbgKO8mL"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 149558,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
+      "duration_ms": 217371,
+      "name": "Primary Colors",
+      "url": "https://open.spotify.com/track/2OutAudDrNtFfLqrzed2UD"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 149558,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit Desire",
         "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
@@ -139,26 +155,6 @@
       "duration_ms": 266706,
       "name": "Crystal Vision",
       "url": "https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Andy Hull",
-          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
-        }
-      ],
-      "duration_ms": 216947,
-      "name": "I Won't Care How You Remember Me",
-      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
     },
     {
       "added_at": null,
@@ -195,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Andy Hull",
+          "url": "https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV"
+        }
+      ],
+      "duration_ms": 216947,
+      "name": "I Won't Care How You Remember Me",
+      "url": "https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit Desire",
         "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 119133,
       "name": "We Are Great, There Is Only One (Tigers Jaw)",
       "url": "https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 252856,
-      "name": "Safe In Your Skin / Where Am I?",
-      "url": "https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/12173Lz2GcUGc64Ki6f300"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 252856,
+      "name": "Safe In Your Skin / Where Am I?",
+      "url": "https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 205506,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit Desire",
-        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 98213,
-      "name": "Meet at the Corner",
-      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spirit Desire",
+        "url": "https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 98213,
+      "name": "Meet at the Corner",
+      "url": "https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -335,26 +351,6 @@
       "duration_ms": 207160,
       "name": "Hum",
       "url": "https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cocaine & Lexapro / Berlin",
-        "url": "https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        },
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 186135,
-      "name": "Berlin (feat. Tigers Jaw)",
-      "url": "https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N"
     },
     {
       "added_at": null,
@@ -391,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocaine & Lexapro / Berlin",
+        "url": "https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        },
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 186135,
+      "name": "Berlin (feat. Tigers Jaw)",
+      "url": "https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run For Cover Subscription Singles Series #3",
-        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 265238,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 123853,
       "name": "Favorite",
       "url": "https://open.spotify.com/track/7nBCUygrEGaU0Hvr9u6ntW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run For Cover Subscription Singles Series #3",
+        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 265238,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 100613,
       "name": "Let Go/Trashed Floors",
       "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 140426,
-      "name": "Test Pattern",
-      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

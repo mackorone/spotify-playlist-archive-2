@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 268704,
+  "num_followers": 268756,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 254117,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 173554,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx"
     },
     {
       "added_at": "2026-01-23 00:00:37",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-01-23 00:00:37",
       "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 243100,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
+    },
+    {
+      "added_at": "2026-01-23 00:00:37",
+      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
-    },
-    {
-      "added_at": "2026-01-23 00:00:37",
-      "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 243100,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
     },
     {
       "added_at": "2026-01-23 00:00:37",

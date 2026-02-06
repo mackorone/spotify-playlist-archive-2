@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAC+LyyWB6pEutCcog3NTOeg",
+  "snapshot_id": "aYKMAAAAAABR94z+BLvlCrpnehB0n33N",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 149610,
-      "name": "Symptoms",
-      "url": "https://open.spotify.com/track/78PWF1prjLHho9fV7CaktP"
+      "duration_ms": 120000,
+      "name": "Simple Math",
+      "url": "https://open.spotify.com/track/09UFD242DWtLC8QAexJLm5"
     },
     {
       "added_at": null,
@@ -543,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "B!Tch",
+        "url": "https://open.spotify.com/album/7jeltOef5FnPWgCb9EPBBt"
+      },
+      "artists": [
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "B!Tch",
+      "url": "https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -559,26 +583,6 @@
       "duration_ms": 184910,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -623,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -639,30 +663,6 @@
       "duration_ms": 179256,
       "name": "Mad Life Menace",
       "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B!Tch",
-        "url": "https://open.spotify.com/album/7jeltOef5FnPWgCb9EPBBt"
-      },
-      "artists": [
-        {
-          "name": "TRAPMAT SAVIOR",
-          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "B!Tch",
-      "url": "https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal",
         "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 128291,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa"
     },
     {
       "added_at": null,

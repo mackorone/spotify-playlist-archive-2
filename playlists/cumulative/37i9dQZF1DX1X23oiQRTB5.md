@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Ninho x Tiakola au top de la première playlist de rap français.
+> RnBoi x Nono La Grinta au top de la première playlist de rap français.
 
-406 songs - 20 hr 33 min
+408 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-01-22 |  |
 | [AZNVR \- une minute de musique](https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [AZNVR \(une minute de musique\)](https://open.spotify.com/album/0CwImsCyjRO0p2kVE60MQq) | 3:59 | 2023-01-12 | 2023-04-07 |
 | [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-28 | 2024-07-05 |
-| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-22 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-05 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-22 | 2026-02-06 |
 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 | 2024-08-22 | 2024-11-29 |
 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 | 2023-10-05 | 2024-07-27 |
 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 | 2025-12-04 |  |
@@ -298,6 +299,7 @@
 | [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-06-13 | 2024-08-22 |
 | [Pas bête](https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [L'Élu](https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i) | 2:23 | 2022-08-18 | 2023-06-02 |
 | [Pas là](https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:27 | 2023-03-23 | 2023-12-15 |
+| [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-02-05 |  |
 | [Passat](https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OCHO \(Deluxe\)](https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y) | 3:23 | 2022-01-27 | 2022-11-25 |
 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 | 2023-05-11 | 2023-09-15 |
 | [Peon \(feat\. Orelsan\)](https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:47 | 2022-02-10 | 2022-05-20 |
@@ -358,7 +360,7 @@
 | [SIERRA LEONE](https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [SIERRA LEONE](https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK) | 2:52 | 2025-12-11 |  |
 | [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 | 2023-10-13 |
 | [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Skywalker Haze \- A COLORS SHOW](https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim) | 3:04 | 2025-11-06 | 2026-01-16 |
-| [Soleil levant](https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:24 | 2025-11-06 |  |
+| [Soleil levant](https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:24 | 2025-11-06 | 2026-02-06 |
 | [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-09-15 | 2023-04-07 |
 | [Sosa](https://open.spotify.com/track/4lx26x6BggtyDtYZxUC0su) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Sosa](https://open.spotify.com/album/3omG7CP7Ipif4phk12EitY) | 2:43 | 2022-11-17 | 2023-04-21 |
 | [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-10-05 | 2024-08-02 |

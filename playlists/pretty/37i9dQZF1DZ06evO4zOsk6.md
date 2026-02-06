@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,960 likes - 46 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,961 likes - 46 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 32 | [Llévame](https://open.spotify.com/track/4qr3HrKbAVrGRpVgbsmWbI) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:36 |
 | 33 | [Un Nuevo Juego](https://open.spotify.com/track/2KzMDbrw3JlxM7osZTphAE) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 3:11 |
 | 34 | [Nadie Sabe Lo Que Vendrá](https://open.spotify.com/track/5m6iB7o9iwfVTaNSpBXG3M) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:11 |
-| 35 | [Cuelgo el Teléfono](https://open.spotify.com/track/3GIetbJaBAB8jnqVeUF2WE) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/7y2Mm6rNbKFKlEBQeGXxAa) | 3:25 |
+| 35 | [Vientos y Amarguras](https://open.spotify.com/track/38gqUUznAWsu8K55zfFfdx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 2:36 |
 | 36 | [Mariposas](https://open.spotify.com/track/6hRo9OaEvtE7fhxB6Bw9md) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:10 |
 | 37 | [Fantasma \- En Vivo](https://open.spotify.com/track/4cHItL6lggofWDDPVg4AUO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5hGB6av695f2Z7dihL9aCs) | 3:46 |
 | 38 | [Octubre](https://open.spotify.com/track/1HpKNHRbFTegVKjbAtcfco) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:43 |
-| 39 | [Vientos y Amarguras](https://open.spotify.com/track/38gqUUznAWsu8K55zfFfdx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 2:36 |
+| 39 | [Cuelgo el Teléfono](https://open.spotify.com/track/3GIetbJaBAB8jnqVeUF2WE) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/7y2Mm6rNbKFKlEBQeGXxAa) | 3:25 |
 | 40 | [Igual Que Ayer](https://open.spotify.com/track/4hkZKqqskYe2KzV9n8TOaT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 3:27 |
 | 41 | [Hablar No Es Necesario](https://open.spotify.com/track/7mQx2pOfRyGLCOO8umcjb9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:16 |
 | 42 | [Sentir Que Hoy](https://open.spotify.com/track/5f8aphPeEriZf6qNZXBNTc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:30 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 45 | [Mundo Perfecto](https://open.spotify.com/track/4LTxmiksWSUtuHzg2S7PXO) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/62xgGgRQT5NrAfsWEoeTyt) | 2:41 |
 | 46 | [Something](https://open.spotify.com/track/7mC7r1jLqnsIgRdJNJ8q9l) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 2:46 |
 
-Snapshot ID: `aYE6gAAAAAA6wBWgBQhjWcoNTogBFOrC`
+Snapshot ID: `aYKMAAAAAAB1Bcd+TYmN+OYCxWu4CaFU`

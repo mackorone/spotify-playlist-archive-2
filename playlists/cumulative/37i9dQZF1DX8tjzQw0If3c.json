@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Listen to the future. Cover: Fahimi",
+  "description": "Listen to the future. Cover: Yokez",
   "name": "RADAR SG & MY",
   "tracks": [
     {
@@ -1182,6 +1182,24 @@
       "duration_ms": 187118,
       "name": "DnD",
       "url": "https://open.spotify.com/track/7w1K0j4Rb96IPp8zWjnBVi"
+    },
+    {
+      "album": {
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/7LcmDtKcEGkq1APtXKMRlK"
+      },
+      "artists": [
+        {
+          "name": "Yokez",
+          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/2poasR8mTbcuUseGZJZafo"
     },
     {
       "album": {

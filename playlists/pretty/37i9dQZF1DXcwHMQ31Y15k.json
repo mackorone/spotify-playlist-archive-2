@@ -1,13 +1,69 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Woro Widowati",
-  "num_followers": 238835,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Karnamereka, Ndarboy Genk",
+  "num_followers": 238949,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjjMFO+wOuPQ4URqLGlupJQVBY0",
+  "snapshot_id": "AAAAAISFAwDhAAC+oa3tiHJZwe+arwHc",
   "tracks": [
+    {
+      "added_at": "2026-02-05 23:09:14",
+      "album": {
+        "name": "Sikep",
+        "url": "https://open.spotify.com/album/1zseMFCKNuNVEKSm94xGDg"
+      },
+      "artists": [
+        {
+          "name": "Karnamereka",
+          "url": "https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq"
+        },
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Sikep",
+      "url": "https://open.spotify.com/track/5TnXvnMzkA6D7dsq6Yl32J"
+    },
+    {
+      "added_at": "2026-02-05 23:09:14",
+      "album": {
+        "name": "Njanjeni",
+        "url": "https://open.spotify.com/album/3dRpUQW6NA1Gq6mCCZGAlk"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Yaya Hnd",
+          "url": "https://open.spotify.com/artist/6roqstyqWLth4X96c2Vpcv"
+        }
+      ],
+      "duration_ms": 257007,
+      "name": "Njanjeni",
+      "url": "https://open.spotify.com/track/79AuIgXTJqA1QoPHxRtM2O"
+    },
+    {
+      "added_at": "2026-02-05 23:09:14",
+      "album": {
+        "name": "Sumandhing",
+        "url": "https://open.spotify.com/album/7rsRcJTbndfHD1KmhI8PkJ"
+      },
+      "artists": [
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "duration_ms": 281403,
+      "name": "Sumandhing",
+      "url": "https://open.spotify.com/track/4nDmNth5y0njhlNnoivl75"
+    },
     {
       "added_at": "2026-01-29 19:00:18",
       "album": {

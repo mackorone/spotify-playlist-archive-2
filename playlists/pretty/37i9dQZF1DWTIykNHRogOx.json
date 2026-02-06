@@ -1,47 +1,79 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
-  "num_followers": 185306,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann",
+  "num_followers": 185296,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhdP+YSw+cWOImhUum2ItD/2/+y",
+  "snapshot_id": "AAAAAKX2zsCEYHug7cTw0IrKhsg68GGM",
   "tracks": [
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Le Disque Bleu",
-        "url": "https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1z1vT000nrYpl4h5ULVQfV"
       },
       "artists": [
         {
-          "name": "Benjamin Biolay",
-          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
         }
       ],
-      "duration_ms": 251893,
-      "name": "Soleil profond",
-      "url": "https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL"
+      "duration_ms": 185986,
+      "name": "Le loup - Spotify Singles",
+      "url": "https://open.spotify.com/track/0L16T8OZAAKREvReNkUft7"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Je ne l'ai jamais dit \u00e0 personne",
-        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/2UFX0Sh4g952XlqbJcr46l"
       },
       "artists": [
         {
-          "name": "Camille Yembe",
-          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
+          "name": "Persephone",
+          "url": "https://open.spotify.com/artist/1pAi5uMxhnL0M1BiktUcOl"
         }
       ],
-      "duration_ms": 259845,
-      "name": "Je ne l'ai jamais dit \u00e0 personne",
-      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
+      "duration_ms": 130727,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Les bouts de papier",
+        "url": "https://open.spotify.com/album/6bhmkHiRTt9F7uxez7SkvH"
+      },
+      "artists": [
+        {
+          "name": "Luns",
+          "url": "https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Les beaux jours",
+      "url": "https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "duration_ms": 168597,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Une minute encore",
         "url": "https://open.spotify.com/album/5nvDbyAcX6x095hsA1fnOO"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Les gens",
         "url": "https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX"
@@ -77,275 +109,39 @@
       "url": "https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "L'oiseau bleu",
-        "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
+        "name": "On va voir la mer",
+        "url": "https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD"
       },
       "artists": [
         {
-          "name": "Steve Ibrahim",
-          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
         }
       ],
-      "duration_ms": 167111,
-      "name": "Les ins\u00e9parables",
-      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
+      "duration_ms": 149578,
+      "name": "On va voir la mer",
+      "url": "https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "\u00c9tincelle 2",
-        "url": "https://open.spotify.com/album/6iS99xyBxLHHYhm8Y3sezu"
+        "name": "Je ne l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/2zvY1mdV7980cw5d9HCGDF"
       },
       "artists": [
         {
-          "name": "Waxx",
-          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
-        },
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Camille Yembe",
+          "url": "https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9"
         }
       ],
-      "duration_ms": 200880,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f"
+      "duration_ms": 259845,
+      "name": "Je ne l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/10YFRCEbeCjWBJCr8DpfEz"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Les bouts de papier",
-        "url": "https://open.spotify.com/album/6bhmkHiRTt9F7uxez7SkvH"
-      },
-      "artists": [
-        {
-          "name": "Luns",
-          "url": "https://open.spotify.com/artist/79WvCJUXoRYgn8UaNMBGOD"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Les beaux jours",
-      "url": "https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Normaux",
-        "url": "https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Des Longchamps",
-          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
-        }
-      ],
-      "duration_ms": 261280,
-      "name": "Normaux",
-      "url": "https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Les Chemins de neige",
-        "url": "https://open.spotify.com/album/4W9NHVhVpy9uM5Tk0nelHg"
-      },
-      "artists": [
-        {
-          "name": "Axel Bauer",
-          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
-        }
-      ],
-      "duration_ms": 320720,
-      "name": "Les Chemins de neige",
-      "url": "https://open.spotify.com/track/6yfFdEeQwEq6r9qtJfa29G"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Fleur bleue",
-        "url": "https://open.spotify.com/album/6MluDynjZukZXNQ82wbBNX"
-      },
-      "artists": [
-        {
-          "name": "MPL",
-          "url": "https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9"
-        },
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Fleur bleue",
-      "url": "https://open.spotify.com/track/7zJku7F9CPT7GLTZhZDbQB"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "L'\u00eele aux cygnes",
-        "url": "https://open.spotify.com/album/6wyQq5D5td4PGgCIj0vKLK"
-      },
-      "artists": [
-        {
-          "name": "Laelou",
-          "url": "https://open.spotify.com/artist/3wexCKYkyD5JOB61AF415L"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "L'\u00eele aux cygnes",
-      "url": "https://open.spotify.com/track/3xdTwb3TLh0RoKEihnDj7d"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 148834,
-      "name": "mieux",
-      "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "playlist",
-        "url": "https://open.spotify.com/album/2UFX0Sh4g952XlqbJcr46l"
-      },
-      "artists": [
-        {
-          "name": "Persephone",
-          "url": "https://open.spotify.com/artist/1pAi5uMxhnL0M1BiktUcOl"
-        }
-      ],
-      "duration_ms": 130727,
-      "name": "playlist",
-      "url": "https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "T'es Beau (Doug's version)",
-        "url": "https://open.spotify.com/album/5pnZ8GsGW0TZ2l0AZ022MK"
-      },
-      "artists": [
-        {
-          "name": "The Doug",
-          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
-        }
-      ],
-      "duration_ms": 134709,
-      "name": "T'es Beau - Doug's version",
-      "url": "https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1z1vT000nrYpl4h5ULVQfV"
-      },
-      "artists": [
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "Le loup - Spotify Singles",
-      "url": "https://open.spotify.com/track/0L16T8OZAAKREvReNkUft7"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "J\u2019veux du cuir",
-        "url": "https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "J\u2019veux du cuir",
-      "url": "https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "\u00c6thernit\u00e9",
-        "url": "https://open.spotify.com/album/5nffIi37YwFWLk0O87oskr"
-      },
-      "artists": [
-        {
-          "name": "Yan Wagner",
-          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
-        },
-        {
-          "name": "Malik Djoudi",
-          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "\u00c6thernit\u00e9",
-      "url": "https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Il neige sur la mer",
-        "url": "https://open.spotify.com/album/6VOmkzlAf10WK2U5TjAAL3"
-      },
-      "artists": [
-        {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Il neige sur la mer",
-      "url": "https://open.spotify.com/track/1Dim0Di4nKfRrGeh3Qv2pM"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Aux enfants de demain",
-        "url": "https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
-        }
-      ],
-      "duration_ms": 224305,
-      "name": "Aux enfants de demain",
-      "url": "https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "L'homme qui mord",
-        "url": "https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9mentine",
-          "url": "https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ"
-        }
-      ],
-      "duration_ms": 185248,
-      "name": "L'homme qui mord",
-      "url": "https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "on s'en rappellera pas",
         "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
@@ -365,7 +161,159 @@
       "url": "https://open.spotify.com/track/0Th8pW2g5QlUrwz6g0NqQM"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Le Disque Bleu",
+        "url": "https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "duration_ms": 251893,
+      "name": "Soleil profond",
+      "url": "https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "\u00c9tincelle 2",
+        "url": "https://open.spotify.com/album/6iS99xyBxLHHYhm8Y3sezu"
+      },
+      "artists": [
+        {
+          "name": "Waxx",
+          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "L'oiseau bleu",
+        "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "duration_ms": 167111,
+      "name": "Les ins\u00e9parables",
+      "url": "https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Les Chemins de neige",
+        "url": "https://open.spotify.com/album/4W9NHVhVpy9uM5Tk0nelHg"
+      },
+      "artists": [
+        {
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        }
+      ],
+      "duration_ms": 320720,
+      "name": "Les Chemins de neige",
+      "url": "https://open.spotify.com/track/6yfFdEeQwEq6r9qtJfa29G"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Fleur bleue",
+        "url": "https://open.spotify.com/album/6MluDynjZukZXNQ82wbBNX"
+      },
+      "artists": [
+        {
+          "name": "MPL",
+          "url": "https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9"
+        },
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Fleur bleue",
+      "url": "https://open.spotify.com/track/7zJku7F9CPT7GLTZhZDbQB"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "L'\u00eele aux cygnes",
+        "url": "https://open.spotify.com/album/6wyQq5D5td4PGgCIj0vKLK"
+      },
+      "artists": [
+        {
+          "name": "Laelou",
+          "url": "https://open.spotify.com/artist/3wexCKYkyD5JOB61AF415L"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "L'\u00eele aux cygnes",
+      "url": "https://open.spotify.com/track/3xdTwb3TLh0RoKEihnDj7d"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "J\u2019veux du cuir",
+        "url": "https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "J\u2019veux du cuir",
+      "url": "https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Il neige sur la mer",
+        "url": "https://open.spotify.com/album/6VOmkzlAf10WK2U5TjAAL3"
+      },
+      "artists": [
+        {
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Il neige sur la mer",
+      "url": "https://open.spotify.com/track/1Dim0Di4nKfRrGeh3Qv2pM"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Normaux",
+        "url": "https://open.spotify.com/album/6dBDgQ9vU9GRSpojDlHKw8"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Des Longchamps",
+          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
+        }
+      ],
+      "duration_ms": 261280,
+      "name": "Normaux",
+      "url": "https://open.spotify.com/track/3ZZF7woF6PRrOomKbH6Ssz"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "La Femme du vent (Rendez-vous Sylvestre)",
         "url": "https://open.spotify.com/album/77VuiP1FxNWsVwLM0k1i6l"
@@ -381,7 +329,7 @@
       "url": "https://open.spotify.com/track/6MmNxjgW2z8wZ2PJtryuaE"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "failles",
         "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
@@ -397,27 +345,55 @@
       "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Le printemps",
-        "url": "https://open.spotify.com/album/3ilAK0ebYgeH95fevozMPP"
+        "name": "L'homme qui mord",
+        "url": "https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP"
       },
       "artists": [
         {
-          "name": "Tim Dup",
-          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
-        },
-        {
-          "name": "Laura Cahen",
-          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+          "name": "Cl\u00e9mentine",
+          "url": "https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Le printemps",
-      "url": "https://open.spotify.com/track/4gfVA7TLcyZFXAZfIbOibg"
+      "duration_ms": 185248,
+      "name": "L'homme qui mord",
+      "url": "https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Tout fait pour",
+        "url": "https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Tout fait pour",
+      "url": "https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "T'es Beau (Doug's version)",
+        "url": "https://open.spotify.com/album/5pnZ8GsGW0TZ2l0AZ022MK"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "duration_ms": 134709,
+      "name": "T'es Beau - Doug's version",
+      "url": "https://open.spotify.com/track/7g7sUmIDaZgq5gtHne6jdL"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Le mur",
         "url": "https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG"
@@ -445,39 +421,7 @@
       "url": "https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/1x4k4x8KnV5jxe6ayO3VwF"
-      },
-      "artists": [
-        {
-          "name": "Daprinski",
-          "url": "https://open.spotify.com/artist/6GV5jspNfwJEhOXJasfhgG"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/5Q2U0R1Ije3Vbs8UCSRqpB"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Tout fait pour",
-        "url": "https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx"
-      },
-      "artists": [
-        {
-          "name": "Marie-Flore",
-          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Tout fait pour",
-      "url": "https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Le V\u0153u",
         "url": "https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo"
@@ -493,7 +437,7 @@
       "url": "https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Le retour des beaux jours",
         "url": "https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO"
@@ -509,7 +453,27 @@
       "url": "https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "\u00c6thernit\u00e9",
+        "url": "https://open.spotify.com/album/5nffIi37YwFWLk0O87oskr"
+      },
+      "artists": [
+        {
+          "name": "Yan Wagner",
+          "url": "https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc"
+        },
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "\u00c6thernit\u00e9",
+      "url": "https://open.spotify.com/track/0UDavOLP39jnNVJR1fg3wO"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "les mots que j'aime",
         "url": "https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt"
@@ -525,7 +489,59 @@
       "url": "https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Le d\u00e9part",
+        "url": "https://open.spotify.com/album/1x4k4x8KnV5jxe6ayO3VwF"
+      },
+      "artists": [
+        {
+          "name": "Daprinski",
+          "url": "https://open.spotify.com/artist/6GV5jspNfwJEhOXJasfhgG"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Le d\u00e9part",
+      "url": "https://open.spotify.com/track/5Q2U0R1Ije3Vbs8UCSRqpB"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Le printemps",
+        "url": "https://open.spotify.com/album/3ilAK0ebYgeH95fevozMPP"
+      },
+      "artists": [
+        {
+          "name": "Tim Dup",
+          "url": "https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE"
+        },
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Le printemps",
+      "url": "https://open.spotify.com/track/4gfVA7TLcyZFXAZfIbOibg"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Aux enfants de demain",
+        "url": "https://open.spotify.com/album/1u4Nqs64gvChknGAcpsq0F"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "duration_ms": 224305,
+      "name": "Aux enfants de demain",
+      "url": "https://open.spotify.com/track/0FxvyCX5kTnEayJMYlkeCN"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Envole-toi",
         "url": "https://open.spotify.com/album/1nett9I4qlSeqnAmeUYhcu"
@@ -541,23 +557,7 @@
       "url": "https://open.spotify.com/track/31CkkXtupjdTpHhZLJv8aF"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "la ros\u00e9e",
-        "url": "https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "la ros\u00e9e",
-      "url": "https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Thelma et Louise",
         "url": "https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ"
@@ -577,23 +577,7 @@
       "url": "https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "des excuses",
-        "url": "https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 207629,
-      "name": "des excuses",
-      "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "(Re)commencement",
         "url": "https://open.spotify.com/album/66PFQJXeRUIBc9IiPYAKvg"
@@ -609,23 +593,23 @@
       "url": "https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Berger",
-        "url": "https://open.spotify.com/album/6CHomIIo3zZ5lx6Vyc1r9r"
+        "name": "la ros\u00e9e",
+        "url": "https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo"
       },
       "artists": [
         {
-          "name": "Bertrand Belin",
-          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 214133,
-      "name": "Berger",
-      "url": "https://open.spotify.com/track/4jZa91Syrxgfkc1Vu0WFV0"
+      "duration_ms": 152866,
+      "name": "la ros\u00e9e",
+      "url": "https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "La symphonie des \u00e9clairs (Orchestral Odyssey)",
         "url": "https://open.spotify.com/album/15FZlljjgimILw4hn7urFj"
@@ -641,23 +625,7 @@
       "url": "https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "j'aime pas les goodbye",
-        "url": "https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs"
-      },
-      "artists": [
-        {
-          "name": "Nina Battisti",
-          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
-        }
-      ],
-      "duration_ms": 123800,
-      "name": "j'aime pas les goodbye",
-      "url": "https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Tour du Monde",
         "url": "https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka"
@@ -673,7 +641,119 @@
       "url": "https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 148834,
+      "name": "mieux",
+      "url": "https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "j'aime pas les goodbye",
+        "url": "https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs"
+      },
+      "artists": [
+        {
+          "name": "Nina Battisti",
+          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
+        }
+      ],
+      "duration_ms": 123800,
+      "name": "j'aime pas les goodbye",
+      "url": "https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "15 ans",
+        "url": "https://open.spotify.com/album/6tXdxLvzz6UupjarlpmHCG"
+      },
+      "artists": [
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "15 ans",
+      "url": "https://open.spotify.com/track/52LD9mh7vjHBReZRbAc9Wu"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Amn\u00e9sie",
+        "url": "https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Amn\u00e9sie",
+      "url": "https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Berger",
+        "url": "https://open.spotify.com/album/6CHomIIo3zZ5lx6Vyc1r9r"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Belin",
+          "url": "https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Berger",
+      "url": "https://open.spotify.com/track/4jZa91Syrxgfkc1Vu0WFV0"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Paris Amour",
+        "url": "https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Que la vie est belle",
+      "url": "https://open.spotify.com/track/0QDrItLjyI726Im83QR66W"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Fallait pas nous inviter",
         "url": "https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0"
@@ -693,87 +773,7 @@
       "url": "https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "15 ans",
-        "url": "https://open.spotify.com/album/6tXdxLvzz6UupjarlpmHCG"
-      },
-      "artists": [
-        {
-          "name": "Alice on the roof",
-          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "15 ans",
-      "url": "https://open.spotify.com/track/52LD9mh7vjHBReZRbAc9Wu"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Amn\u00e9sie",
-        "url": "https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP"
-      },
-      "artists": [
-        {
-          "name": "P.R2B",
-          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Amn\u00e9sie",
-      "url": "https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Paris Amour",
-        "url": "https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5"
-      },
-      "artists": [
-        {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Que la vie est belle",
-      "url": "https://open.spotify.com/track/0QDrItLjyI726Im83QR66W"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6"
-      },
-      "artists": [
-        {
-          "name": "Carla De Coignac",
-          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Mon amour",
-      "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "Les passantes",
-        "url": "https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Biolay",
-          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Les passantes",
-      "url": "https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "MAISON",
         "url": "https://open.spotify.com/album/5j63ceC6p3VDR86pjCLdbL"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/6mZ6Of7cY36EhX8ILqT4rj"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "\u00e0 l'\u00e9troit dans ma peau",
         "url": "https://open.spotify.com/album/1D0QZFKupUcaEckobnSHix"
@@ -805,7 +805,23 @@
       "url": "https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Les passantes",
+        "url": "https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Biolay",
+          "url": "https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Les passantes",
+      "url": "https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Si on sombre ce sera beau (promis)",
         "url": "https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW"
@@ -821,23 +837,7 @@
       "url": "https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI"
     },
     {
-      "added_at": "2026-01-29 23:00:22",
-      "album": {
-        "name": "After Summer",
-        "url": "https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy"
-      },
-      "artists": [
-        {
-          "name": "Constance Amiot",
-          "url": "https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO"
-        }
-      ],
-      "duration_ms": 183802,
-      "name": "La nuit n'est pas pr\u00eateuse",
-      "url": "https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI"
-    },
-    {
-      "added_at": "2026-01-29 23:00:22",
+      "added_at": "2026-02-05 23:00:01",
       "album": {
         "name": "Si t'\u00e9tais l\u00e0",
         "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"

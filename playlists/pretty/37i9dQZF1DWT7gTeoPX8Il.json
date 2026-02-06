@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 162564,
+  "num_followers": 162596,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
+        "name": "Tahta Hatiku #Pendampingmu",
+        "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
+      },
+      "artists": [
+        {
+          "name": "Fajar Noor",
+          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
+        }
+      ],
+      "duration_ms": 245575,
+      "name": "Tahta Hatiku #Pendampingmu",
+      "url": "https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
-        "name": "Tahta Hatiku #Pendampingmu",
-        "url": "https://open.spotify.com/album/1GW1qnd4KxapF13J51rgdy"
-      },
-      "artists": [
-        {
-          "name": "Fajar Noor",
-          "url": "https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc"
-        }
-      ],
-      "duration_ms": 245575,
-      "name": "Tahta Hatiku #Pendampingmu",
-      "url": "https://open.spotify.com/track/4m1rVxDrvVEsQlN7qw8WV2"
     },
     {
       "added_at": "2025-07-28 01:06:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Tentang Aku,Kau dan Dia",
-        "url": "https://open.spotify.com/album/5JEQxEQoFxYDXHRe3fETYJ"
-      },
-      "artists": [
-        {
-          "name": "Kangen Band",
-          "url": "https://open.spotify.com/artist/2I3STBPK1DymMXPCjg3UIT"
-        }
-      ],
-      "duration_ms": 346293,
-      "name": "Tentang Aku,Kau dan Dia",
-      "url": "https://open.spotify.com/track/1L7YPMbWve6EUPGa6F9nw5"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
+        "name": "Tentang Aku,Kau dan Dia",
+        "url": "https://open.spotify.com/album/5JEQxEQoFxYDXHRe3fETYJ"
+      },
+      "artists": [
+        {
+          "name": "Kangen Band",
+          "url": "https://open.spotify.com/artist/2I3STBPK1DymMXPCjg3UIT"
+        }
+      ],
+      "duration_ms": 346293,
+      "name": "Tentang Aku,Kau dan Dia",
+      "url": "https://open.spotify.com/track/1L7YPMbWve6EUPGa6F9nw5"
     },
     {
       "added_at": "2025-07-28 01:06:11",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Bisakah?",
-        "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        },
-        {
-          "name": "Sammy Simorangkir",
-          "url": "https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq"
-        }
-      ],
-      "duration_ms": 218100,
-      "name": "Bisakah?",
-      "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "Cukup",
         "url": "https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 202824,
       "name": "Tampar",
       "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
+        "name": "Seluruh Cinta",
+        "url": "https://open.spotify.com/album/0aAj6CHe9yPHglz0e0H2sW"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        },
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Seluruh Cinta",
+      "url": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP"
     }
   ],
   "unique_name": "galau rabak",

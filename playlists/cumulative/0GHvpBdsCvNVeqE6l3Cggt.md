@@ -4,11 +4,12 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-82 songs - 4 hr 55 min
+84 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Blast From The Past](https://open.spotify.com/track/3eDJVt2Rlhns5HIwBE8iLu) | [Obsoletha](https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7) | [Anemoia Vol.1](https://open.spotify.com/album/4jOEyatX7JUT0PikYwVInY) | 3:17 | 2026-01-19 |  |
+| [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 | 2026-02-05 |  |
 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2021-03-29 |  |
 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 | 2025-12-10 | 2026-01-15 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-09 |  |
@@ -21,6 +22,7 @@
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 | 2026-01-29 |
 | [Cherry Lipgloss](https://open.spotify.com/track/2RFrSB9j4Bijrz4YWiZWM3) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:03 | 2025-11-17 | 2025-12-07 |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-11-19 | 2025-12-13 |
+| [Colors](https://open.spotify.com/track/7kCVr4F8BZF1FqRvCRoZrN) | [LOVEBOYI](https://open.spotify.com/artist/67alZX1HqejXZ8D1osWKVb) | [BITE ME](https://open.spotify.com/album/3VEDv1sWPxO4FJn2Kv8W75) | 3:16 | 2026-02-05 |  |
 | [Crash Out](https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v) | [Scilence](https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp) | [Crash Out](https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA) | 4:12 | 2026-01-25 |  |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2021-03-29 |  |
 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-08 | 2025-12-28 |

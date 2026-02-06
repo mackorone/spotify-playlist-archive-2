@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-209 songs - 9 hr 55 min
+210 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [SO CHI SEI](https://open.spotify.com/track/3uNwqefXvTVJROzoGzOMCj) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SO CHI SEI](https://open.spotify.com/album/7H4olKm9KSm2stKpSkih6N) | 3:41 | 2022-08-31 | 2023-04-12 |
 | [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/4oGM8IoI34tjt7v34MBqPx) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/3mKwP54SGTWacqb1IakUDs) | 2:26 | 2022-11-07 | 2022-11-14 |
 | [SOLO CON ME \(con TOMMY DALI\)](https://open.spotify.com/track/6v03mGE1388jzs9Ufvivia) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:26 | 2022-08-31 | 2023-04-12 |
+| [SONO PERSA](https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SONO PERSA](https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp) | 2:51 | 2026-02-05 |  |
 | [sottacqua](https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [sottacqua](https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z) | 3:21 | 2022-08-31 | 2023-04-12 |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-08-31 | 2023-04-12 |
 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 | 2024-12-12 | 2025-05-14 |

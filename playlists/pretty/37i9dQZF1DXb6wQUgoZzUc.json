@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1162167,
+  "num_followers": 1162516,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-01-30 06:00:25",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2026-01-30 06:00:25",
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
-    },
-    {
-      "added_at": "2026-01-30 06:00:25",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2026-01-30 06:00:25",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-01-30 06:00:25",
       "album": {
-        "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
-        "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
-      "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
-    },
-    {
-      "added_at": "2026-01-30 06:00:25",
-      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2026-01-30 06:00:25",
+      "album": {
+        "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
+        "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
+      "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
     },
     {
       "added_at": "2026-01-30 06:00:25",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-01-30 06:00:25",
       "album": {
-        "name": "GUAYA",
-        "url": "https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "GUAYA",
-      "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
-    },
-    {
-      "added_at": "2026-01-30 06:00:25",
-      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 261665,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2026-01-30 06:00:25",
+      "album": {
+        "name": "GUAYA",
+        "url": "https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "GUAYA",
+      "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
     },
     {
       "added_at": "2026-01-30 06:00:25",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2026-01-30 06:00:25",
       "album": {
-        "name": "Ella Quiere Hmm... Haa... Hmm...",
-        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
-      },
-      "artists": [
-        {
-          "name": "Leka el Poeta",
-          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
-        },
-        {
-          "name": "Mishelle Master Boys",
-          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
-        },
-        {
-          "name": "DJ Yayo",
-          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
-        }
-      ],
-      "duration_ms": 212114,
-      "name": "Ella Quiere Hmm... Haa... Hmm... - DJ Yayo Remix Yayo Remix",
-      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
-    },
-    {
-      "added_at": "2026-01-30 06:00:25",
-      "album": {
         "name": "La Hermandad",
         "url": "https://open.spotify.com/album/7ffxdGochOn5nBhFDllRuK"
       },
@@ -1635,6 +1611,30 @@
       "duration_ms": 209333,
       "name": "YA NO SIENTO NADA",
       "url": "https://open.spotify.com/track/2MFrGeRWUnIsZpSkoGn2N5"
+    },
+    {
+      "added_at": "2026-01-30 06:00:25",
+      "album": {
+        "name": "Ella Quiere Hmm... Haa... Hmm...",
+        "url": "https://open.spotify.com/album/7mPxdHON4WVzd11KSLJkt5"
+      },
+      "artists": [
+        {
+          "name": "Leka el Poeta",
+          "url": "https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV"
+        },
+        {
+          "name": "Mishelle Master Boys",
+          "url": "https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG"
+        },
+        {
+          "name": "DJ Yayo",
+          "url": "https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh"
+        }
+      ],
+      "duration_ms": 212114,
+      "name": "Ella Quiere Hmm... Haa... Hmm... - DJ Yayo Remix Yayo Remix",
+      "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
     },
     {
       "added_at": "2026-01-30 06:00:25",

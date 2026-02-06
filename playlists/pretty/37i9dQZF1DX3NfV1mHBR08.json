@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49584,
+  "num_followers": 49581,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-26 07:20:48",
       "album": {
-        "name": "Being an Adult",
-        "url": "https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 225257,
-      "name": "Being an Adult",
-      "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
-    },
-    {
-      "added_at": "2026-01-26 07:20:48",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Being an Adult",
+        "url": "https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 225257,
+      "name": "Being an Adult",
+      "url": "https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No"
     },
     {
       "added_at": "2026-01-26 07:20:48",

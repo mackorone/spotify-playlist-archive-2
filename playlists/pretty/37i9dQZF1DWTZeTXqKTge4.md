@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Koriass, St\-Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,144 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,148 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 4 | [Sak2frap](https://open.spotify.com/track/2hzH9gJ4VNRxWZKFsLesQb) | [Saye](https://open.spotify.com/artist/6Aed6FYByzggINMDy3EevX), [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Canox](https://open.spotify.com/artist/3IZF5u74YxsnB41XvzRs6x), [OB1](https://open.spotify.com/artist/4HzqmKgUgkc0pH4XKNMlM4), [JaM'C](https://open.spotify.com/artist/3Jp3mrcu0uWS9DOiKP1igf), [MOH](https://open.spotify.com/artist/0Y6DX053m1HQvHVhwWksvP), [Rick L'Entourage](https://open.spotify.com/artist/0TUvdcfnh1xYAN40MxIf8w) | [Sak2frap](https://open.spotify.com/album/4prm8E4onWi7hdBcpyD2zm) | 4:54 |
 | 5 | [PAUSE](https://open.spotify.com/track/2SSBcS8SbalU4TNmLNiNBj) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [PAUSE](https://open.spotify.com/album/2AGVoOsTMh7KydUFsVv9qF) | 3:11 |
 | 6 | [TORO LOCO](https://open.spotify.com/track/0Pknai6O8FqXfuq2ncepLC) | [g8apo](https://open.spotify.com/artist/5RKN0miMmKnVAA76fGlwIO), [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [oyedevklok!](https://open.spotify.com/artist/6XC3zfgWucV8Ak3Rk2c5II), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [TORO LOCO](https://open.spotify.com/album/5G3DDBVFRCYK8SVcWvRB92) | 2:16 |
-| 7 | [dla marde \(avec MikeShabb\)](https://open.spotify.com/track/5ZWzAdCfeswSIgVozbxq3N) | [tifloccon](https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [dla marde \(avec MikeShabb\)](https://open.spotify.com/album/35VArS9UTQUGnDt7HnNVln) | 1:53 |
+| 7 | [dla marde \(avec Mike Shabb\)](https://open.spotify.com/track/5ZWzAdCfeswSIgVozbxq3N) | [tifloccon](https://open.spotify.com/artist/3g8OUKaanhW4y455qhqlXN), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [dla marde \(avec Mike Shabb\)](https://open.spotify.com/album/35VArS9UTQUGnDt7HnNVln) | 1:53 |
 | 8 | [404SADBITCH](https://open.spotify.com/track/2fr05sAob3uxixRjcMMXdh) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Mandyspie](https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM) | [404SADBITCH](https://open.spotify.com/album/4ki0u6zjBGZuHH9nDTnzis) | 2:49 |
 | 9 | [archive 2001](https://open.spotify.com/track/1A3x3nkAF2EJ61fR1tpGT3) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Kheir](https://open.spotify.com/artist/7kaof8rwuCnCp2pWlk9yzh) | [blues beldi](https://open.spotify.com/album/6113yrCSI1S2APZjYS0RJK) | 1:57 |
 | 10 | [LIGHTS](https://open.spotify.com/track/33Fwb9KC9VyHTmF5NgUY5z) | [Parrie](https://open.spotify.com/artist/39fxmlmpEzO2WBmnW8COZn), [Bonza](https://open.spotify.com/artist/565IS540lMTIv5a1fdKzNm) | [LIGHTS](https://open.spotify.com/album/7jLxwOVDKxqnbBtR5YHtYx) | 2:23 |

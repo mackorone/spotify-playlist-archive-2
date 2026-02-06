@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1212355,
+  "num_followers": 1212374,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACikg5lgdBg0/wu8YN6N2Y8",
+  "snapshot_id": "aYKMAAAAAABCUZdgZh9zGSF1lF0x/mAK",
   "tracks": [
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1432",
-        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 158936,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+      "duration_ms": 176762,
+      "name": "I Kissed A Girl - Rock Remix",
+      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 176762,
-      "name": "I Kissed A Girl - Rock Remix",
-      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1432",
         "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
       },
@@ -884,9 +868,25 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 202551,
-      "name": "NO TEARS FOR NEW YEAR'S",
-      "url": "https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc"
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Dream - Remix EP",
+        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
     }
   ],
   "unique_name": "This Is Katy Perry",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 11 hr 47 min
+235 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1TRAGO](https://open.spotify.com/track/0zFMR3xLA39o9FyeRrGYhl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/0po5B56fvIwDvS7Nz6ZB6Y) | 3:42 | 2024-01-29 | 2024-02-01 |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2024-02-01 |  |
 | [5 Estrellas](https://open.spotify.com/track/0Sh3aaIM6aQgdWBRFOsr1T) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas \(Official Video\)](https://open.spotify.com/album/7cKyxCWeAxtul23xrUoC6o) | 3:12 | 2024-01-29 | 2024-02-02 |
+| [A las 12 Te Olvidé](https://open.spotify.com/track/6u1UWAkgEhlGzYe24QNFxg) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [HAASHVILLE](https://open.spotify.com/album/3z71IM4XCA5UMiORkkr66P) | 3:44 | 2026-02-05 |  |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2024-01-29 |  |
 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 | 2024-04-09 |  |
 | [Anillo](https://open.spotify.com/track/3BOvThJyP2y1rS5IYxYToZ) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Anillo](https://open.spotify.com/album/055pQ4oHabSbcFkoXSzfpg) | 2:40 | 2025-01-09 | 2025-04-12 |
@@ -193,6 +194,7 @@
 | [Quererte Bonito](https://open.spotify.com/track/65x3nHFf7flZrZTLDA1H7B) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Quererte Bonito](https://open.spotify.com/album/4FIVsrPj9FasSMWV4AWRia) | 4:29 | 2024-01-31 | 2024-02-02 |
 | [Quererte Bonito](https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 4:31 | 2024-01-29 |  |
 | [Querido Diario](https://open.spotify.com/track/2vE8lpxnhTcp3lLF7Fvqdi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:32 | 2024-01-29 |  |
+| [Qué Es Estar Enamorado](https://open.spotify.com/track/0XuEhNYJJdkBV0eUj5ahNE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:14 | 2026-02-05 |  |
 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 | 2024-02-14 |  |
 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 | 2024-01-29 |  |
 | [Ram Pam Pam](https://open.spotify.com/track/5sXcSQbllmz3lOcNneD1ap) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam \(Official Video\)](https://open.spotify.com/album/5fpIZx8Sa7X29adWZPv7IB) | 3:39 | 2024-01-30 | 2024-02-02 |
@@ -230,6 +232,7 @@
 | [TRÍO](https://open.spotify.com/track/6wCKKXJAfzP0BwPmLJKzrY) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:06 | 2024-01-29 |  |
 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 | 2024-01-29 |  |
 | [Un Gatito Me Llamó](https://open.spotify.com/track/01bd6lyQR2ZiicAifXtlr9) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:02 | 2026-01-15 |  |
+| [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 | 2026-02-05 |  |
 | [Underground](https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground](https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr) | 2:29 | 2024-01-29 |  |
 | [Underground](https://open.spotify.com/track/1kozvQViNoX67Sx3hc1FvR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Underground \(Official Video\)](https://open.spotify.com/album/2AYJeY2krN9JBFYOTf67Db) | 2:49 | 2024-01-31 | 2024-02-02 |
 | [VALLENATO](https://open.spotify.com/track/4k1GiKvD0VD2PeUKn8Uw8a) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ELENA ROSE](https://open.spotify.com/artist/5qrmOTte5VKyomdTJtBrFH) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 4:24 | 2024-01-29 |  |

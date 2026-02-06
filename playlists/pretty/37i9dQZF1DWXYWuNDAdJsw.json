@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1009121,
+  "num_followers": 1009079,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+      "duration_ms": 176936,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "Satirolog\u00eda, Vol. 3",
-        "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 227383,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
         "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
         "url": "https://open.spotify.com/album/6qvGkkeW9g7I2k04lEwGU0"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 207248,
       "name": "Dime Cuantas Veces (Remix) [feat. Justin Quiles]",
       "url": "https://open.spotify.com/track/4MWb6mltydQn84NrTm7Gpl"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
+        "name": "Satirolog\u00eda, Vol. 3",
+        "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 227383,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
     },
     {
       "added_at": "2025-09-15 06:35:04",

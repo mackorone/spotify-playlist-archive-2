@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 114 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 114 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 34 | [Peace Sign](https://open.spotify.com/track/3DlGY66fukwF71OYNLylxc) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | ["A"](https://open.spotify.com/album/7JZi4kTfYCJcqOzVbKAYh5) | 2:58 |
 | 35 | [Double Standards](https://open.spotify.com/track/2XK2iL9gSAlYIAbklTHxbk) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:11 |
 | 36 | [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:13 |
-| 37 | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/track/3eydp9rHJAskzOevEBK267) | [Los Unidades](https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk) | 3:34 |
-| 38 | [Discover](https://open.spotify.com/track/5lGTCv4PiLcEdyesQqcvkY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 4:25 |
+| 37 | [Discover](https://open.spotify.com/track/5lGTCv4PiLcEdyesQqcvkY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 4:25 |
+| 38 | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/track/3eydp9rHJAskzOevEBK267) | [Los Unidades](https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [E\-Lo \(feat\. Jozzy\)](https://open.spotify.com/album/3rq0C0keP4oYI33YBXB9uk) | 3:34 |
 | 39 | [Running Wild \(Tumblr Girls 2\) \(feat\. Kossisko\)](https://open.spotify.com/track/3RhaE3JGd1mNYbpTOzxSzu) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [These Things Happen Too](https://open.spotify.com/album/4j7Y3vNhgBBRAujJl85UDk) | 3:52 |
 | 40 | [Mamacita \(feat\. Rico Nasty\)](https://open.spotify.com/track/57pTGa2YCwFT9pBIsIVO3z) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [The Fate of the Furious: The Album](https://open.spotify.com/album/2FoY0AdBnIYxOH7Z2arD89) | 3:22 |
 | 41 | [Overthinking \(with 24kGoldn\)](https://open.spotify.com/track/2pCrejY9N7PMbwnwOMqyeb) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:54 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 113 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 114 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `AcIzLAAAAACiZFvwQO1pA3v1zcOfeK19`
+Snapshot ID: `AcI49AAAAAB20VuJAMdz40fQ1B5P91cz`

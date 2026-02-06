@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  BLANCO in cover",
+  "description": "I brani italiani che abbiamo on repeat  \ud83d\udd01  Noemi in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+    },
+    {
+      "album": {
+        "name": "IO CANTO 2",
+        "url": "https://open.spotify.com/album/7u8bubJkuvkbsjimRnETdi"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222122,
+      "name": "16 MARZO (con Achille Lauro)",
+      "url": "https://open.spotify.com/track/01TUkBH9V8oHCf2BkqOZUG"
     },
     {
       "album": {
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178576,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn"
@@ -1832,7 +1854,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178772,
       "name": "Col tuo nome",
       "url": "https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 150303,
       "name": "ECO",
       "url": "https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0"
@@ -4346,6 +4368,24 @@
       "duration_ms": 222750,
       "name": "La ghigliottina",
       "url": "https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp"
+    },
+    {
+      "album": {
+        "name": "LA MIA STORIA",
+        "url": "https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "LA MIA STORIA",
+      "url": "https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB"
     },
     {
       "album": {
@@ -8828,6 +8868,28 @@
       "duration_ms": 171368,
       "name": "Ti penso",
       "url": "https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi"
+    },
+    {
+      "album": {
+        "name": "ti prego non piangere",
+        "url": "https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw"
+      },
+      "artists": [
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "ti prego non piangere",
+      "url": "https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB"
     },
     {
       "album": {

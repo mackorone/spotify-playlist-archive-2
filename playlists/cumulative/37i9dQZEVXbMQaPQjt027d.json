@@ -5651,6 +5651,32 @@
     },
     {
       "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "HEAVENLY JUMPSTYLE",
+      "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
+    },
+    {
+      "album": {
         "name": "HEFTIG MAN",
         "url": "https://open.spotify.com/album/5ApqGTnAo2h1dLHPpHa8YY"
       },
@@ -7478,10 +7504,28 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -7778,7 +7822,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 166942,
       "name": "Kusje Hier Kusje Daar",
       "url": "https://open.spotify.com/track/3DToXXH3aYS9ddqQ9SzBFl"
@@ -12458,7 +12502,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 246660,
       "name": "Soms zitj 't mej...",
       "url": "https://open.spotify.com/track/7Il7fyrD3Em6waBLBqc509"
@@ -12720,7 +12764,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -13099,6 +13143,28 @@
     },
     {
       "album": {
+        "name": "That's the Way It Is",
+        "url": "https://open.spotify.com/album/7kZB9awZC29eaIpVRgF0BQ"
+      },
+      "artists": [
+        {
+          "name": "Kastra",
+          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
+        },
+        {
+          "name": "Lena Leon",
+          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/3IN5K5LG1EGzFak9e0GNrC"
+    },
+    {
+      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -13424,7 +13490,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -14530,7 +14596,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 213414,
       "name": "Verr\u00e8ktes gooje zin",
       "url": "https://open.spotify.com/track/3exJNhGuDokcpNOnbMYSJs"
@@ -15500,7 +15566,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54805,
+  "num_followers": 54814,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
       "artists": [
         {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Cosmos",
-      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 271285,
+      "name": "Cosmos",
+      "url": "https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
-      },
-      "artists": [
-        {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 106050,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 106050,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -907,6 +907,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+      },
+      "artists": [
+        {
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+        }
+      ],
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Close your eyes",
         "url": "https://open.spotify.com/album/7n60AHGWLfjBq8eEdTbja0"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
-      },
-      "artists": [
-        {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Your Peace",
-      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
       },
       "artists": [
         {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
         }
       ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+      "duration_ms": 224000,
+      "name": "Your Peace",
+      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
     },
     {
       "added_at": "2021-06-24 10:58:44",

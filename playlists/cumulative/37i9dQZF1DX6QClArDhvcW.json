@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171560,
       "name": "Gravity of Love",
       "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
@@ -6481,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3Jl1tF2jc5QA4JExZkEerL"
+      },
+      "artists": [
+        {
+          "name": "Golden Mist",
+          "url": "https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/2VuL7nGbgTYHsDDBtxZZGq"
+    },
+    {
+      "album": {
         "name": "Morning Routine",
         "url": "https://open.spotify.com/album/0wDM3yMZuPRHEXVypsjhZV"
       },
@@ -6666,6 +6684,24 @@
       "duration_ms": 151898,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/2B8ftHLCfrsqdiwClpXzvY"
+    },
+    {
+      "album": {
+        "name": "New Phase",
+        "url": "https://open.spotify.com/album/3EMQaJvVy6hGzSbLJLevsf"
+      },
+      "artists": [
+        {
+          "name": "jzbts",
+          "url": "https://open.spotify.com/artist/0MRJd9zExrWCUGVCQR1ozs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119520,
+      "name": "New Phase",
+      "url": "https://open.spotify.com/track/4pZghY8X73YUxxrd6UahHi"
     },
     {
       "album": {
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 121208,
       "name": "pyramids",
       "url": "https://open.spotify.com/track/313eJh505wri03xuiBpvWc"
@@ -7758,7 +7794,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 132613,
       "name": "quetzal",
       "url": "https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS"
@@ -8496,6 +8532,24 @@
       "duration_ms": 121643,
       "name": "silver sky",
       "url": "https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1"
+    },
+    {
+      "album": {
+        "name": "simple things",
+        "url": "https://open.spotify.com/album/0Lu2tlgxEVh0AFSOEiq3cB"
+      },
+      "artists": [
+        {
+          "name": "Breezonic",
+          "url": "https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "simple things",
+      "url": "https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok"
     },
     {
       "album": {

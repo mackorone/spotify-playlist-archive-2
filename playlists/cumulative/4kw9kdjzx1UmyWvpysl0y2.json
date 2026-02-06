@@ -4105,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Climb",
+        "url": "https://open.spotify.com/album/07nrhJ5PlKOAi2mKIhYZsO"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Climb",
+      "url": "https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy"
       },
@@ -9874,7 +9896,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 184222,
       "name": "Holy",
       "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
@@ -23850,7 +23872,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 199374,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3"

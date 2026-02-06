@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164050,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx"
+    },
+    {
+      "album": {
         "name": "Hope Handwritten",
         "url": "https://open.spotify.com/album/3QTYU8CnWg0tOnnIxfrLDq"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190032,
       "name": "Expensive",
       "url": "https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 275125,
       "name": "I don\u2019t care I like u",
       "url": "https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0"
@@ -1531,6 +1549,28 @@
     },
     {
       "album": {
+        "name": "Ordinary girl",
+        "url": "https://open.spotify.com/album/2SETwCmTEPUUoKWhtHIpT0"
+      },
+      "artists": [
+        {
+          "name": "CHUNGYOON",
+          "url": "https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr"
+        },
+        {
+          "name": "YELO",
+          "url": "https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ordinary girl",
+      "url": "https://open.spotify.com/track/4Jnf1MhU7z0SwVn1L7nd4j"
+    },
+    {
+      "album": {
         "name": "Out of Love",
         "url": "https://open.spotify.com/album/1CwmwmPdt0SfRRHTHsje4H"
       },
@@ -1564,7 +1604,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW"
@@ -1926,6 +1966,24 @@
       "duration_ms": 163681,
       "name": "shy girl",
       "url": "https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP"
+    },
+    {
+      "album": {
+        "name": "signs",
+        "url": "https://open.spotify.com/album/1Rki9Crop0zIXWP23w6gIJ"
+      },
+      "artists": [
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136299,
+      "name": "signs",
+      "url": "https://open.spotify.com/track/2tbEksv7lhfmUzlX5djhGq"
     },
     {
       "album": {

@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 509502,
       "name": "Jungle Paradise",
       "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
@@ -5194,6 +5194,28 @@
       "duration_ms": 454296,
       "name": "Sajanna",
       "url": "https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v"
+    },
+    {
+      "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
     },
     {
       "album": {

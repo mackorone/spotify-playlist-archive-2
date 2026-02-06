@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-176 songs - 10 hr 6 min
+177 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 | 2025-07-16 | 2025-12-05 |
 | [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 | 2025-08-29 |
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-07-16 |  |
+| [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-02-05 |  |
 | [Colors](https://open.spotify.com/track/61Y8I1rRg4dbf5di8ZEO3S) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Colors](https://open.spotify.com/album/7qGLNk4J8QBK1auwmJT39b) | 3:20 | 2025-07-16 | 2025-11-12 |
 | [Departure](https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Departure](https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi) | 3:19 | 2025-07-16 |  |
 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 | 2025-09-15 |  |
@@ -175,7 +176,7 @@
 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2025-07-16 | 2025-10-10 |
 | [Where/When](https://open.spotify.com/track/44J2PcpgCePXPB13CUsitY) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Where/When](https://open.spotify.com/album/2v2XQa8yperg0wnP4TYHNv) | 2:56 | 2025-07-16 | 2026-01-23 |
 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 | 2025-11-06 |  |
-| [White Gold](https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [White Gold](https://open.spotify.com/album/2ZZpn5kiOjcDigcgthY4WQ) | 4:18 | 2025-07-16 |  |
+| [White Gold](https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [White Gold](https://open.spotify.com/album/2ZZpn5kiOjcDigcgthY4WQ) | 4:18 | 2025-07-16 | 2026-02-06 |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/38k7lGHmy8LyVpkXLVnZSj) | 3:15 | 2025-07-16 | 2025-10-02 |
 | [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-16 | 2025-08-29 |
 | [World Is Waking Up](https://open.spotify.com/track/053nOMzHpuHNVjI1Ng2Q4b) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Cimo Fränkel](https://open.spotify.com/album/218TwB1jw3xnXtoW81aRak) | 2:21 | 2025-07-16 | 2025-09-16 |

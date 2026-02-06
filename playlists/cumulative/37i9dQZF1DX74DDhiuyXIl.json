@@ -2567,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u8981\u5e78\u798f\u554a (\u300a\u98ce\u8fc7\u7559\u75d5\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7fzdWNyTmUaI1ltWll5Bjc"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310588,
+      "name": "\u4f60\u8981\u5e78\u798f\u554a (\u300a\u98ce\u8fc7\u7559\u75d5\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1mamLpkge19ydKzytZF8dj"
+    },
+    {
+      "album": {
         "name": "\u4f60\u8aaa\u5462 (\u96fb\u8996\u5287\u300a\u59b3\u662f\u6211\u7684\u59d0\u59b9\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/1mSYhKXxk2ocl8zLzEyq7A"
       },
@@ -6810,7 +6828,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 238000,
       "name": "\u60f3\u554f",
       "url": "https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5"
@@ -6864,7 +6882,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "\u60f3\u6084\u6084\u4f4f\u9032\u4f60\u7684\u9748\u9b42 (\u96fb\u8996\u5287\u300a\u96e3\u54c4\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab"
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 241000,
       "name": "\u6211\u4e5f\u6211\u4e5f",
       "url": "https://open.spotify.com/track/58jaj5be2O3Ddyge7mTYXi"
@@ -9293,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "\u300a\u611b\u4e86100\u842c\u6b21\u7684\u6211\u300b\u65b0\u6b4c\u7d93\u5178\u81ea\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245822,
+      "name": "\u66fe\u7d93\u5982\u4eca",
+      "url": "https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ"
+    },
+    {
+      "album": {
         "name": "\u6700\u521d\u7684\u611b",
         "url": "https://open.spotify.com/album/7vLDbcdGFaf9epzLD5EtKY"
       },
@@ -10282,7 +10318,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 254611,
       "name": "\u6de1\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/7zYCFaQKvIziSyJo1lUuvy"
@@ -12505,6 +12541,24 @@
     },
     {
       "album": {
+        "name": "\u89aa\u8fd1\u7684\u964c\u751f\u4eba",
+        "url": "https://open.spotify.com/album/7ep1F80CpaxYlIge0U7Wgv"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u8a9e\u5665",
+          "url": "https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253064,
+      "name": "\u89aa\u8fd1\u7684\u964c\u751f\u4eba",
+      "url": "https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2"
+    },
+    {
+      "album": {
         "name": "\u89c2\u661f\u8005",
         "url": "https://open.spotify.com/album/3G1gWNvqM48RxJC2aKlS7n"
       },
@@ -13756,7 +13810,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 182230,
       "name": "\u90a3\u53e5\u6211\u6c92\u8aaa",
       "url": "https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1"

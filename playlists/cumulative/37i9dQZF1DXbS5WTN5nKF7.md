@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Pierre Garnier !
+> Le meilleur des hits avec Bruno Mars !
 
-443 songs - 23 hr 0 min
+445 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-06-26 | 2025-11-28 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-07-27 | 2023-10-13 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-07-27 | 2024-02-09 |
-| [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 | 2025-11-13 |  |
+| [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 | 2025-11-13 | 2026-02-06 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-07 | 2025-08-29 |
 | [Baila Morena \- R3HAB Remix](https://open.spotify.com/track/1YjGjZaguVsAIaZhxQ2sBk) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Baila Morena \(R3HAB Remix\)](https://open.spotify.com/album/1aKRadx0tCuRBLX45MntVK) | 2:24 | 2025-06-12 | 2025-10-03 |
 | [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 | 2023-07-27 | 2023-08-04 |
@@ -221,8 +221,10 @@
 | [L'amour fou \- Single Version](https://open.spotify.com/track/3kerBSaEveqacWJv10JeDZ) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 3:29 | 2025-05-15 | 2025-11-21 |
 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-10-09 |  |
 | [La belle et la bête \- Single Version](https://open.spotify.com/track/6RAf7QUuJzSZXAZcJO8q0G) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [La belle et la bête](https://open.spotify.com/album/0NEreCWbXNKpXwvhYjYtTA) | 3:41 | 2025-01-30 | 2025-05-16 |
+| [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2026-02-05 |  |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2025-02-13 | 2025-02-15 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-23 | 2025-08-29 |
+| [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 | 2026-02-05 |  |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2026-01-22 | 2026-01-30 |
 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-07-11 | 2025-01-31 |
 | [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 | 2026-01-29 |  |
@@ -233,7 +235,7 @@
 | [Last Christmas \- Single Version](https://open.spotify.com/track/65caoxozFBWYUlUvX4wp4S) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Last Christmas](https://open.spotify.com/album/0EWYv5VQNOlr8l6Tqlf86j) | 4:24 | 2025-12-18 | 2025-12-26 |
 | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Last Night \(feat\. Sadie Rose Van\)](https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0) | 2:23 | 2024-07-11 | 2024-09-06 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-07-18 | 2025-01-31 |
-| [Le Chat](https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Adieu Musique](https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR) | 3:13 | 2026-01-29 |  |
+| [Le Chat](https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Adieu Musique](https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR) | 3:13 | 2026-01-29 | 2026-02-06 |
 | [Le chemin](https://open.spotify.com/track/2b8XJIr3d9XbNwwO2TXrgq) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 3:11 | 2024-04-03 | 2024-07-27 |
 | [Le feu](https://open.spotify.com/track/6dEysAhgnVJ9905XmZmwty) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/6XC68VDmRFxnFcybq2D0UP) | 3:57 | 2023-12-07 | 2024-01-10 |
 | [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-07-27 | 2023-12-09 |

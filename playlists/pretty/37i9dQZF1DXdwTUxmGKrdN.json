@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 454683,
+  "num_followers": 454700,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 239949,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 251013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 239949,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
-      },
-      "artists": [
-        {
-          "name": "Freddie Fox",
-          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Still Lovin' You",
-      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Just Doing What I do",
         "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 210773,
       "name": "18th & M",
       "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3qzwqcE1RXuSUdci5XRo2l"
+      },
+      "artists": [
+        {
+          "name": "Freddie Fox",
+          "url": "https://open.spotify.com/artist/3LF2PC0GYS2TXXWTXjxiNr"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Still Lovin' You",
+      "url": "https://open.spotify.com/track/1pAysqZEwPCdbBXmoAgrrV"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Soulful",
-        "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
-      },
-      "artists": [
-        {
-          "name": "Cal Harris Jr.",
-          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Echoes Of The Heart",
         "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 238213,
       "name": "Echoes of the Heart",
       "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Soulful",
+        "url": "https://open.spotify.com/album/1s5c8RtnMva4xGs8IoMpGb"
+      },
+      "artists": [
+        {
+          "name": "Cal Harris Jr.",
+          "url": "https://open.spotify.com/artist/1rqcgKphKy4FoYO505o49R"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/7GuSUOEGSk4tLPQoSdSvhb"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Deep Blue C",
+        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        },
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 266717,
+      "name": "Deep Blue C",
+      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 238600,
       "name": "Avenue",
       "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Deep Blue C",
-        "url": "https://open.spotify.com/album/2qOGwPSOEsBMwnNaXZbpT0"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        },
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 266717,
-      "name": "Deep Blue C",
-      "url": "https://open.spotify.com/track/5zJsAozshkEsQxjt5iNC5k"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "When We Dance",
-      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "SHINE!",
         "url": "https://open.spotify.com/album/6xscPJ4QR4Acjq1zhJatbL"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Rite of Passage",
         "url": "https://open.spotify.com/album/1tySvkpLhtmLa7HzQvTB4A"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 226666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Full Tank 2.0",
         "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "On the Up and Up",
-        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
-      },
-      "artists": [
-        {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
-        }
-      ],
-      "duration_ms": 248412,
-      "name": "On the Up and Up",
-      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Risin' Up",
-        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
-      },
-      "artists": [
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        }
-      ],
-      "duration_ms": 289946,
-      "name": "On The One",
-      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Let's Ride",
         "url": "https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 318977,
       "name": "New Hope",
       "url": "https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Risin' Up",
+        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        }
+      ],
+      "duration_ms": 289946,
+      "name": "On The One",
+      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        },
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 287640,
-      "name": "New Bounce",
-      "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 287640,
+      "name": "New Bounce",
+      "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
     },
     {
       "added_at": "2026-01-14 10:46:11",

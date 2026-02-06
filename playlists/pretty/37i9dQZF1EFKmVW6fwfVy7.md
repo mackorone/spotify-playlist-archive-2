@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKmVW6fwfVy7.md) - [plain]
 | 9 | [Te Va a Doler](https://open.spotify.com/track/6Tl2adJMlwUjGcNu990oRN) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:28 |
 | 10 | [Que Viva la Vida \(feat\. Michel Teló\)](https://open.spotify.com/track/6nEH8VwvfbKhvLMUJtDeju) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 3:22 |
 | 11 | [La Botella](https://open.spotify.com/track/2pfvx4NA4vqKWs9OvtVUWv) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Botella \- Single](https://open.spotify.com/album/01VCBne2dn3GZxwYJ1E8sa) | 4:10 |
-| 12 | [Ya Quiero](https://open.spotify.com/track/5da9TFtn7mGT89pvmFAnkx) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Ya Quiero](https://open.spotify.com/album/4Q0XW7zh13X0eYSLWM2Yie) | 3:37 |
+| 12 | [Ya Quiero](https://open.spotify.com/track/4t5sPHYVTlAAEfbgXD9jCl) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Ya Quiero](https://open.spotify.com/album/7FpRX9uRwItu2qz7StdjyY) | 3:37 |
 | 13 | [Bajo la Tormenta](https://open.spotify.com/track/5ZAOaE4F1W9ZC11Y54PxDp) | [Sergio George's Salsa Giants](https://open.spotify.com/artist/3nJzZhqUy9sP4YBdbbRa6g) | [Bajo la Tormenta](https://open.spotify.com/album/2xt5tnrxEQvqOakcvoypfu) | 4:30 |
 | 14 | [Belong To U](https://open.spotify.com/track/6pG8mlZHcSt14eQCOQxA2N) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [Yashua](https://open.spotify.com/artist/4zTLrRqcBmj7ZDuLUrKBL1) | [Belong To U](https://open.spotify.com/album/5l6kqmgrEYVjZn4ITiZ0jq) | 3:22 |
 | 15 | [Candente](https://open.spotify.com/track/6574cREkKxYyrpKs1k8ZHu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [El Regreso del Sobreviviente \(Deluxe Edition\)](https://open.spotify.com/album/3Oc7TFerme2LybRGVAcESO) | 4:03 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKmVW6fwfVy7.md) - [plain]
 | 22 | [Poco a Poquito](https://open.spotify.com/track/59NmhscVDdq8lPILs9fF3p) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:03 |
 | 23 | [Me Gustó](https://open.spotify.com/track/0qZLgZHQ7JlRyE8oiBYKbS) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:19 |
 
-Snapshot ID: `AcIzNgAAAABffNfEZbHBKhW+7uGCTBm5`
+Snapshot ID: `AcI4zAAAAACjWWAbWTyiXKMOzUkCy4HU`

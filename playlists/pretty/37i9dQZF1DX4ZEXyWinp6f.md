@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,767 likes - 75 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,822 likes - 75 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 32 | [I Choose the Astronaut](https://open.spotify.com/track/7xYnHxYrn7RsNsmhnkc9sW) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [I Choose the Astronaut](https://open.spotify.com/album/3JaAjm7QZiCq678NvFgTBD) | 3:18 |
 | 33 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 34 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
-| 35 | [Measuring Ruins](https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Measuring Ruins](https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8) | 3:04 |
-| 36 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
+| 35 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
+| 36 | [Measuring Ruins](https://open.spotify.com/track/00R6Yl5pA6SGyYNtezwlHO) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Measuring Ruins](https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8) | 3:04 |
 | 37 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
 | 38 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
 | 39 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 |

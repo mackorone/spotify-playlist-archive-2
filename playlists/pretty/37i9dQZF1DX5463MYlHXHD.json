@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 590480,
+  "num_followers": 590554,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -259,18 +255,22 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -307,30 +307,6 @@
       "duration_ms": 127973,
       "name": "Dime si eres feliz",
       "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -379,6 +355,30 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -459,6 +443,22 @@
       "duration_ms": 171667,
       "name": "DIME SI ERES FELIZ VOL.2",
       "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 246240,
       "name": "Traigo Una Rosa",
       "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Por la V\u00eda R\u00e1pida",
         "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 227266,
       "name": "Te Llev\u00e1s Todo",
       "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "\u00danico en Su Especie",
-        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Con S\u00edndrome de Abstinencia",
-        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
+        "name": "\u00danico en Su Especie",
+        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
       },
       "artists": [
         {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
         }
       ],
-      "duration_ms": 176973,
-      "name": "Berretines de Verduga",
-      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+      "duration_ms": 225280,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+        "name": "Con S\u00edndrome de Abstinencia",
+        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
         }
       ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
+      "duration_ms": 176973,
+      "name": "Berretines de Verduga",
+      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1227,6 +1211,22 @@
       "duration_ms": 197040,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Como te voy a olvidar",
-      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 204022,
       "name": "Cual Fue? - Remix",
       "url": "https://open.spotify.com/track/7ESW1EAnlel9tDIeR0BJE7"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Como te voy a olvidar",
+      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Vuelve a Mi Lado",
+      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 104973,
-      "name": "Vuelve a Mi Lado",
-      "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
+        "name": "Moviendo la Cola",
+        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
+      },
+      "artists": [
+        {
+          "name": "Barrabox",
+          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Siempre Es la Misma Situaci\u00f3n",
+      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
         "name": "DJ ALEX, EL NOBA - TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 137500,
       "name": "DJ ALEX, EL NOBA - TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
-        "name": "Moviendo la Cola",
-        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
-      },
-      "artists": [
-        {
-          "name": "Barrabox",
-          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Siempre Es la Misma Situaci\u00f3n",
-      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
     },
     {
       "added_at": "2026-01-09 03:00:07",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-01-09 03:00:07",
       "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
-    },
-    {
-      "added_at": "2026-01-09 03:00:07",
-      "album": {
         "name": "M\u00e1s Duros que Nunca",
         "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 278466,
       "name": "El Pibe Villero",
       "url": "https://open.spotify.com/track/5qz6d7xTHxLnTNqyeDWNWX"
+    },
+    {
+      "added_at": "2026-01-09 03:00:07",
+      "album": {
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
     },
     {
       "added_at": "2026-01-09 03:00:07",

@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 315642,
+  "num_followers": 315688,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADpuzpqYTaBpFp6D3rWt91p",
+  "snapshot_id": "aYKMAAAAAAASJICpWl8KqMuIx/9ogt1H",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Warchest",
+        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 287493,
-      "name": "Death From Within",
-      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
+      "duration_ms": 224080,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warchest",
-        "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 224080,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The System Has Failed",
-        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 207221,
-      "name": "Back In the Day",
-      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
+      "duration_ms": 287493,
+      "name": "Death From Within",
+      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 327600,
       "name": "Addicted To Chaos - Remastered 2004",
       "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The System Has Failed",
+        "url": "https://open.spotify.com/album/61r8RVSOccHFbMtUDzGpns"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 207221,
+      "name": "Back In the Day",
+      "url": "https://open.spotify.com/track/2RZZAz0LmWWPCtOC2yPszv"
     },
     {
       "added_at": null,

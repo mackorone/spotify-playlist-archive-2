@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-929 songs - 2 day 0 hr 17 min
+931 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [10 ud af 10](https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [10 ud af 10](https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p) | 2:30 | 2025-06-26 | 2025-07-29 |
 | [10.000 Kilometer](https://open.spotify.com/track/3XgYZ3SJgAMcFS1nkgMCUX) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [10.000 Kilometer](https://open.spotify.com/album/1gkxRuc4baj35IdOXJwDdK) | 2:31 | 2026-01-01 | 2026-01-25 |
 | [100 Dage](https://open.spotify.com/track/54WSNfT05On5JHcr43kbYn) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [100 Dage](https://open.spotify.com/album/6v2mw7Ktt4KpucZiOBVEx5) | 2:41 | 2026-01-09 | 2026-01-18 |
+| [1000 Timer](https://open.spotify.com/track/4xCGb24w2tsJxSLy1cgrBJ) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [1000 Timer](https://open.spotify.com/album/1JxyEWSSQzWN74U21qG0Eg) | 3:10 | 2026-02-05 |  |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-24 | 2025-10-24 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-07-27 |
 | [1965](https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:48 | 2025-07-17 | 2025-10-17 |
@@ -53,7 +54,7 @@
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-09 | 2024-10-10 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-01-25 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-24 | 2025-02-28 |
-| [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-09 |  |
+| [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 | 2026-01-09 | 2026-02-06 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 | 2025-09-13 |
 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 | 2024-08-01 | 2024-09-27 |
 | [Alle Pigerne Herinde](https://open.spotify.com/track/5RtYUyVHXiAchhXT8i99YE) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Alle Pigerne Herinde](https://open.spotify.com/album/0XXFSpRpYNzk0GBWvpDZXl) | 2:17 | 2026-01-22 | 2026-01-30 |
@@ -89,6 +90,7 @@
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-07 | 2025-06-06 |
 | [Bedre Held Næste Gang](https://open.spotify.com/track/6f39zo9LUv9SwOuroGfOdf) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bedre Held Næste Gang](https://open.spotify.com/album/7LTDqdRwrY2hNltXtImglO) | 2:59 | 2025-09-11 | 2025-09-26 |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-07-01 | 2024-08-01 |
+| [Begge To](https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Begge To](https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj) | 3:06 | 2026-02-05 |  |
 | [beholder mit tøj på](https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [beholder mit tøj på](https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98) | 3:08 | 2025-05-01 | 2025-07-25 |
 | [Bend](https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:33 | 2024-11-21 | 2025-01-10 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-30 |  |
@@ -415,7 +417,7 @@
 | [i guess u never really cared about me](https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i guess u never really cared about me](https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z) | 3:11 | 2025-04-17 | 2025-07-18 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-07-01 | 2024-08-17 |
 | [I Hate That It's True](https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [I Hate That It's True](https://open.spotify.com/album/4Bx9UDgMFGH2hyqm9Gia4P) | 2:41 | 2025-04-10 | 2025-07-11 |
-| [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM) | 3:50 | 2026-01-29 |  |
+| [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [I Hear a String Quartet Playing Everywhere I Go](https://open.spotify.com/album/4q8hI8J9570eJLga2mquGM) | 3:50 | 2026-01-29 | 2026-02-06 |
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-22 | 2024-10-08 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-09 |  |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 | 2025-05-23 |

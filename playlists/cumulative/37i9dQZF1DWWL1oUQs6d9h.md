@@ -4,7 +4,7 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-132 songs - 6 hr 54 min
+135 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [be mine](https://open.spotify.com/track/1NbmF6MheA6VlRv7II4rGZ) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [be mine](https://open.spotify.com/album/4B8OZjKsDfXw9goVMFkRig) | 3:07 | 2025-11-06 | 2025-11-11 |
 | [Better Dayz](https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:01 | 2025-05-16 | 2025-05-31 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-05-16 |  |
+| [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 | 2026-02-05 |  |
 | [Breaking Isn’t What a Heart Is For](https://open.spotify.com/track/5f0acaWrZ8qNBMmrz1ecnq) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Hope Handwritten](https://open.spotify.com/album/3QTYU8CnWg0tOnnIxfrLDq) | 2:52 | 2025-09-19 | 2025-10-18 |
 | [Bubbles&Mushrooms](https://open.spotify.com/track/5CvUFhAsWkrTrJEnnrzr3X) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [tellusboutyourself](https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj) | 3:57 | 2025-10-21 | 2026-01-15 |
 | [Bunker](https://open.spotify.com/track/68gMrDi1DX62IuiMvhW5Uz) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Vertigo](https://open.spotify.com/album/0wE8ptm5oD6Om2kRPIg3AD) | 3:16 | 2025-07-03 | 2025-07-10 |
@@ -41,7 +42,7 @@
 | [error](https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [error](https://open.spotify.com/album/0SkFqjFefiYI9LmEdtDkpI) | 3:10 | 2025-11-06 | 2026-01-15 |
 | [Escapade](https://open.spotify.com/track/1u1nd8ZoRPtiukdZkWKyFb) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:59 | 2025-08-19 | 2025-10-04 |
 | [Ex Machina](https://open.spotify.com/track/3ki3pmiZo3n24DFKdhHIqE) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Soft Error : X](https://open.spotify.com/album/25CRdWLjtFFZAGl2HI0RkU) | 3:02 | 2025-10-17 | 2025-11-20 |
-| [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 | 2026-01-13 |  |
+| [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 | 2026-01-13 | 2026-02-06 |
 | [Filter](https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:31 | 2026-01-13 | 2026-01-20 |
 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 | 2025-05-16 | 2025-08-20 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
@@ -57,7 +58,7 @@
 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-06-19 |  |
 | [how u been?](https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [how u been?](https://open.spotify.com/album/3IFf3W3XEgx6uD0Ok6XknE) | 2:34 | 2025-05-16 | 2025-09-10 |
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-17 |  |
-| [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 | 2026-01-26 |  |
+| [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 | 2026-01-26 | 2026-02-06 |
 | [I don′t need you](https://open.spotify.com/track/2Vf16DrDTzhb4Xmpu57Y14) | [Joyce](https://open.spotify.com/artist/0QOCwtP4YjaUY382rdWaoD) | [I don′t need you](https://open.spotify.com/album/2MVRs48RPXEH4a6aNqa3UJ) | 3:09 | 2025-08-19 | 2025-09-09 |
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2025-06-26 |  |
 | [Intoxicated](https://open.spotify.com/track/0hXpZ1Guz9ljuGXXhvWPPA) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8), [V.et](https://open.spotify.com/artist/57fP8asGx1qnkEh17w2Xv0) | [Intoxicated](https://open.spotify.com/album/6UWzyPGxJGlguSOVQafkJK) | 3:01 | 2025-12-13 | 2026-01-15 |
@@ -89,8 +90,9 @@
 | [Need](https://open.spotify.com/track/51Ge0cFUSzgr3jCCIsurEE) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [Damien](https://open.spotify.com/artist/6rY6f9sVehHVXVAOfLrgKf) | [STORY\#33](https://open.spotify.com/album/6DBTjyVMyMhDEIP8gapl0S) | 2:48 | 2025-05-29 | 2025-06-06 |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-22 | 2025-06-26 |
 | [O](https://open.spotify.com/track/4lQsZ6oUkyyCUnxbYaGk1d) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/4gv5ky2Kg46oREn9CX5MB2) | 3:16 | 2025-10-21 | 2026-01-15 |
+| [Ordinary girl](https://open.spotify.com/track/4Jnf1MhU7z0SwVn1L7nd4j) | [CHUNGYOON](https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr), [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ordinary girl](https://open.spotify.com/album/2SETwCmTEPUUoKWhtHIpT0) | 3:00 | 2026-02-05 |  |
 | [Out of Love](https://open.spotify.com/track/7uiC3Ce1HoN22WUnFszGo3) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C), [IFCHAN](https://open.spotify.com/artist/32ZgfbkvQ2StzCVv8Umkq6) | [Out of Love](https://open.spotify.com/album/1CwmwmPdt0SfRRHTHsje4H) | 2:35 | 2025-09-01 | 2025-09-25 |
-| [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 | 2026-01-13 |  |
+| [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 | 2026-01-13 | 2026-02-06 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-10-17 | 2025-11-06 |
 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 | 2025-05-16 |  |
 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 4:31 | 2025-05-16 | 2025-06-06 |
@@ -110,6 +112,7 @@
 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 | 2025-10-17 |  |
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-05-16 |  |
 | [shy girl](https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [shy girl](https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh) | 2:43 | 2025-08-19 | 2025-09-09 |
+| [signs](https://open.spotify.com/track/2tbEksv7lhfmUzlX5djhGq) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV) | [signs](https://open.spotify.com/album/1Rki9Crop0zIXWP23w6gIJ) | 2:16 | 2026-02-05 |  |
 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 | 2025-05-16 |  |
 | [Sky Captain \(Feat\. B JYUN., VENOSA\) \- Remix](https://open.spotify.com/track/3CD9qaeg7naRX2j8OqdBSh) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1), [VENOSA](https://open.spotify.com/artist/1BJqjBlI8pSf3PrSZmFeL4) | [RMXtape](https://open.spotify.com/album/0WyTIcXNc9NSKjVkM0tlZU) | 2:31 | 2025-09-24 | 2025-10-18 |
 | [Sleep Well](https://open.spotify.com/track/7MGUDGEQpcqf29gWAmJyy4) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/0bTUdnGtHlFackGM0QlmPo) | 2:55 | 2025-09-19 | 2025-09-23 |

@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186008,
+  "num_followers": 186029,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,18 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 270680,
+      "name": "Yes I'm Changing",
+      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -119,18 +115,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 270680,
-      "name": "Yes I'm Changing",
-      "url": "https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L"
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Mi Negrita",
-      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -859,6 +843,22 @@
       "duration_ms": 144829,
       "name": "Incredibly Blind (feat. X-Cetra)",
       "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Mi Negrita",
+      "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "No Dawn To Wake",
         "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "Paradis bleu",
         "url": "https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 207493,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "Matahari",
+        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 261493,
+      "name": "Vacances",
+      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "Blue Summer",
         "url": "https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
-        "name": "Matahari",
-        "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 261493,
-      "name": "Vacances",
-      "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
     },
     {
       "added_at": "2026-01-30 15:44:16",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
+        "name": "l'a\u00e9roport",
+        "url": "https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF"
+      },
+      "artists": [
+        {
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+        }
+      ],
+      "duration_ms": 144799,
+      "name": "l'a\u00e9roport",
+      "url": "https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c"
+    },
+    {
+      "added_at": "2026-01-30 15:44:16",
+      "album": {
         "name": "La Boulangerie, Vol. 3 (La Fine \u00c9quipe & Friends)",
         "url": "https://open.spotify.com/album/31oCgGwCgtJZIvS4ERobSJ"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "Bluffin'",
-        "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
-      },
-      "artists": [
-        {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
-        }
-      ],
-      "duration_ms": 139955,
-      "name": "Bluffin'",
-      "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
-    },
-    {
-      "added_at": "2026-01-30 15:44:16",
-      "album": {
         "name": "JET LAGGED",
         "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-01-30 15:44:16",
       "album": {
-        "name": "l'a\u00e9roport",
-        "url": "https://open.spotify.com/album/5yjNvkDFAQcFRTwVrHDilF"
+        "name": "Bluffin'",
+        "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
       },
       "artists": [
         {
-          "name": "Spider ZED",
-          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 144799,
-      "name": "l'a\u00e9roport",
-      "url": "https://open.spotify.com/track/4EFbN1gvoa0GDVBKmnzr1c"
+      "duration_ms": 139955,
+      "name": "Bluffin'",
+      "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
     },
     {
       "added_at": "2026-01-30 15:44:16",

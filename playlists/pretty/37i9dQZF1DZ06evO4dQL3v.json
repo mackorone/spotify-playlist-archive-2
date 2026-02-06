@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAf+m6cSao8K1INEYHr41j0",
+  "snapshot_id": "aYKMAAAAAAAUCExn0/cqXCkt+Z37DVg8",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tamborazos Zacatecanos , Vol. 1",
-        "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "La Cama de Piedra",
-      "url": "https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo y Nada",
         "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 170973,
       "name": "Dame un Beso y Dime Adios",
       "url": "https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tamborazos Zacatecanos , Vol. 1",
+        "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "La Cama de Piedra",
+      "url": "https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 121400,
-      "name": "Libro Abierto - Con Mariachi",
-      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo y Nada",
         "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
@@ -503,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
       },
       "artists": [
         {
@@ -512,9 +496,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
       "duration_ms": 200400,
       "name": "Ando Que Me Lleva",
       "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Busca Tu Hueco",
-      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
         "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 178213,
       "name": "El Cotorro Enamorado - Tecno Banda",
       "url": "https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Busca Tu Hueco",
+      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
     },
     {
       "added_at": null,

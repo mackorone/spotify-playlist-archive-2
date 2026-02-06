@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217492,
       "name": "Bunny Girl",
       "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
@@ -518,7 +518,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165000,
       "name": "How Cute",
       "url": "https://open.spotify.com/track/3UO4lfyVC7etdTYq638K7q"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "you're my",
+        "url": "https://open.spotify.com/album/1WnFBJ5DOdq5at6Kjjdu3P"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242824,
+      "name": "you're my",
+      "url": "https://open.spotify.com/track/0282oL6TW2TMbxEljHQNJn"
+    },
+    {
+      "album": {
         "name": "You're Losing Me (From The Vault)",
         "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
       },
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 240893,
       "name": "\u3068\u308d\u3044",
       "url": "https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 201285,
       "name": "\u30a2\u30eb\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/6dGZVFHH89faJ5cVm0rvFT"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 319623,
       "name": "\u30a2\u30f3\u30d0\u30e9\u30f3\u30b9\u30d6\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/0eCUAotdiI7XvEduXxBQFL"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 195640,
       "name": "\u30eb\u30fc\u30c4",
       "url": "https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR"

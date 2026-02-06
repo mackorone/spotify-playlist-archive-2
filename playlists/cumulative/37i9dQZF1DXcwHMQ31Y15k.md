@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Woro Widowati
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Karnamereka, Ndarboy Genk
 
-571 songs - 1 day 23 hr 54 min
+574 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Ninggal Cerito \(Purwokerto\) \[Live Orchestra\]](https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton \(Live Orchestra\)](https://open.spotify.com/album/5VdM1so7eacofy8pbM14Vg) | 5:20 | 2022-05-26 | 2023-07-14 |
 | [Ninggal Loro](https://open.spotify.com/track/6oLNZlzyBqN2WCTfwYnXww) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ninggal Loro](https://open.spotify.com/album/4lZdaQzoEm844LOKt4ZKnq) | 4:12 | 2023-05-25 | 2024-07-27 |
 | [Ninggal Loro](https://open.spotify.com/track/7rC9pK7Bz2c8K3TSFx6t7o) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ninggal Loro](https://open.spotify.com/album/4bR3qFvIsBhSYn1JfGExNB) | 4:12 | 2023-12-08 | 2024-04-19 |
+| [Njanjeni](https://open.spotify.com/track/79AuIgXTJqA1QoPHxRtM2O) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Yaya Hnd](https://open.spotify.com/artist/6roqstyqWLth4X96c2Vpcv) | [Njanjeni](https://open.spotify.com/album/3dRpUQW6NA1Gq6mCCZGAlk) | 4:17 | 2026-02-05 |  |
 | [Njarem](https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF), [Dask Music](https://open.spotify.com/artist/347FJUPALm4tIlsgYJPVCQ) | [Njarem](https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL) | 7:38 | 2025-01-02 | 2025-08-29 |
 | [Nompo](https://open.spotify.com/track/3ujZxKmfJ28ZGxzv0heYJ0) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Nompo](https://open.spotify.com/album/5aHfVq09tjsD6viagtM8tv) | 5:43 | 2025-08-21 | 2025-11-14 |
 | [Nona Jelita](https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Nona Jelita](https://open.spotify.com/album/0O5lGQLkUOq4G6QMiSYlPr) | 5:58 | 2024-05-30 | 2024-10-19 |
@@ -489,6 +490,7 @@
 | [Sigar](https://open.spotify.com/track/12BUsSyjHbnvmnFw6TObGD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sigar](https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu) | 5:29 | 2024-07-23 |  |
 | [SIGAR](https://open.spotify.com/track/4YJBdnd2ZF5JeGVNQUnGrO) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [SIGAR](https://open.spotify.com/album/2IzepynkbkvI97V9TK1tTi) | 7:14 | 2024-08-02 | 2025-01-11 |
 | [Sigar](https://open.spotify.com/track/0n3Bifr2WXXaGlW45YuQIm) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Sigar](https://open.spotify.com/album/6iZIQvcfuZkOMG9Js2mWqM) | 5:31 | 2024-08-15 | 2025-04-18 |
+| [Sikep](https://open.spotify.com/track/5TnXvnMzkA6D7dsq6Yl32J) | [Karnamereka](https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep](https://open.spotify.com/album/1zseMFCKNuNVEKSm94xGDg) | 3:46 | 2026-02-05 |  |
 | [Sikep "Siap Kelangan Pengarep Arep"](https://open.spotify.com/track/0QheyPV6fQ3xaaavPXLmPm) | [Tiara Amora](https://open.spotify.com/artist/7qVKpwVR1Dy3aqpzq0b7xW), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Sikep "Siap Kelangan Pengarep Arep"](https://open.spotify.com/album/5mTukLvoT78r57nJVtPIK5) | 4:59 | 2025-12-19 |  |
 | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sikep \(Siap Kelangan Pengarep Arep\)](https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M) | 5:05 | 2025-10-23 |  |
 | [Sinarengan](https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Bella Bonita](https://open.spotify.com/artist/3K6JJtWNTBwQudEUuKYLQI) | [Sinarengan](https://open.spotify.com/album/0pjz8ygNmSBbsZaGGyUYKw) | 5:33 | 2025-03-13 |  |
@@ -500,6 +502,7 @@
 | [Slintutan](https://open.spotify.com/track/2hIpy1PYEdUoiC9dgwOgqS) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Slintutan](https://open.spotify.com/album/6vOSYOXlg5TsFA3FdLQMuX) | 6:06 | 2025-01-16 | 2025-03-14 |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 | 2023-08-11 |
 | [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 | 2024-09-26 | 2025-10-24 |
+| [Sumandhing](https://open.spotify.com/track/4nDmNth5y0njhlNnoivl75) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Sumandhing](https://open.spotify.com/album/7rsRcJTbndfHD1KmhI8PkJ) | 4:41 | 2026-02-05 |  |
 | [Tak Kancani](https://open.spotify.com/track/4tecElKdvmVd5G5Uwgl834) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Fauzi Haidi](https://open.spotify.com/artist/16GONCEkIfXCfSzgsuJBBJ) | [Tak Kancani](https://open.spotify.com/album/1fFsyjJk6UuGmLA6Qqvflm) | 5:22 | 2026-01-15 |  |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5fhDqPVoKj7eSkpRiCVyw8) | [Bella Nova](https://open.spotify.com/artist/5FMLSzS6VgQZ5j9qsIhqv0) | [Tak Lalekne Kowe](https://open.spotify.com/album/7zwWjfvz7dD1kOGLSmMf9h) | 5:32 | 2024-02-23 | 2024-06-14 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2022-05-26 | 2022-08-19 |

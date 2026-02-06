@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nafe Smallz, M Huncho",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: EsDeeKid",
   "name": "Rap UK",
   "tracks": [
     {
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169230,
       "name": "1942",
       "url": "https://open.spotify.com/track/52kfQoyVkYz1advJIwgsWC"
@@ -16202,7 +16202,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169846,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1X9kEJ1M3ZxcGdckUbb47w"
@@ -21612,6 +21612,28 @@
       "duration_ms": 55774,
       "name": "Jme's Pattern",
       "url": "https://open.spotify.com/track/0MScFULzqw1TMzYqwDF9SM"
+    },
+    {
+      "album": {
+        "name": "Job's Not Done (feat. ERA)",
+        "url": "https://open.spotify.com/album/07DLX06IuDYwIdrbu0K1bq"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        },
+        {
+          "name": "ERA",
+          "url": "https://open.spotify.com/artist/4Aefs4DWkn6zjggzBiK7Gj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Job's Not Done (feat. ERA)",
+      "url": "https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm"
     },
     {
       "album": {
@@ -29909,6 +29931,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
+    },
+    {
+      "album": {
         "name": "On Deck",
         "url": "https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd"
       },
@@ -31906,6 +31946,24 @@
       "duration_ms": 213333,
       "name": "Pick 'n' Mix",
       "url": "https://open.spotify.com/track/0QL0BFCckWmLrVyVlcYsUY"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Marnz Malone",
+          "url": "https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj"
     },
     {
       "album": {
@@ -40816,7 +40874,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164691,
       "name": "They're called 110s",
       "url": "https://open.spotify.com/track/06b2WlXuMqfEj5TwQpo4Hy"

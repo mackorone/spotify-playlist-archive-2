@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-137 songs - 7 hr 19 min
+138 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Every Night](https://open.spotify.com/track/0Qe8IB3Tqb5wLQbsrri7ex) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 2:57 | 2024-06-07 |  |
 | [Everybody Needs Someone](https://open.spotify.com/track/6oiqxLhql2Pn3g8NCdylAv) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 3:22 | 2025-02-14 |  |
 | [everything you need](https://open.spotify.com/track/5ZD0MkX1FadkqYwhCCmAiv) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:27 | 2024-06-07 |  |
+| [FMB](https://open.spotify.com/track/2cVV3bwDceDchfxtvUDpbD) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [FMB](https://open.spotify.com/album/0SYt0GKTeUFYeSuFBhg8Cy) | 2:06 | 2026-02-05 |  |
 | [Girls Talkin Bout](https://open.spotify.com/track/1l0w3qSXUh8eEkzeotScCX) | [Mindless Behavior](https://open.spotify.com/artist/2waKklOyXKNqhqIOmE4yBA) | [\#1 Girl](https://open.spotify.com/album/72Dqv9RL9xaG5fwEClkC6w) | 3:22 | 2024-06-07 |  |
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-01 |  |
 | [Gon' B Alright](https://open.spotify.com/track/0rjk5JvTGxDcHuFdqcrTX4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:54 | 2024-06-07 |  |

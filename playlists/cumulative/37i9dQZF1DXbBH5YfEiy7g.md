@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-218 songs - 23 hr 33 min
+220 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Tana Moya](https://open.spotify.com/track/47cota1Kwv2YshEGp86jSU) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Tana Moya](https://open.spotify.com/album/508JUVLvHES39OHZ63hs53) | 3:03 | 2025-03-14 | 2025-04-18 |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
+| [Thula Moya Wam \- Live At Krugersdorp](https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv) | [William Sejake](https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R) | [Thula Moya Wam \(Live At Krugersdorp\)](https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX) | 4:21 | 2026-02-06 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-11-07 |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
@@ -222,6 +223,7 @@
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2024-10-04 |  |
 | [Yibanathi](https://open.spotify.com/track/5LzOe7x29UE0MtoeuAjJPk) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ngumama](https://open.spotify.com/album/3aVcedqj0IXKp136xu2YVZ) | 5:06 | 2025-08-01 | 2025-08-06 |
 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 | 2024-10-04 |  |
+| [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 |  |
 | [Ziphozenkosi](https://open.spotify.com/track/0O2e0WCYO5RUZxKxaALIdt) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/0h7idd5vUsENqPdcgF8lpx) | 4:52 | 2025-08-01 | 2025-08-06 |
 | [Ziphozenkosi](https://open.spotify.com/track/0XpH0PNvDUVEFInp6Zedww) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Ziphozenkosi](https://open.spotify.com/album/1O0aJv1WopBAygnHrl4bti) | 4:52 | 2024-10-11 |  |
 | [Zundikhaphe \(Reprise\) \- Live](https://open.spotify.com/track/630wpqEFhX2z0UIHpYX1KN) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 6:30 | 2024-10-04 |  |

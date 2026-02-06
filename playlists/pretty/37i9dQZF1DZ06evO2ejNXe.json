@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACjDfBgS/XvIXstcEjKG/ay",
+  "snapshot_id": "aYKMAAAAAAAMUc4V9S/c7yfKuplDsXpi",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Caliente",
-        "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/1CRVyxds5wQM1Um03klsPE"
       },
       "artists": [
-        {
-          "name": "Muzik Junkies",
-          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
-        },
         {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 177782,
-      "name": "Cosa Caliente",
-      "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/4WgrBRLLELpGONqXHdZBAy"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/1CRVyxds5wQM1Um03klsPE"
+        "name": "Cosa Caliente",
+        "url": "https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT"
       },
       "artists": [
+        {
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
+        },
         {
           "name": "Banda Zarape",
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/4WgrBRLLELpGONqXHdZBAy"
+      "duration_ms": 177782,
+      "name": "Cosa Caliente",
+      "url": "https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E"
     },
     {
       "added_at": null,

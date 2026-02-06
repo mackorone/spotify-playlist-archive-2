@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11330,
+  "num_followers": 11332,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABEH5HNIzIA/NdtjWg6F+cV",
+  "snapshot_id": "aYKMAAAAAACUBrdHIq9Gl/HNqw1JVZRG",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 138420,
-      "name": "Percy Jackson and the Olympians (Season 2 Theme)",
-      "url": "https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 223866,
       "name": "Lullaby of the Giants (From \"God of War\" Soundtrack)",
       "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 138420,
+      "name": "Percy Jackson and the Olympians (Season 2 Theme)",
+      "url": "https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War (PlayStation Soundtrack)",
         "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 369640,
       "name": "Ashes (From \"God of War\" Soundtrack) (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 238314,
-      "name": "The Julia and Henry Theme",
-      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 177066,
       "name": "The New Fraser's Ridge",
       "url": "https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 238314,
+      "name": "The Julia and Henry Theme",
+      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Brown",
-          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
-        }
-      ],
-      "duration_ms": 141720,
-      "name": "The Echo and the River",
-      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 105106,
       "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
       "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+        }
+      ],
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
     },
     {
       "added_at": null,

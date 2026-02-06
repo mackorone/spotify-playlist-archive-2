@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1477992,
+  "num_followers": 1477943,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Scene",
         "url": "https://open.spotify.com/album/6YcPnmN692PwIMCe7RcCor"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 192705,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2XilllM3LNVQPvCrOX749W"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 121833,
       "name": "Cove",
       "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 132507,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "LUSTER",
-        "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
-      },
-      "artists": [
-        {
-          "name": "SAIRU",
-          "url": "https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw"
-        }
-      ],
-      "duration_ms": 277978,
-      "name": "LUSTER",
-      "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Suspended",
         "url": "https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 130119,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "LUSTER",
+        "url": "https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR"
+      },
+      "artists": [
+        {
+          "name": "SAIRU",
+          "url": "https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw"
+        }
+      ],
+      "duration_ms": 277978,
+      "name": "LUSTER",
+      "url": "https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Tarde Invernal",
-        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        },
-        {
-          "name": "Fourth Dogma",
-          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
-        }
-      ],
-      "duration_ms": 142004,
-      "name": "Tarde Invernal",
-      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
+        }
+      ],
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "Dersen Cafe & Give Nothing",
-        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "Dersen Cafe",
-      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -763,6 +747,22 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Dersen Cafe & Give Nothing",
+        "url": "https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Dersen Cafe",
+      "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "DIAMONDS & FREAKS (Instrumentals)",
         "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "6F Encounters",
         "url": "https://open.spotify.com/album/6qDq0f7Oa3CpQGnTyT5qug"
       },
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
       "artists": [
         {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
         }
       ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Raincoat (Paul Grant Remix)",
         "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 193125,
       "name": "Raincoat (Paul Grant Remix)",
       "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "busking",
+        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
+      },
+      "artists": [
+        {
+          "name": "_tag",
+          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
+        }
+      ],
+      "duration_ms": 140714,
+      "name": "busking",
+      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "The Valley",
-        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
-      },
-      "artists": [
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS"
+      },
+      "artists": [
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Beats On Boat: Hazy Year",
-        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
-      },
-      "artists": [
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Notes",
-      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Hot Water",
         "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 142417,
       "name": "Carpet",
       "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Beats On Boat: Hazy Year",
+        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
+      },
+      "artists": [
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Notes",
+      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Sakura Bloom",
         "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 122105,
       "name": "Sakura Bloom",
       "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
         "name": "Coquettish Definition",
         "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 193125,
       "name": "Coquettish Definition",
       "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Lofi Loyal Caf\u00e9 Customer",
-        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
-      },
-      "artists": [
-        {
-          "name": "Single Friend",
-          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Lofi Loyal Caf\u00e9 Customer",
-      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
-    },
-    {
-      "added_at": "2026-01-23 10:32:42",
-      "album": {
         "name": "Romantic Rain",
         "url": "https://open.spotify.com/album/1tQiRd5m1st2e60sbyvbcS"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 170782,
       "name": "Romantic Rain",
       "url": "https://open.spotify.com/track/0ONPyowm9YQFY7mtx45GaD"
+    },
+    {
+      "added_at": "2026-01-23 10:32:42",
+      "album": {
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
+      },
+      "artists": [
+        {
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     },
     {
       "added_at": "2026-01-23 10:32:42",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-01-23 10:32:42",
       "album": {
-        "name": "Tiny Grains of Guilt",
-        "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
       },
       "artists": [
         {
-          "name": "Handbook",
-          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
         }
       ],
-      "duration_ms": 124044,
-      "name": "Tiny Grains of Guilt",
-      "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     }
   ],
   "unique_name": "Mellow Beats",

@@ -1,12 +1,12 @@
 {
   "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
-  "num_followers": 13842,
+  "num_followers": 13846,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0OZINHpUnScyb15qEDZS2BLXbt",
+  "snapshot_id": "AAAAAIlbzXN+eTsFppQ8Dq0Wc0J5qEK+",
   "tracks": [
     {
       "added_at": "2026-01-22 18:00:10",
@@ -25,10 +25,26 @@
       "url": "https://open.spotify.com/track/4zbLLlSlpQTixjfaSIWFd8"
     },
     {
-      "added_at": "2026-01-22 18:00:10",
+      "added_at": "2026-02-05 19:00:06",
       "album": {
-        "name": "Ya Sudahlah",
-        "url": "https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA"
+        "name": "20 Weeks",
+        "url": "https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "20 Weeks",
+      "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
+    },
+    {
+      "added_at": "2026-02-05 19:00:06",
+      "album": {
+        "name": "Kenapa Selalu Aku",
+        "url": "https://open.spotify.com/album/2W2TlAgxqVErI0BTQjZNxq"
       },
       "artists": [
         {
@@ -36,9 +52,25 @@
           "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
         }
       ],
-      "duration_ms": 243214,
-      "name": "Ya Sudahlah",
-      "url": "https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA"
+      "duration_ms": 210640,
+      "name": "Kenapa Selalu Aku",
+      "url": "https://open.spotify.com/track/69iYcn3kbPHW4ox0q1FBaL"
+    },
+    {
+      "added_at": "2026-02-05 19:00:06",
+      "album": {
+        "name": "SILVER LINING",
+        "url": "https://open.spotify.com/album/65cFOLa7aqja0VTKMTCq5j"
+      },
+      "artists": [
+        {
+          "name": "Kay Sebastene",
+          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
+        }
+      ],
+      "duration_ms": 265818,
+      "name": "SILVER LINING",
+      "url": "https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb"
     },
     {
       "added_at": "2026-01-08 19:00:28",
@@ -145,24 +177,20 @@
       "url": "https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO"
     },
     {
-      "added_at": "2025-12-11 18:00:19",
+      "added_at": "2026-01-22 18:00:10",
       "album": {
-        "name": "THE WATCHMEN",
-        "url": "https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki"
+        "name": "Ya Sudahlah",
+        "url": "https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA"
       },
       "artists": [
         {
-          "name": "Kay Sebastene",
-          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
-        },
-        {
-          "name": "PB GLAS",
-          "url": "https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG"
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
         }
       ],
-      "duration_ms": 202971,
-      "name": "THE WATCHMEN",
-      "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
+      "duration_ms": 243214,
+      "name": "Ya Sudahlah",
+      "url": "https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA"
     },
     {
       "added_at": "2025-11-27 17:30:01",
@@ -199,6 +227,26 @@
       "duration_ms": 251544,
       "name": "Harus Kemana",
       "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
+    },
+    {
+      "added_at": "2025-12-11 18:00:19",
+      "album": {
+        "name": "THE WATCHMEN",
+        "url": "https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki"
+      },
+      "artists": [
+        {
+          "name": "Kay Sebastene",
+          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
+        },
+        {
+          "name": "PB GLAS",
+          "url": "https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "THE WATCHMEN",
+      "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
     },
     {
       "added_at": "2025-11-27 17:30:01",
@@ -835,22 +883,6 @@
     {
       "added_at": "2025-09-18 17:00:31",
       "album": {
-        "name": "Back 2 You",
-        "url": "https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p"
-      },
-      "artists": [
-        {
-          "name": "Briellebeth",
-          "url": "https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Back 2 You",
-      "url": "https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC"
-    },
-    {
-      "added_at": "2025-09-18 17:00:31",
-      "album": {
         "name": "BACK 2 YOU",
         "url": "https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh"
       },
@@ -987,30 +1019,6 @@
       "duration_ms": 214956,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
-    },
-    {
-      "added_at": "2025-08-21 19:00:33",
-      "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/4LVVokSMi6D8f5xX0JO9ev"
-      },
-      "artists": [
-        {
-          "name": "Azimah Fada",
-          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
-        },
-        {
-          "name": "Arif DG Rate",
-          "url": "https://open.spotify.com/artist/2chclvmh09mRLkSBiZCy4O"
-        },
-        {
-          "name": "Saleh Hariwibowo",
-          "url": "https://open.spotify.com/artist/3bk30OwAODCVXw5ST6pBi0"
-        }
-      ],
-      "duration_ms": 233050,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk"
     },
     {
       "added_at": "2025-08-07 19:00:29",

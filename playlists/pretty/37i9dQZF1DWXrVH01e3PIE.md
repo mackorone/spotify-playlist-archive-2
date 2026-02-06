@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Koki LS & Lucho SSJ en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,735 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,712 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 44 | [Tengo Una Cadena](https://open.spotify.com/track/3xdbqyli0ZUKupnyKQfGJp) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Tengo Una Cadena](https://open.spotify.com/album/4qwdTvKXGFZVMZxyTwBCuN) | 2:00 |
 | 45 | [GO !](https://open.spotify.com/track/5YXz70oFfLpWdTYHDWDAQM) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [CULTO II](https://open.spotify.com/album/6JuQ1TJnbqDp9O5stQGOJx) | 2:40 |
 | 46 | [I Need You](https://open.spotify.com/track/0GveneK2tkyHVvT5nomtxK) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [I Need You](https://open.spotify.com/album/5Whs8dUlxUwI6Hfjak9lli) | 2:48 |
-| 47 | [hot box](https://open.spotify.com/track/2qYNswYHkh1Ae3yKVPimUW) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Clúster](https://open.spotify.com/artist/77T5XlEwCRjlmRIioW5OXB) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:38 |
+| 47 | [hot box](https://open.spotify.com/track/2qYNswYHkh1Ae3yKVPimUW) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Clúster](https://open.spotify.com/artist/77T5XlEwCRjlmRIioW5OXB) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:38 |
 | 48 | [Nena Sad Remix](https://open.spotify.com/track/3MDaMg89kr21WgU0ZFFHX7) | [ORO600](https://open.spotify.com/artist/5rHC8VSODpT9V7a8ZQu1h6), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Orodembow](https://open.spotify.com/artist/0fEjMgQHvs06BQuWWzsbrn), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd) | [Nena Sad Remix](https://open.spotify.com/album/6nmfgEA5oMNLB2Zd90pjnp) | 4:05 |
 | 49 | [fumando solo](https://open.spotify.com/track/5CA83WobR1hqZGTozG7F6G) | [BIG frank](https://open.spotify.com/artist/5DlabRsrA6kxXf39PlYMAS), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [viiBesOnly 2](https://open.spotify.com/album/2B7i8T2whX2SXBg2mQNS9b) | 2:28 |
 | 50 | [HAMBRE](https://open.spotify.com/track/4vjOvlbbmbkWbvObX4ALhd) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [HAMBRE](https://open.spotify.com/album/5dfgMlH7xMhCGZYJ8MMVCY) | 2:38 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 62 | [Se Regalan](https://open.spotify.com/track/06AX8zW8PbtoiOjmpP7Qht) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Se Regalan](https://open.spotify.com/album/5BaKJ15xDt3heUM1x6DRgE) | 2:00 |
 | 63 | [LLÁMAME](https://open.spotify.com/track/4BzY7h54uvaq9Y93XWMtvE) | [NICOLO](https://open.spotify.com/artist/4jlamsBYtWIOYeajr3Ddu2), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO), [twelve](https://open.spotify.com/artist/18irtIdwwufsEZeFTKZn55) | [LLÁMAME](https://open.spotify.com/album/24IQkELOvJ9bkzqcccMpAj) | 1:50 |
 | 64 | [23](https://open.spotify.com/track/3r0VDcZI7et70kB81XObeq) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [23](https://open.spotify.com/album/6UwxAA4ZiNTqaFgCv3O3Qj) | 3:02 |
-| 65 | [bali .](https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [bali .](https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x) | 2:12 |
+| 65 | [bali .](https://open.spotify.com/track/7slbwOTJmyABDs82VaURSC) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [bali .](https://open.spotify.com/album/2FN0ortSaO9f2WBZRYTT5x) | 2:12 |
 | 66 | [2.0](https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [COSMIC KID](https://open.spotify.com/album/7M3tTNeYiYamVgZur0HIap) | 1:49 |
 | 67 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 |
 | 68 | [WE LOVE THAT SHIT](https://open.spotify.com/track/65fiS81RLXX2Fs4v4fqigW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:50 |

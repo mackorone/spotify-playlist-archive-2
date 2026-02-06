@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-67 songs - 3 hr 22 min
+68 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 | 2025-06-01 |  |
 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 | 2023-12-13 |  |
 | [What You Playin' For](https://open.spotify.com/track/0usRynwL4TvyLH59elVOWs) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/5IJf1oEu5eKvY5lozNJ8ke) | 2:25 | 2023-12-13 | 2024-12-14 |
-| [What You Playin' For](https://open.spotify.com/track/7EG6aNyx5lJpajQZ7uVySB) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/12jbSt7xlrWa4uahieFmZK) | 2:25 | 2024-12-13 |  |
+| [What You Playin' For](https://open.spotify.com/track/7EG6aNyx5lJpajQZ7uVySB) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/12jbSt7xlrWa4uahieFmZK) | 2:25 | 2024-12-13 | 2026-02-06 |
+| [What You Playin' For](https://open.spotify.com/track/7n0f092kj7BtumH5nJIDAX) | [Cely](https://open.spotify.com/artist/5NJHJgWj1rmRrIM1EHkxsb) | [What You Playin' For](https://open.spotify.com/album/0rOCEXmJR17WBi6TTv4jiI) | 2:25 | 2026-02-05 |  |
 | [Yo Quiero Un Amor](https://open.spotify.com/track/1T7QqLxsBQyzQgvKnXWTHS) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Yo Quiero Un Amor](https://open.spotify.com/album/7dVcitwtxig7tqFoVJzhYt) | 3:35 | 2023-12-13 |  |
 | [Yo Soy](https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Yo Soy](https://open.spotify.com/album/4oz9KbvSo3SQOhHITyYhT2) | 2:49 | 2023-12-13 |  |
 

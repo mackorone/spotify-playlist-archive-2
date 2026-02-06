@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: Charlotte Dowsson
+> The latest of R&B rising in the UK\. Cover: Mnelia
 
-544 songs - 1 day 4 hr 18 min
+547 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 | 2022-07-17 | 2023-04-29 |
 | [Clothes Off](https://open.spotify.com/track/3AbbBPOMTPWAJm0BYAJUY1) | [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Clothes Off](https://open.spotify.com/album/321J19JZwknNDSjaXmZn8G) | 2:36 | 2025-08-07 | 2025-09-19 |
 | [cocoa body](https://open.spotify.com/track/2DSsF45LB3rzvJehF5qpcF) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [cocoa body](https://open.spotify.com/album/1aAKL6fzyKBpTF2lCX7HeH) | 2:59 | 2025-07-24 |  |
+| [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 | 2026-02-06 |  |
 | [Come Home](https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Come Home](https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI) | 3:48 | 2025-09-18 |  |
 | [Come To Me](https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK) | 3:24 | 2025-11-07 |  |
 | [Company \(feat\. Mereba\)](https://open.spotify.com/track/7iYSdBJITN7KpYjOMbkdDd) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Company \(feat\. Mereba\)](https://open.spotify.com/album/1nAlbsN18gs5usD43mb6BC) | 2:44 | 2022-07-17 | 2022-12-19 |
@@ -142,6 +143,7 @@
 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 | 2022-07-17 | 2023-05-09 |
 | [EMILIA](https://open.spotify.com/track/68B5H1EYzsjhBJtGd62VyY) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [BRITISH BOGOTÁ BOY](https://open.spotify.com/album/5Ne9zTgzSScFDIBXrtyLPH) | 3:03 | 2025-09-18 |  |
 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-24 | 2024-09-13 |
+| [Enough](https://open.spotify.com/track/4JKa7E11MKyZrFQBzFaTij) | [Marika](https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4) | [Enough](https://open.spotify.com/album/1aTjBoDqG06Ra9eLYDVIrA) | 3:47 | 2026-02-06 |  |
 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 | 2024-02-02 | 2024-11-12 |
 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 | 2022-07-17 | 2023-10-20 |
 | [Evil Eye](https://open.spotify.com/track/4HB9GHrm8VvizUlbV6VnWg) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/4CJPUoc2krf3TXaA9Z8R5f) | 2:55 | 2022-07-17 | 2022-12-25 |
@@ -152,10 +154,11 @@
 | [FALL THROUGH](https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [FALL THROUGH](https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc) | 3:30 | 2025-09-18 |  |
 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 | 2024-09-12 | 2024-11-17 |
 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-09-14 | 2024-04-24 |
-| [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 |  |
+| [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 | 2025-06-26 | 2026-02-06 |
 | [Fickle](https://open.spotify.com/track/1iVkt8ObfcsC4hch6nOhf1) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Fickle](https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA) | 2:31 | 2023-05-15 | 2023-06-02 |
 | [Fight you](https://open.spotify.com/track/0ge1CEon7FR7RX78ZdZhDA) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Tell Jimmy](https://open.spotify.com/album/7qW0v91QqdcYVuu4sVMLVt) | 3:18 | 2024-02-16 | 2024-03-23 |
 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-07-10 | 2025-09-19 |
+| [FIND OUT](https://open.spotify.com/track/7Hun7EUngoDMx591TdCDs7) | [Ashley Iman](https://open.spotify.com/artist/7EtQAZo28sS3vNwbHrOmqx) | [FIND OUT](https://open.spotify.com/album/5nroGRYiPPX8E7uAV30U7g) | 2:22 | 2026-02-06 |  |
 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 | 2024-01-26 | 2024-11-15 |
 | [Flexin](https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Flexin](https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX) | 2:55 | 2023-07-21 | 2023-08-19 |
 | [Fly Away](https://open.spotify.com/track/3KMXrC9uDVEch4D6iyhZCp) | [Zakhar](https://open.spotify.com/artist/6sGJ9AOz3XJH8S8WDcZUUO) | [Fly Away](https://open.spotify.com/album/0c5mfGZXxLSAtdHGrDwh9t) | 3:21 | 2022-07-17 | 2023-01-20 |
@@ -259,7 +262,7 @@
 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 | 2024-04-26 | 2025-02-07 |
 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 | 2022-07-17 | 2023-07-22 |
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-02-24 | 2024-08-05 |
-| [ISO](https://open.spotify.com/track/73ey35FCk88uo0NbvEX9DV) | [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [ISO](https://open.spotify.com/album/1exGXDA5ktfUtrqfUOV3Rr) | 2:37 | 2025-07-24 |  |
+| [ISO](https://open.spotify.com/track/73ey35FCk88uo0NbvEX9DV) | [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [ISO](https://open.spotify.com/album/1exGXDA5ktfUtrqfUOV3Rr) | 2:37 | 2025-07-24 | 2026-02-06 |
 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 | 2023-07-21 | 2024-04-19 |
 | [It Only Cost Everything](https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS) | 2:28 | 2023-05-18 | 2023-07-28 |
 | [It's Been A Week](https://open.spotify.com/track/7ubDr5F9DWHYZjFX42jHnp) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [It’s Been A Week](https://open.spotify.com/album/72cu7PDY50JqN8UY0VBdgW) | 2:59 | 2024-03-22 | 2024-04-26 |
@@ -392,7 +395,7 @@
 | [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 | 2023-05-18 | 2023-06-02 |
 | [peace vs problems](https://open.spotify.com/track/1FikhWLSKzB464SrFb3zKl) | [iceè tgm](https://open.spotify.com/artist/3qU8FknDwUosQnzmUZrrST) | [peace vs problems](https://open.spotify.com/album/0BDjHgVIH3e7zcpzazh7UR) | 2:06 | 2025-08-07 | 2025-10-10 |
 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 | 2025-07-10 | 2025-12-11 |
-| [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-04 |  |
+| [Pinky Promise](https://open.spotify.com/track/5SAbFkCiJUEnQDVW50Nrkp) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Pinky Promise](https://open.spotify.com/album/2TBkA7A7TVxLPSQuGGtIAN) | 3:51 | 2025-04-04 | 2026-02-06 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2024-08-02 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2022-07-17 | 2023-05-15 |
 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-06-26 | 2025-08-09 |

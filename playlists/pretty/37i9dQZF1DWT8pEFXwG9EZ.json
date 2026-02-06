@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 186708,
+  "num_followers": 186754,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -867,38 +867,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
     },
     {
       "added_at": "2025-12-11 09:06:36",

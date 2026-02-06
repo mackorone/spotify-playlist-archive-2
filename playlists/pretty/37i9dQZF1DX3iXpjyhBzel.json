@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
-  "num_followers": 1210582,
+  "num_followers": 1210876,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Esp\u00edrito Santo (Inhabit)",
-      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Esp\u00edrito Santo (Inhabit)",
+      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "O C\u00e9u Responde Diferente (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 377246,
       "name": "O C\u00e9u Responde Diferente - Ao Vivo",
       "url": "https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1391,6 +1391,34 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
+        "name": "O Grande Banquete",
+        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
+      },
+      "artists": [
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Filipe da Guia",
+          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
+        },
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        }
+      ],
+      "duration_ms": 315943,
+      "name": "Au\u00ea (A F\u00e9 Ganhou)",
+      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
         "name": "Oi, Jesus 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6"
       },
@@ -1427,22 +1455,6 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
         "name": "As Minhas Ora\u00e7\u00f5es Cantadas - Vol 1",
         "url": "https://open.spotify.com/album/1sZNHIQlqQqylJ3VPwDKFW"
       },
@@ -1455,6 +1467,22 @@
       "duration_ms": 540820,
       "name": "Se Eles Soubessem",
       "url": "https://open.spotify.com/track/5ii2ZGz9wb6hTqY9Ira9Cw"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1491,34 +1519,6 @@
       "duration_ms": 208025,
       "name": "Estrela da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
-        "name": "O Grande Banquete",
-        "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
-      },
-      "artists": [
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Filipe da Guia",
-          "url": "https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a"
-        },
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        }
-      ],
-      "duration_ms": 315943,
-      "name": "Au\u00ea (A F\u00e9 Ganhou)",
-      "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
     },
     {
       "added_at": "2026-01-30 13:09:31",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-01-30 13:09:31",
       "album": {
+        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 381302,
+      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
+    },
+    {
+      "added_at": "2026-01-30 13:09:31",
+      "album": {
         "name": "Meu Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 293426,
       "name": "Jonas (Ao Vivo)",
       "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
-    },
-    {
-      "added_at": "2026-01-30 13:09:31",
-      "album": {
-        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 381302,
-      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
     },
     {
       "added_at": "2026-01-30 13:09:31",

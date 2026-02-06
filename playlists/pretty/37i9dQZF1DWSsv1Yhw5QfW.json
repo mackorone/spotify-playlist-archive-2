@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 153375,
+  "num_followers": 153409,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
+        "name": "...But Seriously",
+        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "I Wish It Would Rain Down",
+      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
         "name": "Automatic For The People (U.S. Version)",
         "url": "https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
-        "name": "...But Seriously",
-        "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "I Wish It Would Rain Down",
-      "url": "https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf"
     },
     {
       "added_at": "2024-06-14 18:07:20",

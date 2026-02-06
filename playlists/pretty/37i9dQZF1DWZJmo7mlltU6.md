@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,253 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,243 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 10 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 11 | [NO PRESSURE](https://open.spotify.com/track/5t8ocVE1id57AYYxVPVloX) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [NO PRESSURE](https://open.spotify.com/album/6l8yJQfQx4golVoh2Ciod9) | 3:43 |
 | 12 | [Squish](https://open.spotify.com/track/5NcbdZX6WExR3xNDftUp5m) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Squish](https://open.spotify.com/album/6qMjvExxrJl2gydwmMbn3R) | 3:00 |
-| 13 | [Point of View](https://open.spotify.com/track/3yeUsU1IV8xHbe8mhGKupz) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Jwaltzz](https://open.spotify.com/artist/1ytu6CEdrhTPTvsugmgBVg) | [Point of View](https://open.spotify.com/album/5ixtuxTgAMpA0l0QrAiQ6i) | 2:11 |
+| 13 | [Point of View](https://open.spotify.com/track/3yeUsU1IV8xHbe8mhGKupz) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Jwalttz](https://open.spotify.com/artist/64N631bicsTyT46jCgQHCJ) | [Point of View](https://open.spotify.com/album/5ixtuxTgAMpA0l0QrAiQ6i) | 2:11 |
 | 14 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 |
 | 15 | [I Feel Good](https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [I Feel Good](https://open.spotify.com/album/7mYKEJW5dQ8iqyZDhufS68) | 3:49 |
 | 16 | [Willows](https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Willows](https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM) | 3:37 |

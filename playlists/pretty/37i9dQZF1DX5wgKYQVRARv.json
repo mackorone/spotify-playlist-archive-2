@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Opeth",
-  "num_followers": 566533,
+  "num_followers": 566570,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
-      },
-      "artists": [
-        {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Friend Of A Phantom",
         "url": "https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm"
-      },
-      "artists": [
-        {
-          "name": "Wolf & Bear",
-          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Dante",
         "url": "https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 346294,
       "name": "Dante",
       "url": "https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm"
+      },
+      "artists": [
+        {
+          "name": "Wolf & Bear",
+          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Miasma (feat. Winston McCall)",
+        "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 258153,
+      "name": "Miasma (feat. Winston McCall)",
+      "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Martyr",
         "url": "https://open.spotify.com/album/5GOEsQsOCKxSCmoszlAHyD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 293382,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Miasma (feat. Winston McCall)",
-        "url": "https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 258153,
-      "name": "Miasma (feat. Winston McCall)",
-      "url": "https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "A Broken Man",
-        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 509840,
-      "name": "A Broken Man",
-      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Voidkind",
         "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 448853,
       "name": "Abode of the Perfect Soul",
       "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1771,38 +1771,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
-      },
-      "artists": [
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
-      },
-      "artists": [
-        {
-          "name": "Bernth",
-          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
-        }
-      ],
-      "duration_ms": 171422,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS"
       },
@@ -1839,6 +1807,54 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "m\u00e5sstaden (forte)",
+        "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "duration_ms": 231757,
+      "name": "Eternal Golden Monk - forte",
+      "url": "https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5YsqVxZlF0vD0lWB4pEaeO"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "duration_ms": 171422,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/6eDZyTZPiIXYM9QIaZGKwk"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Apple of Discord",
         "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
       },
@@ -1859,18 +1875,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "m\u00e5sstaden (forte)",
-        "url": "https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz"
+        "name": "Mirrorman",
+        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
       },
       "artists": [
         {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
         }
       ],
-      "duration_ms": 231757,
-      "name": "Eternal Golden Monk - forte",
-      "url": "https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi"
+      "duration_ms": 305360,
+      "name": "Mirrorman",
+      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+        "name": "Like a Sunken Ship",
+        "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
       },
       "artists": [
         {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
         }
       ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
+      "duration_ms": 244470,
+      "name": "Like a Sunken Ship",
+      "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1919,22 +1935,6 @@
       "duration_ms": 230160,
       "name": "Break My Lying Tongue",
       "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Like a Sunken Ship",
-        "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
-      },
-      "artists": [
-        {
-          "name": "Leprous",
-          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
-        }
-      ],
-      "duration_ms": 244470,
-      "name": "Like a Sunken Ship",
-      "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
+        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
+      },
+      "artists": [
+        {
+          "name": "Thy Catafalque",
+          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
+        }
+      ],
+      "duration_ms": 377773,
+      "name": "Vasgy\u00e1r",
+      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 252000,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "XII: A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
-        "url": "https://open.spotify.com/album/5egKYbgsHtB0WSi6tLDAVu"
-      },
-      "artists": [
-        {
-          "name": "Thy Catafalque",
-          "url": "https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom"
-        }
-      ],
-      "duration_ms": 377773,
-      "name": "Vasgy\u00e1r",
-      "url": "https://open.spotify.com/track/2htYmHMRJQsR2qsMnkfOzO"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Memorial",
-      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
         "url": "https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
-      },
-      "artists": [
-        {
-          "name": "Rendezvous Point",
-          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
-        }
-      ],
-      "duration_ms": 280207,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Ephemeral",
         "url": "https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+      },
+      "artists": [
+        {
+          "name": "Rendezvous Point",
+          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+        }
+      ],
+      "duration_ms": 280207,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
     },
     {
       "added_at": "2025-11-28 04:00:03",

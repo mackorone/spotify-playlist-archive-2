@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,546 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,561 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,21 +29,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 19 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
 | 20 | [Tokrom](https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 6:24 |
 | 21 | [Ozimzim](https://open.spotify.com/track/2wa2RsqjLqQUxcbINOm2sg) | [Marriot Int Band](https://open.spotify.com/artist/5vxZG4pzTu8Coa6ykFgYHs), [Amarh Pino](https://open.spotify.com/artist/4vlPEDUHrQc07AyMY80Ksf) | [10 Years of Highlife](https://open.spotify.com/album/1Ebou0ZQ5HEdfH3ZZzPDAD) | 5:19 |
-| 22 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
+| 22 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
 | 23 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
-| 24 | [Koyon So \- Game](https://open.spotify.com/track/3JsL7IF5injWE1V8220Vul) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Koyon So](https://open.spotify.com/album/42ERj6ANxjLvf9XufhAfgy) | 6:15 |
+| 24 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
 | 25 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
-| 26 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
-| 27 | [Kabribi Kyere Me](https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:32 |
+| 26 | [Kabribi Kyere Me](https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:32 |
+| 27 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 28 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
 | 29 | [Obi Ate Meso Buo \- Remix](https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Okyeame Kwame](https://open.spotify.com/artist/03PFnT5fu6TcuZMu1ZBvz4), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Tokrom](https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2) | 9:54 |
 | 30 | [Afia Donkor \(feat\. Bradez\)](https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Bradez](https://open.spotify.com/artist/43tnhN2d1a8ZTfSV8KImA3) | [Afia Donkor](https://open.spotify.com/album/52I8bvUNNV7N7N4ZpZKD3R) | 6:14 |
-| 31 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 32 | [Ntsaase](https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm) | [Ben Brako](https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf) | [Baya](https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa) | 4:13 |
+| 31 | [Ntsaase](https://open.spotify.com/track/7wMXKStdPZzqKifB5BSavm) | [Ben Brako](https://open.spotify.com/artist/6lLx7n1C0vjYDYL5IexQNf) | [Baya](https://open.spotify.com/album/2nsHFIaIWB5MjN32hTihEa) | 4:13 |
+| 32 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 | 33 | [Bonwire](https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 5:43 |
 | 34 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
-| 35 | [Medo Hemaa](https://open.spotify.com/track/2K2wEAw5sjiTAeB5slHbPX) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Medo Hemaa](https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr) | 5:37 |
-| 36 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
+| 35 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
+| 36 | [Medo Hemaa](https://open.spotify.com/track/2K2wEAw5sjiTAeB5slHbPX) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Medo Hemaa](https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr) | 5:37 |
 | 37 | [Kɔkɔɔkɔ](https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 4:48 |
 | 38 | [Juliana](https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [Sweet Talks](https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu) | 5:52 |
 | 39 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |

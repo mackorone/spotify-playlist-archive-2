@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACM9A7rTkWczhYDg+flgGxy",
+  "snapshot_id": "aYKMAAAAAAAwDubhN/KqRvAzK2XcPZQx",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Give Up",
-        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Ain't Gonna Give Up",
-      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 181185,
       "name": "out of control (feat. Rayi Putra)",
       "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COPYCAT",
         "url": "https://open.spotify.com/album/6VXoMfJ7RrxiLUylUVVeWN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 204486,
       "name": "COPYCAT",
       "url": "https://open.spotify.com/track/2qAjQut5DrJ3o6X7QwKxXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     },
     {
       "added_at": null,
@@ -983,30 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUGARTOWN",
-        "url": "https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi"
+        "name": "No Tinder",
+        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
       "artists": [
         {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
         },
         {
-          "name": "Chasu",
-          "url": "https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts"
-        },
-        {
-          "name": "Rafkyboy",
-          "url": "https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 164093,
-      "name": "lollipop thug",
-      "url": "https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc"
+      "duration_ms": 254062,
+      "name": "No Tinder",
+      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
     },
     {
       "added_at": null,
@@ -1043,26 +1039,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tinder",
-        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+        "name": "SUGARTOWN",
+        "url": "https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         },
         {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "Chasu",
+          "url": "https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts"
+        },
+        {
+          "name": "Rafkyboy",
+          "url": "https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R"
         },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 254062,
-      "name": "No Tinder",
-      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+      "duration_ms": 164093,
+      "name": "lollipop thug",
+      "url": "https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,517 likes - 95 songs - 5 hr 19 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,516 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 47 | [Make Believe](https://open.spotify.com/track/4lt0Ay3gio1ADzj2gL7W5J) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Make Believe](https://open.spotify.com/album/0H2YJmkiEJBR0EqDSFJ5yv) | 2:59 |
 | 48 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 |
 | 49 | [I'm a Boxer](https://open.spotify.com/track/1BVSGSHw04IybM1HSxWl2M) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [I'm a Boxer](https://open.spotify.com/album/5m0YEB6EkscH9qd55yissc) | 3:02 |
-| 50 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
+| 50 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 51 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
 | 52 | [BIG MACHINE](https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIG MACHINE](https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw) | 3:17 |
 | 53 | [Black Summer](https://open.spotify.com/track/4pQB8gTwQ4YJwiWMrqIAHP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 3:52 |
@@ -103,5 +103,10 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 93 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
 | 94 | [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/track/0W6qsjnGz8yRkbM6cX901c) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD), [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Steal My Sunshine \(feat\. merci, mercy\)](https://open.spotify.com/album/5OTOjS7yO1raYRtqD97RT5) | 2:44 |
 | 95 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 |
+| 96 | [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 |
+| 97 | [Hella Good](https://open.spotify.com/track/0qpqTbW0hU89ekz6E8t5if) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hella Good](https://open.spotify.com/album/0pHlaQDXd2x2XiSj3urIyX) | 3:13 |
+| 98 | [Wake Up Calling](https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wake Up Calling](https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L) | 3:49 |
+| 99 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 |
+| 100 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 |
 
-Snapshot ID: `AAAHwHG9OxxpJI2BfJWCNp/pdZyGtJY4`
+Snapshot ID: `AAAHxSdqO4V0YUdkuKEGmUK0dVKLQPZ4`

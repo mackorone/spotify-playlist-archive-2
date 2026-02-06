@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Trap Dickey, Key Glock
+> Your shortcut to the best new Hip Hop\. Cover: Don Toliver
 
-753 songs - 1 day 12 hr 36 min
+754 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 | 2023-12-08 | 2024-03-15 |
 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 | 2025-12-12 |  |
 | [LETTER TO MY YN](https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [LETTER TO MY YN](https://open.spotify.com/album/30uCWTjeGVO5eGoLO5K1tu) | 3:11 | 2025-12-12 |  |
-| [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 | 2026-01-08 |  |
+| [LiFE 4 A LiFE](https://open.spotify.com/track/6CrpAztWyhMb4Ve2kcg5sK) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [LiFE 4 A LiFE](https://open.spotify.com/album/64i9QChgaRNAJVHVBSl6wQ) | 2:59 | 2026-01-08 | 2026-02-06 |
 | [Lifetime](https://open.spotify.com/track/7ltDqWsM4FkIDcX58SsXY1) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Lifetime](https://open.spotify.com/album/0oErFSXWknrwNESSfMrfBk) | 3:45 | 2024-06-27 | 2024-11-01 |
 | [LIKE A DAWG](https://open.spotify.com/track/3TLfrZEPkRaV42OMuysuiE) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [LIKE A DAWG](https://open.spotify.com/album/5YDGqVOCWWtMGSbsHstmIo) | 2:42 | 2024-08-01 | 2024-11-22 |
 | [LIKE ME](https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [LIKE ME](https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef) | 2:23 | 2025-01-23 | 2025-04-04 |
@@ -477,6 +477,7 @@
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2023-12-07 | 2024-01-26 |
 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 | 2024-04-04 | 2024-06-22 |
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-22 | 2024-04-19 |
+| [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-05 |  |
 | [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 | 2025-09-05 |
 | [On My Grind](https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Trench Kid](https://open.spotify.com/album/7F0hVXvzzxT7NY1brLbF9M) | 3:19 | 2025-12-18 |  |
 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 | 2023-09-22 | 2023-09-29 |

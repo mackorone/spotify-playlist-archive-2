@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: i\-dle\)
 
-787 songs - 1 day 16 hr 45 min
+788 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SEVENTEEN 12th Mini Album 'SPILL THE FEELS'](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 | 2024-10-15 | 2025-03-07 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-13 | 2022-08-25 |
 | [Loved](https://open.spotify.com/track/2nWVowkuFVY6hCRBylnaZh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Loved](https://open.spotify.com/album/5O5mq8leoHh0Cc8UPUxbhq) | 2:36 | 2023-11-03 | 2023-11-28 |
+| [LOVEPOCALYPSE](https://open.spotify.com/track/7xbNUUy1y3zNqvp65TXaa9) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/2IhQYBuoaZmcXRQJqwFGQg) | 2:49 | 2026-02-05 |  |
 | [LTNS](https://open.spotify.com/track/6yb0WXBl0zuabg0sd4HKga) | [DK](https://open.spotify.com/artist/5kS21D4GeBHLdpvPSaK9RF) | [LTNS](https://open.spotify.com/album/4zOvnmkhhITTtuXTZuMjGm) | 3:42 | 2024-02-14 | 2024-03-19 |
 | [Lucky \(Korean Ver.\)](https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lucky \(Korean Ver.\)](https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5) | 2:28 | 2025-11-20 | 2025-12-14 |
 | [M.O.](https://open.spotify.com/track/2jp0nh8LhOihT6SbPfQGvb) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Motivation](https://open.spotify.com/album/2VwK9HJ5y9KpKAnp2bOzek) | 3:02 | 2025-09-17 | 2025-12-14 |
@@ -571,7 +572,7 @@
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-10 | 2022-02-23 |
 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 | 2024-09-06 | 2024-11-23 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-08-25 |
-| [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-15 |  |
+| [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-15 | 2026-02-06 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-15 | 2025-01-21 |
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2021-12-13 | 2022-01-06 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-24 | 2023-01-21 |

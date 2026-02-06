@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-352 songs - 17 hr 24 min
+353 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-09-15 | 2024-10-04 |
 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 | 2022-09-15 | 2023-10-03 |
 | [From The Start \(feat\. Veronica\)](https://open.spotify.com/track/4z7hu5mSYlAfqjD1JICi76) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Veronica](https://open.spotify.com/artist/6yNer6qvaSzSUpOezir835) | [From The Start \(feat\. Veronica\)](https://open.spotify.com/album/577sI6lMQhUBeP7BiK0Plt) | 3:03 | 2022-11-16 | 2024-08-31 |
+| [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 | 2026-02-05 |  |
 | [Going Home](https://open.spotify.com/track/28iHpIakBJCT7WsJAGw2QX) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Max Vidima](https://open.spotify.com/artist/1e3YLJrPLmaaVXpokokDK6) | [Going Home](https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y) | 4:22 | 2022-09-15 | 2023-03-03 |
 | [Gold](https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Gold](https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y) | 3:40 | 2022-09-15 | 2024-07-27 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0x83X3XJbNHDJ56ZnNMRW8) | [gussago](https://open.spotify.com/artist/6qipj1ZYBScGdAEJFuj5Dd), [SIQUE](https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB) | [Good Luck, Babe!](https://open.spotify.com/album/0gvT1BGZ6cBRJa3rvUGRz3) | 2:17 | 2025-02-27 | 2025-04-04 |
@@ -302,7 +303,7 @@
 | [Sweet Harmony](https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Dario Trapani](https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM), [Ivan Cappello](https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR), [Sh3](https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW) | [Sweet Harmony](https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE) | 2:42 | 2022-09-15 | 2024-04-19 |
 | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR) | 3:03 | 2022-09-15 | 2022-11-17 |
 | [Take Me](https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs) | [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [MEDEIA](https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s) | [Take Me](https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X) | 2:16 | 2022-09-15 | 2024-02-13 |
-| [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 | 2024-09-19 |  |
+| [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 | 2024-09-19 | 2026-02-06 |
 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 | 2025-09-18 |  |
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Talk \(Remixes\)](https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k) | 3:12 | 2022-09-15 | 2024-04-16 |
 | [Tell Me](https://open.spotify.com/track/2VszhzMB5MDLT1bPykCg1K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [KIGALI](https://open.spotify.com/artist/0jRMCjkA8ComVHbrHcr3XV) | [Tell Me](https://open.spotify.com/album/2toO0oYU5Odc6EzEje47rB) | 2:32 | 2022-09-15 | 2022-09-30 |

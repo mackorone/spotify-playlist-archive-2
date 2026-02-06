@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Manuel Turizo",
+  "description": "6 de febrero, d\u00eda de la Aitanidad.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -300,6 +300,24 @@
       "duration_ms": 175584,
       "name": "6 DE FEBRERO",
       "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+    },
+    {
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175584,
+      "name": "6 DE FEBRERO",
+      "url": "https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M"
     },
     {
       "album": {
@@ -4800,7 +4818,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 198733,
       "name": "El que no sabe estar con nadie",
       "url": "https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t"
@@ -10280,7 +10298,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167943,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
@@ -10396,6 +10414,24 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "album": {

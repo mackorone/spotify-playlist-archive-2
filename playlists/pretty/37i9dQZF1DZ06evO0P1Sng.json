@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8225,
+  "num_followers": 8226,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACynNoI9a++qqNUPpU5d7ez",
+  "snapshot_id": "aYKMAAAAAAAqGgOK946k4+5OVtmKB6Tk",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Intenso",
+        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+      },
+      "artists": [
+        {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kelwin Lopes",
+          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
+        }
+      ],
+      "duration_ms": 136022,
+      "name": "Amor Intenso",
+      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Efeito Borboleta",
         "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
       },
@@ -631,26 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Intenso",
-        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
       },
       "artists": [
         {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Kelwin Lopes",
-          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
         }
       ],
-      "duration_ms": 136022,
-      "name": "Amor Intenso",
-      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 144923,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -827,34 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agi Igual Homem",
-        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 164204,
-      "name": "Agi Igual Homem",
-      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Amar",
         "url": "https://open.spotify.com/album/7gWMmfxYPhUYvlzbpdFHDi"
       },
@@ -883,6 +855,34 @@
       "duration_ms": 313823,
       "name": "Dif\u00edcil De Amar",
       "url": "https://open.spotify.com/track/6JnTVrSnN6p6Tp6j93xkfa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agi Igual Homem",
+        "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Agi Igual Homem",
+      "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
     },
     {
       "added_at": null,
@@ -1143,30 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
     },
     {
       "added_at": null,
@@ -1271,66 +1271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOLA + 1 BECK",
-        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
-      },
-      "artists": [
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Predella",
-          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -1387,6 +1327,66 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOLA + 1 BECK",
+        "url": "https://open.spotify.com/album/4ZLxvfs4jZvVRmQLIfbtni"
+      },
+      "artists": [
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
     },
     {
       "added_at": null,

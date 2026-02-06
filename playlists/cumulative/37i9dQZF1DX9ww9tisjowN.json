@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: inabakumori \u7a32\u8449\u66c7",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: ZUTOMAYO \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "CIRCE",
+        "url": "https://open.spotify.com/album/0kBGVaQkDtHgdzQm2Sp1fN"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169261,
+      "name": "CIRCE",
+      "url": "https://open.spotify.com/track/3VQJu7ZUPT9dBaS7uAbKWI"
+    },
+    {
+      "album": {
         "name": "CITY feat. \u67f3\u7f8e\u821e(\u3070\u3063\u3066\u3093\u5c11\u5973\u968a)",
         "url": "https://open.spotify.com/album/1PEDi5OiDUL8mHqDElUugZ"
       },
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 224366,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4OvdtlIQxHJTWsh1j5I19v"
@@ -1932,7 +1954,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 176906,
       "name": "DEAD CENTER",
       "url": "https://open.spotify.com/track/26mR5pRpqRqgSBZ6ZTR1ix"
@@ -3206,7 +3228,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164267,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
@@ -5474,7 +5496,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 195035,
       "name": "LET'S JUST CRASH",
       "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
@@ -5536,6 +5558,24 @@
       "duration_ms": 225541,
       "name": "LIVE IT UP! (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P"
+    },
+    {
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/4H52JSvG8qKypi82WlJ7Oa"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201912,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ"
     },
     {
       "album": {
@@ -7394,7 +7434,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
@@ -9591,6 +9631,24 @@
     },
     {
       "album": {
+        "name": "SWEET MAGIC",
+        "url": "https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193746,
+      "name": "SWEET MAGIC",
+      "url": "https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf"
+    },
+    {
+      "album": {
         "name": "SWISH DAT",
         "url": "https://open.spotify.com/album/3C9UtowLQZlhdJ6Ir99XS0"
       },
@@ -9816,7 +9874,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 222536,
       "name": "The City Where Whales Fall",
       "url": "https://open.spotify.com/track/54tm8y6oTn41STMAsK8yOI"
@@ -14290,7 +14348,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 199426,
       "name": "\u30c8\u30ad\u30e1\u30adAbout you",
       "url": "https://open.spotify.com/track/4yb0wezBC22G5R4ZELcvX5"
@@ -15513,6 +15571,24 @@
     },
     {
       "album": {
+        "name": "\u30e8\u30d5\u30b1\u30ce\u30d1\u30ec\u30a8\u30c9",
+        "url": "https://open.spotify.com/album/1TdYRjLDvcYeXoHzlU7AcR"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193984,
+      "name": "\u30e8\u30d5\u30b1\u30ce\u30d1\u30ec\u30a8\u30c9",
+      "url": "https://open.spotify.com/track/4Jm5Z4a4WBF4Avyex3tfi4"
+    },
+    {
+      "album": {
         "name": "\u30e8\u30ed\u30e8\u30ed",
         "url": "https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk"
       },
@@ -15840,6 +15916,32 @@
       "duration_ms": 149226,
       "name": "\u30ed\u30de\u30f3\u30b9\u5ba3\u8a00",
       "url": "https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ"
+    },
+    {
+      "album": {
+        "name": "Ex-Otogibanashi",
+        "url": "https://open.spotify.com/album/37YS3L4VsNDpMVbAAm3XU5"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        },
+        {
+          "name": "\u304b\u3050\u3084(cv.\u590f\u5409\u3086\u3046\u3053)",
+          "url": "https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres"
+        },
+        {
+          "name": "\u6708\u898b\u30e4\u30c1\u30e8(cv.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 - \u304b\u3050\u3084&\u6708\u898b\u30e4\u30c1\u30e8 ver. - CPK! Remix",
+      "url": "https://open.spotify.com/track/0LswwmDZ6Qk26ZgVRf7aMO"
     },
     {
       "album": {
@@ -18524,7 +18626,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 317812,
       "name": "\u767e\u65e5\u8349",
       "url": "https://open.spotify.com/track/2jPX3IZxD7y9gMKW7KhfAu"
@@ -19045,6 +19147,24 @@
     },
     {
       "album": {
+        "name": "\u831c",
+        "url": "https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225153,
+      "name": "\u831c",
+      "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
+    },
+    {
+      "album": {
         "name": "\u8349\u3005\u4e0d\u4e00",
         "url": "https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp"
       },
@@ -19510,7 +19630,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 174533,
       "name": "\u9053\u8def\u5de5\u4e8b",
       "url": "https://open.spotify.com/track/5shAjHXiicExxZbGFrlW8h"

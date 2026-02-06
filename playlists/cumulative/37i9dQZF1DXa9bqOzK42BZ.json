@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "The best of Swahili gospel music. Cover: Rose Muhando",
+  "description": "The best of Swahili gospel music. Cover: Joel Lwaga",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 206346,
       "name": "Asante",
       "url": "https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc"
@@ -1084,6 +1084,24 @@
       "duration_ms": 194851,
       "name": "Gharama",
       "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
+    },
+    {
+      "album": {
+        "name": "Tabasamu",
+        "url": "https://open.spotify.com/album/3hCCDdn0RsImTjrriM0GDS"
+      },
+      "artists": [
+        {
+          "name": "Obby Alpha",
+          "url": "https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228682,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/0LFir0yRLOrcTwTOcIe7P1"
     },
     {
       "album": {
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189230,
       "name": "Kiwango",
       "url": "https://open.spotify.com/track/3fH9Cf2qHXkx1SGFJIM2Sk"
@@ -3078,6 +3096,24 @@
       "duration_ms": 347479,
       "name": "Neno Lako",
       "url": "https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d"
+    },
+    {
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/7eD5WzCuoKfydsJij0RaJm"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196216,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/6Lf3Lo5DmKCo0togORDTem"
     },
     {
       "album": {
@@ -5464,7 +5500,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 204999,
       "name": "Utatenda. Piano - Acoustic version",
       "url": "https://open.spotify.com/track/66OldKWmdtHe5SuTeg03rC"

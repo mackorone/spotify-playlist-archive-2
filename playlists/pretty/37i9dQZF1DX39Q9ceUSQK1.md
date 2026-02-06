@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: POM
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,270 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,273 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOVERS](https://open.spotify.com/track/7sihBwAll4gyg6fO0O6ERW) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [LOVERS](https://open.spotify.com/album/2fQ8bC87pQtOiPAS5Uj2L1) | 2:18 |
 | 2 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
-| 3 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
+| 3 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
 | 4 | [Cannonball](https://open.spotify.com/track/124vsp9vtlJXFaCHVx5Drd) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Cannonball](https://open.spotify.com/album/3eKDetuZBRAG8bBVNCgpyG) | 3:48 |
 | 5 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
 | 6 | [I Used To Go To This Bar](https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A) | 2:12 |

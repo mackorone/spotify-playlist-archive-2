@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,203 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,207 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
 | 50 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 |
 
-Snapshot ID: `aYE6gAAAAAB8ut+MVNddo+jBqwwp18fk`
+Snapshot ID: `aYKMAAAAAADAZJdd6ioX1XQh7/LH1e/C`

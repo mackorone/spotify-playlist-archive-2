@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Enero ya duró mucho, pero la nueva música de Fuerza Regida lo hace más ligero ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,812 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,884 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

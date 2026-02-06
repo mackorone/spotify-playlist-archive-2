@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: sica
+> 感受女聲力量。Cover: Nancy Kwai
 
-627 songs - 1 day 13 hr 19 min
+632 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-06 | 2026-01-23 |
 | [INK](https://open.spotify.com/track/6QrCJeKhEMt8V0g3y3Mxvb) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX) | [INK](https://open.spotify.com/album/4TyvcWGL2pxskuhVQDhlEj) | 2:59 | 2024-06-27 | 2025-09-12 |
 | [Into the Forest](https://open.spotify.com/track/6XkMZzfBSUoinmgKFTW6I4) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Into the Forest](https://open.spotify.com/album/2tq5g8mDUmGGpEmL5VVyBp) | 3:31 | 2024-06-27 | 2025-09-12 |
+| [Is that you?](https://open.spotify.com/track/4AvnZWwNyEmGJbbSBDFXkb) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Is that you?](https://open.spotify.com/album/1sN60G1sBTHF9Qul33oNcz) | 3:39 | 2026-02-05 |  |
 | [It's not your fault](https://open.spotify.com/track/3TvkrmX72vHZ4gYeD7Qww2) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [It's not your fault](https://open.spotify.com/album/1VRnJri54pLYvaMx15f3xJ) | 3:43 | 2024-06-27 | 2025-09-12 |
 | [IYKYK](https://open.spotify.com/track/27jwZgJ6STvpzEGgfCVxtX) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [IYKYK](https://open.spotify.com/album/2sRGfYNbBeVkEMKVgaK84P) | 2:58 | 2024-11-07 | 2025-09-12 |
 | [JET\-51CA](https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [JET\-51CA](https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH) | 3:12 | 2025-01-02 | 2026-01-23 |
@@ -452,6 +453,7 @@
 | [日光漂白 \- 電影《白日之下》主題曲](https://open.spotify.com/track/7dFSEqM5DnBnYgwtQWQkhV) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [日光漂白 \(電影《白日之下》主題曲\)](https://open.spotify.com/album/0kJ7mNzLwlPGYc9f7ITuHo) | 4:21 | 2024-06-27 | 2025-09-12 |
 | [早班火车](https://open.spotify.com/track/1EcowIc3wzTKE7QvTv6ZdO) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [早班火车](https://open.spotify.com/album/3ayE6QjjnMfnCDqWcCLBHW) | 3:08 | 2024-06-27 | 2025-09-12 |
 | [明天地圖](https://open.spotify.com/track/2iEd5WJ1n39q7yJj7DcDWc) | [Kandy Wong](https://open.spotify.com/artist/2kKFAbFu6uyh4tEm0Jj4Yu) | [明天地圖](https://open.spotify.com/album/0PN0rSi2kREFXsROg2bOUP) | 3:26 | 2024-06-27 | 2025-09-12 |
+| [星秀傳說 \(電影《夜王》宣傳曲\) \[feat\. 尖東夜王\] \- Shine一次 Version](https://open.spotify.com/track/3e6C6HByGOggV7aBeu22A9) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH), [尖東夜王](https://open.spotify.com/artist/67MuXeinL0UW6uNaD7vUXo) | [星秀傳說 \(電影《夜王》宣傳曲\) \[feat\. 尖東夜王\] \[Shine一次 Version\]](https://open.spotify.com/album/6NVM58xaCyun0VJgvdfJdd) | 2:33 | 2026-02-05 |  |
 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 | 2025-11-06 |  |
 | [時光厚禮](https://open.spotify.com/track/06wjY1pkC94519dnAOKBMo) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/5V6MCo6MM2h7lEnNLedxBX) | 3:51 | 2024-06-27 | 2025-09-12 |
 | [時間關係](https://open.spotify.com/track/23JHP9KXlC21MQqxq44NbJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [時間關係](https://open.spotify.com/album/4KHnwAkZR2yb85Bd88ICkQ) | 3:12 | 2024-10-24 | 2025-09-12 |
@@ -460,6 +462,7 @@
 | [暴走女團](https://open.spotify.com/track/0teORBLgjBFQmCU4IzXqP0) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [暴走女團](https://open.spotify.com/album/7BOCjh4M9coY2fOMOyQOEX) | 2:54 | 2025-05-22 | 2026-01-23 |
 | [最佳女團友](https://open.spotify.com/track/4mLb60a5HNxElBf7DmGzgL) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [最佳女團友](https://open.spotify.com/album/7z5DvPbUPAQ2cuDG63XF42) | 3:56 | 2024-06-27 | 2025-09-12 |
 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 | 2024-12-12 | 2026-01-23 |
+| [最好的解藥](https://open.spotify.com/track/7eQF1qG1OstWDi3LKjKDKQ) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [最好的解藥](https://open.spotify.com/album/5zkpc1f4RBEAn6EhuVePeA) | 3:13 | 2026-02-05 |  |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [會痊癒的 PTSD](https://open.spotify.com/track/4KrAZzqL8klH0BtmO89k96) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [會痊癒的 PTSD](https://open.spotify.com/album/0iWGl79H80i8cCg3wLfFWa) | 3:40 | 2025-10-11 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 | 2025-09-12 |
@@ -469,6 +472,7 @@
 | [有奶辯士梁](https://open.spotify.com/track/1A3ODSZhO52uC79UmXrkoz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [有奶辯士梁](https://open.spotify.com/album/4xft8kzvgbptDeBNNWUIf6) | 2:45 | 2025-03-06 | 2026-01-23 |
 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 | 2025-09-12 |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 | 2025-09-12 |
+| [木木木](https://open.spotify.com/track/69MnY1QiMOUEd3vwaxpSWL) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [木木木](https://open.spotify.com/album/2kBIWL90yvw9p3QrdMurh4) | 2:30 | 2026-02-05 |  |
 | [未來的歌](https://open.spotify.com/track/4KjnXaHhY2FQ09AXUe8MyP) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [未來的歌](https://open.spotify.com/album/483w7AHmaDk6FzRu12frdN) | 4:11 | 2025-10-11 |  |
 | [未晚](https://open.spotify.com/track/2XTZLKd3f7qhNLjsFE4kzS) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [未晚](https://open.spotify.com/album/5NOlCZ8SQuvl8PNZtWiMyF) | 3:38 | 2024-06-27 | 2025-09-12 |
 | [未知色 Colours of π](https://open.spotify.com/track/3zOTvfTs6AP3llTHb94az0) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [未知色 Colours of π](https://open.spotify.com/album/4lQmg5s13yrBbRcMPgU485) | 3:12 | 2024-06-27 | 2025-09-12 |
@@ -478,6 +482,7 @@
 | [本世紀最怪](https://open.spotify.com/track/7k5eVvETDVDNJUrqBWdnGi) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [本世紀最怪](https://open.spotify.com/album/41XHCYpNdlcPtgyM6gORc7) | 5:02 | 2024-06-27 | 2025-09-12 |
 | [李香蘭](https://open.spotify.com/track/1aGLS6kkV6D8cr5XbP5Lii) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [李香蘭](https://open.spotify.com/album/4wYNRBCPWcWEz4ZWYnAUVy) | 4:28 | 2024-06-27 | 2025-09-12 |
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2024-06-27 | 2025-09-12 |
+| [枇杷](https://open.spotify.com/track/7kk5iqxiUHOaLPfnqSNHOW) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [枇杷](https://open.spotify.com/album/2se1VXV7AhCI5J3vVh3UJR) | 3:39 | 2026-02-05 |  |
 | [梗頸四](https://open.spotify.com/track/4yjrXZ7hAVTReFzPezyv2A) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [梗頸四](https://open.spotify.com/album/79QAdBGqeJc2a53OWusxOH) | 3:30 | 2025-09-25 |  |
 | [榮譽博士](https://open.spotify.com/track/31WsjJrHaGCkYisP8QEaKc) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [榮譽博士](https://open.spotify.com/album/23qCFYffCFM2XwtSVqsVfE) | 2:57 | 2025-02-20 | 2026-01-23 |
 | [樂園見](https://open.spotify.com/track/3SwJlk5W8rGPnjfgZLVqUu) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [樂園見](https://open.spotify.com/album/7Du8z4U9PeWF70Z45XgkCC) | 3:30 | 2024-06-27 | 2025-09-12 |

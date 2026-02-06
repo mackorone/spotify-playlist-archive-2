@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 
 > This is Bivolt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411 likes - 43 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 43 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09gKWI.md) - [plain]
 | 42 | [Malandrinha](https://open.spotify.com/track/6xoqFcFzy4GV5U84j5g2uI) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:11 |
 | 43 | [Eu Avisei](https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slim Beats Beat](https://open.spotify.com/artist/1Fdh9nMoTOrtGmlZj9r07V) | [Eu Avisei](https://open.spotify.com/album/5ejkKJZfdzJxNFQGVn5pf9) | 5:18 |
 
-Snapshot ID: `aYE6gAAAAACqf8Lc2v457zRUEsMNB9rE`
+Snapshot ID: `aYKMAAAAAADF1N4AV9F66YVbGXyDf8PF`

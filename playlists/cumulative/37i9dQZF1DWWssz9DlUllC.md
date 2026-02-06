@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Shoday
 
-121 songs - 5 hr 58 min
+122 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [LAPOPIANO](https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [LAPOPIANO](https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim) | 2:19 | 2026-01-23 |  |
 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 | 2025-10-24 |  |
 | [Laye Mi](https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Laye Mi](https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd) | 3:24 | 2025-10-24 |  |
-| [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2025-12-05 |  |
+| [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2025-12-05 | 2026-02-06 |
 | [Lifestyle](https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Lifestyle](https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq) | 2:45 | 2025-12-12 | 2026-01-15 |
 | [LIKE ME \(ft\. taves\)](https://open.spotify.com/track/0j210DUB9vfWCNVW4BjK7Z) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 3:04 | 2025-11-14 | 2025-12-05 |
 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 | 2025-12-05 |  |
@@ -123,6 +123,7 @@
 | [Terminator](https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:35 | 2025-10-24 |  |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2025-10-24 | 2025-12-05 |
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2025-10-24 | 2025-11-16 |
+| [Track 8](https://open.spotify.com/track/4VlH3TF54MCxHTiWSxal5n) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/track/6wN5G9LhuljafQRHzb4K6s) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Vex For U \(feat\. Fireboy DML & Ayo Maff\)](https://open.spotify.com/album/6yhDNq8JsOA3fd8xW4JgPB) | 3:05 | 2025-10-24 | 2025-12-05 |
 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 | 2025-10-24 |  |
 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 | 2025-11-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,559 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,758 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 103 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 |
 | 104 | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 4:53 |
 | 105 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 |
-| 106 | [Wash It Away](https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Searching for Solace](https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8) | 3:34 |
-| 107 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
+| 106 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:24 |
+| 107 | [Wash It Away](https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Searching for Solace](https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8) | 3:34 |
 | 108 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 109 | [Rats](https://open.spotify.com/track/0g49s0Nl5LTXLKATAZ7Vfx) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/54FMyO5I38UcAmWQTFZbeq) | 4:21 |
 | 110 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 |
@@ -123,9 +123,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 113 | [Dead But Rising](https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:34 |
 | 114 | [The End](https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Battles](https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP) | 3:58 |
 | 115 | [I Wish You Were Dead](https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 2:52 |
-| 116 | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 |
-| 117 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
-| 118 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
+| 116 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
+| 117 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
+| 118 | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 |
 | 119 | [Beat the Bastards](https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Blood of the Nations](https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4) | 5:24 |
 | 120 | [Alestorm](https://open.spotify.com/track/6Br1VbTp9OptQn0uTQcil0) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [No Grave but the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6leGMq1KVN1SWHScCunixS) | 3:56 |
 | 121 | [Proving Grounds](https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Guilty Pleasure](https://open.spotify.com/album/57kMq4QecevJKf8DOH8Gzp) | 3:28 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 145 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 |
 | 146 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
 | 147 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/1lHqZm5MsAc7wZ7W95KcOe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [The Seventh Sun](https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1) | 3:32 |
-| 148 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 |
-| 149 | [Arise](https://open.spotify.com/track/06IzdYya8ZhXFRt0WJIwxI) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Everlasting](https://open.spotify.com/album/0CiRfmmgD3Ln0yV5qdi0Mb) | 4:09 |
+| 148 | [Arise](https://open.spotify.com/track/06IzdYya8ZhXFRt0WJIwxI) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Everlasting](https://open.spotify.com/album/0CiRfmmgD3Ln0yV5qdi0Mb) | 4:09 |
+| 149 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 |
 | 150 | [Maldición de la Bruja](https://open.spotify.com/track/5XVlOXqU65CM49Vf8q4dYl) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 3:00 |
 
 Snapshot ID: `AAAAAKmfbahi888l1/IlgTQsQQS7Otvg`

@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: AB6IX \(에이비식스\)\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-817 songs - 1 day 20 hr 23 min
+818 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [O\-RLY?](https://open.spotify.com/track/4ZTZa7Fw9nBBzrQxQRly06) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [O\-RLY?](https://open.spotify.com/album/7C9c37nFn0HnRQl1ZQT2wg) | 2:46 | 2025-04-28 | 2025-05-20 |
 | [OBEY](https://open.spotify.com/track/6Er2MCGafVTPHoVG0EHIoB) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [207](https://open.spotify.com/album/6WqqNtsorg6GQPifhsg7c0) | 2:51 | 2025-07-31 | 2025-08-13 |
 | [Obsession](https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:23 | 2022-01-17 | 2022-06-19 |
-| [Obsession \(情結\)](https://open.spotify.com/track/1IseFrw8ahoiSeqmAtkBWu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Obsession \(情結\)](https://open.spotify.com/album/3dI9colFC68q8M59OandSD) | 3:50 | 2026-01-27 |  |
+| [Obsession \(情結\)](https://open.spotify.com/track/1IseFrw8ahoiSeqmAtkBWu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Obsession \(情結\)](https://open.spotify.com/album/3dI9colFC68q8M59OandSD) | 3:50 | 2026-01-27 | 2026-02-06 |
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2021-12-08 | 2022-07-17 |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-03 | 2024-03-09 |
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-19 |
@@ -788,6 +788,7 @@
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-03 |
 | [Who Are You](https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Who Are You \- The 4th Mini Album](https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB) | 3:04 | 2025-09-22 | 2025-10-11 |
 | [Why](https://open.spotify.com/track/3oU6Hc7STlMBNR6Ty1m1G8) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [GO LIVE](https://open.spotify.com/album/6N8KkgIpU1T3tenkJxHxk3) | 3:20 | 2022-03-22 | 2022-04-21 |
+| [WHY U MAD](https://open.spotify.com/track/1xUgcg8UoxZojDvVdE2CqZ) | [SKINZ \(스킨즈\)](https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6) | [WHY U MAD](https://open.spotify.com/album/7pYqeQfT7oGXkOvMPNlDFl) | 3:18 | 2026-02-05 |  |
 | [Why Why Why](https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Why Why Why](https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q) | 3:26 | 2021-12-08 | 2022-07-28 |
 | [Wild Heart](https://open.spotify.com/track/3GXLBTk7l1Bc7bZp18sqZD) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [CONTINUE?](https://open.spotify.com/album/38naOKNOPofTwerOOejf2N) | 2:59 | 2023-06-15 | 2023-06-30 |
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT\-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2022-03-22 | 2022-07-01 |

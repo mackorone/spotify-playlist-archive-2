@@ -4447,6 +4447,28 @@
     },
     {
       "album": {
+        "name": "TERMINAL 2",
+        "url": "https://open.spotify.com/album/7cHBjPv8ndxvqB3coYrPx5"
+      },
+      "artists": [
+        {
+          "name": "pho",
+          "url": "https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC"
+        },
+        {
+          "name": "Vaaman",
+          "url": "https://open.spotify.com/artist/3NyL2PjsPYCVImosIiU6hS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/33VAfRjgStvGDJAo7mFNsw"
+    },
+    {
+      "album": {
         "name": "Ho Jaa",
         "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
       },
@@ -12610,7 +12632,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 211261,
       "name": "Tere Zikr Mein",
       "url": "https://open.spotify.com/track/1HZIW6kTWEgFjgItSxdtox"

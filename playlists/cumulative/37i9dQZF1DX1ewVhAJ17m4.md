@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Yellowcard
 
-540 songs - 1 day 3 hr 2 min
+541 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Missing Out](https://open.spotify.com/track/1jnldPFWWKVxYVQuaYzk1D) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Missing Out](https://open.spotify.com/album/0H0OyIb3wyliBmLFxiwr4T) | 2:58 | 2021-12-20 | 2022-06-15 |
 | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2023-02-10 | 2023-11-05 |
 | [Mixed Emotions \(I Didn’t Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5oR7XZgDOI2G6gQcWzZ1Ol) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/7xObedXkIfaofJyf3QFhNF) | 4:09 | 2023-10-19 | 2024-01-12 |
-| [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-17 |  |
+| [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-17 | 2026-02-06 |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-12-20 | 2022-01-15 |
 | [More Like A Crash](https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0) | 2:47 | 2023-05-15 | 2023-11-16 |
 | [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 | 2023-10-19 | 2024-04-19 |
@@ -404,6 +404,7 @@
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2023-02-10 | 2023-07-07 |
 | [Shaking Your Mind](https://open.spotify.com/track/7kTg2JxsgHLWjavcl1dPEf) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Shaking Your Mind](https://open.spotify.com/album/3WKrQ041ZovsJcb8K4rpD9) | 2:26 | 2022-03-14 | 2023-04-22 |
 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 | 2025-02-21 | 2025-08-08 |
+| [she'll come around](https://open.spotify.com/track/0y5IM1HBP2gsRFzICg9xhx) | [PRETTY BLEAK](https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx) | [an introduction to a theme](https://open.spotify.com/album/4Z5B9b6wLABU9qbpHIbiCB) | 3:48 | 2025-10-10 |  |
 | [She’s The Girl](https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [She’s The Girl](https://open.spotify.com/album/5k8kR5lHvG5bbxUYT9cIwW) | 2:54 | 2024-11-18 | 2025-02-22 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Shhhh! Golf is On](https://open.spotify.com/album/5IDAHjsSQvZr1bzQHb7QrD) | 2:44 | 2023-03-10 | 2023-05-18 |
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-05-15 | 2024-04-19 |

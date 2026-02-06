@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,036 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,046 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 17 | [You Can't Make Old Friends \- Duet with Dolly Parton](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [You Can't Make Old Friends](https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr) | 4:02 |
 | 18 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Chet Atkins \- The Master And His Music](https://open.spotify.com/album/03lctP6j9W30JKVqTivD79) | 2:38 |
 | 19 | [Please Please Please \(feat\. Dolly Parton\)](https://open.spotify.com/track/6nrSo5ZWhsai0oeX257rRF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:04 |
-| 20 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
-| 21 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
+| 20 | [Powerful Women](https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Trackhouse \(Daytona 500 Edition\)](https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q) | 2:45 |
+| 21 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 22 | [The Day I Fall In Love \- Featuring Dolly Parton](https://open.spotify.com/track/0bi3Yuwv936oMxD2VIK2Ci) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Forever More \(Love Songs, Hits & Duets\)](https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg) | 4:05 |
 | 23 | [Those Memories of You \- 2015 Remaster](https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 4:00 |
 | 24 | [My Tennessee Mountain Home](https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Tennessee Mountain Home](https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [From Here to the Moon and Back \(feat\. Dolly Parton\)](https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:01 |
 | 50 | [Blue Smoke](https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Blue Smoke](https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm) | 3:33 |
 
-Snapshot ID: `aYE6gAAAAACgvTGvk0eV30jlTl5nEISc`
+Snapshot ID: `aYKMAAAAAADhDOdEiqucWBt8vsaHRP8+`

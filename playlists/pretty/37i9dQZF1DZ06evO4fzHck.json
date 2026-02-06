@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 595623,
+  "num_followers": 595780,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABuNPJujV7ze0Wb/NpoAeV1",
+  "snapshot_id": "aYKMAAAAAAAUcV/zcl93YJJxoNlYqrUi",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mood Swings",
-        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Mint Car",
-      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 460293,
       "name": "From The Edge Of The Deep Green Sea",
       "url": "https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Mood Swings",
+        "url": "https://open.spotify.com/album/4VArO919KzAphNk7Kei20g"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Mint Car",
+      "url": "https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 134421,
+      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don\u2019t Cry (86 Mix)",
-        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 134421,
-      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
-      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodflowers",
-        "url": "https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B"
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 306186,
-      "name": "Maybe Someday",
-      "url": "https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj"
+      "duration_ms": 177108,
+      "name": "Pillbox Tales - 86 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/5qwDt1wH76eat0yhPdvdLc"
     }
   ],
   "unique_name": "This Is The Cure",

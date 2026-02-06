@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 362858,
       "name": "Brighter Life",
       "url": "https://open.spotify.com/track/0pLI6LEuO9ey2lrbpiiT8C"
@@ -11288,6 +11288,24 @@
       "duration_ms": 417630,
       "name": "U & I Under the Moonlight",
       "url": "https://open.spotify.com/track/5KphfaPsREWKdANrL0Vf0T"
+    },
+    {
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/0RX4kXvSs7dqokaoE2a07s"
+      },
+      "artists": [
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/23kCA2oVUv7OF7yzFmNOL8"
     },
     {
       "album": {

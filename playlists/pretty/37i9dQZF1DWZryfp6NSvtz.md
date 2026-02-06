@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Joyce Manor
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,343 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,310 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 35 | [You Could Perhaps](https://open.spotify.com/track/7Jef4YockEbpGMCb9bIZmk) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Dream Life](https://open.spotify.com/album/39X15SMr1uG8aCugIqiHpM) | 3:04 |
 | 36 | [Frozen Lake](https://open.spotify.com/track/2SsltJQ4DNWVop7wF06oXQ) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Frozen Lake](https://open.spotify.com/album/0dVYKLEsYc7nHijyq0bSLB) | 3:29 |
 | 37 | [Rivals](https://open.spotify.com/track/62csNyuS9CldyRdA7sOSI8) | [Codefendants](https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe), [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [Rivals](https://open.spotify.com/album/63EZMEgcbKfQLeNPbYZGue) | 2:41 |
-| 38 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
+| 38 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
 | 39 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 40 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 | 41 | [Death Punch](https://open.spotify.com/track/3LCDYEISvX2IRlb2xOxqli) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Death Punch](https://open.spotify.com/album/7lXuabjE2Qm85E17QZlEWF) | 2:35 |

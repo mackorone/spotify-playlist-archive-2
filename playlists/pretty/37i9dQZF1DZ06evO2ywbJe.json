@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7327,
+  "num_followers": 7338,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAjKZ3aapmX2yHm0RfIDVq8",
+  "snapshot_id": "aYKMAAAAAABYivm2Rc8/QoNId2JVoFnf",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+      "duration_ms": 213492,
+      "name": "Hallelu",
+      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
     },
     {
       "added_at": null,
@@ -319,26 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelu",
-        "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
       "artists": [
         {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 213492,
-      "name": "Hallelu",
-      "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMS II",
         "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 237647,
       "name": "DREAMS II",
       "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "50 Billion (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
     },
     {
       "added_at": null,

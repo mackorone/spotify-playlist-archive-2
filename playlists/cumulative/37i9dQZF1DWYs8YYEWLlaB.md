@@ -2,9 +2,9 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Emre Fel
+> viral, trend ve yükselenler\.  Kapak: ALIZADE
 
-242 songs - 12 hr 29 min
+244 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Ben Bilmem](https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bir Bakmışsın](https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS) | 4:24 | 2024-08-15 | 2025-05-13 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-07-02 | 2025-05-13 |
 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 | 2025-10-23 |  |
-| [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-04-01 |  |
+| [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 | 2025-04-01 | 2026-02-06 |
 | [Benden Uzak Dur](https://open.spotify.com/track/2IAPQ0akP6TSqPUguuVkfn) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Benden Uzak Dur](https://open.spotify.com/album/7lfzD9WCAmBrLxIkSKu8xm) | 3:44 | 2024-11-21 | 2024-11-28 |
 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 | 2025-12-04 |  |
 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2024-07-02 | 2024-11-22 |
@@ -77,7 +77,7 @@
 | [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 | 2024-07-02 | 2024-09-06 |
 | [Düşüşlerim Fazla](https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5) | [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Düşüşlerim Fazla](https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV) | 2:19 | 2024-12-04 | 2025-04-08 |
 | [Efendim İşitmedim \- 2\. Sezon Soundtrack](https://open.spotify.com/track/0M2Iwnbm8vp0c5YDdUX3Pu) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [GASSAL \(2\. Sezon Soundtrack\)](https://open.spotify.com/album/3Xp3DqpbV34eIrvDLT2zmu) | 3:07 | 2025-06-05 | 2025-07-01 |
-| [ELA MANA](https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [ELA MANA](https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx) | 4:24 | 2025-11-18 |  |
+| [ELA MANA](https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [ELA MANA](https://open.spotify.com/album/5NDghfuOVIJN3n90cNnBfx) | 4:24 | 2025-11-18 | 2026-02-06 |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 | 2024-09-06 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-08 |  |
 | [Es](https://open.spotify.com/track/6hBmElorXW8xsvKbqzXzD6) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Es!](https://open.spotify.com/album/3PYfRiN717b82YJMu1j1my) | 4:29 | 2025-10-21 | 2025-11-19 |
@@ -200,6 +200,7 @@
 | [Son Bir Rica](https://open.spotify.com/track/5mJPC56kBRnB9rLGLs85rr) | [Zeynep Dizdar](https://open.spotify.com/artist/1XZNZT3xecy9Wt5LtMOJVk) | [Gönül Oyunu](https://open.spotify.com/album/1JBUhH4nLI6VAPSWkOELGQ) | 3:56 | 2025-05-12 | 2025-07-09 |
 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 | 2025-06-04 |  |
 | [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 | 2024-07-02 | 2024-11-21 |
+| [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 | 2026-02-05 |  |
 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 | 2024-07-02 | 2024-08-09 |
 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-21 | 2025-10-22 |
 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-06 |  |
@@ -211,6 +212,7 @@
 | [Veda Türküsü](https://open.spotify.com/track/0LbHLvawTrjNv9wRKRjTrS) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:21 | 2024-07-02 | 2025-02-11 |
 | [Vicdanın Affetsin](https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Yaş Hikayesi](https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W) | 3:55 | 2025-07-16 |  |
 | [Vidrado Em Você](https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Vidrado Em Você](https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe) | 2:14 | 2025-05-21 | 2025-06-20 |
+| [vODKA BELUGA](https://open.spotify.com/track/1fWaftHNcaVI6EKW0b6MES) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [vODKA BELUGA](https://open.spotify.com/album/5SSXzQ14LA9A4g4auCKgvX) | 2:01 | 2026-02-05 |  |
 | [Vursunlar \- Roman Version](https://open.spotify.com/track/4NVORBJGV2lcttgSE8vZks) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [Vursunlar \(Roman Version\)](https://open.spotify.com/album/6ln0LvC52yulV78k184v1c) | 2:37 | 2025-10-21 |  |
 | [Y](https://open.spotify.com/track/4H8ns1mp3witrdJGLrJXR6) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Y](https://open.spotify.com/album/0NYQA2oHL7whhCPf2ll7RK) | 2:27 | 2025-05-28 | 2025-06-20 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-07-02 | 2024-11-27 |

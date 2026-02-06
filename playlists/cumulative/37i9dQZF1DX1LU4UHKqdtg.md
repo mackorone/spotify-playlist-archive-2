@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: KiiiKiii
 
-1,655 songs - 3 day 15 hr 35 min
+1,656 songs - 3 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-08 | 2022-10-26 |
 | [Girls \- BRLLNT Remix](https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 2:55 | 2022-10-20 | 2023-01-25 |
+| [Girls Like Me](https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Girls Like Me](https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi) | 2:12 | 2026-02-05 |  |
 | [Girls Like Me](https://open.spotify.com/track/3HVNBAEJxpDlzXxJTk2cvv) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [P.M.S.](https://open.spotify.com/album/1W16GV237nNRmbdTdjaEwb) | 3:00 | 2025-11-12 |  |
 | [Girls Never Die](https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w) | 3:07 | 2024-05-10 | 2024-09-04 |
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2025-03-06 | 2025-04-15 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Bellah, DESTIN CONRAD
+> The voices shaping R&B\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,039 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,075 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Sacrifice](https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:18 |
 | 80 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 
-Snapshot ID: `AAAAAH+tKaPv3bPTN+CatTQllncDDC0X`
+Snapshot ID: `AAAAAGCZgzraXjGzESDb4SfJbA+BtgEj`

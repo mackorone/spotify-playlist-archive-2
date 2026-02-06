@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 
 > This is Alaina Castillo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,763 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 6 | [papacito](https://open.spotify.com/track/1GNkILpn4KRDLTfgeewXqi) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg) | 3:05 |
 | 7 | [used to](https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [used to](https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8) | 3:28 |
 | 8 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
-| 9 | [pretty little thing](https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i) | 3:10 |
-| 10 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 |
+| 9 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 |
+| 10 | [pretty little thing](https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i) | 3:10 |
 | 11 | [ocean waves](https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [ocean waves](https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT) | 3:40 |
 | 12 | [call me when ur lonely](https://open.spotify.com/track/5J9KqprFnG4M82Nx8fmScr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/3rpFlyhQrnZ55pJnsG1ICK) | 2:39 |
 | 13 | [love you right](https://open.spotify.com/track/4Xpkx20V4OPuBKAGzygqgC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [love you right](https://open.spotify.com/album/3GfCPb0ksm3uN8FtQ4Hhf0) | 3:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03E4VO.md) - [plain]
 | 46 | [¡párate!](https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx) | 2:33 |
 | 47 | [el mensaje](https://open.spotify.com/track/4Xtk25KlBgB1hqnvO27T5J) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX) | 3:23 |
 
-Snapshot ID: `aYE6gAAAAACvqOYiGPPX9XcH5TWFLqHa`
+Snapshot ID: `aYKMAAAAAACl0HfCWclBIup965pFnm22`

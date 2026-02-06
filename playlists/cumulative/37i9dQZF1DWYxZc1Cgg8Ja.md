@@ -4,10 +4,11 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: ARIA VEGA
 
-205 songs - 10 hr 28 min
+206 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 | 2026-02-06 |  |
 | [6 AM](https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 4:03 | 2024-08-05 |  |
 | [A POCA LUZ](https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [A POCA LUZ](https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1) | 3:14 | 2024-09-27 |  |
 | [AFRO](https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [AFRO](https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH) | 3:04 | 2024-08-05 | 2024-12-13 |
@@ -181,7 +182,7 @@
 | [SORRY 4 THAT MUCH](https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SORRY 4 THAT MUCH](https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC) | 3:27 | 2024-06-21 |  |
 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 | 2023-07-21 | 2025-04-26 |
 | [Tarde](https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tarde](https://open.spotify.com/album/2yLveC65KjddM0Cv3g5gqp) | 2:00 | 2024-12-12 | 2025-05-31 |
-| [Te Perdí](https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Te Perdí](https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7) | 3:17 | 2023-07-21 |  |
+| [Te Perdí](https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Te Perdí](https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7) | 3:17 | 2023-07-21 | 2026-02-06 |
 | [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-08-05 | 2024-08-24 |
 | [todavíA](https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Todavía](https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx) | 3:03 | 2025-02-14 | 2025-04-26 |
 | [Toko Teke](https://open.spotify.com/track/4ZsAE2UIfhDbDkTIknx1Uq) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Toko Teke](https://open.spotify.com/album/6yT6OpcMigx5Y4omViLfv7) | 3:02 | 2025-06-20 | 2025-11-15 |

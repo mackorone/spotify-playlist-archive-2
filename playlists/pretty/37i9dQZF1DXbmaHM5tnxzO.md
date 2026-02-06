@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,583 likes - 92 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,597 likes - 92 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 91 | [Here Comes Elastigirl \- Elastigirl's Theme](https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:23 |
 | 92 | [Main Title \- From "Monsters University"/Score](https://open.spotify.com/track/6cNNZBkIrUo7Ar9ibtRfpv) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 0:51 |
 
-Snapshot ID: `AAAAAGiW7IHdtd+IOPZ4fEPY94ojET03`
+Snapshot ID: `AAAAAAnjgbVj2HFKXRnCOzxxHnbbPYgl`

@@ -64588,7 +64588,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 214000,
       "name": "Time",
       "url": "https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq"
@@ -71508,6 +71508,24 @@
       "duration_ms": 161146,
       "name": "Why Ain't Fine",
       "url": "https://open.spotify.com/track/79Z4fZJ1OWi72PANL14gHo"
+    },
+    {
+      "album": {
+        "name": "Silent Chapter (Part I)",
+        "url": "https://open.spotify.com/album/2yhfJTPTWQjFXSlIyz3qys"
+      },
+      "artists": [
+        {
+          "name": "Matthew\u2019s Silent Chapter",
+          "url": "https://open.spotify.com/artist/2JUTGg9txxR3B3acyTlFp7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408279,
+      "name": "Why So Dark, Son? - Album Intro",
+      "url": "https://open.spotify.com/track/0twSBF8XOweUbPpmkbX0pb"
     },
     {
       "album": {

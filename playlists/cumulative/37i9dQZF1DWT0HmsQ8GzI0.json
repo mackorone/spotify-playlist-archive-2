@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Szlimmy",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -509,6 +509,32 @@
     },
     {
       "album": {
+        "name": "Bankrabl\u00e1s",
+        "url": "https://open.spotify.com/album/4OXl5TYwHqNwdch4brmBHC"
+      },
+      "artists": [
+        {
+          "name": "Szabikeyz",
+          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
+        },
+        {
+          "name": "Juh\u00e1sz Zoli",
+          "url": "https://open.spotify.com/artist/07aNeZApbFflKJYHiRZLGS"
+        },
+        {
+          "name": "4ma",
+          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "Bankrabl\u00e1s",
+      "url": "https://open.spotify.com/track/2ZcDOGrbHZZrbD3JtbtpGt"
+    },
+    {
+      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -958,7 +984,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 220368,
       "name": "Ci\u00e1n",
       "url": "https://open.spotify.com/track/2ZO6w6CoOSfW4d7bOB1s1c"
@@ -1086,7 +1112,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 219474,
       "name": "CSILLAGT\u00daRA",
       "url": "https://open.spotify.com/track/2XpwU5EvFQNRDJqTWrajaC"
@@ -3745,6 +3771,28 @@
     },
     {
       "album": {
+        "name": "Maynotbehere",
+        "url": "https://open.spotify.com/album/1lPZ7NRnO4jgZ4iZ3uVO2Z"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1dava",
+          "url": "https://open.spotify.com/artist/7jKhf1kMA80bZ2inslo8fv"
+        },
+        {
+          "name": "Vanis",
+          "url": "https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99280,
+      "name": "Maynotbehere",
+      "url": "https://open.spotify.com/track/2ztgRR559yA8idXrN9XFRn"
+    },
+    {
+      "album": {
         "name": "Barceloneta Tapes",
         "url": "https://open.spotify.com/album/1F3rcArbFUPw0gzNeb5ean"
       },
@@ -4170,7 +4218,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 137093,
       "name": "M\u00e9g egy kedd",
       "url": "https://open.spotify.com/track/1ZtvcSrcAqkOSi85bJf9GS"
@@ -6062,6 +6110,24 @@
       "duration_ms": 283631,
       "name": "Tal\u00e1n",
       "url": "https://open.spotify.com/track/0wjC043aJvsNJ4irylqZht"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205688,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 111864,
+  "num_followers": 111852,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "A Worship Initiative Christmas, Vol. 2",
-        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Face of God",
-      "url": "https://open.spotify.com/track/6DEve01Q8cnzt698HJyl9D"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 203061,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "A Worship Initiative Christmas, Vol. 2",
+        "url": "https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Face of God",
+      "url": "https://open.spotify.com/track/6DEve01Q8cnzt698HJyl9D"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -779,38 +779,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Christmas Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Far as the Curse Is Found",
-        "url": "https://open.spotify.com/album/1x3VB1YsczR7XZ3Fi3rq8N"
-      },
-      "artists": [
-        {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
-        }
-      ],
-      "duration_ms": 301007,
-      "name": "Far as the Curse Is Found",
-      "url": "https://open.spotify.com/track/3MUpZdOleMW72N0OrsKdnR"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "His Mercy Is More: The Hymns Of Matt Boswell And Matt Papa",
         "url": "https://open.spotify.com/album/0vdwU3kvvFybzEAPZZDOT3"
       },
@@ -831,6 +799,38 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Far as the Curse Is Found",
+        "url": "https://open.spotify.com/album/1x3VB1YsczR7XZ3Fi3rq8N"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 301007,
+      "name": "Far as the Curse Is Found",
+      "url": "https://open.spotify.com/track/3MUpZdOleMW72N0OrsKdnR"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Christmas Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Creator Of The Stars Of Night",
         "url": "https://open.spotify.com/album/10kQzwlnz9Lr13J5il5pJq"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 196600,
       "name": "Creator Of The Stars Of Night",
       "url": "https://open.spotify.com/track/3bvTzoVbDtac28Sap48qfr"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Before The Manger",
-        "url": "https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        },
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 251478,
-      "name": "Angels We Have Heard On High",
-      "url": "https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -883,6 +863,26 @@
       "duration_ms": 223242,
       "name": "Beautiful Savior",
       "url": "https://open.spotify.com/track/6hYbcuRkynCObesJ2q4NIv"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Before The Manger",
+        "url": "https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 251478,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Christmas Morning",
-        "url": "https://open.spotify.com/album/1VVOQNtgF2kBEuM28GMBrq"
-      },
-      "artists": [
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 578990,
-      "name": "O Holy Night - Live at Bethel",
-      "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Light Has Shone: Christmas, Volume 1",
         "url": "https://open.spotify.com/album/4MxkIkovyZEScfrq29SvR4"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 221298,
       "name": "Gift of Heaven",
       "url": "https://open.spotify.com/track/7IgIb2VpMnDjZQXeeD6iUO"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/1VVOQNtgF2kBEuM28GMBrq"
+      },
+      "artists": [
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 578990,
+      "name": "O Holy Night - Live at Bethel",
+      "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Good News, Great Joy",
-        "url": "https://open.spotify.com/album/2gDxjKGJVyzirwudkdQJON"
-      },
-      "artists": [
-        {
-          "name": "Perimeter Worship",
-          "url": "https://open.spotify.com/artist/4KS9mJjQ4qcxPh3qWklp5X"
-        },
-        {
-          "name": "Laura Story",
-          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Good News, Great Joy",
-      "url": "https://open.spotify.com/track/6P8BlFm8laPgMoQgvmoMnS"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Crown Him (Glory in the Highest)",
         "url": "https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 303330,
       "name": "Crown Him (Glory in the Highest)",
       "url": "https://open.spotify.com/track/4859UK92TjODjB39UrCZo4"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Good News, Great Joy",
+        "url": "https://open.spotify.com/album/2gDxjKGJVyzirwudkdQJON"
+      },
+      "artists": [
+        {
+          "name": "Perimeter Worship",
+          "url": "https://open.spotify.com/artist/4KS9mJjQ4qcxPh3qWklp5X"
+        },
+        {
+          "name": "Laura Story",
+          "url": "https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Good News, Great Joy",
+      "url": "https://open.spotify.com/track/6P8BlFm8laPgMoQgvmoMnS"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "O Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/1JvPBJ78MG91CSZ7YHv4dW"
+      },
+      "artists": [
+        {
+          "name": "Salt Of The Sound",
+          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
+        }
+      ],
+      "duration_ms": 276375,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7aFmyecbLyLVm5OKapG25v"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "O Come All Ye Faithful (Live)",
         "url": "https://open.spotify.com/album/4XIV8Lc2D3xKO8Vp3JB4i2"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 258000,
       "name": "O Come All Ye Faithful - Live",
       "url": "https://open.spotify.com/track/08r6V6XZhUDOg4uiPXQHVL"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "O Little Town of Bethlehem",
-        "url": "https://open.spotify.com/album/1JvPBJ78MG91CSZ7YHv4dW"
-      },
-      "artists": [
-        {
-          "name": "Salt Of The Sound",
-          "url": "https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB"
-        }
-      ],
-      "duration_ms": 276375,
-      "name": "O Little Town of Bethlehem",
-      "url": "https://open.spotify.com/track/7aFmyecbLyLVm5OKapG25v"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "A Weary World Rejoices",
-        "url": "https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Melinda Watts",
-          "url": "https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7"
-        }
-      ],
-      "duration_ms": 384556,
-      "name": "O Holy Night - Live",
-      "url": "https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Light Has Come",
         "url": "https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj"
       },
@@ -2283,6 +2263,26 @@
       "duration_ms": 344036,
       "name": "Light Has Come",
       "url": "https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "A Weary World Rejoices",
+        "url": "https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Melinda Watts",
+          "url": "https://open.spotify.com/artist/0GCLncgrzKk95NwdvHjxw7"
+        }
+      ],
+      "duration_ms": 384556,
+      "name": "O Holy Night - Live",
+      "url": "https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA"
     },
     {
       "added_at": "2025-12-12 06:51:53",

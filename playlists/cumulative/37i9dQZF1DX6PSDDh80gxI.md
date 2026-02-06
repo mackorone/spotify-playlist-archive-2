@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> grande tutti fenomeni ti seguiamo da troppa vendetta 🫂
+> supernova è il nuovo album di mobrici che è qua su indie italia ☄️
 
-463 songs - 1 day 0 hr 46 min
+467 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-10-25 |
 | [Cantieri](https://open.spotify.com/track/1o6oPDjZcGSE0aP08ogBTA) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Cantieri](https://open.spotify.com/album/7u8FjnmiBIPNlU1RPVIKvi) | 2:42 | 2025-07-10 | 2025-09-12 |
 | [Canzone Facile](https://open.spotify.com/track/5wJStwEVrz97MUYuDLFBz3) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/7Gwomavjv5whQupOwjbzgP) | 2:47 | 2025-02-27 | 2025-03-18 |
-| [Canzoni per la notte](https://open.spotify.com/track/2Y0QL2mwrQnTdhdSCvEuW4) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Supernova](https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5) | 3:23 | 2026-01-29 |  |
+| [Canzoni per la notte](https://open.spotify.com/track/2Y0QL2mwrQnTdhdSCvEuW4) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Supernova](https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5) | 3:23 | 2026-01-29 | 2026-02-06 |
+| [Caramelle](https://open.spotify.com/track/7iVLTlay5gkbKbEOSywfwq) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [La fine della guerra](https://open.spotify.com/album/5S8byWYkS79jOxEgh4CcWI) | 3:26 | 2026-02-05 |  |
 | [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 | 2025-03-28 |
 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 | 2025-05-01 |  |
 | [Cemento](https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Cemento](https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez) | 3:08 | 2024-11-28 | 2025-01-24 |
@@ -173,12 +174,12 @@
 | [Il mio risveglio](https://open.spotify.com/track/3PgPdRH5lf65fRNeUXptju) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [In Memoria Di](https://open.spotify.com/album/1lwUJdcej4UlbTFVyyShUF) | 2:41 | 2024-12-12 | 2025-01-10 |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-20 | 2025-05-20 |
 | [IL PRIMO TAKE](https://open.spotify.com/track/3RNmrzkZ1AMGvjHIlvF57x) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [NOTTI BRAVE AMARCORD](https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J) | 3:42 | 2025-04-24 | 2025-10-31 |
-| [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 | 2026-01-16 |  |
+| [Immagina se](https://open.spotify.com/track/3HM1RC0p6qtWgflr02R3L9) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Dementia](https://open.spotify.com/album/445XfcmnCUeCnBYL5sdlyw) | 4:16 | 2026-01-16 | 2026-02-06 |
 | [Impossibile](https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Impossibile](https://open.spotify.com/album/5Fa1eainlT3WLze98FsaGk) | 3:29 | 2025-10-02 | 2025-11-07 |
 | [In Punta Di Piedi \(feat\. Le Feste Antonacci\)](https://open.spotify.com/track/18aTK79qHTbaI4wDARTnsg) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA), [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [In Punta Di Piedi \(feat\. Le Feste Antonacci\)](https://open.spotify.com/album/3u4ctLYqhmGxkWSs3dznYc) | 2:44 | 2025-02-27 | 2025-03-18 |
 | [Indimenticabile](https://open.spotify.com/track/7mMNZnkKb3ie2G3b8gfbyR) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Indimenticabile](https://open.spotify.com/album/2mui5jZaosq5UyQDziHz0K) | 2:53 | 2025-06-26 | 2025-09-19 |
 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 | 2025-06-05 | 2025-11-21 |
-| [infinito](https://open.spotify.com/track/0pAsfHVIWHbTnQa1UxLa0z) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [infinito](https://open.spotify.com/album/2CqXztQQkR0i5dU8S11L5U) | 2:18 | 2026-01-16 |  |
+| [infinito](https://open.spotify.com/track/0pAsfHVIWHbTnQa1UxLa0z) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [infinito](https://open.spotify.com/album/2CqXztQQkR0i5dU8S11L5U) | 2:18 | 2026-01-16 | 2026-02-06 |
 | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/track/3AvWA6n798ACuSjwYdBL2v) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Innamorarsi perdutamente non è mai un affare](https://open.spotify.com/album/4gw3DQuwQBgdhqHSZB0Ld5) | 3:00 | 2024-06-27 | 2024-10-25 |
 | [Invece di stare con te](https://open.spotify.com/track/0XwLpaXQW0qMTqN1N35IJn) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I), [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Invece di stare con te](https://open.spotify.com/album/4PjNvctqb5AuzUUAKalong) | 3:02 | 2025-10-02 | 2025-11-07 |
 | [Invisibile](https://open.spotify.com/track/2Arm5lPwb1mUayrzYy6EZN) | [I Segreti](https://open.spotify.com/artist/3e70MTQQxvShEhc1UQcPbL) | [Bellissimo](https://open.spotify.com/album/2cMx57lE3A6GYMOpUnUJtm) | 3:14 | 2024-10-03 | 2024-10-18 |
@@ -336,7 +337,7 @@
 | [Più in alto](https://open.spotify.com/track/0jZdbJ5BUzJRLhSUvaehum) | [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Cori da sdraio](https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk) | 3:36 | 2025-03-10 | 2025-04-25 |
 | [Pompe](https://open.spotify.com/track/5UxnZm9oHVBZGzpcEoZ6Qi) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Quaglia Sovversiva](https://open.spotify.com/album/0VbkrxC3uAlZuTOtfx6Qbh) | 3:29 | 2025-12-11 | 2026-01-15 |
 | [portami a ballare in primavera](https://open.spotify.com/track/39J4IyWQJWcBPU6tMnlD07) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 3:50 | 2025-05-22 |  |
-| [Posologia](https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Posologia](https://open.spotify.com/album/6fnV8eXA9MGEi46GJihlRv) | 3:33 | 2026-01-16 |  |
+| [Posologia](https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Posologia](https://open.spotify.com/album/6fnV8eXA9MGEi46GJihlRv) | 3:33 | 2026-01-16 | 2026-02-06 |
 | [POSTI VUOTI](https://open.spotify.com/track/3bXpBkWuxmutEWvTqAIdaz) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [POSTI VUOTI](https://open.spotify.com/album/46XsHt96qs6Z1dsdkw0eRC) | 3:16 | 2024-10-24 | 2025-05-20 |
 | [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 | 2024-11-01 |
 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 | 2025-11-13 | 2025-11-21 |
@@ -392,6 +393,8 @@
 | [Situazione complicata](https://open.spotify.com/track/2f3TSWcQlu8sRr5ymkVRFl) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 3:25 | 2025-03-20 | 2025-08-29 |
 | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/track/51rVDNulsFqL7rU6MbcnQV) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/2QNVMPmBUn0mUluCdq1rh0) | 3:31 | 2025-09-11 | 2025-10-10 |
 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 | 2024-08-22 | 2024-10-04 |
+| [solo solissimo](https://open.spotify.com/track/2KqKsaXttrkC7Qbc493cH9) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [solo solissimo](https://open.spotify.com/album/6MeFwwWwuXzMjoh12g0wF2) | 3:19 | 2026-02-05 |  |
+| [Sono pazzo \(con Fulminacci\)](https://open.spotify.com/track/0ZguavIMCkppK1SLut2xDZ) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Supernova](https://open.spotify.com/album/70ltpOxhlMHnAM6DSIerd5) | 2:41 | 2026-02-05 |  |
 | [Sottobraccio](https://open.spotify.com/track/1VQKJQjZNPCYJE5EoAzVil) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sottobraccio](https://open.spotify.com/album/1DdZcRfIq0l3fYFTdYXS8y) | 3:08 | 2024-06-27 | 2025-03-28 |
 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 | 2025-05-29 |  |
 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 | 2025-03-20 |  |
@@ -426,6 +429,7 @@
 | [Trentasette denti](https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [TUFFO](https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS) | 3:34 | 2024-10-10 | 2024-12-20 |
 | [Truman](https://open.spotify.com/track/0JHs48CSRjAwr0fv6Ap9Sr) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Truman](https://open.spotify.com/album/7wL5KaHBoQXjBafA5nqdP2) | 2:23 | 2026-01-08 |  |
 | [Tu con me hai chiuso](https://open.spotify.com/track/5EDkL5ZFCbroL36R8ZmPsX) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Tu con me hai chiuso](https://open.spotify.com/album/4S5w44QBiLFDaSbW6gUlPL) | 3:20 | 2024-06-27 | 2024-09-14 |
+| [tu non vuoi nessuno](https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [tu non vuoi nessuno](https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z) | 3:22 | 2026-02-05 |  |
 | [Tu sei il mattino](https://open.spotify.com/track/1j58NLQYaQsLW1eYppRI02) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Tu sei il mattino](https://open.spotify.com/album/0sbGgrjOyEt7maAqras9N3) | 3:08 | 2024-11-14 | 2025-11-21 |
 | [Tuareg](https://open.spotify.com/track/6FLcWRbOznMsx55HF46oBL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tuareg](https://open.spotify.com/album/1Ns0mmFgzffnMQSi9Hv9ww) | 3:40 | 2025-08-28 | 2025-10-24 |
 | [Tunnel](https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Notturno](https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw) | 2:51 | 2025-05-08 | 2025-06-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,287 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,290 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 43 | [Nocturne No\. 8 In D Flat, Op\. 27 No\. 2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |
 | 44 | [Jasmine Flower \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/5e1AEXbrepdeMVB8YuRtNQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Encore Edition\)](https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI) | 6:44 |
 | 45 | [Wild Swans Suite: II\. Eliza Aria \(Version for Piano\)](https://open.spotify.com/track/1eaETfQqYI5YBDq5zj7O5Y) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 3:10 |
-| 46 | [ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Ann: ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I) | 3:18 |
-| 47 | [Piano Concerto No\. 24 in C Minor, K\. 491: III\. Allegretto](https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Nikolaus Harnoncourt](https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO) | [The Mozart Album](https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4) | 9:52 |
+| 46 | [Piano Concerto No\. 24 in C Minor, K\. 491: III\. Allegretto](https://open.spotify.com/track/7ymm83FDIZE8zVXffT9qa2) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Nikolaus Harnoncourt](https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO) | [The Mozart Album](https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4) | 9:52 |
+| 47 | [ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Ann: ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I) | 3:18 |
 | 48 | [Rainbow Connection \- From "The Muppet Movie"](https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Rainbow Connection \(From "The Muppet Movie"\)](https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv) | 4:10 |
 | 49 | [12 Variations on "Ah, vous dirai\-je maman", K\. 265: Var\. 1](https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 0:31 |
 | 50 | [Goldberg Variations, BWV 988: Variatio 30 Quodlibet\. a 1 Clav.](https://open.spotify.com/track/43kn3bSGdQFhjqyl5bF1EY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:32 |
 
-Snapshot ID: `aYE6gAAAAADilj8KprRfYZdXFoZRCVFD`
+Snapshot ID: `aYKMAAAAAADhmBqlVE/QLm98scfRXGX5`

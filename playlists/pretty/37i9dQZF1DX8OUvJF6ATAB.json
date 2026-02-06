@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 211038,
+  "num_followers": 211056,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
     },
     {
+      "added_at": "2024-09-01 14:43:43",
+      "album": {
+        "name": "+puzzle",
+        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 254561,
+      "name": "+puzzle",
+      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Murmur (Machinefabriek Remix)",
@@ -563,22 +579,6 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
-    },
-    {
-      "added_at": "2024-09-01 14:43:43",
-      "album": {
-        "name": "+puzzle",
-        "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 254561,
-      "name": "+puzzle",
-      "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/2fnRLwVjO6okNLKTssmWIl"
     },
     {
-      "added_at": "2024-08-16 19:54:30",
-      "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
-      },
-      "artists": [
-        {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
-        }
-      ],
-      "duration_ms": 548178,
-      "name": "Mirror of Memories",
-      "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
-    },
-    {
       "added_at": "2024-01-23 19:40:42",
       "album": {
         "name": "Magda",
@@ -743,6 +727,22 @@
       "duration_ms": 522000,
       "name": "Velluto",
       "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
+    },
+    {
+      "added_at": "2024-08-16 19:54:30",
+      "album": {
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "duration_ms": 548178,
+      "name": "Mirror of Memories",
+      "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Hilja",
-        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Demetra",
-      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Kwaidan",
         "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 258000,
       "name": "Sankai",
       "url": "https://open.spotify.com/track/6IQoOFscOOZqWTy6Hn6QnC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Hilja",
+        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Demetra",
+      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Grial",
-        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
-      },
-      "artists": [
-        {
-          "name": "Verraco",
-          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
-        }
-      ],
-      "duration_ms": 299892,
-      "name": "Our New Order",
-      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Tyyni",
         "url": "https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 298475,
       "name": "Anarkian kuvajainen",
       "url": "https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Grial",
+        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
+      },
+      "artists": [
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "duration_ms": 299892,
+      "name": "Our New Order",
+      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
     },
     {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
-    },
-    {
       "added_at": "2024-01-11 03:32:09",
       "album": {
         "name": "Solar Bridge",
@@ -1081,6 +1065,38 @@
       "url": "https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8"
     },
     {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost Transmissions From the Off-World Territories",
+        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
+      },
+      "artists": [
+        {
+          "name": "Komodo Kolektif",
+          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
+        }
+      ],
+      "duration_ms": 237036,
+      "name": "Fire Walk",
+      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
+    },
+    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Fading In And Out",
@@ -1103,22 +1119,6 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Lost Transmissions From the Off-World Territories",
-        "url": "https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ"
-      },
-      "artists": [
-        {
-          "name": "Komodo Kolektif",
-          "url": "https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo"
-        }
-      ],
-      "duration_ms": 237036,
-      "name": "Fire Walk",
-      "url": "https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Long Count",
-        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "1st Day",
-      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 401149,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Long Count",
+        "url": "https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN"
+      },
+      "artists": [
+        {
+          "name": "Debit",
+          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "1st Day",
+      "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Paisajes en Saturno",
-        "url": "https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1"
-      },
-      "artists": [
-        {
-          "name": "Chema Macazaga",
-          "url": "https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Tit\u00e1n",
-      "url": "https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Senja Recordings",
         "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
       },
@@ -1367,26 +1351,6 @@
       "duration_ms": 292480,
       "name": "Bergsbotn I",
       "url": "https://open.spotify.com/track/2o2kesEPWqDCcvOkFpkoUT"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Overlay (KMRU Remix)",
-        "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
-      },
-      "artists": [
-        {
-          "name": "Koki Nakano",
-          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
-        },
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 305353,
-      "name": "Overlay - KMRU Remix",
-      "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1407,6 +1371,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Paisajes en Saturno",
+        "url": "https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1"
+      },
+      "artists": [
+        {
+          "name": "Chema Macazaga",
+          "url": "https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Tit\u00e1n",
+      "url": "https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Guidance in Dreams",
         "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 131879,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Overlay (KMRU Remix)",
+        "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
+      },
+      "artists": [
+        {
+          "name": "Koki Nakano",
+          "url": "https://open.spotify.com/artist/0BuB6oNX1squsfXbtkO5JE"
+        },
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 305353,
+      "name": "Overlay - KMRU Remix",
+      "url": "https://open.spotify.com/track/0AJojYxlKDwZgDpz4WGfw8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Inner Rage",
         "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 374679,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Islands, Pt. 2",
-        "url": "https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd"
-      },
-      "artists": [
-        {
-          "name": "Jupi/ter",
-          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/773mDOeXXWvisdgrirVPTu"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 1177077,
       "name": "Chrysanthemum (Slow)",
       "url": "https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Islands, Pt. 2",
+        "url": "https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7"
     },
     {
       "added_at": "2023-04-21 14:41:23",

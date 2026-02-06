@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,168 songs - 2 day 17 hr 17 min
+1,169 songs - 2 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [CINEMA \- Fame & Fortune VIP](https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA \(incl\. Fame & Fortune VIP\)](https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf) | 2:14 | 2022-08-22 | 2022-11-01 |
 | [Cirrus](https://open.spotify.com/track/5ckFfWq62GHZVuhQiilShT) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:24 | 2022-11-14 | 2022-11-16 |
 | [Cityscape](https://open.spotify.com/track/3djes6FzZxMlssxLbMCdVx) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Cityscape](https://open.spotify.com/album/0Q5hFiuIYsMw6nwNrln6xP) | 2:47 | 2024-11-12 | 2025-02-21 |
+| [Climb](https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu) | [Climb](https://open.spotify.com/album/07nrhJ5PlKOAi2mKIhYZsO) | 2:37 | 2026-02-05 |  |
 | [Closer](https://open.spotify.com/track/0dl1KPentnYfyXSQnK1eUD) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Closer](https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy) | 3:38 | 2021-11-19 | 2022-02-16 |
 | [Coast](https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz) | [Coast / Together](https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ) | 3:32 | 2022-08-26 | 2022-11-01 |
 | [CODES](https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Macntaj](https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K) | [CODES](https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj) | 2:31 | 2022-11-03 | 2023-01-27 |
@@ -483,7 +484,7 @@
 | [Hit the Ground](https://open.spotify.com/track/1jZ4irbZ1NSFdaoz2MjQtK) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [I Contain Flashing Images](https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER) | 4:22 | 2024-05-30 | 2024-08-21 |
 | [Hold Up](https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf) | [Nick Smith](https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc) | [Hold Up](https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ) | 2:59 | 2022-01-28 | 2022-04-13 |
 | [Holding On Is Human](https://open.spotify.com/track/6ws7SG03iSjzEJmG1JroFB) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Familiar Faces](https://open.spotify.com/album/1mEJclhYTF4tn0UdC5VSey) | 4:15 | 2023-11-14 | 2024-02-28 |
-| [Holy](https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Holy](https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b) | 3:04 | 2025-11-05 |  |
+| [Holy](https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Holy](https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b) | 3:04 | 2025-11-05 | 2026-02-06 |
 | [Home](https://open.spotify.com/track/0OprknYuyOUDWdEPY1aSDN) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Home](https://open.spotify.com/album/6HKKBO75lKYdWJPdW76Gmp) | 3:27 | 2025-03-11 | 2025-06-04 |
 | [Honey Water](https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Honey Water](https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw) | 3:40 | 2024-11-28 | 2025-03-08 |
 | [Hope](https://open.spotify.com/track/1a0SYFyOM3Vr1EEm77W2k5) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Hope](https://open.spotify.com/album/4orkNzqYfSdlJYDBjCC4kT) | 3:20 | 2022-08-10 | 2022-10-21 |
@@ -1151,7 +1152,7 @@
 | [Wish You Stayed](https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:00 | 2022-11-19 | 2022-11-22 |
 | [wish.](https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Ellii](https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e) | [wish.](https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ) | 3:26 | 2024-07-10 | 2024-10-03 |
 | [With U](https://open.spotify.com/track/2u4dejYhJszoo17e1W2WLW) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [With U](https://open.spotify.com/album/3mBwB6v0WiqCNysrWmgJqj) | 4:12 | 2023-08-21 | 2023-12-14 |
-| [Without You](https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Without You](https://open.spotify.com/album/4N5Yn9vcLQ8RFx3OTKQLwE) | 3:19 | 2025-11-04 |  |
+| [Without You](https://open.spotify.com/track/1Las5DREvBQtqeoYdfgtk3) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Without You](https://open.spotify.com/album/4N5Yn9vcLQ8RFx3OTKQLwE) | 3:19 | 2025-11-04 | 2026-02-06 |
 | [Without You](https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [Without You](https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc) | 2:30 | 2022-08-23 | 2022-11-01 |
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |

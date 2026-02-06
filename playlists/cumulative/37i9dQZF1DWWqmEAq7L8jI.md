@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Indios
 
-422 songs - 22 hr 55 min
+423 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [a todo el mundo le pasa](https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 3:31 | 2025-04-25 | 2025-05-31 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-08-18 | 2023-09-23 |
 | [Abrazarte otra vez](https://open.spotify.com/track/44dAjMA5Sa9vlPkIsSuxxM) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Abrazarte otra vez](https://open.spotify.com/album/7GZ0HUMfjyMmuSWmWOSIaC) | 3:47 | 2023-08-11 | 2023-08-19 |
-| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2023-08-18 |  |
+| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2023-08-18 | 2026-02-06 |
 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 | 2024-10-14 |  |
 | [Acaríñame](https://open.spotify.com/track/2kXeAEpGBN874ZKJPV24fr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Acaríñame](https://open.spotify.com/album/5cggbtEsbsZPcxdjumrBo6) | 3:21 | 2024-04-19 | 2026-01-24 |
 | [Acá](https://open.spotify.com/track/494CoBrUZsoVpdSgCw7EaI) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Acá](https://open.spotify.com/album/7JM4O5VJlScQKtkMTGzRWL) | 2:51 | 2026-01-23 |  |
@@ -101,6 +101,7 @@
 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 | 2023-10-19 | 2023-12-11 |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2023-03-17 | 2023-08-12 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-26 |  |
+| [Darte la mano](https://open.spotify.com/track/4tHxbdVxnC2J3LB0ANnHRv) | [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Darte la mano](https://open.spotify.com/album/5iMHIUPw0MPAyHLPFlMiej) | 3:42 | 2026-02-06 |  |
 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 | 2023-03-17 | 2023-07-09 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2023-03-17 | 2023-08-12 |
 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 | 2023-07-14 | 2023-08-19 |

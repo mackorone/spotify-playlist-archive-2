@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,014 songs - 8 day 21 hr 5 min
+4,015 songs - 8 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3534,7 +3534,7 @@
 | [TIK TAK](https://open.spotify.com/track/6AaJljPfG6OaCaJpbTRqhE) | [ESSETI&ESSEA](https://open.spotify.com/artist/5kMFci7Yj4A4AM5VeJjVpx) | [TIK TAK](https://open.spotify.com/album/2NWFVt9mWDQ4eh2aIFOzGX) | 2:28 | 2025-06-01 |  |
 | [TikTok Fever Dream](https://open.spotify.com/track/0YaPRAs9z03JBvIQiakCy4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 1:50 | 2025-09-19 |  |
 | [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [ANGA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 | 2025-06-08 |  |
-| [Time](https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq) | [Saint Cassady](https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU) | [Time](https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV) | 3:34 | 2026-01-01 |  |
+| [Time](https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq) | [Saint Cassady](https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU) | [Time](https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV) | 3:34 | 2026-01-01 | 2026-02-06 |
 | [Time Bomb](https://open.spotify.com/track/00KwdidNkOntPgDsBHBYPs) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [Time Bomb](https://open.spotify.com/album/79PyZH8T3m2vezl3B5NeQt) | 3:19 | 2025-06-05 |  |
 | [Time for the Other Song](https://open.spotify.com/track/7mabZvppZ7FTLrsWO9GJYJ) | [Carbox](https://open.spotify.com/artist/3b7TkmnH3ZNro3MJlhTRMl) | [Dark Down](https://open.spotify.com/album/0qAizbg3D61QB2pZe10dQC) | 4:07 | 2025-10-07 |  |
 | [Timeless Love](https://open.spotify.com/track/3xMFvP0X8VPOu1xbw29nVu) | [MAX LRF](https://open.spotify.com/artist/7DWogRuA8IOFVZn8YXEI00) | [Timeless Love](https://open.spotify.com/album/2wkFV9ZPXsXABdDiTJ3bY0) | 3:44 | 2025-04-05 |  |
@@ -3913,6 +3913,7 @@
 | [Whose Pint's Whose](https://open.spotify.com/track/5yz2Lsnzs71elFj1exOWXO) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Whose Pint's Whose](https://open.spotify.com/album/3iLBOBrcFMVWZfqIqZzOlP) | 2:07 | 2025-11-05 |  |
 | [wht she needs lol](https://open.spotify.com/track/6EZEzGRrYcg5iT002y2Tlx) | [disgraceful](https://open.spotify.com/artist/1IWITCkCLfZJjZTbAFxEIA) | [wht she needs lol](https://open.spotify.com/album/3vPCTc3Akx1KlCWz8R8OCg) | 1:09 | 2025-11-05 |  |
 | [Why Ain't Fine](https://open.spotify.com/track/79Z4fZJ1OWi72PANL14gHo) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [My World](https://open.spotify.com/album/5bnuWFTsZu4pHE3DYlSDAA) | 2:41 | 2025-05-16 |  |
+| [Why So Dark, Son? \- Album Intro](https://open.spotify.com/track/0twSBF8XOweUbPpmkbX0pb) | [Matthew’s Silent Chapter](https://open.spotify.com/artist/2JUTGg9txxR3B3acyTlFp7) | [Silent Chapter \(Part I\)](https://open.spotify.com/album/2yhfJTPTWQjFXSlIyz3qys) | 6:48 | 2026-02-05 |  |
 | [Wide Awake](https://open.spotify.com/track/4g4mQUNi6UXdRO0DyXLSlk) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Wide Awake](https://open.spotify.com/album/6uBSoy2ZQZSNYplHyZroxm) | 3:19 | 2025-10-04 |  |
 | [Wide Awake](https://open.spotify.com/track/4lzu8E3kHyv69tH7TNt5Mz) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:19 | 2025-10-09 |  |
 | [Wild Fields](https://open.spotify.com/track/54XyGfQN6akKcTswJN0kxm) | [These New Puritans](https://open.spotify.com/artist/7w0e6inAfRWIEb9tWVgB7a) | [Crooked Wing](https://open.spotify.com/album/1P3rILuVtbxpBG4hKuGtpB) | 4:05 | 2025-11-04 |  |

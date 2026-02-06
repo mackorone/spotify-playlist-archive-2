@@ -4,7 +4,7 @@
 
 > 
 
-43 songs - 3 hr 6 min
+44 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Dear Me](https://open.spotify.com/track/1mBqbGYfsVJH1z2DHPNSbT) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Every Mile Mattered](https://open.spotify.com/album/51HWO4nZXpw3nRosU2Nwsz) | 5:27 | 2024-04-08 | 2024-05-11 |
 | [Deep Magic](https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [DEEP MAGIC](https://open.spotify.com/album/6azWJbjlgtEJWpPgdi2H6g) | 3:51 | 2024-04-08 | 2024-04-26 |
 | [Dinner with Friends](https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-04-08 | 2024-04-24 |
-| [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 | 2024-10-28 |  |
+| [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 | 2024-10-28 | 2026-02-06 |
 | [Enemy, love.](https://open.spotify.com/track/1FJuSxwLugTKphYmrLDuhn) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:18 | 2024-04-25 | 2024-05-11 |
 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 | 2024-04-15 | 2024-07-18 |
 | [Goldberg Variations, BWV 988: Variation 20 a 2 Clav.](https://open.spotify.com/track/54VrtN6vHC3gXyqhDulUcW) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 0:50 | 2025-10-31 |  |
@@ -28,6 +28,7 @@
 | [heart pt\. 6](https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 4:52 | 2025-03-05 |  |
 | [Hold On, We're Going Home \- Live](https://open.spotify.com/track/3ERYCA53SPsF1M8JboN7ld) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Crowder’s Neon Porch Extravaganza \(Live\)](https://open.spotify.com/album/06Sgy5mHvpIRy2a2Jv4dUo) | 1:42 | 2024-07-17 | 2024-10-30 |
 | [HUMBLE.](https://open.spotify.com/track/131OLY5J8XyfGuSjXRiTRM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/0bLXUfNT34mna9aXq8ex68) | 2:57 | 2024-05-13 | 2024-07-18 |
+| [It Was Coming All Along](https://open.spotify.com/track/2SSdjwuUQlkO0s6Kb4II8x) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:27 | 2026-02-05 |  |
 | [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 | 2024-05-14 |
 | [Learn How to Lose: Act 1](https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [A Mirror Brightly](https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ) | 4:20 | 2024-04-08 | 2024-05-03 |
 | [No Shade of Green](https://open.spotify.com/track/5KiwfWPrwlAtoi6J8Kxvof) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Come May](https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i) | 3:01 | 2024-07-17 |  |

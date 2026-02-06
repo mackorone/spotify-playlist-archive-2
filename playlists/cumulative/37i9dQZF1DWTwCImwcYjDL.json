@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits. Cover: Dimitri Vegas & Like Mike, Marlon Hoffstadt",
+  "description": "De beste dance hits. Cover: Sunnery James & Ryan Marciano",
   "name": "360 Dance",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 261958,
       "name": "Ain't Letting You Down",
       "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 185769,
       "name": "Ain't No Party",
       "url": "https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab"
@@ -368,7 +368,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 168000,
       "name": "Believe",
       "url": "https://open.spotify.com/track/5C8GSJ1tYy5jndQkT61sV9"
@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/1YANR1WSpn28SnFdn2SG4k"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128472,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2KywvbBKDE19v1MqLp52W6"
+    },
+    {
+      "album": {
         "name": "Can't Stop Loving You",
         "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
       },
@@ -588,6 +606,36 @@
       "duration_ms": 160000,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/78W1WOxeqq3fRInVvotqEM"
+    },
+    {
+      "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/5GsgYaGtwa2rvmA7knroD4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x"
     },
     {
       "album": {
@@ -922,6 +970,32 @@
       "duration_ms": 181818,
       "name": "Gone Gone Gone (feat. Teddy Swims) - Hypaton Remix",
       "url": "https://open.spotify.com/track/3iHu9c8xnzvPf0VVqIutFX"
+    },
+    {
+      "album": {
+        "name": "Greece 2000 (Max Styler Rework)",
+        "url": "https://open.spotify.com/album/6waS2OtH6DmHs3uBbRpM43"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Greece 2000 - Max Styler Rework",
+      "url": "https://open.spotify.com/track/1rO61T3jVwbokKW9F1CWBv"
     },
     {
       "album": {
@@ -1697,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/28yki2yPVLHmaIHP0Mcan2"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -1864,6 +1956,24 @@
       "duration_ms": 195000,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
+    {
+      "album": {
+        "name": "Straf (Soundtrack)",
+        "url": "https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254620,
+      "name": "Melchior\u2019s Dance",
+      "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
     },
     {
       "album": {
@@ -2318,7 +2428,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"
@@ -2658,7 +2768,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 154666,
       "name": "Summer Skies (Love To Cry)",
       "url": "https://open.spotify.com/track/1z4TAq5AmDi3IkEizIn8Wn"
@@ -2981,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
+    },
+    {
+      "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
       },
@@ -3036,7 +3164,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166566,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0CVZr5MMrL7WFr74pK515Z"

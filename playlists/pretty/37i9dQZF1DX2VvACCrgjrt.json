@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313960,
+  "num_followers": 1313926,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1597,24 +1597,20 @@
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-01-23 05:00:24",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
         }
       ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+      "duration_ms": 149108,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1639,6 +1635,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 152288,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "FSU",
-        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "FSU",
-      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Good Girls",
+        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 181850,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Nothing Is Real (feat. Gene Farris)",
         "url": "https://open.spotify.com/album/2aVUYs524BHl1hKaw5ps7h"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 131076,
       "name": "Nothing Is Real (feat. Gene Farris)",
       "url": "https://open.spotify.com/track/6eyfcx0H2MyXD1hWWQHYVF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Good Girls",
-        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 181850,
-      "name": "Good Girls",
-      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/52EN0D6nOBPH59oVgVyJcA"
       },
@@ -2119,22 +2135,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "No Matter",
-        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "No Matter",
-      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Lemon",
         "url": "https://open.spotify.com/album/7pqaYrRIKbZtbk7oJWFFUf"
       },
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Break The Body",
-        "url": "https://open.spotify.com/album/0fTQjN2JoqOF0yQDsZFwU3"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Break The Body",
-      "url": "https://open.spotify.com/track/0OJANoJW06uj9lSN3KoVTe"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Rockin",
         "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 186857,
       "name": "Rockin",
       "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Break The Body",
+        "url": "https://open.spotify.com/album/0fTQjN2JoqOF0yQDsZFwU3"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Break The Body",
+      "url": "https://open.spotify.com/track/0OJANoJW06uj9lSN3KoVTe"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2275,26 +2275,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "License To Be Bad",
-        "url": "https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g"
+        "name": "Hypnotic (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         },
         {
-          "name": "Ciszak",
-          "url": "https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         },
         {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
         }
       ],
-      "duration_ms": 186461,
-      "name": "License To Be Bad",
-      "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
+      "duration_ms": 249461,
+      "name": "Hypnotic (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2319,26 +2319,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hypnotic (feat. Kyozo)",
-        "url": "https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD"
+        "name": "License To Be Bad",
+        "url": "https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Ciszak",
+          "url": "https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA"
         },
         {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
         }
       ],
-      "duration_ms": 249461,
-      "name": "Hypnotic (feat. Kyozo)",
-      "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
+      "duration_ms": 186461,
+      "name": "License To Be Bad",
+      "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2403,22 +2403,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "2 Attached",
-        "url": "https://open.spotify.com/album/2i70x6kpNmQ0XYT5LEarfl"
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
       },
       "artists": [
         {
-          "name": "Sam F",
-          "url": "https://open.spotify.com/artist/7KCdHGc5N4oYz2Ekg3CRdb"
-        },
-        {
-          "name": "Liza",
-          "url": "https://open.spotify.com/artist/6k1PUqfJwVvqumfOUCPPzh"
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
         }
       ],
-      "duration_ms": 128977,
-      "name": "2 Attached",
-      "url": "https://open.spotify.com/track/5JvOJVaGlj7yFqlr9TVCZl"
+      "duration_ms": 182769,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
     }
   ],
   "unique_name": "Nasty Bits",

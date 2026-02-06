@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-377 songs - 22 hr 43 min
+378 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 | 2022-07-14 | 2023-11-24 |
 | [Darkest Night](https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Darkest Night](https://open.spotify.com/album/38Zutwd997e5hLl2565HfV) | 2:45 | 2023-10-05 | 2023-12-30 |
 | [Dead Of The Night](https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Dead Of The Night](https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71) | 10:07 | 2021-12-02 | 2022-07-29 |
-| [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 | 2025-04-03 | 2026-01-18 |
+| [dear marie](https://open.spotify.com/track/5xuvCsT4kYinknbD5sNlTw) | [isa blu](https://open.spotify.com/artist/6PkYos4RsslZZSUYpin4Cc) | [dear marie](https://open.spotify.com/album/74tLNw4Zh5x4mlgyNPjfrR) | 3:31 | 2025-04-03 |  |
 | [Demo of a One Night Stand \- Live](https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Acoustic Session – Live in Oslo](https://open.spotify.com/album/0tBtWCAAGMGs7aV3NjRrOS) | 2:43 | 2022-05-26 | 2022-07-28 |
 | [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 | 2024-03-07 | 2024-05-23 |
 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 | 2024-03-07 | 2026-01-31 |
@@ -114,7 +114,7 @@
 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 | 2025-05-29 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2024-06-20 | 2024-09-06 |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-14 | 2022-11-09 |
-| [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 | 2025-05-22 |  |
+| [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 | 2025-05-22 | 2026-02-06 |
 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-06 | 2026-02-01 |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-04-27 |
 | [Follow Me Home](https://open.spotify.com/track/6wYjQODXHSIdLOZDnKZnql) | [I Was A King](https://open.spotify.com/artist/0SannT3hsrgAXQ9abyVQsB) | [Follow Me Home](https://open.spotify.com/album/5busehpoFGB68UYicJdF7c) | 3:21 | 2022-07-07 | 2022-07-14 |
@@ -236,7 +236,7 @@
 | [Noe enkelt](https://open.spotify.com/track/7yTpaET2jjkSPLnhTFT75r) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Noe enkelt](https://open.spotify.com/album/3tii6B8NjGqRqGc39rxTai) | 6:15 | 2026-01-30 |  |
 | [Norwegian Black Metal](https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A), [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Norwegian Black Metal](https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb) | 3:05 | 2023-09-28 | 2024-01-16 |
 | [Nothing Without You](https://open.spotify.com/track/0IfYF9evGdkLHxBrY06hsh) | [Under The Elms](https://open.spotify.com/artist/1nWNNhWyvkcuFlwc1Zwswk) | [Nothing Without You](https://open.spotify.com/album/018QUOPoNDwLlFp3VJ7DvE) | 2:59 | 2025-03-27 | 2025-09-19 |
-| [Nusrat](https://open.spotify.com/track/1tz096oy9ILDufGWagYR34) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [So Say All of Us](https://open.spotify.com/album/5ZjeCwphbsCQXP28y2mipu) | 4:41 | 2025-09-25 |  |
+| [Nusrat](https://open.spotify.com/track/1tz096oy9ILDufGWagYR34) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [So Say All of Us](https://open.spotify.com/album/5ZjeCwphbsCQXP28y2mipu) | 4:41 | 2025-09-25 | 2026-02-06 |
 | [Oak Tree](https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS) | 3:00 | 2021-12-02 | 2022-07-27 |
 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 | 2022-07-14 | 2024-04-19 |
 | [October](https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/27tzQzthvpruYJmo2X5PcT) | 3:44 | 2021-12-02 | 2022-07-27 |
@@ -325,6 +325,7 @@
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 | 2023-02-16 | 2023-07-25 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 |  |
+| [Track 5](https://open.spotify.com/track/0ZRaUVbA5LXkyBoU33SBpf) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 |  |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 |  |

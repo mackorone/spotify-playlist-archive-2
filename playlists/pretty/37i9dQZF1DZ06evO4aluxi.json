@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19036,
+  "num_followers": 19034,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADa5bNGPpEkV/PY+xgMMwit",
+  "snapshot_id": "aYKMAAAAAACtOnqtblqF7G+TtYvZACax",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Winks",
-        "url": "https://open.spotify.com/album/75GJpyAlMg2T0HQKFHAa4Q"
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },
       "artists": [
-        {
-          "name": "Annie Bosko",
-          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 206546,
-      "name": "God Winks",
-      "url": "https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY"
+      "duration_ms": 231706,
+      "name": "Power In The Blood",
+      "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+        "name": "God Winks",
+        "url": "https://open.spotify.com/album/75GJpyAlMg2T0HQKFHAa4Q"
       },
       "artists": [
+        {
+          "name": "Annie Bosko",
+          "url": "https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym"
+        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 231706,
-      "name": "Power In The Blood",
-      "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
+      "duration_ms": 206546,
+      "name": "God Winks",
+      "url": "https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY"
     },
     {
       "added_at": null,

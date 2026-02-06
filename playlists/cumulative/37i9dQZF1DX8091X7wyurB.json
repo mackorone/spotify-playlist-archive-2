@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 466495,
       "name": "As we look",
       "url": "https://open.spotify.com/track/3g2GzaINUedLa9alWfMT2M"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 237675,
       "name": "Everything (Amen)",
       "url": "https://open.spotify.com/track/3Scc4HtHuKB35zJmro4slF"
@@ -5066,7 +5066,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 584411,
       "name": "Grateful - Live",
       "url": "https://open.spotify.com/track/6EhxiCqTYkJvLoZ1014BCt"
@@ -5430,6 +5430,28 @@
       "duration_ms": 224203,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5jqP4eqHNhIU2IEMy50moc"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3cWC9Qd2NIZCH5p3HdKs2D"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Eziashi",
+          "url": "https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx"
+        },
+        {
+          "name": "Olumide Iyun",
+          "url": "https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 717697,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5HOpXPNnzMnR1adrT2es8i"
     },
     {
       "album": {
@@ -6438,7 +6460,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
@@ -13284,7 +13306,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 739604,
       "name": "There's an overflow (Cover) - Live",
       "url": "https://open.spotify.com/track/4phqCofEUgHVqThX9z4mkY"
@@ -13514,7 +13536,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 503571,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU"

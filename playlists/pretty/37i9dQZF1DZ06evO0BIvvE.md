@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 
 > This is Billy Paul\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,357 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,356 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 23 | [I Trust You](https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 4:13 |
 | 24 | [Thank You \(For This Blessing\)](https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [First Class](https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168) | 2:57 |
 | 25 | [Love Buddies](https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 3:39 |
-| 26 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 |
+| 26 | [When Love Is New](https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:29 |
 | 27 | [Billy's Back Home](https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Got My Head On Straight](https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo) | 4:32 |
 | 28 | [Take Me Higher \- Antonello Ferrari & Aldo Bergamasco Club Mix](https://open.spotify.com/track/37YrFEdaub4bJljePESq4F) | [Antonello Ferrari](https://open.spotify.com/artist/6CpUfSiqmNciuYLQ1CxH9e), [Aldo Bergamasco](https://open.spotify.com/artist/1OmUNhEbNt1OtcGfn0hxne), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Take Me Higher](https://open.spotify.com/album/73BGLklYHPD0UJVsYDRWBS) | 6:39 |
 | 29 | [This Is Your Life](https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Going East](https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf) | 4:15 |
-| 30 | [When Love Is New](https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 5:29 |
+| 30 | [People Power](https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [When Love Is New](https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS) | 4:17 |
 | 31 | [Don't Give Up On Us](https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 3:39 |
 | 32 | [I Think I'll Stay Home Today](https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Let 'Em In](https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L) | 6:18 |
 | 33 | [I Was Married](https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [War of the Gods \(Expanded Edition\)](https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw) | 7:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BIvvE.md) - [plain]
 | 49 | [Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner \- Live Medley](https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [T.S.O.P\. The Sound of Philadelphia \(Live in Concert\)](https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr) | 4:53 |
 | 50 | [Where I Belong](https://open.spotify.com/track/4smFZWmbELDMZohleik3fD) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 4:06 |
 
-Snapshot ID: `aYE6gAAAAAD5TFQ6K08leWqoU0DK6EcI`
+Snapshot ID: `aYKMAAAAAABt8jTalB8K8qYRhvH4pAX/`

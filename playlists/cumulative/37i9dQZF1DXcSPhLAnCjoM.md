@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Par coeur" de DAYSY et Joseph Kamel est le Grand Hit de la semaine.
+> "L'horizon" de Pierre Garnier est le Grand Hit de la semaine.
 
-311 songs - 15 hr 57 min
+312 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [La gloire de nos pères](https://open.spotify.com/track/4TLTVC2ptKtrlUzkBSXq0A) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [La gloire de nos pères](https://open.spotify.com/album/7wlEAb5jCOgYZ1Zk6t6sPn) | 3:13 | 2024-12-05 | 2025-02-28 |
 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 | 2025-10-23 |  |
 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-07-04 | 2025-03-21 |
+| [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 | 2026-02-05 |  |
 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 | 2024-02-15 | 2025-01-10 |
 | [La symphonie des éclairs \- Edit](https://open.spotify.com/track/2qgS51uMu0cAjZOI9PVoTN) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:58 | 2023-09-28 | 2024-02-16 |
 | [La vie](https://open.spotify.com/track/04VPEsP3L4td2u4RuvOdrD) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [La vie](https://open.spotify.com/album/7a1zSyuq070pBzYpSrc0Az) | 3:28 | 2023-09-28 | 2023-10-06 |
@@ -315,7 +316,7 @@
 | [Voulez\-Vous](https://open.spotify.com/track/513s60DKMknigRNGVzSORD) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Voulez\-Vous](https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn) | 2:54 | 2025-11-13 |  |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |
 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 | 2024-01-25 | 2024-03-01 |
-| [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 |  |
+| [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 | 2026-02-06 |
 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 | 2025-12-05 |
 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-08-01 | 2024-09-13 |
 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-10-24 | 2025-03-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Moses",
+  "description": "The best new AUS & NZ Rap. Cover: Dera Meelan, deadforest",
   "name": "Local Hype",
   "tracks": [
     {
@@ -1744,6 +1744,28 @@
       "duration_ms": 181934,
       "name": "Away",
       "url": "https://open.spotify.com/track/2sTTl6TAswhoIM1Anwxdl3"
+    },
+    {
+      "album": {
+        "name": "Aye bae (feat. Stt Laurentt)",
+        "url": "https://open.spotify.com/album/0Q9bbF3nqAu5em8tdEgB5X"
+      },
+      "artists": [
+        {
+          "name": "Tbish",
+          "url": "https://open.spotify.com/artist/2APhRc0C4DiTjfpuzBm2Xw"
+        },
+        {
+          "name": "Stt Laurentt",
+          "url": "https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Aye bae (feat. Stt Laurentt)",
+      "url": "https://open.spotify.com/track/5QPNeJYmTzPF47WFGcxMCn"
     },
     {
       "album": {
@@ -4481,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "CASKET",
+        "url": "https://open.spotify.com/album/4IFdfy3N63zXUi2MmdCgeS"
+      },
+      "artists": [
+        {
+          "name": "Murda of Cal",
+          "url": "https://open.spotify.com/artist/576qFF81V85DFproLlFpil"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97855,
+      "name": "CASKET",
+      "url": "https://open.spotify.com/track/1hdnJ1FBLssiYNYshcFMET"
+    },
+    {
+      "album": {
         "name": "Catch 5 Freestyle",
         "url": "https://open.spotify.com/album/0YV4kHPRoUkv8ZRVdNIkjq"
       },
@@ -6896,7 +6936,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143775,
       "name": "DREAD",
       "url": "https://open.spotify.com/track/4oyodp4Qn7q7eypCzv3k8a"
@@ -11360,7 +11400,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 145777,
       "name": "Hodneh",
       "url": "https://open.spotify.com/track/5EqsYv2ksC9ctWgObZYja1"
@@ -13196,6 +13236,28 @@
       "duration_ms": 162666,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0w9pjfhWhJeb1IqACR3W18"
+    },
+    {
+      "album": {
+        "name": "JUST A DREAM",
+        "url": "https://open.spotify.com/album/5scA4lEKFVgL5Oa8JlT3dI"
+      },
+      "artists": [
+        {
+          "name": "Cutty Vibez",
+          "url": "https://open.spotify.com/artist/1UkCLh64SVsVv3oSjPlzGQ"
+        },
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159240,
+      "name": "JUST A DREAM",
+      "url": "https://open.spotify.com/track/7ok4792TJgOgqNZdhDE6fz"
     },
     {
       "album": {
@@ -17872,7 +17934,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180308,
       "name": "NO VIP",
       "url": "https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u"
@@ -18433,6 +18495,28 @@
     },
     {
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/3z1En0PNQ2rRTuvOSKoWio"
+      },
+      "artists": [
+        {
+          "name": "Dera Meelan",
+          "url": "https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp"
+        },
+        {
+          "name": "deadforest",
+          "url": "https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174507,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/1fiDWu41MlgwPowvyQYpUl"
+    },
+    {
+      "album": {
         "name": "ON GOD",
         "url": "https://open.spotify.com/album/4Wy6WV24i0Sbc86Fa39QIz"
       },
@@ -18756,7 +18840,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208526,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0xDFl6sorC2J6hVFxMwY9Q"
@@ -23917,6 +24001,32 @@
     },
     {
       "album": {
+        "name": "STAY ON TOP",
+        "url": "https://open.spotify.com/album/18CGW3xYObjsV7g6OC45lA"
+      },
+      "artists": [
+        {
+          "name": "Jaal",
+          "url": "https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh"
+        },
+        {
+          "name": "VOLDY",
+          "url": "https://open.spotify.com/artist/6xCeaVHW0IM4W0pK7InyAA"
+        },
+        {
+          "name": "IJALE",
+          "url": "https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "STAY ON TOP",
+      "url": "https://open.spotify.com/track/5XUc173YjC6mEaPoFqPJaW"
+    },
+    {
+      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/71E26CGhROyl6RCXpathME"
       },
@@ -24320,7 +24430,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177070,
       "name": "Suit Vibes",
       "url": "https://open.spotify.com/track/2NbmuqVPV3HT5Ki7WgL7Xy"
@@ -24858,7 +24968,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179874,
       "name": "TARA NA",
       "url": "https://open.spotify.com/track/1cx2ij3rr52WiEC5ZwIIYx"
@@ -28150,6 +28260,24 @@
       "duration_ms": 155050,
       "name": "Welcome to the West (feat. ENOS)",
       "url": "https://open.spotify.com/track/3ftSTGgBLSyYQQAfsKc6U2"
+    },
+    {
+      "album": {
+        "name": "West Auckland Shawty",
+        "url": "https://open.spotify.com/album/5kHPMLUqgwGsevdapYVMIB"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "West Auckland Shawty",
+      "url": "https://open.spotify.com/track/6K7df92p1EY2CaDjBtLMHK"
     },
     {
       "album": {

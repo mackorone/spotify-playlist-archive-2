@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Nikita Kering'",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Karun",
   "name": "NairoBae",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181861,
       "name": "Feel",
       "url": "https://open.spotify.com/track/5J1xo1NeFeSNgxtXajRBZL"
@@ -1288,6 +1288,28 @@
       "duration_ms": 169756,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb"
+    },
+    {
+      "album": {
+        "name": "Feel You",
+        "url": "https://open.spotify.com/album/64PIMvFZqwZyo20UPLniYN"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223953,
+      "name": "Feel You",
+      "url": "https://open.spotify.com/track/4iCzpvKmAqnQEoH1lxZBnQ"
     },
     {
       "album": {
@@ -1400,7 +1422,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 220909,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ"
@@ -3151,6 +3173,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "masala tea (with Matt Ngesa)",
+      "url": "https://open.spotify.com/track/2AOoQZUFENNf5c663stU20"
+    },
+    {
+      "album": {
         "name": "Mbali (Stripped Version)",
         "url": "https://open.spotify.com/album/6rVwUsa69ADOMkAH6ZOPx8"
       },
@@ -3738,6 +3782,24 @@
       "duration_ms": 237272,
       "name": "Ningelijua",
       "url": "https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2"
+    },
+    {
+      "album": {
+        "name": "Take Two: Grey",
+        "url": "https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP"
+      },
+      "artists": [
+        {
+          "name": "Joy Njokey",
+          "url": "https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Nipe Nafasi",
+      "url": "https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo"
     },
     {
       "album": {
@@ -4370,6 +4432,24 @@
       "duration_ms": 221503,
       "name": "REASON",
       "url": "https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF"
     },
     {
       "album": {
@@ -5366,7 +5446,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 100800,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS"

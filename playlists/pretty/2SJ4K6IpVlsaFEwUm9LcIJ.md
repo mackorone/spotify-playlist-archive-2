@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,892 likes - 52 songs - 3 hr 24 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,894 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 50 | [Faults](https://open.spotify.com/track/3dvxF0boVTu3aSIevH99sk) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Seefeel](https://open.spotify.com/album/1yPrCGFEmjdKKjmdo0I4Jd) | 5:45 |
 | 51 | [Miracles](https://open.spotify.com/track/1rYu6IaPWvIWkrSBlxwj8e) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:38 |
 | 52 | [You Were Sent to This World](https://open.spotify.com/track/2yxsfTZTOIvaT9C3EAdWkn) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:09 |
+| 53 | [the producer](https://open.spotify.com/track/2Wx54D8JPCgXHgUzxs1RGI) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [the producer](https://open.spotify.com/album/57GpcPS0MhI2AKU6DCd8O7) | 3:18 |
 
-Snapshot ID: `AAAN4R03e+xMtgGvMYZ1zn1Exrgu3G4h`
+Snapshot ID: `AAAN4n9E7oxvoQ5NLARyT6Y4SwIaSjWO`

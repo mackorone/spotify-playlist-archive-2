@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Myra \(du titre \#1 au \#15\).
 
-1,854 songs - 4 day 0 hr 12 min
+1,855 songs - 4 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1039,6 +1039,7 @@
 | [Ma sœur](https://open.spotify.com/track/4Jetvfhp8WfXO6t64dgeOM) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 2\)](https://open.spotify.com/album/2C9m59BGKQdNXNy1j59s4H) | 2:58 | 2022-02-01 | 2022-03-08 |
 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/5cjh58WGH7rads54ZGZ4cM) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Mauvaise idée \(Au pays des Merveilles\)](https://open.spotify.com/album/4IeHU1yMrCPJ09yoLn7thf) | 2:51 | 2025-04-02 | 2025-05-07 |
 | [Ma sœur \- Au pays des Merveilles](https://open.spotify.com/track/6qh2jwsacGlcDrfisUK1rq) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Ma sœur \(Au pays des Merveilles\)](https://open.spotify.com/album/1p5khQVG8G2P1rK7WWFt2k) | 2:51 | 2025-02-07 | 2025-03-05 |
+| [Ma tension](https://open.spotify.com/track/5LrpoGrSoEyhQOWKvHtXny) | [Aïshé](https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo) | [Ma tension](https://open.spotify.com/album/0VnKx5E7zvKQ8YHMKCZF4l) | 2:46 | 2026-02-03 |  |
 | [Ma Terre](https://open.spotify.com/track/7iXlZHf6HtYvU0AqbAjr9j) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Ma Terre](https://open.spotify.com/album/3rRwuezJjg5MCdzQKJJAyN) | 2:54 | 2023-02-28 | 2023-04-05 |
 | [ma vie](https://open.spotify.com/track/2gP0zx2aXlExkcAwMcT6g7) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [ma vie](https://open.spotify.com/album/6VnilxWyGbehZVzPiK2CiQ) | 3:08 | 2022-03-07 | 2022-04-06 |
 | [Ma vie](https://open.spotify.com/track/2DDZ4FdbuEaTlytVpVzY31) | [Madeleine](https://open.spotify.com/artist/0IESREgJ9Ea8rMsXfmR2S8) | [Ma vie](https://open.spotify.com/album/15yY2T81Oau56KQ5G7ePxC) | 2:56 | 2023-09-05 | 2023-10-04 |

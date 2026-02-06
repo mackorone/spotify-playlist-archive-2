@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Play (Deluxe)",
+        "url": "https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159075,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/5Z3BpQ8jZhyDLluo5QUfWS"
+    },
+    {
+      "album": {
         "name": "Sensationnel",
         "url": "https://open.spotify.com/album/4tvSihPpEkii5ncIcfRboA"
       },

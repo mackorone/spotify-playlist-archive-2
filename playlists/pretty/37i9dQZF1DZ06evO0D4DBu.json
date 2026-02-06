@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211374,
+  "num_followers": 211376,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADXCoQ6qyfzqDQ7F3UZL1yz",
+  "snapshot_id": "aYKMAAAAAAAFVbCWQoniTM5judydcCoy",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Drapetomania (feat. BabyChiefDoit)",
-      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 219683,
       "name": "Juke Jam (feat. Justin Bieber & Towkio)",
       "url": "https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Drapetomania (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
     },
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 203794,
       "name": "All We Got (feat. Kanye West & Chicago Children's Choir)",
       "url": "https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 221939,
       "name": "Blessings (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/2VQc9orzwE6a5qFfy54P6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 239250,
       "name": "Good Ass Intro",
       "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Nate Fox",
+          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
+        }
+      ],
+      "duration_ms": 139406,
+      "name": "Pusha Man",
+      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 267692,
       "name": "Tree (feat. Lil Wayne & Smino)",
       "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Nate Fox",
-          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
-        }
-      ],
-      "duration_ms": 139406,
-      "name": "Pusha Man",
-      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Star Side Intro",
-      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 184562,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Star Side Intro",
+      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
     },
     {
       "added_at": null,

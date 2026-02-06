@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,256 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,144 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 33 | [Te Supero](https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Supero](https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL) | 2:57 |
 | 34 | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd) | 3:15 |
 | 35 | [Sucia](https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Sucia](https://open.spotify.com/album/3RCECf2DGS5O9MhxaAda7g) | 2:59 |
-| 36 | [Adriana Lima](https://open.spotify.com/track/4hrXNAwzQH2ackEyYGcs9C) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Kris R](https://open.spotify.com/artist/5NPiUG3unuYKD9ZgwZv3FA), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [JET LAG](https://open.spotify.com/album/3aVYF4VDsnDaYrb8S9vac6) | 3:58 |
+| 36 | [Adriana Lima](https://open.spotify.com/track/4hrXNAwzQH2ackEyYGcs9C) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [JET LAG](https://open.spotify.com/album/3aVYF4VDsnDaYrb8S9vac6) | 3:58 |
 | 37 | [Tiempo](https://open.spotify.com/track/40DiiujpdznOHgNpLeydXF) | [King Nano](https://open.spotify.com/artist/5bUuG7EPZbIpQNyGrg453G), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Tiempo](https://open.spotify.com/album/5FlooItUpt11z0F4RE1hYW) | 1:40 |
 | 38 | [Me Llama](https://open.spotify.com/track/60aGmSo63mZ08uWR9WJsT2) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Me Llama](https://open.spotify.com/album/5ljVZ8P8bhQgMEe0GnAU7J) | 3:15 |
 | 39 | [Esquivé La Bala](https://open.spotify.com/track/5VvzJim4jFHADbBDyaGJx7) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Esquivé La Bala](https://open.spotify.com/album/1nSSCtAtONIVKh1DsXV2RZ) | 2:24 |

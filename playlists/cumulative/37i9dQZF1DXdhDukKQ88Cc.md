@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 de største nye rap hits i dk 🔥
+> 🔥 de største nye rap hits i dk 🔥 cover: Fouli
 
-493 songs - 21 hr 5 min
+495 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [FAT DET! \(feat\. Lamin\)](https://open.spotify.com/track/7w3iYJSO5jT1pMjnMd0Xe7) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [JORDEN KALDER](https://open.spotify.com/album/3bBxOm0CSB0oHoqVPIAz0h) | 2:59 | 2025-10-02 |  |
 | [FDH](https://open.spotify.com/track/3VNNWW4SLCCR0TnQGbRsJy) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [FDH](https://open.spotify.com/album/6Lnuh3LO1QLmOkUFKBNpLS) | 3:02 | 2025-10-09 | 2025-10-24 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 | 2024-10-04 |
+| [Februar Freestyle](https://open.spotify.com/track/0DyQV86Wwq9SlxtELN02xf) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Februar Freestyle](https://open.spotify.com/album/2CTnTJrK4jE2G76tMjyalO) | 1:23 | 2026-02-05 |  |
 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 | 2024-10-10 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 | 2023-11-11 |
 | [FEJLFRI](https://open.spotify.com/track/4AsiNZTuFAwk93V9DP7lt7) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [FEJLFRI](https://open.spotify.com/album/3Ol3v4wh1s4M1oK1xhyLpq) | 2:05 | 2025-01-09 | 2025-06-06 |
@@ -468,6 +469,7 @@
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2025-02-28 |
 | [Vamos A La Playa](https://open.spotify.com/track/2PDXHHYidd0ZD87O1I9PXD) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Vamos A La Playa](https://open.spotify.com/album/2rkp2HixxVLzgMioiStkIe) | 2:30 | 2025-06-19 | 2025-08-15 |
 | [VAN CLEEF](https://open.spotify.com/track/4I74Dshx4uU5g0GQ8FZxxe) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [VAN CLEEF](https://open.spotify.com/album/7inkiWgYZCgM7J7S5xeHsC) | 1:58 | 2025-06-26 | 2025-09-05 |
+| [Varm](https://open.spotify.com/track/4iFrwVS2GzHGAhHr2xafZG) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Varm](https://open.spotify.com/album/5l2oAgLpTdcUd5xKmgYNBW) | 2:54 | 2026-02-05 |  |
 | [Varm](https://open.spotify.com/track/1lbUYhKeMO2foKMwAhzOOI) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Varm](https://open.spotify.com/album/7oUWD1Zrf9s6LM8teafFBo) | 2:36 | 2025-08-28 | 2025-09-12 |
 | [Varm](https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Varm](https://open.spotify.com/album/32LP4nRRLtUfAlhezFc2LD) | 3:01 | 2024-01-16 | 2024-03-08 |
 | [Vejen Hjem Til Dig](https://open.spotify.com/track/53lXPicp2LuvmWcH5KoQfW) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Vejen Hjem Til Dig](https://open.spotify.com/album/3QkI3gLeecBzmxK9gMUvUe) | 2:15 | 2025-07-10 | 2025-08-08 |

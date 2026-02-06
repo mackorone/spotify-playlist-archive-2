@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,713 likes - 101 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,831 likes - 101 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

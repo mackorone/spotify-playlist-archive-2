@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-444 songs - 1 day 0 hr 22 min
+445 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-26 | 2024-02-09 |
 | [Down the Line](https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Down the Line](https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS) | 3:13 | 2024-05-23 | 2024-09-06 |
 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 | 2025-04-24 | 2025-05-23 |
-| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-16 |  |
+| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-10-16 | 2026-02-06 |
 | [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-09-04 |  |
 | [Dreaming](https://open.spotify.com/track/2iQGLQk81BqoA5cJCwTawF) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Dreaming](https://open.spotify.com/album/7iALUtKcf57yVL2ncziE0K) | 3:36 | 2025-05-01 | 2025-09-12 |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-13 |  |
@@ -196,7 +196,7 @@
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2025-01-30 | 2025-03-28 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 |  |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-16 | 2025-03-28 |
-| [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 | 2025-07-17 | 2026-02-02 |
+| [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 | 2025-07-17 |  |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-25 | 2024-03-15 |
 | [L\-O\-V\-E \- Long Version](https://open.spotify.com/track/4MymCsjbOkhuP2kWNSZgLo) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Best Of Joss Stone 2003 \- 2009](https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad) | 2:48 | 2024-04-25 | 2024-07-12 |
 | [La Notte](https://open.spotify.com/track/6yBKTcGR8HMXuIxDfRPTNZ) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [La Notte](https://open.spotify.com/album/3rbzqpdv5vxIa2URcR6bqR) | 4:51 | 2025-05-15 | 2025-09-26 |
@@ -356,7 +356,7 @@
 | [Slip Away](https://open.spotify.com/track/0B9QFGFixYDCLKzPmN45KV) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Second Guess](https://open.spotify.com/album/45uB4wf1JEzNmD7QZd6FAi) | 2:12 | 2024-05-30 | 2024-09-20 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2024-06-06 | 2024-10-11 |
 | [Slowdown](https://open.spotify.com/track/3olBzBt2hQTUz8mgbfQJ6Q) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp) | [Get Sick Get Better](https://open.spotify.com/album/2vgmK0FxvLfrDOMazgGWbo) | 3:33 | 2024-09-19 | 2025-01-31 |
-| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2026-02-06 |
 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-02 | 2024-09-20 |
 | [Sober Up](https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Lunch EP](https://open.spotify.com/album/64InF946FZ8kReuvMx8qn2) | 2:49 | 2024-09-19 | 2025-01-17 |
 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 | 2025-01-23 |  |
@@ -434,6 +434,7 @@
 | [Wasted Time](https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Wasted Time](https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj) | 3:44 | 2025-09-18 | 2025-12-04 |
 | [We Are The People](https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/6PpwY4y4jGTeojmWRGduUk) | 4:27 | 2024-10-03 | 2025-02-14 |
 | [West Side Jet](https://open.spotify.com/track/0m2Zkf8hxe53ixSJJaVMXy) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:06 | 2023-11-23 | 2024-02-16 |
+| [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 | 2026-02-05 |  |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-04-10 | 2025-05-16 |
 | [When I Go](https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [When I Go](https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K) | 4:17 | 2025-11-27 |  |
 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/7DrW56pQPjh9IssRHY5jcV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [WHEN YOU'RE WITH ME](https://open.spotify.com/album/2A3Ydj3xzNAanvUobhv2YN) | 3:18 | 2024-03-29 | 2024-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,078 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,079 likes - 49 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 16 | [When We Get Married](https://open.spotify.com/track/2kby7xDPA6M1dNpVWy5T8M) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Best Of The Intruders: Cowboys To Girls](https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3) | 3:21 |
 | 17 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 |
 | 18 | [\(So Glad I'm\) Yours](https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:47 |
-| 19 | [A Nice Girl Like You](https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:28 |
-| 20 | [Hang on in There](https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:22 |
+| 19 | [Hang on in There](https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:22 |
+| 20 | [A Nice Girl Like You](https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:28 |
 | 21 | [Me Tarzan, You Jane](https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:19 |
 | 22 | [Cry Together \- Live](https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:38 |
 | 23 | [Turn the Hands of Time](https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 48 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
 | 49 | [One In a Million](https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:13 |
 
-Snapshot ID: `aYE6gAAAAACsV4q1vAiZbk488bRV8/ky`
+Snapshot ID: `aYKMAAAAAADHwrpCooChlxclaMBiMozX`

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,089 songs - 2 day 6 hr 18 min
+1,090 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-26 | 2024-08-10 |
 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 | 2025-06-19 | 2025-07-04 |
 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 | 2025-08-23 | 2025-10-31 |
-| [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 | 2025-11-13 |  |
+| [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 | 2025-11-13 | 2026-02-06 |
 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 | 2025-07-10 | 2025-09-05 |
 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 | 2025-04-10 | 2025-09-05 |
 | [Mun Maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun Maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 | 2025-08-28 | 2025-09-12 |
@@ -757,6 +757,7 @@
 | [Rakasta mua](https://open.spotify.com/track/5dgrnNQ9mfNJ4Pgj602VeW) | [Kasmir](https://open.spotify.com/artist/2O6Va98fudK0E8rtu7Nm2Z) | [Rakasta mua](https://open.spotify.com/album/7vwXUsKguvh1TzScdVFqUv) | 3:32 | 2024-10-24 | 2024-11-15 |
 | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z) | 3:04 | 2024-09-05 | 2024-11-08 |
 | [rakastetuks](https://open.spotify.com/track/5hyeTEEoJq7V7B9SHr2NIc) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [rakastetuks](https://open.spotify.com/album/290UH7vRSjEj0jIP2CVr6d) | 2:21 | 2024-12-12 | 2025-01-10 |
+| [Rakastumisen oireet](https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Rakastumisen oireet](https://open.spotify.com/album/2cM5W1rwV48w6sdpp68RgA) | 2:38 | 2026-02-05 |  |
 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 | 2024-10-24 | 2024-12-03 |
 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 | 2025-09-18 | 2025-10-17 |
 | [Rakkaudenkipee](https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rakkaudenkipee](https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7) | 2:54 | 2026-01-23 |  |

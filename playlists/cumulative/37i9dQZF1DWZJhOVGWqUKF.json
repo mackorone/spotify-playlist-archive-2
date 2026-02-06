@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Papa Roach",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lost in Hollywood",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 209986,
       "name": "Bloodlust",
       "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
@@ -3613,6 +3613,32 @@
     },
     {
       "album": {
+        "name": "Deja vu (feat. Yours Truly)",
+        "url": "https://open.spotify.com/album/1WczfU7ipvFrg5RUsvmP9B"
+      },
+      "artists": [
+        {
+          "name": "Comastatic",
+          "url": "https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        },
+        {
+          "name": "Mikaila Delgado",
+          "url": "https://open.spotify.com/artist/6KT0sJVVBD6P3k12CyiNWe"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Deja vu (feat. Yours Truly)",
+      "url": "https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I"
+    },
+    {
+      "album": {
         "name": "God Of Angels Trust",
         "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
       },
@@ -3642,7 +3668,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 266007,
       "name": "Design",
       "url": "https://open.spotify.com/track/1Fm9LmUNwGuoVOQTp4sl5T"
@@ -4412,7 +4438,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 205963,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
@@ -5177,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Gamecube",
+        "url": "https://open.spotify.com/album/0j2tVMHhlbrnJcn8ghVWrD"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220729,
+      "name": "Gamecube",
+      "url": "https://open.spotify.com/track/0eyc1pbQAG88AO0DZ5qaHr"
+    },
+    {
+      "album": {
         "name": "Gasoline (All Rage Still Only Numb)",
         "url": "https://open.spotify.com/album/3e6DAPGeNe2rwiwBOmvqVR"
       },
@@ -5254,7 +5298,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 182132,
       "name": "GETCHA! (with Nic Cester, Jet & Chad Smith) - prod. Tom Morello",
       "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
@@ -5972,7 +6016,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 195840,
       "name": "Have You Nothing Left To Say",
       "url": "https://open.spotify.com/track/4731ECfaiQdRvPtE7ioKRN"
@@ -6298,7 +6342,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
@@ -6798,6 +6842,28 @@
       "duration_ms": 159588,
       "name": "I'll Be Back (feat. Arnold Schwarzenegger)",
       "url": "https://open.spotify.com/track/5I3lLjn74gkTscrhSprPwF"
+    },
+    {
+      "album": {
+        "name": "I'm A Diamond",
+        "url": "https://open.spotify.com/album/7sRd77dPb3aNRTKVBpWdOy"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        },
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208543,
+      "name": "I'm A Diamond",
+      "url": "https://open.spotify.com/track/3oVmmTiTkCDXDtBmxXqEGW"
     },
     {
       "album": {
@@ -7736,7 +7802,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
@@ -8122,6 +8188,28 @@
       "duration_ms": 220660,
       "name": "Love Is War",
       "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
+    },
+    {
+      "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
     },
     {
       "album": {
@@ -8841,6 +8929,24 @@
     },
     {
       "album": {
+        "name": "Murder Scene",
+        "url": "https://open.spotify.com/album/69xdy6jTcmgmCrZbd4ilob"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Murder Scene",
+      "url": "https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9"
+    },
+    {
+      "album": {
         "name": "My Blood",
         "url": "https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf"
       },
@@ -9252,7 +9358,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 206811,
       "name": "NO LIES.",
       "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
@@ -9454,7 +9560,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
@@ -10154,6 +10260,24 @@
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5519uUeWEM0X9G54yCr4pE"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179027,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/63QNo9BTld0Wo2xCJ0kg25"
     },
     {
       "album": {
@@ -11838,7 +11962,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
@@ -12373,6 +12497,24 @@
     },
     {
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/25nuF8vaXRRDnxlFCkvdnU"
+      },
+      "artists": [
+        {
+          "name": "The Art Of Boys",
+          "url": "https://open.spotify.com/artist/5iid1YYLkrRxV59dww7EtS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199542,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/15iV4qIK87w0xWJZQc2vun"
+    },
+    {
+      "album": {
         "name": "Suffocate",
         "url": "https://open.spotify.com/album/79H6WwnwmCS9KQdBrakLW6"
       },
@@ -12526,6 +12668,24 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/2OqOFjZQhUSHxUpzv8LBxW"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241848,
+      "name": "Supernatural 2.0",
+      "url": "https://open.spotify.com/track/635S2joARkhSeH8JP4aVHm"
     },
     {
       "album": {
@@ -13500,7 +13660,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171360,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2A07bT6ugm56ZPareRQVbr"
@@ -13688,6 +13848,24 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG"
     },
     {
       "album": {
@@ -15113,6 +15291,24 @@
     },
     {
       "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+    },
+    {
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -15150,6 +15346,24 @@
       "duration_ms": 97320,
       "name": "Your Misery",
       "url": "https://open.spotify.com/track/08Zdvv12TUEEkomxqj7l9m"
+    },
+    {
+      "album": {
+        "name": "Youthfully Naive",
+        "url": "https://open.spotify.com/album/2k2nW72B467Zc52UWKdjl0"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184263,
+      "name": "Youthfully Naive",
+      "url": "https://open.spotify.com/track/1ZgFCkLj3kjmHEUxKVSfor"
     },
     {
       "album": {

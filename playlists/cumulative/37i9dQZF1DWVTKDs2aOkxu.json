@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: JJerome87",
+  "description": "The best indie music of the moment. Cover: Noah Kahan",
   "name": "The Indie List",
   "tracks": [
     {
@@ -1768,6 +1768,24 @@
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
+    },
+    {
+      "album": {
+        "name": "Billy Elliot / Alone In Cologne",
+        "url": "https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191450,
+      "name": "Billy Elliot",
+      "url": "https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D"
     },
     {
       "album": {
@@ -6297,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "album": {
         "name": "I'm In Love (Subaru)",
         "url": "https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp"
       },
@@ -8335,6 +8371,24 @@
     },
     {
       "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
+    },
+    {
+      "album": {
         "name": "Mild To Moderate Pain",
         "url": "https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3"
       },
@@ -10314,6 +10368,24 @@
       "duration_ms": 161007,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom / Octopus",
+        "url": "https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250044,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9"
     },
     {
       "album": {

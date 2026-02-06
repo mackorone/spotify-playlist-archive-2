@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Lens, Shapes, Takura",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: S.P.Y",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -296,6 +296,28 @@
       "duration_ms": 237241,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/2Z0Za6JR9qE17tD54QSImJ"
+    },
+    {
+      "album": {
+        "name": "addicted",
+        "url": "https://open.spotify.com/album/7ilNCCJgJyYvjNg12CQEdi"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        },
+        {
+          "name": "EJ Kitto",
+          "url": "https://open.spotify.com/artist/0fxoWtq7LgOAwraAzdJWI1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "addicted",
+      "url": "https://open.spotify.com/track/4N7jhOTacFaofcBi5Xo4CZ"
     },
     {
       "album": {
@@ -6087,6 +6109,36 @@
     },
     {
       "album": {
+        "name": "Dub Box / Gangsta Ish",
+        "url": "https://open.spotify.com/album/1OaX10tUuTGbfXsoL9kph4"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Hurrian",
+          "url": "https://open.spotify.com/artist/1o4SiViM6NxklVjZP96KYE"
+        },
+        {
+          "name": "Kenny Ken",
+          "url": "https://open.spotify.com/artist/1TUBjNYgMN8tMLPWMe7gvL"
+        },
+        {
+          "name": "TOL",
+          "url": "https://open.spotify.com/artist/1meXwfj5sCqF0Xwba8zxjE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212100,
+      "name": "Dub Box",
+      "url": "https://open.spotify.com/track/6WivDKWuPkpZ6cykfgRu6p"
+    },
+    {
+      "album": {
         "name": "Dubplate SZN",
         "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
@@ -8326,7 +8378,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 183448,
       "name": "Get A Good Feeling",
       "url": "https://open.spotify.com/track/3GxOVUOw8hwoo1O1NVpcdO"
@@ -9316,7 +9368,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165517,
       "name": "Have A Look",
       "url": "https://open.spotify.com/track/1CmlkF17P6ilrtbGUeS9O4"
@@ -9998,7 +10050,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 212413,
       "name": "Hole",
       "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
@@ -14607,6 +14659,24 @@
     },
     {
       "album": {
+        "name": "nevermind",
+        "url": "https://open.spotify.com/album/5OD6GclEsXuPUHuhYvIDsG"
+      },
+      "artists": [
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "nevermind",
+      "url": "https://open.spotify.com/track/65HhTJGa6fTZxKjNY2p9kp"
+    },
+    {
+      "album": {
         "name": "Inner Untitled EP",
         "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
       },
@@ -16292,7 +16362,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165500,
       "name": "Personal Trainer",
       "url": "https://open.spotify.com/track/4QZH9wQ1F9NqFZJlorU4P2"
@@ -16332,7 +16402,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 226285,
       "name": "Phases",
       "url": "https://open.spotify.com/track/1Vhm1THfiygNz26B13LPOn"
@@ -20855,6 +20925,28 @@
     },
     {
       "album": {
+        "name": "Sweet Sound",
+        "url": "https://open.spotify.com/album/0mo7MihOONBKfKb6cAI4Qw"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266803,
+      "name": "Sweet Sound",
+      "url": "https://open.spotify.com/track/4YCkHYACVV91zOqLWDf1RV"
+    },
+    {
+      "album": {
         "name": "Swerve it",
         "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
       },
@@ -24118,6 +24210,28 @@
       "duration_ms": 158490,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf"
+    },
+    {
+      "album": {
+        "name": "WILD EYE",
+        "url": "https://open.spotify.com/album/3sHNJV8yamHgCKY15yI0px"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "JYXE",
+          "url": "https://open.spotify.com/artist/7zynwfdI6hovajsV2nwS1P"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251077,
+      "name": "WILD EYE",
+      "url": "https://open.spotify.com/track/0gtrxU4ivIMZWK2Xfy8c8m"
     },
     {
       "album": {

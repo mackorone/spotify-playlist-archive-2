@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Dusky",
+  "description": "The home for alternative electronic music. Cover: Daphni",
   "name": "Altar",
   "tracks": [
     {
@@ -3612,6 +3612,28 @@
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
+    },
+    {
+      "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/74wkNGfmzqnkZHMmz04ZR1"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149835,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
     },
     {
       "album": {
@@ -8415,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "find a reason",
+        "url": "https://open.spotify.com/album/2lLvOt2D410sXGO7qAJcXh"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249545,
+      "name": "find a reason",
+      "url": "https://open.spotify.com/track/69Pi3PmvFx9jJFy07vf4KU"
+    },
+    {
+      "album": {
         "name": "Find The Way",
         "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
       },
@@ -10371,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212909,
+      "name": "Hang",
+      "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
+    },
+    {
+      "album": {
         "name": "Hannah (The Sun)",
         "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
       },
@@ -11661,6 +11719,24 @@
     },
     {
       "album": {
+        "name": "I don't recognise you anymore",
+        "url": "https://open.spotify.com/album/5WutVmK4nqhhoE3Gjs47qO"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "I don't recognise you anymore",
+      "url": "https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru"
+    },
+    {
+      "album": {
         "name": "I Feel You (feat. Ell Murphy) [Edit]",
         "url": "https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku"
       },
@@ -12144,7 +12220,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 209850,
       "name": "If We Ever",
       "url": "https://open.spotify.com/track/1IgGwEIQkA7wEo1ewvxVsN"
@@ -18378,7 +18454,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 194304,
       "name": "Phase",
       "url": "https://open.spotify.com/track/3CESG19e31e3WpUaIblz50"
@@ -20810,7 +20886,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 382157,
       "name": "Schlecker",
       "url": "https://open.spotify.com/track/2CxQhe3wPxwhYOtOybKDBP"
@@ -26808,7 +26884,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191033,
       "name": "What Would You Do For Love",
       "url": "https://open.spotify.com/track/4VmzzryArFwY9PlMjO371w"

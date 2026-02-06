@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 63403,
+  "num_followers": 63449,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "More Than You Think You Are",
         "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 228706,
       "name": "Unwell",
       "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
     },
     {
       "added_at": "2024-07-12 15:02:20",

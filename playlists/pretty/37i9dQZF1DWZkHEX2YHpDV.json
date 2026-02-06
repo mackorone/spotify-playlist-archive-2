@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 444296,
+  "num_followers": 444273,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "Constant Headache",
+        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        },
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 181430,
+      "name": "Constant Headache",
+      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 205365,
       "name": "Concrete Closure",
       "url": "https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "Constant Headache",
-        "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        },
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 181430,
-      "name": "Constant Headache",
-      "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "american zombie",
-        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 153211,
-      "name": "american zombie",
-      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "WHERE DID ALL THE BUTTERFLIES GO?",
         "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 181866,
       "name": "HEART AWAY",
       "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "american zombie",
+        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 153211,
+      "name": "american zombie",
+      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "BLINK AND YOU'LL MISS IT//",
-        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 168975,
-      "name": "MARRY KILL F*CK//",
-      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
         "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 214800,
       "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
       "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "BLINK AND YOU'LL MISS IT//",
+        "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 168975,
+      "name": "MARRY KILL F*CK//",
+      "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
         "name": "Island in the Sun",
         "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 149606,
       "name": "Island in the Sun (feat. Cory Castro of Free Throw)",
       "url": "https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-09 05:00:25",

@@ -640,10 +640,36 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 196933,
       "name": "End roll",
       "url": "https://open.spotify.com/track/0WKB31BWP8DLFCpSQxGQNb"
+    },
+    {
+      "album": {
+        "name": "ENDROLL",
+        "url": "https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy"
+      },
+      "artists": [
+        {
+          "name": "Yoohei Kawakami",
+          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
+        },
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2026-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182772,
+      "name": "ENDROLL",
+      "url": "https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg"
     },
     {
       "album": {

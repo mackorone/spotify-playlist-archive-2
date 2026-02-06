@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08lhIY.md) - [plain]
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,022 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08lhIY.md) - [plain]
 | 7 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 |
 | 8 | [Daily](https://open.spotify.com/track/4B1jKLUVBmrJb4ZZj4kpxf) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 2:56 |
 | 9 | [Brighter Day](https://open.spotify.com/track/3IQGgI3YOn3HGlrZECYs0K) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pilgrim's Road](https://open.spotify.com/album/3NtuWd8mZObFRl6JyIhyy0) | 2:35 |
-| 10 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 |
-| 11 | [Put It On God](https://open.spotify.com/track/631M9FKCXEdoBAgtCrrhbE) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:37 |
+| 10 | [Put It On God](https://open.spotify.com/track/631M9FKCXEdoBAgtCrrhbE) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:37 |
+| 11 | [Ifunanya](https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Ifunanya](https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e) | 3:38 |
 | 12 | [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 |
 | 13 | [Pretty Day](https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Pretty Day](https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv) | 2:34 |
 | 14 | [Over](https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Over](https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08lhIY.md) - [plain]
 | 49 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 50 | [Dance](https://open.spotify.com/track/1eW5YnUvCIhS5VKFfs3dIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Eclipse Nkasi](https://open.spotify.com/artist/5W0ju8WxXttippwJWclXj4) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 2:16 |
 
-Snapshot ID: `aYE6gAAAAAB3y5r7J884wKRnhyqXaDQp`
+Snapshot ID: `aYKMAAAAAACa2citR9PBAOdd79nEP23m`

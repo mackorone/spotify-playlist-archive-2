@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > just might make her my baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,568 likes - 56 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,772 likes - 56 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,569 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,574 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 20 | [Palácio para Deus](https://open.spotify.com/track/75UPMELAkoXfP0iae3no60) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 5:38 |
 | 21 | [O Verdadeiro Amor](https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Verdadeiro Amor](https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga) | 4:43 |
 | 22 | [Eternidade](https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 5:48 |
-| 23 | [Ouço Deus Me Chamar](https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Ouço Deus Me Chamar](https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd) | 4:58 |
-| 24 | [Calma](https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 6:25 |
+| 23 | [Calma](https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 6:25 |
+| 24 | [Ouço Deus Me Chamar](https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Ouço Deus Me Chamar](https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd) | 4:58 |
 | 25 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 4:01 |
 | 26 | [Teu Trabalho é Descansar em Mim](https://open.spotify.com/track/32gfLurcakWc6FxW4Lyqi0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9) | 5:15 |
-| 27 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
-| 28 | [O Caminho do Milagre](https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 5:36 |
+| 27 | [O Caminho do Milagre](https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC) | 5:36 |
+| 28 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
 | 29 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
 | 30 | [Tempo de Cura](https://open.spotify.com/track/7FHUxm8Tn3jtBQS6HolOzB) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5) | 6:15 |
 | 31 | [O Consolo para o Incosolável](https://open.spotify.com/track/5knIY1MSvFnpxKZbARx48T) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 5: Ainda é Tempo](https://open.spotify.com/album/5gCeUSSomeJc13BwTVnHo2) | 6:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [24 Horas por Dia](https://open.spotify.com/track/0q2IaFuTugawJaDdSXYtGz) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 4 \- 24h por Dia](https://open.spotify.com/album/6Lb5rw6PRIF5TQc9JW4klj) | 4:15 |
 | 50 | [Eu Dependo de Deus](https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 5:01 |
 
-Snapshot ID: `aYE6gAAAAAA5T89Y2T3gmvgBij6FO/NA`
+Snapshot ID: `aYKMAAAAAABqMgO8eh6sTrHtOi4imvaI`

@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Bernadya",
-  "num_followers": 27022,
+  "num_followers": 27024,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,18 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Titik Nadir",
-        "url": "https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh"
+        "name": "Menerima Luka",
+        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
       },
       "artists": [
         {
-          "name": "Kahitna",
-          "url": "https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
         }
       ],
-      "duration_ms": 245462,
-      "name": "Titik Nadir (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p"
+      "duration_ms": 228073,
+      "name": "Menerima Luka",
+      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
     },
     {
       "added_at": "2026-01-30 11:45:04",
@@ -487,18 +483,22 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Menerima Luka",
-        "url": "https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q"
+        "name": "Titik Nadir",
+        "url": "https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh"
       },
       "artists": [
         {
-          "name": "Natasya Sabella",
-          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+          "name": "Kahitna",
+          "url": "https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 228073,
-      "name": "Menerima Luka",
-      "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
+      "duration_ms": 245462,
+      "name": "Titik Nadir (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p"
     },
     {
       "added_at": "2026-01-30 11:45:04",

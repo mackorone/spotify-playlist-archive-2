@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 587 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kiYWz.md) - [plain]
 | 32 | [Sombra De Un Adiós](https://open.spotify.com/track/42rSEvWPF6GMvsNY5oqMjU) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Antología \(1994\-2007\)](https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB) | 3:29 |
 | 33 | [Juliana](https://open.spotify.com/track/6qwH1tErqu8MY2cGc9AqVS) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 5:36 |
 | 34 | [Después De La Lluvia](https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 2:09 |
-| 35 | [Cuando Cierro Los Ojos](https://open.spotify.com/track/5CJ5d66Yg9aJ864gYkILmE) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:32 |
-| 36 | [Oscura Niña](https://open.spotify.com/track/5BVI3hvrd4gU8ez6u9AqWE) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:44 |
+| 35 | [Oscura Niña](https://open.spotify.com/track/5BVI3hvrd4gU8ez6u9AqWE) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 3:44 |
+| 36 | [Cuando Cierro Los Ojos](https://open.spotify.com/track/5CJ5d66Yg9aJ864gYkILmE) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:32 |
 | 37 | [Tus Ojos](https://open.spotify.com/track/4jZ5rDnj9G1t2df1QTG33q) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:00 |
 | 38 | [Solo Hoy Día](https://open.spotify.com/track/3bJM7hNIC71HGDMlhA7ZWb) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Baladas](https://open.spotify.com/album/5yp0cKV6jqbtjBZEgI5qQN) | 3:33 |
-| 39 | [Stonepatty](https://open.spotify.com/track/09ZzcDrbIHxdWSJBX3uZKc) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 3:39 |
-| 40 | [Otra Tarde](https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 2:41 |
+| 39 | [Otra Tarde](https://open.spotify.com/track/0iLwRAM4YXI76Mtzwwg20t) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 2:41 |
+| 40 | [Esa Noche](https://open.spotify.com/track/6eXTUe8osVWW0L3P1jjOhR) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Contraluz](https://open.spotify.com/album/5Hz2qdF1u8mOHZKq8WBmwD) | 4:43 |
 | 41 | [Cine Star](https://open.spotify.com/track/01qUPw8i09V8nDcD8SnzLO) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:47 |
 | 42 | [Solo](https://open.spotify.com/track/1wHMJnzd9EmKK3kGD7Y8WV) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 5:03 |
-| 43 | [El Secreto \( En Vivo\)](https://open.spotify.com/track/6IaXpvo7TDorwXLYdTcbW3) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Siempre Estuviste Ahí](https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R) | 6:00 |
-| 44 | [El Solitario](https://open.spotify.com/track/72cv5xABs1SpXkc48EmXds) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 4:56 |
+| 43 | [El Solitario](https://open.spotify.com/track/72cv5xABs1SpXkc48EmXds) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Adicción](https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv) | 4:56 |
+| 44 | [El Secreto \( En Vivo\)](https://open.spotify.com/track/6IaXpvo7TDorwXLYdTcbW3) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Siempre Estuviste Ahí](https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R) | 6:00 |
 | 45 | [Un Lugar en Tu Mente](https://open.spotify.com/track/1wEBoL596AlzF1h2E6lkTr) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 4:17 |
 | 46 | [El Hombre Sin Nombre](https://open.spotify.com/track/3D0jQkIAwzPxQVrJS8jCC1) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 5:05 |
 | 47 | [El Diablo \(En Vivo\)](https://open.spotify.com/track/5JsWKLiaYIc0A7qKpyFc4x) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 2:43 |
 | 48 | [Niebla](https://open.spotify.com/track/6WQVbZqLH7hYZmTHMt1Gup) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 3:49 |
 | 49 | [Paranoia](https://open.spotify.com/track/5H1H426cqJ5IekT0NDrLhG) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:48 |
-| 50 | [Círculos](https://open.spotify.com/track/0zgG9gxJHOw4VfNhtMtio1) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 4:19 |
+| 50 | [Invisible](https://open.spotify.com/track/7F7au7a9ZDSeu2f3fFAW7w) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:53 |
 
-Snapshot ID: `aYE6gAAAAACybkW1RCeiuS3OtMbLw3Wl`
+Snapshot ID: `aYKMAAAAAAA4/U6Is/+ztXgk9KIP0yOI`

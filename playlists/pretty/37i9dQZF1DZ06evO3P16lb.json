@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAACha11wlYDrIie+O6rJZJ6",
+  "snapshot_id": "aYKMAAAAAAAW8ob5J5PHdMQOdDaSkOlE",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Ganas de Llorar",
-        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Rojas",
-          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Tengo Ganas de Llorar",
-      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Crossover",
         "url": "https://open.spotify.com/album/3EcLIq8s4OCRItWoxsODd0"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 194446,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/4XQtAK4J1oyqbiRDgovd3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tengo Ganas de Llorar",
+        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Tengo Ganas de Llorar",
+      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "added_at": null,

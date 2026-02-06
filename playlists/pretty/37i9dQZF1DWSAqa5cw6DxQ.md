@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,916 likes - 132 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,958 likes - 132 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 131 | [Forward](https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Forward](https://open.spotify.com/album/6VeJTPvH1U28Ne2MCK3q1L) | 3:09 |
 | 132 | [The Fairy](https://open.spotify.com/track/0odrQFaaByD2k8yPfBnHOj) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [The Fairy](https://open.spotify.com/album/6NlN1PcgtCjjHOW0r33hd9) | 2:00 |
 
-Snapshot ID: `AAAAALTBy3I+cOtsezl+jsylxnzS/uxz`
+Snapshot ID: `AAAAAK0p+V/ULZcnaBt1ep5vddwX3xAQ`

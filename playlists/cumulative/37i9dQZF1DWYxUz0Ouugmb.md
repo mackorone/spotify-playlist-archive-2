@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: The Lantis
+> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: Deborah Hanna
 
-313 songs - 20 hr 19 min
+314 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Ambang Rindu](https://open.spotify.com/track/72zTmEfdntRbZMxivVALf8) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Ambang Rindu](https://open.spotify.com/album/27wzqnJ2yA8FnG6mWws5So) | 3:23 | 2025-05-01 |  |
 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 | 2023-10-08 | 2024-03-29 |
 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 | 2023-10-11 |
+| [Anehnya](https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Anehnya](https://open.spotify.com/album/6BdacKiLHankUB5KLV381U) | 3:30 | 2026-02-05 |  |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2025-04-15 |  |
 | [Angin Rindu](https://open.spotify.com/track/7i5S9v9fiN6Vuqy5Hf9KbR) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:18 | 2025-12-04 | 2026-01-17 |

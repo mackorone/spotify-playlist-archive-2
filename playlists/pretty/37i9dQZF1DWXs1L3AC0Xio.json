@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 806407,
+  "num_followers": 806476,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Scars - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "No Code",
         "url": "https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 345767,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Scars - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 283528,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": ".5: The Gray Chapter (Special Edition)",
         "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 275133,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 283528,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "How Did You Love - Piano Version",
-      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "How Did You Love - Piano Version",
+      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2024-06-26 02:18:14",

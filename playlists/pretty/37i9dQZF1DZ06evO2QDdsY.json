@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACW1Pm88KhvZJu0BaM7XSWY",
+  "snapshot_id": "aYKMAAAAAABn8bISk3n36E0rNkoLEzgw",
   "tracks": [
     {
       "added_at": null,
@@ -522,15 +522,11 @@
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
         }
       ],
-      "duration_ms": 125613,
-      "name": "Changed (Feat. The Blind Boys Of Alabama)",
-      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -590,11 +586,15 @@
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 125613,
+      "name": "Changed (Feat. The Blind Boys Of Alabama)",
+      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
     },
     {
       "added_at": null,

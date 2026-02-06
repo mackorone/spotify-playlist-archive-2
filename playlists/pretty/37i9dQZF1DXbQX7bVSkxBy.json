@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 54893,
+  "num_followers": 54926,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPcXsugea4E6l7Y7LBXk3hBV987X",
+  "snapshot_id": "AAAAAOkowCxqYGyqkbxw7sGbiBPBR7Lf",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -89,6 +89,46 @@
       "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
+      "added_at": "2026-02-06 00:01:25",
+      "album": {
+        "name": "Goodness and Mercy EP (Remix Pack)",
+        "url": "https://open.spotify.com/album/3QEThaWEvvLGcelXMl0Wqz"
+      },
+      "artists": [
+        {
+          "name": "Quiz Tha Great",
+          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Miracle Paul",
+          "url": "https://open.spotify.com/artist/6ZvSmcIH1micTn33U67yU0"
+        }
+      ],
+      "duration_ms": 134042,
+      "name": "Rap Version with Drakare & Miracle Paul - Remix",
+      "url": "https://open.spotify.com/track/0nS2qUdNX1v0I4FLz572N3"
+    },
+    {
+      "added_at": "2025-12-12 00:01:22",
+      "album": {
+        "name": "YATO",
+        "url": "https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE"
+      },
+      "artists": [
+        {
+          "name": "Uniekgrace",
+          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
+        }
+      ],
+      "duration_ms": 225142,
+      "name": "Ire",
+      "url": "https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4"
+    },
+    {
       "added_at": "2025-06-06 00:01:28",
       "album": {
         "name": "Move Your Heart",
@@ -123,38 +163,6 @@
       "duration_ms": 465744,
       "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
-    },
-    {
-      "added_at": "2025-12-12 00:01:22",
-      "album": {
-        "name": "YATO",
-        "url": "https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE"
-      },
-      "artists": [
-        {
-          "name": "Uniekgrace",
-          "url": "https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7"
-        }
-      ],
-      "duration_ms": 225142,
-      "name": "Ire",
-      "url": "https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -453,24 +461,20 @@
       "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 646239,
-      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
-      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -505,6 +509,42 @@
       "url": "https://open.spotify.com/track/2QbgofsZEpfnFtEEis9TIN"
     },
     {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 646239,
+      "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
+      "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Look Now",
+      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
+    },
+    {
       "added_at": "2025-07-18 00:01:14",
       "album": {
         "name": "Peace",
@@ -523,22 +563,6 @@
       "duration_ms": 455007,
       "name": "Goodness of God",
       "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -737,22 +761,6 @@
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 406680,
-      "name": "Defe Defe",
-      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
-    },
-    {
       "added_at": "2025-10-10 00:01:08",
       "album": {
         "name": "Race To Peace",
@@ -767,6 +775,22 @@
       "duration_ms": 157500,
       "name": "Follow Your Lead",
       "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+      },
+      "artists": [
+        {
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+        }
+      ],
+      "duration_ms": 406680,
+      "name": "Defe Defe",
+      "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -963,22 +987,6 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     }
   ],
   "unique_name": "Testify",

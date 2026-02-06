@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-126 songs - 5 hr 44 min
+127 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2024-06-28 |  |
 | [Blood on My Hands](https://open.spotify.com/track/0VaFr38OtY9nqx0HPBJhEz) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Blood on My Hands](https://open.spotify.com/album/0OzjJ6qBaDig8Aw1N9U9ot) | 1:53 | 2024-09-27 | 2024-10-09 |
 | [BOMB O \- Remix](https://open.spotify.com/track/3DHs9UPrIWgAuA1mljQmcm) | [Suki vibes](https://open.spotify.com/artist/5wh8YjfhRuGYThKiaCJNjG), [Flexbee](https://open.spotify.com/artist/3bawMwgTfnuWed0ZAPerB0), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [BOMB O \(Remix\)](https://open.spotify.com/album/5DvURo9wd7asbPw2DDMhzK) | 2:09 | 2025-03-14 | 2025-04-01 |
+| [BORN TO BE GREAT](https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BORN TO BE GREAT](https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx) | 2:53 | 2026-02-06 |  |
 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 | 2024-06-28 |  |
 | [Brothers](https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Brothers](https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk) | 2:24 | 2024-09-13 | 2025-06-20 |
 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 | 2025-05-16 |  |
@@ -28,7 +29,7 @@
 | [Cook Am](https://open.spotify.com/track/0AXTVrKCqLurcWjXbSvHTj) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Cook Am](https://open.spotify.com/album/53q75yUL8e430MaixPemmQ) | 2:15 | 2025-08-01 |  |
 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 | 2025-05-09 |  |
 | [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-06-28 | 2024-09-13 |
-| [Disintegrate](https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:29 | 2024-06-28 |  |
+| [Disintegrate](https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:29 | 2024-06-28 | 2026-02-06 |
 | [Drip Check](https://open.spotify.com/track/2ienTom7OQzZ4Ejfur3QJb) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Drip Check \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6wZAQhyso6laiIvWHdUz55) | 2:19 | 2024-06-28 | 2025-09-26 |
 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 | 2024-06-28 | 2024-09-20 |
 | [Ego](https://open.spotify.com/track/2KpBEUqfK2LkScRRxB413X) | [Trench RB](https://open.spotify.com/artist/7GO9ysAvMiz5BK2vNikd2G) | [Ego](https://open.spotify.com/album/6WVEZFxbQAjrywuE6J8OOr) | 2:59 | 2025-07-18 |  |

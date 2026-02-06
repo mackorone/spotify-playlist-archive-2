@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: CQ Wrestling
+> The UK's biggest rock playlist\. Cover: Power Snatch
 
-1,253 songs - 2 day 22 hr 2 min
+1,256 songs - 2 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Always On My Mind](https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Always On My Mind](https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi) | 3:31 | 2025-08-21 | 2025-10-17 |
 | [Am I Even A Man](https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk2](https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72) | 3:13 | 2023-10-26 | 2024-02-02 |
 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-06 | 2024-10-04 |
+| [Among Us](https://open.spotify.com/track/1Y2jMKYV1AHOoQK86jQz4p) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Among Us](https://open.spotify.com/album/2bsMoW7MNpApKqy04JfTkK) | 3:20 | 2026-02-06 |  |
 | [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-17 | 2025-03-07 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-07 | 2023-10-27 |
 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 | 2023-01-13 | 2023-02-03 |
@@ -102,6 +103,7 @@
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-17 | 2025-10-03 |
 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 | 2025-10-23 |  |
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-15 | 2024-03-08 |
+| [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-06 |  |
 | [At My Funeral](https://open.spotify.com/track/6nAxsEyZ0vqBD20pxekiM6) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [At My Funeral](https://open.spotify.com/album/6a2HlswbGa0B04bHH8plK0) | 2:32 | 2025-07-17 | 2025-09-12 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-29 | 2023-11-24 |
 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 | 2024-09-20 | 2025-01-17 |
@@ -139,7 +141,7 @@
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 | 2023-10-06 |
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 | 2024-11-15 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-08-16 |
-| [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 | 2025-12-05 |  |
+| [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 | 2025-12-05 | 2026-02-06 |
 | [Birthday Party](https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Birthday Party](https://open.spotify.com/album/7vauaZbyhkFCFizAC9LNY7) | 3:17 | 2023-09-14 | 2023-11-17 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 | 2024-01-12 |
@@ -575,6 +577,7 @@
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 | 2025-08-01 |
 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 | 2024-05-02 | 2024-07-27 |
 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 | 2024-07-04 | 2024-10-04 |
+| [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-06 |  |
 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 | 2024-08-15 | 2024-11-01 |
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2023-01-13 | 2023-02-24 |
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-08-24 | 2023-11-03 |
@@ -976,7 +979,7 @@
 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 | 2025-03-07 | 2025-04-18 |
 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 | 2024-04-05 | 2024-06-07 |
 | [SLUGLIFE](https://open.spotify.com/track/1NHC32sx6ZrSgoEid0U496) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/3u7Yzw75rdt8wfPGISf8N9) | 4:43 | 2026-01-09 | 2026-01-30 |
-| [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 | 2026-01-16 |  |
+| [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 | 2026-01-16 | 2026-02-06 |
 | [Small World Syndrome](https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Small World Syndrome](https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5) | 2:45 | 2025-07-17 | 2025-08-08 |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 | 2025-06-20 |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2024-03-08 | 2024-03-09 |
@@ -1245,7 +1248,7 @@
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 | 2024-06-07 |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-05 | 2024-11-22 |
 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 | 2025-10-09 |  |
-| [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 | 2025-11-07 |  |
+| [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 | 2025-11-07 | 2026-02-06 |
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-08 | 2024-10-25 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 | 2024-03-15 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-18 | 2023-06-16 |

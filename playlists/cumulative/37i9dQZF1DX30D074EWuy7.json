@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
+  "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
   "name": "Jazz Italia",
   "tracks": [
     {
@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 226693,
       "name": "Jazz Carnival",
       "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
@@ -11572,6 +11572,24 @@
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+    },
+    {
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "album": {

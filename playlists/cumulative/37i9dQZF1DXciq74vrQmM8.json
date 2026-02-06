@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. COUCOU CHLOE",
+  "description": "welcome to our universe ft. ecca vandal",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "ASSIGNMENT",
+        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+      },
+      "artists": [
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143891,
+      "name": "ASSIGNMENT",
+      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
+    },
+    {
+      "album": {
         "name": "hawthorne81 / atoms",
         "url": "https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV"
       },
@@ -2060,6 +2078,24 @@
       "duration_ms": 129171,
       "name": "BLAST",
       "url": "https://open.spotify.com/track/1KFoSgEXNktySoRzA3dQwT"
+    },
+    {
+      "album": {
+        "name": "BLEACH",
+        "url": "https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148071,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR"
     },
     {
       "album": {
@@ -14690,7 +14726,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 200698,
       "name": "My Queen (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
@@ -18787,6 +18823,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269220,
+      "name": "Slave to the Rithm",
+      "url": "https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq"
       },
@@ -21000,6 +21058,24 @@
       "duration_ms": 131047,
       "name": "Tired",
       "url": "https://open.spotify.com/track/39OLKv0t5sBBoOCjbNwfFb"
+    },
+    {
+      "album": {
+        "name": "Tissues",
+        "url": "https://open.spotify.com/album/4iJHHK9rAPfifV0KSGZBmm"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128178,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/62bfW3EPm01YSEPogb4gdp"
     },
     {
       "album": {

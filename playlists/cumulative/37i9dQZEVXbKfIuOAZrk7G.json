@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -4790,7 +4790,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
@@ -7716,7 +7716,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-12",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -8460,6 +8460,24 @@
       "duration_ms": 214910,
       "name": "Be Faithful",
       "url": "https://open.spotify.com/track/2jGUAB6hKlzK0pZmZpQ02g"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology - 1974-1981",
+        "url": "https://open.spotify.com/album/7rCpFovU7itXZjSXnbvWeg"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
     },
     {
       "album": {
@@ -33975,6 +33993,32 @@
     },
     {
       "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "HEAVENLY JUMPSTYLE",
+      "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
+    },
+    {
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -38328,7 +38372,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -55712,7 +55756,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -55730,7 +55774,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -59010,7 +59054,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -60388,6 +60432,24 @@
       "duration_ms": 206864,
       "name": "One Thing At A Time",
       "url": "https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo"
+    },
+    {
+      "album": {
+        "name": "ONE TRACK MIND",
+        "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "ONE TRACK MIND",
+      "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
     },
     {
       "album": {
@@ -63508,7 +63570,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 185788,
       "name": "Plastic Cigarette",
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
@@ -76421,6 +76483,24 @@
     },
     {
       "album": {
+        "name": "String By",
+        "url": "https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "String By",
+      "url": "https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -80050,7 +80130,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
@@ -80822,7 +80902,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/7mFYoVfIh5JXfiUAQqSRYu"
@@ -87864,7 +87944,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"

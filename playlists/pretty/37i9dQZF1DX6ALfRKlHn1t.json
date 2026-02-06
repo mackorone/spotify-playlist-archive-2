@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1147210,
+  "num_followers": 1147157,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 221440,
       "name": "Sick Love",
       "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
     },
     {
       "added_at": "2025-10-10 04:00:44",
@@ -984,7 +984,7 @@
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
+          "name": "alexsucks",
           "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
-      },
-      "artists": [
-        {
-          "name": "The Moss",
-          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
-        }
-      ],
-      "duration_ms": 192135,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
+      },
+      "artists": [
+        {
+          "name": "The Moss",
+          "url": "https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma"
+        }
+      ],
+      "duration_ms": 192135,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
     },
     {
       "added_at": "2025-10-10 04:00:44",

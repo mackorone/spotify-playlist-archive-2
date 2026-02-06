@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -418,7 +418,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 329491,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf"
@@ -708,6 +708,24 @@
       "duration_ms": 198375,
       "name": "Algo Est\u00e1 Ardiendo",
       "url": "https://open.spotify.com/track/6w0lW9Xddc43207cyvAFdA"
+    },
+    {
+      "album": {
+        "name": "Algo parecido a un sue\u00f1o",
+        "url": "https://open.spotify.com/album/1i6BvSBmf4FbPDqEYD8rQI"
+      },
+      "artists": [
+        {
+          "name": "091",
+          "url": "https://open.spotify.com/artist/0A6WBpDrr0afYnqRMvc7OC"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289559,
+      "name": "Algo parecido a un sue\u00f1o",
+      "url": "https://open.spotify.com/track/0NwaukBazxzWN6X5Pjqo3z"
     },
     {
       "album": {
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 279726,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq"
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 333786,
       "name": "Cose mis heridas",
       "url": "https://open.spotify.com/track/4auTDrnz8Vwp2pw204hPFG"
@@ -2620,6 +2638,24 @@
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
+    },
+    {
+      "album": {
+        "name": "Creer que se puede creer",
+        "url": "https://open.spotify.com/album/6iP3w8cVNii5byLRq14gWO"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254987,
+      "name": "Creer que se puede creer",
+      "url": "https://open.spotify.com/track/39ZqBeYIp9vDAJU8SfXDRB"
     },
     {
       "album": {
@@ -2710,7 +2746,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -5550,7 +5586,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 218801,
       "name": "Flores de mentira",
       "url": "https://open.spotify.com/track/5ufhJV6z7END5mOa6vypvu"
@@ -5620,7 +5656,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180032,
       "name": "Fotos felices",
       "url": "https://open.spotify.com/track/5PAi9AU6U4nt6hEVl8MUBD"
@@ -7268,7 +7304,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 196544,
       "name": "La Suerte",
       "url": "https://open.spotify.com/track/33hw37ABEyRW0IeC3KE6Zz"
@@ -7532,7 +7568,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 111889,
       "name": "Las Clenchas",
       "url": "https://open.spotify.com/track/5JEqMj5ok1B8u5RAku3QjF"
@@ -8609,6 +8645,24 @@
     },
     {
       "album": {
+        "name": "Mar sin fondo",
+        "url": "https://open.spotify.com/album/4UrxToC82W4vVM0Y9a38VK"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230434,
+      "name": "Mar sin fondo",
+      "url": "https://open.spotify.com/track/0Hu3LEEuyI2yciMzdgL9MV"
+    },
+    {
+      "album": {
         "name": "El monte de los aullidos",
         "url": "https://open.spotify.com/album/6V4kLiUC505wnvGWqfnys1"
       },
@@ -9354,6 +9408,24 @@
       "duration_ms": 227992,
       "name": "Na de na",
       "url": "https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36"
+    },
+    {
+      "album": {
+        "name": "Gente Estridente",
+        "url": "https://open.spotify.com/album/2FWtIR7EW8caMUjm7LweWL"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188193,
+      "name": "Nada conmigo",
+      "url": "https://open.spotify.com/track/5eVwhSR37ARRpz97eoCgEz"
     },
     {
       "album": {
@@ -10156,7 +10228,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 118464,
       "name": "Oye c\u00f3mo vienes",
       "url": "https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k"
@@ -10602,7 +10674,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
@@ -13645,6 +13717,24 @@
     },
     {
       "album": {
+        "name": "Vamos a vernos",
+        "url": "https://open.spotify.com/album/1wxQVCJguKRwQbZaAZWBj0"
+      },
+      "artists": [
+        {
+          "name": "Santero y Los Muchachos",
+          "url": "https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230944,
+      "name": "Vamos a vernos",
+      "url": "https://open.spotify.com/track/1tNqo3BLZdPNoX2ffLU4oV"
+    },
+    {
+      "album": {
         "name": "Vaya Bendici\u00f3n",
         "url": "https://open.spotify.com/album/4fmAFTYsQZiGycuhMNegXT"
       },
@@ -14052,7 +14142,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 262933,
       "name": "Welcome To Plastic World",
       "url": "https://open.spotify.com/track/3JEFG8utrUbXIYE2fphLoq"

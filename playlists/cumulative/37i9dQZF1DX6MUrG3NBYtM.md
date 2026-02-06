@@ -4,7 +4,7 @@
 
 > Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
 
-275 songs - 16 hr 45 min
+277 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-09-26 | 2024-10-04 |
 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 | 2025-01-13 | 2025-06-24 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-27 | 2025-12-05 |
+| [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2026-02-05 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2025-01-23 | 2025-06-24 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2024-06-26 | 2024-07-12 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-26 | 2024-09-27 |
@@ -40,7 +41,7 @@
 | [Carousel](https://open.spotify.com/track/7ocAvaTpjF1vam2JOPTEzT) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Carousel](https://open.spotify.com/album/5KWWRRNGGOIkMsVXjsIrD6) | 2:23 | 2025-10-21 | 2026-01-15 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-25 | 2025-11-15 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-11-22 | 2025-06-24 |
-| [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 | 2025-08-29 |  |
+| [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 | 2025-08-29 | 2026-02-06 |
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-09-24 | 2025-02-08 |
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2024-06-26 | 2024-07-12 |
 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 | 2025-04-25 | 2026-01-16 |
@@ -105,6 +106,7 @@
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:27 | 2024-06-26 | 2024-07-12 |
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2025-02-21 | 2025-06-06 |
 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 | 2025-01-16 | 2025-08-30 |
+| [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-02-05 |  |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-11-06 | 2025-06-03 |
 | [Infinity Song \(edit\)](https://open.spotify.com/track/0pH3Jhbb7PJoytsHRrEzC2) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/6WRdoVlzOf1NWEKqDh7hBL) | 3:04 | 2024-06-26 | 2025-01-24 |
 | [Intangible](https://open.spotify.com/track/0nPDFDjQudgCTsdgxg0D8T) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:58 | 2025-01-23 | 2025-09-27 |
@@ -210,7 +212,7 @@
 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 | 2024-06-26 | 2025-01-17 |
 | [sirens !](https://open.spotify.com/track/6jPHjHJqA3GJrtAkboMTz7) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [sirens !](https://open.spotify.com/album/1yjrr0aEAOd0nYk3uuYVeR) | 3:30 | 2025-01-23 | 2025-03-22 |
 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 | 2024-09-24 | 2025-01-24 |
-| [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 |  |
+| [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 | 2025-08-29 | 2026-02-06 |
 | [Somehow](https://open.spotify.com/track/6dzixkZW2yPKrXpBT5fsZQ) | [SONS](https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S) | [Somehow](https://open.spotify.com/album/6livc9DdK5UokDYMqW3YGx) | 3:29 | 2026-01-19 |  |
 | [Something](https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Something](https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P) | 4:21 | 2025-02-07 | 2025-10-22 |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-02-06 | 2025-06-06 |

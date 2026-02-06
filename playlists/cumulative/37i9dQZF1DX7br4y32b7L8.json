@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "songs voor je playlist! #fyp",
+  "description": "#fyp songs voor je playlist! Cover: Yade Lauren",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -738,6 +738,28 @@
       "duration_ms": 194111,
       "name": "Altijd Vrijgezel",
       "url": "https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y"
+    },
+    {
+      "album": {
+        "name": "AMG Met Matje",
+        "url": "https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207407,
+      "name": "AMG Met Matje",
+      "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
     },
     {
       "album": {
@@ -7042,36 +7064,6 @@
     {
       "album": {
         "name": "New Wave",
-        "url": "https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        }
-      ],
-      "date_added": "2025-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 177339,
-      "name": "Investeren In De Liefde",
-      "url": "https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7"
-    },
-    {
-      "album": {
-        "name": "New Wave",
         "url": "https://open.spotify.com/album/6yNagpRsQLiEsNts3ft9Ow"
       },
       "artists": [
@@ -7098,6 +7090,48 @@
       "duration_ms": 177339,
       "name": "Investeren In De Liefde",
       "url": "https://open.spotify.com/track/4gNUmFwSGsZNjzxsjcE0aM"
+    },
+    {
+      "album": {
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/11YiKYULtpVKbNGdpKjaj0"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "date_added": "2025-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177339,
+      "name": "Investeren In De Liefde",
+      "url": "https://open.spotify.com/track/2wLap85rkCeiacx6QhXdF7"
     },
     {
       "album": {
@@ -14891,6 +14925,32 @@
     },
     {
       "album": {
+        "name": "TOEF TOEF TOEF",
+        "url": "https://open.spotify.com/album/27uXyY5fw9LuULEncSuIsI"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "YORDI",
+          "url": "https://open.spotify.com/artist/0G6ynrkfdMoxJTBnxiAPcT"
+        },
+        {
+          "name": "Lastpakken",
+          "url": "https://open.spotify.com/artist/2J28L5P6Kf6HtTIryvixK4"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113832,
+      "name": "TOEF TOEF TOEF",
+      "url": "https://open.spotify.com/track/4hf7eHUHXHQLplujWyu51B"
+    },
+    {
+      "album": {
         "name": "Toet Toet (TTBB)",
         "url": "https://open.spotify.com/album/3Mcl9iLMONtDNmRBYfvUxg"
       },
@@ -16461,6 +16521,24 @@
     },
     {
       "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "album": {
         "name": "Who Can Blame Her",
         "url": "https://open.spotify.com/album/5Jy7binbpM27qw7YK10LEh"
       },
@@ -16650,6 +16728,24 @@
       "duration_ms": 208133,
       "name": "Without You (feat. Usher)",
       "url": "https://open.spotify.com/track/1tAutlhI9FwnKn7fVgmd5P"
+    },
+    {
+      "album": {
+        "name": "WTBBA?!",
+        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "WTBBA?!",
+      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
     },
     {
       "album": {

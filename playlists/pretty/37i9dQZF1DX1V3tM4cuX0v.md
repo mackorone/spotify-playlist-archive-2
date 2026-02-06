@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Жадан і Собаки & Тіна Кароль
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Кажанна
 
 [Spotify](https://open.spotify.com/user/spotify) - 142,056 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ніч](https://open.spotify.com/track/1VMknRMVZI65iFQCDWugX0) | [Zhadan i Sobaky](https://open.spotify.com/artist/2Reqc0B9PCsI6t78c9k11o), [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Хартія](https://open.spotify.com/artist/0w0nVMen49sLfAuVcAdleh) | [Ніч](https://open.spotify.com/album/6w6nKd6KHVeaAfA37ujEvc) | 4:04 |
-| 2 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
-| 3 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 |
-| 4 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
+| 1 | [boy](https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [boy](https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl) | 2:26 |
+| 2 | [Енкарапіста](https://open.spotify.com/track/1DPI72Tcvw8g3ZTdn0xlJB) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Енкарапіста](https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq) | 2:58 |
+| 3 | [Ніч](https://open.spotify.com/track/1VMknRMVZI65iFQCDWugX0) | [Zhadan i Sobaky](https://open.spotify.com/artist/2Reqc0B9PCsI6t78c9k11o), [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Хартія](https://open.spotify.com/artist/0w0nVMen49sLfAuVcAdleh) | [Ніч](https://open.spotify.com/album/6w6nKd6KHVeaAfA37ujEvc) | 4:04 |
+| 4 | [505 \- Remix](https://open.spotify.com/track/2qGJ5zgXBIfqEjxpAYJ4v7) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Elysees](https://open.spotify.com/artist/51XJSRmRUa7EifeJld9Wn9) | [505 \(Remix\)](https://open.spotify.com/album/4o3EOvTc73thHnvteMEXoD) | 2:30 |
 | 5 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
 | 6 | [Таку як є](https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Чюзмюз](https://open.spotify.com/album/51JgUGWfAX3Ny4h7P1YIwx) | 3:10 |
 | 7 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Тьотя](https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Тьотя](https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn) | 3:05 |
 | 50 | [На порозі](https://open.spotify.com/track/4SbcktBkOk1YgAyQvjC8kl) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [На порозі](https://open.spotify.com/album/1gHncrqN84hbOyna6VnGWR) | 2:39 |
 
-Snapshot ID: `AAAAAIATLYHL17uVQmljOW5Kblg7Kh79`
+Snapshot ID: `AAAAAGiCtUgVvLblKedgdMkJmhwacKxn`

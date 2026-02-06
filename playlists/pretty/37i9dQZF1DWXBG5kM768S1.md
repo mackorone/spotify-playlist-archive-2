@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,549 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,553 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Havet, Maria](https://open.spotify.com/track/49WjhJXjsAoYX83Awrl07L) | [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Havet, Maria](https://open.spotify.com/album/7rildRXxKhRyYZ1BVzXDgw) | 4:11 |
 | 50 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 
-Snapshot ID: `AAAAAE1YfDaprHVtHpX95mrQYhpzlS52`
+Snapshot ID: `AAAAAG1REiPuRg5jLLSPbi3fEKV9XtNV`

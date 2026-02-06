@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "Aloha",
+        "url": "https://open.spotify.com/album/313acaAYW3GcLzQjTPywRi"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/4t4i6kFApE5s50eUGEfw7p"
+    },
+    {
+      "album": {
         "name": "Alquiler",
         "url": "https://open.spotify.com/album/7KRroI1HJyQs0lltlKHsCI"
       },
@@ -2417,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "CUANDO ESCRIB\u00cdA ASIMETR\u00cdA",
+        "url": "https://open.spotify.com/album/4QCM6aNuH8D1eBm1qp07Jg"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236624,
+      "name": "CUANDO ESCRIB\u00cdA ASIMETR\u00cdA",
+      "url": "https://open.spotify.com/track/54Yqi4VYecMQ7Mol0KTyX3"
+    },
+    {
+      "album": {
         "name": "Cuando la Luna Caiga",
         "url": "https://open.spotify.com/album/0Q64aIzoIOqP5Xw5dzbn35"
       },
@@ -2614,6 +2654,24 @@
       "duration_ms": 181782,
       "name": "DESCARTABLE",
       "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+    },
+    {
+      "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194241,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/594s1AODSpT9zQpjCfVsDH"
     },
     {
       "album": {
@@ -4782,6 +4840,24 @@
       "duration_ms": 190001,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/49594VuIfPaumVx4nRAyTS"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234196,
+      "name": "Le pasa solo al resto",
+      "url": "https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz"
     },
     {
       "album": {
@@ -8240,6 +8316,24 @@
       "duration_ms": 186721,
       "name": "PURA POSE",
       "url": "https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM"
+    },
+    {
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/7LRVYzAIgLOvrDvezhVd6r"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/1561A0KDSbrQR4WW0dTeyt"
     },
     {
       "album": {

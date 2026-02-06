@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1656689,
+  "num_followers": 1656728,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADpLroxEzp8bMO+Ppv8cuS4",
+  "snapshot_id": "aYKMAAAAAABoYgMNbA2VEJcQ2j4qoyDZ",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "whoa (mind in awe) [Remix]",
-        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 196341,
-      "name": "whoa (mind in awe) - Remix",
-      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "whoa (mind in awe) [Remix]",
+        "url": "https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 196341,
+      "name": "whoa (mind in awe) - Remix",
+      "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"
     },
     {
       "added_at": null,

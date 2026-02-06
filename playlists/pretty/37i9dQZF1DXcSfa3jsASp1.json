@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 49125,
+  "num_followers": 49134,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,30 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "Hotel Diablo",
+        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 169397,
+      "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
+      "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 178920,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Hotel Diablo",
-        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 169397,
-      "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
-      "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 211573,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -699,22 +715,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Until It's Gone",
+      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Walk The Moon",
         "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 232333,
       "name": "Shots",
       "url": "https://open.spotify.com/track/0FQA22KGLQdDesHAJtrEEE"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Until It's Gone",
-      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
     },
     {
       "added_at": "2024-07-12 15:00:09",

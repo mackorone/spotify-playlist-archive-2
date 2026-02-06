@@ -4,7 +4,7 @@
 
 > laid\-back beats for an easygoing morning.
 
-615 songs - 23 hr 21 min
+618 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2022-05-20 | 2022-06-25 |
 | [Good Morning World](https://open.spotify.com/track/7voEmTBYrlegfKjtzcgbPs) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Lafken](https://open.spotify.com/artist/2H2m5FIzmtgssMAFEXTWrf) | [Cruz del Sur](https://open.spotify.com/album/0FwVoBOy9KJiMMiCN4iI2E) | 1:58 | 2023-01-06 | 2023-09-22 |
 | [Gratefulness](https://open.spotify.com/track/2AbUPIumDoBR9tfKGv3c7e) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94) | [Gratefulness](https://open.spotify.com/album/6byxwHuEF8XkItdtC4gFYv) | 2:20 | 2023-04-11 | 2025-09-26 |
-| [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 | 2024-09-13 |  |
+| [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 | 2024-09-13 | 2026-02-06 |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [A\. Coello](https://open.spotify.com/artist/325vdBiVSBe3JBw893z9Eg) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 | 2025-09-26 |
 | [Gymnopédies](https://open.spotify.com/track/6r0Jqgnd5i92R2cuE0Z1q6) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gymnopédies](https://open.spotify.com/album/0Nda1Wpk7K7Wax1EsdvQuI) | 2:42 | 2023-02-24 | 2023-08-19 |
 | [Halfway](https://open.spotify.com/track/7JjUUzjaOvKTgOPqS8k7co) | [Droxilyn](https://open.spotify.com/artist/3oFAs0SnvbeuGg4ti8Ycak), [lofi boyz](https://open.spotify.com/artist/4MGcmCTE0ifSg3In5uyD1u) | [Halfway](https://open.spotify.com/album/288gVJdgEXnPu89VNdKY4t) | 2:12 | 2022-05-20 | 2022-05-27 |
@@ -354,6 +354,7 @@
 | [morning dew](https://open.spotify.com/track/2mQngCMZk73zFBrhvvPmhP) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [morning dew](https://open.spotify.com/album/39FdsBSKXGu4YVFP6aPOSF) | 2:06 | 2022-09-23 | 2025-09-26 |
 | [Morning Glow](https://open.spotify.com/track/4jrQZpmrCGxVl3TlhS4T4E) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Morning Glow](https://open.spotify.com/album/3rhKZEGWZGctNre7OVz17Z) | 2:06 | 2023-03-16 | 2025-07-03 |
 | [Morning Java](https://open.spotify.com/track/6ZR06hw7mZv51TCEtPugrx) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Morning Java](https://open.spotify.com/album/4uwuvTuePXeiV5FNkv3pv2) | 2:08 | 2022-08-19 | 2023-12-08 |
+| [Morning Light](https://open.spotify.com/track/2VuL7nGbgTYHsDDBtxZZGq) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Morning Light](https://open.spotify.com/album/3Jl1tF2jc5QA4JExZkEerL) | 2:05 | 2026-02-05 |  |
 | [Morning Routine](https://open.spotify.com/track/5qVqfRxmtlXQFPpW5836Nf) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/0wDM3yMZuPRHEXVypsjhZV) | 0:59 | 2024-01-19 | 2024-04-19 |
 | [Morning Routine](https://open.spotify.com/track/78ESZt9YZhiOgrAqPoheJ0) | [bedroom lofi](https://open.spotify.com/artist/2LrcxltMHRqQBYByx4rtW2) | [Morning Routine](https://open.spotify.com/album/7sQ4Mqn5YlAg8NfcIJDkbw) | 0:59 | 2022-08-05 | 2025-01-11 |
 | [motylek](https://open.spotify.com/track/2jdGc9nzRquVJ24HPDC3Is) | [Kenzo Hill](https://open.spotify.com/artist/0t8px0Bpm4kjzSJ2RREXiK) | [motylek](https://open.spotify.com/album/66pXgt3qcK1xild9iNQV8Y) | 1:57 | 2022-07-22 | 2025-09-26 |
@@ -364,6 +365,7 @@
 | [Neon Stream](https://open.spotify.com/track/2aYv8pk0KYKoVTFXYBvUYe) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Retrospect](https://open.spotify.com/album/5xVxxvGLW9KLlHSYeizyJK) | 2:28 | 2022-05-20 | 2023-10-27 |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2022-05-20 | 2024-05-14 |
 | [Never On Sunday](https://open.spotify.com/track/2B8ftHLCfrsqdiwClpXzvY) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Never On Sunday](https://open.spotify.com/album/5RRa56SiNZRfCmyslYD0Vy) | 2:31 | 2022-07-08 | 2022-08-19 |
+| [New Phase](https://open.spotify.com/track/4pZghY8X73YUxxrd6UahHi) | [jzbts](https://open.spotify.com/artist/0MRJd9zExrWCUGVCQR1ozs) | [New Phase](https://open.spotify.com/album/3EMQaJvVy6hGzSbLJLevsf) | 1:59 | 2026-02-05 |  |
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 | 2025-09-26 |
 | [Night Light](https://open.spotify.com/track/2U6vFampiXQZtmOhNXz7dp) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [Night Light](https://open.spotify.com/album/2JEp433mqNZaTYe6R0D1AY) | 2:09 | 2022-05-20 | 2024-03-08 |
 | [Night Reading](https://open.spotify.com/track/1VvsKJlG5hRwRIxnh4dlZw) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Night Reading](https://open.spotify.com/album/3vqnIwMbUNn9kmSJcXxt7n) | 2:24 | 2024-07-19 |  |
@@ -422,8 +424,8 @@
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2022-05-20 | 2024-08-24 |
 | [Posted](https://open.spotify.com/track/6sk7bDKXSSEemZOPkNPWGa) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Posted](https://open.spotify.com/album/51YrUF6pCS8V2cUVoHaiQ0) | 2:20 | 2024-06-05 | 2025-09-26 |
 | [punks n trunks](https://open.spotify.com/track/2FoNSgW2hRXRNrsAhQu7AW) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [subtopia](https://open.spotify.com/album/5MD8YF55ju64o9Cu0R5XCM) | 3:10 | 2022-05-20 | 2024-07-05 |
-| [pyramids](https://open.spotify.com/track/313eJh505wri03xuiBpvWc) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [pyramids](https://open.spotify.com/album/451J4BD9m0VD98OAViQ1tx) | 2:01 | 2024-08-23 |  |
-| [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 |  |
+| [pyramids](https://open.spotify.com/track/313eJh505wri03xuiBpvWc) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [pyramids](https://open.spotify.com/album/451J4BD9m0VD98OAViQ1tx) | 2:01 | 2024-08-23 | 2026-02-06 |
+| [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 | 2026-02-06 |
 | [Rainy Day](https://open.spotify.com/track/6i0iAPYFh8Nbqvu3WqsH7h) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Birch](https://open.spotify.com/album/3wCXdWhd3NYXyfHYGprgTw) | 2:03 | 2022-05-20 | 2023-09-22 |
 | [Ramen Shop](https://open.spotify.com/track/09WM6BLZBVEpa2WAbByp5k) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Ramen Shop](https://open.spotify.com/album/4BCLVDXH4AWj9vpVcjZz2W) | 2:16 | 2024-03-22 |  |
 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 |  |
@@ -463,6 +465,7 @@
 | [Silicon dreams](https://open.spotify.com/track/4dBQ9HuRLntPJrGJlYywEw) | [Goldie Caris](https://open.spotify.com/artist/5dRlh8hedI9NR7a6teu33k) | [Silicon dreams](https://open.spotify.com/album/5hdSFtpGyU8GvH0UWw4BWs) | 1:22 | 2022-09-30 | 2025-08-22 |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2022-05-20 | 2023-08-30 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
+| [simple things](https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [simple things](https://open.spotify.com/album/0Lu2tlgxEVh0AFSOEiq3cB) | 1:57 | 2026-02-05 |  |
 | [Skyline](https://open.spotify.com/track/1NHA5Nsv3WeFEFoa7f34QM) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Skyline](https://open.spotify.com/album/4g9tZoMmYgMEgo9FV4OkbV) | 2:12 | 2023-04-20 | 2023-10-13 |
 | [sleep cycle](https://open.spotify.com/track/0ypJjoe598qkGubmR32QpS) | [lil frenchie](https://open.spotify.com/artist/1VomLPCcUmzUWELhpgxHZ1) | [sleep cycle](https://open.spotify.com/album/0UFES0XqsK5gtpJF6sAns0) | 1:57 | 2023-01-20 | 2025-09-26 |
 | [sleepy](https://open.spotify.com/track/1uzkBiyYZgjxsUHiUyUVhh) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [sleepy](https://open.spotify.com/album/2jQFspMLxCM4JTRA6XxyRs) | 2:23 | 2024-02-23 |  |

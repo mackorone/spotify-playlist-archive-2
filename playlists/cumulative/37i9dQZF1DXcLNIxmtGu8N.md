@@ -2,9 +2,9 @@
 
 ### [GO\-GO](https://open.spotify.com/playlist/37i9dQZF1DXcLNIxmtGu8N)
 
-> Go\-Go Music from the heart of Washington, DC.
+> Go\-Go Music from the heart of Washington, D.C\. Cover: Wale
 
-85 songs - 6 hr 37 min
+86 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bay Bay](https://open.spotify.com/track/20U5607alwSWGjXsVLItfd) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 3:37 | 2022-01-29 |  |
 | [Bazzoka Bottoms](https://open.spotify.com/track/0vDwogPa3ZyxOzbzHCijdS) | [CCB \(Critical Condition Band\)](https://open.spotify.com/artist/1O0BLcBdmFd0niKowx2QLK) | [Critical Condition](https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc) | 5:55 | 2022-01-29 |  |
 | [Beat Box 2 \(GoGo Bounce\)](https://open.spotify.com/track/5ha48o7UoK8E4Mos9eGZfu) | [Drew Keys](https://open.spotify.com/artist/2W0dNRlFKyqlESIr4ZXNLm) | [Beat Box 2 \(GoGo Bounce\)](https://open.spotify.com/album/2Ve4zTxQrJJ1FvKol5C40H) | 3:39 | 2022-01-30 |  |
+| [Blanco \- TOB Remix](https://open.spotify.com/track/0JvFXbUeJXnqMnm2zIg0LA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [Blanco \(TOB Remix\)](https://open.spotify.com/album/1PJq3brDYaG9lU64635OkS) | 4:54 | 2026-02-05 |  |
 | [Blinding Lights](https://open.spotify.com/track/29RuTRCfXXNmhot7OLq4EQ) | [Black Alley](https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R) | [Blinding Lights](https://open.spotify.com/album/0Es8vWXuh7KaDhO56PzMmy) | 3:31 | 2022-01-29 |  |
 | [Body Snatchers](https://open.spotify.com/track/6smyjljSEtD6shLJMYN3d9) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh) | [Body Snatchers](https://open.spotify.com/album/03MnHkvMFqef37sUibcq2G) | 6:03 | 2022-01-29 |  |
 | [Booty Call](https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP) | [Northeast Groovers](https://open.spotify.com/artist/1IHadvTpb1JrZ5VxqH4FzS) | [Straight from the Basement](https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N) | 7:13 | 2022-01-29 |  |
@@ -75,7 +76,7 @@
 | [Shoot My Shot \- New Impressionz Go\-Go Edit](https://open.spotify.com/track/2CQ1EzKRWUY3EkVx97jDh5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [Shoot My Shot \(New Impressionz Go\-Go Edit\)](https://open.spotify.com/album/7xrTMVLRs7w7mIfe6KysDI) | 4:45 | 2022-01-29 |  |
 | [Shorty](https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI) | [Tcb](https://open.spotify.com/artist/35TNz9zmB87Ag9jmKWbch3) | [DJ Flexx Presents \- GO GO 95](https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5) | 6:41 | 2022-01-29 |  |
 | [Sittin at The Bar](https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b) | [TOB](https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk) | [THE RUNDOWN VOl.1](https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN) | 4:49 | 2022-07-01 |  |
-| [Sock It To Me \- Version 2](https://open.spotify.com/track/1XncUVxC8NMdFv3Eg4PzmP) | [Ayre Rayde](https://open.spotify.com/artist/6psgmcqLFZvuYo9thrPmln) | [Sock It To Me](https://open.spotify.com/album/349jp5fTM6D4cObncajSbg) | 3:56 | 2024-03-25 |  |
+| [Sock It To Me \- Version 2](https://open.spotify.com/track/1XncUVxC8NMdFv3Eg4PzmP) | [Ayre Rayde](https://open.spotify.com/artist/6psgmcqLFZvuYo9thrPmln) | [Sock It To Me](https://open.spotify.com/album/349jp5fTM6D4cObncajSbg) | 3:56 | 2024-03-25 | 2026-02-06 |
 | [Splash](https://open.spotify.com/track/1dS3VCsu4WK6RwiTZ5PqVF) | [Uncalled 4 Band](https://open.spotify.com/artist/5t3sAJf2ghaIwJjWukTuEX) | [Best of Bag of Beats](https://open.spotify.com/album/4aZqoQKekEXZx7i0JwbyYg) | 9:41 | 2022-01-29 |  |
 | [Takes My Breath Away \- Live](https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 3:34 | 2022-01-29 |  |
 | [Tambourina Go Go Bounce](https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce) | [Marcy Mane](https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw) | [FLEXICO](https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI) | 2:15 | 2022-01-29 |  |

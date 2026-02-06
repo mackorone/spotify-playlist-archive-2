@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 186463,
       "name": "Candle",
       "url": "https://open.spotify.com/track/1nVShgCXxO3N7CAXoVNCdp"
@@ -4470,6 +4470,24 @@
       "duration_ms": 218530,
       "name": "Carry-On Bag",
       "url": "https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0"
+    },
+    {
+      "album": {
+        "name": "Goodbyehouse",
+        "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Carsick",
+      "url": "https://open.spotify.com/track/4XlBbZfGNcvAcz3SoUdJxA"
     },
     {
       "album": {
@@ -6792,6 +6810,24 @@
     {
       "album": {
         "name": "All That Is Over",
+        "url": "https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372971,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4LtiA5z2X1NlfSMrLwkSzC"
+    },
+    {
+      "album": {
+        "name": "All That Is Over",
         "url": "https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ"
       },
       "artists": [
@@ -6802,7 +6838,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 372971,
       "name": "Desire",
       "url": "https://open.spotify.com/track/6BZ26qRE7TRgLhVSvSUyvX"
@@ -7838,7 +7874,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 278028,
       "name": "Echo in the Field",
       "url": "https://open.spotify.com/track/4xIOeiLTEaoKFsD8JrCdPw"
@@ -8398,7 +8434,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 205626,
       "name": "Everyday is Another",
       "url": "https://open.spotify.com/track/2n4YwGy6AV2SkUgm0p4djJ"
@@ -8706,7 +8742,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 276662,
       "name": "Fallen Cloud",
       "url": "https://open.spotify.com/track/2eYz2ZEoHun4Lepj7nBM3S"
@@ -8724,7 +8760,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 276662,
       "name": "Fallen Cloud",
       "url": "https://open.spotify.com/track/33IBQKB1tHkVqTNb2SDREd"
@@ -8832,7 +8868,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 218106,
       "name": "fauna",
       "url": "https://open.spotify.com/track/7CKSHeyz4YBIW8KRVRphG7"
@@ -18337,6 +18373,24 @@
     },
     {
       "album": {
+        "name": "Completely Necessary (Anthology 1978-1982)",
+        "url": "https://open.spotify.com/album/32l5PaMKyawTBUBskwGkOi"
+      },
+      "artists": [
+        {
+          "name": "The Necessaries",
+          "url": "https://open.spotify.com/artist/1e1PljiXHeiyGxp4vROAvQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166493,
+      "name": "More Real",
+      "url": "https://open.spotify.com/track/1iqDZKQKJ2QUAfvqk1wPTW"
+    },
+    {
+      "album": {
         "name": "End of the Middle",
         "url": "https://open.spotify.com/album/1JzuX5abMNgLKPw1POeo1r"
       },
@@ -19802,6 +19856,24 @@
       "duration_ms": 218213,
       "name": "Not As I",
       "url": "https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U"
+    },
+    {
+      "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
       "album": {
@@ -27366,7 +27438,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 281132,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/7bMMuzcxVU2jR8krCzMMKS"
@@ -28966,7 +29038,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 139672,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
@@ -28984,7 +29056,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 139672,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/4G9mtCnilpyA18rjTKcsoE"

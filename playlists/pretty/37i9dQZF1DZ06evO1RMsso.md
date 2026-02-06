@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,429 likes - 42 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,462 likes - 42 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 27 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 |
 | 28 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 |
 | 29 | [Knockturn Alley](https://open.spotify.com/track/717XC5okeGGuLAXCzcWZLS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 1:47 |
-| 30 | [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost In New York \(Original Score\)](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 |
-| 31 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 |
+| 30 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 |
+| 31 | [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost In New York \(Original Score\)](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 |
 | 32 | [Battle of the Heroes](https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:42 |
 | 33 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 |
 | 34 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 41 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
 | 42 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 |
 
-Snapshot ID: `aYE6gAAAAADx2D0HwKWqhGbyq5AxWiyr`
+Snapshot ID: `aYKMAAAAAAD4PmXMIOR77udCBws776ga`

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:NO11
 
-695 songs - 1 day 8 hr 41 min
+696 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 | 2022-06-09 | 2023-02-24 |
 | [He Giving \(Peanut Butter\)](https://open.spotify.com/track/6QofVfC8g2tHTPAAbph5dB) | [Flacco Slimm](https://open.spotify.com/artist/4nSZTT5PiF6Z0ZMNutv9Lc), [So$aVelli](https://open.spotify.com/artist/63UPhT8Csv9ooIbyDA8SX8) | [He Giving \(Peanut Butter\)](https://open.spotify.com/album/4lDYrp0soykAyj504iNWEH) | 2:35 | 2023-06-16 | 2023-06-23 |
 | [Head Over Heels](https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:15 | 2022-09-30 | 2023-02-24 |
-| [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 | 2025-09-05 |  |
+| [Healers Chapel](https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Boma Nime](https://open.spotify.com/artist/2tkw8FFnCrgenakG7wml4B) | [Healers Chapel](https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN) | 2:59 | 2025-09-05 | 2026-02-06 |
 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 | 2022-10-14 | 2022-10-29 |
 | [Hei God](https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Hei God](https://open.spotify.com/album/6D9NddrRn6exZWm0F2ojvp) | 2:37 | 2025-05-16 | 2025-06-02 |
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 | 2026-01-15 |
@@ -454,6 +454,7 @@
 | [O Di Dan Dan](https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [O Di Dan Dan](https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh) | 2:15 | 2022-09-30 | 2022-11-19 |
 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 | 2024-05-24 | 2025-10-10 |
 | [Obi \(feat\. Jeriq\)](https://open.spotify.com/track/5u1fmsqXSoiiWQz9eaVrMe) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Obi \(feat\. Jeriq\)](https://open.spotify.com/album/01yabVLbvmPfukkBYi6Otk) | 2:34 | 2025-11-14 | 2025-12-19 |
+| [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5) | 2:50 | 2026-02-06 |  |
 | [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 | 2025-05-30 | 2025-06-28 |
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2023-11-17 | 2023-12-10 |
 | [Oga](https://open.spotify.com/track/4NfhnARA7bHTGIH6EvRWdX) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 4:06 | 2022-10-14 | 2022-10-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,235 likes - 136 songs - 7 hr 41 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,236 likes - 138 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 134 | [Whips & Champagne](https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW) | [St Oshun](https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz) | [Whips & Champagne](https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv) | 3:37 |
 | 135 | [Amores Verdadeiros](https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp) | [Binho Rodrigues](https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd) | [Amores Verdadeiros](https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf) | 2:19 |
 | 136 | [I painted our kitchen](https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB) | [Heather Bond](https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK) | [somewhere out there](https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ) | 4:44 |
+| 137 | [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 |
+| 138 | [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 |
 
-Snapshot ID: `AAAQN6QrYHIlX0tr9a4TiRTCpn806T4L`
+Snapshot ID: `AAAQOStOF94sAtTLG2VZo3gv8DucVijp`

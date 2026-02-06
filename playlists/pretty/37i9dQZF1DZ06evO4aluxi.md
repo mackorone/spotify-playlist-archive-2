@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,036 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,034 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 25 | [What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art \- Medley](https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:30 |
 | 26 | [Angels](https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 4:12 |
 | 27 | [House Of Love](https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:36 |
-| 28 | [God Winks](https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [God Winks](https://open.spotify.com/album/75GJpyAlMg2T0HQKFHAa4Q) | 3:26 |
+| 28 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
 | 29 | [It Is Well With My Soul/The River's Gonna Keep On Rolling \- Medley](https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 4:54 |
-| 30 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
+| 30 | [God Winks](https://open.spotify.com/track/5LO9HDFJ12unQi5WbR01DY) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [God Winks](https://open.spotify.com/album/75GJpyAlMg2T0HQKFHAa4Q) | 3:26 |
 | 31 | [River Lullaby](https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 3:56 |
 | 32 | [Scars In Heaven](https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:22 |
 | 33 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Thank You for Being You](https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [B.J\. Thomas](https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf), [Maureen McGovern](https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV), [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6), [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc), [Toni Rose](https://open.spotify.com/artist/1NqrEarOHLaEmhw2UBUc69), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Songs from the Neighborhood: The Music of Mister Rogers](https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7) | 3:14 |
 | 50 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 |
 
-Snapshot ID: `aYE6gAAAAADa5bNGPpEkV/PY+xgMMwit`
+Snapshot ID: `aYKMAAAAAACtOnqtblqF7G+TtYvZACax`

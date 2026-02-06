@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "A1 (feat. Kizz Daniel)",
+        "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131526,
+      "name": "A1 (feat. Kizz Daniel)",
+      "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
+    },
+    {
+      "album": {
         "name": "A1 (Feeling Disorder)",
         "url": "https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo"
       },
@@ -5631,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "FINE WINE",
+        "url": "https://open.spotify.com/album/71rwH96jmrRT11MYddEcnV"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160695,
+      "name": "FINE WINE",
+      "url": "https://open.spotify.com/track/1DHwfDBJlqvHAOA1CV2r4E"
+    },
+    {
+      "album": {
         "name": "Fine Wine (ft. Amaarae)",
         "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
       },
@@ -6146,7 +6186,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 129827,
       "name": "FORGIVE ME",
       "url": "https://open.spotify.com/track/2t3i8xFxAI3BstpaeVD8Pz"
@@ -6948,7 +6988,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 174590,
       "name": "Have That Love",
       "url": "https://open.spotify.com/track/6p9N449djwtND5vS5hCRy7"

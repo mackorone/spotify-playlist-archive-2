@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 83844,
+  "num_followers": 83878,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,30 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": "2026-01-23 00:01:27",
+      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2026-01-23 00:01:27",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
       "added_at": "2026-01-23 00:01:27",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
-        "name": "Girl On Fya",
-        "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
-      },
-      "artists": [
-        {
-          "name": "Ashidapo",
-          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 124354,
-      "name": "Girl on Fya",
-      "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
-    },
-    {
-      "added_at": "2026-01-23 00:01:27",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2026-01-23 00:01:27",
+      "album": {
+        "name": "Girl On Fya",
+        "url": "https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 124354,
+      "name": "Girl on Fya",
+      "url": "https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo"
     },
     {
       "added_at": "2026-01-23 00:01:27",
@@ -831,18 +831,26 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+        "name": "Kowope",
+        "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
       "artists": [
         {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         }
       ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+      "duration_ms": 211525,
+      "name": "Kowope",
+      "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
     },
     {
       "added_at": "2026-01-23 00:01:27",
@@ -867,26 +875,18 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
-        "name": "Kowope",
-        "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
         }
       ],
-      "duration_ms": 211525,
-      "name": "Kowope",
-      "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
       "added_at": "2026-01-23 00:01:27",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
-        "name": "LOVE AND CHAOS",
-        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2026-01-23 00:01:27",
-      "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 134559,
-      "name": "Gaza",
-      "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
-    },
-    {
-      "added_at": "2026-01-23 00:01:27",
-      "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 180530,
       "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
+    },
+    {
+      "added_at": "2026-01-23 00:01:27",
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 134559,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "added_at": "2026-01-23 00:01:27",
+      "album": {
+        "name": "LOVE AND CHAOS",
+        "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
       "added_at": "2026-01-23 00:01:27",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-01-23 00:01:27",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2026-01-23 00:01:27",
+      "album": {
         "name": "Kautaka (Remix)",
         "url": "https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5"
       },
@@ -1171,26 +1187,6 @@
       "duration_ms": 220714,
       "name": "Kautaka - Remix",
       "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
-    },
-    {
-      "added_at": "2026-01-23 00:01:27",
-      "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 163539,
-      "name": "MACHO (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     }
   ],
   "unique_name": "Keep Fit Club ",

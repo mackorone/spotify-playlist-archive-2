@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,557 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,549 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 19 | [TE AMO SEM CULPA](https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [TE AMO SEM CULPA](https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g) | 2:34 |
 | 20 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |
 | 21 | [8 HORAS DE PRAZER](https://open.spotify.com/track/30h7GGYIRcPtFA1fDlHr0w) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [8 HORAS DE PRAZER](https://open.spotify.com/album/2MoMvu4WvsfDimDrMnRWXT) | 2:41 |
-| 22 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 23 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
+| 22 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
+| 23 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 24 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 | 25 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
-| 26 | [Safado](https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:11 |
-| 27 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
-| 28 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
+| 26 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
+| 27 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 |
+| 28 | [Safado](https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:11 |
 | 29 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
 | 30 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |
 | 31 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |

@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Giorgos Sabanis
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Ellize
 
-236 songs - 12 hr 11 min
+238 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ax Kardia Mou](https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ax Kardia Mou](https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf) | 2:59 | 2025-06-13 |  |
 | [AYGOUSTOS](https://open.spotify.com/track/2klGl2ub6l3empTt8NcpfI) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [AYGOUSTOS](https://open.spotify.com/album/38MeanPBHZa6IFFAAeq4xi) | 2:30 | 2025-08-28 |  |
 | [Balkan Christmas](https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O) | [Balkan Christmas](https://open.spotify.com/album/1D4vh45eZNrWnOBhLXJq4O) | 2:24 | 2024-12-19 | 2025-01-31 |
+| [block](https://open.spotify.com/track/7siefcy382f6vEymtDfxlH) | [LAFIS](https://open.spotify.com/artist/0TuCBqRq7lWzppL02CY4qc), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [block](https://open.spotify.com/album/2F0bK2kCnSqPAbCkwFFRiY) | 2:32 | 2026-02-05 |  |
 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-05-01 | 2025-11-21 |
 | [Bomba](https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Bomba](https://open.spotify.com/album/1qZvff3aZbd2zw9RscdR45) | 2:26 | 2024-11-07 | 2025-02-21 |
 | [Boro Ki Ego](https://open.spotify.com/track/4mo8SrFr4TmwTrj76DTwIA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Boro Ki Ego](https://open.spotify.com/album/2hKXyjSxMtoobIWn0w88wJ) | 3:13 | 2025-02-06 | 2025-10-10 |
@@ -60,7 +61,7 @@
 | [Brand New](https://open.spotify.com/track/4o4EyHdcgUB7XWUWzEjlzf) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Brand New](https://open.spotify.com/album/0WzcMQnfXpFCIyYn8obzSR) | 2:52 | 2026-01-15 |  |
 | [Burnout](https://open.spotify.com/track/0cM8ON4hpz4SqPLPjGJ9o5) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Burnout](https://open.spotify.com/album/4208aedWBttdB3pFYKlPHm) | 3:08 | 2025-04-10 | 2025-05-23 |
 | [BYE BYE](https://open.spotify.com/track/7nVLvWhpWwkj1EvnkLPMLX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:39 | 2025-04-24 | 2025-05-02 |
-| [Champ](https://open.spotify.com/track/20o4hjYYdXfbuZQ17pn8Sd) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Champ](https://open.spotify.com/album/5CtGGWA2XDMSKdgMOjheiB) | 3:50 | 2025-10-16 |  |
+| [Champ](https://open.spotify.com/track/20o4hjYYdXfbuZQ17pn8Sd) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Champ](https://open.spotify.com/album/5CtGGWA2XDMSKdgMOjheiB) | 3:50 | 2025-10-16 | 2026-02-06 |
 | [Check](https://open.spotify.com/track/7ockkWsWaZ1rl5YvC75RQ2) | [Foxy Lee](https://open.spotify.com/artist/1TMRlzzQQpXLTPF77gB22i), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Check](https://open.spotify.com/album/0XDlvTAxwpvb5ATQGnkloA) | 2:07 | 2025-06-05 | 2025-06-20 |
 | [CHROME HEARTS](https://open.spotify.com/track/1oWFxZvPHlcRPnmqNgQicd) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [CHROME HEARTS](https://open.spotify.com/album/1fvIlgcPDPQ0SLhMiOBzU9) | 3:25 | 2025-03-13 | 2025-05-23 |
 | [COSMOS](https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [STATUS 2](https://open.spotify.com/album/6ZokZMbIKjE2hhw3u0oySc) | 2:27 | 2025-04-10 | 2025-10-24 |
@@ -138,6 +139,7 @@
 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 | 2024-07-04 | 2025-03-14 |
 | [LALALALA](https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [P.O.P.](https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [LALALALA \- Remix](https://open.spotify.com/track/7i1PClgbxW5GQCIxFuS9eW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [LALALALA \(Remix\)](https://open.spotify.com/album/57OtUZC55GBD6G7c3JQY3P) | 2:44 | 2024-07-18 | 2025-02-21 |
+| [Lapdance](https://open.spotify.com/track/5kAHbA12A14SpAXkLMt5hl) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Lapdance](https://open.spotify.com/album/3EfK516FkQigUrXxAzwnXe) | 2:20 | 2026-02-05 |  |
 | [Latrevo](https://open.spotify.com/track/3yJuSIK0GLferUz3GyYayA) | [Konstantinos Christoforou](https://open.spotify.com/artist/3JvrdmyJFLyf1KdOuyY39H), [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Latrevo](https://open.spotify.com/album/5pLJFSBB8Sm9U87ResB3AB) | 3:31 | 2025-10-09 |  |
 | [Leei](https://open.spotify.com/track/3vcgEQxI67g0OVEsZtDmx1) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Leei](https://open.spotify.com/album/3FT0KZ5IDynY9l4AxG7hah) | 2:43 | 2025-03-13 | 2025-10-03 |
 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 | 2025-11-20 |  |
@@ -164,7 +166,7 @@
 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 | 2025-09-04 |  |
 | [Noumero 1](https://open.spotify.com/track/6ItU0GpYf2VkEmVZNdJ9o4) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Noumero 1](https://open.spotify.com/album/0IqPdSYN3oTYYx8PYlTWRq) | 2:33 | 2024-06-27 | 2024-07-12 |
 | [Nyxta Mou Megali](https://open.spotify.com/track/7yJbjncqS0bjrUQdRafkr8) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Nyxta Mou Megali](https://open.spotify.com/album/1PIFOqbw2AfsOsrZi2sKtL) | 3:40 | 2024-11-21 | 2025-07-11 |
-| [O Erotas Grafetai](https://open.spotify.com/track/7mubjwbXz4dyQDcxjxmSHj) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Panos Mouzourakis](https://open.spotify.com/artist/7byYRTzcmi0J2EnoVgvNyt) | [O Erotas Grafetai](https://open.spotify.com/album/0CEyT5MI4Y6VizmczeJOcf) | 3:46 | 2025-11-27 |  |
+| [O Erotas Grafetai](https://open.spotify.com/track/7mubjwbXz4dyQDcxjxmSHj) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK), [Panos Mouzourakis](https://open.spotify.com/artist/7byYRTzcmi0J2EnoVgvNyt) | [O Erotas Grafetai](https://open.spotify.com/album/0CEyT5MI4Y6VizmczeJOcf) | 3:46 | 2025-11-27 | 2026-02-06 |
 | [O,ti Agapo Ine Diko Sou](https://open.spotify.com/track/3AzofnOpG7u3P9UhIstOna) | [Yanna Vasileiou](https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx) | [O,ti Agapo Ine Diko Sou](https://open.spotify.com/album/7hTVvKWGRXRUBGpgANhv35) | 3:26 | 2024-12-05 | 2025-01-17 |
 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 | 2025-02-06 | 2025-04-04 |
 | [Oneiro Tha 'Nai Ksana \- Kounia](https://open.spotify.com/track/25JqyktP3AJulyV4wfthln) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Oneiro Tha 'Nai Ksana \(Kounia\)](https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB) | 4:04 | 2025-07-31 | 2026-01-16 |

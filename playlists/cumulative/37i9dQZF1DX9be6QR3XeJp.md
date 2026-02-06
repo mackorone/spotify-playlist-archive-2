@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Whitelands
+> Discover your new favourite artists from UK&IE\. Cover: Maddie Ashman
 
-341 songs - 18 hr 17 min
+342 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [backwards loving](https://open.spotify.com/track/1ImZjyaVKQ40IMndFwcPPA) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [wait! i have something to say\. x](https://open.spotify.com/album/4LHMNB1D4dgzz9fINvfnb5) | 3:52 | 2025-04-11 |  |
 | [Barbed Wire](https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Barbed Wire](https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp) | 3:04 | 2025-11-28 |  |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2022-02-18 |  |
+| [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [](https://open.spotify.com/album/null) | 5:04 | 2026-02-06 |  |
 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 | 2022-02-18 |  |
 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-11 |  |
 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 | 2023-06-29 |  |

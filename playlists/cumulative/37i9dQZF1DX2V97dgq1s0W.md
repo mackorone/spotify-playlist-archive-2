@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: Bellah, DESTIN CONRAD
+> The voices shaping R&B\. Cover: Sasha Keable
 
 574 songs - 1 day 6 hr 31 min
 

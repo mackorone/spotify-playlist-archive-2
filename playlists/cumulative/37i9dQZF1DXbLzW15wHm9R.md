@@ -4,7 +4,7 @@
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Ice Spice
 
-185 songs - 10 hr 24 min
+186 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2026-01-02 |  |
 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2025-09-17 | 2025-11-15 |
 | [Fantastic \(demo version\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6FWSbeXZ5EzDBVxTnJ0rf8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 Original Soundtrack \(Extended Edition\)](https://open.spotify.com/album/1CxQei6YVHL6PaunOZzsum) | 2:30 | 2025-03-14 | 2026-01-02 |
-| [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 | 2025-07-11 |  |
+| [Fast Slow Disco](https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Fast Slow Disco](https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q) | 3:17 | 2025-07-11 | 2026-02-06 |
 | [Father Figure \- Remastered](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 | 2025-01-09 | 2025-12-09 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-04-17 | 2025-07-12 |
 | [Feelin' Alright \- from "The Pickup"](https://open.spotify.com/track/2zwGO4tcPQw9leUMDoRmeB) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [The Pickup \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56Q3yCtZHiu4v5oW6kzFAM) | 2:05 | 2025-08-08 | 2025-12-29 |
@@ -161,6 +161,7 @@
 | [The Ballad of the Witches' Road \(Pop Version\) \- From "Agatha All Along"/Soundtrack Version](https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [The Ballad of the Witches' Road \(Pop Version\) \[From "Agatha All Along"\]](https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm) | 2:31 | 2024-10-18 | 2025-07-17 |
 | [The Chain \- From The Prime Video Original Series, My Lady Jane](https://open.spotify.com/track/328yyFDPgpzUXVq3v2YBld) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [The Chain \(From The Prime Video Original Series, My Lady Jane\)](https://open.spotify.com/album/7keXdFgGtDhrkJoFXoqxIc) | 3:45 | 2024-06-27 | 2024-12-07 |
 | [The Idea of You](https://open.spotify.com/track/3FUgM0EcTHjcZxbZgAYFMg) | [Nicholas Galitzine](https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [The Idea of You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA) | 3:06 | 2024-05-03 | 2024-12-07 |
+| [The Muppet Show Theme \(2026\)](https://open.spotify.com/track/5H5uvwkFM4uG3Aymi83rXa) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu) | [The Muppet Show Theme \(2026\)](https://open.spotify.com/album/2JRVVa5LSWP7VE5C4t3deo) | 1:11 | 2026-02-05 |  |
 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 | 2025-09-19 |  |
 | [The Top](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \(from the Netflix Film "UGLIES"\)](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 | 2024-09-13 | 2025-02-25 |
 | [The Trooper \(2015 Remaster\)](https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66) | 4:12 | 2026-01-01 |  |

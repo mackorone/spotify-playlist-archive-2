@@ -1967,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "LEA KEY",
+          "url": "https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm"
+    },
+    {
+      "album": {
         "name": "Happy Revolution",
         "url": "https://open.spotify.com/album/6qSGivtT6c6VqXtXNjoeuL"
       },
@@ -4492,6 +4514,28 @@
       "duration_ms": 169687,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/0fqsIXjekfrVEPggWdgvFg"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Gaz Meeko",
+          "url": "https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/6eA17OjmhaKOaLsSdkzQxk"
     },
     {
       "album": {

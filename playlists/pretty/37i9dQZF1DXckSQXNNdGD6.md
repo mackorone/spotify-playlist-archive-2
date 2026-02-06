@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Marlon Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,225 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,227 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 5 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
 | 6 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
 | 7 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
-| 8 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 8 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
 | 9 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 10 | [TONTO](https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [TONTO](https://open.spotify.com/album/52D92moSlvosJjb2StIvMY) | 3:53 |
-| 11 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
+| 11 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 12 | [Para 2](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para 2](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
 | 13 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
 | 14 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 44 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
 | 45 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 46 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
-| 47 | [Talk To Mi Nalga](https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Talk To Mi Nalga](https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K) | 2:28 |
-| 48 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |
+| 47 | [Castigo](https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Castigo](https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A) | 3:02 |
+| 48 | [Talk To Mi Nalga](https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [Talk To Mi Nalga](https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K) | 2:28 |
 | 49 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 50 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
 

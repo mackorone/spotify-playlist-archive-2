@@ -2,15 +2,16 @@
 
 ### [No Cap \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E)
 
-> The whole truth\. Cover: A$AP Rocky
+> The whole truth\. Cover: Don Toliver
 
-62 songs - 3 hr 6 min
+63 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 | 2025-10-17 |  |
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-10-17 |  |
 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 | 2025-10-17 |  |
+| [ATM](https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:00 | 2026-02-06 |  |
 | [BEEP BEEP](https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:54 | 2025-10-17 |  |
 | [Bells](https://open.spotify.com/track/5IBaJDzPGl6e2hOfhjymMb) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:24 | 2025-10-17 | 2025-12-06 |
 | [Bk2life](https://open.spotify.com/track/6DNrEpJjg5xtWGxNrx3cCL) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Bk2life](https://open.spotify.com/album/2BUn48YdQFkDHOr7F9pbUT) | 1:20 | 2025-10-17 | 2025-12-10 |
@@ -41,7 +42,7 @@
 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:45 | 2025-10-17 |  |
 | [Legends \(with Lil Baby\)](https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Legends \(with Lil Baby\)](https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh) | 3:01 | 2025-10-17 |  |
 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 | 2025-12-05 |  |
-| [Middle of the Summer](https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Middle of the Summer](https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2) | 2:52 | 2025-12-05 |  |
+| [Middle of the Summer](https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Middle of the Summer](https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2) | 2:52 | 2025-12-05 | 2026-02-06 |
 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-10-17 |  |
 | [my bad bro](https://open.spotify.com/track/4jpDSTxE9Z890BiWh5KpIy) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [my bad bro](https://open.spotify.com/album/4v5Qe0knp4UtrNsB3PMfWm) | 1:14 | 2025-10-17 | 2026-01-03 |
 | [NEW DROP](https://open.spotify.com/track/0A189BUGs0WHvEA09bWdA6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 3:37 | 2025-10-17 |  |

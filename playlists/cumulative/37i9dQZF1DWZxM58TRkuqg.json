@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: e\u0144au, Ari Lesmana",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Raim Laode",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "1000X",
+        "url": "https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252249,
+      "name": "1000X",
+      "url": "https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX"
+    },
+    {
+      "album": {
         "name": "123456 (New Version)",
         "url": "https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 204345,
       "name": "123456 (New Version)",
       "url": "https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O"
+    },
+    {
+      "album": {
+        "name": "Original Soundtrack Musikal Perahu Kertas",
+        "url": "https://open.spotify.com/album/7qxz6BOHVOzwHUKtztYGPZ"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211675,
+      "name": "2 Manusia",
+      "url": "https://open.spotify.com/track/4SlOgZJuM6ZP3DGTDwiZSt"
     },
     {
       "album": {
@@ -511,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Andai 'Ku Bukan Idola",
+        "url": "https://open.spotify.com/album/0eIpkNRhkvjZFnik8x8Ao3"
+      },
+      "artists": [
+        {
+          "name": "JKT48",
+          "url": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253090,
+      "name": "Andai 'Ku Bukan Idola",
+      "url": "https://open.spotify.com/track/2Q6Lv9jgqt3YWZqrRcHG9C"
+    },
+    {
+      "album": {
         "name": "Andai Sampai Akhir Usia",
         "url": "https://open.spotify.com/album/1zmhc4y1L9rwKNgJ9rkBJ0"
       },
@@ -526,6 +580,24 @@
       "duration_ms": 309987,
       "name": "Andai Sampai Akhir Usia",
       "url": "https://open.spotify.com/track/6d9b6k20BqCZMRyoNoXsQT"
+    },
+    {
+      "album": {
+        "name": "Anehnya",
+        "url": "https://open.spotify.com/album/6BdacKiLHankUB5KLV381U"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210990,
+      "name": "Anehnya",
+      "url": "https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si"
     },
     {
       "album": {
@@ -762,6 +834,24 @@
       "duration_ms": 195540,
       "name": "Babak Terakhir",
       "url": "https://open.spotify.com/track/4mFnbnRA97Kp0Kbkvi2fL3"
+    },
+    {
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222195,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx"
     },
     {
       "album": {
@@ -1412,7 +1502,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 188062,
       "name": "Bila",
       "url": "https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp"
@@ -2310,7 +2400,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 213900,
       "name": "Cukup Sudah",
       "url": "https://open.spotify.com/track/7p0oydlzqHhi8ioLpCoUFc"
@@ -2462,7 +2552,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208825,
       "name": "Dengar",
       "url": "https://open.spotify.com/track/42DjdTUa4b2GYEp4AJobHm"
@@ -2762,7 +2852,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 324818,
       "name": "Ego",
       "url": "https://open.spotify.com/track/39B12Su7R0fIDcQPykPwkc"
@@ -3146,6 +3236,24 @@
       "duration_ms": 278744,
       "name": "GOODLUCK",
       "url": "https://open.spotify.com/track/7dYM7VucT6reu7Q0wGio85"
+    },
+    {
+      "album": {
+        "name": "HA HA",
+        "url": "https://open.spotify.com/album/0EAsNU2inQOs67jMzMVZCB"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200214,
+      "name": "HA HA",
+      "url": "https://open.spotify.com/track/1e65IJ1b7AteoVLySoObKK"
     },
     {
       "album": {
@@ -3794,6 +3902,24 @@
       "duration_ms": 203557,
       "name": "Insya Allah",
       "url": "https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl"
+    },
+    {
+      "album": {
+        "name": "Iqro'",
+        "url": "https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234229,
+      "name": "Iqro'",
+      "url": "https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ"
     },
     {
       "album": {
@@ -4544,7 +4670,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 203428,
       "name": "Kawin Lari",
       "url": "https://open.spotify.com/track/5WAJ1kIil0o08sVXUwG26o"
@@ -4652,7 +4778,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 239347,
       "name": "Kembali Kecil",
       "url": "https://open.spotify.com/track/6p2HmpiklbuoVKbuqhwhdM"
@@ -4696,6 +4822,28 @@
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
+    },
+    {
+      "album": {
+        "name": "Ketika Tangan Dan Kaki Berkata",
+        "url": "https://open.spotify.com/album/29UEABjDj0LF1LkftWKc0f"
+      },
+      "artists": [
+        {
+          "name": "Cakra Khan",
+          "url": "https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps"
+        },
+        {
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228578,
+      "name": "Ketika Tangan Dan Kaki Berkata",
+      "url": "https://open.spotify.com/track/14UEeMIQWbef1gfEYwu7NL"
     },
     {
       "album": {
@@ -4906,7 +5054,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 232241,
       "name": "Kita Sama-Sama, Ya?",
       "url": "https://open.spotify.com/track/2uF6VkqexSWxNdEELDEmte"
@@ -5700,7 +5848,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 259500,
       "name": "Malam-malam",
       "url": "https://open.spotify.com/track/1N2wyU2ZAyGL0expxN7WuO"
@@ -6239,6 +6387,32 @@
     },
     {
       "album": {
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/3qMMr1jvDkawAahNsZhoH1"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        },
+        {
+          "name": "Kris Dayanti",
+          "url": "https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh"
+        },
+        {
+          "name": "Roommate Project",
+          "url": "https://open.spotify.com/artist/63Jce6aXdZbNtbMURY6dYS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293874,
+      "name": "Mencintaimu (Live From See You On Wednesday)",
+      "url": "https://open.spotify.com/track/5ekAFKZ8XahmSpKi1n2A47"
+    },
+    {
+      "album": {
         "name": "Mencintaimu (From: 2nd Miracle in Cell No.7)",
         "url": "https://open.spotify.com/album/0TzkM6DQnhO5jydrJu2IyK"
       },
@@ -6480,6 +6654,28 @@
       "duration_ms": 266866,
       "name": "Merona",
       "url": "https://open.spotify.com/track/7lvrK45ApP6mHxsTvAuBS4"
+    },
+    {
+      "album": {
+        "name": "Mother Tongue",
+        "url": "https://open.spotify.com/album/7miEy7gOIovPnonf2afoWq"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "Dorothy Chan",
+          "url": "https://open.spotify.com/artist/1Vtc3DwCV0rwTPrqM0g4JN"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219632,
+      "name": "Mother Tongue",
+      "url": "https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa"
     },
     {
       "album": {
@@ -10028,7 +10224,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 201166,
       "name": "Tatap Mata",
       "url": "https://open.spotify.com/track/70zHRaP6g351dQktpUq6Bo"
@@ -10216,7 +10412,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 224608,
       "name": "Terima Kasih",
       "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"

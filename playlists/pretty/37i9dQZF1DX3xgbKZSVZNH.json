@@ -1,6 +1,6 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 296106,
+  "num_followers": 296164,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
+        "name": "...Hits",
+        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Against All Odds (Take A Look At Me Now)",
+      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
         "name": "Ravishing - The Best Of",
         "url": "https://open.spotify.com/album/27gu75qpls2w2cY2F4uVgg"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 248266,
       "name": "Hungry Eyes",
       "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
-        "name": "...Hits",
-        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Against All Odds (Take A Look At Me Now)",
-      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
+        "name": "Playlist: The Very Best Of Meat Loaf",
+        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 321973,
+      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
+      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 256360,
       "name": "When Love And Hate Collide",
       "url": "https://open.spotify.com/track/5HJoLjMetgvuOyvuubDl1g"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
-        "name": "Playlist: The Very Best Of Meat Loaf",
-        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 321973,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
-      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
     },
     {
       "added_at": "2024-02-07 16:26:58",

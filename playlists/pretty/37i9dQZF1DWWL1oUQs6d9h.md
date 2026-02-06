@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,340 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,382 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [whydoyouloveme](https://open.spotify.com/track/2AXjZcgqWzBa5SMTnGJ6u0) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Why do you love me?](https://open.spotify.com/album/1bhfozfv70iqgcX3m8WBdQ) | 3:08 |
-| 2 | [Moan](https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Moan](https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY) | 2:24 |
-| 3 | [Losing You](https://open.spotify.com/track/2Ek187XUG8kuUfBhYcPOGC) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Losing You](https://open.spotify.com/album/5ZAKTIKBizpKigUcJHSr2J) | 2:22 |
-| 4 | [I don’t care I like u](https://open.spotify.com/track/2mbjfGSPSFCIxoauRghoB0) | [chorim](https://open.spotify.com/artist/0Lw3RrzOZdrQFcWy9kYtEW) | [I don’t care I like u](https://open.spotify.com/album/4kU2FHO3Sy20o2EmYFRB2I) | 4:35 |
-| 5 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
-| 6 | [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 |
-| 7 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 |
+| 1 | [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 |
+| 2 | [Ordinary girl](https://open.spotify.com/track/4Jnf1MhU7z0SwVn1L7nd4j) | [CHUNGYOON](https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr), [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [Ordinary girl](https://open.spotify.com/album/2SETwCmTEPUUoKWhtHIpT0) | 3:00 |
+| 3 | [signs](https://open.spotify.com/track/2tbEksv7lhfmUzlX5djhGq) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV) | [signs](https://open.spotify.com/album/1Rki9Crop0zIXWP23w6gIJ) | 2:16 |
+| 4 | [whydoyouloveme](https://open.spotify.com/track/2AXjZcgqWzBa5SMTnGJ6u0) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Why do you love me?](https://open.spotify.com/album/1bhfozfv70iqgcX3m8WBdQ) | 3:08 |
+| 5 | [Losing You](https://open.spotify.com/track/2Ek187XUG8kuUfBhYcPOGC) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Losing You](https://open.spotify.com/album/5ZAKTIKBizpKigUcJHSr2J) | 2:22 |
+| 6 | [Moan](https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Moan](https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY) | 2:24 |
+| 7 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 8 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 9 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 10 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 11 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
-| 12 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
-| 13 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
+| 12 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
+| 13 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 14 | [Dive](https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:20 |
 | 15 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 16 | [Saturn](https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 49 | [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 |
 | 50 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 |
 
-Snapshot ID: `AAAAAHkKvMScCFORtpz3trO61mMfMRNc`
+Snapshot ID: `AAAAAGKLIXaRIpaoDTLTGZwCfQ8U1jq+`

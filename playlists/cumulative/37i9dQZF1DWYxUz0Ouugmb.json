@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: The Lantis ",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Deborah Hanna",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 248096,
       "name": "Amin Kita Beda",
       "url": "https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR"
+    },
+    {
+      "album": {
+        "name": "Anehnya",
+        "url": "https://open.spotify.com/album/6BdacKiLHankUB5KLV381U"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210990,
+      "name": "Anehnya",
+      "url": "https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si"
     },
     {
       "album": {

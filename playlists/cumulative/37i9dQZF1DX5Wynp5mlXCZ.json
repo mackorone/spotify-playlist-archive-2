@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: sombr",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "HONOR",
         "url": "https://open.spotify.com/album/7JR1xXby6zbgbWSyvvzzSs"
       },
@@ -2000,6 +2018,24 @@
       "duration_ms": 182925,
       "name": "HOTBOX",
       "url": "https://open.spotify.com/track/398rCeBrqZr360MpS6EXE9"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "album": {
@@ -2156,6 +2192,24 @@
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "album": {
@@ -3888,7 +3942,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171176,
       "name": "Stomach Butterflies",
       "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
@@ -5496,7 +5550,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 163967,
       "name": "\u0412\u0441\u0435 \u043f\u043e \u043a\u043e\u043b\u0443",
       "url": "https://open.spotify.com/track/1QtvlaZUhEU5AxtiIxNrAa"
@@ -6076,6 +6130,24 @@
       "duration_ms": 194457,
       "name": "\u0417\u0430\u0431\u0438\u0439",
       "url": "https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228281,
+      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
     },
     {
       "album": {
@@ -7074,7 +7146,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"

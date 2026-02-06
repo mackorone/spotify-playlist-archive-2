@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Iyanii",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Charisma",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 223000,
       "name": "Ahere",
       "url": "https://open.spotify.com/track/0Ffyk7vaTAxKIgLMmwRcMq"
@@ -94,6 +94,24 @@
       "duration_ms": 194805,
       "name": "All My Enemies Are Suffering",
       "url": "https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ"
+    },
+    {
+      "album": {
+        "name": "All Over",
+        "url": "https://open.spotify.com/album/19i8esoItUheg9XSpqjf78"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "All Over",
+      "url": "https://open.spotify.com/track/3rByEZzH7lk609vg6pAn3m"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 187716,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/44Xv4xk4hFgirmvrDijCfO"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179478,
       "name": "Hamba",
       "url": "https://open.spotify.com/track/41J2okP1H78LMChFaXbaPT"
@@ -911,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Jangili",
+        "url": "https://open.spotify.com/album/1LEwMc3azLYHJOSmBvAwoX"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179393,
+      "name": "Jangili",
+      "url": "https://open.spotify.com/track/1S5BW99fov7uDQ16QovO3P"
+    },
+    {
+      "album": {
         "name": "ISNM (Imposter Syndrome No More)",
         "url": "https://open.spotify.com/album/4mcNJXnbaNYwheFmJCKI49"
       },
@@ -944,7 +980,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 193648,
       "name": "Just for You",
       "url": "https://open.spotify.com/track/6nC60raDUJJwfrIGVURfmg"
@@ -1433,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "Mr & Mrs",
+        "url": "https://open.spotify.com/album/4HMcsqg3eXHOxyzSBcSE9x"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Mr & Mrs",
+      "url": "https://open.spotify.com/track/23amY54YH5JjEHl07h52e9"
+    },
+    {
+      "album": {
         "name": "Mr Goodtimes",
         "url": "https://open.spotify.com/album/1cAVm30Gksqq5wnuoqQhvw"
       },
@@ -1522,7 +1576,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 237241,
       "name": "Nawaza",
       "url": "https://open.spotify.com/track/4UyZ0Q1h3hr2yVSABZoZpT"
@@ -1668,6 +1722,24 @@
       "duration_ms": 200412,
       "name": "Not For Me",
       "url": "https://open.spotify.com/track/7h6GXhuR6IwsHks2FKSQmv"
+    },
+    {
+      "album": {
+        "name": "Not Letting Go",
+        "url": "https://open.spotify.com/album/73oEXHZYj4TT5f0XUuYTks"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Not Letting Go",
+      "url": "https://open.spotify.com/track/28kmfPLAoD1ZBqubXquElg"
     },
     {
       "album": {
@@ -2610,10 +2682,28 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 135784,
       "name": "WAWILI",
       "url": "https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo"
+    },
+    {
+      "album": {
+        "name": "We Don't Need Money to Be Rich",
+        "url": "https://open.spotify.com/album/6DYfffdAKRD8rMgKoPDKIR"
+      },
+      "artists": [
+        {
+          "name": "Mutoriah",
+          "url": "https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "We Don't Need Money to Be Rich",
+      "url": "https://open.spotify.com/track/7vePbKLSXCGiz8Mx82PNs0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Naza x L2B",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Theodora",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143575,
       "name": "BADMAN GANGSTA",
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
@@ -4498,6 +4498,24 @@
       "duration_ms": 246101,
       "name": "Dendisa",
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
+    },
+    {
+      "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
     },
     {
       "album": {
@@ -15039,6 +15057,28 @@
     },
     {
       "album": {
+        "name": "SHOPPING CHAMPAGNE",
+        "url": "https://open.spotify.com/album/1XBVnxM15j93o1WzCICiqE"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101723,
+      "name": "SHOPPING CHAMPAGNE",
+      "url": "https://open.spotify.com/track/0aPGKMuWmDPXhRH5mw1daj"
+    },
+    {
+      "album": {
         "name": "TZA",
         "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
       },
@@ -17300,7 +17340,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164209,
       "name": "Tu sais bien (feat. Jo\u00e9 Dw\u00e8t Fil\u00e9)",
       "url": "https://open.spotify.com/track/6LrTYqrf40l1S9KT54Gshs"

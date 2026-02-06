@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-299 songs - 18 hr 26 min
+302 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2026-01-02 |  |
 | [On The Run](https://open.spotify.com/track/4cJBm3gR4bWpiZ53MAlujN) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [On The Run](https://open.spotify.com/album/0VpAI7tHFk5mbDcfxHtfaB) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 | 2025-11-28 |
+| [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-02-05 |  |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
@@ -225,6 +226,7 @@
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |
+| [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 | 2026-02-05 |  |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 | 2025-12-17 |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-06 |  |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |
@@ -295,6 +297,7 @@
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 |  |
+| [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 |  |
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 | 2025-11-28 |
 | [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 | 2025-12-16 |  |
 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 | 2025-12-17 |

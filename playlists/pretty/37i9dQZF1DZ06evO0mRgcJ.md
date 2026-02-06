@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 611 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 30 | [Situaciones de la Calle](https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 3](https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11) | 2:25 |
 | 31 | [Después los Miro](https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Después los Miro](https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3) | 2:43 |
 | 32 | [Simplemente El P](https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [JR Barraza](https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:58 |
-| 33 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 |
-| 34 | [El Burro \(En Vivo\)](https://open.spotify.com/track/4PeRWR5tReFefm2qCyNpX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:49 |
+| 33 | [El Burro \(En Vivo\)](https://open.spotify.com/track/4PeRWR5tReFefm2qCyNpX9) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:49 |
+| 34 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 |
 | 35 | [El Uno Al 7 \- En Vivo](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7 \(En Vivo\)](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 |
 | 36 | [Me Dicen E](https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Los Del Area](https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 |
 | 37 | [Uno Nueve](https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Uno Nueve](https://open.spotify.com/album/1EkygNp1Nv1WYx63blh8tg) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [Ultimamente Tapando Bocas](https://open.spotify.com/track/6CwgGDlKi58MrCf8nsc8vm) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ultimamente Tapando Bocas](https://open.spotify.com/album/6vOmMRvQqATYGFPCcygZDP) | 4:00 |
 | 50 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 |
 
-Snapshot ID: `aYE6gAAAAADGSCrNd8E6m/sZV37Crjf6`
+Snapshot ID: `aYKMAAAAAABEwqFxDqobOcZgHRwP7jGw`

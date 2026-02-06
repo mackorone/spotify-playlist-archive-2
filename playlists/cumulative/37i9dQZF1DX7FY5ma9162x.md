@@ -2,7 +2,7 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Rema
+> The tracks you can put on repeat all day\. Cover: Leon Thomas
 
 678 songs - 1 day 13 hr 47 min
 

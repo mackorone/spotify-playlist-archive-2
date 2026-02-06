@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "20 Weeks",
+        "url": "https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "20 Weeks",
+      "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
+    },
+    {
+      "album": {
         "name": "321 I'm Callin'",
         "url": "https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 157142,
       "name": "Back 2 You",
       "url": "https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 233050,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk"
@@ -2044,6 +2062,24 @@
       "duration_ms": 186000,
       "name": "Kembali Masa Lalu",
       "url": "https://open.spotify.com/track/3c4MPWhrFieS1yBONSsZ5v"
+    },
+    {
+      "album": {
+        "name": "Kenapa Selalu Aku",
+        "url": "https://open.spotify.com/album/2W2TlAgxqVErI0BTQjZNxq"
+      },
+      "artists": [
+        {
+          "name": "KELJO",
+          "url": "https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Kenapa Selalu Aku",
+      "url": "https://open.spotify.com/track/69iYcn3kbPHW4ox0q1FBaL"
     },
     {
       "album": {
@@ -3354,6 +3390,24 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
+    },
+    {
+      "album": {
+        "name": "SILVER LINING",
+        "url": "https://open.spotify.com/album/65cFOLa7aqja0VTKMTCq5j"
+      },
+      "artists": [
+        {
+          "name": "Kay Sebastene",
+          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265818,
+      "name": "SILVER LINING",
+      "url": "https://open.spotify.com/track/02385GSFhRkEpONl9xNOwb"
     },
     {
       "album": {

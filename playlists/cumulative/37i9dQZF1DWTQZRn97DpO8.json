@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Myra",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Iris Aeria",
   "name": "le miel",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 152000,
       "name": "2 SANS TOI",
       "url": "https://open.spotify.com/track/0UxendkYDaSG6uMbfMn6y8"
+    },
+    {
+      "album": {
+        "name": "20S",
+        "url": "https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9"
+      },
+      "artists": [
+        {
+          "name": "Iris Aeria",
+          "url": "https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184970,
+      "name": "20S",
+      "url": "https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD"
     },
     {
       "album": {
@@ -2579,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "En corps",
+        "url": "https://open.spotify.com/album/1muVywGqeT5bmdMQ3VViwj"
+      },
+      "artists": [
+        {
+          "name": "Lykuin",
+          "url": "https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "En corps",
+      "url": "https://open.spotify.com/track/2xZt4HhUoqog3riccMdQXM"
+    },
+    {
+      "album": {
         "name": "EN ITALIQUE",
         "url": "https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi"
       },
@@ -4562,6 +4598,46 @@
       "duration_ms": 212426,
       "name": "La mienne",
       "url": "https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz"
+    },
+    {
+      "album": {
+        "name": "La paix",
+        "url": "https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe"
+      },
+      "artists": [
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        },
+        {
+          "name": "PeaceMaker",
+          "url": "https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192704,
+      "name": "La paix",
+      "url": "https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP"
+    },
+    {
+      "album": {
+        "name": "Laisse-la devenir",
+        "url": "https://open.spotify.com/album/63Vu1RAGy74s3LtyR8zVue"
+      },
+      "artists": [
+        {
+          "name": "Dorysse",
+          "url": "https://open.spotify.com/artist/4uC2fePQOK7z2qeu0j6Wjk"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Laisse-la devenir",
+      "url": "https://open.spotify.com/track/0pLWqflDJwDftgk3Kd3U6o"
     },
     {
       "album": {
@@ -6602,7 +6678,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166153,
       "name": "PATRONNE",
       "url": "https://open.spotify.com/track/1uqD8JUp0YGMvq8WxzEBfn"
@@ -8978,7 +9054,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 145850,
       "name": "TOXIC/CHILL",
       "url": "https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw"
@@ -9198,7 +9274,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 142938,
       "name": "tu voulais",
       "url": "https://open.spotify.com/track/4lhe9Ah4ryYJxZT6XsBKMG"
@@ -9610,7 +9686,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 232500,
       "name": "Yourtes",
       "url": "https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76"

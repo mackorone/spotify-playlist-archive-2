@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,262 likes - 105 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,302 likes - 105 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

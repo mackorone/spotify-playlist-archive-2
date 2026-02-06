@@ -4,7 +4,7 @@
 
 > 
 
-2,344 songs - 5 day 5 hr 54 min
+2,345 songs - 5 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-04-03 |  |
 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 | 2023-04-17 |  |
 | [Headlights](https://open.spotify.com/track/7DYu9gQIkAF38H71V2uASa) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:55 | 2021-08-05 |  |
+| [Heart Dub](https://open.spotify.com/track/6YOzFoMadiyRiXSYcBkshT) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:31 | 2026-02-06 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \(Deluxe Edition\)](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2021-08-05 |  |
 | [heartless](https://open.spotify.com/track/0nu2e482H8Xspsx0z4KTYW) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [kuroneko](https://open.spotify.com/album/1a9GKdu2sPv7bvGg1efnx4) | 3:02 | 2022-02-04 |  |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2021-08-05 |  |
@@ -1866,7 +1867,7 @@
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2023-02-20 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/75aLTVBSGIquqzQ6AkmK3Q) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind](https://open.spotify.com/album/6yaiubHHJy8N8QcHy3julo) | 5:01 | 2021-08-05 |  |
 | [Smile Boyo](https://open.spotify.com/track/6SHTRuxHS9pM3BJsTn4PcU) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 3:28 | 2022-06-28 |  |
-| [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 | 2023-08-09 |  |
+| [SMOKE IT OFF! \(Jnhygs\)](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 | 2023-08-09 |  |
 | [Snakeskin](https://open.spotify.com/track/6c3qhnJnDalbbgC7CAijbn) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:12 | 2022-11-08 |  |
 | [Snap \- Demo](https://open.spotify.com/track/7zBbLVcp8mSQX2EMjSwNp9) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:54 | 2023-03-16 |  |
 | [Snitch](https://open.spotify.com/track/7u9OeO6VCardPfzXlB1rJR) | [Reyn Hartley](https://open.spotify.com/artist/4v1IssGK0vWAyG0eK1aY21) | [Snitch](https://open.spotify.com/album/29ImpsW3v1rMS6KJ4H7SSP) | 2:35 | 2021-08-05 |  |

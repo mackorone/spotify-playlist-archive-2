@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > The soundtrack for your Super Bowl  LX Party \|Super Bowl Party\| Halftime Performance\|
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,582 likes - 99 songs - 6 hr 29 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 113,575 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

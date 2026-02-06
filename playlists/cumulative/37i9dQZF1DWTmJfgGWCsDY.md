@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Kidene Fighter
 
-178 songs - 11 hr 46 min
+179 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 | 2025-06-05 |  |
 | [Baby Wangu](https://open.spotify.com/track/4GgotGWDwce20RtlkZx8zm) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Baby Wangu](https://open.spotify.com/album/0GFy1uMBz5JQVvxd0ivxoD) | 3:14 | 2025-11-13 | 2025-12-31 |
 | [Bado Hujasema](https://open.spotify.com/track/3mAReE4IMN0uYohwvxEtwk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Bado Hujasema](https://open.spotify.com/album/0EXOj7hO5yeL7dce4OhYoL) | 2:33 | 2024-01-26 | 2024-02-17 |
+| [Bado Nakupenda](https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Bado Nakupenda](https://open.spotify.com/album/1n2LZ7DJW1QFoBrLdxAdbO) | 2:43 | 2026-02-05 |  |
 | [Bado Sijasikia](https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI) | [Misso Misondo](https://open.spotify.com/artist/70Cfd1sDH9DJuiRSpRDT5p), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Bado Sijasikia](https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy) | 3:37 | 2025-08-21 |  |
 | [Bambia](https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Real Life](https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa) | 4:00 | 2025-05-16 |  |
 | [BELIEVE](https://open.spotify.com/track/1uUsDhq9xqnpH97Hb6BmAi) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [BELIEVE](https://open.spotify.com/album/0XampDY52VBFjRFWxuJOOB) | 1:41 | 2025-02-06 |  |
@@ -41,7 +42,7 @@
 | [Hassan \- Remix](https://open.spotify.com/track/03pKKLlGh9Yr5M8HMBPvDO) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Chidi Beenz](https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Mushizo](https://open.spotify.com/artist/68MieBHZqK94WaEFndijnv) | [Hassan \(Remix\)](https://open.spotify.com/album/7p8n98oF0211qkAvcmrk9F) | 3:51 | 2024-09-12 | 2024-10-04 |
 | [HASSANI](https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [HASSANI](https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW) | 2:33 | 2023-12-15 |  |
 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 | 2022-08-05 |  |
-| [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 | 2022-08-05 |  |
+| [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 | 2022-08-05 | 2026-02-06 |
 | [Hujafika](https://open.spotify.com/track/0Cs5QmEaFHNdTn93GUZbz1) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Hujafika](https://open.spotify.com/album/7drsSeRr9mpAnM8WH7463n) | 3:35 | 2023-04-07 | 2023-06-02 |
 | [Hujanikomoa](https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Hujanikomoa](https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM) | 5:59 | 2022-08-05 |  |
 | [Hujanizidi \(feat\. D Voice\)](https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 4:18 | 2024-12-19 |  |

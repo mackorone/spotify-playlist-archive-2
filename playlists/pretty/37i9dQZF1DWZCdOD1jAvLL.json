@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Tiga & Boys Noize",
-  "num_followers": 268736,
+  "num_followers": 268747,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Appetite",
         "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Gunfinger (Salute)",
         "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1199,46 +1199,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "You Gonna Want Me (I Know)",
-        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "You Gonna Want Me (I Know)",
-      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
       },
@@ -1263,6 +1223,26 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "909",
         "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 237500,
       "name": "909",
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "You Gonna Want Me (I Know)",
+        "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "You Gonna Want Me (I Know)",
+      "url": "https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "duration_ms": 236291,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -1535,30 +1559,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "ZOHARA",
-          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
-        }
-      ],
-      "duration_ms": 236291,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1599,26 +1599,6 @@
       "duration_ms": 174550,
       "name": "Not Gonna Be Your Boo (feat. Robin S)",
       "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -1679,6 +1659,26 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Gas Pedal Remix",
         "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 130070,
       "name": "Gas Pedal Remix",
       "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2155,30 +2155,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Bring The House Down",
-        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
-        }
-      ],
-      "duration_ms": 222814,
-      "name": "Bring The House Down",
-      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -2199,6 +2175,30 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Bring The House Down",
+        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 222814,
+      "name": "Bring The House Down",
+      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
         "name": "JUMP OUT",
         "url": "https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ"
       },
@@ -2295,6 +2275,26 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
     },
     {
       "added_at": "2026-01-30 05:01:02",
@@ -2511,6 +2511,26 @@
     {
       "added_at": "2026-01-30 05:01:02",
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "added_at": "2026-01-30 05:01:02",
+      "album": {
         "name": "Torch",
         "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
       },
@@ -2531,26 +2551,6 @@
       "duration_ms": 173793,
       "name": "Torch",
       "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
-    },
-    {
-      "added_at": "2026-01-30 05:01:02",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
     },
     {
       "added_at": "2026-01-30 05:01:02",

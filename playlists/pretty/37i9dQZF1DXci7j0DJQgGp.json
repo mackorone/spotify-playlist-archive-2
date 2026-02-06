@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1697792,
+  "num_followers": 1697690,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
+        "name": "A Way Forward",
+        "url": "https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "duration_ms": 325325,
+      "name": "Across That Fine Line",
+      "url": "https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
-        "name": "A Way Forward",
-        "url": "https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv"
-      },
-      "artists": [
-        {
-          "name": "Nation of Language",
-          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
-        }
-      ],
-      "duration_ms": 325325,
-      "name": "Across That Fine Line",
-      "url": "https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Daniel",
-        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Daniel",
+        "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 214282,
       "name": "Skin",
       "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Faith Crisis Pt 1",
-        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Faith Crisis Pt 1",
+        "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/6w6rXsCnYcvDcHU6GMq8fZ"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Excalibur / Toy",
-        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
-      },
-      "artists": [
-        {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "Two Sides",
         "url": "https://open.spotify.com/album/3FG64GXbcfsmnx1ocD7kwk"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+        "name": "Excalibur / Toy",
+        "url": "https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR"
       },
       "artists": [
         {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+      "duration_ms": 205240,
+      "name": "Excalibur",
+      "url": "https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1579,6 +1563,22 @@
       "duration_ms": 243786,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Photographs",
-        "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 198530,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2026-01-26 17:30:01",

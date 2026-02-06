@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1235,
+  "num_followers": 1236,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQN6QrYHIlX0tr9a4TiRTCpn806T4L",
+  "snapshot_id": "AAAQOStOF94sAtTLG2VZo3gv8DucVijp",
   "tracks": [
     {
       "added_at": "2026-01-15 08:27:53",
@@ -2287,6 +2287,38 @@
       "duration_ms": 284001,
       "name": "I painted our kitchen",
       "url": "https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB"
+    },
+    {
+      "added_at": "2026-02-05 08:24:01",
+      "album": {
+        "name": "Estantes",
+        "url": "https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn"
+      },
+      "artists": [
+        {
+          "name": "Julian Kancepolski",
+          "url": "https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Visitantes",
+      "url": "https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5"
+    },
+    {
+      "added_at": "2026-02-05 08:24:09",
+      "album": {
+        "name": "Il vaccino e' vicino",
+        "url": "https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 158815,
+      "name": "Il vaccino e' vicino",
+      "url": "https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF"
     }
   ],
   "unique_name": "New Indie Music",

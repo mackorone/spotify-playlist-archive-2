@@ -2,7 +2,7 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Gain & JO KWON \(가인 & 조권\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: GIRIBOY & Heize\)
 
 275 songs - 16 hr 12 min
 

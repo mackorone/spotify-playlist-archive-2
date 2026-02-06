@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "1000 Timer",
+        "url": "https://open.spotify.com/album/1JxyEWSSQzWN74U21qG0Eg"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190561,
+      "name": "1000 Timer",
+      "url": "https://open.spotify.com/track/4xCGb24w2tsJxSLy1cgrBJ"
+    },
+    {
+      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -898,7 +916,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
@@ -1592,6 +1610,24 @@
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
+    },
+    {
+      "album": {
+        "name": "Begge To",
+        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186439,
+      "name": "Begge To",
+      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
     },
     {
       "album": {
@@ -8114,7 +8150,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 230000,
       "name": "I Hear a String Quartet Playing Everywhere I Go",
       "url": "https://open.spotify.com/track/1NWtclKzRaPG1o4IJPHpzn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,008,698 likes - 113 songs - 5 hr 3 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,008,620 likes - 113 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 28 | [Tremorix \- sped up](https://open.spotify.com/track/4nxkXosW7OHCiCmqlOHabT) | [Einheri](https://open.spotify.com/artist/2GV0pIPMG5gyzsx7UMgcfh) | [Tremorix](https://open.spotify.com/album/0OxNq1xHEf3SfE2DPzkohR) | 2:08 |
 | 29 | [Dying On The Inside](https://open.spotify.com/track/2KNdPA3qilLo9skfY8Bfg6) | [azi](https://open.spotify.com/artist/6cDwx7w1XLMaYVe0gS1btA), [frailty](https://open.spotify.com/artist/4BrY7O6ooTJJB9vShnM50Y) | [Dying On The Inside](https://open.spotify.com/album/5d6XBWemwHmPxiph4Q3J7x) | 1:58 |
 | 30 | [2000](https://open.spotify.com/track/3vUMN9hezWjBac9UE8xkVd) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA) | [2000](https://open.spotify.com/album/5qd5jaq5RmAtYWKdD6IXF8) | 1:39 |
-| 31 | [Everybody's Watching](https://open.spotify.com/track/0sQJZ8SZAgWZWbbzN5UoqX) | [Riot.](https://open.spotify.com/artist/4BmR8EgphBeuIcauuLnHzn) | [Everybody's Watching](https://open.spotify.com/album/1TJz6bJfAS4j2uqcqiIc5e) | 2:46 |
+| 31 | [Everybody's Watching](https://open.spotify.com/track/0sQJZ8SZAgWZWbbzN5UoqX) | [Riot.](https://open.spotify.com/artist/4BmR8EgphBeuIcauuLnHzn) | [Everybody's Watching](https://open.spotify.com/album/1TJz6bJfAS4j2uqcqiIc5e) | 2:40 |
 | 32 | [think2much](https://open.spotify.com/track/7n2N2wBLB6GgihxbcFiODj) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [THE\_BIG\_TRIP](https://open.spotify.com/album/5fJwIK2omIRULAM93wapMk) | 3:00 |
 | 33 | [SALTO!](https://open.spotify.com/track/4ATDhWZs0WSVzjD2k1DKHN) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [SALTO!](https://open.spotify.com/album/1Z7Jp7gBw7PvjbbBndeHe0) | 1:16 |
 | 34 | [Ghosts In The Network](https://open.spotify.com/track/3rIMZ6GuubWPIf1eB5GGIS) | [DJSYNTHTOK](https://open.spotify.com/artist/1Gg9OE6NVjHHl2NZUZwMhA), [Brent LeVasseur](https://open.spotify.com/artist/7FiOUsJNVf1BKh9gPzUFtb) | [Ghosts In The Network](https://open.spotify.com/album/4eGDL5Np3XgyZqZZCf6dmE) | 2:47 |

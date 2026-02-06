@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,034 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,043 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 12 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
 | 13 | [Sjakie van de Hoek](https://open.spotify.com/track/1d451ROhYPaoWhVaudhHAM) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Van Dichtbij](https://open.spotify.com/album/6VZaCO9diVK5EVMJ1hTwwy) | 2:49 |
 | 14 | [Ik Ben Verliefd Op John Travolta](https://open.spotify.com/track/5tC59DDuaODHeYpX4kKsRZ) | [Sandy](https://open.spotify.com/artist/5PpJnd7D504yfy2B0AjyAo) | [Sandy \(Remastered\)](https://open.spotify.com/album/2HPPNcdT5ezzRbE16asLaI) | 3:39 |
-| 15 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
+| 15 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
 | 16 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
-| 17 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
+| 17 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
 | 18 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
 | 19 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
 | 20 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 29 | ['n Man mag niet huilen](https://open.spotify.com/track/5bw3NZK5IMQ5Em7u4wvefI) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Hollandse Sterren](https://open.spotify.com/album/7Ht0WupDYtvD8eRkIZBwOH) | 3:53 |
 | 30 | [Ik ben Gerrit](https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX) | [Gerrit Dekzeil](https://open.spotify.com/artist/7JCwsDBlp5mgNwDq8EyLa6) | [Waar moet dat heen? Hoe zal dat gaan?](https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt) | 3:00 |
 | 31 | [De Tamme Boerenzoon](https://open.spotify.com/track/0QdHoKxsUspo3PRFB5jXLg) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [De Tamme Boerenzoon](https://open.spotify.com/album/2Fl945IbiGs1Ac6iBNV0mA) | 4:41 |
-| 32 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
-| 33 | [Oh Darling](https://open.spotify.com/track/3lG95fkYa4vlzqDVP9nC7T) | [Theo Diepenbrock](https://open.spotify.com/artist/7INz03Eq6ZwllxktYTzdHO) | [Oh Darling](https://open.spotify.com/album/7oUIOYCWBKgEk27hFpCCWX) | 3:21 |
+| 32 | [Oh Darling](https://open.spotify.com/track/3lG95fkYa4vlzqDVP9nC7T) | [Theo Diepenbrock](https://open.spotify.com/artist/7INz03Eq6ZwllxktYTzdHO) | [Oh Darling](https://open.spotify.com/album/7oUIOYCWBKgEk27hFpCCWX) | 3:21 |
+| 33 | [Een Kind Zonder Moeder](https://open.spotify.com/track/016RWPqXmXockjFHdYIr1w) | [Mieke](https://open.spotify.com/artist/5K6KrixF0d77DFUIJj3Dfj) | [Een Kind Zonder Moeder](https://open.spotify.com/album/47atzH4VqJTTY76kyKzKdh) | 3:11 |
 | 34 | [Blauwe Korenbloemen](https://open.spotify.com/track/5N8apD8l7pOOLdJKg6FJ13) | [Zusjes De Roo](https://open.spotify.com/artist/5zzTSqOoDI9d7JQFplIgNk) | [Blauwe Korenbloemen](https://open.spotify.com/album/0XEmzOcucnMpOtdyo8GIxS) | 3:09 |
 | 35 | [Meisjes Met Rode Haren](https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ) | [Arne Jansen](https://open.spotify.com/artist/0JvAQH3pfJAvEL8cAd6TSe) | [Zijn Allergrootste Hits](https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL) | 5:35 |
 | 36 | [Angelique](https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [André van Duin](https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh) | 2:14 |

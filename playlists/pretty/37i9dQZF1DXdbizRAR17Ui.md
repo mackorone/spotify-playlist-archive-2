@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,844 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,849 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 11 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 |
 | 12 | [I Want U](https://open.spotify.com/track/7E0YVjoK2lAyeEtOIpbE9o) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [I Want U](https://open.spotify.com/album/7CREH7PcdwJbWRlpi94CEg) | 4:28 |
 | 13 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
-| 14 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
+| 14 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
 | 15 | [My Room \(90HD\)](https://open.spotify.com/track/5DZHmx01Pt2LbNmkop8B0V) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [My Room \(90HD\)](https://open.spotify.com/album/4NJHEHmFZmenw16RpncscE) | 2:23 |
-| 16 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
+| 16 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
 | 17 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 18 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 19 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 27 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 28 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 29 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
-| 30 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
-| 31 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |
+| 30 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |
+| 31 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 32 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 |
 | 33 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 34 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |

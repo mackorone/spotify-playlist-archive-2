@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "Det g\u00e5r bra",
       "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
@@ -3142,6 +3142,32 @@
     {
       "album": {
         "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167751,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1vrHChYEhj3ZxIT94LfOsa"
+    },
+    {
+      "album": {
+        "name": "Her vil e v\u00e6r",
         "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
       },
       "artists": [
@@ -3904,7 +3930,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 137160,
       "name": "If I'm So Bad",
       "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
@@ -4926,7 +4952,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170404,
       "name": "Mamma & Pappa",
       "url": "https://open.spotify.com/track/2bn2Cyw9D15R2pvZ6Z6q2D"
@@ -5948,7 +5974,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190522,
       "name": "Real To Me",
       "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
@@ -6446,6 +6472,24 @@
       "duration_ms": 157524,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4mPmG1qvK98PXeNhLVFMVB"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220662,
+      "name": "Siste f\u00f8rste dans",
+      "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
     },
     {
       "album": {

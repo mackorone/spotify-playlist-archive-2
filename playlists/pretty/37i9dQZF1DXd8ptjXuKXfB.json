@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29167,
+  "num_followers": 29168,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "SZ\u00c9TSZEDLEK",
-        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 151421,
-      "name": "SZ\u00c9TSZEDLEK",
-      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "Vinnipu",
         "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "SZ\u00c9TSZEDLEK",
+        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 151421,
+      "name": "SZ\u00c9TSZEDLEK",
+      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
         "name": "SeanPaul",
         "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 237500,
       "name": "SeanPaul",
       "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "FREY TIMI",
-        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
-      },
-      "artists": [
-        {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
-        }
-      ],
-      "duration_ms": 155214,
-      "name": "FREY TIMI",
-      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "FREY TIMI",
+        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
+      },
+      "artists": [
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 155214,
+      "name": "FREY TIMI",
+      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "KETT\u0150/KETT\u0150",
-        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 177791,
-      "name": "KETT\u0150/KETT\u0150",
-      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "ANGYALOK",
         "url": "https://open.spotify.com/album/7El982ts9FR1auscPCNLr6"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "KETT\u0150/KETT\u0150",
+        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 177791,
+      "name": "KETT\u0150/KETT\u0150",
+      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "EGY/KETT\u0150",
-        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 299768,
-      "name": "EGY/KETT\u0150",
-      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "PATTOG A BEAT",
         "url": "https://open.spotify.com/album/5GwZPNhspjkc3b8at4MNSz"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 114626,
       "name": "PATTOG A BEAT",
       "url": "https://open.spotify.com/track/4mi7BpmzNXK5J3dRgyGG9i"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "EGY/KETT\u0150",
+        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 299768,
+      "name": "EGY/KETT\u0150",
+      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
+        "name": "MARIO",
+        "url": "https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 176969,
       "name": "Rajosan 3",
       "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "MARIO",
-        "url": "https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        },
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "MARIO",
-      "url": "https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
+        "name": "Oy Lele",
+        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Oy Lele",
+      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
         "name": "vemzavr!",
         "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "Oy Lele",
-        "url": "https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B"
-      },
-      "artists": [
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Oy Lele",
-      "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV"
       },
@@ -1287,6 +1287,42 @@
       "duration_ms": 146526,
       "name": "10/10",
       "url": "https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "MIT MONDHATN\u00c9K?",
+        "url": "https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 122706,
+      "name": "MIT MONDHATN\u00c9K?",
+      "url": "https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "h\u00f3angyal",
+        "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        },
+        {
+          "name": "Bal\u00e1zs-Piri Soma",
+          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
+        }
+      ],
+      "duration_ms": 219590,
+      "name": "h\u00f3angyal",
+      "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1315,58 +1351,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "h\u00f3angyal",
-        "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
-      },
-      "artists": [
-        {
-          "name": "gyuris",
-          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
-        },
-        {
-          "name": "Bal\u00e1zs-Piri Soma",
-          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
-        }
-      ],
-      "duration_ms": 219590,
-      "name": "h\u00f3angyal",
-      "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "MIT MONDHATN\u00c9K?",
-        "url": "https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 122706,
-      "name": "MIT MONDHATN\u00c9K?",
-      "url": "https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "Europa",
-        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "THC",
-      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "CSEREPAD",
         "url": "https://open.spotify.com/album/2t5F8Jc4DXooxBA4qTgSNg"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 155750,
       "name": "CSEREPAD",
       "url": "https://open.spotify.com/track/3Mie7Yrg5XVRC7RLqEjL6M"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "Europa",
+        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "THC",
+      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
     },
     {
       "added_at": "2026-02-03 11:41:19",

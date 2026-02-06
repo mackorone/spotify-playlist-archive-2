@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-430 songs - 1 day 1 hr 22 min
+431 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,6 +424,7 @@
 | [Withdrawals](https://open.spotify.com/track/1gRh1UnU44zyiOvZgMD4qR) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:45 | 2024-02-27 |  |
 | [Women Ain’t Whiskey](https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 2:46 | 2024-02-27 |  |
 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 | 2024-02-27 |  |
+| [Work Like That](https://open.spotify.com/track/4RtFL3XU21zaFg4o1O3Wr8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:56 | 2026-02-05 |  |
 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 | 2024-02-27 |  |
 | [Written In The Bar](https://open.spotify.com/track/6Po3hqpoEUAFkeubltnsJv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 | 2024-02-27 |  |
 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 | 2024-08-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 158 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 158 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,9 +111,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 101 | [Get It Done](https://open.spotify.com/track/0sDZcodL0BdQuOCHl9ukAL) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 3:02 |
 | 102 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
 | 103 | [Hard Not to Love You](https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [All at Once](https://open.spotify.com/album/1C3KmjfI3oZjfPZGyYAk5X) | 3:46 |
-| 104 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
-| 105 | [Anger](https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 2:57 |
-| 106 | [Found Your Love](https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Found Your Love](https://open.spotify.com/album/0GbWTbFQk0gXHxwhG0zXbS) | 3:03 |
+| 104 | [Found Your Love](https://open.spotify.com/track/1mAJL4ypRyWLI0UMDxAanG) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Found Your Love](https://open.spotify.com/album/0GbWTbFQk0gXHxwhG0zXbS) | 3:03 |
+| 105 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
+| 106 | [Anger](https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 2:57 |
 | 107 | [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 |
 | 108 | [The Side I Never Show](https://open.spotify.com/track/4o4QUsLfstZmPoq39R7SJD) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [My Heart Can't Take the Music](https://open.spotify.com/album/6HXA21x7DwmcMOvbYcRzir) | 3:48 |
 | 109 | [Air](https://open.spotify.com/track/24xjtgb8iTOIicQPckLhV7) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [37 Adventures Presents Odd Numbers Vol\. 1](https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y) | 4:02 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 122 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
 | 123 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
 | 124 | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/track/6amSPEhJTzMFi8PnwxrGnC) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/album/2Bgwg2XoDhGjNvTxRlQXTd) | 2:41 |
-| 125 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
-| 126 | [Crashing](https://open.spotify.com/track/3h92ZmC1s6VkmY8cDaqZ6k) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Crashing](https://open.spotify.com/album/0fEcqp0U7H9cqxl1372HMV) | 2:59 |
+| 125 | [Crashing](https://open.spotify.com/track/3h92ZmC1s6VkmY8cDaqZ6k) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Crashing](https://open.spotify.com/album/0fEcqp0U7H9cqxl1372HMV) | 2:59 |
+| 126 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
 | 127 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
 | 128 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 129 | [Storm Warning](https://open.spotify.com/track/2A5c5E66FvZGhVtqPIyBXg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:22 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 157 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 158 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcIzLAAAAABPKtHwU9wP5wBQir8EuZLE`
+Snapshot ID: `AcI49AAAAADBjRuhf31UML0rLXoTylZr`

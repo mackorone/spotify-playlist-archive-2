@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Manuel Turizo
+> 6 de febrero, día de la Aitanidad.
 
-858 songs - 1 day 19 hr 6 min
+860 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-12 | 2023-06-27 |
 | [5 SENTÍOS](https://open.spotify.com/track/7n12wwP15l3KhIKgMoUiZY) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [5 SENTÍOS](https://open.spotify.com/album/3777kSd47h5uVR0lnPf81n) | 3:35 | 2023-03-13 | 2023-08-22 |
 | [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-05-05 | 2025-06-24 |
+| [6 DE FEBRERO](https://open.spotify.com/track/6l18mUHOGVZRr5wTyITX0M) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:55 | 2026-02-05 |  |
 | [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-12-02 | 2025-01-08 |
 | [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 | 2025-10-20 | 2025-11-04 |
 | [A Dónde Ir](https://open.spotify.com/track/4vGcvkfWvbXPE0khPx3WAf) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [A Dónde Ir](https://open.spotify.com/album/3jyb034ATiCQU6IT0G3irN) | 3:15 | 2025-03-10 | 2025-03-14 |
@@ -248,7 +249,7 @@
 | [El Olor De Tu Pelo](https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [El Olor De Tu Pelo](https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1) | 2:43 | 2023-07-17 | 2023-12-19 |
 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 | 2024-07-15 | 2024-07-31 |
 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-03-13 | 2024-09-03 |
-| [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Una mudanza](https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p) | 3:18 | 2026-01-26 |  |
+| [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Una mudanza](https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p) | 3:18 | 2026-01-26 | 2026-02-06 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-08-01 | 2023-08-15 |
 | [El Tiempo Que Paso Contigo](https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [El Tiempo Que Paso Contigo](https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A) | 3:10 | 2024-12-09 | 2025-10-07 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-04-13 | 2023-09-26 |
@@ -520,13 +521,14 @@
 | [NADA QUE DECIR](https://open.spotify.com/track/3XtPNo0r7Zy9Z6A2tK77Ld) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:33 | 2023-06-01 | 2023-07-05 |
 | [NADA QUE DECIR](https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 3:33 | 2023-04-17 | 2023-05-11 |
 | [NADA QUE DECIR](https://open.spotify.com/track/6wVyxwuHnyhwgS9rQj06Pc) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [MI BANDERA](https://open.spotify.com/album/2JfufZUm8YJWyCB9Onb17n) | 3:33 | 2023-05-09 | 2023-06-04 |
-| [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 | 2026-01-26 |  |
+| [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 | 2026-01-26 | 2026-02-06 |
 | [NADIE ME HA PREGUNTADO](https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [NADIE ME HA PREGUNTADO](https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro) | 2:42 | 2023-04-25 | 2023-05-20 |
 | [Nadie más te la cree](https://open.spotify.com/track/3hUGYAky3cU0CHBIxmiYcK) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Lo bello y lo roto](https://open.spotify.com/album/6giljR263PokzjhNexvgga) | 2:22 | 2025-11-24 |  |
 | [Nanai](https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Nanai](https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa) | 2:29 | 2024-06-17 | 2024-06-22 |
 | [NAZARIO](https://open.spotify.com/track/6Ud3LAkeAHWrwlVdgLrfWL) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [NAZARIO](https://open.spotify.com/album/57mR1wjg1kaXKgJYfowf9A) | 2:25 | 2023-09-18 | 2023-09-29 |
 | [Necesito silencio](https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Necesito silencio](https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj) | 3:04 | 2023-03-13 | 2023-03-22 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-19 | 2024-08-27 |
+| [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd) | 3:15 | 2026-02-05 |  |
 | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/track/06qH2muOjme474WL3YKcBe) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd) | 2:45 | 2025-05-13 | 2025-12-20 |
 | [NEXO 08\. Ha pasado algo](https://open.spotify.com/track/25Em5XUehkOqgaM3qSjmxu) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 08\. Ha pasado algo](https://open.spotify.com/album/4ZQTuB4qHJPpeAvYbXObAT) | 2:44 | 2025-10-14 | 2025-10-21 |
 | [NEXO 10\. Alex](https://open.spotify.com/track/67AGdGm9pRtseQ70quZ04p) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 10\. Alex](https://open.spotify.com/album/3rX8f6vefguZj5LgK0XXdC) | 3:07 | 2025-12-09 | 2025-12-20 |

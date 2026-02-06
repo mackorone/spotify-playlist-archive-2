@@ -433,6 +433,32 @@
     },
     {
       "album": {
+        "name": "Aarzu",
+        "url": "https://open.spotify.com/album/4nmQBDmclY8xXo7rj3SPsJ"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm"
+        },
+        {
+          "name": "Khan",
+          "url": "https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS"
+        },
+        {
+          "name": "Madhurxo",
+          "url": "https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187567,
+      "name": "Aarzu",
+      "url": "https://open.spotify.com/track/6IFpwAsuHq3VB13Ye3iUKq"
+    },
+    {
+      "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
       },
@@ -2323,7 +2349,7 @@
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 168125,
+      "duration_ms": 168124,
       "name": "Courtside",
       "url": "https://open.spotify.com/track/5wqMM6wOwXmX4rc1C3lUkd"
     },
@@ -3246,7 +3272,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -3688,7 +3714,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167750,
       "name": "FWM",
       "url": "https://open.spotify.com/track/5KqkyLiact4SHIsHa0c45H"
@@ -7184,7 +7210,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 200385,
       "name": "MF Gabhru!",
       "url": "https://open.spotify.com/track/5KLohKNLMLibqnG0FdmbvX"
@@ -8558,7 +8584,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 175700,
       "name": "Post You",
       "url": "https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd"
@@ -10090,7 +10116,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 134237,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/4i8ymjnb0YJ64ehdZx5a42"
@@ -11706,7 +11732,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 117656,
       "name": "Unke Andaz e Karam",
       "url": "https://open.spotify.com/track/0QVW8rdQaYlo3nz6tBoe0u"

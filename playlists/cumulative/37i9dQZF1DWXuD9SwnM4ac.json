@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Velvet Trip",
+  "description": "All the new indie tracks worth knowing about. Cover: Mitski",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169671,
       "name": "180\u00b0",
       "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
@@ -1658,6 +1658,24 @@
       "duration_ms": 192615,
       "name": "Ashamed That You Hate It",
       "url": "https://open.spotify.com/track/4dqbCKCkSXFPqBy2yNmMlw"
+    },
+    {
+      "album": {
+        "name": "ASSIGNMENT",
+        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+      },
+      "artists": [
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143891,
+      "name": "ASSIGNMENT",
+      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
     },
     {
       "album": {
@@ -3838,6 +3856,24 @@
       "duration_ms": 491696,
       "name": "CCF (I'm Gonna Stay With You)",
       "url": "https://open.spotify.com/track/4t5by4BVLMjeoNaOhmweOJ"
+    },
+    {
+      "album": {
+        "name": "Chain My Heart To Plastic",
+        "url": "https://open.spotify.com/album/4woSJx7zn9oyFAnxtUuqaI"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176901,
+      "name": "Chain My Heart to Plastic",
+      "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
     },
     {
       "album": {
@@ -7649,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "Flood / Glow",
+        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Flood (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
+    },
+    {
+      "album": {
         "name": "flooding colors",
         "url": "https://open.spotify.com/album/49cWz4e0g3V6ATxO4l3b1q"
       },
@@ -8860,7 +8918,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 149184,
       "name": "GREEN LIPS",
       "url": "https://open.spotify.com/track/6SzEvq5ByhDSQe5aQelWvi"
@@ -9358,6 +9416,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "album": {
@@ -9961,6 +10037,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2p5RALR1fjMQSoaK2s5NPp"
       },
@@ -10543,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "album": {
         "name": "I'm Always On Stage",
         "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
       },
@@ -11092,7 +11204,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
@@ -12324,7 +12436,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189590,
       "name": "Let Me Grow and You'll See the Fruit",
       "url": "https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x"
@@ -13148,7 +13260,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 144413,
       "name": "Love One Another (Or Die)",
       "url": "https://open.spotify.com/track/4CN2AdYEHN2MmbJwQfHEIw"
@@ -14521,6 +14633,24 @@
     },
     {
       "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/0fVdj6w8YyTsoAqyxr3zWc"
+      },
+      "artists": [
+        {
+          "name": "Lontalius",
+          "url": "https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154268,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/3Vk3eZgCp9L4LlVBk8U0Qd"
+    },
+    {
+      "album": {
         "name": "My Forever (feat. Cecile Believe)",
         "url": "https://open.spotify.com/album/1xvKZrXhgF6s4frK5Qb6r5"
       },
@@ -15142,7 +15272,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 119745,
       "name": "Not the Same",
       "url": "https://open.spotify.com/track/5F46tSpX8QXCSX22UUcveS"
@@ -16600,7 +16730,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 202173,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/0kMXWz0kgQGlYamqNsoSiM"
@@ -17302,7 +17432,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 274783,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/66iT3dYZpaVGO6OnCm82W7"
@@ -17324,6 +17454,24 @@
       "duration_ms": 210620,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/2oqS42cUvvGe6RyLcxPzOl"
+    },
+    {
+      "album": {
+        "name": "Rock Bottom / Octopus",
+        "url": "https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250044,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9"
     },
     {
       "album": {
@@ -18182,7 +18330,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 154285,
       "name": "sheba",
       "url": "https://open.spotify.com/track/5mIFcP4S4z5igxO4fFRxXW"
@@ -19619,6 +19767,24 @@
     },
     {
       "album": {
+        "name": "substack girl",
+        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "album": {
         "name": "Suburbs",
         "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
       },
@@ -19764,6 +19930,24 @@
       "duration_ms": 271047,
       "name": "Summerinlove",
       "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
+    },
+    {
+      "album": {
+        "name": "Sunburned in London",
+        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397448,
+      "name": "Sunburned in London",
+      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
     },
     {
       "album": {
@@ -20622,7 +20806,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217959,
       "name": "The City",
       "url": "https://open.spotify.com/track/4bPToiSnmjEg3aoXc5zr0e"
@@ -20898,7 +21082,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143985,
       "name": "The House That Doesn\u2019t Exist",
       "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
@@ -21136,7 +21320,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
@@ -23526,6 +23710,24 @@
       "duration_ms": 154946,
       "name": "X-Ray",
       "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
+    },
+    {
+      "album": {
+        "name": "Yadingji",
+        "url": "https://open.spotify.com/album/4YMCVAz4AQH1RzKqtMCPa8"
+      },
+      "artists": [
+        {
+          "name": "Cooee",
+          "url": "https://open.spotify.com/artist/4djc7i30QONXZMruV4rXuS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200871,
+      "name": "Yadingji",
+      "url": "https://open.spotify.com/track/2DBmM2B6rqpf975z7ciy02"
     },
     {
       "album": {

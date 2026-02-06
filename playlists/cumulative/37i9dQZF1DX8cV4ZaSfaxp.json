@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+        "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
+      "url": "https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX"
+    },
+    {
+      "album": {
         "name": "5min to heartbreak",
         "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
       },
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 215156,
       "name": "Fresh Love",
       "url": "https://open.spotify.com/track/6tapmJGF4pHKH66HL2PZGP"
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 203573,
       "name": "It`s Been A While (Maxim City Summer Life c.f)",
       "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
@@ -4282,6 +4304,24 @@
       "duration_ms": 164936,
       "name": "Midnight Cruise",
       "url": "https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64"
+    },
+    {
+      "album": {
+        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG (ITZY)",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
     },
     {
       "album": {
@@ -5482,7 +5522,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
@@ -6584,7 +6624,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 212137,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p"

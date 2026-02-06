@@ -1,41 +1,13 @@
 {
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Parasakthi",
-  "num_followers": 1070675,
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Jana Nayagan",
+  "num_followers": 1070722,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF9ChMfVQ/snL1cwn+oaizLcRZGn",
+  "snapshot_id": "AAAAAD4leKIEUQSAbuQMxhiM785DD8sV",
   "tracks": [
-    {
-      "added_at": "2026-01-06 08:32:21",
-      "album": {
-        "name": "Parasakthi (Tamil)",
-        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        },
-        {
-          "name": "Ekadesi",
-          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
-        }
-      ],
-      "duration_ms": 250212,
-      "name": "Adi Alaye",
-      "url": "https://open.spotify.com/track/4VYd5d5nr3vDMhpx76SkFf"
-    },
     {
       "added_at": "2026-01-06 08:32:21",
       "album": {
@@ -59,34 +31,6 @@
       "duration_ms": 235107,
       "name": "Oru Pere Varalaaru (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/6afuHWt45FEdNM9pkmVbgN"
-    },
-    {
-      "added_at": "2026-01-07 08:47:34",
-      "album": {
-        "name": "Parasakthi (Tamil)",
-        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sivakarthikeyan",
-          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
-        },
-        {
-          "name": "Sreeleela",
-          "url": "https://open.spotify.com/artist/61W6fd3IV7LDXXzwoqg0DP"
-        },
-        {
-          "name": "Jayashree Mathimaran",
-          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
-        }
-      ],
-      "duration_ms": 279272,
-      "name": "Ratnamala",
-      "url": "https://open.spotify.com/track/3119vPmRByxW1WfbZfU5GI"
     },
     {
       "added_at": "2025-07-22 08:55:39",
@@ -117,38 +61,6 @@
       "url": "https://open.spotify.com/track/2t1pEpxPz91KldW7C0FyZv"
     },
     {
-      "added_at": "2026-01-07 08:47:34",
-      "album": {
-        "name": "Parasakthi (Tamil)",
-        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 244472,
-      "name": "Namakkana Kaalam",
-      "url": "https://open.spotify.com/track/5sRy4h9hECF9pEqObdtzfF"
-    },
-    {
       "added_at": "2025-10-23 10:09:30",
       "album": {
         "name": "Oorum Blood (From \"Dude\")",
@@ -175,6 +87,54 @@
       "duration_ms": 240107,
       "name": "Oorum Blood - From \"Dude\"",
       "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
+    },
+    {
+      "added_at": "2026-02-05 07:41:29",
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 364651,
+      "name": "Theekkoluthi",
+      "url": "https://open.spotify.com/track/4HAJQk7bvl5wuKnUI9QXXg"
+    },
+    {
+      "added_at": "2026-01-06 08:32:21",
+      "album": {
+        "name": "Parasakthi (Tamil)",
+        "url": "https://open.spotify.com/album/34zVDfiL3w19tZh7E9FXGB"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Ekadesi",
+          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
+        }
+      ],
+      "duration_ms": 250212,
+      "name": "Adi Alaye",
+      "url": "https://open.spotify.com/track/4VYd5d5nr3vDMhpx76SkFf"
     },
     {
       "added_at": "2025-11-17 06:45:13",
@@ -357,6 +317,34 @@
       "url": "https://open.spotify.com/track/7dIovld3QsNhYseLcwMJHj"
     },
     {
+      "added_at": "2026-02-05 07:41:29",
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 303203,
+      "name": "Rekka Rekka",
+      "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"
+    },
+    {
       "added_at": "2025-10-24 11:03:29",
       "album": {
         "name": "Madharaasi (Original Motion Picture Soundtrack)",
@@ -523,6 +511,34 @@
       "duration_ms": 198101,
       "name": "Og Sambavam (From \"Good Bad Ugly\")",
       "url": "https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg"
+    },
+    {
+      "added_at": "2026-02-05 07:41:29",
+      "album": {
+        "name": "Retro [TAMIL]",
+        "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 239110,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/12zT7djETGfDeL6JIVjM2b"
     },
     {
       "added_at": "2025-03-28 08:16:01",
@@ -1087,30 +1103,6 @@
       "duration_ms": 243947,
       "name": "En Rojaa Neeye",
       "url": "https://open.spotify.com/track/7hb1WHRDjOORxIoB4XwD0I"
-    },
-    {
-      "added_at": "2023-07-06 13:05:41",
-      "album": {
-        "name": "Kaavaalaa (From \"Jailer\")",
-        "url": "https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Kaavaalaa (From \"Jailer\")",
-      "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
     },
     {
       "added_at": "2024-02-01 04:10:15",

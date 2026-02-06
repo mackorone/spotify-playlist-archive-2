@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Free Rein",
+        "url": "https://open.spotify.com/album/5U3H0A6fCzyl0FIzxmWcme"
+      },
+      "artists": [
+        {
+          "name": "Sidi",
+          "url": "https://open.spotify.com/artist/1z1ghaqp3itYXYwBpCcXr1"
+        },
+        {
+          "name": "Clark Keeng",
+          "url": "https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Free Rein",
+      "url": "https://open.spotify.com/track/0qUAJXjeX3Xjy3ZvlSRUaz"
+    },
+    {
+      "album": {
         "name": "From the Other Side",
         "url": "https://open.spotify.com/album/2nleFIOQCJ9SAKQJt4bzSG"
       },
@@ -1698,6 +1720,28 @@
       "duration_ms": 131868,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM"
+    },
+    {
+      "album": {
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/2nRJDMEAicvIZv4NQp5z1E"
+      },
+      "artists": [
+        {
+          "name": "Macua",
+          "url": "https://open.spotify.com/artist/41ODikbo3Wh2SWsZORQJIh"
+        },
+        {
+          "name": "Attara",
+          "url": "https://open.spotify.com/artist/7q9Oam3CwOj6bP7JfSPApN"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163153,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/6jzTlL6HZzakz2kTUU38WG"
     },
     {
       "album": {
@@ -2890,6 +2934,24 @@
       "duration_ms": 214814,
       "name": "Unga",
       "url": "https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI"
+    },
+    {
+      "album": {
+        "name": "UNTITLED 1981",
+        "url": "https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187014,
+      "name": "UNTITLED 1981",
+      "url": "https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F"
     },
     {
       "album": {

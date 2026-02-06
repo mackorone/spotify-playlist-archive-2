@@ -2,9 +2,9 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
+> Wat kan het Nederlands toch mooi zijn\. Cover: WIES
 
-244 songs - 14 hr 51 min
+245 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Barst](https://open.spotify.com/track/0Jk7KsjS1bmE72SKAs3lPA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Barst](https://open.spotify.com/album/3C3DN6AvjB685STfdKJGNT) | 4:11 | 2024-03-19 | 2025-02-21 |
 | [Bedankt](https://open.spotify.com/track/7FkzmpfyTGOJjqD0WLFMsY) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Bedankt](https://open.spotify.com/album/7J3xT2IyPpLMxxZcipF98F) | 4:03 | 2023-02-10 | 2024-06-01 |
 | [Bedankt Voor Alles](https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Bedankt Voor Alles](https://open.spotify.com/album/3T5LM45q5lptm3dz9x6r9h) | 4:30 | 2023-02-10 | 2023-05-12 |
+| [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 | 2026-02-05 |  |
 | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/4Ei1vwJylQLwqLkl2XJmiM) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Bemin Me Later \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/3re6bQy0aCXahB7xVZ7H8P) | 3:38 | 2025-04-17 |  |
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 | 2023-11-11 |
 | [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 | 2023-08-03 | 2023-11-11 |
@@ -249,7 +250,7 @@
 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 | 2025-11-06 |  |
 | [Zomer](https://open.spotify.com/track/2vbFcIIVaftdr2ZgnVa3rQ) | [Toon Gezet](https://open.spotify.com/artist/2Cj6egfxg8THB8bLE4EPFf) | [Zomer](https://open.spotify.com/album/4i5MkLb9nrznaeg9QUtFk6) | 3:20 | 2024-07-23 | 2025-03-14 |
 | [Zonden](https://open.spotify.com/track/3CTVkBeZBpO8TWIxsFr9ZW) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Zonden](https://open.spotify.com/album/7dMWmv9ozI0l6sVM0EbBzM) | 3:48 | 2023-02-10 | 2023-11-11 |
-| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-04-18 |  |
+| [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 | 2024-04-18 | 2026-02-06 |
 | [Zonder Jou](https://open.spotify.com/track/4xPkcG6Efkn22baq0kJmQo) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2EVSRkvcdN6TYFg1gY8tlE) | 3:57 | 2023-02-10 | 2024-04-19 |
 | [Zwitserland](https://open.spotify.com/track/47Be1HFZ32kqP6jj4yRpIi) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Zwitserland](https://open.spotify.com/album/59mqhbdApjpWnVC4dP5zbM) | 3:32 | 2023-10-12 | 2024-03-20 |
 

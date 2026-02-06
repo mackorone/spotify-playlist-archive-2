@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,724 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,758 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 79 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
 | 80 | [Private Eyes](https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Body Double](https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ) | 1:31 |
 | 81 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
-| 82 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
-| 83 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
-| 84 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
-| 85 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
+| 82 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
+| 83 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
+| 84 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
+| 85 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 86 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
 | 87 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
 | 88 | [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 |

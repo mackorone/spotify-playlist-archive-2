@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-291 songs - 18 hr 7 min
+292 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 | 2023-07-03 | 2025-04-16 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2023-12-13 | 2025-04-16 |
 | [Four Walls \(The Ballad Of Perry Smith\)](https://open.spotify.com/track/6ezPXXacQCCz2wIzg4sEAj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:12 | 2022-12-06 | 2023-02-22 |
-| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-04-15 |  |
+| [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-04-15 | 2026-02-06 |
 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 | 2023-03-16 | 2023-04-25 |
 | [Gaffe aux autres](https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:51 | 2022-12-06 | 2025-02-27 |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2025-05-16 |  |
@@ -124,6 +124,7 @@
 | [I Wanna Dance With Somebody](https://open.spotify.com/track/5fXs1nXoJzOdJDkl8fOBTI) | [Bossa Players](https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm) | [I Wanna Dance With Somebody](https://open.spotify.com/album/7HWYxsxmncXzKUjOgA178r) | 3:30 | 2024-09-17 | 2024-10-16 |
 | [I Want What I Don't Need](https://open.spotify.com/track/47I3c9U0uzsgCrrNxWcvEj) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [I Want What I Don't Need](https://open.spotify.com/album/4jFyRkvMztF94lz28UCX4S) | 3:35 | 2024-05-13 | 2024-07-21 |
 | [ICNBYH](https://open.spotify.com/track/44VZGe3IwqmKoZUo8Z236A) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [ICNBYH](https://open.spotify.com/album/4FneHoDgdZFai9ZzwSfVkB) | 3:17 | 2025-03-14 | 2025-04-16 |
+| [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 | 2026-02-05 |  |
 | [Il y a](https://open.spotify.com/track/7oV4q09SIlX3YUiiTEh6Ko) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:39 | 2023-07-27 | 2025-04-16 |
 | [In Good Time](https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [In Good Time](https://open.spotify.com/album/6FRmvzpIcJ03AgAf4BV665) | 3:46 | 2023-07-27 | 2023-08-23 |
 | [In The Meantime](https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [In The Meantime](https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB) | 3:08 | 2025-10-23 | 2025-12-28 |
@@ -256,7 +257,7 @@
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2025-04-15 |  |
 | [The Scientist](https://open.spotify.com/track/7tn1tcxenMwDXrYTOjS3z1) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:16 | 2023-02-21 | 2024-03-10 |
 | [The Scientist \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/782I9sNZJHDtzDT61wVhOX) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [キャンプが楽しくなるナチュラル・ロック](https://open.spotify.com/album/7bZ59g5DLWESrj0CmwdEAf) | 3:16 | 2024-02-15 | 2024-04-19 |
-| [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 | 2025-03-14 | 2025-10-24 |
+| [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 | 2025-03-14 |  |
 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 | 2023-02-21 | 2025-05-17 |
 | [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2023-10-12 | 2024-04-19 |
 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-09-28 | 2024-04-19 |
@@ -287,7 +288,7 @@
 | [Why](https://open.spotify.com/track/1HWcMo1LVA9ko3kfxWMFWp) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [The Whole Story](https://open.spotify.com/album/4GlTxg5zKftVRrKIAlsWal) | 4:06 | 2024-03-27 | 2024-05-20 |
 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 | 2025-05-16 | 2025-11-14 |
 | [Without You](https://open.spotify.com/track/5Tw2HCe45FErCET2mfaJj8) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [Goon](https://open.spotify.com/album/25LClLePLJYcUxTUcn566N) | 5:09 | 2022-12-06 | 2023-02-22 |
-| [Wonderful World](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Archwood \(the playlist\)](https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz) | 2:29 | 2025-10-02 |  |
+| [Wonderful World](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Archwood \(the playlist\)](https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz) | 2:29 | 2025-10-02 | 2026-02-06 |
 | [Would That I](https://open.spotify.com/track/0L3oQdYUvVbsOOPJSkZ3C3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 4:28 | 2024-09-17 | 2025-04-16 |
 | [YaYaYa](https://open.spotify.com/track/1gmj9SGmFea50SyyVYgFkP) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 3:49 | 2023-07-03 | 2023-11-04 |
 | [YaYaYa](https://open.spotify.com/track/4Gc1SJ7eN65EcTvDMPcCzz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 3:49 | 2023-10-12 | 2024-04-19 |

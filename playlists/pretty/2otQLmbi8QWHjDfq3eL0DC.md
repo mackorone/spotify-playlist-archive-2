@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,319,768 likes - 100 songs - 5 hr 0 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,319,688 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 43 | [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 |
 | 44 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
 | 45 | [Hey DJ](https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:37 |
-| 46 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi](https://open.spotify.com/artist/5hNAouqEMY5EbOyl3GCGy1), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
+| 46 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 47 | [Caramelle](https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Caramelle](https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC) | 2:00 |
 | 48 | [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 |
 | 49 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 |

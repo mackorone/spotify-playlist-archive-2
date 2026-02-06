@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 44 songs - 2 hr 50 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,296 likes - 46 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Jump](https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu) | [Monkey The Dog](https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC) | [Jump](https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB) | 3:17 |
 | 43 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 |
 | 44 | [True North](https://open.spotify.com/track/092Z1yGLAFCEBtqmRtpWaX) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [Unmoored](https://open.spotify.com/album/7seOQf6Fwg0G8K4n1ceQo4) | 4:03 |
+| 45 | [Colors](https://open.spotify.com/track/7kCVr4F8BZF1FqRvCRoZrN) | [LOVEBOYI](https://open.spotify.com/artist/67alZX1HqejXZ8D1osWKVb) | [BITE ME](https://open.spotify.com/album/3VEDv1sWPxO4FJn2Kv8W75) | 3:16 |
+| 46 | [A Debt Of Kindness And Gas Money](https://open.spotify.com/track/3TuIkuAzWzNJy98iLUs87n) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [A Debt Of Kindness And Gas Money](https://open.spotify.com/album/1NvBEPTiJisYuiYG6FCkCz) | 2:47 |
 
-Snapshot ID: `AAAj4hXF3FMRR6yMa5GGCYyRCCaaOWLr`
+Snapshot ID: `AAAj5GnU1puHKQG+apsjnDWZwyKAW95z`

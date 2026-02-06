@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 68099,
+  "num_followers": 68126,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 171829,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5w67R0ltLrS5MNjydxteUw"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1339,6 +1355,22 @@
       "duration_ms": 182600,
       "name": "Sally Brown",
       "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1363,54 +1395,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+        "name": "Mudik",
+        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
       "artists": [
         {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
         }
       ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Johnny Quest Thinks We're Sellouts",
-        "url": "https://open.spotify.com/album/7mgR3Stdis4IHoMJLscZdX"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Johnny Quest Thinks We're Sellouts",
-      "url": "https://open.spotify.com/track/4ozQ85MuH3xmwS6Og0qKb9"
+      "duration_ms": 255500,
+      "name": "Mudik",
+      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Mudik",
-        "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
+        "name": "Johnny Quest Thinks We're Sellouts",
+        "url": "https://open.spotify.com/album/7mgR3Stdis4IHoMJLscZdX"
       },
       "artists": [
         {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 255500,
-      "name": "Mudik",
-      "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
+      "duration_ms": 212960,
+      "name": "Johnny Quest Thinks We're Sellouts",
+      "url": "https://open.spotify.com/track/4ozQ85MuH3xmwS6Og0qKb9"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Shellshock",
-        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 248370,
-      "name": "Sleepin' on the Couch (with The Elovaters)",
-      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "El Febrero",
         "url": "https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD"
       },
@@ -1511,6 +1491,22 @@
       "duration_ms": 178010,
       "name": "El Febrero",
       "url": "https://open.spotify.com/track/27QfV2StXia4q47sioekXv"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Fade Out",
+        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 220625,
+      "name": "Fade Out",
+      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1535,18 +1531,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Fade Out",
-        "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 220625,
-      "name": "Fade Out",
-      "url": "https://open.spotify.com/track/7t6UiuCntAJaZPToCKbZf9"
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
     },
     {
       "added_at": "2025-10-03 00:00:35",

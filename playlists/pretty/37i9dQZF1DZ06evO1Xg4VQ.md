@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,878 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,876 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 31 | [La Raíz de Mi Tierra](https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 4:12 |
 | 32 | [La Sandunga](https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:13 |
 | 33 | [La San Marqueña](https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:10 |
-| 34 | [Dios Nunca Muere](https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:55 |
-| 35 | [El Feo](https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Ken Basman](https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 3:27 |
+| 34 | [El Feo](https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Ken Basman](https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 3:27 |
+| 35 | [Dios Nunca Muere](https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:55 |
 | 36 | [La Patria Madrina \(with Juanes\)](https://open.spotify.com/track/1iXIEPWk0tVMLySzWeoxpH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:18 |
 | 37 | [La Campanera](https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:28 |
-| 38 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
-| 39 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
+| 38 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
+| 39 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
 | 40 | [Balas y Chocolate](https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:30 |
 | 41 | [Lágrimas Negras \(feat\. Lila Downs\)](https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 4:35 |
 | 42 | [La Barca \(with Lila Downs\)](https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [José José Duetos Volumen 2](https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [Burn It Blue](https://open.spotify.com/track/3USrD964552tsnQnFG1im5) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Frida \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li) | 5:26 |
 | 50 | [Una Noche en Nápoles \(feat\. Lila Downs, Niña Pastori & Soledad\) \- Live](https://open.spotify.com/track/6SqV8sX6cfQ7ZK48uVhI6e) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Corazón \- Live From Mexico: Live It To Believe It](https://open.spotify.com/album/5Pf54lJ07uRn4dqJYS7Fhp) | 5:15 |
 
-Snapshot ID: `aYE6gAAAAADV2vlIBpqzqgi5k5kVC/xz`
+Snapshot ID: `aYKMAAAAAABSFFYgZ6OI9gUamqfz0KMM`

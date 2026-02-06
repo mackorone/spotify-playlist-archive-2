@@ -1,6 +1,6 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora",
-  "num_followers": 512212,
+  "num_followers": 512182,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 191207,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
         "name": "There Goes My Baby",
         "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 210666,
       "name": "There Goes My Baby",
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 191207,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs"
     },
     {
       "added_at": "2025-11-28 20:38:53",

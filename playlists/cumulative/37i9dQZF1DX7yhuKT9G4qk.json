@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215524,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/7qGLNk4J8QBK1auwmJT39b"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 258693,
       "name": "White Gold",
       "url": "https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia"

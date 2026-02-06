@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 109033,
+  "num_followers": 109074,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-01-30 13:04:26",
       "album": {
-        "name": "Melhor Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Melhor Heran\u00e7a",
-      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
-    },
-    {
-      "added_at": "2026-01-30 13:04:26",
-      "album": {
         "name": "Um Lugar \u00e0 Mesa",
         "url": "https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 240569,
       "name": "Um Lugar \u00e0 Mesa",
       "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
+    },
+    {
+      "added_at": "2026-01-30 13:04:26",
+      "album": {
+        "name": "Melhor Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Melhor Heran\u00e7a",
+      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
     },
     {
       "added_at": "2026-01-30 13:04:26",

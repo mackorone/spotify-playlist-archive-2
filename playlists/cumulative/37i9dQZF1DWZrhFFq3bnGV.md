@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jundy Salut
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Natasya Elvira
 
-285 songs - 19 hr 51 min
+286 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bualan Masa Lalu](https://open.spotify.com/track/13eMiyEYAwm5MwOY4juQRA) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bualan Masa Lalu](https://open.spotify.com/album/76GD5l3RTTpHKEC7eSBxKX) | 3:09 | 2025-08-28 |  |
 | [Burungkaka Tua](https://open.spotify.com/track/1ZjQYu0Pcc0lw6thWyzbGv) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Djanger Bali \(2023 Remaster\)](https://open.spotify.com/album/7bMEHAHVHc6hxfLEWnWTqb) | 5:22 | 2024-11-15 | 2025-09-12 |
 | [Can Good Things Last Forever?](https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Can Good Things Last Forever?](https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve) | 5:22 | 2023-03-03 | 2025-07-18 |
-| [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-15 |  |
+| [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-15 | 2026-02-06 |
 | [Changes](https://open.spotify.com/track/69sr0eULGJPlIMphhtNNk6) | [Juhan Ongbrian](https://open.spotify.com/artist/7mEJxWdf21g1dRVwNDaLq8), [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj) | [Changes](https://open.spotify.com/album/6K4SQ1N5cqEZmoy8beycUc) | 2:31 | 2023-05-05 | 2023-11-04 |
 | [Chega de Saudade](https://open.spotify.com/track/2WQI1voN9wyAqtpDwUxoIC) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Chega de Saudade](https://open.spotify.com/album/0ss6hyjblBNVw8Hmwrtt77) | 4:23 | 2024-04-18 | 2025-02-07 |
 | [Chega de Saudade](https://open.spotify.com/track/2eNQgIisOJLKnGSfZjUgPB) | [Rubina](https://open.spotify.com/artist/0CP7W95OO1zFAXieVsBwPN) | [Modinha](https://open.spotify.com/album/6AdW9SB1FDBv5mxA35VAZn) | 4:23 | 2023-03-03 | 2024-04-19 |
@@ -267,6 +267,7 @@
 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 | 2024-04-19 |
 | [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 | 2022-09-22 | 2022-11-13 |
 | [Swarna Jingga](https://open.spotify.com/track/0J7GpXSdG2U6WNvyT8vnYj) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weckl](https://open.spotify.com/artist/5Oa5VCcY0RBBSz7AGgDkOr), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/1DhDO5lZznfjIqmZdZfMCi) | 6:51 | 2024-04-18 | 2024-08-02 |
+| [Syakara](https://open.spotify.com/track/14IfSGKq7UeGRg7Ib10vfG) | [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9), [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Syakara](https://open.spotify.com/album/66pZEXYVoEP6WTFvFXKOHs) | 2:22 | 2026-02-05 |  |
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 | 2023-06-30 |
 | [Tanya](https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Perasa](https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i) | 4:16 | 2024-09-19 |  |
 | [Target Operasi](https://open.spotify.com/track/15hr0SZZ74yhugQjEgW3Ru) | [Mevlied Nahla](https://open.spotify.com/artist/7F4LyPxmKrxFC4xNkdSAhl) | [Target Operasi](https://open.spotify.com/album/004BHvhs8Z2dYTcacFxRoa) | 4:21 | 2025-12-18 |  |

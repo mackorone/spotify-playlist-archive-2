@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1097482,
+  "num_followers": 1097634,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADP5EzOVuvebggC/kmbTtAj",
+  "snapshot_id": "aYKMAAAAAABO1jX+peY0Ix3Z/Duk1uzU",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descuide",
+        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 205624,
+      "name": "Descuide",
+      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descuide",
-        "url": "https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 205624,
-      "name": "Descuide",
-      "url": "https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 192550,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 192550,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2loeTQj6eGWcqzRCslS4To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Anaheim, CA",
         "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
       },
@@ -663,42 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Cuesta",
-        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+        "name": "Arriba La Moyombiza (En Vivo)",
+        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
         },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 174075,
-      "name": "Cu\u00e1nto Cuesta",
-      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suspiros (En Vivo)",
-        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Suspiros (En Vivo)",
-      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+      "duration_ms": 160750,
+      "name": "Mi Buena Suerte (En Vivo)",
+      "url": "https://open.spotify.com/track/4xa12B5gKP5D3LDQBSqDQd"
     },
     {
       "added_at": null,
@@ -723,22 +703,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba La Moyombiza (En Vivo)",
-        "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
+        "name": "Suspiros (En Vivo)",
+        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
       "artists": [
         {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Cuesta",
+        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 160750,
-      "name": "Mi Buena Suerte (En Vivo)",
-      "url": "https://open.spotify.com/track/4xa12B5gKP5D3LDQBSqDQd"
+      "duration_ms": 174075,
+      "name": "Cu\u00e1nto Cuesta",
+      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
     },
     {
       "added_at": null,

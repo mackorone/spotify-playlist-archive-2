@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 Mile From Heaven",
+        "url": "https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv"
+      },
+      "artists": [
+        {
+          "name": "Calvin Love",
+          "url": "https://open.spotify.com/artist/4BGm5j3zsc5NU2BM1ihlA4"
+        }
+      ],
+      "date_added": "2026-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301787,
+      "name": "1 Mile From Heaven",
+      "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
+    },
+    {
+      "album": {
         "name": "1800 Miles",
         "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
       },
@@ -6430,7 +6448,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 156676,
       "name": "Light In a Dark Place",
       "url": "https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P"

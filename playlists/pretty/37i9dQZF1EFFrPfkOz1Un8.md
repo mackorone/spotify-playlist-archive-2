@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 37 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 38 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 28 | [Mariah Carey](https://open.spotify.com/track/2DXyt4lQL2ACjzvZ0QN8AO) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Teeway](https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 4:07 |
 | 29 | [100K](https://open.spotify.com/track/5uWkFrjcqCXGWaQF82FvFG) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:59 |
 | 30 | [L.S.O.M](https://open.spotify.com/track/0mG9n0MOdSfMRHGQwE8Wxs) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 3:08 |
-| 31 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
-| 32 | [Easy](https://open.spotify.com/track/0nHRORFSCvGgqlSef7Lmuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:42 |
-| 33 | [Rolling Deep](https://open.spotify.com/track/61F4fwBN9KzeOH3KJ2ypAu) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 2:02 |
-| 34 | [Gorillas](https://open.spotify.com/track/53FNwkBPrb4vlRqPKLZi4L) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 1:57 |
-| 35 | [What's Left](https://open.spotify.com/track/6KHKSQBxOKAFQ1rM368J97) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Mirror Story \(Deluxe\)](https://open.spotify.com/album/69VeigGVK8AIxInfneOccn) | 3:30 |
-| 36 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
-| 37 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
+| 31 | [Satellite](https://open.spotify.com/track/5Z3BpQ8jZhyDLluo5QUfWS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:39 |
+| 32 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 |
+| 33 | [Easy](https://open.spotify.com/track/0nHRORFSCvGgqlSef7Lmuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:42 |
+| 34 | [Rolling Deep](https://open.spotify.com/track/61F4fwBN9KzeOH3KJ2ypAu) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 2:02 |
+| 35 | [Gorillas](https://open.spotify.com/track/53FNwkBPrb4vlRqPKLZi4L) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 1:57 |
+| 36 | [What's Left](https://open.spotify.com/track/6KHKSQBxOKAFQ1rM368J97) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Mirror Story \(Deluxe\)](https://open.spotify.com/album/69VeigGVK8AIxInfneOccn) | 3:30 |
+| 37 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
+| 38 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `AcIzLAAAAADqFoxlEINe1rYPB2kwL+Pl`
+Snapshot ID: `AcI49AAAAACxeYLVmuIe6whDL/h5sWwa`

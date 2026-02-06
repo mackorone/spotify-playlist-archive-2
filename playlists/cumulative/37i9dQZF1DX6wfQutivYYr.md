@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Bruno Mars sulla cover della playlist più grande in Italia 🔥
+> Bad Bunny trionfa ai Grammys e sulla cover della playlist più grande in Italia 🔥
 
 286 songs - 14 hr 50 min
 

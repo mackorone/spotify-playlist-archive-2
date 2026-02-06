@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
+> Les  meilleures nouveautés de la chanson française avec Solann
 
-272 songs - 15 hr 3 min
+274 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 | 2025-05-22 | 2025-10-10 |
 | [Dans mon île](https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Henri Salvador est un Voyou](https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q) | 3:08 | 2025-01-30 | 2025-02-14 |
 | [Derrière moi](https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Derrière moi](https://open.spotify.com/album/57kK3PZ7W43Fu8ujTbswhT) | 3:03 | 2024-11-21 | 2025-04-18 |
-| [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 | 2025-09-25 |  |
+| [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 | 2025-09-25 | 2026-02-06 |
 | [Des éclats dans les nuages](https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Des éclats dans les nuages](https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE) | 2:42 | 2025-07-31 | 2025-12-12 |
 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 | 2025-04-17 | 2025-09-12 |
 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 | 2025-06-12 | 2025-11-07 |
@@ -120,7 +120,7 @@
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 | 2025-10-17 |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
-| [La nuit n'est pas prêteuse](https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [After Summer](https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy) | 3:03 | 2025-09-25 |  |
+| [La nuit n'est pas prêteuse](https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [After Summer](https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy) | 3:03 | 2025-09-25 | 2026-02-06 |
 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 | 2025-09-20 |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 | 2024-11-08 |
 | [la rosée](https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [la rosée](https://open.spotify.com/album/3C52FrCkUU0gKLekc9iEUo) | 2:32 | 2025-10-16 |  |
@@ -203,6 +203,7 @@
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-10-23 | 2025-03-14 |
 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 | 2025-07-10 | 2025-10-03 |
 | [On s'aimera](https://open.spotify.com/track/3ORZnahwMQvAFnWgHGP3O9) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 2:42 | 2025-01-09 | 2025-05-16 |
+| [On va voir la mer](https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [On va voir la mer](https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD) | 2:29 | 2026-02-05 |  |
 | [PARADIS](https://open.spotify.com/track/7MMVpcHGMfxsK4TUV0I0JL) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [PARADIS / SIERRA NEVADA](https://open.spotify.com/album/7rlMrXqjgdiDzBHyz090HD) | 2:44 | 2024-11-21 | 2025-04-11 |
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
 | [Paris Amour](https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa) | 3:40 | 2025-06-19 | 2025-11-07 |
@@ -254,6 +255,7 @@
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
+| [Tsunami](https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tsunami](https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr) | 2:48 | 2026-02-05 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 | 2025-04-18 |
 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 | 2025-03-06 | 2025-07-11 |

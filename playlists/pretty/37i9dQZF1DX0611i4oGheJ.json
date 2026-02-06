@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 515394,
+  "num_followers": 515547,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240147,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240147,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 183303,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
         "name": "Afraid of Nothing",
         "url": "https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 228441,
       "name": "Salvation Army",
       "url": "https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 183303,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
         "name": "i leave early",
         "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 193793,
       "name": "i leave early",
       "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 313296,
       "name": "Golden",
       "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2026-01-26 17:23:08",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-01-26 17:23:08",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2026-01-26 17:23:08",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
+    },
+    {
+      "added_at": "2026-01-26 17:23:08",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2026-01-26 17:23:08",

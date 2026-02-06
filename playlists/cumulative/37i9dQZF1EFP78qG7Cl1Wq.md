@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-298 songs - 15 hr 41 min
+299 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u dont want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2025-10-09 | 2025-12-18 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/3p6raxOehdqXB2tq1yCC6a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 6:25 | 2025-08-01 | 2025-10-10 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/4u2FSICPtwCoskbhscHWlD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz) | 6:25 | 2024-08-15 | 2024-12-22 |
-| [Admit It \(u dont want 2\)](https://open.spotify.com/track/5GokhlwBZGPiPbabpMdj1j) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 6:25 | 2025-12-17 |  |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/5GokhlwBZGPiPbabpMdj1j) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 6:25 | 2025-12-17 | 2026-02-06 |
+| [Admit It \(u dont want 2\)](https://open.spotify.com/track/5jtJjwdyxoL4efUaM3cclm) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 6:25 | 2026-02-05 |  |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5pZPFe7kW0YYQIzd07k9hr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 6:25 | 2025-06-20 | 2025-08-02 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5xyg9Apdd69YZL5K67CIye) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6CNWkUVb8kLkM3B464RMTx) | 6:25 | 2024-12-21 | 2025-06-21 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 | 2024-06-14 | 2024-08-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 253027,
+  "num_followers": 253081,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAD4lH9TAUl8fmiMhkU3/9f7",
+  "snapshot_id": "aYKMAAAAAADBr3qf7HfsLh2fjFb6jSkn",
   "tracks": [
     {
       "added_at": null,
@@ -203,30 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes del Alba",
-        "url": "https://open.spotify.com/album/04jcunBbCe9hXGTfZGo9Bj"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa Tienes el Son",
-      "url": "https://open.spotify.com/track/3Tf4cwGqkUJp9hKhakqTqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empapelado",
         "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
@@ -239,26 +215,6 @@
       "duration_ms": 221500,
       "name": "Empapelado",
       "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nico Male\u00f3n",
-          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Aqu\u00ed Todo Esta Bien",
-      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,
@@ -279,6 +235,26 @@
       "duration_ms": 201687,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nico Male\u00f3n",
+          "url": "https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Aqu\u00ed Todo Esta Bien",
+      "url": "https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN"
     },
     {
       "added_at": null,
@@ -331,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No Pienso Llorar",
-      "url": "https://open.spotify.com/track/5eEIKYWxmdYdtpA4Oeiv3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -367,6 +327,22 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Pienso Llorar",
+      "url": "https://open.spotify.com/track/5eEIKYWxmdYdtpA4Oeiv3M"
     },
     {
       "added_at": null,
@@ -1067,6 +1043,34 @@
       "duration_ms": 163226,
       "name": "Lejos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "En Lo Malo Me Va Bien",
+      "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
     }
   ],
   "unique_name": "This Is Charles Ans",

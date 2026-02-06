@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 513362,
+  "num_followers": 513378,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Energy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Dance With Me: The Best Of Orleans",
         "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Energy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/65lHwG8JFJs67PnOUhCYPq"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Free Ride",
-        "url": "https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe"
-      },
-      "artists": [
-        {
-          "name": "Marshall Hain",
-          "url": "https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Dancing in the City",
-      "url": "https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Spirit in the Dark",
         "url": "https://open.spotify.com/album/1s3FSienS5KcpWckmq4NHO"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 182040,
       "name": "Don't Play That Song",
       "url": "https://open.spotify.com/track/4M1zcX803dgkDkISHZDPYi"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Free Ride",
+        "url": "https://open.spotify.com/album/6fIotKh6Xp44xP0hvYYboe"
+      },
+      "artists": [
+        {
+          "name": "Marshall Hain",
+          "url": "https://open.spotify.com/artist/0bUGoPJdCrDnuIQNLxsnBb"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Dancing in the City",
+      "url": "https://open.spotify.com/track/4MVhYm4LCenxBIZKrT5CAc"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Lynyrd Skynyrd - Rock Legends",
-        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 285346,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Lynyrd Skynyrd - Rock Legends",
+        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Even In The Quietest Moments (Remastered)",
         "url": "https://open.spotify.com/album/18TiCDixtBNarD55Yw2aTU"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/1XDgeeNIbwXobo7EkcLa2u"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
     },
     {
       "added_at": "2024-06-03 14:45:23",

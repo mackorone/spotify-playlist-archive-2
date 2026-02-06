@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,358 likes - 363 songs - 16 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,439 likes - 363 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -372,4 +372,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 362 | [Floating In Silence](https://open.spotify.com/track/4ubUx4TWvO1HEjF6EyWObE) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Floating In Silence](https://open.spotify.com/album/5wvyrj7lYJBXpp2FBrGBaT) | 2:28 |
 | 363 | [Eternal Oasis](https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc) | [Long Lake](https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr) | [Eternal Oasis](https://open.spotify.com/album/4BQWK3mMwAveseWKb0oZfV) | 2:38 |
 
-Snapshot ID: `AAAAACrBUC+SwVUfe6CLsLp8a22a/YTZ`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

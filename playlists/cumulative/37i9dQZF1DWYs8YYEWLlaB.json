@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: Emre Fel ",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: ALIZADE",
   "name": "trend 2026",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 163548,
       "name": "Benden Sonra",
       "url": "https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 264600,
       "name": "ELA MANA",
       "url": "https://open.spotify.com/track/4uxsrixGArx2vuhjssHDVP"
@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "STOP SMOKING",
+        "url": "https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf"
+      },
+      "artists": [
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97777,
+      "name": "STOP SMOKING",
+      "url": "https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5"
+    },
+    {
+      "album": {
         "name": "SUBMARINER",
         "url": "https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7"
       },
@@ -3932,6 +3950,28 @@
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
+    },
+    {
+      "album": {
+        "name": "vODKA BELUGA",
+        "url": "https://open.spotify.com/album/5SSXzQ14LA9A4g4auCKgvX"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121127,
+      "name": "vODKA BELUGA",
+      "url": "https://open.spotify.com/track/1fWaftHNcaVI6EKW0b6MES"
     },
     {
       "album": {

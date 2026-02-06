@@ -1922,10 +1922,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 225586,
       "name": "Ma\u00f1ana Es Muy Tarde",
       "url": "https://open.spotify.com/track/7ktVgQqSv1WacAf0KEym73"
+    },
+    {
+      "album": {
+        "name": "Dentro y Fuera",
+        "url": "https://open.spotify.com/album/0GYcWDzC9RSXhmtNoC1RS2"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225603,
+      "name": "Ma\u00f1ana Es Muy Tarde",
+      "url": "https://open.spotify.com/track/6gCshvTwSJQ5OCds0Wz1mQ"
     },
     {
       "album": {

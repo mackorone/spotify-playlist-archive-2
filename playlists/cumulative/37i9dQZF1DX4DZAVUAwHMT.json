@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: CQ Wrestling",
+  "description": "The UK's biggest rock playlist. Cover: Power Snatch",
   "name": "The Rock List",
   "tracks": [
     {
@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Among Us",
+        "url": "https://open.spotify.com/album/2bsMoW7MNpApKqy04JfTkK"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Among Us",
+      "url": "https://open.spotify.com/track/1Y2jMKYV1AHOoQK86jQz4p"
+    },
+    {
+      "album": {
         "name": "An Artist Is An Artist",
         "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
       },
@@ -1714,6 +1732,24 @@
       "duration_ms": 193198,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms"
+    },
+    {
+      "album": {
+        "name": "ASSIGNMENT",
+        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+      },
+      "artists": [
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143891,
+      "name": "ASSIGNMENT",
+      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
     },
     {
       "album": {
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177606,
       "name": "birthday card//",
       "url": "https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9"
@@ -10399,6 +10435,24 @@
     },
     {
       "album": {
+        "name": "New Age",
+        "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261931,
+      "name": "ITS FINE",
+      "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
+    },
+    {
+      "album": {
         "name": "It\u2019s not my fault (it\u2019s yours)",
         "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
       },
@@ -17740,7 +17794,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 241483,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0"
@@ -22658,7 +22712,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217463,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv"

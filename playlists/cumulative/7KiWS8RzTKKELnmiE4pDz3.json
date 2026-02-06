@@ -15749,6 +15749,28 @@
     },
     {
       "album": {
+        "name": "Sour Soul",
+        "url": "https://open.spotify.com/album/0ug3RLV5rGBZSRJ0ZRjyqG"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131026,
+      "name": "Nuggets of Wisdom",
+      "url": "https://open.spotify.com/track/0BLGcXWHpHHiUiN82IBO6Z"
+    },
+    {
+      "album": {
         "name": "Number 2 / Never Last",
         "url": "https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs"
       },

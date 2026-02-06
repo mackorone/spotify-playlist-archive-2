@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rumahsakit",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Elephant Kind",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180000,
       "name": "Berdansa di Pesta",
       "url": "https://open.spotify.com/track/3zl5F4BCmmQ0TgNl3iqqGu"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208187,
       "name": "Cinta dan Air Mata",
       "url": "https://open.spotify.com/track/30uxypVmxd8vPrD4WtHuIV"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 318331,
       "name": "DENTUM",
       "url": "https://open.spotify.com/track/0Ie6cd0pjQ5sDXxlimfyti"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 192000,
       "name": "DERAU",
       "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 286000,
       "name": "Gundah",
       "url": "https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY"
@@ -2990,7 +2990,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 240275,
       "name": "Hidup Baru",
       "url": "https://open.spotify.com/track/3qTeUn2za3w6m9d77WI5W0"
@@ -3464,6 +3464,24 @@
       "duration_ms": 287038,
       "name": "Itu Aku (feat. The Adams)",
       "url": "https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70"
+    },
+    {
+      "album": {
+        "name": "Awal Masa",
+        "url": "https://open.spotify.com/album/4rbBU2sNozWLxdfeMjyQAi"
+      },
+      "artists": [
+        {
+          "name": "GUNGS",
+          "url": "https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216190,
+      "name": "IYAA",
+      "url": "https://open.spotify.com/track/4XfW8WDKYzgNC2G5xMHQUk"
     },
     {
       "album": {
@@ -4337,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
         "name": "Lapor Mas Wapres",
         "url": "https://open.spotify.com/album/6eZZR65XIidru3G1sFZsGi"
       },
@@ -4867,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Malari 74",
+        "url": "https://open.spotify.com/album/2VTxekOCy6zKDOGr1fg8qU"
+      },
+      "artists": [
+        {
+          "name": "Yoko City Ghost",
+          "url": "https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504260,
+      "name": "Malari 74",
+      "url": "https://open.spotify.com/track/09eErDgyFU1NnKmuUKSyM4"
+    },
+    {
+      "album": {
         "name": "Man Enough",
         "url": "https://open.spotify.com/album/6x40hcu103z4BhmfzXTZGh"
       },
@@ -5300,7 +5354,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 211000,
       "name": "messy in the weather (feat. Adhitia Sofyan)",
       "url": "https://open.spotify.com/track/4QyS8e7BCxIBv83n9w2Ek0"
@@ -5437,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Monopolar",
+        "url": "https://open.spotify.com/album/2xIr4lTHFOX24DssyuvO0R"
+      },
+      "artists": [
+        {
+          "name": "Strange Fruit",
+          "url": "https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321200,
+      "name": "Monopolar",
+      "url": "https://open.spotify.com/track/7FsylnthYpfFkOnFj8xBT5"
+    },
+    {
+      "album": {
         "name": "Mr. Sunflower (Noni's Lullaby)",
         "url": "https://open.spotify.com/album/0UG7d1uq3pw6hN6KqYb8K7"
       },
@@ -5502,7 +5574,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 198948,
       "name": "My Dear, Oh Dear",
       "url": "https://open.spotify.com/track/4Nrzjx16pCRUAZ7TXikLpA"
@@ -5574,7 +5646,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 223000,
       "name": "Naluri",
       "url": "https://open.spotify.com/track/6AOBDjmbXo0sUyS18mD8VL"
@@ -5927,6 +5999,24 @@
     },
     {
       "album": {
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz"
+      },
+      "artists": [
+        {
+          "name": "adoracion",
+          "url": "https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234098,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8"
+    },
+    {
+      "album": {
         "name": "4 Mata, 5 Cerita",
         "url": "https://open.spotify.com/album/1J7zcBTV2ygWGt0Isut2RQ"
       },
@@ -6040,10 +6130,28 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 176448,
       "name": "Penyakit Hati 2",
       "url": "https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz"
+    },
+    {
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/2iMS3PNOr7ydeR2Gn3UOP5"
+      },
+      "artists": [
+        {
+          "name": "Featuz",
+          "url": "https://open.spotify.com/artist/3EgfHzR0rv5ZYE8wvbqqde"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "People Never Change",
+      "url": "https://open.spotify.com/track/0ctg3ul5v15bY48DeoeAIv"
     },
     {
       "album": {
@@ -6210,6 +6318,24 @@
       "duration_ms": 179760,
       "name": "Plain",
       "url": "https://open.spotify.com/track/7IWlNd4ouhGvcmrFCL5y8F"
+    },
+    {
+      "album": {
+        "name": "Plan",
+        "url": "https://open.spotify.com/album/579QnPtwji8uwbduXTpMSI"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/6ywYZytrkVHljYD2NdT86B"
     },
     {
       "album": {
@@ -6630,7 +6756,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 225750,
       "name": "Room 17A (make up ur mind)",
       "url": "https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt"
@@ -6732,7 +6858,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 211178,
       "name": "Salahkah",
       "url": "https://open.spotify.com/track/2M1fu2RYxPGZ0jwogMR0UX"
@@ -7584,6 +7710,24 @@
       "duration_ms": 236300,
       "name": "Strange Predicament",
       "url": "https://open.spotify.com/track/1nve6gxc6y8nHLOKFuZurl"
+    },
+    {
+      "album": {
+        "name": "Strangest Thing",
+        "url": "https://open.spotify.com/album/4KhLjeU0e23xMbcHBmxb4H"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232400,
+      "name": "Strangest Thing",
+      "url": "https://open.spotify.com/track/2xJirPz5nrfgLM6NTenL0a"
     },
     {
       "album": {

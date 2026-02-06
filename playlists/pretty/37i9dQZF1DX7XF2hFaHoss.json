@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 154356,
+  "num_followers": 154357,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
+        "name": "Remember That Night? (Acoustic)",
+        "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 222955,
+      "name": "Remember That Night? - Acoustic",
+      "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
-        "name": "Remember That Night? (Acoustic)",
-        "url": "https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 222955,
-      "name": "Remember That Night? - Acoustic",
-      "url": "https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI"
     },
     {
       "added_at": "2025-09-02 20:18:55",

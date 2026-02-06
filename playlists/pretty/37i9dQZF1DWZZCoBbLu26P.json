@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98016,
+  "num_followers": 98027,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "UK Hun? (United Kingdolls Version)",
-        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
-      },
-      "artists": [
-        {
-          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
-          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
-        }
-      ],
-      "duration_ms": 166100,
-      "name": "UK Hun? (United Kingdolls Version)",
-      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "I'm That Bitch",
         "url": "https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 250053,
       "name": "I'm That Bitch",
       "url": "https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "UK Hun? (United Kingdolls Version)",
+        "url": "https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE"
+      },
+      "artists": [
+        {
+          "name": "The Cast of RuPaul's Drag Race UK, Season 2",
+          "url": "https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs"
+        }
+      ],
+      "duration_ms": 166100,
+      "name": "UK Hun? (United Kingdolls Version)",
+      "url": "https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Introducing...Amanda Lepore",
-        "url": "https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb"
-      },
-      "artists": [
-        {
-          "name": "Amanda Lepore",
-          "url": "https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "My Hair Looks Fierce - Original",
-      "url": "https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Excuse the Beauty",
         "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 189440,
       "name": "Excuse the Beauty",
       "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Introducing...Amanda Lepore",
+        "url": "https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb"
+      },
+      "artists": [
+        {
+          "name": "Amanda Lepore",
+          "url": "https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "My Hair Looks Fierce - Original",
+      "url": "https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Everybody Hates Linux",
-        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
-      },
-      "artists": [
-        {
-          "name": "Linux",
-          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
-        },
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
-        }
-      ],
-      "duration_ms": 254111,
-      "name": "Looks (feat. Aquaria)",
-      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Weight (feat. Epiphany Mattel)",
         "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 205217,
       "name": "Weight (feat. Epiphany Mattel)",
       "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Everybody Hates Linux",
+        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
+      },
+      "artists": [
+        {
+          "name": "Linux",
+          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
+        },
+        {
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
+        }
+      ],
+      "duration_ms": 254111,
+      "name": "Looks (feat. Aquaria)",
+      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
+      },
+      "artists": [
+        {
+          "name": "Shea Coule\u00e9",
+          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
+        }
+      ],
+      "duration_ms": 172488,
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
+      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Arrogant",
         "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-        "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
-      },
-      "artists": [
-        {
-          "name": "Shea Coule\u00e9",
-          "url": "https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6"
-        }
-      ],
-      "duration_ms": 172488,
-      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
-      "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Gimme What I Want",
         "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 206000,
       "name": "Shadow - Spotify Singles",
       "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -895,18 +895,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
       },
       "artists": [
         {
-          "name": "Trinity the Tuck",
-          "url": "https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
         }
       ],
-      "duration_ms": 153562,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -927,22 +931,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+          "name": "Trinity the Tuck",
+          "url": "https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS"
         }
       ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+      "duration_ms": 153562,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",

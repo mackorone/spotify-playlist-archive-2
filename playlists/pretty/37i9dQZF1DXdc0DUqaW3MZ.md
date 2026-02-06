@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,644 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,675 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 47 | [DUN DI DUN](https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [DUN DI DUN](https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd) | 2:42 |
 | 48 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
 | 49 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
-| 50 | [This World Of Mine](https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ) | [Bluprint](https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [This World Of Mine](https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38) | 3:06 |
-| 51 | [SHE'S GOT PAIN](https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 3:24 |
+| 50 | [SHE'S GOT PAIN](https://open.spotify.com/track/5LObg9zxmkh4pIY1SKKBAG) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 3:24 |
+| 51 | [This World Of Mine](https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ) | [Bluprint](https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [This World Of Mine](https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38) | 3:06 |
 | 52 | [IDKW](https://open.spotify.com/track/67Nrz0HAa2MUrO2zbekGfs) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [IDKW](https://open.spotify.com/album/7DKKHibyLHjQdE98HeVQT7) | 3:52 |
 | 53 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 54 | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(feat\. Rochelle Jordan\)](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 |

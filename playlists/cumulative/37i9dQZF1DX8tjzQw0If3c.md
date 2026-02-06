@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: Fahimi
+> Listen to the future\. Cover: Yokez
 
-264 songs - 14 hr 30 min
+265 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 | 2024-12-05 |
 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 | 2024-12-04 | 2025-04-16 |
 | [DnD](https://open.spotify.com/track/7w1K0j4Rb96IPp8zWjnBVi) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [DnD](https://open.spotify.com/album/0KoohkTwoT27LS2O8e90bV) | 3:07 | 2025-04-15 |  |
+| [Don't Worry](https://open.spotify.com/track/2poasR8mTbcuUseGZJZafo) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Don't Worry](https://open.spotify.com/album/7LcmDtKcEGkq1APtXKMRlK) | 2:45 | 2026-02-05 |  |
 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 | 2024-06-27 | 2025-04-16 |
 | [Easy](https://open.spotify.com/track/74FylcapPWWlk7TIJ48S6i) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 2:36 | 2025-09-08 | 2025-10-17 |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 | 2025-04-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: Kweku Smoke",
-  "num_followers": 30038,
+  "num_followers": 30058,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKoHfwAk6Cq9IGoN/TPJCif4z534",
+  "snapshot_id": "AAAAAJkzxmHge3nohS4Um++YxYgDVFue",
   "tracks": [
     {
       "added_at": "2026-01-30 00:01:20",
@@ -235,6 +235,22 @@
       "duration_ms": 154434,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/71WcXwFtMAD0hGAas2pEYF"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "100 Degrees",
+        "url": "https://open.spotify.com/album/5Ljx5GjGk6XybbnDmYIP2G"
+      },
+      "artists": [
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/0INTsw60B55hvpmgubzIgH"
     },
     {
       "added_at": "2026-01-30 00:01:20",
@@ -575,22 +591,6 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "Stop Dey Worry Me",
-        "url": "https://open.spotify.com/album/369QLSNsmpKNI6x4Hj1RsV"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        }
-      ],
-      "duration_ms": 178259,
-      "name": "Stop Dey Worry Me",
-      "url": "https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/1OPDhx4biz5ukcMudrYpXA"
       },
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
     },
     {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "Winning Season",
+        "url": "https://open.spotify.com/album/3YafTsiSWFLNpKRl0b6p3p"
+      },
+      "artists": [
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        }
+      ],
+      "duration_ms": 109748,
+      "name": "Winning Season",
+      "url": "https://open.spotify.com/track/1fQW06nyJW6zPUkhhxljNR"
+    },
+    {
       "added_at": "2026-01-30 00:01:20",
       "album": {
         "name": "Boom Boom",
@@ -851,30 +867,6 @@
     {
       "added_at": "2026-01-30 00:01:20",
       "album": {
-        "name": "DONE",
-        "url": "https://open.spotify.com/album/1wBUxYMnsLiiniWnqYrMfB"
-      },
-      "artists": [
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        },
-        {
-          "name": "Hkmk",
-          "url": "https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg"
-        },
-        {
-          "name": "DRILL SZN",
-          "url": "https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "DONE",
-      "url": "https://open.spotify.com/track/6whsUvI8c0z69gvhjtTQDx"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
         "name": "2WEEKS",
         "url": "https://open.spotify.com/album/4oPjjCabkWha6S9IDo3grt"
       },
@@ -887,30 +879,6 @@
       "duration_ms": 156000,
       "name": "2WEEKS",
       "url": "https://open.spotify.com/track/4diACBEsDL3AXOeTjncXa8"
-    },
-    {
-      "added_at": "2026-01-30 00:01:20",
-      "album": {
-        "name": "Normally",
-        "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 235703,
-      "name": "Normally",
-      "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
     },
     {
       "added_at": "2026-01-30 00:01:20",

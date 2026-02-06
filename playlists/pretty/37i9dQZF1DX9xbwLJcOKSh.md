@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,887 likes - 73 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,892 likes - 73 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 24 | [ポンパラ ペコルナ パピヨッタ](https://open.spotify.com/track/38QXHvnw0cg3OX77mermKy) | [五五七二三二〇](https://open.spotify.com/artist/5AZOUmeOB5XZaJP2Lf3UkX) | [スーパーヒーロー\(SPECIAL EDITION\)](https://open.spotify.com/album/3sT38vIRrRprhOpwY5L635) | 4:31 |
 | 25 | [誰か、海を。](https://open.spotify.com/track/7H8qFzEiM1TNDh4Mef2Xzw) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/2fRyWvN5Rq4FRmae80RzF7) | 4:54 |
 | 26 | [友だち](https://open.spotify.com/track/20il4rKpoK50t6DXcCIBKF) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Love Of My Life](https://open.spotify.com/album/1yl7MPVZuRUbQB24ojqYOK) | 5:08 |
-| 27 | [Kanno: 花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り～未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 |
+| 27 | [花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り～未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 |
 | 28 | [yet](https://open.spotify.com/track/5Ymzx5BZzmykFlffsRKzmh) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [yet](https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV) | 4:20 |
 | 29 | [Ask DNA](https://open.spotify.com/track/7tKiqBsdfa0GIccaroDekE) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Knockin'on heaven's door Ask DNA](https://open.spotify.com/album/0jVm4Q8Oa4wzXr1V99flUN) | 4:50 |
 | 30 | [KIDS ON THE SLOPE](https://open.spotify.com/track/2EjybI8rM8udIMC0mvX2dS) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/194Lk1nnWAcJh4pbWDbR99) | 2:29 |

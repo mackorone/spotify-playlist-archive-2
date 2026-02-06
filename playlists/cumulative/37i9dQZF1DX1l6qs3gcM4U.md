@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros & Matias Damásio
+> Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros
 
-641 songs - 1 day 12 hr 52 min
+642 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,9 @@
 | [Arrepios](https://open.spotify.com/track/2T4d9glIWZ0hieegaHFU84) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Caixa Azul](https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI) | 3:22 | 2023-12-08 | 2024-04-19 |
 | [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2023-12-08 |
 | [Assume](https://open.spotify.com/track/6RzLOqDY5NV9EyPiuzDkve) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Passarelas da Vida](https://open.spotify.com/album/7DW7Jrg6MCjQk6TVCDxiSg) | 3:41 | 2025-11-14 | 2025-11-21 |
-| [Ate Quando II](https://open.spotify.com/track/6mgz2WqzjwzAFmMlpNsPHx) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB) | [Dores d'um Malandro](https://open.spotify.com/album/133UT2nzvQaMcBPj91219y) | 2:56 | 2026-01-23 |  |
 | [Atitude](https://open.spotify.com/track/5Bb03vFuAKt9kwaiLaeswV) | [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Atitude](https://open.spotify.com/album/6xL4r0BUvTQ0QmNQiK4fwo) | 3:57 | 2025-11-07 | 2025-11-14 |
 | [Até Quando](https://open.spotify.com/track/7slbyYPHe4LvQwySBudRLP) | [Jay Kim](https://open.spotify.com/artist/5r1obpa97ZZhp3QsgRtV9u), [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh), [Luka Oramas](https://open.spotify.com/artist/3B9vtJM32oVlx0O2nNModG) | [10 Anos Depois](https://open.spotify.com/album/4TM2NJkDBuPKDQVb2v53n0) | 2:46 | 2024-12-13 | 2025-01-25 |
+| [Até Quando II](https://open.spotify.com/track/6mgz2WqzjwzAFmMlpNsPHx) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB) | [Dores d'um Malandro](https://open.spotify.com/album/133UT2nzvQaMcBPj91219y) | 2:56 | 2026-01-23 |  |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 | 2025-02-28 |
 | [AVÉ](https://open.spotify.com/track/6D9rsde59fT5cHjTqyWz6c) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [AVÉ](https://open.spotify.com/album/4Yqrh5FabMU4qXPf4161BA) | 2:52 | 2022-11-18 | 2025-12-02 |
 | [Ayah](https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Ayah](https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY) | 2:43 | 2023-03-30 | 2025-09-02 |
@@ -359,7 +359,7 @@
 | [Na Mão de Deus](https://open.spotify.com/track/7peoL9wdbTDcxTvJVAujOQ) | [Ney Chiqui](https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Smile Drama Beatz](https://open.spotify.com/artist/2VrG6aXJNPMwOt7nyOlHoz) | [Na Mão de Deus](https://open.spotify.com/album/5pby6fImgnFXdPsjsl7bRu) | 3:53 | 2025-11-21 |  |
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
-| [Namorado](https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Namorado](https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc) | 3:23 | 2025-10-23 |  |
+| [Namorado](https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Namorado](https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc) | 3:23 | 2025-10-23 | 2026-02-06 |
 | [Nao E Novidade](https://open.spotify.com/track/1P6rFn5OaGs2p3fAMoroJS) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Nao E Novidade](https://open.spotify.com/album/2n0wepikN8FdZILDc6lunj) | 4:28 | 2024-12-06 | 2024-12-21 |
 | [Nao Esquenta](https://open.spotify.com/track/4QVLxtwRgoTWVsV4Dzg7cB) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Nao Esquenta](https://open.spotify.com/album/2yjH1M4JGoIiaBKNbkfSIw) | 4:30 | 2025-09-11 | 2025-10-03 |
 | [Nao Me Atrapalha](https://open.spotify.com/track/7vCXtuKIHb49vUSdd5Mko2) | [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Tony Z](https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt) | [Nao Me Atrapalha](https://open.spotify.com/album/46yrTkOsWm7aZhAmq2DSpy) | 3:27 | 2025-08-28 | 2025-09-13 |
@@ -570,6 +570,7 @@
 | [Tou Nem Aí](https://open.spotify.com/track/5i9rk1inbBQiTU112UoLcv) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Dreya](https://open.spotify.com/artist/4h2KoRtVUQKaWfa8E2dPPW) | [Tou Nem Aí](https://open.spotify.com/album/7CRh6bwRZjVeEnwcKXLwlG) | 3:39 | 2022-06-06 | 2022-06-17 |
 | [Toxic](https://open.spotify.com/track/5fnZWbuASOpMTDOdG59PZo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Afro Connexion](https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD) | [Toxic](https://open.spotify.com/album/6So9yasFDpP0wc8pTHAX3d) | 3:33 | 2025-03-14 | 2025-06-11 |
 | [Toxic](https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID) | [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7) | [Toxic](https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h) | 3:26 | 2023-08-31 | 2023-09-15 |
+| [Track 7](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Tranca](https://open.spotify.com/track/6d7mrCi7yhVZ0OHAKbChFd) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Mozany Bué de Ahh](https://open.spotify.com/artist/4GQZbCW540R9R6D8giQUVd), [D'benilson](https://open.spotify.com/artist/2P056fpRLEwIhcLk3ELINn) | [Tranca](https://open.spotify.com/album/221dQ2hG0e9btdlRuFfIv2) | 2:53 | 2025-10-23 | 2025-11-28 |
 | [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 | 2023-07-21 |
 | [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 | 2023-07-13 | 2024-04-19 |

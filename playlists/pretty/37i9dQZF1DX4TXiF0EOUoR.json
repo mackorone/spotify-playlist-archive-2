@@ -1,6 +1,6 @@
 {
   "description": "\u00a1PUEEERTAAAAAAAAS! ",
-  "num_followers": 256560,
+  "num_followers": 256583,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 183186,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Que Bonito Es Lo Bonito",
+        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Cumbias Y Mas Con Banda",
-        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
-      },
-      "artists": [
-        {
-          "name": "Banda Oasis De Valentin Figueroa",
-          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "La Ni\u00f1a Esta Triste",
-      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Homenaje a un Grande",
         "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Puras De Viento En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+        "name": "Cumbias Y Mas Con Banda",
+        "url": "https://open.spotify.com/album/3yXSUrthEmKtUmVLzK3XUz"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Banda Oasis De Valentin Figueroa",
+          "url": "https://open.spotify.com/artist/7LVm1TssFoEt9JsZvzIw66"
         }
       ],
-      "duration_ms": 119807,
-      "name": "El Toro De Once - En Vivo",
-      "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
+      "duration_ms": 165693,
+      "name": "La Ni\u00f1a Esta Triste",
+      "url": "https://open.spotify.com/track/4qeh6TQfgk8hNHupcMbj88"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -923,6 +907,22 @@
       "duration_ms": 113815,
       "name": "Los Tiliches",
       "url": "https://open.spotify.com/track/1U2jTpekjFgnXyiveocesL"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 119807,
+      "name": "El Toro De Once - En Vivo",
+      "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Los \u00danicos del Huapango Michoacano",
-        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
-      },
-      "artists": [
-        {
-          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
-          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Lucesita",
-      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Las Alegres de los Infinitos",
         "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 253015,
       "name": "El Carretero",
       "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
-        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
-          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "El Ocotito",
-      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Puras de Viento, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 205080,
       "name": "Amores de Julia (En Vivo)",
       "url": "https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
+        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "El Ocotito",
+      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 126395,
-      "name": "El Toro Viejo - En Vivo",
-      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 128224,
       "name": "Las Calandrias",
       "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 126395,
+      "name": "El Toro Viejo - En Vivo",
+      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 124859,
-      "name": "El Pavido Navido - En Vivo",
-      "url": "https://open.spotify.com/track/077ST1LtYMV4MWW05v9q6G"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 274038,
       "name": "El Jaripeo el Jaripeo / La Iguana / Ofelia - En Vivo",
       "url": "https://open.spotify.com/track/4nAykwTTZBlBsn5D5V3BpG"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 124859,
+      "name": "El Pavido Navido - En Vivo",
+      "url": "https://open.spotify.com/track/077ST1LtYMV4MWW05v9q6G"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Arriba Pichataro - En Vivo",
-      "url": "https://open.spotify.com/track/5anf6O53GtbL9FC1il8RrR"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
         "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
         "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Arriba Pichataro - En Vivo",
+      "url": "https://open.spotify.com/track/5anf6O53GtbL9FC1il8RrR"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
         "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
         "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 213951,
       "name": "Corazon De Texas",
       "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
-    },
-    {
-      "added_at": "2025-09-01 20:36:31",
-      "album": {
-        "name": "15 Aniversario",
-        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Tecateando",
-          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
-        }
-      ],
-      "duration_ms": 242207,
-      "name": "Sones Tecateando",
-      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2025-09-01 20:36:31",
       "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+        "name": "15 Aniversario",
+        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
       },
       "artists": [
         {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
+      "duration_ms": 242207,
+      "name": "Sones Tecateando",
+      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
     },
     {
       "added_at": "2025-09-01 20:36:31",
@@ -1747,6 +1731,22 @@
       "duration_ms": 186266,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/6MTPBQhyDwyDkYkiRbC5CJ"
+    },
+    {
+      "added_at": "2025-09-01 20:36:31",
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "added_at": "2025-09-01 20:36:31",

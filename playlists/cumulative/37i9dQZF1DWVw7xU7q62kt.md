@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-762 songs - 1 day 8 hr 38 min
+763 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [Lovely Places](https://open.spotify.com/track/1CXsjw1Or0ViS66ycVUA2W) | [Monkay](https://open.spotify.com/artist/6zmFDLFLjVKcJFgbF6PF6l), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Lovely Places](https://open.spotify.com/album/1jLJHOh1rOBQJobzDx934c) | 2:35 | 2025-03-22 | 2025-09-13 |
-| [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 |  |
+| [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 | 2026-02-06 |
 | [Lucid Dreams](https://open.spotify.com/track/3YIxQvOdOYYts92afIZpzz) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [Lucid Dreams](https://open.spotify.com/album/5NApnQmYbhyref8q5QNbpd) | 3:23 | 2024-12-13 | 2025-02-07 |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
 | [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 | 2024-12-07 |
@@ -739,6 +739,7 @@
 | [Voodoo](https://open.spotify.com/track/4IzuAaHDX9oBJQHVrchSbE) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Voodoo](https://open.spotify.com/album/4RZPHCFuvoeIr4PUo9yPZI) | 2:48 | 2025-08-29 | 2025-09-13 |
 | [Voyageurs](https://open.spotify.com/track/5d8z9xQC88LkBn06ETDkpS) | [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [Voyageurs](https://open.spotify.com/album/6nhmqXfwOB3QiklHufGWpo) | 2:14 | 2025-04-11 |  |
 | [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 | 2024-12-09 |
+| [walk to nowhere](https://open.spotify.com/track/3iOjnGIAWTO1a6JhAYlIfY) | [forever dreaming](https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ) | [walk to nowhere](https://open.spotify.com/album/2W0JyrNZsehkm7LzzH2sW6) | 2:30 | 2026-01-30 |  |
 | [warm oceans](https://open.spotify.com/track/49J1knV6TE0yZw3qFh5vdi) | [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa), [Choson Wan](https://open.spotify.com/artist/7DkwMh1UTUV50kH6LbZd3q), [irons](https://open.spotify.com/artist/4LbLkMAECFLrhXADjgT8Jn) | [warm oceans](https://open.spotify.com/album/55mkAyXtpdMfwdaSm32W9I) | 1:57 | 2025-04-11 |  |
 | [Warmth](https://open.spotify.com/track/5xcse24DCIYJeRr5lTZPTR) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Warmth](https://open.spotify.com/album/6tN1rF4AViLLKG30Iw5dve) | 1:51 | 2025-05-23 | 2026-01-20 |
 | [Washed in Vermillion](https://open.spotify.com/track/2iVDPydX7QsgR7IY3PSQBD) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Washed in Vermillion](https://open.spotify.com/album/7u1fhd2dzeo0dLL8yJdNxt) | 2:10 | 2025-10-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Jeck & Carla",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec M. Pokora",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 149957,
       "name": "Au dessus des nuages",
       "url": "https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1"
+    },
+    {
+      "album": {
+        "name": "Au revoir au d\u00e9part",
+        "url": "https://open.spotify.com/album/3vComKlyCoucrCMXFh6DYF"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152066,
+      "name": "Au revoir au d\u00e9part",
+      "url": "https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV"
     },
     {
       "album": {
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167431,
       "name": "Comme toutes les filles",
       "url": "https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy"
@@ -1424,6 +1442,24 @@
       "duration_ms": 164154,
       "name": "Derniers humains",
       "url": "https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx"
+    },
+    {
+      "album": {
+        "name": "derni\u00e8re soir\u00e9e",
+        "url": "https://open.spotify.com/album/0qxMEcZKJ2x0B3SFFPgkRJ"
+      },
+      "artists": [
+        {
+          "name": "lowey",
+          "url": "https://open.spotify.com/artist/0bHn6CXor3W20fGzNqUe8P"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182912,
+      "name": "derni\u00e8re soir\u00e9e",
+      "url": "https://open.spotify.com/track/7gJ4aWFjhdhWdkotxxBfbK"
     },
     {
       "album": {
@@ -1894,7 +1930,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 183762,
       "name": "Etincelles",
       "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
@@ -2611,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "J'veux qu'on s'aime",
+        "url": "https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t"
+      },
+      "artists": [
+        {
+          "name": "Nola",
+          "url": "https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122500,
+      "name": "J'veux qu'on s'aime",
+      "url": "https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s"
+    },
+    {
+      "album": {
         "name": "\u00c9clair",
         "url": "https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu"
       },
@@ -3129,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "La chanson d'amour",
+        "url": "https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "La chanson d'amour",
+      "url": "https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo"
+    },
+    {
+      "album": {
         "name": "La couleur de la mer",
         "url": "https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP"
       },
@@ -3454,7 +3526,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 160667,
       "name": "La Vie Parfaite",
       "url": "https://open.spotify.com/track/6qcuZyJDFV41OkDNyoE9pd"
@@ -4590,7 +4662,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 215919,
       "name": "Mieux que moi",
       "url": "https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7"
@@ -5775,6 +5847,24 @@
     },
     {
       "album": {
+        "name": "Pour l'\u00e9ternit\u00e9",
+        "url": "https://open.spotify.com/album/6v29dTzAAGyX5jXC65ujw4"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179534,
+      "name": "Pour l'\u00e9ternit\u00e9",
+      "url": "https://open.spotify.com/track/7c2G5O1aLTELM9U9UFroMR"
+    },
+    {
+      "album": {
         "name": "Pourquoi ?",
         "url": "https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP"
       },
@@ -5808,7 +5898,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146465,
       "name": "Pourquoi c'est ma faute",
       "url": "https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0"

@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 8178,
+  "num_followers": 8182,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAMbQz4nyZ/YWuj/7F8rThp",
+  "snapshot_id": "aYKMAAAAAACtdDGXpGwSGUJnzdTzmfYs",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakout",
-        "url": "https://open.spotify.com/album/6Gg8LNciD3pXvcRlwdF3Yt"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 215284,
-      "name": "Breakout",
-      "url": "https://open.spotify.com/track/6JrC9b4IXceXMOPWu9N7qv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bumpin'",
         "url": "https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 175714,
       "name": "Bumpin'",
       "url": "https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/6Gg8LNciD3pXvcRlwdF3Yt"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/6JrC9b4IXceXMOPWu9N7qv"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feed The Fire",
         "url": "https://open.spotify.com/album/79isL27aZp2fspAxFGXs56"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 153346,
       "name": "Feed The Fire",
       "url": "https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 172757,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 198100,
       "name": "Furious!",
       "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 172757,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake the Bass 4",
-        "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 183848,
-      "name": "Honey Dip",
-      "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 187263,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake the Bass 4",
+        "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 183848,
+      "name": "Honey Dip",
+      "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
     },
     {
       "added_at": null,

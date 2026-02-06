@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-204 songs - 16 hr 47 min
+205 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Livin' Up](https://open.spotify.com/track/54Bhw4FfdM303XteW7HQNv) | [B.W.H.](https://open.spotify.com/artist/57nTf3F69KS7AuiAaw2h6f) | [Livin' Up](https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray) | 4:47 | 2022-02-11 | 2026-01-22 |
 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 | 2023-10-06 |  |
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 | 2025-11-30 |
+| [Luna Manga](https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw) | [Eternal Love](https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl) | [Ritmomento](https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc) | 4:42 | 2026-02-05 |  |
 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 | 2022-02-11 |  |
 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 | 2023-07-13 |  |
 | [Ma Sei Fuori](https://open.spotify.com/track/0VAkPZUjFxBMhIXHNE9Fai) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ma Sei Fuori](https://open.spotify.com/album/7k5omlUhD5OYKL4au8Tbkn) | 2:59 | 2025-07-31 | 2025-08-15 |
@@ -126,7 +127,7 @@
 | [Mediterranea \- Dumar Remix](https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx) | [Giuni Russo](https://open.spotify.com/artist/5Is5BvLZyxtBkp3VrXm5t3), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba) | [Mediterranea \(Dumar Remix\)](https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4) | 3:04 | 2025-07-17 |  |
 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 | 2022-02-11 |  |
 | [Microwave Photon](https://open.spotify.com/track/2Sv9T375D6IzJ1ymGHAZjx) | [The Exaltics](https://open.spotify.com/artist/1WWgHYgUAQR5wfEa8et14L), [Heinrich Mueller](https://open.spotify.com/artist/0aucV54IIc14u2e9jzxAbe) | [Dimensional Shifting](https://open.spotify.com/album/6m7QyFd7bdOY2BjiXR6iz6) | 3:38 | 2022-02-11 | 2022-07-28 |
-| [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 | 2025-05-16 |  |
+| [Mini Pony](https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Mini Pony](https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7) | 3:29 | 2025-05-16 | 2026-02-06 |
 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 | 2022-07-01 | 2023-11-21 |
 | [Mirage \(Aka la Luna Aka Stasera la Luna\) \- Original Version](https://open.spotify.com/track/3GbtdNYdHNJZlYDqsyN2iC) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Mirage \(Aka la Luna Aka Stasera la Luna\)](https://open.spotify.com/album/3HV72AZKJEbWm1LEwOvtXF) | 3:54 | 2022-02-11 | 2022-07-14 |
 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 | 2022-02-11 |  |

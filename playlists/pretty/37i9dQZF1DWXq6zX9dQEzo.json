@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 318995,
+  "num_followers": 319151,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "What's Understood 3",
         "url": "https://open.spotify.com/album/5NVhdfx9e7rHeyeg0QN8O0"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 141278,
       "name": "Ain't He",
       "url": "https://open.spotify.com/track/3k45OK9UShP7BricKQhXa6"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BLAKSTONE",
-        "url": "https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ"
-      },
-      "artists": [
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "BLAKSTONE",
-      "url": "https://open.spotify.com/track/1cYdnjnxJnq08AedN5KqHV"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "JIMMY NEWTRON",
         "url": "https://open.spotify.com/album/7aX7QAJFvLma89TtEtIrIc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 134426,
       "name": "JIMMY NEWTRON",
       "url": "https://open.spotify.com/track/2ScaSZVzLC6GdrZXH0w8JO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "BLAKSTONE",
+        "url": "https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "BLAKSTONE",
+      "url": "https://open.spotify.com/track/1cYdnjnxJnq08AedN5KqHV"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Sold Out to Christ",
-        "url": "https://open.spotify.com/album/3EgyZPJTTWWEyOZkKZ1aH4"
-      },
-      "artists": [
-        {
-          "name": "JBthaPreacher",
-          "url": "https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6"
-        },
-        {
-          "name": "Chosen Jigg",
-          "url": "https://open.spotify.com/artist/7qqT7RNb6rvCSp6uhQlkgJ"
-        }
-      ],
-      "duration_ms": 153041,
-      "name": "Sold Out to Christ",
-      "url": "https://open.spotify.com/track/2YWwEBN2yCWrgym7rI6esx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Spirit Rich",
         "url": "https://open.spotify.com/album/4jDaCHNKQHoHUO905d9Wvl"
       },
@@ -1143,6 +1123,42 @@
       "duration_ms": 159183,
       "name": "Spirit Rich",
       "url": "https://open.spotify.com/track/2c299IzzVhir4EsPswCJyz"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Big Brother",
+        "url": "https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A"
+      },
+      "artists": [
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        }
+      ],
+      "duration_ms": 161208,
+      "name": "Big Brother",
+      "url": "https://open.spotify.com/track/041UtdcWXo5RObALfbphb4"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Sold Out to Christ",
+        "url": "https://open.spotify.com/album/3EgyZPJTTWWEyOZkKZ1aH4"
+      },
+      "artists": [
+        {
+          "name": "JBthaPreacher",
+          "url": "https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6"
+        },
+        {
+          "name": "Chosen Jigg",
+          "url": "https://open.spotify.com/artist/7qqT7RNb6rvCSp6uhQlkgJ"
+        }
+      ],
+      "duration_ms": 153041,
+      "name": "Sold Out to Christ",
+      "url": "https://open.spotify.com/track/2YWwEBN2yCWrgym7rI6esx"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Big Brother",
-        "url": "https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2SUWLEM89ldffVzwozy9bI"
       },
       "artists": [
         {
-          "name": "EGR",
-          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 161208,
-      "name": "Big Brother",
-      "url": "https://open.spotify.com/track/041UtdcWXo5RObALfbphb4"
+      "duration_ms": 139785,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2oy1jc4rswusWm4ZSM8anJ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1199,22 +1215,6 @@
       "duration_ms": 159500,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2SUWLEM89ldffVzwozy9bI"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 139785,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/2oy1jc4rswusWm4ZSM8anJ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "De Lo Mio",
+        "url": "https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U"
+      },
+      "artists": [
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "De Lo Mio",
+      "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "We Already Won",
         "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
       },
@@ -1307,26 +1331,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "De Lo Mio",
-        "url": "https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U"
+        "name": "BURNING MAN",
+        "url": "https://open.spotify.com/album/1V8hg3nyVZGmtGaRtR7uj1"
       },
       "artists": [
         {
-          "name": "Samuel ASH",
-          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+          "name": "Skema Boy",
+          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
         }
       ],
-      "duration_ms": 175133,
-      "name": "De Lo Mio",
-      "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
+      "duration_ms": 170000,
+      "name": "BURNING MAN",
+      "url": "https://open.spotify.com/track/1qhggRC4RPPPrX4kJzIFNi"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BURNING MAN",
-        "url": "https://open.spotify.com/album/1V8hg3nyVZGmtGaRtR7uj1"
-      },
-      "artists": [
-        {
-          "name": "Skema Boy",
-          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "BURNING MAN",
-      "url": "https://open.spotify.com/track/1qhggRC4RPPPrX4kJzIFNi"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "STILL GOIN",
         "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Chill Guy",
-        "url": "https://open.spotify.com/album/04LFfVfjSNwZB8aPeo6KLe"
+        "name": "AMEN AMEN",
+        "url": "https://open.spotify.com/album/4BjN6rV4ReLfD2lnSzI73a"
       },
       "artists": [
         {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
         }
       ],
-      "duration_ms": 108169,
-      "name": "Chill Guy",
-      "url": "https://open.spotify.com/track/6m8NA34YNBU2mflzwA7ckI"
+      "duration_ms": 176033,
+      "name": "AMEN AMEN",
+      "url": "https://open.spotify.com/track/5tcMRkTz3TMUjILo1uA2bM"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "AMEN AMEN",
-        "url": "https://open.spotify.com/album/4BjN6rV4ReLfD2lnSzI73a"
+        "name": "Chill Guy",
+        "url": "https://open.spotify.com/album/04LFfVfjSNwZB8aPeo6KLe"
       },
       "artists": [
         {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
         }
       ],
-      "duration_ms": 176033,
-      "name": "AMEN AMEN",
-      "url": "https://open.spotify.com/track/5tcMRkTz3TMUjILo1uA2bM"
+      "duration_ms": 108169,
+      "name": "Chill Guy",
+      "url": "https://open.spotify.com/track/6m8NA34YNBU2mflzwA7ckI"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 138668,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Come and See Deluxe: Command C",
         "url": "https://open.spotify.com/album/0K4QFlwgSqdYg3jaBRzh2X"
       },
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "One of Them Ones",
+        "url": "https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 137728,
+      "name": "One of Them Ones",
+      "url": "https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/6ncZj0ClMnM1MxgTVLT6pL"
       },
@@ -1547,38 +1579,6 @@
       "duration_ms": 164210,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/1Gro4Q3KEZZXEcERr7udH1"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "ARE YOU FOLLOWING JESUS CHRIST?",
-        "url": "https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N"
-      },
-      "artists": [
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "BLESSED",
-        "url": "https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi"
-      },
-      "artists": [
-        {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
-        }
-      ],
-      "duration_ms": 138668,
-      "name": "BLESSED",
-      "url": "https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "ARE YOU FOLLOWING JESUS CHRIST?",
+        "url": "https://open.spotify.com/album/2uegDhJNlGhnADFcTGx61N"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/7HfYhRiE3Bvy4IBiHIXI5F"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 210308,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2yZQ1G3VXrbJ6hcccOpaou"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "One of Them Ones",
-        "url": "https://open.spotify.com/album/2bQ6Fp4CxGSoHqBxjpRrg5"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 137728,
-      "name": "One of Them Ones",
-      "url": "https://open.spotify.com/track/6PvGHaqmL4MkGTys1AvprY"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "SURVIVE",
-        "url": "https://open.spotify.com/album/2gCGmolTFOcc59k9IdZ97C"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        }
-      ],
-      "duration_ms": 174536,
-      "name": "SURVIVE",
-      "url": "https://open.spotify.com/track/2NYsrotHPtQXfQXZJCh9GG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "TOO MANY RINGZ",
         "url": "https://open.spotify.com/album/41flcrtQjOQASdKoUG5L0K"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 110204,
       "name": "SHOW UP SHOW OUT",
       "url": "https://open.spotify.com/track/1UcHWOPXpBBaT87u3lIJ42"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "SURVIVE",
+        "url": "https://open.spotify.com/album/2gCGmolTFOcc59k9IdZ97C"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        }
+      ],
+      "duration_ms": 174536,
+      "name": "SURVIVE",
+      "url": "https://open.spotify.com/track/2NYsrotHPtQXfQXZJCh9GG"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "4 SUCH A TIME AS THIS",
+        "url": "https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "GATEKEEP!",
+      "url": "https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Up to Something",
         "url": "https://open.spotify.com/album/0fk00GPpLwk3XIdYqCUuy7"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 286483,
       "name": "Up to Something",
       "url": "https://open.spotify.com/track/5g9fSKNDEJAbG3Yg7QOiPu"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "4 SUCH A TIME AS THIS",
-        "url": "https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "GATEKEEP!",
-      "url": "https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2103,26 +2103,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "I.S.W.I.S",
-        "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
-      },
-      "artists": [
-        {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
-        },
-        {
-          "name": "Tr3 $ebiv",
-          "url": "https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP"
-        }
-      ],
-      "duration_ms": 157857,
-      "name": "I.S.W.I.S",
-      "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "God Know",
         "url": "https://open.spotify.com/album/60yBlHMBRynuPq7uoAvkID"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 146206,
       "name": "TOMBSTONE",
       "url": "https://open.spotify.com/track/7IbYFxNFopKUnMsXXVf0He"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "I.S.W.I.S",
+        "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "Tr3 $ebiv",
+          "url": "https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "I.S.W.I.S",
+      "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "THE BLOOD",
+        "url": "https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "THE BLOOD",
+      "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
       },
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "THE BLOOD",
-        "url": "https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "THE BLOOD",
-      "url": "https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Day and Night",
         "url": "https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl"
       },
@@ -2303,6 +2303,26 @@
       "duration_ms": 138161,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "GLOOM",
+        "url": "https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        },
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "GLOOM",
+      "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2331,26 +2351,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "GLOOM",
-        "url": "https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi"
-      },
-      "artists": [
-        {
-          "name": "Quasarpro",
-          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
-        },
-        {
-          "name": "DKG KIE",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        }
-      ],
-      "duration_ms": 118260,
-      "name": "GLOOM",
-      "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "2 Major",
         "url": "https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn"
       },
@@ -2367,6 +2367,22 @@
       "duration_ms": 138857,
       "name": "2 Major",
       "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "STILL 30 FOR 30",
+        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 134250,
+      "name": "STILL 30 FOR 30",
+      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2407,22 +2423,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
+        "name": "All God",
+        "url": "https://open.spotify.com/album/6aHAqYn261IAENMtvS6oGm"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         }
       ],
-      "duration_ms": 120000,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
+      "duration_ms": 187058,
+      "name": "All God",
+      "url": "https://open.spotify.com/track/6o8g89TMvkhZaBSrBitqpG"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2443,34 +2455,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "All God",
-        "url": "https://open.spotify.com/album/6aHAqYn261IAENMtvS6oGm"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "All God",
-      "url": "https://open.spotify.com/track/6o8g89TMvkhZaBSrBitqpG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "STILL 30 FOR 30",
-        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
-      },
-      "artists": [
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
         {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 134250,
-      "name": "STILL 30 FOR 30",
-      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
+      "duration_ms": 120000,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "TAPPED",
-        "url": "https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU"
-      },
-      "artists": [
-        {
-          "name": "KRL",
-          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
-        }
-      ],
-      "duration_ms": 171974,
-      "name": "TAPPED",
-      "url": "https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "LISTO",
         "url": "https://open.spotify.com/album/2isc9Druj3R4w2Dk437J2A"
       },
@@ -2635,6 +2619,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "TAPPED",
+        "url": "https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU"
+      },
+      "artists": [
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        }
+      ],
+      "duration_ms": 171974,
+      "name": "TAPPED",
+      "url": "https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "In Your Presence",
         "url": "https://open.spotify.com/album/2NYSiJht5JkoIptjQlHM3f"
       },
@@ -2647,54 +2647,6 @@
       "duration_ms": 148282,
       "name": "In Your Presence",
       "url": "https://open.spotify.com/track/1bsf0zU9fDzxEBkAm72Ba5"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Outside Wit It",
-        "url": "https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm"
-      },
-      "artists": [
-        {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
-        },
-        {
-          "name": "Sevin",
-          "url": "https://open.spotify.com/artist/1I402d4s0Xe8EntQI3u96l"
-        },
-        {
-          "name": "Murcy 34",
-          "url": "https://open.spotify.com/artist/3ShiorUjSlxwvPUr2ofZSJ"
-        }
-      ],
-      "duration_ms": 193343,
-      "name": "Outside Wit It",
-      "url": "https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Not For You",
-        "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Not For You",
-      "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2723,6 +2675,30 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "Outside Wit It",
+        "url": "https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Sevin",
+          "url": "https://open.spotify.com/artist/1I402d4s0Xe8EntQI3u96l"
+        },
+        {
+          "name": "Murcy 34",
+          "url": "https://open.spotify.com/artist/3ShiorUjSlxwvPUr2ofZSJ"
+        }
+      ],
+      "duration_ms": 193343,
+      "name": "Outside Wit It",
+      "url": "https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/5o1Fq3VyqSO1xxC53eCRPI"
       },
@@ -2735,6 +2711,30 @@
       "duration_ms": 157183,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6Eb5V21N0kBbzqGb9O3kgx"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Not For You",
+        "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "duration_ms": 133761,
+      "name": "Not For You",
+      "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
     },
     {
       "added_at": "2025-12-12 05:00:45",

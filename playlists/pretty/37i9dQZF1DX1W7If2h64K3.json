@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 57269,
+  "num_followers": 57288,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,30 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Dichterliebe & Kerner-Lieder",
+        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 738560,
       "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
       "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Dichterliebe & Kerner-Lieder",
-        "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
-      "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -799,30 +799,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
-        "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Helmut Deutsch",
-          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
-      "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 112520,
       "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
       "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
+        "url": "https://open.spotify.com/album/7DVk0O09BSgLYP8FdQotxX"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Schumann: Dichterliebe, Op. 48: 1. Im wundersch\u00f6nen Monat Mai",
+      "url": "https://open.spotify.com/track/6VEuY1WrVMMW7xOAlzbLXv"
     },
     {
       "added_at": "2025-12-15 12:40:07",

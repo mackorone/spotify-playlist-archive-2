@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,601 likes - 67 songs - 3 hr 34 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,601 likes - 68 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 65 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 66 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 67 | [Any Other Night](https://open.spotify.com/track/4jF0QfWSjUMrH7Y5fL0leS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Any Other Night](https://open.spotify.com/album/76wg0moAfOziJ3E7u25UES) | 3:05 |
+| 68 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
 
-Snapshot ID: `AAAHyxCw7SWrhvb3fdAfgppnQC/Tdj0O`
+Snapshot ID: `AAAHzNZB2qB1AdoGKyKOV4cLY8c9Ayl/`

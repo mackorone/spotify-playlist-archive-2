@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: YouNotUs",
+  "description": "The biggest Dance hits and the ones to come. Cover: Blasterjaxx",
   "name": "Main Stage",
   "tracks": [
     {
@@ -3524,6 +3524,36 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM"
+    },
+    {
+      "album": {
+        "name": "Club Bizarre",
+        "url": "https://open.spotify.com/album/5GsgYaGtwa2rvmA7knroD4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "Club Bizarre",
+      "url": "https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x"
     },
     {
       "album": {
@@ -11181,6 +11211,24 @@
     },
     {
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/1ylCng8k8SHjJ4sXRvchYq"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/28yki2yPVLHmaIHP0Mcan2"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -15238,7 +15286,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 136000,
       "name": "Rave Master",
       "url": "https://open.spotify.com/track/1VJU0bkTmTMvdYgKdDnvic"
@@ -15460,7 +15508,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146958,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/11ocj2KboECoDJrQJgN0GW"
@@ -16966,6 +17014,24 @@
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"
+    },
+    {
+      "album": {
+        "name": "Speakers Blowing",
+        "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221012,
+      "name": "Speakers Blowing",
+      "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
     },
     {
       "album": {
@@ -20844,7 +20910,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 137746,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5IqAFq7XIkgRmGZoxl5SX6"

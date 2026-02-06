@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Low-Red in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Aira e Tony Boy in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -326,6 +326,28 @@
       "duration_ms": 124511,
       "name": "10 MILA",
       "url": "https://open.spotify.com/track/2kesPCCmnyLpygemxcgNT5"
+    },
+    {
+      "album": {
+        "name": "CITOFONO",
+        "url": "https://open.spotify.com/album/6ZQYaJ4H1a4WoW9ZuTHl0H"
+      },
+      "artists": [
+        {
+          "name": "DBZ",
+          "url": "https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa"
+        },
+        {
+          "name": "Lubi",
+          "url": "https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112843,
+      "name": "100 GRAMMI (feat. Lubi)",
+      "url": "https://open.spotify.com/track/201nf1PFAXvdWO78M7VzUg"
     },
     {
       "album": {
@@ -3242,7 +3264,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169848,
       "name": "Amica sopra al tavolo (feat. Abby 6ix)",
       "url": "https://open.spotify.com/track/4UMe5hRNllMSVnmy7XMWAw"
@@ -6229,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "BlitzTank",
+        "url": "https://open.spotify.com/album/7lRJtFqyPOgyVNfTMzoYGT"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "BlitzTank",
+      "url": "https://open.spotify.com/track/7vHQrUcJQRwBBpof3gLHVM"
+    },
+    {
+      "album": {
         "name": "Message group\u00e9",
         "url": "https://open.spotify.com/album/1zWqv5QZyk6n1tCQuDwEq1"
       },
@@ -7680,7 +7720,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 151232,
       "name": "CambiareX2",
       "url": "https://open.spotify.com/track/4nVcnJkJxd3zBRs2OQaYwi"
@@ -8324,7 +8364,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 138200,
       "name": "CATCALLING",
       "url": "https://open.spotify.com/track/3m5uVGF4qtsM4KvtiXrkjZ"
@@ -9514,6 +9554,24 @@
       "duration_ms": 195882,
       "name": "COCCO (feat. Touch\u00e8, 8blevrai)",
       "url": "https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj"
+    },
+    {
+      "album": {
+        "name": "Coccodrillo Verde",
+        "url": "https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127551,
+      "name": "Coccodrillo Verde",
+      "url": "https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh"
     },
     {
       "album": {
@@ -14252,7 +14310,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171967,
       "name": "fare finta (feat. Carla Hero)",
       "url": "https://open.spotify.com/track/3fdUObSTgbqPViwm7LHWlx"
@@ -14390,7 +14448,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 135068,
       "name": "FASTLIFE",
       "url": "https://open.spotify.com/track/5ctiVDZm4KIoay8znJrC7r"
@@ -14908,7 +14966,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 126000,
       "name": "figa check #225",
       "url": "https://open.spotify.com/track/2REORFlyDzbSSoI9yrra72"
@@ -15950,7 +16008,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 156279,
       "name": "Fumo Denso",
       "url": "https://open.spotify.com/track/1GW9dBXX1Lar8npzPi852c"
@@ -21896,7 +21954,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 130222,
       "name": "LA TRAP NON MUORE MAI",
       "url": "https://open.spotify.com/track/60BuXgxuJ94cYQid5myouo"
@@ -26922,7 +26980,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 155675,
       "name": "Molly water",
       "url": "https://open.spotify.com/track/6Oinh0AY0RT5Wde98yart7"
@@ -29448,7 +29506,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 195789,
       "name": "NON MI VERGOGNO (feat. Gu\u00e8, Ceejay & Mated)",
       "url": "https://open.spotify.com/track/5rg4OSRLS9OySeuyJ4in0x"
@@ -30792,6 +30850,24 @@
       "duration_ms": 171044,
       "name": "ONE SHOT",
       "url": "https://open.spotify.com/track/3q9xch4Q3OoEvOqSZ14xgh"
+    },
+    {
+      "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/3AGnHGssZokETorb9IRbXL"
+      },
+      "artists": [
+        {
+          "name": "Lorenzza",
+          "url": "https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135285,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4KB5YSxkhJsRimltaSICcp"
     },
     {
       "album": {
@@ -33570,6 +33646,28 @@
       "duration_ms": 126956,
       "name": "POSTO FISSO (feat. R1MKA)",
       "url": "https://open.spotify.com/track/4NeHaELLiRMqG2H5UY93Dt"
+    },
+    {
+      "album": {
+        "name": "Potere (feat. Tony Boy)",
+        "url": "https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195090,
+      "name": "Potere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
     },
     {
       "album": {
@@ -36480,6 +36578,36 @@
       "duration_ms": 207158,
       "name": "Routine",
       "url": "https://open.spotify.com/track/2Slrxh8v7eHcVKrEhJdJan"
+    },
+    {
+      "album": {
+        "name": "CITOFONO",
+        "url": "https://open.spotify.com/album/6ZQYaJ4H1a4WoW9ZuTHl0H"
+      },
+      "artists": [
+        {
+          "name": "DBZ",
+          "url": "https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Bekkeria",
+          "url": "https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "ROUTINE (feat. Kuremino, Bekkeria, Promessa)",
+      "url": "https://open.spotify.com/track/0iqoV33m3Zfw2h7QPJD1aI"
     },
     {
       "album": {
@@ -39661,6 +39789,24 @@
     },
     {
       "album": {
+        "name": "SONO PERSA",
+        "url": "https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171766,
+      "name": "SONO PERSA",
+      "url": "https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6"
+    },
+    {
+      "album": {
         "name": "Dark Days",
         "url": "https://open.spotify.com/album/3BZfTdNv2jymCMUdmDmOnj"
       },
@@ -39724,6 +39870,24 @@
       "duration_ms": 170597,
       "name": "Sono tristi anche le star",
       "url": "https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE"
+    },
+    {
+      "album": {
+        "name": "SOPRA A TUTTO",
+        "url": "https://open.spotify.com/album/4o4N0Lo2GPEBuiPfRsTooM"
+      },
+      "artists": [
+        {
+          "name": "sir prodige",
+          "url": "https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "SOPRA A TUTTO",
+      "url": "https://open.spotify.com/track/0tEHfRFZn1B56CDvWzrFlJ"
     },
     {
       "album": {
@@ -40112,6 +40276,28 @@
       "duration_ms": 159000,
       "name": "Stanza d'Albergo",
       "url": "https://open.spotify.com/track/2UT55zrpVAV9H5lfznHvqV"
+    },
+    {
+      "album": {
+        "name": "Stanza dei ricordi",
+        "url": "https://open.spotify.com/album/4yFUxA3SG3kMxw5LHUn125"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Stanza dei ricordi",
+      "url": "https://open.spotify.com/track/0Ya6h7s1IoVSToVWMn3ZHF"
     },
     {
       "album": {
@@ -45370,6 +45556,28 @@
       "duration_ms": 154446,
       "name": "Voglio",
       "url": "https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK"
+    },
+    {
+      "album": {
+        "name": "VOLDEMORT",
+        "url": "https://open.spotify.com/album/0v9CFUhNkPOqVZBbRXccw2"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "VOLDEMORT",
+      "url": "https://open.spotify.com/track/0AMDTiUh3S5niOi5PmimAu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 72538,
+  "num_followers": 72561,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "My Paris Years - French Music for Piano",
-        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alain Lef\u00e8vre",
-          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
-      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
         "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
       },
@@ -471,8 +451,8 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel and Shostakovich: Piano Trios",
-        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
+        "name": "My Paris Years - French Music for Piano",
+        "url": "https://open.spotify.com/album/3x0HknAVUdUIh6HPRQQVHs"
       },
       "artists": [
         {
@@ -480,33 +460,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Smetana Trio",
-          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
+          "name": "Alain Lef\u00e8vre",
+          "url": "https://open.spotify.com/artist/3TL7yaSno7le3PmFBYsHDU"
         }
       ],
-      "duration_ms": 475146,
-      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
-      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel: Fragments",
-        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 77600,
-      "name": "Ravel: Chanson de la mari\u00e9e",
-      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
+      "duration_ms": 211333,
+      "name": "Ravel: Sonatine, M. 40: II. Mouvement de menuet",
+      "url": "https://open.spotify.com/track/2Vc2lQa79WLuHJHnKvoUUt"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -531,6 +491,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel and Shostakovich: Piano Trios",
+        "url": "https://open.spotify.com/album/0gP966H4PMIbOu3ErgJkAA"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Smetana Trio",
+          "url": "https://open.spotify.com/artist/4Nyi8TEpxsztAzIUWXjjUq"
+        }
+      ],
+      "duration_ms": 475146,
+      "name": "Piano Trio in A Minor, M. 67: III. Passacaille. Tr\u00e8s large",
+      "url": "https://open.spotify.com/track/2qhAOKSbcL00PDPCLwnWkV"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
         "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 151453,
       "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
       "url": "https://open.spotify.com/track/5tHYQVKJKHigdqhck97vih"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Fragments",
+        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 77600,
+      "name": "Ravel: Chanson de la mari\u00e9e",
+      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 416786,
+      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
+      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
         "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "duration_ms": 416786,
-      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
-      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -731,6 +731,30 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
+        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 127706,
+      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
+      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel et Prokofiev: Concertos pour pianos",
         "url": "https://open.spotify.com/album/2z6hlIzl30tbJqJvxOe29g"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 238320,
       "name": "Piano concerto in G Major: III. Presto",
       "url": "https://open.spotify.com/track/0NYdiC4VC4P4xw7YAd6wek"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel: Rapsodie espagnole; La Valse; Ma m\u00e8re l'oye; Valses nobles et sentimentales",
-        "url": "https://open.spotify.com/album/07YqwWH5cIA0EHV9vGOHGH"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 127706,
-      "name": "Valses nobles et sentimentales, M.61 - for Orchestra: 2. Assez lent",
-      "url": "https://open.spotify.com/track/0tgvtn6OqCdqFCuHkiWBHP"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -947,30 +947,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
-        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Chantal Juillet",
-          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
-      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
+        "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "Berceuse sur le nom de Gabriel Faur\u00e9, M. 74",
+      "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        }
-      ],
-      "duration_ms": 587573,
-      "name": "Ravel: String Quartet, M. 35: III. Tr\u00e8s lent",
-      "url": "https://open.spotify.com/track/6CKWffytAbvWFTsPW3d2Ek"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 51506,
       "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
       "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        }
+      ],
+      "duration_ms": 587573,
+      "name": "Ravel: String Quartet, M. 35: III. Tr\u00e8s lent",
+      "url": "https://open.spotify.com/track/6CKWffytAbvWFTsPW3d2Ek"
     },
     {
       "added_at": "2025-12-22 11:30:42",

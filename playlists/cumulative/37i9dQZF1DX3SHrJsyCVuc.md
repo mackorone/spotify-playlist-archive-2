@@ -2,19 +2,21 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: KNEECAP
+> A new world of alternative noise\. Cover: Power Snatch
 
-111 songs - 6 hr 0 min
+116 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-10-23 | 2025-11-28 |
+| [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-05 |  |
 | [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 |  |
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
-| [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 |  |
+| [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-05 |  |
+| [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 | 2026-02-06 |
 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 | 2025-12-19 |
 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 | 2025-11-20 |  |
-| [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 |  |
+| [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 | 2026-02-06 |
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-20 | 2025-11-28 |
 | [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-22 |  |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-10-23 |  |
@@ -23,11 +25,12 @@
 | [Can't Feel It](https://open.spotify.com/track/0FeXCUdFEYzYRxsl0ntsgH) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Can't Feel It](https://open.spotify.com/album/0NF5PG5PmiomlWNUBt0mTa) | 3:37 | 2025-10-23 |  |
 | [Claires Whip](https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t) | [Dragnet](https://open.spotify.com/artist/4N5f5r6VSt8LaWeAKlK91o) | [Dragnet Reigns!](https://open.spotify.com/album/62I8kD8qVSthButF7DN4pR) | 1:52 | 2025-10-23 |  |
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-06 | 2026-01-15 |
-| [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 |  |
+| [Cruise Ship Designer](https://open.spotify.com/track/4bxf0SkBztnpD2pmG4E3XE) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Cruise Ship Designer](https://open.spotify.com/album/4TS9qII3TePPw5supS6ydF) | 2:29 | 2025-11-13 | 2026-02-06 |
 | [Curse](https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Body Broker](https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u) | 2:23 | 2025-11-27 |  |
+| [Cut It Out](https://open.spotify.com/track/3ZGUHN7vCL1ylsV7pV0X79) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Cut It Out](https://open.spotify.com/album/1n4mAv6vK1zXMfWyfse2Mp) | 3:02 | 2026-02-05 |  |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-10-23 | 2025-11-07 |
 | [Daddy](https://open.spotify.com/track/4vgoFEyR2qkVLw2HwexUTZ) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Daddy](https://open.spotify.com/album/7uRe1IzYXF1sjlF9ttHZO1) | 3:19 | 2026-01-22 |  |
-| [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-06 |  |
+| [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-06 | 2026-02-06 |
 | [Dipped](https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Dipped](https://open.spotify.com/album/7sF4EDoaaVq31e07L2aWHJ) | 3:24 | 2025-10-23 | 2025-11-14 |
 | [Don't Cheese Me Off](https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Crumbs 2](https://open.spotify.com/album/3bVyAHsbBLE7QetQnl0EE9) | 1:47 | 2025-11-27 |  |
 | [Double Clover](https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX) | [Eveline Breaker](https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG) | [Idle Viewer](https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC) | 4:35 | 2025-12-18 |  |
@@ -40,12 +43,13 @@
 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-10-23 |  |
 | [Evie](https://open.spotify.com/track/5hOPgA2uhZ1ziA3YgLXOMn) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Evie](https://open.spotify.com/album/3FfxKIk20ASEmmydSBeKvO) | 4:03 | 2026-01-15 |  |
 | [Executive Function](https://open.spotify.com/track/5LrBYOI6AaS8zumfUqaygO) | [screensaver](https://open.spotify.com/artist/38UP3ZGUai10OtCaC0dV33) | [Three Lens Approach](https://open.spotify.com/album/5bH15xU8bX8E7YN29EpCnk) | 3:46 | 2025-11-06 |  |
-| [FIG TREE](https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [FIG TREE](https://open.spotify.com/album/4xgAG3Mzt6qHU1lqo7ZoJN) | 2:52 | 2025-11-13 |  |
+| [FIG TREE](https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [FIG TREE](https://open.spotify.com/album/4xgAG3Mzt6qHU1lqo7ZoJN) | 2:52 | 2025-11-13 | 2026-02-06 |
 | [FME](https://open.spotify.com/track/46mmlCxxF6c4mzobMVK94b) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [FME](https://open.spotify.com/album/2EVaRxUjrnJY0eSRdEdeZi) | 2:15 | 2025-10-23 |  |
 | [Forgotten Token](https://open.spotify.com/track/0SaFJ21gDyyTrEsHGgJr5d) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Forgotten Token / Un Momento](https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM) | 3:28 | 2025-10-23 | 2025-11-07 |
 | [Friendship Bracelet](https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3) | [Behind You](https://open.spotify.com/artist/1T6MrJ05LTMSvGL8zMNjku), [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Friendship Bracelet](https://open.spotify.com/album/0IhqfuNHOmWgjgj5oIuBSQ) | 3:04 | 2025-10-23 | 2025-11-07 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 | 2025-11-14 |
 | [Gatekeep](https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Big Modern](https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX) | 1:06 | 2025-11-20 |  |
+| [Gold](https://open.spotify.com/track/4ab3Sjx3e92nsAGrL0BYL7) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [gold / fawn](https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7) | 4:27 | 2026-02-05 |  |
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-23 | 2026-01-30 |
 | [good luck](https://open.spotify.com/track/3oAziHFXoYjjdNqkldMO9w) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [good luck](https://open.spotify.com/album/0QqHV2pIGSb6DMjyV98lrb) | 1:46 | 2025-10-23 |  |
 | [Head In A Toaster](https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Head In A Toaster](https://open.spotify.com/album/3fvhuLxy0ynDpYUlL5MxYM) | 1:55 | 2025-10-23 |  |
@@ -55,6 +59,7 @@
 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 | 2025-11-06 |  |
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 | 2026-01-15 |
 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-15 |  |
+| [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-05 |  |
 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-15 |  |

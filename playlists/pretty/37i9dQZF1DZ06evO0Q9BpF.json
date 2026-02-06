@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 50050,
+  "num_followers": 50058,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADh3KaKwQdnb8uEGq8ZA1xO",
+  "snapshot_id": "aYKMAAAAAABdIgUtIbzNnOd8/Cpr3+DN",
   "tracks": [
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luz del Mundo",
         "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 285040,
       "name": "Luz del Mundo",
       "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
     },
     {
       "added_at": null,

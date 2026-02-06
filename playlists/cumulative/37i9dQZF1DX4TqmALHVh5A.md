@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : KALIKA & Tess Kirby
+> La scène française branchée sur courant alternatif\. Photo : Marlon Magnée
 
-425 songs - 22 hr 26 min
+426 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [JE SAIS PLUS QUOI DIRE](https://open.spotify.com/track/5YEgeYe784hrRnf7P91jfy) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [JE SAIS PLUS QUOI DIRE](https://open.spotify.com/album/5afIEZW7Kvs1tZ37hnOwfK) | 3:03 | 2025-09-25 | 2025-11-07 |
 | [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 | 2025-06-13 |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
+| [Je voulais te dire que je t'attends](https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Je voulais te dire que je t'attends](https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca) | 3:48 | 2026-02-05 |  |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 | 2025-06-05 | 2025-10-17 |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
@@ -212,7 +213,7 @@
 | [La marée](https://open.spotify.com/track/1w4Ny0UnhzNd6ZBwGjb5jk) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [La marée](https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze) | 3:18 | 2023-09-28 | 2023-10-06 |
 | [La pomme](https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [La pomme](https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ) | 2:14 | 2026-01-08 |  |
 | [La pression](https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [La pression](https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk) | 4:09 | 2024-05-16 | 2024-10-25 |
-| [LA PROPHÉTIE](https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3) | [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [LA PROPHÉTIE](https://open.spotify.com/album/7DLrEAvsjFjg1JhbqCXuIL) | 3:36 | 2025-11-06 |  |
+| [LA PROPHÉTIE](https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3) | [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [LA PROPHÉTIE](https://open.spotify.com/album/7DLrEAvsjFjg1JhbqCXuIL) | 3:36 | 2025-11-06 | 2026-02-06 |
 | [La vérité des baisers](https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [La vérité des baisers](https://open.spotify.com/album/5ZoBThw0ygoWQ5qw5KK3nl) | 3:52 | 2025-12-04 |  |
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |
 | [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 | 2023-12-08 |

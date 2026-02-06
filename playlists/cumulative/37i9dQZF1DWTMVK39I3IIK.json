@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Rigmor",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Von Quar",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 149771,
       "name": "BARATO",
       "url": "https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Kraftidiot",
+        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165521,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
+    },
+    {
+      "album": {
         "name": "If Eyes Could Kill (BBYBITES x ELOQ)",
         "url": "https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT"
       },
@@ -3478,7 +3496,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146318,
       "name": "Klart Nok",
       "url": "https://open.spotify.com/track/0itsAYJPTg18QJadt3lchA"
@@ -5944,7 +5962,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165221,
       "name": "The Orchids",
       "url": "https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO"
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 189831,
       "name": "Til Enden Og Tilbage (feat. Ungklang)",
       "url": "https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc"
@@ -6060,10 +6078,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 127500,
       "name": "TO OM NATTEN",
       "url": "https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
     },
     {
       "album": {

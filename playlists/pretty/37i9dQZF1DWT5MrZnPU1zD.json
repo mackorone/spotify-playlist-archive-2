@@ -1,6 +1,6 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1685643,
+  "num_followers": 1685647,
   "original_name": "Hip-Hop Controller",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "MIXTAPE PLUTO",
-        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 139196,
-      "name": "LIL DEMON",
-      "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
       "added_at": "2025-12-04 15:08:47",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 157992,
-      "name": "squabble up",
-      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+      "duration_ms": 139196,
+      "name": "LIL DEMON",
+      "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
     },
     {
       "added_at": "2025-09-19 00:00:22",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
     },
     {
       "added_at": "2025-09-19 00:00:22",
@@ -859,22 +863,18 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "FWU",
-        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 171000,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2025-09-19 00:00:22",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Outfit (with 21 Savage)",
+      "url": "https://open.spotify.com/track/6B2FtBtIds4rqeLPTW0D76"
+    },
+    {
+      "added_at": "2025-09-19 00:00:22",
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "added_at": "2025-09-19 00:00:22",
-      "album": {
-        "name": "WHAM (Extended Version)",
-        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Outfit (with 21 Savage)",
-      "url": "https://open.spotify.com/track/6B2FtBtIds4rqeLPTW0D76"
     },
     {
       "added_at": "2025-09-19 00:00:22",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2025-09-19 00:00:22",
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
     }
   ],
   "unique_name": "Hip-Hop Controller",

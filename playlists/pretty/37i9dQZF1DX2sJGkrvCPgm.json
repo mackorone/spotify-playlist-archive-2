@@ -1,6 +1,6 @@
 {
   "description": "A mix of new songs and beloved classics from your favorite Contemporary Christian artists! ",
-  "num_followers": 145489,
+  "num_followers": 145477,
   "original_name": "Contemporary Christian Christmas",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Christmas Is...Jesus",
-        "url": "https://open.spotify.com/album/6l0s6I6qtbgwEqgFrIp2yL"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "What a Glorious Night",
-      "url": "https://open.spotify.com/track/4Chikn3cfdh2GBQPoyrv2g"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "The Best Is Yet To Come (A Song For The New Year)",
         "url": "https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 235933,
       "name": "The Best Is Yet To Come - A Song For The New Year",
       "url": "https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "Christmas Is...Jesus",
+        "url": "https://open.spotify.com/album/6l0s6I6qtbgwEqgFrIp2yL"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "What a Glorious Night",
+      "url": "https://open.spotify.com/track/4Chikn3cfdh2GBQPoyrv2g"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Campfire Christmas (Vol. 1)",
-        "url": "https://open.spotify.com/album/1pNwYbeB1bqTBoEtrPJsSb"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Hark! The Herald Angels Sing (Glory In The Highest)",
-      "url": "https://open.spotify.com/track/6YjDs79QtwtDIVwVvnuiCN"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "The Advent of Christmas",
         "url": "https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 275987,
       "name": "Born on That Day",
       "url": "https://open.spotify.com/track/3wlUyTYyx0XBsk2IoKu6R7"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "Campfire Christmas (Vol. 1)",
+        "url": "https://open.spotify.com/album/1pNwYbeB1bqTBoEtrPJsSb"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "Hark! The Herald Angels Sing (Glory In The Highest)",
+      "url": "https://open.spotify.com/track/6YjDs79QtwtDIVwVvnuiCN"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
+        "name": "JESUS IS BORN",
+        "url": "https://open.spotify.com/album/57eLAyxC7LNAZlwH2lbNcc"
+      },
+      "artists": [
+        {
+          "name": "Mike Malagies",
+          "url": "https://open.spotify.com/artist/6Ms95MzjHZvqs79Nw3hXrx"
+        }
+      ],
+      "duration_ms": 138030,
+      "name": "JESUS IS BORN",
+      "url": "https://open.spotify.com/track/60LfKEOzEbTRsIXPAc6NJX"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/6VJ6sHlXtFu9QcXG7Xo2UD"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 204856,
       "name": "Joy! He Shall Reign",
       "url": "https://open.spotify.com/track/5sSYPQhy2vUqEyUpabt9QP"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
-        "name": "JESUS IS BORN",
-        "url": "https://open.spotify.com/album/57eLAyxC7LNAZlwH2lbNcc"
-      },
-      "artists": [
-        {
-          "name": "Mike Malagies",
-          "url": "https://open.spotify.com/artist/6Ms95MzjHZvqs79Nw3hXrx"
-        }
-      ],
-      "duration_ms": 138030,
-      "name": "JESUS IS BORN",
-      "url": "https://open.spotify.com/track/60LfKEOzEbTRsIXPAc6NJX"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "This is Emmanuel",
-        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
-      },
-      "artists": [
-        {
-          "name": "KingsPorch",
-          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "This is Emmanuel",
-      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "Come Adore Him",
         "url": "https://open.spotify.com/album/6JJaJ4BoGsIY1iJ6sFXuMc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199879,
       "name": "Come Adore Him",
       "url": "https://open.spotify.com/track/0fmce5u0DSAayBEAiEshWG"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "This is Emmanuel",
+        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
+      },
+      "artists": [
+        {
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "This is Emmanuel",
+      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "We Three Kings",
-        "url": "https://open.spotify.com/album/0qO46uL8GslPfSj1aZwvPD"
+        "name": "Angels (Glory To God)",
+        "url": "https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 180639,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/4tHAnscFMkMQL36f2dVBXx"
+      "duration_ms": 223266,
+      "name": "Angels (Glory To God)",
+      "url": "https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Angels (Glory To God)",
-        "url": "https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u"
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/0qO46uL8GslPfSj1aZwvPD"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 223266,
-      "name": "Angels (Glory To God)",
-      "url": "https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W"
+      "duration_ms": 180639,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/4tHAnscFMkMQL36f2dVBXx"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Emmanuel: Christmas Songs Of Worship (Deluxe)",
-        "url": "https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 217549,
-      "name": "Gloria - Live",
-      "url": "https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "The King Has Come",
         "url": "https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 223714,
       "name": "The King Has Come",
       "url": "https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "Emmanuel: Christmas Songs Of Worship (Deluxe)",
+        "url": "https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 217549,
+      "name": "Gloria - Live",
+      "url": "https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Joy to the World",
-        "url": "https://open.spotify.com/album/6RuGvirkwRj40pdLi2TvhW"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 236783,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/2joShyZgEVz2HvQPBObGMj"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "This Is Christmas",
         "url": "https://open.spotify.com/album/7KTrKAVMqIlNV3fVmj47hl"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 211893,
       "name": "It Came Upon A Midnight Clear",
       "url": "https://open.spotify.com/track/3Sffhn79iVVjfgogafj3ZY"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/6RuGvirkwRj40pdLi2TvhW"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 236783,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/2joShyZgEVz2HvQPBObGMj"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1675,18 +1675,26 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Do You Hear What I Hear? (LIVE)",
-        "url": "https://open.spotify.com/album/43DC6mc5FoKCu7Id8jr7eu"
+        "name": "Hear Feel Play Christmas",
+        "url": "https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        },
+        {
+          "name": "HFP Music",
+          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
         }
       ],
-      "duration_ms": 189642,
-      "name": "Do You Hear What I Hear? (LIVE)",
-      "url": "https://open.spotify.com/track/0D8DGPrN1qRvlepl1Xwthn"
+      "duration_ms": 199572,
+      "name": "Your Majesty",
+      "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1711,26 +1719,18 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Hear Feel Play Christmas",
-        "url": "https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx"
+        "name": "Do You Hear What I Hear? (LIVE)",
+        "url": "https://open.spotify.com/album/43DC6mc5FoKCu7Id8jr7eu"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        },
-        {
-          "name": "HFP Music",
-          "url": "https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 199572,
-      "name": "Your Majesty",
-      "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"
+      "duration_ms": 189642,
+      "name": "Do You Hear What I Hear? (LIVE)",
+      "url": "https://open.spotify.com/track/0D8DGPrN1qRvlepl1Xwthn"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "What Christmas Is All About",
-        "url": "https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 195597,
-      "name": "What Christmas Is All About",
-      "url": "https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "Christmas Eve",
         "url": "https://open.spotify.com/album/4r5X5CaEXaj7Uh0bJYoCkF"
       },
@@ -1799,18 +1783,18 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "God With Us",
-        "url": "https://open.spotify.com/album/5mOQwwrpwCqlkFIMpuPVcX"
+        "name": "What Christmas Is All About",
+        "url": "https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
         }
       ],
-      "duration_ms": 228266,
-      "name": "From Heaven To Earth (Joy To The World)",
-      "url": "https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4"
+      "duration_ms": 195597,
+      "name": "What Christmas Is All About",
+      "url": "https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -1827,6 +1811,22 @@
       "duration_ms": 199786,
       "name": "Let Love Be The Gift",
       "url": "https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "God With Us",
+        "url": "https://open.spotify.com/album/5mOQwwrpwCqlkFIMpuPVcX"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "From Heaven To Earth (Joy To The World)",
+      "url": "https://open.spotify.com/track/0PrGjIdocNthK35qFKShB4"
     },
     {
       "added_at": "2025-12-12 06:48:05",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2025-12-12 06:48:05",
       "album": {
-        "name": "Carol of the Bells",
-        "url": "https://open.spotify.com/album/1lAG2YMFRjLYx4DRf9fYAh"
-      },
-      "artists": [
-        {
-          "name": "Rhett Walker",
-          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
-        }
-      ],
-      "duration_ms": 227969,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/772nYPkaxn2tsqqWCkdoSj"
-    },
-    {
-      "added_at": "2025-12-12 06:48:05",
-      "album": {
         "name": "Mother to a Savior and King",
         "url": "https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 206665,
       "name": "Mother to a Savior and King",
       "url": "https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm"
+    },
+    {
+      "added_at": "2025-12-12 06:48:05",
+      "album": {
+        "name": "Carol of the Bells",
+        "url": "https://open.spotify.com/album/1lAG2YMFRjLYx4DRf9fYAh"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "duration_ms": 227969,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/772nYPkaxn2tsqqWCkdoSj"
     },
     {
       "added_at": "2025-12-12 06:48:05",

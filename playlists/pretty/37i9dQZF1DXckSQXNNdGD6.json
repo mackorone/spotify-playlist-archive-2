@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Marlon Collins.",
-  "num_followers": 21225,
+  "num_followers": 21227,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,18 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "He sido",
-        "url": "https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh"
+        "name": "Cuatricrom\u00eda",
+        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
       },
       "artists": [
         {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+          "name": "Fangoria",
+          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
         }
       ],
-      "duration_ms": 199321,
-      "name": "He sido",
-      "url": "https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E"
+      "duration_ms": 243773,
+      "name": "Dramas y comedias",
+      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
     },
     {
       "added_at": "2026-02-03 23:01:28",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "Cuatricrom\u00eda",
-        "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
+        "name": "He sido",
+        "url": "https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh"
       },
       "artists": [
         {
-          "name": "Fangoria",
-          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
         }
       ],
-      "duration_ms": 243773,
-      "name": "Dramas y comedias",
-      "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
+      "duration_ms": 199321,
+      "name": "He sido",
+      "url": "https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E"
     },
     {
       "added_at": "2026-02-03 23:01:28",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "Talk To Mi Nalga",
-        "url": "https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K"
-      },
-      "artists": [
-        {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 148287,
-      "name": "Talk To Mi Nalga",
-      "url": "https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5"
-    },
-    {
-      "added_at": "2026-02-03 23:01:28",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 182373,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ"
+    },
+    {
+      "added_at": "2026-02-03 23:01:28",
+      "album": {
+        "name": "Talk To Mi Nalga",
+        "url": "https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K"
+      },
+      "artists": [
+        {
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 148287,
+      "name": "Talk To Mi Nalga",
+      "url": "https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5"
     },
     {
       "added_at": "2026-02-03 23:01:28",

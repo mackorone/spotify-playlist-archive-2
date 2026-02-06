@@ -65,6 +65,24 @@
     },
     {
       "album": {
+        "name": "100 Degrees",
+        "url": "https://open.spotify.com/album/5Ljx5GjGk6XybbnDmYIP2G"
+      },
+      "artists": [
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/0INTsw60B55hvpmgubzIgH"
+    },
+    {
+      "album": {
         "name": "10x",
         "url": "https://open.spotify.com/album/03F3bUL4JCXyGOhpcsSDAY"
       },
@@ -4688,7 +4706,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 132000,
       "name": "DONE",
       "url": "https://open.spotify.com/track/6whsUvI8c0z69gvhjtTQDx"
@@ -11376,7 +11394,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
@@ -15396,7 +15414,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178259,
       "name": "Stop Dey Worry Me",
       "url": "https://open.spotify.com/track/29BZWfMU9LfD50wJ5jxkre"
@@ -17626,6 +17644,24 @@
       "duration_ms": 194606,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
+    },
+    {
+      "album": {
+        "name": "Winning Season",
+        "url": "https://open.spotify.com/album/3YafTsiSWFLNpKRl0b6p3p"
+      },
+      "artists": [
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109748,
+      "name": "Winning Season",
+      "url": "https://open.spotify.com/track/1fQW06nyJW6zPUkhhxljNR"
     },
     {
       "album": {

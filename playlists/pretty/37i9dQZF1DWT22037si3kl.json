@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148417,
+  "num_followers": 148416,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -355,38 +355,6 @@
     {
       "added_at": "2026-01-30 16:58:34",
       "album": {
-        "name": "Yeezy Slide \"REMIX\"",
-        "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "MC Marlon PH",
-          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
-        },
-        {
-          "name": "ANTCONSTANTINO",
-          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "Yeezy Slide \"REMIX\"",
-      "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
-    },
-    {
-      "added_at": "2026-01-30 16:58:34",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2026-01-30 16:58:34",
+      "album": {
+        "name": "Yeezy Slide \"REMIX\"",
+        "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        },
+        {
+          "name": "ANTCONSTANTINO",
+          "url": "https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "Yeezy Slide \"REMIX\"",
+      "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
     },
     {
       "added_at": "2026-01-30 16:58:34",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-01-30 16:58:34",
       "album": {
-        "name": "placo no pulso",
-        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
-      },
-      "artists": [
-        {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
-        },
-        {
-          "name": "Caio Shock",
-          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
-        }
-      ],
-      "duration_ms": 176511,
-      "name": "placo no pulso",
-      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
-    },
-    {
-      "added_at": "2026-01-30 16:58:34",
-      "album": {
         "name": "NOITE DE TRAP",
         "url": "https://open.spotify.com/album/2N8aePZV3J6i2yV4tNAL4f"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 127058,
       "name": "NOITE DE TRAP",
       "url": "https://open.spotify.com/track/6kfmdw0rCqnnnosIxKbBDZ"
+    },
+    {
+      "added_at": "2026-01-30 16:58:34",
+      "album": {
+        "name": "placo no pulso",
+        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
+      },
+      "artists": [
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Caio Shock",
+          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
+        }
+      ],
+      "duration_ms": 176511,
+      "name": "placo no pulso",
+      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
     },
     {
       "added_at": "2026-01-30 16:58:34",

@@ -1,15 +1,35 @@
 {
-  "description": "Go-Go Music from the heart of Washington, DC. ",
-  "num_followers": 17783,
+  "description": "Go-Go Music from the heart of Washington, D.C. Cover: Wale",
+  "num_followers": 17809,
   "original_name": "GO-GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxoZGialQiIneka+7it4fgUJRSB",
+  "snapshot_id": "AAAAAKLqNwobon0gMzvEju6YXqAidrr2",
   "tracks": [
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
+      "album": {
+        "name": "Blanco (TOB Remix)",
+        "url": "https://open.spotify.com/album/1PJq3brDYaG9lU64635OkS"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "TOB",
+          "url": "https://open.spotify.com/artist/7COfOGDggDYrMbgI7rEcmk"
+        }
+      ],
+      "duration_ms": 294303,
+      "name": "Blanco - TOB Remix",
+      "url": "https://open.spotify.com/track/0JvFXbUeJXnqMnm2zIg0LA"
+    },
+    {
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Radio Killaz Vol.2",
         "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/4HgB4trNaESJ6RB6K5zsaV"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/6TaUGITKJOhZPA66GKVSuf"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Pressure. (Live)",
         "url": "https://open.spotify.com/album/0S4WiHEFxuVa011cE4PjT7"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/0HyX4CfHrqB8faZtNDAdvD"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Lost Bounce Tapes Vol #1",
         "url": "https://open.spotify.com/album/2RtDOZZBLKXMtnuiZeIs3K"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/0kKEJGrSIPJggcV7ekdsYf"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "We're About the Business",
         "url": "https://open.spotify.com/album/0GW2KEasUTILVEi6W4tDMi"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/5BP4MvcQyHwXKzHAeAju6j"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Radio Killaz Vol.2",
         "url": "https://open.spotify.com/album/02MRrKwlW9gz5UG3O43E63"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/6C0Rpw1AvaVmADNCD1Zhww"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "THE RUNDOWN VOl.1",
         "url": "https://open.spotify.com/album/5ufhZ9WEDNGp3DHZ3EEBmN"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/7wxDmQ0dy9dsDwSxby2m1b"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Live... from Rock n Roll Hotel - DC",
         "url": "https://open.spotify.com/album/2MkOfsQNSTfKg01ZRnC7V7"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/32YlekcvtUel6567UswVfD"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Good To Go Go (Remastered)",
         "url": "https://open.spotify.com/album/0ZhOsPnylomhTuP9e4m531"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/4Qpbjv7O1NK20jksskzH3x"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Critical Condition",
         "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/32VYGgCEVGE4WUDvnzuLbW"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Beat Box 2 (GoGo Bounce)",
         "url": "https://open.spotify.com/album/2Ve4zTxQrJJ1FvKol5C40H"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/5ha48o7UoK8E4Mos9eGZfu"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Shawty Clap It (Remix)",
         "url": "https://open.spotify.com/album/6KGiNio1FGRY1HcQv2yo38"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/2uY5H6YteSeH80cn1kUTSg"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Oh NO Bounce Beat Style",
         "url": "https://open.spotify.com/album/3HjZwImcxiLakiM11YahcF"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/66ighg5RcjX3HZuZFYtXPd"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Shoot My Shot (New Impressionz Go-Go Edit)",
         "url": "https://open.spotify.com/album/7xrTMVLRs7w7mIfe6KysDI"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/2CQ1EzKRWUY3EkVx97jDh5"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Attention Deficit",
         "url": "https://open.spotify.com/album/05hgYBx67XFjqWL8on4ugu"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/5IIu5JtVdXYaqvpCAz9Dis"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Crew (Remixes)",
         "url": "https://open.spotify.com/album/1AdUYWD1SvbB87Ikje1pZG"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/47smLvlpCoBOPtjxjiDDYO"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/04GcEOJulJLmz5MJsHRwtU"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "New Year, Same Crank V.2",
         "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/0oQK98QxIxaFDggvA7sxzO"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Only Fans, Vol. 1",
         "url": "https://open.spotify.com/album/2DnKPmWnaiZD350AHdLljC"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/0zSWfzxS8BObYNkl7bqkQg"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Own It (GoGo Bounce)",
         "url": "https://open.spotify.com/album/1BlJ4Te08MqckmUvhp1ny3"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/5iQGMwDkPB9K2HCFXjtlAu"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Critical Condition",
         "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/1N6tzEqcWfHCmUyBzkhGYo"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "King Shit Vol #1 Live from Aqua Washingtion DC",
         "url": "https://open.spotify.com/album/4mE0aD0zYPHO1I5z5lwLFI"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/4MX7sHMv7uwOOJYyM4TzEn"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/5fYhqJfayNcdIXKkOCMQjA"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Lock Down the Streets",
         "url": "https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/3KWoxBedjAynqgB7K6GCGI"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "TOB LIVE (7-29-2021) Hangars Club",
         "url": "https://open.spotify.com/album/1jkom7muvHCaKRXaj39lJL"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/49rD206zawYK1k8C55Z7yI"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Best Of X.I.B",
         "url": "https://open.spotify.com/album/162W23SgvdrRzU1kRSK6nA"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/1ktrvbvdWLtT5W8pXkBDEr"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "New Year, Same Crank V.2",
         "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/3ZocWuhl1XQ9S6e1XugOwJ"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Critical Condition",
         "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/1QuwWo8LwESDhHoFGfkhld"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Critical Condition",
         "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/7vwMWvd6Mp2eu5I6LJK9hf"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "DJ Flexx Presents - GO GO 95",
         "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/0gQxAFk2tBuJPMiP39VCnU"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/1TdGAGrHzWBCNn7p1Ch7zc"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Greatest Hits, Vol. I",
         "url": "https://open.spotify.com/album/4uGoPzYOh3TLdVz5oibzGk"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/04PeMAcHsOb5iQp7YkcL9R"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "DJ Flexx Presents - GO GO 95",
         "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
@@ -561,23 +581,7 @@
       "url": "https://open.spotify.com/track/6FbNqrZVvjrT8LqI5LSRoI"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
-      "album": {
-        "name": "Sock It To Me",
-        "url": "https://open.spotify.com/album/349jp5fTM6D4cObncajSbg"
-      },
-      "artists": [
-        {
-          "name": "Ayre Rayde",
-          "url": "https://open.spotify.com/artist/6psgmcqLFZvuYo9thrPmln"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Sock It To Me - Version 2",
-      "url": "https://open.spotify.com/track/1XncUVxC8NMdFv3Eg4PzmP"
-    },
-    {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Critical Condition",
         "url": "https://open.spotify.com/album/7BhGifa9kH1Qy7daXhIPpc"
@@ -593,7 +597,7 @@
       "url": "https://open.spotify.com/track/0vDwogPa3ZyxOzbzHCijdS"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Xperience (Live)",
         "url": "https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4"
@@ -613,7 +617,7 @@
       "url": "https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Lock Down the Streets",
         "url": "https://open.spotify.com/album/61JjQOiq3MkHDzCqpuU1C7"
@@ -629,7 +633,7 @@
       "url": "https://open.spotify.com/track/7aByrp7pIkKFMI62GAK4uN"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Tru Expressionz Greatest Hits",
         "url": "https://open.spotify.com/album/0b4AQ1LPfKyDd5WSGTkdLb"
@@ -645,7 +649,7 @@
       "url": "https://open.spotify.com/track/3p6pPa10cok7rFffLux60R"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Skillet",
         "url": "https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F"
@@ -661,7 +665,7 @@
       "url": "https://open.spotify.com/track/5mHGr6Zq8IKZUx7rZQcY04"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
@@ -677,7 +681,7 @@
       "url": "https://open.spotify.com/track/4T0FAthftPuGCvFF0KsJTV"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Best of Bag of Beats",
         "url": "https://open.spotify.com/album/4aZqoQKekEXZx7i0JwbyYg"
@@ -693,7 +697,7 @@
       "url": "https://open.spotify.com/track/1dS3VCsu4WK6RwiTZ5PqVF"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3WdCIfF6N895H2P4XSlRxj"
@@ -709,7 +713,7 @@
       "url": "https://open.spotify.com/track/3wyJydA4NYUVBzi3hZeUt5"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "I Want a Girl",
         "url": "https://open.spotify.com/album/2Af2bJBhc5GoZnc3K3PuSj"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/7i5AGqf1MX97LzPQLjDbFT"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Best Of X.I.B",
         "url": "https://open.spotify.com/album/162W23SgvdrRzU1kRSK6nA"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/1YsxO2OnPkU2X8fZyipzRN"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Pieces of Me",
         "url": "https://open.spotify.com/album/0aOVlHaenoEEjKYE1wyC3A"
@@ -761,7 +765,7 @@
       "url": "https://open.spotify.com/track/43aFHVa5hwEGf7yAoFapMv"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Unwritten (Gogo Groove)",
         "url": "https://open.spotify.com/album/0H8nd4EJnCzSaOxSwrd31N"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/1djCn8ditilkgapdHzVLxu"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/0Es8vWXuh7KaDhO56PzMmy"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/29RuTRCfXXNmhot7OLq4EQ"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
@@ -813,7 +817,7 @@
       "url": "https://open.spotify.com/track/42yIi2KXKd5fL2ITdcV3Pr"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Gift",
         "url": "https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok"
@@ -829,7 +833,7 @@
       "url": "https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Gift & the Curse",
         "url": "https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G"
@@ -845,7 +849,7 @@
       "url": "https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "New Year, Same Crank V.2",
         "url": "https://open.spotify.com/album/0UDHuoWNd7crtCMa0rAvn3"
@@ -861,7 +865,7 @@
       "url": "https://open.spotify.com/track/2BtSxVVjTmmuAMwuCy3U1Z"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Gift & the Curse",
         "url": "https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/20U5607alwSWGjXsVLItfd"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "FLEXICO",
         "url": "https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Diversity!",
         "url": "https://open.spotify.com/album/4EjHp2MA2Os0SVpYcDXhei"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/2OQNCinNyjZXcsBQq2R3TR"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Baby Don't You Go Go",
         "url": "https://open.spotify.com/album/64BTgu6zU2XBRYzfqNvt9P"
@@ -929,7 +933,7 @@
       "url": "https://open.spotify.com/track/5RDSQFf8ZQ7O9i3vGueU1Z"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "DJ Flexx Presents: Last Call",
         "url": "https://open.spotify.com/album/1XKHMt7GgGS3cpcIY4FQID"
@@ -945,7 +949,7 @@
       "url": "https://open.spotify.com/track/1Ii3072sAlR8dA83gaMwua"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "DJ Flexx Presents...www.thatgogo.com",
         "url": "https://open.spotify.com/album/1JTRloLJa8f3D66wVSoFk7"
@@ -961,7 +965,7 @@
       "url": "https://open.spotify.com/track/6DLjYEn27mIjNxJlrTq1ay"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"
@@ -977,7 +981,7 @@
       "url": "https://open.spotify.com/track/4FtownzRpVQK8RCEv9VWPy"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Let Me Clear My Throat",
         "url": "https://open.spotify.com/album/1Ezs8SlccViPDEQY55BO50"
@@ -993,7 +997,7 @@
       "url": "https://open.spotify.com/track/7MutmAL7btZWW6S50zgoCQ"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Go Go DC's Best!",
         "url": "https://open.spotify.com/album/1ChmqzpQITXmigtRjZj53y"
@@ -1013,7 +1017,7 @@
       "url": "https://open.spotify.com/track/57tbmtTFmveMXCnlkG5OT3"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Creepin' Thru Da Hoodz",
         "url": "https://open.spotify.com/album/7D6SbZrenrKwDGw9qrlaEf"
@@ -1029,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1iUwuKQEZf2OZeo85IjhAw"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "One Leg Up",
         "url": "https://open.spotify.com/album/4f3L4JoL17TXS7OZfMRXXc"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5mXQ7uRNyn8Fc1d15v7eC9"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Classic Cuts, Vol. 1",
         "url": "https://open.spotify.com/album/2owP9hfrBzMbvSMppf9wrP"
@@ -1061,7 +1065,7 @@
       "url": "https://open.spotify.com/track/66nXdAjGXyb76XkmVL0p9n"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "DJ Flexx Presents - GO GO 95",
         "url": "https://open.spotify.com/album/1fMcsgqM8kcWmvZONHcbh5"
@@ -1077,7 +1081,7 @@
       "url": "https://open.spotify.com/track/33iTHUJGtgLLIu7qaYTGKc"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Straight from the Basement",
         "url": "https://open.spotify.com/album/4pKISK9UXzq8Q5ZdNDSv4N"
@@ -1093,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5qTFVsgVtZcPdmbiKSh1OP"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Skillet",
         "url": "https://open.spotify.com/album/2qi6EpS7aX4kXdtxY13P8F"
@@ -1109,7 +1113,7 @@
       "url": "https://open.spotify.com/track/543joO4Z5GEJV2ANiNwOcf"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Body Snatchers",
         "url": "https://open.spotify.com/album/03MnHkvMFqef37sUibcq2G"
@@ -1125,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6smyjljSEtD6shLJMYN3d9"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/79Bto5Kn26MKh0GNj5l0uv"
@@ -1141,7 +1145,7 @@
       "url": "https://open.spotify.com/track/651ogESjErYNdRWCto4pjP"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Straight from the Basement",
         "url": "https://open.spotify.com/album/51LT5vzPLIfxs4MdDmPq8A"
@@ -1157,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3yDUcKMfVRPXugdpRv4oar"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Lissen Reunion (Live from the Howard Theatre)",
         "url": "https://open.spotify.com/album/4XfM5TuPEjnzBNFCw7IRvu"
@@ -1173,7 +1177,7 @@
       "url": "https://open.spotify.com/track/132H24o7MFtxt6WVKyyB4M"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "The Huck-a-Bucks Live!",
         "url": "https://open.spotify.com/album/2LfIiVEK3YbRN7SCkrUaHH"
@@ -1189,7 +1193,7 @@
       "url": "https://open.spotify.com/track/55hSyt21hVdzIVLvqNX1Ma"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Reunion (Live at Martin's Crosswinds Ballroom)",
         "url": "https://open.spotify.com/album/0IvE2YB8k0tRSThj643rlR"
@@ -1205,7 +1209,7 @@
       "url": "https://open.spotify.com/track/6GvQGFGF4MBE6dMYIqL6um"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "By Special Request the Very Best of Chuck Brown",
         "url": "https://open.spotify.com/album/3eioORbCjAPxRk2buvwkqE"
@@ -1221,7 +1225,7 @@
       "url": "https://open.spotify.com/track/70S1dQ6TVPHz6zdX2xdTc5"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Lost R&B Hits Of The 80s",
         "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
@@ -1237,7 +1241,7 @@
       "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
     },
     {
-      "added_at": "2024-03-25 18:57:19",
+      "added_at": "2026-02-05 19:30:28",
       "album": {
         "name": "Street Antidote",
         "url": "https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3"

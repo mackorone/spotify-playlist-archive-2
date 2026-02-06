@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAIjamLJM9+9ZWHEFuGXc2hwqy/pfHx",
+  "snapshot_id": "AAAIkzZJ5KKVCHYbFwWvFl4gUQcFAOWY",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -10761,22 +10761,6 @@
       "url": "https://open.spotify.com/track/3sCIabWXsdr2WIwtlxI77j"
     },
     {
-      "added_at": "2026-01-13 14:48:03",
-      "album": {
-        "name": "Amazing Electronic Pop Sound Of",
-        "url": "https://open.spotify.com/album/2UUEIw8gSaVGnG4eyJoPnm"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Mary France",
-      "url": "https://open.spotify.com/track/221mzU0izy6JdU1zRlIMAM"
-    },
-    {
       "added_at": "2026-01-14 16:20:55",
       "album": {
         "name": "Binding Chimes",
@@ -11107,6 +11091,102 @@
       "duration_ms": 140686,
       "name": "crying through my teeth",
       "url": "https://open.spotify.com/track/6nSVRWkCZ5H3gbbb92B4H6"
+    },
+    {
+      "added_at": "2026-02-05 03:58:27",
+      "album": {
+        "name": "The Pilgrim, Their God and The King of My Decrepit Mountain",
+        "url": "https://open.spotify.com/album/4btBSwAto3RPLs2o4VLQJb"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        },
+        {
+          "name": "Little Wings",
+          "url": "https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l"
+        }
+      ],
+      "duration_ms": 99066,
+      "name": "Act 1 (The Pilgrim)",
+      "url": "https://open.spotify.com/track/0Sh2zTedEwg16d30rcPTM4"
+    },
+    {
+      "added_at": "2026-02-05 05:18:57",
+      "album": {
+        "name": "Love Gun 3",
+        "url": "https://open.spotify.com/album/05abH0jre9UAK7UW7iQWb1"
+      },
+      "artists": [
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 219219,
+      "name": "Joy Peace Love",
+      "url": "https://open.spotify.com/track/3h90xrOdXjyFn5SUpxigvR"
+    },
+    {
+      "added_at": "2026-02-05 05:19:06",
+      "album": {
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "GODLY (feat. Damon Albarn)",
+      "url": "https://open.spotify.com/track/69zR9rUlizT5evNCIIHrTn"
+    },
+    {
+      "added_at": "2026-02-06 00:02:00",
+      "album": {
+        "name": "Broom",
+        "url": "https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ"
+      },
+      "artists": [
+        {
+          "name": "Someone Still Loves You Boris Yeltsin",
+          "url": "https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "Pangea",
+      "url": "https://open.spotify.com/track/1DVrCUHIHQCKipeer1WnP0"
+    },
+    {
+      "added_at": "2026-02-06 00:04:19",
+      "album": {
+        "name": "Jessica Pratt",
+        "url": "https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Night Faces",
+      "url": "https://open.spotify.com/track/4ovwVH99Afch4OJhMTTVsV"
     }
   ],
   "unique_name": "Zacklog",

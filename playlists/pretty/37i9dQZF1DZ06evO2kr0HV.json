@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41192,
+  "num_followers": 41195,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABX9A6SgrgR6FjHAT2JZl9o",
+  "snapshot_id": "aYKMAAAAAAByt0XTOKugsvYQKmza6Qjb",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8"
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         },
         {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruzzicovers",
         "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 187666,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
     },
     {
       "added_at": null,

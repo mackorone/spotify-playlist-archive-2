@@ -1,12 +1,12 @@
 {
   "description": "Try a little tenderness. Cover: Durand Jones & The Indications",
-  "num_followers": 53477,
+  "num_followers": 53480,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+E8zhJptd3meV9kKcC9Ck26XFb",
+  "snapshot_id": "AAAAAFyB9aEbkgVMamg57JQP1h5r69yE",
   "tracks": [
     {
       "added_at": "2026-01-23 01:47:43",
@@ -25,24 +25,24 @@
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
-      "added_at": "2026-01-23 01:47:43",
+      "added_at": "2026-02-05 19:00:06",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
         },
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "What's On Your Mind",
-        "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "What's On Your Mind",
-      "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -143,6 +127,26 @@
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Texas Sun",
+        "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 252811,
+      "name": "Texas Sun",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -183,54 +187,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/2ibYWKbp1dta52A2Jg3kAN"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 207589,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5OSZxdDYrFERsEDs7MnLA9"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Nothing Is Impossible With You",
-        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "Nothing Is Impossible With You",
-      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -263,18 +219,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "For You / Si Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
       "artists": [
         {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 176040,
-      "name": "Si Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -583,22 +539,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Love in the Wind",
-        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
-      },
-      "artists": [
-        {
-          "name": "The Sha La Das",
-          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Those Years Are Over",
-      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
@@ -611,6 +551,22 @@
       "duration_ms": 264124,
       "name": "Day To Night",
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Love in the Wind",
+        "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
+      },
+      "artists": [
+        {
+          "name": "The Sha La Das",
+          "url": "https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Those Years Are Over",
+      "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -631,22 +587,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
-      },
-      "artists": [
-        {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
       },
@@ -659,6 +599,22 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -763,22 +719,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -791,6 +731,22 @@
       "duration_ms": 184866,
       "name": "Come Around and Love Me",
       "url": "https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -899,22 +855,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Music and Me",
         "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
       },
@@ -927,6 +867,22 @@
       "duration_ms": 240626,
       "name": "Music & Me",
       "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1031,42 +987,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "What It Gave Me",
-        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 164605,
-      "name": "What It Gave Me",
-      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -1095,6 +1015,42 @@
       "duration_ms": 227095,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1135,22 +1091,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -1163,6 +1103,22 @@
       "duration_ms": 344493,
       "name": "Spanish Joint",
       "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1211,6 +1167,54 @@
       "duration_ms": 232093,
       "name": "Let's Straighten It Out",
       "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 308301,
+      "name": "One Inch Punch",
+      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "We Don't Have to Be Alone",
+        "url": "https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 166436,
+      "name": "We Don't Have to Be Alone",
+      "url": "https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm"
     }
   ],
   "unique_name": "soulful",

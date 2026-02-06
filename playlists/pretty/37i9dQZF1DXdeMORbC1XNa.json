@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Joshua Baraka",
-  "num_followers": 320788,
+  "num_followers": 320807,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "BIG 45",
+        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 224763,
+      "name": "BIG 45",
+      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "BIG 45",
-        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 224763,
-      "name": "BIG 45",
-      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "added_at": "2025-11-14 00:00:23",

@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 610040,
+  "num_followers": 610748,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBd9BBmqPS/pHkAyR6KeJIj/Gt9",
+  "snapshot_id": "AAAAAEZ1uTgRV6m4u9kHmIGmBHyovdPe",
   "tracks": [
     {
       "added_at": "2026-01-07 07:41:31",
@@ -61,6 +61,34 @@
       "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
+      "added_at": "2026-02-05 07:38:20",
+      "album": {
+        "name": "Shaadi Masti (From\" Saina Music Indie\")",
+        "url": "https://open.spotify.com/album/50fE7yIwAIBu3U2cuAm3tm"
+      },
+      "artists": [
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Sreehari K",
+          "url": "https://open.spotify.com/artist/4HEziz1lkW1kFRRMKJh2Kx"
+        },
+        {
+          "name": "Sharfu",
+          "url": "https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa"
+        },
+        {
+          "name": "Dhaliya navas",
+          "url": "https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Shaadi Masti - From\" Saina Music Indie\"",
+      "url": "https://open.spotify.com/track/5EdLE3j0KG2xHSY4Anm1qM"
+    },
+    {
       "added_at": "2025-05-26 06:55:48",
       "album": {
         "name": "Hope Song (From \"Sarkeet\")",
@@ -83,38 +111,6 @@
       "duration_ms": 182769,
       "name": "Hope Song - From \"Sarkeet\"",
       "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
-    },
-    {
-      "added_at": "2026-02-02 04:31:00",
-      "album": {
-        "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
-        "url": "https://open.spotify.com/album/2ESmPaEdF357xZJ7U87TIb"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        },
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 227227,
-      "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
-      "url": "https://open.spotify.com/track/0t0wDOb0N5BrQAJ1DzDJQJ"
     },
     {
       "added_at": "2025-12-18 05:42:30",
@@ -239,6 +235,38 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
+    {
+      "added_at": "2026-02-02 04:31:00",
+      "album": {
+        "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
+        "url": "https://open.spotify.com/album/2ESmPaEdF357xZJ7U87TIb"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 227227,
+      "name": "Chatha Pacha Title Track (From \"Chatha Pacha: The Ring Of Rowdies\")",
+      "url": "https://open.spotify.com/track/0t0wDOb0N5BrQAJ1DzDJQJ"
     },
     {
       "added_at": "2025-12-15 08:08:03",
@@ -451,30 +479,6 @@
       "duration_ms": 208128,
       "name": "Welcome To Mollywood (From \"Maine Pyar Kiya\")",
       "url": "https://open.spotify.com/track/4fEommZNa1Xxv4R4VTyTGP"
-    },
-    {
-      "added_at": "2025-08-25 07:32:15",
-      "album": {
-        "name": "GATE",
-        "url": "https://open.spotify.com/album/76aZGm2avDSL6BrJwsjuNi"
-      },
-      "artists": [
-        {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
-        },
-        {
-          "name": "AZWIN",
-          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
-        },
-        {
-          "name": "Efy Music",
-          "url": "https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY"
-        }
-      ],
-      "duration_ms": 177307,
-      "name": "\u0d2e\u0d3f\u0d28\u0d4d\u0d28\u0d3f \u0d2e\u0d31\u0d1e\u0d4d\u0d1e\u0d41",
-      "url": "https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs"
     },
     {
       "added_at": "2025-07-22 07:54:17",

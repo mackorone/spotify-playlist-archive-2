@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11357,
+  "num_followers": 11356,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAD5TFQ6K08leWqoU0DK6EcI",
+  "snapshot_id": "aYKMAAAAAABt8jTalB8K8qYRhvH4pAX/",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 257279,
-      "name": "People Power",
-      "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
+      "duration_ms": 329013,
+      "name": "When Love Is New",
+      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 329013,
-      "name": "When Love Is New",
-      "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
+      "duration_ms": 257279,
+      "name": "People Power",
+      "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
     },
     {
       "added_at": null,

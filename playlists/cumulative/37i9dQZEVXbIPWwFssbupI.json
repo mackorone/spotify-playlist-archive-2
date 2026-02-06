@@ -34151,6 +34151,24 @@
     },
     {
       "album": {
+        "name": "Nous#2",
+        "url": "https://open.spotify.com/album/6JsyNU76LiI4o3wZxXDtWR"
+      },
+      "artists": [
+        {
+          "name": "K2_sp",
+          "url": "https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177761,
+      "name": "Nous#2",
+      "url": "https://open.spotify.com/track/6X81J6gmOMkJI3mo49NCPk"
+    },
+    {
+      "album": {
         "name": "NOUS#2",
         "url": "https://open.spotify.com/album/1Rj7VCslRWBFZah7Fhhihq"
       },
@@ -35030,7 +35048,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -38800,7 +38818,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164000,
       "name": "QUE DES FAITS",
       "url": "https://open.spotify.com/track/2RoNSwUsNMelk14j7HJ4dG"
@@ -45278,7 +45296,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 150476,
       "name": "Tch\u00e9b\u00e9 2x",
       "url": "https://open.spotify.com/track/7l3b0X95GdYfRuW8Kq5ixC"
@@ -48052,7 +48070,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
@@ -49352,7 +49370,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"

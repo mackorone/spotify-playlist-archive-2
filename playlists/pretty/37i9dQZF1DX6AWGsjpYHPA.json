@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 185936,
+  "num_followers": 185989,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAF+Lu4yFvYLmC22IoSA8WqQbPZNn",
   "tracks": [
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
         "name": "Remember My Song",
         "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
         "name": "Akofa Akoussah",
         "url": "https://open.spotify.com/album/76MYmID5q42L381YAFUaEq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 233892,
       "name": "I Tcho Tchass",
       "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
+      },
+      "artists": [
+        {
+          "name": "Hugo Massien",
+          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
+        }
+      ],
+      "duration_ms": 373666,
+      "name": "God Knows We Tried",
+      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 449774,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
-      },
-      "artists": [
-        {
-          "name": "Hugo Massien",
-          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
-        }
-      ],
-      "duration_ms": 373666,
-      "name": "God Knows We Tried",
-      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
     },
     {
       "added_at": "2026-01-09 05:00:43",

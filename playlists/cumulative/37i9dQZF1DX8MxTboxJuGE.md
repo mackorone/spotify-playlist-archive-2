@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-134 songs - 10 hr 4 min
+135 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 | 2023-07-14 | 2024-08-31 |
 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 | 2023-07-14 | 2024-04-19 |
 | [Mysterious](https://open.spotify.com/track/3AwKlhPkIsjPVQzjcNGTb5) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/161RN2ydxC3AibzlpYziXx) | 4:43 | 2024-04-05 |  |
+| [Máscaras](https://open.spotify.com/track/0OAONWK9mlR97SL5btvWni) | [Nerveless](https://open.spotify.com/artist/2eZVzpqC41qs4cq7Ku0mTM), [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Popless](https://open.spotify.com/album/5wTVuyUjrfThiDexLGUwKb) | 3:28 | 2026-02-05 |  |
 | [Nothing Else Matters \(Orchestra/Clean Guitar/Vocal Mix \- July 8th, 1991\)](https://open.spotify.com/track/0GZ96dnp0Vpyk5CTElvDfI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ) | 6:45 | 2023-07-14 | 2024-04-19 |
 | [Nothing Else Matters \- Orchestra / Clean Guitar / Vocal Mix \- July 8th, 1991](https://open.spotify.com/track/1gK0dwy4uZ9F1qiE7eCuI0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Nothing Else Matters \(Orchestra / Clean Guitar / Vocal Mix \- July 8th, 1991\)](https://open.spotify.com/album/1WJUBGGo3oJqDqPSbPkDDP) | 6:45 | 2024-04-05 |  |
 | [Nothing to Say \(Ao Vivo No Sonastério\)](https://open.spotify.com/track/6t1hIdEgJMzQpxVftqXBn1) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [ANGRA ilumina Sonastério](https://open.spotify.com/album/41EHhF2a7vaGt57f3ACyDy) | 6:30 | 2023-07-14 |  |

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Kris Dayanti
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Galdive
 
-569 songs - 1 day 9 hr 16 min
+573 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1ntertwined](https://open.spotify.com/track/20UlcFBqYcGpzhPiK4bzP9) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [1ntertwined](https://open.spotify.com/album/5hMYyPUVItISMOFTyMWGBG) | 3:08 | 2025-05-29 | 2025-07-18 |
 | [2 Shots](https://open.spotify.com/track/5nGbt0y1LuTmqF6z2OiW8S) | [Jibs](https://open.spotify.com/artist/5a3vFEe5TeY6dvzzLVa6cn) | [2 Shots](https://open.spotify.com/album/746mh7YjTdhdaUa0NPY7rQ) | 2:47 | 2025-02-06 | 2025-04-11 |
 | [2 summers](https://open.spotify.com/track/6GdXwMV9R5IHba2Hb1pLpI) | [loch!](https://open.spotify.com/artist/0aNDMLovSzNc23K46xzytz), [vinta6e](https://open.spotify.com/artist/1ojwpUgVwHP353IV2QTHW0) | [2 summers](https://open.spotify.com/album/3mk0pncveYww6hf3xQqtWT) | 2:22 | 2025-08-21 | 2025-11-07 |
+| [20 Weeks](https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [20 Weeks](https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD) | 2:58 | 2026-02-05 |  |
 | [2eality](https://open.spotify.com/track/78bVSDeRWmuEvVVYjxuKqU) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [2eality](https://open.spotify.com/album/55VQ9JBdRrB5UPaCSlmnfn) | 2:51 | 2025-02-28 | 2025-05-30 |
 | [321 I'm Callin'](https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [321 I'm Callin'](https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV) | 2:48 | 2024-09-26 | 2024-11-29 |
 | [404: HOME NOT FOUND](https://open.spotify.com/track/4hcfM7tc2BdXSmBHEYgf8q) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [404: HOME NOT FOUND](https://open.spotify.com/album/2hy7jf0iW1BKpNJDLTic0r) | 3:36 | 2025-11-20 |  |
@@ -48,6 +49,7 @@
 | [ASMR](https://open.spotify.com/track/1ylVyukbCICBWuJkn1yECY) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [ASMR](https://open.spotify.com/album/6SuUI7PvgHMDTpFLXvWgiK) | 2:18 | 2024-10-31 | 2025-01-24 |
 | [At Least We Tried](https://open.spotify.com/track/4HevrR9k6qc3glD3q9Ru5O) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [At Least We Tried](https://open.spotify.com/album/39Udvsu01UpF8W4f2A9h2s) | 3:48 | 2024-10-03 | 2024-11-29 |
 | [Awaken](https://open.spotify.com/track/1ZUhjTuX9nbHLcFpiVQlwK) | [Abirama](https://open.spotify.com/artist/3HG4TWFZT4xWNiQgIPhZBq) | [Awaken](https://open.spotify.com/album/69UQdIw1QyoN5u04lnGCzh) | 4:10 | 2025-07-10 | 2025-08-29 |
+| [Babel](https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Babel](https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7) | 3:42 | 2026-02-05 |  |
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-13 | 2025-04-25 |
 | [Baby July](https://open.spotify.com/track/10Yqzw7epmxfTzbZ03p1zX) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Baby July](https://open.spotify.com/album/3rrJ11EUeMVmCB7UkHOe3y) | 3:19 | 2025-08-01 | 2025-10-17 |
 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 | 2025-09-18 | 2025-12-06 |
@@ -296,6 +298,7 @@
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-17 | 2025-05-09 |
 | [La Loba](https://open.spotify.com/track/6PVGDYVAcIDkflpb3ZyHWC) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [recall,](https://open.spotify.com/album/0VSCvK27N3QPQrDLl6gH4B) | 4:45 | 2025-05-01 | 2025-06-13 |
 | [Lalala \(This Christmas Day\)](https://open.spotify.com/track/2ouEzLyN5S2aoC5SxP2Wd8) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Lalala \(This Christmas Day\)](https://open.spotify.com/album/2m0EJwBBoTWFXQH474xa9x) | 2:42 | 2024-12-05 | 2025-04-18 |
+| [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-05 |  |
 | [Lapse](https://open.spotify.com/track/6tQhJHrBvXQWnr4HsIPUUC) | [REDSIX](https://open.spotify.com/artist/04NxfUXFc2GAP9Woz0VWTm) | [Lapse](https://open.spotify.com/album/6OPoxz5BevEJ51DmWBfjB6) | 3:44 | 2025-05-22 | 2025-06-13 |
 | [Last Call](https://open.spotify.com/track/4hmwFUEmlQnAykPXRHDDKf) | [Tokyolite](https://open.spotify.com/artist/5B5CUIyGVsu1aJdLvqH2m5) | [Last Call](https://open.spotify.com/album/0RQR6FybUkNj0Pb7T3qsKH) | 4:07 | 2024-06-27 | 2024-07-27 |
 | [Last Right One](https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Last Right One](https://open.spotify.com/album/4pIZut1MFibakG5NQLSewa) | 3:47 | 2024-06-27 | 2024-10-11 |
@@ -363,6 +366,7 @@
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-10-04 |
 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 | 2025-09-18 | 2025-12-06 |
+| [Mother Tongue](https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Dorothy Chan](https://open.spotify.com/artist/1Vtc3DwCV0rwTPrqM0g4JN) | [Mother Tongue](https://open.spotify.com/album/7miEy7gOIovPnonf2afoWq) | 3:39 | 2026-02-05 |  |
 | [mr\. worldwide](https://open.spotify.com/track/1u98uNlFDonggbCFabg2ck) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [mr\. worldwide](https://open.spotify.com/album/5OzCeyucGcabUw0nBoV6Sq) | 3:03 | 2024-10-31 | 2025-01-24 |
 | [My Bad](https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [CTRL+N](https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc) | 3:09 | 2025-06-12 | 2025-08-22 |
 | [My Dear, Oh Dear](https://open.spotify.com/track/4Nrzjx16pCRUAZ7TXikLpA) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Sugar Coat Inc.](https://open.spotify.com/album/71DdkGcoRDXibQH8gs5Utn) | 3:18 | 2025-10-09 | 2025-12-06 |

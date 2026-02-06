@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,459 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,465 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 14 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
 | 15 | [Saviour](https://open.spotify.com/track/0iApjJnqkWle223SwRe78D) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Tim Bush](https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 10:41 |
 | 16 | [Work It Out \- Live](https://open.spotify.com/track/20RhzGhht4BJ7WfqftWjm9) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 5:21 |
-| 17 | [I Want It All Back \- Live](https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:28 |
-| 18 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
+| 17 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
+| 18 | [I Want It All Back \- Live](https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:28 |
 | 19 | [Anyhow Reprise](https://open.spotify.com/track/3DvvqLfDgDnuHhm7NfgcNh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Isaiah Templeton](https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA), [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 5:29 |
 | 20 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
 | 21 | [You Are Good \- Live](https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Still Have Joy \- Live](https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:07 |
 | 50 | [Champion](https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Fresh](https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A) | 4:52 |
 
-Snapshot ID: `aYE6gAAAAADv58T/7yoNSL4IkRxoKZha`
+Snapshot ID: `aYKMAAAAAAACHBC8KkLrunI5RmhxYKJl`

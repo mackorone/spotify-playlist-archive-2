@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 212213,
+  "num_followers": 212256,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAapQb8TIlYM0fDupuvqFJh",
+  "snapshot_id": "aYKMAAAAAAA0C0F7olOA7ERzIp0j6mZA",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Misma Bandera",
+        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 221096,
+      "name": "La Misma Bandera",
+      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Avi\u00f3n",
         "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Misma Bandera",
-        "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 221096,
-      "name": "La Misma Bandera",
-      "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
     },
     {
       "added_at": null,

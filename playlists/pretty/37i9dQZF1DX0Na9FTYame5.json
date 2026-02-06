@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Souly",
-  "num_followers": 578256,
+  "num_followers": 578224,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Bilder gel\u00f6scht",
-        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
-      },
-      "artists": [
-        {
-          "name": "Rasa",
-          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
-        }
-      ],
-      "duration_ms": 128208,
-      "name": "Bilder gel\u00f6scht",
-      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Allein",
         "url": "https://open.spotify.com/album/4z64LN6tl0CR624xQxn0wf"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 155821,
       "name": "Allein",
       "url": "https://open.spotify.com/track/1Vc194PxxzbxlSOdDi6EXu"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Bilder gel\u00f6scht",
+        "url": "https://open.spotify.com/album/0bm9QBdzlyofiaGLjdxp9w"
+      },
+      "artists": [
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        }
+      ],
+      "duration_ms": 128208,
+      "name": "Bilder gel\u00f6scht",
+      "url": "https://open.spotify.com/track/0wKWqXhfHCguE2ylxibYOc"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -383,22 +383,18 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Geboren um zu leben",
-        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
+        "name": "pass auf mein herz auf",
+        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
         }
       ],
-      "duration_ms": 168727,
-      "name": "Geboren um zu leben",
-      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+      "duration_ms": 156143,
+      "name": "mit dir ist es anders",
+      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -423,50 +419,22 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "OHNE DICH",
-        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+        "name": "Geboren um zu leben",
+        "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "pass auf mein herz auf",
-        "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
-      },
-      "artists": [
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
         }
       ],
-      "duration_ms": 156143,
-      "name": "mit dir ist es anders",
-      "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "2 Zimmer",
-        "url": "https://open.spotify.com/album/0TM0kOkdyN5agmpLOX7a3t"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 113533,
-      "name": "2 Zimmer",
-      "url": "https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr"
+      "duration_ms": 168727,
+      "name": "Geboren um zu leben",
+      "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -491,22 +459,34 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+        "name": "2 Zimmer",
+        "url": "https://open.spotify.com/album/0TM0kOkdyN5agmpLOX7a3t"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
+      "duration_ms": 113533,
+      "name": "2 Zimmer",
+      "url": "https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "OHNE DICH",
+        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -523,6 +503,26 @@
       "duration_ms": 173000,
       "name": "Lautlos",
       "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "WEEKEND",
-        "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "WEEKEND",
-      "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "GOTTES PLAN",
         "url": "https://open.spotify.com/album/77lC6e7OHx3EjIIT7ZGPma"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 170093,
       "name": "GOTTES PLAN",
       "url": "https://open.spotify.com/track/4IZVlrRu9LV1T51nK9SXMQ"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "WEEKEND",
+        "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 167053,
+      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/5tg7jbsX64TRY2pOT7Getz"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 182478,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0x6Dd2PjKpp50UHtQF2xqF"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Ruf mich an",
+        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ruf mich an",
+      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "Plug",
         "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 175240,
       "name": "Plug",
       "url": "https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Ruf mich an",
-        "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ruf mich an",
-      "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Song 10",
-        "url": "https://open.spotify.com/album/5QJUqabzotJBmqa7wpI6aw"
-      },
-      "artists": [
-        {
-          "name": "$OHO BANI",
-          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
-        },
-        {
-          "name": "Ericson",
-          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
-        }
-      ],
-      "duration_ms": 172769,
-      "name": "Song 10",
-      "url": "https://open.spotify.com/track/7gdPSJXiyGm5iSjiP2fcWJ"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Ich will",
         "url": "https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 163831,
       "name": "Wer liebt dich jetzt ?",
       "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Song 10",
+        "url": "https://open.spotify.com/album/5QJUqabzotJBmqa7wpI6aw"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "duration_ms": 172769,
+      "name": "Song 10",
+      "url": "https://open.spotify.com/track/7gdPSJXiyGm5iSjiP2fcWJ"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Weinst du",
-        "url": "https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1"
-      },
-      "artists": [
-        {
-          "name": "Stickle",
-          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
-        },
-        {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
-        }
-      ],
-      "duration_ms": 136564,
-      "name": "Weinst du",
-      "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Weinst du",
+        "url": "https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1"
+      },
+      "artists": [
+        {
+          "name": "Stickle",
+          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "duration_ms": 136564,
+      "name": "Weinst du",
+      "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "EIN TEIL VON MIR",
-        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
-      },
-      "artists": [
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "EIN TEIL VON MIR",
-      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "EIN TEIL VON MIR",
+        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "EIN TEIL VON MIR",
+      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Nie wieder",
         "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1763,30 +1763,6 @@
       "duration_ms": 185153,
       "name": "Keine Helden",
       "url": "https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "orange (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        },
-        {
-          "name": "Trettmann",
-          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
-        }
-      ],
-      "duration_ms": 141230,
-      "name": "Baltimore (feat. Trettmann)",
-      "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1831,22 +1807,46 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Glaubst du mir",
-        "url": "https://open.spotify.com/album/6NbNH9YduxChQGg2GsbnFr"
+        "name": "orange (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ"
       },
       "artists": [
         {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         },
         {
-          "name": "Jaimy",
-          "url": "https://open.spotify.com/artist/6AOupVx3jzIsZ0qgrb3iuj"
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
         }
       ],
-      "duration_ms": 176585,
-      "name": "Glaubst du mir",
-      "url": "https://open.spotify.com/track/1G30mRK6xVlgZacAMGIqJi"
+      "duration_ms": 141230,
+      "name": "Baltimore (feat. Trettmann)",
+      "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Akhirah",
+        "url": "https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c"
+      },
+      "artists": [
+        {
+          "name": "NAVACHA",
+          "url": "https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Akhirah",
+      "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
     }
   ],
   "unique_name": "Rap in deep",

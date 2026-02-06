@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: PinkPantheress & Zara Larsson",
+  "description": "Altijd frisse hits! Cover: Kevin & Bente",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 155000,
       "name": "Harder Dan Ik Spenden Kan",
       "url": "https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz"
@@ -13016,7 +13016,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171692,
       "name": "Lijntje",
       "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
@@ -18693,6 +18693,28 @@
     },
     {
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Secondhand (feat. Rema)",
+      "url": "https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5"
+    },
+    {
+      "album": {
         "name": "seeing you with other girls",
         "url": "https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY"
       },
@@ -20024,7 +20046,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -23141,6 +23163,28 @@
     },
     {
       "album": {
+        "name": "Vervreemd",
+        "url": "https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Vervreemd",
+      "url": "https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC"
+    },
+    {
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -24632,6 +24676,24 @@
       "duration_ms": 189243,
       "name": "Wrong Ones",
       "url": "https://open.spotify.com/track/3Rx0g3VVxBnOm2lYtkBsJ3"
+    },
+    {
+      "album": {
+        "name": "WTBBA?!",
+        "url": "https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "WTBBA?!",
+      "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giorgos Kakosaios
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Apergis
 
-242 songs - 13 hr 36 min
+243 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Epitelous](https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Epitelous](https://open.spotify.com/album/75m7sffAOk9s93ImMlvjRv) | 4:27 | 2025-05-08 | 2025-06-14 |
 | [Erotas Eisai](https://open.spotify.com/track/6XMUFhd6rikAzz0w2A4ath) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [Erotas Eisai](https://open.spotify.com/album/4tpUfY9myOHSSaqaQp0w1G) | 3:31 | 2025-10-23 | 2025-11-14 |
 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 | 2025-05-08 | 2025-12-01 |
+| [Etsi Eimai](https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Etsi Eimai](https://open.spotify.com/album/61uDiFwh8cGDhhFoinSfs5) | 4:02 | 2026-02-05 |  |
 | [Etsi Koitazes Emena](https://open.spotify.com/track/68A2k130DNYxhUnI0HLjKH) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Etsi Koitazes Emena](https://open.spotify.com/album/5sjhWMhT6DCVuYLleNQ2bM) | 3:48 | 2025-03-20 | 2025-11-14 |
 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 | 2024-06-27 | 2024-10-11 |
 | [Exairesi](https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Exairesi](https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB) | 4:35 | 2025-11-20 |  |
@@ -189,7 +190,7 @@
 | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Se Afisa Sto Htes \- Eisai Treli](https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ) | 3:34 | 2024-06-27 | 2024-10-24 |
 | [Se Pira Sovara](https://open.spotify.com/track/728qx78UuEMdvq3UD25Ztc) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Se Pira Sovara](https://open.spotify.com/album/0fGA5louQ8pB1nnxUS5zyA) | 3:22 | 2024-06-27 | 2024-07-27 |
 | [Se Thelo Apopse](https://open.spotify.com/track/5Fm6ze814EE970GW0Tr8tf) | [Christos Menidiatis](https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X) | [Se Thelo Apopse](https://open.spotify.com/album/2QRxS3zVNLrHlxk0pBiUvU) | 3:05 | 2025-06-26 | 2025-07-25 |
-| [Se Thelo Gia Mena](https://open.spotify.com/track/7Fbmh0X62mRwtFQA9oZI7L) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Thelo Gia Mena](https://open.spotify.com/album/6GIEfZaXsfveOnfNb86D7H) | 3:36 | 2024-12-19 |  |
+| [Se Thelo Gia Mena](https://open.spotify.com/track/7Fbmh0X62mRwtFQA9oZI7L) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Thelo Gia Mena](https://open.spotify.com/album/6GIEfZaXsfveOnfNb86D7H) | 3:36 | 2024-12-19 | 2026-02-06 |
 | [Se Thelo Parafora](https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge) | [Nikos Makropoulos](https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO) | [Se Thelo Parafora](https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb) | 3:21 | 2025-11-06 |  |
 | [Shik Shak Shock](https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q) | [Andreas Habibi](https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk), [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Shik Shak Shock](https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL) | 2:39 | 2024-07-25 | 2025-10-24 |
 | [Sidero](https://open.spotify.com/track/71TarxBQJrkdomww83wMLh) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Sidero](https://open.spotify.com/album/3fC1YsWd3wUOwmXqjKqDI8) | 2:32 | 2025-05-08 | 2025-05-16 |

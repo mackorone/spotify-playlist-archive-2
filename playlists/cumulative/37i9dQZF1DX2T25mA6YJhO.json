@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Cora Yako.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: RATA.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143383,
       "name": "Comebolsas Enamorados",
       "url": "https://open.spotify.com/track/24ohDHsP5ZZ0rtGIlkLBUk"
@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "El muro",
+        "url": "https://open.spotify.com/album/2uYx5sh5wKco59aTeQROGe"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Bravos",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "El muro",
+      "url": "https://open.spotify.com/track/1nnJdCMUrlAcQZCQSKw8Mp"
+    },
+    {
+      "album": {
         "name": "El Pajarillo",
         "url": "https://open.spotify.com/album/5UWtB5MPdsNoaHLjDLMBP0"
       },
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 227796,
       "name": "Hacer Las Cosas Bien",
       "url": "https://open.spotify.com/track/18mV5yjz5lHvcUEFNNQcEh"
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 148093,
       "name": "Hay gente",
       "url": "https://open.spotify.com/track/0NYarmvJ4kMYhsAN19OhXo"
@@ -5350,7 +5368,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 213805,
       "name": "Luces de emergencia",
       "url": "https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk"
@@ -6182,7 +6200,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179636,
       "name": "Mis Adidas Corren M\u00e1s",
       "url": "https://open.spotify.com/track/7IZ35jkFDr9w912OGibbz0"
@@ -6973,6 +6991,28 @@
     },
     {
       "album": {
+        "name": "Non Sei Como",
+        "url": "https://open.spotify.com/album/69nLTmEQvfhh4q4sf6ri4u"
+      },
+      "artists": [
+        {
+          "name": "The Rapants",
+          "url": "https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7"
+        },
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201398,
+      "name": "Non Sei Como",
+      "url": "https://open.spotify.com/track/48Qrb6fpGg0N0VoDSBteuv"
+    },
+    {
+      "album": {
         "name": "Elige Tu Propia Aventura",
         "url": "https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X"
       },
@@ -7194,6 +7234,24 @@
       "duration_ms": 219617,
       "name": "otra vez pensando en todo esto",
       "url": "https://open.spotify.com/track/0r9fVCpNOnIbvKTCjah1kz"
+    },
+    {
+      "album": {
+        "name": "Oye c\u00f3mo vienes",
+        "url": "https://open.spotify.com/album/4MVhP4zj6JD7c43hu4CB2q"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118464,
+      "name": "Oye c\u00f3mo vienes",
+      "url": "https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k"
     },
     {
       "album": {
@@ -7464,6 +7522,24 @@
       "duration_ms": 219428,
       "name": "Pedro Bicicletas",
       "url": "https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx"
+    },
+    {
+      "album": {
+        "name": "Peldanyos",
+        "url": "https://open.spotify.com/album/1JpjOOJzSMnQ0GMdZBX853"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106946,
+      "name": "Peldanyos",
+      "url": "https://open.spotify.com/track/6yH61MBS1NOn8jS7nNeE8z"
     },
     {
       "album": {
@@ -8114,6 +8190,24 @@
       "duration_ms": 235001,
       "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
       "url": "https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV"
+    },
+    {
+      "album": {
+        "name": "Regalarte flores",
+        "url": "https://open.spotify.com/album/4OzBnxTA4Sm5kScqYzYMWc"
+      },
+      "artists": [
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126788,
+      "name": "Regalarte flores",
+      "url": "https://open.spotify.com/track/5nzapEXyXahIR0DdArUhp6"
     },
     {
       "album": {
@@ -9198,7 +9292,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 236571,
       "name": "TENGO UNA COSA EN LA CARTERA",
       "url": "https://open.spotify.com/track/1axufhRkF7nGYx769ZCHuE"
@@ -9393,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/639kL76DOwt3RFTK4nFAss"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196219,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/5vXJemrliIRxcRw6iKfMEs"
+    },
+    {
+      "album": {
         "name": "TONTO",
         "url": "https://open.spotify.com/album/52D92moSlvosJjb2StIvMY"
       },
@@ -9404,7 +9516,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 233220,
       "name": "TONTO",
       "url": "https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn"
@@ -10678,6 +10790,24 @@
       "duration_ms": 152282,
       "name": "yo s\u00ed te quer\u00eda",
       "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
+    },
+    {
+      "album": {
+        "name": "YO TAMBI\u00c9N PENSABA QUE S\u00cd",
+        "url": "https://open.spotify.com/album/6IMwruK8QSxVkdSH6bB2vy"
+      },
+      "artists": [
+        {
+          "name": "RATA",
+          "url": "https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216169,
+      "name": "YO TAMBI\u00c9N PENSABA QUE S\u00cd",
+      "url": "https://open.spotify.com/track/4mTSIc3Z3mvfYUuMTAZybM"
     },
     {
       "album": {

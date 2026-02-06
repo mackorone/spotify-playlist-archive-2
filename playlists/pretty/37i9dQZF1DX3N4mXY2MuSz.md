@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,687 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,666 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 17 | [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 |
 | 18 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 19 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
-| 20 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
-| 21 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
+| 20 | [I'm With You](https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [I'm With You](https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq) | 4:04 |
+| 21 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas With Weezer](https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq) | 1:32 |
 | 22 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
 | 23 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
 | 24 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 45 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 46 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 |
 | 47 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 |
-| 48 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
-| 49 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
+| 48 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
+| 49 | [Christmas is Canceled](https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca) | [Bankrupt](https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g) | [Christmas is Canceled](https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM) | 2:12 |
 | 50 | [Another Christmas](https://open.spotify.com/track/7wTUURwHvDfAfUPHPaxhei) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Punk Rawk Christmas](https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq) | 3:40 |
 | 51 | [Under the Mistletoe](https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR) | [Masked Intruder](https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc) | [Under the Mistletoe](https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG) | 2:58 |
 | 52 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |

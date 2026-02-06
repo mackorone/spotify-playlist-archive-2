@@ -2609,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq"
+      },
+      "artists": [
+        {
+          "name": "Bella Who",
+          "url": "https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc"
+        },
+        {
+          "name": "DOM",
+          "url": "https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ"
+    },
+    {
+      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/1j2oZNhOLbA98Jx7Qj1Z2Y"
       },
@@ -6356,7 +6378,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 186984,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm"

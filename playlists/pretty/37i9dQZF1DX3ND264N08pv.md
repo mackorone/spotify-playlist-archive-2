@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,941 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,970 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 5 | [FA TI CO](https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [FA TI CO](https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9) | 1:49 |
 | 6 | [Dark Smile](https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [IMHAPPY](https://open.spotify.com/artist/610Cl4EOB0UT1FSg8zjedB) | [Dark Smile](https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc) | 3:36 |
 | 7 | [Get Wrecked 2024 Tool \- Dimitri K Remix](https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Get Wrecked 2024 Tool \(Dimitri K Remix\)](https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo) | 1:29 |
-| 8 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
-| 9 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
+| 8 | [RECKLESS](https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [RECKLESS](https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE) | 2:40 |
+| 9 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 | 10 | [Pennywise \- Deadly Guns Remix](https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Pennywise \(Deadly Guns Remix\)](https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb) | 2:32 |
 | 11 | [PSSY MTHRFCKRZ \- Chaos Project & Sakyra Remix](https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz) | [Endymion](https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT), [Sakyra](https://open.spotify.com/artist/2GR3DT7wsxRnjNckRcNMpD) | [PSSY MTHRFCKRZ \(Chaos Project & Sakyra Remix\)](https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc) | 2:42 |
 | 12 | [Una Hora Más \- Dimitri K & The Dark Horror Remix](https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Una Hora Más \(Dimitri K & The Dark Horror Remix\)](https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL) | 3:36 |

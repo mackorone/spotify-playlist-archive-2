@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 559084,
+  "num_followers": 559058,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207830,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207830,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 104571,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 189090,
       "name": "Be With U (feat. DETO BLACK)",
       "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 104571,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Gonna Bleach My Eyebrows",
+        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "Gonna Bleach My Eyebrows",
+      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "BACKWARDS",
         "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Gonna Bleach My Eyebrows",
-        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "Gonna Bleach My Eyebrows",
-      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+      },
+      "artists": [
+        {
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+        }
+      ],
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2024-08-23 04:00:00",

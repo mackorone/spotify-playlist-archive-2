@@ -4,7 +4,7 @@
 
 > A taste of today's best bluegrass instrumentals.
 
-318 songs - 19 hr 25 min
+319 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 | 2025-02-08 |
 | [Wellington](https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/5XreExffe2MWIUZKfnOm76) | 3:23 | 2022-07-22 | 2024-10-05 |
 | [Wellington](https://open.spotify.com/track/5uD5JxoeCv8W9UfWs0bwd3) | [Allison de Groot & Tatiana Hargreaves](https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe) | [Hurricane Clarice](https://open.spotify.com/album/3TqQrkhhHrnwJQEkS7PSdH) | 3:23 | 2024-01-26 | 2024-03-28 |
+| [West Dakota Rose](https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Christopher Henry](https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9) | [West Dakota Rose](https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU) | 5:54 | 2026-02-04 |  |
 | [West Virginia Red](https://open.spotify.com/track/5EbhjtNrZziHm68m1x0QxX) | [Danny Roberts](https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE) | [West Virginia Red](https://open.spotify.com/album/75a6zJG8thNcgXIWAnkDOC) | 2:27 | 2024-05-29 | 2025-02-04 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9) | 4:15 | 2021-12-03 | 2025-01-11 |
 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [My Bluegrass Heart](https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc) | 4:15 | 2023-11-17 | 2024-04-19 |

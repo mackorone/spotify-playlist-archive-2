@@ -1,5 +1,5 @@
 {
-  "description": "With Rob Harrowven, Evil Level Live, Jamie Rust and more",
+  "description": "With Rob Harrowven, Jamie Rust, Evil Level Live and more",
   "num_followers": 9,
   "original_name": "DePitcha Radio",
   "owner": {
@@ -35,18 +35,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
+        "name": "Cleansed by Fire",
+        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
       },
       "artists": [
         {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
         }
       ],
-      "duration_ms": 296199,
-      "name": "Motivation - Single Edit",
-      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
+      "duration_ms": 230433,
+      "name": "Cleansed by Fire",
+      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
     },
     {
       "added_at": null,
@@ -83,18 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cleansed by Fire",
-        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
       },
       "artists": [
         {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
         }
       ],
-      "duration_ms": 230433,
-      "name": "Cleansed by Fire",
-      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+      "duration_ms": 296199,
+      "name": "Motivation - Single Edit",
+      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
     },
     {
       "added_at": null,
@@ -119,34 +119,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/7CMzjb69JKk0dPiBfI0LXQ"
       },
       "artists": [
         {
-          "name": "Nick Luddite",
-          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
+          "name": "pMad",
+          "url": "https://open.spotify.com/artist/3Aa4yRuvDQBCj7o0uip3fW"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
+      "duration_ms": 213333,
+      "name": "Blood - Radio Edit",
+      "url": "https://open.spotify.com/track/2NTHjHIodalPbclcnN3uUi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just Saying",
-        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
       },
       "artists": [
         {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+          "name": "KOSTIGAN",
+          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Just Saying - Single Edit",
-      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
+      "duration_ms": 192796,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(Just Like) Arcadia",
+        "url": "https://open.spotify.com/album/2PftNM0PoJ64R0BYqCWDH1"
+      },
+      "artists": [
+        {
+          "name": "Stiggenasty",
+          "url": "https://open.spotify.com/artist/3l49rk8pU2rOzFztgW65tp"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "(Just Like) Arcadia",
+      "url": "https://open.spotify.com/track/52GaMDUrRxzTpd1r7VYqCl"
     },
     {
       "added_at": null,
@@ -163,26 +179,6 @@
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POV",
-        "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
-      },
-      "artists": [
-        {
-          "name": "Antonis Vlavo",
-          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
-        },
-        {
-          "name": "To Die In Beauty",
-          "url": "https://open.spotify.com/artist/2qiXBLDpNuwfQHb4D1x7cW"
-        }
-      ],
-      "duration_ms": 206462,
-      "name": "POV",
-      "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
     },
     {
       "added_at": null,
@@ -207,34 +203,86 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Dark Dream",
-        "url": "https://open.spotify.com/album/5RAvn7Tvl7lJjbiAz7L5xO"
+        "name": "Ride the Night",
+        "url": "https://open.spotify.com/album/0PgjOE1lIbpp5d8oqFHZj9"
       },
       "artists": [
         {
-          "name": "Psychic Guilt",
-          "url": "https://open.spotify.com/artist/6vxE00KfU0Mkwms712w4Eb"
+          "name": "Darow",
+          "url": "https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l"
         }
       ],
-      "duration_ms": 217778,
-      "name": "A Dark Dream",
-      "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
+      "duration_ms": 328195,
+      "name": "Ride the Night",
+      "url": "https://open.spotify.com/track/65CLz2CF0QVhogC2nTz0A6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dissipate",
-        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/4tyU5fxu2oSevl3XfDhwPN"
       },
       "artists": [
         {
-          "name": "KOSTIGAN",
-          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
+          "name": "Mild Blue Days",
+          "url": "https://open.spotify.com/artist/5UryruvM4QVI2JoEKj1Ys1"
         }
       ],
-      "duration_ms": 192796,
-      "name": "Dissipate",
-      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+      "duration_ms": 223855,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/4GDJIXNXvOycf2iMkyfE9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VII",
+        "url": "https://open.spotify.com/album/23ga2lot03LoNJx7BUtRkj"
+      },
+      "artists": [
+        {
+          "name": "Sister May",
+          "url": "https://open.spotify.com/artist/5F0tJ7xaH82xK4nkT60LEN"
+        }
+      ],
+      "duration_ms": 230632,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/40Y5xwUpxzWqTJKOVjfaI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Saying",
+        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Just Saying - Single Edit",
+      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Out The Trash",
+        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Takin' Out The Trash",
+      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
     },
     {
       "added_at": null,
@@ -255,18 +303,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Sky",
-        "url": "https://open.spotify.com/album/4tyU5fxu2oSevl3XfDhwPN"
+        "name": "Coming Back To Life",
+        "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
       },
       "artists": [
         {
-          "name": "Mild Blue Days",
-          "url": "https://open.spotify.com/artist/5UryruvM4QVI2JoEKj1Ys1"
+          "name": "Yatesy",
+          "url": "https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A"
         }
       ],
-      "duration_ms": 223855,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/4GDJIXNXvOycf2iMkyfE9h"
+      "duration_ms": 191500,
+      "name": "Coming Back To Life",
+      "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wendy Houses",
+        "url": "https://open.spotify.com/album/60wqkC4T8YGTpmRAh7Ydxl"
+      },
+      "artists": [
+        {
+          "name": "The Mad Mile",
+          "url": "https://open.spotify.com/artist/4cxaTNvUAMBnufJiVYvrGY"
+        }
+      ],
+      "duration_ms": 227648,
+      "name": "Wendy Houses",
+      "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F.I.V.E. \u2013 Fear Increases Violent Emotions",
+        "url": "https://open.spotify.com/album/64lC6jyoTfKplb7eHzdRA3"
+      },
+      "artists": [
+        {
+          "name": "Christine Plays Viola",
+          "url": "https://open.spotify.com/artist/0wFpvCpfmScguj1EoJeoe6"
+        }
+      ],
+      "duration_ms": 464842,
+      "name": "The Crypt Of Misery",
+      "url": "https://open.spotify.com/track/7pKgnTEzbreTiEWGbWwjWZ"
     },
     {
       "added_at": null,
@@ -295,66 +375,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "F.I.V.E. \u2013 Fear Increases Violent Emotions",
-        "url": "https://open.spotify.com/album/64lC6jyoTfKplb7eHzdRA3"
+        "name": "Things Have Changed (Radio Edit)",
+        "url": "https://open.spotify.com/album/4aHpUcq46dcMSfUjNG6ws7"
       },
       "artists": [
         {
-          "name": "Christine Plays Viola",
-          "url": "https://open.spotify.com/artist/0wFpvCpfmScguj1EoJeoe6"
+          "name": "The Creeping Candies",
+          "url": "https://open.spotify.com/artist/1AO5x0L3ufgU1AgFFaNSrg"
         }
       ],
-      "duration_ms": 464842,
-      "name": "The Crypt Of Misery",
-      "url": "https://open.spotify.com/track/7pKgnTEzbreTiEWGbWwjWZ"
+      "duration_ms": 234320,
+      "name": "Things Have Changed - Radio Edit",
+      "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh"
       },
       "artists": [
         {
-          "name": "Cozmicsoulfire",
-          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+          "name": "Splitter Conspiracy",
+          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
         }
       ],
-      "duration_ms": 387527,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
+      "duration_ms": 183857,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/7CMzjb69JKk0dPiBfI0LXQ"
+        "name": "A Dark Dream",
+        "url": "https://open.spotify.com/album/5RAvn7Tvl7lJjbiAz7L5xO"
       },
       "artists": [
         {
-          "name": "pMad",
-          "url": "https://open.spotify.com/artist/3Aa4yRuvDQBCj7o0uip3fW"
+          "name": "Psychic Guilt",
+          "url": "https://open.spotify.com/artist/6vxE00KfU0Mkwms712w4Eb"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Blood - Radio Edit",
-      "url": "https://open.spotify.com/track/2NTHjHIodalPbclcnN3uUi"
+      "duration_ms": 217778,
+      "name": "A Dark Dream",
+      "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
     },
     {
       "added_at": null,
       "album": {
-        "name": "(Just Like) Arcadia",
-        "url": "https://open.spotify.com/album/2PftNM0PoJ64R0BYqCWDH1"
+        "name": "Feel Like A Walking Ghost",
+        "url": "https://open.spotify.com/album/0Qlx6oYsXKfVaFnp2hxexj"
       },
       "artists": [
         {
-          "name": "Stiggenasty",
-          "url": "https://open.spotify.com/artist/3l49rk8pU2rOzFztgW65tp"
+          "name": "The House Of Usher",
+          "url": "https://open.spotify.com/artist/7C9RHQV2ASzJhN85MuKhsi"
         }
       ],
-      "duration_ms": 200640,
-      "name": "(Just Like) Arcadia",
-      "url": "https://open.spotify.com/track/52GaMDUrRxzTpd1r7VYqCl"
+      "duration_ms": 235706,
+      "name": "Still Waters Running Deep",
+      "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
     },
     {
       "added_at": null,
@@ -379,118 +459,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like A Walking Ghost",
-        "url": "https://open.spotify.com/album/0Qlx6oYsXKfVaFnp2hxexj"
+        "name": "Thanks, I Hate It.",
+        "url": "https://open.spotify.com/album/2KBbLAxHjWnHih4sabqYOn"
       },
       "artists": [
         {
-          "name": "The House Of Usher",
-          "url": "https://open.spotify.com/artist/7C9RHQV2ASzJhN85MuKhsi"
+          "name": "Gavial",
+          "url": "https://open.spotify.com/artist/1M4hHh8vikAujqefBnBqlq"
         }
       ],
-      "duration_ms": 235706,
-      "name": "Still Waters Running Deep",
-      "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
+      "duration_ms": 215666,
+      "name": "Koru Mindset",
+      "url": "https://open.spotify.com/track/2NZK6ruSrACvOr4gZDUTah"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mission",
-        "url": "https://open.spotify.com/album/3Y6juPYnLL22IzGOUgUGPh"
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/1k7wRWRQTrmebfuIdSiPi3"
       },
       "artists": [
         {
-          "name": "Splitter Conspiracy",
-          "url": "https://open.spotify.com/artist/3T5vCxy2jbplejVTDdZOa7"
+          "name": "Block",
+          "url": "https://open.spotify.com/artist/4ahnCwEbQDGnP8SjGj7xWW"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Mission",
-      "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Things Have Changed (Radio Edit)",
-        "url": "https://open.spotify.com/album/4aHpUcq46dcMSfUjNG6ws7"
-      },
-      "artists": [
-        {
-          "name": "The Creeping Candies",
-          "url": "https://open.spotify.com/artist/1AO5x0L3ufgU1AgFFaNSrg"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Things Have Changed - Radio Edit",
-      "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Divides",
-        "url": "https://open.spotify.com/album/7Bg7tirynNfEayvxXerMac"
-      },
-      "artists": [
-        {
-          "name": "Breakaway-NE",
-          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Quiet Ones",
-      "url": "https://open.spotify.com/track/3g3i3u2CY5DFNDEc5BNHnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Out The Trash",
-        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Takin' Out The Trash",
-      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happy Song (Single Edit)",
-        "url": "https://open.spotify.com/album/4MIea62MBN7rVVjsXtrVPf"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 199709,
-      "name": "Happy Song (Single Edit)",
-      "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wendy Houses",
-        "url": "https://open.spotify.com/album/60wqkC4T8YGTpmRAh7Ydxl"
-      },
-      "artists": [
-        {
-          "name": "The Mad Mile",
-          "url": "https://open.spotify.com/artist/4cxaTNvUAMBnufJiVYvrGY"
-        }
-      ],
-      "duration_ms": 227648,
-      "name": "Wendy Houses",
-      "url": "https://open.spotify.com/track/40cOZb9cnK3BgwdItl9f3I"
+      "duration_ms": 226250,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/7C4z139quGQZOqcYx81SsS"
     },
     {
       "added_at": null,
@@ -511,18 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Armour Hill",
-        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
       },
       "artists": [
         {
-          "name": "Gran Fenwick",
-          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Armour Hill",
-      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
+      "duration_ms": 387527,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
     },
     {
       "added_at": null,
@@ -547,34 +543,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride the Night",
-        "url": "https://open.spotify.com/album/0PgjOE1lIbpp5d8oqFHZj9"
+        "name": "Armour Hill",
+        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
       },
       "artists": [
         {
-          "name": "Darow",
-          "url": "https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l"
+          "name": "Gran Fenwick",
+          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
         }
       ],
-      "duration_ms": 328195,
-      "name": "Ride the Night",
-      "url": "https://open.spotify.com/track/65CLz2CF0QVhogC2nTz0A6"
+      "duration_ms": 259000,
+      "name": "Armour Hill",
+      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Puppets Know",
-        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+        "name": "Scorpion Ride",
+        "url": "https://open.spotify.com/album/0CkHHyBngXS3EhpWZpSeaI"
       },
       "artists": [
         {
-          "name": "Evil Level Live",
-          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+          "name": "Matt Geiser",
+          "url": "https://open.spotify.com/artist/2I1PKzkPmZAGVjOibqO37D"
         }
       ],
-      "duration_ms": 269538,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
+      "duration_ms": 284000,
+      "name": "Scorpion Ride",
+      "url": "https://open.spotify.com/track/2IvxVcuioQZIBJhQIMdB1o"
     },
     {
       "added_at": null,
@@ -595,18 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "give up",
-        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
+        "name": "To Die Like a God",
+        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
       },
       "artists": [
         {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+          "name": "Die Oberherren",
+          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
         }
       ],
-      "duration_ms": 338250,
-      "name": "give up",
-      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+      "duration_ms": 185227,
+      "name": "Shadows Across The South",
+      "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
     },
     {
       "added_at": null,
@@ -631,34 +627,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/1k7wRWRQTrmebfuIdSiPi3"
+        "name": "Within Cells Interlinked Pt. 2",
+        "url": "https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu"
       },
       "artists": [
         {
-          "name": "Block",
-          "url": "https://open.spotify.com/artist/4ahnCwEbQDGnP8SjGj7xWW"
+          "name": "As Particles Collide",
+          "url": "https://open.spotify.com/artist/7ECcvHYe1rQzg2Xv6qi9Ed"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/7C4z139quGQZOqcYx81SsS"
+      "duration_ms": 231231,
+      "name": "Deliria",
+      "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Thanks, I Hate It.",
-        "url": "https://open.spotify.com/album/2KBbLAxHjWnHih4sabqYOn"
+        "name": "Everything and Nothing",
+        "url": "https://open.spotify.com/album/2R7Jq3K0Tq0DOC2xXN4Qap"
       },
       "artists": [
         {
-          "name": "Gavial",
-          "url": "https://open.spotify.com/artist/1M4hHh8vikAujqefBnBqlq"
+          "name": "Fishbowl",
+          "url": "https://open.spotify.com/artist/229COQirOtnUPhSCIfDJpc"
         }
       ],
-      "duration_ms": 215666,
-      "name": "Koru Mindset",
-      "url": "https://open.spotify.com/track/2NZK6ruSrACvOr4gZDUTah"
+      "duration_ms": 203357,
+      "name": "Everything and Nothing",
+      "url": "https://open.spotify.com/track/20ONfwjSKbNy0lHiUtCEjQ"
     },
     {
       "added_at": null,
@@ -679,18 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Die Like a God",
-        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
       },
       "artists": [
         {
-          "name": "Die Oberherren",
-          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
         }
       ],
-      "duration_ms": 249372,
-      "name": "Rough Love",
-      "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
+      "duration_ms": 269538,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
     },
     {
       "added_at": null,
@@ -715,66 +711,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scorpion Ride",
-        "url": "https://open.spotify.com/album/0CkHHyBngXS3EhpWZpSeaI"
+        "name": "Gypsy Genes",
+        "url": "https://open.spotify.com/album/7jRbOF5YgqUIBW3GMpwjY8"
       },
       "artists": [
         {
-          "name": "Matt Geiser",
-          "url": "https://open.spotify.com/artist/2I1PKzkPmZAGVjOibqO37D"
+          "name": "Zephyros Gowa",
+          "url": "https://open.spotify.com/artist/1Iv1LdRofr2Rtt5d0bBVSP"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Scorpion Ride",
-      "url": "https://open.spotify.com/track/2IvxVcuioQZIBJhQIMdB1o"
+      "duration_ms": 270031,
+      "name": "Salem For The Solstice",
+      "url": "https://open.spotify.com/track/1KBhJLAxDTqA4Q71L4GAKz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "never enough",
-        "url": "https://open.spotify.com/album/3l2kOXJWFJbaoQEZq7x0Ba"
+        "name": "Life's a Party",
+        "url": "https://open.spotify.com/album/0dcRIfzAlXsjbtLb6fwdfg"
       },
       "artists": [
         {
-          "name": "Northern Gloom",
-          "url": "https://open.spotify.com/artist/6wSoLfOujwwptHo0Hr7ygL"
+          "name": "Vyvyan Hammond",
+          "url": "https://open.spotify.com/artist/1JPouwqYivSkQIKFLLoIzp"
         }
       ],
-      "duration_ms": 230975,
-      "name": "never enough",
-      "url": "https://open.spotify.com/track/3xOGzJzfPKYLVSk1MF9Zrl"
+      "duration_ms": 248328,
+      "name": "Life's a Party",
+      "url": "https://open.spotify.com/track/1QWy0cx6ApyVqwwmrpXmha"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tr\u00e4nen Aus Blut",
-        "url": "https://open.spotify.com/album/0zFVdgK5mbB94Fdu8U4u03"
+        "name": "Cut To The Core (Vol. 2)",
+        "url": "https://open.spotify.com/album/6j2Z6agLjQqtafbgujg1cf"
       },
       "artists": [
         {
-          "name": "Armin F.",
-          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
+          "name": "Stephen Brodsky",
+          "url": "https://open.spotify.com/artist/7kcQqnnBCPSa28dVFfG43Q"
+        },
+        {
+          "name": "Adam McGrath",
+          "url": "https://open.spotify.com/artist/1OZ0uJvIiUrLNc74RgXRFV"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Tr\u00e4nen Aus Blut",
-      "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
+      "duration_ms": 266853,
+      "name": "Wait for a Day",
+      "url": "https://open.spotify.com/track/16BAb39sC5QuFyS1mVIBEM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mental Health (MIK\u2019s Miasma)",
-        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
+        "name": "Heroes + Legends",
+        "url": "https://open.spotify.com/album/50SAuWHcP6D6W1PGa5IWB1"
       },
       "artists": [
         {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+          "name": "Omnesia",
+          "url": "https://open.spotify.com/artist/5F6GIhIqbuqyIzi8gF8weP"
         }
       ],
-      "duration_ms": 340409,
-      "name": "Mental Health (MIK\u2019s Miasma)",
-      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
+      "duration_ms": 240953,
+      "name": "Heroes + Legends",
+      "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
     },
     {
       "added_at": null,
@@ -799,70 +799,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back To Life",
-        "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
       },
       "artists": [
         {
-          "name": "Yatesy",
-          "url": "https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A"
+          "name": "Jyri Kannisto",
+          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Coming Back To Life",
-      "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
+      "duration_ms": 192000,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Within Cells Interlinked Pt. 2",
-        "url": "https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu"
+        "name": "Tr\u00e4nen Aus Blut",
+        "url": "https://open.spotify.com/album/0zFVdgK5mbB94Fdu8U4u03"
       },
       "artists": [
         {
-          "name": "As Particles Collide",
-          "url": "https://open.spotify.com/artist/7ECcvHYe1rQzg2Xv6qi9Ed"
+          "name": "Armin F.",
+          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
         }
       ],
-      "duration_ms": 231231,
-      "name": "Deliria",
-      "url": "https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF"
+      "duration_ms": 204000,
+      "name": "Tr\u00e4nen Aus Blut",
+      "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Remember The Exit Might Be Right Behind You",
-        "url": "https://open.spotify.com/album/4c0WhY4PjjFy0QyAFLrJgM"
+        "name": "Hither Mine Multitude Vol# 1",
+        "url": "https://open.spotify.com/album/7I2n1stnofGOF3EifuXIpK"
       },
       "artists": [
         {
-          "name": "Frozen Inertia",
-          "url": "https://open.spotify.com/artist/40QP5PeaGtO30oeEZ5VhHP"
-        },
-        {
-          "name": "Nastassia Moore",
-          "url": "https://open.spotify.com/artist/23G0dTisQZ9rUkDDkRLfnj"
+          "name": "Jamie Rust",
+          "url": "https://open.spotify.com/artist/0Q5x6MC45Pb0qVZ4hugf2E"
         }
       ],
-      "duration_ms": 187401,
-      "name": "Red Sky at Noon - Dandysounds Mix",
-      "url": "https://open.spotify.com/track/3JtLK1sccvAaKdhPKotx4P"
+      "duration_ms": 221000,
+      "name": "Your Disaster",
+      "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/6OHuGEyuKBte7dWX4n3afa"
+        "name": "POST MORTEM INVICTUS",
+        "url": "https://open.spotify.com/album/2YrwaUPZDgvHPYCAlwOlaP"
       },
       "artists": [
         {
-          "name": "Intercellar",
-          "url": "https://open.spotify.com/artist/01cLGJR9h70ta36EQMd086"
+          "name": "Luci Ferrum",
+          "url": "https://open.spotify.com/artist/07hES9rBibqnpRqecdYpIG"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/2iRwMsbQyEg72oH6INaMoO"
+      "duration_ms": 168000,
+      "name": "Cycle Breaker",
+      "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
     }
   ],
   "unique_name": "DePitcha Radio",

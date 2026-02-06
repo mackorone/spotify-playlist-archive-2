@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-592 songs - 1 day 11 hr 11 min
+594 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [I'm on My Way to Say Goodbye](https://open.spotify.com/track/0rnDS05Uz4sVAdb7PUh29m) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [My House Is on Fire](https://open.spotify.com/album/2J0H3g4HxlRKPRv2DpHDFN) | 2:45 | 2026-01-01 | 2026-02-03 |
 | [If I Should Lose You](https://open.spotify.com/track/5Z9VzbROuJ1jyt8KLxz0gE) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [If I Should Lose You](https://open.spotify.com/album/1QHITqv4KPeSbtBnFcqGIP) | 4:26 | 2025-12-15 | 2026-01-15 |
 | [If You Want To Be Famous](https://open.spotify.com/track/7e6X8Ur99dU8spGoXF1Isp) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [If You Want To Be Famous](https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc) | 4:41 | 2025-12-04 | 2026-01-05 |
+| [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 | 2026-02-05 |  |
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 |  |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
 | [Inside Out](https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Inside Out](https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi) | 2:30 | 2024-01-28 | 2025-12-28 |
@@ -559,6 +560,7 @@
 | [Vento di Scirocco](https://open.spotify.com/track/6WzIehyHDAj6QHXqlWNS8k) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sicilian Lullabies and Tales](https://open.spotify.com/album/4cwbKpgt9v2jo1pLQe06dH) | 4:46 | 2023-04-22 | 2025-11-29 |
 | [VERDEBLU](https://open.spotify.com/track/0KgHOIRobU5tYfBWfTq5fd) | [Federico Secondulfo](https://open.spotify.com/artist/6QyvRBPAQzedBqKzVeXQzq) | [VERDEBLU](https://open.spotify.com/album/69CBYq4zeMd7fxTacXCYKB) | 3:07 | 2026-01-13 |  |
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-11-21 | 2026-01-05 |
+| [Visitantes](https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:10 | 2026-02-05 |  |
 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 | 2025-12-29 | 2026-01-24 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-12-22 | 2026-01-24 |
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2025-12-22 | 2026-01-24 |

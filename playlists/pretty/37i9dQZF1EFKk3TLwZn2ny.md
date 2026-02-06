@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 53 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
 | 54 | [Tongues](https://open.spotify.com/track/1aOby6ZVZfJ1LWUftHYgAa) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:45 |
 | 55 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
-| 56 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
-| 57 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
-| 58 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
+| 56 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
+| 57 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
+| 58 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
 | 59 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
 | 60 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
 | 61 | [Lonely \[ALT\]](https://open.spotify.com/track/4cX0A4VkMHBN4hk5XuM6nR) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely \[ALT\]](https://open.spotify.com/album/7doIA7N1Rg5V51E3Dakhco) | 2:16 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 68 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 | 69 | [Loose](https://open.spotify.com/track/5XNK0HZfoTf7hhivBgmeUh) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Loose \[ALT\]](https://open.spotify.com/album/6iE7hjTGriBjRuzCl2kOYS) | 2:58 |
 
-Snapshot ID: `AcIzLAAAAAD3yP99YxBIEvDGPxtKUIzN`
+Snapshot ID: `AcI4/gAAAAA82qUjD9tk7Ucvm2UJKMvS`

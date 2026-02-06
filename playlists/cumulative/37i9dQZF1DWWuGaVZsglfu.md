@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: SIENNA SPIRO
+> The best tracks from the world of music\. Cover: Nadhif Basalamah
 
 479 songs - 1 day 3 hr 22 min
 

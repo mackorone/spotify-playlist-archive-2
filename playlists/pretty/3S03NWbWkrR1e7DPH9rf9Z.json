@@ -1,12 +1,12 @@
 {
   "description": "BIG ROOM NEVER DIES - big room - bigroom - bigroom songs - big room music - festival music - future rave songs - big room dance - party music - mainstage songs - mainstage music - rave songs - new edm - edm songs",
-  "num_followers": 212424,
+  "num_followers": 212414,
   "original_name": "Big Room 2026 \ud83d\udd25 Bigroom Mainstage",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAV4duotdKRjrrAJ2h0JFWchtd0r9Pe",
+  "snapshot_id": "AAAV5NWu9y/VcVQDHxh9LahdNi+sxUHF",
   "tracks": [
     {
       "added_at": "2026-01-23 16:26:16",
@@ -121,6 +121,26 @@
       "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
     },
     {
+      "added_at": "2026-02-05 14:10:55",
+      "album": {
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/0fqsIXjekfrVEPggWdgvFg"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Gaz Meeko",
+          "url": "https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/6eA17OjmhaKOaLsSdkzQxk"
+    },
+    {
       "added_at": "2026-01-23 16:26:16",
       "album": {
         "name": "Revealed Recordings presents ADE Sampler 2025",
@@ -161,24 +181,24 @@
       "url": "https://open.spotify.com/track/69zxj1EFDfAouZu9JDmQld"
     },
     {
-      "added_at": "2026-01-23 16:26:16",
+      "added_at": "2026-02-05 14:15:55",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr"
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT"
       },
       "artists": [
         {
-          "name": "Nick Havsen",
-          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
         },
         {
-          "name": "B00ST",
-          "url": "https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx"
+          "name": "LEA KEY",
+          "url": "https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py"
         }
       ],
-      "duration_ms": 121329,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
+      "duration_ms": 168512,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm"
     },
     {
       "added_at": "2026-01-23 16:26:16",
@@ -203,6 +223,26 @@
       "duration_ms": 332289,
       "name": "Mammoth",
       "url": "https://open.spotify.com/track/58BVwReCtnJTLHRq0XOHCi"
+    },
+    {
+      "added_at": "2026-01-23 16:26:16",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5TlymhW0U0a6SjovrF8tEr"
+      },
+      "artists": [
+        {
+          "name": "Nick Havsen",
+          "url": "https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3"
+        },
+        {
+          "name": "B00ST",
+          "url": "https://open.spotify.com/artist/4LbUyZ8D2tXu1kuSFzYZdx"
+        }
+      ],
+      "duration_ms": 121329,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4OmpHbeuhayvjodg2nWPYz"
     },
     {
       "added_at": "2026-01-23 16:26:16",

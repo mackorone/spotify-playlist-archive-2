@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,882 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,879 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [You Want In, I Want Out](https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:15 |
 | 50 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
 
-Snapshot ID: `aYE6gAAAAAAp2m0LmiOMmoP+pegefj6R`
+Snapshot ID: `aYKMAAAAAABCHtKD/QR2EWcj8Ge7rQs0`

@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 331692,
+  "num_followers": 331815,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Si Te Agarran Las Ganas",
         "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2025-12-01 13:20:09",

@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 122581,
+  "num_followers": 122601,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 177119,
-      "name": "Ganeni",
-      "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Flicker of Light",
         "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 199085,
       "name": "Flicker of Light",
       "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "WOLEDTO",
+        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 177119,
+      "name": "Ganeni",
+      "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
     },
     {
       "added_at": "2024-09-16 22:46:03",
@@ -529,26 +529,6 @@
       "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
     },
     {
-      "added_at": "2024-10-09 21:20:16",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Enfant Sauvage",
-          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
-        }
-      ],
-      "duration_ms": 205175,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Hyperdrama",
@@ -567,6 +547,26 @@
       "duration_ms": 254346,
       "name": "The End",
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+    },
+    {
+      "added_at": "2024-10-09 21:20:16",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Enfant Sauvage",
+          "url": "https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/05o0VN6ld61e3843bPgTyg"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4"
     },
     {
-      "added_at": "2024-10-18 20:43:05",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Looking For A Way Out (Of Del Rio)",
@@ -1691,6 +1675,22 @@
       "duration_ms": 187613,
       "name": "Looking For A Way Out (Of Del Rio)",
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+    },
+    {
+      "added_at": "2024-10-18 20:43:05",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1861,26 +1861,6 @@
       "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Black Eye",
-        "url": "https://open.spotify.com/album/5YounM3AehIFLPltsa5kGN"
-      },
-      "artists": [
-        {
-          "name": "SANITY",
-          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 292364,
-      "name": "Black Eye",
-      "url": "https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V"
-    },
-    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "On Job",
@@ -1903,6 +1883,26 @@
       "duration_ms": 121846,
       "name": "On Job",
       "url": "https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Black Eye",
+        "url": "https://open.spotify.com/album/5YounM3AehIFLPltsa5kGN"
+      },
+      "artists": [
+        {
+          "name": "SANITY",
+          "url": "https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 292364,
+      "name": "Black Eye",
+      "url": "https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V"
     },
     {
       "added_at": "2024-10-09 21:20:16",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Juanita",
-        "url": "https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Garcia",
-          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
-        }
-      ],
-      "duration_ms": 226337,
-      "name": "Juanita",
-      "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Villains",
         "url": "https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 192685,
       "name": "Villains",
       "url": "https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Juanita",
+        "url": "https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "duration_ms": 226337,
+      "name": "Juanita",
+      "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
     },
     {
       "added_at": "2024-09-16 11:00:00",

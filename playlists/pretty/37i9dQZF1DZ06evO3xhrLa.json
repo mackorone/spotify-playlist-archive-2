@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 244612,
+  "num_followers": 244634,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABNv78C/gHmSzcINUNUvmPF",
+  "snapshot_id": "aYKMAAAAAADKw7BtGHFbGGagPPyVbc/X",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 178920,
       "name": "Moments",
       "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
     },
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
-        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
-      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 223933,
       "name": "U Move, I Move (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
+        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
+      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
     },
     {
       "added_at": null,

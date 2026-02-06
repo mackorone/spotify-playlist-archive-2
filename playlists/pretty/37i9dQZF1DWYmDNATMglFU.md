@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. meet me @ the altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,873 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,849 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 27 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 28 | [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 |
 | 29 | [Wings](https://open.spotify.com/track/51cGZnPUQgOAqxDMRZMb7z) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Wings](https://open.spotify.com/album/1NVVPoNfsizsJWIf0pE4SC) | 2:37 |
-| 30 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 |
+| 30 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 |
 | 31 | [Get The Message](https://open.spotify.com/track/354WZaV3u6cuzTG2PmpYwm) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Get The Message](https://open.spotify.com/album/4U1dfEX1jrOr0mo0jAuL35) | 2:42 |
 | 32 | [Passenger](https://open.spotify.com/track/6Yh1aoi25AWHSug0jbAPHm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Passenger](https://open.spotify.com/album/2QSZh6Xdn0swl1JUkDnyC8) | 3:11 |
 | 33 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 53 | [Thelma and Louise](https://open.spotify.com/track/1pJgVRFQliiPFhdnBSMKwG) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [Thelma and Louise](https://open.spotify.com/album/2rsekvT7HPXOVQbLDFEtUt) | 3:12 |
 | 54 | [Bleed](https://open.spotify.com/track/4U0yFMPR9ibgt92xZxCt79) | [Keyawna Nikole](https://open.spotify.com/artist/1lSj9S0kfy7AtuqxPv11Gk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Bleed](https://open.spotify.com/album/1VQWF8mZdJm4fhUSmkC9F0) | 3:27 |
 | 55 | [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 |
-| 56 | [Flowers & Dirt](https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Flowers & Dirt](https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P) | 2:07 |
+| 56 | [Flowers & Dirt](https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Flowers & Dirt](https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P) | 2:07 |
 | 57 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
 | 58 | [\[REDACTED\]](https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\[REDACTED\]](https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E) | 2:24 |
 | 59 | [Unhinged](https://open.spotify.com/track/6ESC79zhktiwcijTphwKLh) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Unhinged](https://open.spotify.com/album/6B8FMz3hpOEthM4xK8fZE8) | 2:03 |

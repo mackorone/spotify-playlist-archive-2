@@ -4,7 +4,7 @@
 
 > Switzerland's biggest hits right now\. Cover: RnBoi, Nono La Grinta
 
-337 songs - 16 hr 46 min
+338 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Aye](https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [OnTouRage \- EP](https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL) | 3:02 | 2025-04-08 | 2025-04-24 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 | 2026-01-15 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-03-18 | 2025-07-31 |
-| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-27 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-05 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-27 | 2026-02-06 |
 | [Baby Hola](https://open.spotify.com/track/302R7nC7GG8XZbkps1STJb) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Baby Hola](https://open.spotify.com/album/69JcqBln85JYqpsSBBsib2) | 2:21 | 2024-07-02 | 2024-08-28 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-25 |  |
 | [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 | 2025-05-07 | 2025-06-04 |

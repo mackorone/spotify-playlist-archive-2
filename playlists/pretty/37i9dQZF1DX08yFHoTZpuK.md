@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,522 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,558 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 28 | [Diving into Minds](https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Asakusa Light](https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3) | 4:31 |
 | 29 | [WANDALAND](https://open.spotify.com/track/21RATvsNy4HSe1pJogs0Xx) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [WANDALAND](https://open.spotify.com/album/7yqwdkrebsVsReTU6dAc5j) | 2:39 |
 | 30 | [Don't Cry \- feat\. Sagiri Sól](https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Don't Cry \(feat\. Sagiri Sól\)](https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA) | 4:26 |
-| 31 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
-| 32 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 |
+| 31 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 |
+| 32 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 |
 | 33 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 |
 | 34 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 |
 | 35 | [go!](https://open.spotify.com/track/5t2y268snYiNava21XWxMZ) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 2:11 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 40 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 |
 | 41 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 |
 | 42 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 |
-| 43 | [HI!GA!MI!](https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [HI!GA!MI!](https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3) | 3:09 |
-| 44 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 43 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 |
+| 44 | [HI!GA!MI!](https://open.spotify.com/track/5yxDNvvXmkM2fkQSlLfxJR) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [F!C!O!](https://open.spotify.com/artist/2UvrlpMklmgamhimBlX9iw), [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [HI!GA!MI!](https://open.spotify.com/album/7LCTafhxWY92qtbfPqBZE3) | 3:09 |
 | 45 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
 | 46 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 |
 | 47 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfrvWwa/3o2+7NUbjKxCUdF21YV0NH",
+  "snapshot_id": "AAAfr08i9rQZwLTqNvG3zXXoCeXfaxm6",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -8691,6 +8691,26 @@
       "duration_ms": 200933,
       "name": "Skills",
       "url": "https://open.spotify.com/track/18RzOVoUefUG47NviEiX8A"
+    },
+    {
+      "added_at": "2026-02-05 21:40:54",
+      "album": {
+        "name": "Sour Soul",
+        "url": "https://open.spotify.com/album/0ug3RLV5rGBZSRJ0ZRjyqG"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 131026,
+      "name": "Nuggets of Wisdom",
+      "url": "https://open.spotify.com/track/0BLGcXWHpHHiUiN82IBO6Z"
     }
   ],
   "unique_name": "main ",

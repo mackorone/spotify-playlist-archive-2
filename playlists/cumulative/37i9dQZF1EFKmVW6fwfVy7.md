@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5iBiIuZrYOSsUgC0CpwOx3">Secret Code</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-28 songs - 1 hr 41 min
+29 songs - 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Te Va a Doler](https://open.spotify.com/track/6Tl2adJMlwUjGcNu990oRN) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:28 | 2022-06-04 |  |
 | [Teléfono](https://open.spotify.com/track/0ScX4wxJkZhsyEbIPYZljr) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 3:26 | 2022-06-04 |  |
 | [Tú](https://open.spotify.com/track/4iOvBMJaQHYVr5ZcxBpN0K) | [El Internacional & Mister J](https://open.spotify.com/artist/2cYSl8IdyVdg17ba9SIO3t) | [504](https://open.spotify.com/album/3CBiA4jPz1DhG5SOURMatU) | 2:49 | 2022-06-04 |  |
-| [Ya Quiero](https://open.spotify.com/track/5da9TFtn7mGT89pvmFAnkx) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Ya Quiero](https://open.spotify.com/album/4Q0XW7zh13X0eYSLWM2Yie) | 3:37 | 2022-06-04 |  |
+| [Ya Quiero](https://open.spotify.com/track/4t5sPHYVTlAAEfbgXD9jCl) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Ya Quiero](https://open.spotify.com/album/7FpRX9uRwItu2qz7StdjyY) | 3:37 | 2026-02-05 |  |
+| [Ya Quiero](https://open.spotify.com/track/5da9TFtn7mGT89pvmFAnkx) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [Ya Quiero](https://open.spotify.com/album/4Q0XW7zh13X0eYSLWM2Yie) | 3:37 | 2022-06-04 | 2026-02-06 |
 
 \*This playlist was first scraped on 2022-06-05. Prior content cannot be recovered.

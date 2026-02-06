@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > we're turnin' the floor into a zoo, ooh, ooh!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,821 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,444 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

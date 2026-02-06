@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695034,
+  "num_followers": 695079,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "En La Intimidad | CROSSOVER #1",
-        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 165854,
-      "name": "En La Intimidad | CROSSOVER #1",
-      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "En La Intimidad | CROSSOVER #1",
+        "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 165854,
+      "name": "En La Intimidad | CROSSOVER #1",
+      "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -727,22 +711,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2p2Q23iaaPSEa1tI6TsCVX"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 198720,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Mala Costumbre",
+        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 230728,
+      "name": "Mala Costumbre",
+      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Soltero Hasta la Tumba (Remix)",
         "url": "https://open.spotify.com/album/02jgpEF6No10jypd9B6dsk"
       },
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Mala Costumbre",
-        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 230728,
-      "name": "Mala Costumbre",
-      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Sesi\u00f3n - 6",
         "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 150315,
       "name": "Sesi\u00f3n - 6",
       "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "MUJERON",
-        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
-      },
-      "artists": [
-        {
-          "name": "Reggi El Autentico",
-          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "MUJERON",
-      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1147,6 +1131,22 @@
       "duration_ms": 204480,
       "name": "DISCOTEKA (feat. Locura Mix)",
       "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "MUJERON",
+        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
+      },
+      "artists": [
+        {
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "MUJERON",
+      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+        }
+      ],
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 152813,
       "name": "Baila Sola",
       "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1887,8 +1887,8 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+        "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+        "url": "https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH"
       },
       "artists": [
         {
@@ -1896,13 +1896,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
         }
       ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+      "duration_ms": 160171,
+      "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+      "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1995,8 +1995,8 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
-        "url": "https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH"
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
       "artists": [
         {
@@ -2004,13 +2004,13 @@
           "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 160171,
-      "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
-      "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2026-01-23 03:00:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,616 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,618 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 9 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
 | 10 | [Navegar](https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 2:34 |
 | 11 | [Eu Vou Bater Aí](https://open.spotify.com/track/0TGpnMhF1VHwns4KoJHOFY) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Eu Vou Bater Aí](https://open.spotify.com/album/2GaWcNLsQElu9M4adeCtdk) | 2:21 |
-| 12 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
-| 13 | [saudade, saudade](https://open.spotify.com/track/4vWsnXbf6XGVVqBTbPZaVl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [saudade, saudade](https://open.spotify.com/album/6jghljedA79R0FIWFc9af3) | 3:00 |
+| 12 | [saudade, saudade](https://open.spotify.com/track/4vWsnXbf6XGVVqBTbPZaVl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [saudade, saudade](https://open.spotify.com/album/6jghljedA79R0FIWFc9af3) | 3:00 |
+| 13 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
 | 14 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
 | 15 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
 | 16 | [Casca](https://open.spotify.com/track/5uhzSItR5e7IFMnTkhIRUB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 2:39 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 32 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
 | 33 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 34 | [FALTA](https://open.spotify.com/track/0egGW1NkNCfcXUhZaBCiyY) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:11 |
-| 35 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
-| 36 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
+| 35 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |
+| 36 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 37 | [Azul Moderno](https://open.spotify.com/track/13sYLRl7Ihf1SngJZmb0Bb) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/5HpoKYWYXl0jxvV0zik5AJ) | 3:54 |
 | 38 | [Ain’t Got No](https://open.spotify.com/track/4MUOuZNzV7OEv1dcCxbGn5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Conceição Evaristo](https://open.spotify.com/artist/5TwjbcI0iMF9iVyXlqQsbJ) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/6lhd9FDNmM9ba9sqOAk6Ka) | 2:48 |
 | 39 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Istambul](https://open.spotify.com/track/7gAx4l83rtiQ5I0X9XYRRd) | [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Disparada](https://open.spotify.com/album/691VKzDgLirg4O6LLiKklV) | 2:39 |
 | 42 | [Te Vejo em Tudo](https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U) | [Te Vejo em Tudo](https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA) | 3:01 |
 | 43 | [Doce Confusão](https://open.spotify.com/track/4ZjIJ1J5Umb5gp4CPsfDYU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Doce Confusão](https://open.spotify.com/album/3byioriAq7d7LF44fdbeCJ) | 2:48 |
-| 44 | [ME AJUDE A SALVAR OS DOMINGOS](https://open.spotify.com/track/7ELT2o6bfErbCLpC16WOsd) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 |
-| 45 | [Imagem](https://open.spotify.com/track/2eDz2aRZ7OZPNsKRCURhWW) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:35 |
+| 44 | [Imagem](https://open.spotify.com/track/2eDz2aRZ7OZPNsKRCURhWW) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:35 |
+| 45 | [ME AJUDE A SALVAR OS DOMINGOS](https://open.spotify.com/track/7ELT2o6bfErbCLpC16WOsd) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 |
 | 46 | [Duas Cabeças](https://open.spotify.com/track/5XTJj856y52C4DPoYDjnzr) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 3:35 |
 | 47 | [Tropical do Brasil](https://open.spotify.com/track/6xxQg0AaTIJXWkaQXczGFv) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Tropical do Brasil](https://open.spotify.com/album/55Rp2BlzyUGOCLsWlVJW37) | 3:13 |
 | 48 | [Do Jeito Que Tá](https://open.spotify.com/track/28U2BaYuJwKAJCXkHFY9gg) | [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0) | [Ludom](https://open.spotify.com/album/26IYcGfNDKIlDboihQ6XOn) | 3:41 |

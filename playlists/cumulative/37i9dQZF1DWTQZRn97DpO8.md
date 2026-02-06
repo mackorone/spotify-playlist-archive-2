@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : Myra
+> 🍯🍯🍯<br/>Photo : Iris Aeria
 
-517 songs - 1 day 1 hr 28 min
+521 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [15 ans](https://open.spotify.com/track/7DD6DvfuWsWCKLCfzHRgQa) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin : Prequel](https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z) | 2:51 | 2024-12-05 | 2025-06-06 |
 | [2 Options](https://open.spotify.com/track/4qUXv1dLUiVvbAn09Xb4KR) | [Joey Mata](https://open.spotify.com/artist/1j9G432vkHbVQuxMSgnszE) | [2 Options](https://open.spotify.com/album/5QGxicgtI8EbOGneOgmfCi) | 2:30 | 2025-12-04 | 2026-01-16 |
 | [2 SANS TOI](https://open.spotify.com/track/0UxendkYDaSG6uMbfMn6y8) | [Othélie](https://open.spotify.com/artist/7e0NJkHuckuwmgxKi4aQ7S) | [2 SANS TOI](https://open.spotify.com/album/5yb1RF0iX0msFqQrV6mJvL) | 2:32 | 2024-04-04 | 2024-05-03 |
+| [20S](https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [20S](https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9) | 3:04 | 2026-02-05 |  |
 | [21 grammes](https://open.spotify.com/track/2VmU3kVFlvzhVM1YbFNO8v) | [Flo Malley](https://open.spotify.com/artist/30HRLwtkyjmXNwoUe0eDa5) | [21 grammes](https://open.spotify.com/album/1nxvBxZUlw5328QkJfLfKv) | 2:42 | 2025-05-22 | 2025-06-20 |
 | [21 questions](https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW) | [Zahra!](https://open.spotify.com/artist/3V2sID96mN3WFBcv7qu6gl) | [21 questions](https://open.spotify.com/album/7JREGYNPEKkXKHM2oBHCtb) | 3:10 | 2024-08-08 | 2024-12-20 |
 | [777](https://open.spotify.com/track/42e9HfXNoupybWl2RcnCTp) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [YAPI](https://open.spotify.com/album/6iDjU53fVXp9BB80hntvHT) | 3:05 | 2026-01-29 |  |
@@ -145,6 +146,7 @@
 | [ELLE NE VEUT QUE](https://open.spotify.com/track/25bJTUy3ByJUqXN3QUhIlj) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 2:31 | 2025-02-27 | 2025-05-30 |
 | [Elle qui commande](https://open.spotify.com/track/1jm2exfpjraErGoA5F1YhG) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1), [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Porn Winter](https://open.spotify.com/album/5zPg1VPabOYoZpi07a923U) | 2:55 | 2025-01-16 | 2025-05-09 |
 | [En apesanteur](https://open.spotify.com/track/0veCuEH5urr4nxUKhDyIyM) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [En apesanteur](https://open.spotify.com/album/0yeTO47saqkxI71QCO1vNJ) | 3:29 | 2025-02-20 | 2025-05-23 |
+| [En corps](https://open.spotify.com/track/2xZt4HhUoqog3riccMdQXM) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM) | [En corps](https://open.spotify.com/album/1muVywGqeT5bmdMQ3VViwj) | 2:02 | 2026-02-05 |  |
 | [EN ITALIQUE](https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl) | [EN ITALIQUE](https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi) | 2:55 | 2026-01-29 |  |
 | [Encaisser](https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I) | [Ceddy](https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk), [Nola Cherri](https://open.spotify.com/artist/619I9NuGM8wQklavu1cjRj) | [Encaisser](https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5) | 3:23 | 2023-09-28 | 2023-11-17 |
 | [ENCORE](https://open.spotify.com/track/4da473DORqqfLBm8Vff4pD) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [ENCORE](https://open.spotify.com/album/3WZ2Fq5OE9RUW1WAwk6gey) | 2:50 | 2025-02-27 | 2025-11-07 |
@@ -250,6 +252,8 @@
 | [La Fièvre](https://open.spotify.com/track/4g0B10CF5KjPAbFBYbICQ8) | [Oscar Emch](https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm) | [La Fièvre](https://open.spotify.com/album/3T05O95au36enyj7CLeDoT) | 4:21 | 2024-12-05 | 2025-01-24 |
 | [La Maison De Lise](https://open.spotify.com/track/2N0yamJDAkgjlzYjCji0Ou) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [L.O.V.E](https://open.spotify.com/album/6ZAqh9t4bxKbhCywbbtCVh) | 3:04 | 2024-05-16 | 2024-06-28 |
 | [La mienne](https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 3:32 | 2023-09-28 | 2024-03-08 |
+| [La paix](https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a), [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan) | [La paix](https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe) | 3:12 | 2026-02-05 |  |
+| [Laisse\-la devenir](https://open.spotify.com/track/0pLWqflDJwDftgk3Kd3U6o) | [Dorysse](https://open.spotify.com/artist/4uC2fePQOK7z2qeu0j6Wjk) | [Laisse\-la devenir](https://open.spotify.com/album/63Vu1RAGy74s3LtyR8zVue) | 4:16 | 2026-02-05 |  |
 | [Laissez\-moi](https://open.spotify.com/track/23OElriSAhtF7Y2L4qw2yb) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Premier pétale](https://open.spotify.com/album/135Blnc2l4f5iIPVOf9RHe) | 3:12 | 2025-02-13 | 2025-07-04 |
 | [Larry Hoover](https://open.spotify.com/track/2O0sGz4vtBrmzcOVtaWszI) | [Ladogz](https://open.spotify.com/artist/0Je5Gj6UNZ5nrOi6SSVSJJ), [Alicia.](https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU) | [Larry Hoover](https://open.spotify.com/album/7zpKSAWCKvdHw5Wu1NLXIO) | 2:12 | 2025-05-29 | 2025-06-20 |
 | [Le bruit de la fête](https://open.spotify.com/track/6jWi0sPPiGAKSQxiNR2oGo) | [Reÿn](https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF) | [Le bruit de la fête](https://open.spotify.com/album/5Xw1QeOUGwVzKdVHGn2Vh4) | 3:11 | 2025-05-08 | 2025-06-06 |
@@ -359,7 +363,7 @@
 | [Parisienne High Level](https://open.spotify.com/track/5OYJXif1vzHZFvFORFBpvI) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Parisienne High Level](https://open.spotify.com/album/6jvxhfExqa59zUlIIrCHUp) | 2:31 | 2024-02-29 | 2024-12-13 |
 | [pas si bien](https://open.spotify.com/track/1k8E3rowxVRmLjHXWdQLbI) | [Kïerra](https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ) | [pas si bien](https://open.spotify.com/album/4pWDELdeqvvSMU2YuZA9KN) | 3:30 | 2026-01-01 | 2026-01-23 |
 | [PASSION](https://open.spotify.com/track/7BIcVSsgAL92atRGg5hpub) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [PASSION](https://open.spotify.com/album/4ytoLNIfOmvPGmCW6wAFjE) | 2:40 | 2025-11-27 | 2026-01-30 |
-| [PATRONNE](https://open.spotify.com/track/1uqD8JUp0YGMvq8WxzEBfn) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [PATRONNE](https://open.spotify.com/album/3JQAZwkShZeDz59VWrrw8Y) | 2:46 | 2025-11-13 |  |
+| [PATRONNE](https://open.spotify.com/track/1uqD8JUp0YGMvq8WxzEBfn) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [PATRONNE](https://open.spotify.com/album/3JQAZwkShZeDz59VWrrw8Y) | 2:46 | 2025-11-13 | 2026-02-06 |
 | [Peine perdue](https://open.spotify.com/track/5BhMrUx8Vkm7C6eq7MRW5N) | [Bluuchyd](https://open.spotify.com/artist/6XNamyfKXLfPAxvkYhAAv1), [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [Peine perdue](https://open.spotify.com/album/5dkcZ1YCd6sdiluFPM8nMJ) | 1:52 | 2025-10-16 | 2025-11-28 |
 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 | 2024-11-14 | 2025-11-07 |
 | [Pense à moi](https://open.spotify.com/track/3RDtAL1G5w8wP48BUfyP1h) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Pense à moi](https://open.spotify.com/album/2GYitgU6elNH7vlCqQvbKE) | 3:24 | 2024-02-15 | 2024-05-10 |
@@ -485,7 +489,7 @@
 | [Tout recommencer](https://open.spotify.com/track/3jybB7p4kE9ROW1JqPxenP) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Tout recommencer](https://open.spotify.com/album/5toFeOB6XFjieqy1xwCS3R) | 3:17 | 2025-10-09 | 2025-12-12 |
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2025-01-31 |
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 | 2025-12-19 |
-| [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 |  |
+| [TOXIC/CHILL](https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw) | [Stellio](https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq) | [TOXIC/CHILL](https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6) | 2:25 | 2025-12-18 | 2026-02-06 |
 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 | 2025-10-02 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trigger](https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Trigger](https://open.spotify.com/album/0N3RhNmBlxnBF5YxWy26Hu) | 2:16 | 2025-11-20 | 2025-12-19 |
@@ -497,7 +501,7 @@
 | [Tu mens mal](https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tu mens mal](https://open.spotify.com/album/7xkT6u3xmwFtVoBmaeH8Nh) | 3:46 | 2023-09-28 | 2024-04-12 |
 | [tu pleureras](https://open.spotify.com/track/0txjuBejOtziB6YX7XEkJE) | [HASNA](https://open.spotify.com/artist/30ZYb42MwDzkubaZm2GEoq) | [tu pleureras](https://open.spotify.com/album/5MAt7WDa0bL9bShnQ2aHWQ) | 1:57 | 2024-08-01 | 2024-09-20 |
 | [Tu sais que](https://open.spotify.com/track/5CvsjxPwSteTgzyuPaCHs7) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Tu sais que](https://open.spotify.com/album/1N6CR2fwPgQ4Yco4002iJN) | 2:40 | 2024-02-01 | 2024-03-29 |
-| [tu voulais](https://open.spotify.com/track/4lhe9Ah4ryYJxZT6XsBKMG) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tu voulais](https://open.spotify.com/album/1alXI155IoXvODtL6h2W3T) | 2:22 | 2025-12-11 |  |
+| [tu voulais](https://open.spotify.com/track/4lhe9Ah4ryYJxZT6XsBKMG) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tu voulais](https://open.spotify.com/album/1alXI155IoXvODtL6h2W3T) | 2:22 | 2025-12-11 | 2026-02-06 |
 | [Télécommande](https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Nemir](https://open.spotify.com/artist/5f6nz3iqzrfiUfKOIKvLvd) | [Télécommande](https://open.spotify.com/album/6krz5mD2pn0ZcGsrSidtR9) | 2:55 | 2024-02-22 | 2024-04-19 |
 | [Témoin](https://open.spotify.com/track/3oAeLtP06SAeztPQwKUip4) | [Heza](https://open.spotify.com/artist/2dNXAcbcjLYoPbcDM1Hvs1) | [Témoin](https://open.spotify.com/album/11G2GTJeEW5Wt3ob2B9rcf) | 2:48 | 2025-01-23 | 2025-02-21 |
 | [Tête baissée](https://open.spotify.com/track/3vURw5oYfUhrLOKQiZkC4A) | [Saintdoss](https://open.spotify.com/artist/7uJX35B4qOcB5E8R7796s4) | [Tête baissée](https://open.spotify.com/album/6zqyZXsEh0Zo6MYbxZBNRM) | 2:08 | 2025-08-07 | 2025-10-10 |
@@ -519,7 +523,7 @@
 | [WHAT U WANT](https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 2:15 | 2024-11-07 | 2025-01-10 |
 | [Who's Bad](https://open.spotify.com/track/7bXXKJHrBtiXx8tSf1OHUm) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin : Prequel](https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z) | 2:47 | 2024-11-28 | 2025-03-21 |
 | [Yoncé](https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW) | [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh) | [GOLD DIGGER](https://open.spotify.com/album/6rWakywtTCeU6sOCu0NmNI) | 3:05 | 2024-05-02 | 2024-09-13 |
-| [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Je ne parlerai plus d'amour](https://open.spotify.com/album/1wz9KckimITRnA6lyRi3sP) | 3:52 | 2025-09-25 |  |
+| [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Je ne parlerai plus d'amour](https://open.spotify.com/album/1wz9KckimITRnA6lyRi3sP) | 3:52 | 2025-09-25 | 2026-02-06 |
 | [À fond dedans](https://open.spotify.com/track/0TtOlL08aBpUtifSV5OdH8) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [À fond dedans](https://open.spotify.com/album/7JYoOFXZnD5ez4KkzB8CyF) | 3:30 | 2024-05-30 | 2024-07-19 |
 | [À la Hauteur](https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR) | [Pbl](https://open.spotify.com/artist/2ErtP3QGjQ4j7qQk3ORl3j), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [À la Hauteur](https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t) | 2:44 | 2024-05-16 | 2024-07-19 |
 | [À LA PERFECTION](https://open.spotify.com/track/3nx8xlv6c3WTXbHYEjR4XS) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [À LA PERFECTION](https://open.spotify.com/album/0ddFtQze2uq1BIFkWluejw) | 3:14 | 2024-05-30 | 2024-12-13 |

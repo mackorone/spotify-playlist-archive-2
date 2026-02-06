@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 764409,
+  "num_followers": 764435,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADoAy7XwnA8nLnVnSvcuvUX",
+  "snapshot_id": "aYKMAAAAAADcprsmIoFWu8fmWa2SKIsK",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 175053,
-      "name": "El Ejemplo",
-      "url": "https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T"
+      "duration_ms": 203826,
+      "name": "Qui\u00e9n",
+      "url": "https://open.spotify.com/track/6mdvilly3zBePvaMy5PGmB"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Qui\u00e9n",
-      "url": "https://open.spotify.com/track/6mdvilly3zBePvaMy5PGmB"
+      "duration_ms": 175053,
+      "name": "El Ejemplo",
+      "url": "https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herencia De Familia",
         "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 240226,
       "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
       "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Los Tres Amigos",
-      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 194133,
       "name": "Unidos Para Siempre",
       "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Los Tres Amigos",
+      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Cari\u00f1o Donde Andaras",
-      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
+      "duration_ms": 181306,
+      "name": "Mi Sangre Prisionera",
+      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Mi Sangre Prisionera",
-      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
+      "duration_ms": 172666,
+      "name": "Cari\u00f1o Donde Andaras",
+      "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
     },
     {
       "added_at": null,

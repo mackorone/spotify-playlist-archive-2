@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,256 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,295 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,15 +109,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 99 | [Look At Miss Ohio](https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 4:16 |
 | 100 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8) | 2:36 |
 | 101 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 |
-| 102 | [Copperhead Road](https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road \(Deluxe Edition\)](https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX) | 4:30 |
+| 102 | [Traveling Alone](https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone \(Bonus Track Version\)](https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw) | 4:44 |
 | 103 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 |
 | 104 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |
-| 105 | [Walking Back To Georgia](https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T) | 2:51 |
-| 106 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 |
-| 107 | [The Galway Girl](https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transendental Blues](https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm) | 3:05 |
+| 105 | [Copperhead Road](https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road \(Deluxe Edition\)](https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX) | 4:30 |
+| 106 | [Walking Back To Georgia](https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T) | 2:51 |
+| 107 | [I Feel the Earth Move](https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 2:58 |
 | 108 | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/track/727Ric7BCNuahIETyOALEU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt) | 2:41 |
 | 109 | [The Way It Goes](https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [The Harrow & The Harvest](https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0) | 4:01 |
-| 110 | [Traveling Alone](https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone \(Bonus Track Version\)](https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw) | 4:44 |
+| 110 | [The Galway Girl](https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transendental Blues](https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm) | 3:05 |
 | 111 | [All The Lilacs In Ohio](https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Leftover Feelings](https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs) | 3:29 |
 | 112 | [High Hopes](https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [High Hopes](https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2) | 4:56 |
 | 113 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 |

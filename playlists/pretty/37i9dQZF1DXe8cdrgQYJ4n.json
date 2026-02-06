@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 20486,
+  "num_followers": 20493,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2026-01-30 07:29:49",
+      "album": {
         "name": "Chaotic & Confused",
         "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2026-01-30 07:29:49",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
-        "name": "Pity Party",
-        "url": "https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
-    },
-    {
-      "added_at": "2026-01-30 07:29:49",
-      "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 216806,
       "name": "HeartBROKEN PlaYBoY",
       "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
+    },
+    {
+      "added_at": "2026-01-30 07:29:49",
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
     },
     {
       "added_at": "2026-01-30 07:29:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
-        "name": "Metamorphic",
-        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Flexing On My Ex",
-      "url": "https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB"
-    },
-    {
-      "added_at": "2026-01-30 07:29:49",
-      "album": {
         "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
         "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 180320,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "added_at": "2026-01-30 07:29:49",
+      "album": {
+        "name": "Metamorphic",
+        "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Flexing On My Ex",
+      "url": "https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

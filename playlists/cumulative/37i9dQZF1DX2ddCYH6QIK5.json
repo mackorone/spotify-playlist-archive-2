@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: JANKA, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: COSM\u00d3, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 100595,
       "name": "Avocado",
       "url": "https://open.spotify.com/track/1LpGT0v4E2JLNXbJDoM30x"
@@ -6932,7 +6932,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 144830,
       "name": "Du bist wie",
       "url": "https://open.spotify.com/track/4RjV7KgAaGvujkv1rpifRU"
@@ -13375,6 +13375,24 @@
     },
     {
       "album": {
+        "name": "Jeanie",
+        "url": "https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi"
+      },
+      "artists": [
+        {
+          "name": "Dreamboys The Band",
+          "url": "https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
+    },
+    {
+      "album": {
         "name": "Jeany",
         "url": "https://open.spotify.com/album/4j4xh2NA2QHB1cORCMNCLk"
       },
@@ -15920,7 +15938,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179144,
       "name": "l\u00fcge",
       "url": "https://open.spotify.com/track/1JiUWjoYn3GVwJg4dw6dMR"
@@ -16136,7 +16154,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 160000,
       "name": "Mann im Mond",
       "url": "https://open.spotify.com/track/23G9Y9YjFY7faYiVt292F5"
@@ -17653,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "niemand",
+        "url": "https://open.spotify.com/album/6Aof5vFWkT8V9AKjAiNkgb"
+      },
+      "artists": [
+        {
+          "name": "vivie",
+          "url": "https://open.spotify.com/artist/3OhNcBi5VK0Zl6uzSdQ8NA"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169733,
+      "name": "niemand",
+      "url": "https://open.spotify.com/track/7HliIujjPo4rMledIPT8n5"
+    },
+    {
+      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ"
       },
@@ -17704,7 +17740,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 134237,
       "name": "NO BREAKS",
       "url": "https://open.spotify.com/track/2mrqjvOFkm5uy6kQXGut0j"
@@ -18047,6 +18083,24 @@
     },
     {
       "album": {
+        "name": "Nothing Worth Waiting for More",
+        "url": "https://open.spotify.com/album/6VL4pHP3Zjnf2Svth0zx63"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Leonard",
+          "url": "https://open.spotify.com/artist/3q8JznVk7WcASq4RgADnIZ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Nothing Worth Waiting for More",
+      "url": "https://open.spotify.com/track/4Z2FlUGApb50DfLKhioyuH"
+    },
+    {
+      "album": {
         "name": "Nous Aimons on 80BPM",
         "url": "https://open.spotify.com/album/3M2T4YAjtlU5Ow7LwOEnMt"
       },
@@ -18152,7 +18206,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 160438,
       "name": "Nur f\u00fcr dich",
       "url": "https://open.spotify.com/track/1pA9RFirAVesU2s0bWFMia"
@@ -21851,6 +21905,24 @@
     },
     {
       "album": {
+        "name": "SCREW IT",
+        "url": "https://open.spotify.com/album/2xEUdhWEogZ8X9kxe5rCTG"
+      },
+      "artists": [
+        {
+          "name": "AYLA",
+          "url": "https://open.spotify.com/artist/37Cx3aSscKs8FbUoGuFPaa"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "SCREW IT",
+      "url": "https://open.spotify.com/track/1IiK2uaxK6rlkePCOLjwW2"
+    },
+    {
+      "album": {
         "name": "Search Bar",
         "url": "https://open.spotify.com/album/4rBi5KLTIImhBZeSr6lmmH"
       },
@@ -23463,6 +23535,24 @@
     },
     {
       "album": {
+        "name": "Starstruck",
+        "url": "https://open.spotify.com/album/6pnwQy5j5j4MNWpkWuHdto"
+      },
+      "artists": [
+        {
+          "name": "schluma",
+          "url": "https://open.spotify.com/artist/2nfihDe8pRLj0ssFCvPnNP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88052,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/0JlrMKPzlnrqWFD9Ehb6YJ"
+    },
+    {
+      "album": {
         "name": "Start The Car",
         "url": "https://open.spotify.com/album/0tLUu6ux8WuCEqUSlND54m"
       },
@@ -24458,6 +24548,24 @@
       "duration_ms": 190906,
       "name": "Tanqueray",
       "url": "https://open.spotify.com/track/3hE0sM7MAuQHff2t0Le2dK"
+    },
+    {
+      "album": {
+        "name": "TANZSCHEIN",
+        "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
+      },
+      "artists": [
+        {
+          "name": "COSM\u00d3",
+          "url": "https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162548,
+      "name": "TANZSCHEIN",
+      "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
       "album": {
@@ -26784,7 +26892,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 128347,
       "name": "VIENNA",
       "url": "https://open.spotify.com/track/0fqxpiBwqWqXpzLFU8Wx3K"
@@ -28408,6 +28516,24 @@
       "duration_ms": 185629,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/5SqsoQjt86sbayXcW5XCiD"
+    },
+    {
+      "album": {
+        "name": "woodland",
+        "url": "https://open.spotify.com/album/1SSCbEGFZoL9oMSjHRrtRl"
+      },
+      "artists": [
+        {
+          "name": "XANKY",
+          "url": "https://open.spotify.com/artist/27mccRMgKxAPbZqRxHh7HM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180581,
+      "name": "woodland",
+      "url": "https://open.spotify.com/track/2Ggqu5072GCFBI5mfgBqU4"
     },
     {
       "album": {

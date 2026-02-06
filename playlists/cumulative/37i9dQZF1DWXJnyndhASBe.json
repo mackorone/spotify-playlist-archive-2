@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: M\u0142ody West",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Tax Free, Malik Montana, Kazior",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 148187,
       "name": "CA\u0141E LATO",
       "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
@@ -5186,7 +5186,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 127211,
       "name": "DWA RAZY TYLE",
       "url": "https://open.spotify.com/track/2nIyuz4f11SjDi32mcSCnL"
@@ -7642,7 +7642,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 213333,
       "name": "Imago",
       "url": "https://open.spotify.com/track/1IeAQJe21bqjWEeMrlD2zt"
@@ -8698,7 +8698,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 147187,
       "name": "KIERUNEK PARY\u017b",
       "url": "https://open.spotify.com/track/1sEabWfcdGdyaaLcC90nux"
@@ -8932,6 +8932,24 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/2H9tCcNpAQXtBSDmCRpra2"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170344,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/1WEWw4wlvHTpEQVHRqAhEg"
     },
     {
       "album": {
@@ -9520,7 +9538,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 149268,
       "name": "LET THE BAND PLAY",
       "url": "https://open.spotify.com/track/1uD4fOkuyUATO5LC4U9qc2"
@@ -11082,7 +11100,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 153402,
       "name": "mi\u00fc mi\u00fc",
       "url": "https://open.spotify.com/track/5orCpZpRAFglX3rtvw9kel"
@@ -15449,6 +15467,28 @@
     },
     {
       "album": {
+        "name": "PRAGNIE\u0143 BRAK",
+        "url": "https://open.spotify.com/album/076bMlMPKEhb0OM7tyWiJC"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Gmeniu",
+          "url": "https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "PRAGNIE\u0143 BRAK",
+      "url": "https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se"
+    },
+    {
+      "album": {
         "name": "PRAWDZIWY RAP",
         "url": "https://open.spotify.com/album/2MAK9tPDUGzCcbcOzgnkzT"
       },
@@ -16062,6 +16102,36 @@
       "duration_ms": 177933,
       "name": "Quattro",
       "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
+    },
+    {
+      "album": {
+        "name": "Raffles",
+        "url": "https://open.spotify.com/album/1Ud1zphibbmsOJlA5cCr2X"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130333,
+      "name": "Raffles",
+      "url": "https://open.spotify.com/track/4ya0nxb8Eq7PG4pE6q0JWA"
     },
     {
       "album": {
@@ -16889,6 +16959,40 @@
     },
     {
       "album": {
+        "name": "Samotnie",
+        "url": "https://open.spotify.com/album/1iEPlhIPMAhTNgqFUVVG7L"
+      },
+      "artists": [
+        {
+          "name": "Oliver Olson",
+          "url": "https://open.spotify.com/artist/70ArguSAsID4vw7dOl40VN"
+        },
+        {
+          "name": "Nicole Tymcio",
+          "url": "https://open.spotify.com/artist/09deB3EjQt1Zkm3PgQo7Xd"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        },
+        {
+          "name": "DOPEHOUSE",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185034,
+      "name": "Samotnie",
+      "url": "https://open.spotify.com/track/5M2sNASahXwekfvbfSqmCg"
+    },
+    {
+      "album": {
         "name": "Samotno\u015b\u0107",
         "url": "https://open.spotify.com/album/4hwkvB5RdaCAITCoaNZz1z"
       },
@@ -16926,7 +17030,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 130612,
       "name": "SEN SI\u0118 ZI\u015aCI\u0141",
       "url": "https://open.spotify.com/track/5P4nG55t9HBoWPscbK5lv3"
@@ -17818,6 +17922,28 @@
       "duration_ms": 206666,
       "name": "SUV BOOMER",
       "url": "https://open.spotify.com/track/5wV89EJha4eOcOdzp17I2Z"
+    },
+    {
+      "album": {
+        "name": "ARROGANT RADIO 1.5",
+        "url": "https://open.spotify.com/album/5u77oNG1pmKJnh5xiLg077"
+      },
+      "artists": [
+        {
+          "name": "Kosior",
+          "url": "https://open.spotify.com/artist/4kIRYVMcgUBEBaqdA0nLWX"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "SWAG DISEASE",
+      "url": "https://open.spotify.com/track/618Qh6DCeSZICtl8Ibst4A"
     },
     {
       "album": {
@@ -19557,6 +19683,32 @@
     },
     {
       "album": {
+        "name": "WAWA022",
+        "url": "https://open.spotify.com/album/6DHgCV4oanO3VdMa3dZVB0"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "WAWA022",
+      "url": "https://open.spotify.com/track/4aDA4UcSQhHa9jC0QivFhf"
+    },
+    {
+      "album": {
         "name": "Wbrew sobie",
         "url": "https://open.spotify.com/album/1uDDyNt7oZ2VeALCSBWyz1"
       },
@@ -19838,6 +19990,32 @@
       "duration_ms": 155500,
       "name": "WODA SODOWA",
       "url": "https://open.spotify.com/track/4cbr5VQHWMqvlMTPSa7da4"
+    },
+    {
+      "album": {
+        "name": "woda sodowa",
+        "url": "https://open.spotify.com/album/1H5tIdpL8igJFWmaIBYqAb"
+      },
+      "artists": [
+        {
+          "name": "zdunekk",
+          "url": "https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU"
+        },
+        {
+          "name": "Skibovicz",
+          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
+        },
+        {
+          "name": "prod. Liwi",
+          "url": "https://open.spotify.com/artist/4sLbHV0YOWKmOJcdIJMDsT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "woda sodowa",
+      "url": "https://open.spotify.com/track/3A0SqfVlxoNk8TSukgDGKL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1306298,
+  "num_followers": 1306307,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAABVCEWiXBqzyezmx7o/lmdC",
+  "snapshot_id": "aYKMAAAAAADx3+/Cd1kWvrhzB8Qs9WgE",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Tiene Mal",
+        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 250697,
+      "name": "Me Tiene Mal",
+      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Tiene Mal",
-        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 250697,
-      "name": "Me Tiene Mal",
-      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confiado y Tranquilo",
+        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 212819,
+      "name": "Confiado y Tranquilo",
+      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 218840,
       "name": "Necio (feat. LIT killah)",
       "url": "https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confiado y Tranquilo",
-        "url": "https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 212819,
-      "name": "Confiado y Tranquilo",
-      "url": "https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK"
     },
     {
       "added_at": null,
@@ -672,9 +672,25 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 142769,
-      "name": "SIN CADENAS",
-      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
+      "duration_ms": 119061,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 191186,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 119061,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r"
+      "duration_ms": 142769,
+      "name": "SIN CADENAS",
+      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 200733,
       "name": "Nothing On You (feat. Paulo Londra & Dave)",
       "url": "https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
     },
     {
       "added_at": null,

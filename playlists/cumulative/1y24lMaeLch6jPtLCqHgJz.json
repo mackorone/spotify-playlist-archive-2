@@ -3879,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "LEA KEY",
+          "url": "https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm"
+    },
+    {
+      "album": {
         "name": "Head In The Clouds",
         "url": "https://open.spotify.com/album/3IpGNw2lxNQWOaO4SsOZuG"
       },

@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-161 songs - 10 hr 48 min
+162 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 | 2023-03-03 |  |
 | [La Guaracha del Fay Fay](https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt) | [Rene Inostroza](https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O) | [Lo Mejor 25 Éxitos](https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4) | 2:34 | 2023-03-03 |  |
 | [La Mesa 20](https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:13 | 2023-03-03 |  |
+| [La Micaela](https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [La Micaela](https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT) | 3:15 | 2025-09-18 |  |
 | [La Noche Perfecta](https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Noche Perfecta](https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K) | 4:25 | 2023-09-15 |  |
 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 | 2023-05-29 |  |
 | [La Paliza](https://open.spotify.com/track/4qWBPa4f21TTCtrDI95IrG) | [Josepth el Ranchero](https://open.spotify.com/artist/0Sbh70Uh5JuiHCjXXql0nT) | [Pisando Fuerte](https://open.spotify.com/album/73FNvltKoEE8HeZ9eO5j9Y) | 3:56 | 2023-03-03 | 2023-09-13 |
@@ -110,7 +111,7 @@
 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 | 2023-03-03 |  |
 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 | 2023-05-29 |  |
 | [Michelada](https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Michelada](https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ) | 2:42 | 2023-03-03 | 2025-05-21 |
-| [Mil Cantinas](https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:30 | 2023-03-03 |  |
+| [Mil Cantinas](https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:30 | 2023-03-03 | 2026-02-06 |
 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 | 2023-03-03 | 2026-01-15 |
 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 | 2024-06-12 |  |
 | [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2023-03-03 |  |

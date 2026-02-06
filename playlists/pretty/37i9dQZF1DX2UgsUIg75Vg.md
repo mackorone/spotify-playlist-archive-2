@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,936 likes - 260 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,954 likes - 260 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

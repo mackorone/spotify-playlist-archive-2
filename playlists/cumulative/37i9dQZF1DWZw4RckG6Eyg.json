@@ -6931,6 +6931,24 @@
     },
     {
       "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/0FPGsItA3jmGj67TdPAXCI"
+      },
+      "artists": [
+        {
+          "name": "Armlock",
+          "url": "https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220422,
+      "name": "Strobe",
+      "url": "https://open.spotify.com/track/4MPjKNnWBLXEyz9S7sYKIJ"
+    },
+    {
+      "album": {
         "name": "Sugar Rush",
         "url": "https://open.spotify.com/album/1VsDxN8jgziHdGxw2KfNDr"
       },
@@ -7754,7 +7772,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 298776,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI"

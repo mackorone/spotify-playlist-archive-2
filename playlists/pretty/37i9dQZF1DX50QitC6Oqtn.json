@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3384417,
+  "num_followers": 3384228,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - From the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Real Love - From the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "7 Minutes",
         "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 211453,
       "name": "7 Minutes",
       "url": "https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 194686,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Hey Stupid, I Love You",
         "url": "https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 181000,
       "name": "Hey Stupid, I Love You",
       "url": "https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2022-12-08 16:33:34",

@@ -4,10 +4,11 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Zach Bryan
 
-660 songs - 1 day 15 hr 59 min
+661 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 Mile From Heaven](https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE) | [Calvin Love](https://open.spotify.com/artist/4BGm5j3zsc5NU2BM1ihlA4) | [1 Mile From Heaven](https://open.spotify.com/album/2mOWMR3alIP6kyzxcThPRv) | 5:01 | 2026-01-30 |  |
 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 | 2025-09-26 |  |
 | [20 Somethin'](https://open.spotify.com/track/4lHPNTdXSUfsVMQk0nuP82) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [20 Somethin'](https://open.spotify.com/album/0ZkNmLA4MBUDhi7Ck8iIqR) | 3:56 | 2023-01-20 | 2023-05-01 |
 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2024-07-05 | 2025-07-14 |
@@ -355,7 +356,7 @@
 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 | 2023-06-23 | 2023-07-13 |
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2025-10-18 |
-| [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 | 2025-08-29 |  |
+| [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 | 2025-08-29 | 2026-02-06 |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Lightning in July \(Prairie Fire\)](https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas / Lightning in July \(Prairie Fire\)](https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ) | 4:02 | 2024-08-09 | 2024-10-19 |
 | [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 | 2026-01-16 |  |

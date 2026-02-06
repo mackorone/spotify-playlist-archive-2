@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo beat e rime avvolgenti. Cover: Tony Boy",
+  "description": "Solo beat e rime avvolgenti. Cover: Marracash",
   "name": "Mezzanotte Chill Rap",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 150000,
       "name": "APPOSTA X TE",
       "url": "https://open.spotify.com/track/5bsw3l44gczX0hsLdopIci"
@@ -2303,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Ferite (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/369X8bN7JVS7jTraMgD6n7"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "Ferite (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/6VE7Ht4DNWEfiWJVvp5hBt"
+    },
+    {
+      "album": {
         "name": "NO REGULAR MUSIC 2",
         "url": "https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1"
       },
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170226,
       "name": "LACRIME E SORRISI",
       "url": "https://open.spotify.com/track/0FwI9kFFZuMYqN1jbnc4G1"
@@ -5826,6 +5848,24 @@
       "duration_ms": 178624,
       "name": "Solo Per Me (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC"
+    },
+    {
+      "album": {
+        "name": "SONO PERSA",
+        "url": "https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171766,
+      "name": "SONO PERSA",
+      "url": "https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6"
     },
     {
       "album": {

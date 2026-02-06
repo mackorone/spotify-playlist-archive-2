@@ -4,7 +4,7 @@
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 31 min
+94 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Big Bad Wolf](https://open.spotify.com/track/0re1RmFKkVf4KrQ3ql5bzK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:53 | 2026-02-01 |  |
 | [Blood](https://open.spotify.com/track/0CZTaVSntZY58fdKS52WAb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 4:32 | 2024-03-09 | 2024-06-01 |
 | [Can't Cure This](https://open.spotify.com/track/30yKtsU0Mdxa1RT9Oetlnz) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:41 | 2025-09-23 | 2025-11-22 |
-| [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 | 2023-12-18 | 2026-02-01 |
+| [Covering](https://open.spotify.com/track/79RRMy751roUzddljSSgbt) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:13 | 2023-12-18 |  |
 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 | 2026-02-01 |  |
 | [Dracula \(Nate Sees Cassie\)](https://open.spotify.com/track/6Ka7QW7OFeYnuDcYJaDJSA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:48 | 2024-08-13 | 2024-08-28 |
 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 | 2023-12-18 |  |
@@ -39,7 +39,8 @@
 | [I Keep My Promises](https://open.spotify.com/track/747UqV4c6NOgRXqKCFRtrx) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:04 | 2026-02-01 |  |
 | [I Pray For You \(feat\. Labrinth & MALICE\)](https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 4:21 | 2024-06-01 | 2026-01-19 |
 | [ICE \(We Should Do Drugs\)](https://open.spotify.com/track/6cIve9jrdy8qBm4YLswXoB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:45 | 2025-03-06 | 2025-05-07 |
-| [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-21 |  |
+| [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 | 2025-11-21 | 2026-02-06 |
+| [IMPLOSION](https://open.spotify.com/track/5v69y5vJhDy8YJ2blZoO1Y) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:20 | 2026-02-06 |  |
 | [Incredible \(AWEN Remix\)](https://open.spotify.com/track/2AY4ZQ8Uzz0nbwJr0dLUsU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Reasonable Remixes 1](https://open.spotify.com/album/67wMwSJ4tkhJtb8qAetnTO) | 5:43 | 2024-11-03 | 2024-12-04 |
 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 | 2024-04-07 | 2026-02-01 |
 | [into the black hole](https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:59 | 2026-02-01 |  |
@@ -70,7 +71,7 @@
 | [Power Couple](https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:30 | 2023-12-18 |  |
 | [Pull Me In](https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Prelude](https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l) | 2:36 | 2025-09-21 |  |
 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 | 2024-10-07 | 2025-07-12 |
-| [S.W.M.F.](https://open.spotify.com/track/2FWp7JYezuDLJ2MsObBXYQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:08 | 2026-02-02 |  |
+| [S.W.M.F.](https://open.spotify.com/track/2FWp7JYezuDLJ2MsObBXYQ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:08 | 2026-02-02 | 2026-02-06 |
 | [S.W.M.F.](https://open.spotify.com/track/4NzzYQ0sWySF8pZd0qsVet) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2VGWPhXYmbO1bnIBEDAr0v) | 3:08 | 2025-05-07 | 2025-06-03 |
 | [S.W.M.F.](https://open.spotify.com/track/4cbETMfcRMcFWBpEo1JD6Y) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [God Spoke](https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke) | 3:08 | 2026-01-24 | 2026-02-02 |
 | [S.W.M.F\. \- Edit](https://open.spotify.com/track/6kfvLmh6Lxvk0L2glYUYkL) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [S.W.M.F.](https://open.spotify.com/album/2sfHdpolaidE0tV9uBfLqG) | 2:26 | 2025-06-03 | 2025-08-05 |

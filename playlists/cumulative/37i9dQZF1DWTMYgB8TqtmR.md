@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,029 songs - 2 day 3 hr 36 min
+1,031 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-09-28 | 2023-11-03 |
 | [Ammunition](https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:42 | 2024-02-08 | 2024-04-19 |
 | [Andas in andas ut](https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Andas in andas ut](https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen) | 2:36 | 2023-04-20 | 2023-11-08 |
-| [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 | 2026-01-19 |  |
+| [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 | 2026-01-19 | 2026-02-06 |
 | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 | 2024-10-24 | 2024-11-12 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 | 2023-04-14 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 | 2025-06-06 |
@@ -87,7 +87,7 @@
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 |  |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 | 2023-09-22 |
 | [Baby Kom](https://open.spotify.com/track/0ObXx8JTavVADLWIwlHKBX) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Baby Kom](https://open.spotify.com/album/1x3xh4KUuOY7uVChPsFBZf) | 3:04 | 2025-06-24 | 2025-09-17 |
-| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-04-04 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-04-04 | 2026-02-06 |
 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 | 2024-10-24 | 2025-03-14 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-01-05 | 2023-04-14 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-03 | 2022-11-11 |
@@ -293,6 +293,7 @@
 | [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-17 | 2024-01-21 |
 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 | 2024-01-18 | 2024-02-23 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-02 | 2023-11-22 |
+| [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 | 2026-02-05 |  |
 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 | 2022-09-29 | 2022-10-22 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 | 2023-08-03 |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-04-12 | 2023-04-14 |
@@ -408,6 +409,7 @@
 | [Holding me more](https://open.spotify.com/track/4kV0TDGZChH1My78V6B3FW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Holding me more](https://open.spotify.com/album/6U8WUYtjLkZP3CG208XsPj) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-04-18 | 2024-04-30 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-08 | 2024-04-19 |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-05 |  |
 | [Hon sa](https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [En liten låtidé](https://open.spotify.com/album/6Efrrr4boSN6DWpSFbDTSN) | 3:04 | 2023-03-30 | 2023-04-28 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib) | 3:47 | 2024-05-08 | 2025-01-17 |
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-02-24 | 2023-03-10 |

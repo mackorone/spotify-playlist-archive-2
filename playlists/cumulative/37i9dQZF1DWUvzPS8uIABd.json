@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189052,
       "name": "Ainoa j\u00e4rki",
       "url": "https://open.spotify.com/track/2XF9JpN2brfbj4DV5pKiwQ"
@@ -4705,6 +4705,24 @@
     },
     {
       "album": {
+        "name": "Kaaos",
+        "url": "https://open.spotify.com/album/3Oh5cPkBCiBiEQU5ZdXEzp"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Kaaos",
+      "url": "https://open.spotify.com/track/2a3LeExjHj6AbfaVIUGret"
+    },
+    {
+      "album": {
         "name": "Kadut tiet\u00e4\u00e4",
         "url": "https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp"
       },
@@ -6233,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "album": {
         "name": "Kuningasidea",
         "url": "https://open.spotify.com/album/4a1yzEatpxd5U8VkejI3eW"
       },
@@ -6490,7 +6526,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
@@ -6988,7 +7024,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191488,
       "name": "limerence",
       "url": "https://open.spotify.com/track/4Lbb0AXiMlCw5vLlx6JWFo"
@@ -10656,6 +10692,32 @@
       "duration_ms": 183749,
       "name": "Per\u00e4valot (feat. Ellinoora)",
       "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
+    },
+    {
+      "album": {
+        "name": "PETSHOP",
+        "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "PETSHOP",
+      "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: Undercover Miss Hong (\uc5b8\ub354\ucee4\ubc84 \ubbf8\uc4f0\ud64d)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc740\uc560\ud558\ub294 \ub3c4\uc801\ub2d8\uc544 (To My Beloved Thief)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 264613,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq"
@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "Undercover Miss Hong OST Part.4",
+        "url": "https://open.spotify.com/album/09ws0yNmhahZcRhVo4B8Pr"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/2bAc5lIgEuoDOWtgMiIox7"
+    },
+    {
+      "album": {
         "name": "Dandelion (CURTAIN CALL OST Part.2)",
         "url": "https://open.spotify.com/album/4dM1bUDP6AQ2C0ZK3F0unO"
       },
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 256127,
       "name": "Dear my past self",
       "url": "https://open.spotify.com/track/0laoS4jmA6MAk3tBaWff0n"
@@ -9894,7 +9912,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 218000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6YjeUAGesbIozhBRBU9IIj"
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 204000,
       "name": "Love Me More (Our Movie : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/0UURDHnOn086dSgpsniO2a"
@@ -11430,6 +11448,24 @@
       "duration_ms": 205373,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0Tpvw9X2yWk2sb91GRca9u"
+    },
+    {
+      "album": {
+        "name": "No tail to tell, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7DDtjiqvZI9c3TlSYaAdRN"
+      },
+      "artists": [
+        {
+          "name": "CHAERYEONG (ITZY)",
+          "url": "https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
     },
     {
       "album": {
@@ -20001,6 +20037,24 @@
     },
     {
       "album": {
+        "name": "To My Beloved Thief, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/44WRSzIf5J3ccuvdym0aCY"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Words I Never Said",
+      "url": "https://open.spotify.com/track/0y0iug6LnWXJzDlW8inP8N"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.21",
         "url": "https://open.spotify.com/album/6g8FOyfEQ1vPbcNFMPzzHA"
       },
@@ -21144,6 +21198,24 @@
       "duration_ms": 228440,
       "name": "\uc5f0\uc560\ucd08\ubc18",
       "url": "https://open.spotify.com/track/2SkeRyhSD3QQwcLegGLOuC"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub298 \ubc24\uc740 \ucde8\ud574 \ubcfc\uac8c\uc694 (\uc601\ud654 \ubcf4\uc774 (Original Motion Picture Soundtrack))",
+        "url": "https://open.spotify.com/album/4XgHHYUWyvlOKo7oCniMOK"
+      },
+      "artists": [
+        {
+          "name": "ZO ZAZZ",
+          "url": "https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "\uc624\ub298 \ubc24\uc740 \ucde8\ud574 \ubcfc\uac8c\uc694",
+      "url": "https://open.spotify.com/track/2QfBVi4AgoRP1Hk0rn7A3J"
     },
     {
       "album": {

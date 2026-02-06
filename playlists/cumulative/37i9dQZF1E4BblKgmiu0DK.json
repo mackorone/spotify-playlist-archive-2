@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With blazingfairis, Static Palm Ritual, real silent bloom and more",
+  "description": "With blazingfairis, Static Palm Ritual, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Australia",
+        "url": "https://open.spotify.com/album/0hzxJTVH6hAfmvON2LBjrQ"
+      },
+      "artists": [
+        {
+          "name": "Lisa Perry Wildman",
+          "url": "https://open.spotify.com/artist/0EPciftc552c7jctRVCmB3"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240479,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/1Lhw2oczBqiGEghTpReCsT"
+    },
+    {
+      "album": {
         "name": "Slick Tsunami",
         "url": "https://open.spotify.com/album/3OhcvQIAaw41Q6D7IQkRdQ"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
+    },
+    {
+      "album": {
+        "name": "Before Dawn",
+        "url": "https://open.spotify.com/album/28E2vbBulGfEKD0auVn1Oz"
+      },
+      "artists": [
+        {
+          "name": "Static Palm Ritual",
+          "url": "https://open.spotify.com/artist/4sssNlLJSAIhiwMrVSHp9M"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129690,
+      "name": "Before Dawn",
+      "url": "https://open.spotify.com/track/15mITOWRU2Ff3CVT5lowQ7"
     },
     {
       "album": {
@@ -700,7 +736,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 94919,
       "name": "Certain Call",
       "url": "https://open.spotify.com/track/0X0TruhDU9hbzVSWzc1OM3"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 132900,
       "name": "Edge of the Edge",
       "url": "https://open.spotify.com/track/5RjVpzcBWF1tUUwW8dak0j"
@@ -1204,7 +1240,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 161676,
       "name": "Empty Heart",
       "url": "https://open.spotify.com/track/5Cp7WwRvjhOfkyMQdPZ8VQ"
@@ -1312,7 +1348,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 125660,
       "name": "Foggy Swells",
       "url": "https://open.spotify.com/track/2H5DpeH0VXigLvVyJB8OEj"
@@ -1806,7 +1842,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166250,
       "name": "Hellhound",
       "url": "https://open.spotify.com/track/12HqMjib07q7A5oUuICcTs"
@@ -1990,7 +2026,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 274999,
       "name": "I am free",
       "url": "https://open.spotify.com/track/0wAznXcKwvwRz6js95aUa0"
@@ -2206,7 +2242,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -2502,7 +2538,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -2650,7 +2686,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 172839,
       "name": "llama-interna",
       "url": "https://open.spotify.com/track/4WeIovHlVPJDnjMt86xm0B"
@@ -2938,7 +2974,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -3064,7 +3100,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 247639,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/1Cc5OSgvynOsuQPYGLuLJw"
@@ -3971,6 +4007,42 @@
     },
     {
       "album": {
+        "name": "Finding Reasons",
+        "url": "https://open.spotify.com/album/14M0hp3rGP9VOK0ZGQZrXs"
+      },
+      "artists": [
+        {
+          "name": "Gail Woolley",
+          "url": "https://open.spotify.com/artist/1gYPQ41DkXEDDtVhHPH5mj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Stories Of Virtue",
+      "url": "https://open.spotify.com/track/4Npl2rs7MZptFDPIzko4OM"
+    },
+    {
+      "album": {
+        "name": "Magic Forest",
+        "url": "https://open.spotify.com/album/6eSQOgtrg9yMEElF4nY6i8"
+      },
+      "artists": [
+        {
+          "name": "Leona Ellis",
+          "url": "https://open.spotify.com/artist/7IETVt8W73VpKpIMG069ko"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188628,
+      "name": "Strange Affections",
+      "url": "https://open.spotify.com/track/5a3Nba16ivRDsA6GrgFNjX"
+    },
+    {
+      "album": {
         "name": "FINO + BLEED",
         "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
@@ -4166,7 +4238,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"

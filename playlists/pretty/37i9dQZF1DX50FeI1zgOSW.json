@@ -1,13 +1,37 @@
 {
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : NV Vigneshwer Karthik",
-  "num_followers": 18302,
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
+  "num_followers": 18307,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAg7BXckZtNp48wJGEHn8tCs/krd",
+  "snapshot_id": "AAAAAH1G10zv2dMCz+HQH0rzhPQ8jJfl",
   "tracks": [
+    {
+      "added_at": "2026-01-30 04:48:10",
+      "album": {
+        "name": "Paatha Edathila",
+        "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
+      },
+      "artists": [
+        {
+          "name": "808Krshna",
+          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "duration_ms": 192984,
+      "name": "Paatha Edathila",
+      "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
+    },
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
@@ -47,30 +71,6 @@
       "duration_ms": 218181,
       "name": "Raajabhodai",
       "url": "https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO"
-    },
-    {
-      "added_at": "2026-01-30 04:48:10",
-      "album": {
-        "name": "Paatha Edathila",
-        "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
-      },
-      "artists": [
-        {
-          "name": "808Krshna",
-          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Adesh Krishna",
-          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
-        }
-      ],
-      "duration_ms": 192984,
-      "name": "Paatha Edathila",
-      "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
     },
     {
       "added_at": "2025-11-05 07:36:13",
@@ -699,30 +699,6 @@
       "duration_ms": 215923,
       "name": "Maatram Ondru Thaan Maaraadhathu (Salsa Tamil)",
       "url": "https://open.spotify.com/track/0MWJ21aO0EoQfMCMTkMMwr"
-    },
-    {
-      "added_at": "2026-01-16 11:51:24",
-      "album": {
-        "name": "Thaakurom Thookurom (From \"Cold Call\")",
-        "url": "https://open.spotify.com/album/5Ytt5JE4BHhKaSeUDENw16"
-      },
-      "artists": [
-        {
-          "name": "Pranav Giridharan",
-          "url": "https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104"
-        },
-        {
-          "name": "Armious",
-          "url": "https://open.spotify.com/artist/2Lwen2O86tyquPdASmAkY8"
-        },
-        {
-          "name": "El Fe' Choir",
-          "url": "https://open.spotify.com/artist/51Y4Ww9zzmDL0wX552LyX7"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Thaakurom Thookurom (From \"Cold Call\")",
-      "url": "https://open.spotify.com/track/7MPn5dXqTAAsVH9GSfmKYl"
     },
     {
       "added_at": "2026-01-09 19:30:11",

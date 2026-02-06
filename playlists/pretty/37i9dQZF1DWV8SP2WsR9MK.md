@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,440 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,481 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 15 | [Father Time](https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Slava Grigoryan](https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG) | [Travel Guide](https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua) | 4:37 |
 | 16 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 17 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
-| 18 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
+| 18 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
 | 19 | [Bright Size Life](https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 4:45 |
-| 20 | [Nocturne](https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Arclight](https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD) | 3:19 |
+| 20 | [My Foolish Heart](https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Kaleidoscope](https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z) | 3:29 |
 | 21 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
 | 22 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
 | 23 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |

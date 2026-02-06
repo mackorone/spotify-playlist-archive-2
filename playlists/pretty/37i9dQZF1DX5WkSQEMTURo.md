@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 
 > Everyone deserves a happy ending\. Listen to the music from the Deadpool series, including Deadpool & Wolverine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,958 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,918 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WkSQEMTURo.md) - [plain]
 | 2 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 3 | [Like a Prayer \- Choir Version From “Deadpool & Wolverine”](https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo) | [I'll Take You There Choir](https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:32 |
 | 4 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
-| 5 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 |
+| 5 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 |
 | 6 | [Angel of the Morning](https://open.spotify.com/track/27QxL30kLR6RyIjLXCMFdU) | [Merrilee Rush & The Turnabouts](https://open.spotify.com/artist/5TnMVQgTIbp6z3AydwnHW6) | [Angel Of The Morning](https://open.spotify.com/album/3G5uBH4LITdtjt8TEarfp2) | 3:12 |
 | 7 | [The Kid](https://open.spotify.com/track/0G2QtlKCKNVjWV0qqaUehK) | [MISFIT](https://open.spotify.com/artist/78iiCm3WRr7dbhidSiH5wn) | [Life Is A Wreck](https://open.spotify.com/album/0PJylfQ4Uq7AYWiCnTHx2R) | 3:39 |
 | 8 | [I Know](https://open.spotify.com/track/1UNIoNxqJlhcUYZzRys7mu) | [Janine the Machine](https://open.spotify.com/artist/5e7kpnFCxD159HQyi1NyrF) | [I Know](https://open.spotify.com/album/72q556evH5PI7Wg9vI8DMV) | 2:55 |

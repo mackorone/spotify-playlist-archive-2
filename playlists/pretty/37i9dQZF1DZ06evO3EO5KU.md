@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,060 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,073 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 25 | [El Güero Colorado](https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:39 |
 | 26 | [No Puedo Olvidarla \- En Vivo](https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:46 |
 | 27 | [Un Mentado Ariel](https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW) | 3:16 |
-| 28 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
-| 29 | [Por No Perderte Te Perdí](https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:20 |
+| 28 | [Por No Perderte Te Perdí](https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:20 |
+| 29 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
 | 30 | [Buscamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
 | 31 | [Dado A La Vida](https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC) | 2:47 |
 | 32 | [Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2KYyO57U4ompw5MJftNaJF) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Pensé](https://open.spotify.com/track/0JkRshSOn97y3PZQSeLHrG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Soltaron Al Diablo](https://open.spotify.com/album/2P76sQMC6lfSzcaPIr7hBH) | 2:34 |
 | 50 | [Sangre por Sangre \- En Vivo](https://open.spotify.com/track/14wUtTyH3kshtelfPQ44gd) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 3ra\. Función \(En Vivo\)](https://open.spotify.com/album/5JgNsmWQD1ExhuKaH1uMvb) | 3:32 |
 
-Snapshot ID: `aYE6gAAAAABuAzMUVmmcLqa6uG6VPioG`
+Snapshot ID: `aYKMAAAAAADFAgGwfuwmQOoJFSsXjRK6`

@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-130 songs - 9 hr 0 min
+131 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 | 2023-07-20 |  |
 | [endscape](https://open.spotify.com/track/1uBKwpT6hjR4ot1UciAH7x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [endscape](https://open.spotify.com/album/2eZdgtqNCvaMOXr29UXUXu) | 4:38 | 2022-06-16 | 2022-10-11 |
 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 | 2025-07-04 |  |
+| [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 | 2026-02-06 |  |
 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-03-05 |  |
 | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op) | 1:29 | 2024-01-08 | 2024-03-06 |
 | [Fight For Liberty](https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Fight For Liberty / Wizard CLUB](https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1) | 4:13 | 2024-11-23 |  |
@@ -81,7 +82,7 @@
 | [One stroke for freedom](https://open.spotify.com/track/5Ucz24aUo02729n6aLz9mV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:13 | 2022-06-09 | 2023-07-21 |
 | [Only US](https://open.spotify.com/track/6dqNzdwpS4oOf0lb1oOlrY) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:54 | 2025-07-05 |  |
 | [OUR ALWAYS](https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 4:23 | 2022-06-09 | 2022-08-17 |
-| [OXYMORON](https://open.spotify.com/track/23Wc7OK7cvKfwsnplGBi0u) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:27 | 2025-01-01 |  |
+| [OXYMORON](https://open.spotify.com/track/23Wc7OK7cvKfwsnplGBi0u) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:27 | 2025-01-01 | 2026-02-06 |
 | [PHOENIX](https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX](https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc) | 3:01 | 2024-12-16 | 2025-10-31 |
 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 | 2024-10-19 | 2024-12-16 |
 | [PHOENIX AX](https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 4:11 | 2025-07-05 |  |

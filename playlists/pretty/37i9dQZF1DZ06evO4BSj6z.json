@@ -1,12 +1,12 @@
 {
   "description": "This is Sasha Keable. The essential tracks, all in one playlist.",
-  "num_followers": 7157,
+  "num_followers": 7168,
   "original_name": "This Is Sasha Keable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACPuAa22QnY3mR/IbvBfGOK",
+  "snapshot_id": "aYKMAAAAAACbCBmwa7db7ft5E4MnCZtn",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 200500,
       "name": "AUCTION",
       "url": "https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold Up",
-        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 197188,
-      "name": "Living Without You",
-      "url": "https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ"
+      "duration_ms": 260246,
+      "name": "6\u201d4",
+      "url": "https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 260246,
-      "name": "6\u201d4",
-      "url": "https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX"
+      "duration_ms": 197188,
+      "name": "Living Without You",
+      "url": "https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ"
     },
     {
       "added_at": null,

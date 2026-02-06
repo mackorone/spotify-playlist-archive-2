@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:5uQPyd1dYqB4Oepgk8HqMM">obra aberta</a>
 
-215 songs - 6 day 3 hr 17 min
+216 songs - 6 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [a síndrome da adolescente rebelde](https://open.spotify.com/episode/7Irzcwk2Pso6HyZmcBDBKi) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 10:49 | 2025-10-01 | 2025-11-04 |
 | [a vida é uma questão de tempo](https://open.spotify.com/episode/35kfoVykhStq4eFGLUwS4n) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/show/6yTHTc5kaZj85vstsFV7GP) | [fiz o que pude ¯\\\_\(ツ\)\_/¯ ](https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP) | 10:56 | 2024-10-01 | 2024-12-01 |
 | [A âncora de TV que nunca chegou ao trabalho](https://open.spotify.com/episode/0yvCobbcwUs2V4xmNfFfpD) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 17:02 | 2024-06-28 | 2024-08-01 |
+| [amizade de baixa manutenção \#11](https://open.spotify.com/episode/1hFRm6iVBLMyWCGUz3Mm6D) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 21:38 | 2026-02-05 |  |
 | [amizades depois de adulta \#41](https://open.spotify.com/episode/4g2tOtVx8b9tZfJTbKdjL6) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 46:20 | 2025-02-05 | 2025-03-02 |
 | [amizades na vida adulta](https://open.spotify.com/episode/1SAKNmLH847SKGVvWnwf4O) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 15:43 | 2025-11-03 | 2026-01-06 |
 | [amizades também terminam \#28](https://open.spotify.com/episode/1ipZEGYxMGXfGjdh4mv1LE) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 30:38 | 2024-10-01 | 2024-12-01 |

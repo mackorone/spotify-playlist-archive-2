@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Joshua Baraka",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Tracy Melon",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -562,6 +562,28 @@
       "duration_ms": 164963,
       "name": "Aye",
       "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
+    },
+    {
+      "album": {
+        "name": "Ba Haters (Remix)",
+        "url": "https://open.spotify.com/album/0R4VWUWSKOJBs6gwBqLppF"
+      },
+      "artists": [
+        {
+          "name": "TAREL TALA",
+          "url": "https://open.spotify.com/artist/7kT8UnxPBFJnPrktaiTEFc"
+        },
+        {
+          "name": "JOWY LANDA",
+          "url": "https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ba Haters (Remix)",
+      "url": "https://open.spotify.com/track/6jcUNNWZh3Lt10R2cZ8IkU"
     },
     {
       "album": {
@@ -1684,7 +1706,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 187317,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb"
@@ -1822,6 +1844,24 @@
       "duration_ms": 161489,
       "name": "Chekecha - Remix",
       "url": "https://open.spotify.com/track/379CPyOow3irVC46HEpiHp"
+    },
+    {
+      "album": {
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/5evkQhgfPzCNKzHkTVd3ul"
+      },
+      "artists": [
+        {
+          "name": "Gloria Bugie",
+          "url": "https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237663,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/3Pitcv0by6ZQNUIUjz477f"
     },
     {
       "album": {
@@ -6475,6 +6515,32 @@
     },
     {
       "album": {
+        "name": "Nkwatako (Touch Me)",
+        "url": "https://open.spotify.com/album/64XZmD37ghkqatARVd2oTY"
+      },
+      "artists": [
+        {
+          "name": "Tracy Melon",
+          "url": "https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp"
+        },
+        {
+          "name": "Dan Sax",
+          "url": "https://open.spotify.com/artist/4WP9mEKWly3DKkzDKgtpnc"
+        },
+        {
+          "name": "Dj FKR",
+          "url": "https://open.spotify.com/artist/21qVTlbc1Kj6FtE8cTrEbF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169168,
+      "name": "Nkwatako (Touch Me)",
+      "url": "https://open.spotify.com/track/6noDaGsPHFVaorhbg6U3nJ"
+    },
+    {
+      "album": {
         "name": "Nkwekwe",
         "url": "https://open.spotify.com/album/6VE2TV96pn6x3hAv9Bu1PC"
       },
@@ -7070,6 +7136,28 @@
       "duration_ms": 174705,
       "name": "Omu",
       "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
+    },
+    {
+      "album": {
+        "name": "Omugongo",
+        "url": "https://open.spotify.com/album/7hHA0ASfWH6dHKf4mLEc0M"
+      },
+      "artists": [
+        {
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+        },
+        {
+          "name": "Feffe Bussi",
+          "url": "https://open.spotify.com/artist/5JAiy6pDNI0gBMRWl4VZxx"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "Omugongo",
+      "url": "https://open.spotify.com/track/0ex3U5VZRZou8FZVxXFGah"
     },
     {
       "album": {
@@ -8018,7 +8106,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 153333,
       "name": "S I N N E R",
       "url": "https://open.spotify.com/track/2m75Z2ovkKbH3RNqfcoBkX"
@@ -8304,7 +8392,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 210706,
       "name": "Secret Island",
       "url": "https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe"
@@ -9576,7 +9664,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 217894,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9"

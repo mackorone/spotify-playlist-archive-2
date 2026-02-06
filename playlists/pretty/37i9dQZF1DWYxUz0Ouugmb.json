@@ -1,13 +1,29 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: The Lantis ",
-  "num_followers": 42339,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: Deborah Hanna",
+  "num_followers": 42337,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE0WsrSZUy14dBJiMpXswRrRaSVe",
+  "snapshot_id": "AAAAAK85QKGflxvkNQp1MOMG2A0EGm39",
   "tracks": [
+    {
+      "added_at": "2026-02-05 22:56:31",
+      "album": {
+        "name": "Anehnya",
+        "url": "https://open.spotify.com/album/6BdacKiLHankUB5KLV381U"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "duration_ms": 210990,
+      "name": "Anehnya",
+      "url": "https://open.spotify.com/track/2nZClo9clzUgpQzsAel1si"
+    },
     {
       "added_at": "2026-01-16 14:00:03",
       "album": {

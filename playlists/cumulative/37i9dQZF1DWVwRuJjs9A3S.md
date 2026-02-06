@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie, med Division 7 &  Thomas Stenström.
+> Det senaste och bästa från världen av indie\. Cover: Girl Scout.
 
-1,107 songs - 2 day 15 hr 53 min
+1,112 songs - 2 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Dust Bunnies](https://open.spotify.com/track/7ikOj317I0o8A2acD2Cme0) | [I Was A King](https://open.spotify.com/artist/0SannT3hsrgAXQ9abyVQsB) | [Dust Bunnies](https://open.spotify.com/album/688Xg2BQE6AWabEXgaB0cM) | 3:00 | 2025-08-15 | 2025-10-17 |
 | [DYGA](https://open.spotify.com/track/0BQbEDDi4lW8bBMEv1XWau) | [SCARLET](https://open.spotify.com/artist/284gfU2jTQOAWk8WJgYKUj) | [DYGA](https://open.spotify.com/album/0DumS1Ogwx249qNNoL1SAX) | 3:08 | 2024-10-24 | 2024-12-06 |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2024-08-23 |
+| [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [](https://open.spotify.com/album/null) | 3:20 | 2026-02-05 |  |
 | [Dårar](https://open.spotify.com/track/1UN3cCSETzsoQesIdIRvpp) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Genom natten](https://open.spotify.com/album/2Hh1ohjJKUzo5LGvbmkpei) | 3:58 | 2025-10-23 |  |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-06-27 | 2024-08-02 |
 | [Ecstasy in Space](https://open.spotify.com/track/30i5H3zurdOp2LwtFjAs3O) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Ecstasy In Space](https://open.spotify.com/album/0bS66aXB3rM0HVRbJ5SJpR) | 2:35 | 2025-03-20 | 2025-06-20 |
@@ -527,6 +528,7 @@
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 | 2025-06-20 |
 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 | 2024-09-26 | 2024-11-15 |
 | [Keep You](https://open.spotify.com/track/0Zt8JqvafNeQGJhRdqT5ul) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Keep You](https://open.spotify.com/album/79aDYwPjnX36HH3pXTusEO) | 2:57 | 2025-04-24 | 2025-07-25 |
+| [Keeper](https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Keeper](https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP) | 3:45 | 2026-02-05 |  |
 | [Kerosene Sunburn](https://open.spotify.com/track/29tuqHUonxsKu6tfCEFiNd) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY), [LOUD HOUND](https://open.spotify.com/artist/0GrpGhTrgIvdNRAOl96Co9) | [Kerosene Sunburn](https://open.spotify.com/album/4EKX51Nqe7KLlVweeyVqe5) | 2:11 | 2025-07-11 | 2025-10-17 |
 | [Kid & Leveret](https://open.spotify.com/track/67k5hyLeNqd8HueETh1qBh) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Kid & Leveret](https://open.spotify.com/album/06EK1nrUNdGIfJqJK50yNV) | 5:13 | 2025-02-20 | 2025-04-18 |
 | [Kind to You](https://open.spotify.com/track/365hkQZvqYIDGhCGm8ZXwu) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Kind to You](https://open.spotify.com/album/63MKGs5hv3278XjoQblvf3) | 3:15 | 2024-08-29 | 2024-10-11 |
@@ -748,6 +750,7 @@
 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 | 2025-03-20 | 2025-06-20 |
 | [Pile Of Wood](https://open.spotify.com/track/5VvrluL9oo4Sq4gvCyimcS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:10 | 2024-08-15 | 2024-09-19 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2024-09-19 | 2025-02-21 |
+| [Play The Part](https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/1056qytYUijsTICJ4VIItC) | 2:50 | 2026-02-05 |  |
 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 | 2024-08-22 | 2024-09-27 |
 | [Plug](https://open.spotify.com/track/6nOhp5gvFIV42e5BwtyqbJ) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Plug](https://open.spotify.com/album/6SXi96t0w5MuizAjz2H6qN) | 2:49 | 2024-12-19 | 2025-02-28 |
 | [pool house](https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [pool house](https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk) | 3:32 | 2025-08-15 | 2026-01-16 |
@@ -889,6 +892,7 @@
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 | 2024-10-11 |
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-05 | 2025-10-10 |
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-20 | 2025-06-20 |
+| [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-02-05 |  |
 | [Start a Fire](https://open.spotify.com/track/6Acv7nXbHblxlpjvqkopuu) | [Timothy Gone](https://open.spotify.com/artist/20MGjwLCALzRnoX1hZN5eF) | [Start a Fire](https://open.spotify.com/album/5OphEF66Fn3vLWvMTxLkSf) | 3:52 | 2025-11-20 |  |
 | [Starvation](https://open.spotify.com/track/67c7PNN05Co9royqUCthR7) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/357nWCZmAQtr7nNTHhkIn7) | 3:27 | 2024-06-27 | 2024-08-16 |
 | [Stay The Same](https://open.spotify.com/track/0dKT5uBZHwButbQhbNn7n0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Stay The Same](https://open.spotify.com/album/04K2gCjYdFVvhNdHez1smw) | 3:24 | 2024-08-29 | 2024-09-27 |
@@ -907,6 +911,7 @@
 | [Struggle With the Beast](https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Struggle With the Beast](https://open.spotify.com/album/6oOMdK8anbv7n4adP7rTfm) | 8:44 | 2025-10-16 |  |
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-03-13 | 2025-05-16 |
 | [Stuff That I Like](https://open.spotify.com/track/7cBluqYWyEjJEMSWCw9DVI) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Feeling Mignon](https://open.spotify.com/album/3VyjmGBCmx7AGEmPook14n) | 2:44 | 2024-09-19 | 2024-11-22 |
+| [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 | 2026-02-05 |  |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-11 | 2026-01-16 |
 | [Such A Loser](https://open.spotify.com/track/2QZpp55SwbJjymRLCLlhXb) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Such a Loser](https://open.spotify.com/album/4ZEar4rcgTuWe73Fd8bcH9) | 3:26 | 2025-01-02 | 2025-02-21 |
 | [Summer Crime](https://open.spotify.com/track/1ijQbGjPqCWmAvM69YAgVF) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Summer Crime](https://open.spotify.com/album/0c8hv4aVCRv9IFsbwce8Jh) | 2:59 | 2025-06-19 | 2025-10-10 |

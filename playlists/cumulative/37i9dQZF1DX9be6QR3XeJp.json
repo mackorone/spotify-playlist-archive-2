@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Whitelands",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Maddie Ashman",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 207960,
       "name": "Be My Own Boyfriend",
       "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304039,
+      "name": "Behind Closed Eyes",
+      "url": "https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb"
     },
     {
       "album": {

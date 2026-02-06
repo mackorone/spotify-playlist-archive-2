@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Giorgos Sabanis",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "block",
+        "url": "https://open.spotify.com/album/2F0bK2kCnSqPAbCkwFFRiY"
+      },
+      "artists": [
+        {
+          "name": "LAFIS",
+          "url": "https://open.spotify.com/artist/0TuCBqRq7lWzppL02CY4qc"
+        },
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152541,
+      "name": "block",
+      "url": "https://open.spotify.com/track/7siefcy382f6vEymtDfxlH"
+    },
+    {
+      "album": {
         "name": "POP TOO",
         "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
       },
@@ -1092,7 +1114,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 230524,
       "name": "Champ",
       "url": "https://open.spotify.com/track/20o4hjYYdXfbuZQ17pn8Sd"
@@ -2713,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Lapdance",
+        "url": "https://open.spotify.com/album/3EfK516FkQigUrXxAzwnXe"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140144,
+      "name": "Lapdance",
+      "url": "https://open.spotify.com/track/5kAHbA12A14SpAXkLMt5hl"
+    },
+    {
+      "album": {
         "name": "Latrevo",
         "url": "https://open.spotify.com/album/5pLJFSBB8Sm9U87ResB3AB"
       },
@@ -3248,7 +3288,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 226551,
       "name": "O Erotas Grafetai",
       "url": "https://open.spotify.com/track/7mubjwbXz4dyQDcxjxmSHj"

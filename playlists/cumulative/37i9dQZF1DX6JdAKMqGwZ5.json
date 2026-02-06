@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: dani dicostas.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Rebe & Amore.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 230477,
       "name": "Chicos malos",
       "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 161842,
       "name": "EL BUCLE",
       "url": "https://open.spotify.com/track/3iEr05cAQkpL23f7xHPaL6"
@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 238945,
       "name": "La Br\u00fajula [2018]",
       "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
@@ -7062,7 +7062,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 143186,
       "name": "Mal de orina",
       "url": "https://open.spotify.com/track/4g2pnxwKmHEpIvYgASJpGq"
@@ -8211,6 +8211,24 @@
     },
     {
       "album": {
+        "name": "NaNaNa",
+        "url": "https://open.spotify.com/album/7vuN0baselq2ob0d6wkVua"
+      },
+      "artists": [
+        {
+          "name": "Pipiolas",
+          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192498,
+      "name": "NaNaNa",
+      "url": "https://open.spotify.com/track/52JoYnWIjmbSNAR66AxHRb"
+    },
+    {
+      "album": {
         "name": "Nanana",
         "url": "https://open.spotify.com/album/45DPoSDZBaMFmptZBQOfTx"
       },
@@ -9182,7 +9200,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 158044,
       "name": "Orbaina",
       "url": "https://open.spotify.com/track/5thbLGzRetc20GjNLpu3M1"
@@ -9406,7 +9424,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 215516,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
@@ -10361,6 +10379,24 @@
     },
     {
       "album": {
+        "name": "el santo que del cielo quiere bajar",
+        "url": "https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H"
+      },
+      "artists": [
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134694,
+      "name": "rayito de luz",
+      "url": "https://open.spotify.com/track/6NN2qLaBD73xIzbuI8LZEK"
+    },
+    {
+      "album": {
         "name": "SOMOS JAVYPABLO",
         "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
@@ -11154,6 +11190,28 @@
       "duration_ms": 171428,
       "name": "SO-LO",
       "url": "https://open.spotify.com/track/5xM5Ia4bXSOi6TYYuJS3Ye"
+    },
+    {
+      "album": {
+        "name": "Sobre tu ventana",
+        "url": "https://open.spotify.com/album/0Yi2dZdkbd58pYZ6AcIG6k"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184624,
+      "name": "Sobre tu ventana",
+      "url": "https://open.spotify.com/track/1JtwJSA3g5fNAdpgoz269g"
     },
     {
       "album": {
@@ -12265,6 +12323,24 @@
     },
     {
       "album": {
+        "name": "Tus amigas",
+        "url": "https://open.spotify.com/album/7ezuhxPvpMRRZmMLHBr2fV"
+      },
+      "artists": [
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187723,
+      "name": "Tus amigas",
+      "url": "https://open.spotify.com/track/5kd9OtWJ8uwQuH5aNjYqZ9"
+    },
+    {
+      "album": {
         "name": "Tutta La Notte (feat. Calcutta)",
         "url": "https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ"
       },
@@ -13373,6 +13449,28 @@
     },
     {
       "album": {
+        "name": "Yuuuuuuuuu",
+        "url": "https://open.spotify.com/album/1q8xvA8bwY7bX3col8nl51"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "GEM777",
+          "url": "https://open.spotify.com/artist/2npJ68ByZkis4g9m4s79wv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186214,
+      "name": "Yuuuuuuuuu",
+      "url": "https://open.spotify.com/track/1ltESONZwR4ypbWAcRD02U"
+    },
+    {
+      "album": {
         "name": "zarcillos de plata",
         "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
       },
@@ -13406,6 +13504,24 @@
       "duration_ms": 182654,
       "name": "Zumo de Manzana",
       "url": "https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9"
+    },
+    {
+      "album": {
+        "name": "UN D\u00cdA NUEVO",
+        "url": "https://open.spotify.com/album/6gbvpHdAKOtaffnpOtoq6x"
+      },
+      "artists": [
+        {
+          "name": "Averzzo",
+          "url": "https://open.spotify.com/artist/5hohpxQLHh4HN0fscSns4v"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197092,
+      "name": "Zzz",
+      "url": "https://open.spotify.com/track/5Qy6fj90JHqBQb3Sjn9bZE"
     },
     {
       "album": {

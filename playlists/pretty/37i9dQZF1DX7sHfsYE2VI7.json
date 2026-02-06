@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 71624,
+  "num_followers": 71639,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Feel It All Around",
+      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 192080,
-      "name": "Feel It All Around",
-      "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 538080,
+      "name": "8 Ball",
+      "url": "https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Kids in Love",
         "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 263400,
       "name": "Kids in Love (feat. The Night Game)",
       "url": "https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 538080,
-      "name": "8 Ball",
-      "url": "https://open.spotify.com/track/1tnhrn0zNTQGbo77wNwy44"
     },
     {
       "added_at": "2024-12-17 13:01:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,726 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 25 | [WHO ELSE YOU KNOW!?](https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:49 |
 | 26 | [It Ain't Nothin](https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To) | [ATM Danny](https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [It Ain't Nothin](https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF) | 2:27 |
 | 27 | [Kaseya](https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Kaseya](https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn) | 2:23 |
-| 28 | [What's That?](https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN) | 2:20 |
-| 29 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
+| 28 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
+| 29 | [What's That?](https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN) | 2:20 |
 | 30 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
 | 31 | [Power \(feat\. Nef The Pharaoh & P\-Lo\)](https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [The Vault](https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE) | 3:19 |
 | 32 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 45 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
 | 46 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 | 47 | [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 |
-| 48 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
-| 49 | [DAMN](https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:55 |
+| 48 | [DAMN](https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:55 |
+| 49 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
 | 50 | [Luh U](https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Bosko](https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:02 |
 
-Snapshot ID: `aYE6gAAAAADGNN3ZgA+97hOO1Ue21ktw`
+Snapshot ID: `aYKMAAAAAACswiqPJhvxfUbj6RA/dh7n`

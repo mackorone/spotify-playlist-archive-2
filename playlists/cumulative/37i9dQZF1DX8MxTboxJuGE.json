@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Popless",
+        "url": "https://open.spotify.com/album/5wTVuyUjrfThiDexLGUwKb"
+      },
+      "artists": [
+        {
+          "name": "Nerveless",
+          "url": "https://open.spotify.com/artist/2eZVzpqC41qs4cq7Ku0mTM"
+        },
+        {
+          "name": "Bea Duarte",
+          "url": "https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208907,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/0OAONWK9mlR97SL5btvWni"
+    },
+    {
+      "album": {
         "name": "Metallica (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/12nEtB2TU44qNHt6IsyIrZ"
       },

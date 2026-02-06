@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-366 songs - 1 day 2 hr 27 min
+367 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Respiro, Life and Fallen Leaves](https://open.spotify.com/track/4hQdPxjmJh4WA1iUMcOQ3j) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [KOMOREVIA](https://open.spotify.com/album/2W0deqWRQnSdvfJOccMtSw) | 4:52 | 2026-01-09 |  |
 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 | 2024-07-26 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 | 2025-09-24 |
+| [round\-scape](https://open.spotify.com/track/2H86tYKKSQgoUE8NTY8tMb) | [AOKI,hayato](https://open.spotify.com/artist/0Ay3UgLC46WQQkzxv3So2Q) | [round\-scape](https://open.spotify.com/album/22J5X68tveFMszAhHCZmrQ) | 30:00 | 2026-01-31 |  |
 | [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 | 2024-08-08 | 2025-12-03 |
 | [SAKU](https://open.spotify.com/track/533TZP8RSOvLW5aydnvfRp) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 5:45 | 2024-03-07 | 2025-01-25 |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2022-12-30 | 2024-04-19 |
@@ -306,7 +307,7 @@
 | [Thousand Bells, Pt\. 1](https://open.spotify.com/track/066LIufqmFNfiXv6p7SMru) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e), [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Thousand Bells](https://open.spotify.com/album/0UdrYgVmphq6PxnWfYC4We) | 3:50 | 2023-10-02 |  |
 | [Time](https://open.spotify.com/track/6vY9hR2JMxFoWncntRAG2p) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Size](https://open.spotify.com/album/4fic5J6NkTKLcb93LcnfR9) | 3:02 | 2022-04-08 | 2023-07-07 |
 | [Time of Bliss](https://open.spotify.com/track/5ogmYi51av81lCTh4oujTI) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Draw a Sleeps](https://open.spotify.com/album/2YQT0iwuaoSWLy1z0D9jrp) | 3:16 | 2022-01-07 | 2026-01-18 |
-| [TO THE AIR／空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2022-12-30 |  |
+| [TO THE AIR／空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE（マーキュリック・ダンス～躍動の踊り）](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2022-12-30 | 2026-02-06 |
 | [Toki](https://open.spotify.com/track/0ReWX0v7kFY6ZI50RYv1fU) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Memoride 2](https://open.spotify.com/album/4w9R8sopCqODkiYw6ZhdMz) | 1:38 | 2025-12-02 |  |
 | [Tokiori](https://open.spotify.com/track/5agITFAPA4Y0zuSUHTDwf4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Huwa](https://open.spotify.com/album/0w7XCXbHXRfTSixvZCdCHr) | 3:16 | 2022-01-07 | 2022-02-23 |
 | [Tomoshibi](https://open.spotify.com/track/234pWX1mkGIB6ocTPfMyV9) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/0osucAydc2AxgQ1awGjT4x) | 7:00 | 2024-03-07 | 2025-01-25 |

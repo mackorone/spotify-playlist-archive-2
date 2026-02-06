@@ -4,7 +4,7 @@
 
 > 
 
-1,330 songs - 2 day 22 hr 5 min
+1,331 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Nothing Changë](https://open.spotify.com/track/3rLjenWhYQNFGI1xrvTHWy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:57 | 2024-02-16 | 2024-11-06 |
 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2022-09-11 | 2023-05-09 |
 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 | 2025-03-11 |  |
+| [Nuggets of Wisdom](https://open.spotify.com/track/0BLGcXWHpHHiUiN82IBO6Z) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Sour Soul](https://open.spotify.com/album/0ug3RLV5rGBZSRJ0ZRjyqG) | 2:11 | 2026-02-05 |  |
 | [NUMBER 2](https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Number 2 / Never Last](https://open.spotify.com/album/7hxxTaoeUtHCjkKbZknQMs) | 2:17 | 2024-05-10 |  |
 | [Numbers On The Boards](https://open.spotify.com/track/4XkXgUNDVBMj3oJoE8yspZ) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 2:43 | 2024-05-23 | 2024-11-06 |
 | [NUN \(feat\. DaBaby\)](https://open.spotify.com/track/3FmD4u75G1cdA7bt7KgCA5) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:33 | 2023-01-20 | 2023-03-07 |

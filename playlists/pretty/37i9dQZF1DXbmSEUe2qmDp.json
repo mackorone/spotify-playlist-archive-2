@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bruna Lipiani",
-  "num_followers": 482956,
+  "num_followers": 482980,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,42 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "Brincadeira Gostosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3jnWJyosYXVTCHeX2hGg7j"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        },
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "Brincadeira Gostosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Susto",
+        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 190513,
+      "name": "Susto",
+      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "Muvuca",
         "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
@@ -139,18 +175,18 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Susto",
-        "url": "https://open.spotify.com/album/6IQRO6htZ5FOIDQxLbvvZ0"
+        "name": "Suor de Ontem",
+        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
       },
       "artists": [
         {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
         }
       ],
-      "duration_ms": 190513,
-      "name": "Susto",
-      "url": "https://open.spotify.com/track/7oExhzbEWDadIbOekXZmKB"
+      "duration_ms": 161747,
+      "name": "Suor de Ontem",
+      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -175,58 +211,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Brincadeira Gostosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3jnWJyosYXVTCHeX2hGg7j"
-      },
-      "artists": [
-        {
-          "name": "Ana Karla",
-          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
-        },
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 174698,
-      "name": "Brincadeira Gostosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Suor de Ontem",
-        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "Suor de Ontem",
-      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
-      },
-      "artists": [
-        {
-          "name": "Augusto & At\u00edlio",
-          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
-        }
-      ],
-      "duration_ms": 156443,
-      "name": "Morena do Paran\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "NuDoze (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CMvyQSy5EHuCKnBR8abIJ"
       },
@@ -247,18 +231,34 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Meus Versos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
+        "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Luccas",
-          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
+          "name": "Bizay",
+          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
         }
       ],
-      "duration_ms": 199375,
-      "name": "Eu Posso Ser - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
+      "duration_ms": 168833,
+      "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Mete Marcha no Paran\u00e1, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1DwSp5Uvg4yO8lJew7Npef"
+      },
+      "artists": [
+        {
+          "name": "Augusto & At\u00edlio",
+          "url": "https://open.spotify.com/artist/7DqDewxeQqnQPQCl6PptGJ"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "Morena do Paran\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/64SGg3SpBhtI7375NbLC8q"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -279,6 +279,42 @@
       "duration_ms": 150566,
       "name": "Tomara Que Caia",
       "url": "https://open.spotify.com/track/207DR1MYkDfA57rMslLwru"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Meu Astral",
+        "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
+      },
+      "artists": [
+        {
+          "name": "Alice Ianes",
+          "url": "https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5"
+        },
+        {
+          "name": "Pedro Henrique e Jo\u00e3o Victor",
+          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
+        }
+      ],
+      "duration_ms": 131432,
+      "name": "Congela",
+      "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Meus Versos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Luccas",
+          "url": "https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo"
+        }
+      ],
+      "duration_ms": 199375,
+      "name": "Eu Posso Ser - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -343,42 +379,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Meu Astral",
-        "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
-      },
-      "artists": [
-        {
-          "name": "Alice Ianes",
-          "url": "https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5"
-        },
-        {
-          "name": "Pedro Henrique e Jo\u00e3o Victor",
-          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
-        }
-      ],
-      "duration_ms": 131432,
-      "name": "Congela",
-      "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
-      },
-      "artists": [
-        {
-          "name": "Bizay",
-          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "Parava De Beber (Ao Vivo)",
         "url": "https://open.spotify.com/album/5APKfj7xXNuMT5IplZZh6S"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Ao Vivo em Campo Grande, EP. 1",
-        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
+        "name": "Pra Qu\u00ea?",
+        "url": "https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud"
       },
       "artists": [
         {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+          "name": "Gabriel Fava",
+          "url": "https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w"
         }
       ],
-      "duration_ms": 145900,
-      "name": "Vivendo Errado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+      "duration_ms": 166285,
+      "name": "Pra Qu\u00ea?",
+      "url": "https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -435,18 +435,38 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Pra Qu\u00ea?",
-        "url": "https://open.spotify.com/album/5Alq7ae59MD1VcVadX79ud"
+        "name": "Ao Vivo em Campo Grande, EP. 1",
+        "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
       },
       "artists": [
         {
-          "name": "Gabriel Fava",
-          "url": "https://open.spotify.com/artist/2rsn8MkxTWrYUgLYmhIh4w"
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Pra Qu\u00ea?",
-      "url": "https://open.spotify.com/track/72LPt2vbT19P7GXXfzr2gS"
+      "duration_ms": 145900,
+      "name": "Vivendo Errado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9zia Pinheiro",
+          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 151645,
+      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -467,6 +487,54 @@
       "duration_ms": 170891,
       "name": "Prefiro Te Perder - 25 Anos Ao Vivo",
       "url": "https://open.spotify.com/track/5wvqUnqiXOq2v8Ap1xxqhL"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Sinal De Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Diogo",
+          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Matheus Kennedy",
+          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
+        }
+      ],
+      "duration_ms": 132307,
+      "name": "Sinal De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Pulando Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/3YJA6VGPeFAXupSHdmpxCV"
+      },
+      "artists": [
+        {
+          "name": "Luccas e Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/7rscmcPFtkRp6m4JXc9lkK"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        },
+        {
+          "name": "Studio Bar",
+          "url": "https://open.spotify.com/artist/7y6NcLNXJJ5d4qraUBaa1u"
+        }
+      ],
+      "duration_ms": 165280,
+      "name": "Pulando Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/00d9W8AdEcljDyr2On5Ggn"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -523,74 +591,6 @@
       "duration_ms": 189631,
       "name": "Pernoite - Ao Vivo",
       "url": "https://open.spotify.com/track/7aLbcAZmHuAts06Kvuh86J"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Sinal De Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Diogo",
-          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
-        },
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        },
-        {
-          "name": "Matheus Kennedy",
-          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
-        }
-      ],
-      "duration_ms": 132307,
-      "name": "Sinal De Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9zia Pinheiro",
-          "url": "https://open.spotify.com/artist/0GazbZ6lnb0x1HgOq0MVv8"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
-        }
-      ],
-      "duration_ms": 151645,
-      "name": "Repert\u00f3rio de Desculpas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4A4XvbxF6xmqp2J8MYsh79"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Pulando Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/3YJA6VGPeFAXupSHdmpxCV"
-      },
-      "artists": [
-        {
-          "name": "Luccas e Jo\u00e3o",
-          "url": "https://open.spotify.com/artist/7rscmcPFtkRp6m4JXc9lkK"
-        },
-        {
-          "name": "Fred & Fabr\u00edcio",
-          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
-        },
-        {
-          "name": "Studio Bar",
-          "url": "https://open.spotify.com/artist/7y6NcLNXJJ5d4qraUBaa1u"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Pulando Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/00d9W8AdEcljDyr2On5Ggn"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
-        "name": "Show de Solteiro",
-        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
-      },
-      "artists": [
-        {
-          "name": "Jonatha e Cristiano",
-          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
-        },
-        {
-          "name": "Eric Land",
-          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
-        }
-      ],
-      "duration_ms": 124581,
-      "name": "Show de Solteiro",
-      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 171526,
       "name": "Vou ou N\u00e3o Vou",
       "url": "https://open.spotify.com/track/5MbLwOO7IGcDSD3r7NYSJQ"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
+        "name": "Show de Solteiro",
+        "url": "https://open.spotify.com/album/0B3F3DZhELEiu3PGf0mQm1"
+      },
+      "artists": [
+        {
+          "name": "Jonatha e Cristiano",
+          "url": "https://open.spotify.com/artist/4ZIYJpELcoJlJcro8xZF20"
+        },
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        }
+      ],
+      "duration_ms": 124581,
+      "name": "Show de Solteiro",
+      "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
     },
     {
       "added_at": "2026-01-30 03:03:21",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-30 03:03:21",
       "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+    },
+    {
+      "added_at": "2026-01-30 03:03:21",
+      "album": {
         "name": "N\u00e3o \u00e9 por acaso",
         "url": "https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 156405,
       "name": "C\u00ea Leva Jeito (Acusticasso#8) - Ao Vivo",
       "url": "https://open.spotify.com/track/1oCyJ5YnhT2dqzeoX8BDjz"
-    },
-    {
-      "added_at": "2026-01-30 03:03:21",
-      "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-01-30 03:03:21",

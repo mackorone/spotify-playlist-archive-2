@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Oney1
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,606 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,633 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 20 | [Deseos](https://open.spotify.com/track/2Dd0lB2qCPgWpUNnIz8ANi) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Lulo](https://open.spotify.com/artist/5PBqui5EQjUM8MfYM8sH6E) | [Deseos](https://open.spotify.com/album/0OoRuiDnuHWah5sNKbL3pJ) | 1:53 |
 | 21 | [Freyja](https://open.spotify.com/track/6BjWb8PBPG6SBHKtSSOYqv) | [Sabor Americano](https://open.spotify.com/artist/14OUQXeNEchUmECBMYvVoE), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Freyja](https://open.spotify.com/album/6h8UG0tGehnuPv8gyXYEhY) | 2:20 |
 | 22 | [Mates con Miel](https://open.spotify.com/track/5MR3jTQGzoOg7cFk1DY1ET) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Mates con Miel](https://open.spotify.com/album/19KTI599ScGGGk29iq4zgi) | 3:09 |
-| 23 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 |
+| 23 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 |
 | 24 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
-| 25 | [doble F con visa](https://open.spotify.com/track/0vwj3d7mw38Tv3P2WSlLm4) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [doble F con visa](https://open.spotify.com/album/0BpUckgoJhf28myPJRHnE1) | 2:05 |
+| 25 | [doble F con visa](https://open.spotify.com/track/0vwj3d7mw38Tv3P2WSlLm4) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [doble F con visa](https://open.spotify.com/album/0BpUckgoJhf28myPJRHnE1) | 2:05 |
 | 26 | [LO CUMPLÍ](https://open.spotify.com/track/43G5Us3tMUSS2lov3HVTsZ) | [KMI420](https://open.spotify.com/artist/27aZHh70FUjFxP5IPg7dra), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [LO CUMPLÍ](https://open.spotify.com/album/1o8XDr65bZeKVR21FTqmkj) | 4:15 |
 | 27 | [Rapeando A Cualquier Hora \#30](https://open.spotify.com/track/3Dr43iU87eIL2vwQxvSE7R) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Rapeando A Cualquier Hora \#30](https://open.spotify.com/album/015xGQKk4Jy9VG0BJEojXG) | 1:47 |
 | 28 | [CRIMINALISIMO](https://open.spotify.com/track/2IsQ8YtQjHmlWT3hxrngE1) | [R Flakkkk](https://open.spotify.com/artist/1cTlHtGv0loztFIBKGtvll), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Turro Original](https://open.spotify.com/album/7C6lanUJqywtazIL37RjiC) | 1:51 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 94 | [dosmil](https://open.spotify.com/track/2LTWIBgS1enPqdcRxVUHes) | [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [dosmil](https://open.spotify.com/album/1jZBytUTvLxB9MpXTJlLzI) | 2:53 |
 | 95 | [Sala Llena](https://open.spotify.com/track/0r09pvHj9RWzEfAkClrb4D) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Sala Llena](https://open.spotify.com/album/3mtTUeqA6YQnMdDJwCRb0H) | 2:15 |
 | 96 | [UN MILAGRO](https://open.spotify.com/track/4GVjAkuYa7mTuuBcbZHmcO) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [UN MILAGRO](https://open.spotify.com/album/6Z67ofnD2a457wUBNCobAQ) | 4:40 |
-| 97 | [la cruz como a sampaoli](https://open.spotify.com/track/49QGK8K8J7BT374csMdn0x) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:21 |
+| 97 | [la cruz como a sampaoli](https://open.spotify.com/track/49QGK8K8J7BT374csMdn0x) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 2:21 |
 | 98 | [BARS 01](https://open.spotify.com/track/3ZK1EIRQ7zJFOCmB2xTNmn) | [Lil Whigga](https://open.spotify.com/artist/3L0k0u2DYqjYtqQ4ErAeLX) | [BARS 01](https://open.spotify.com/album/0MCwtV8RWlOSHQlwLC11DJ) | 2:10 |
 | 99 | [LUNES PM](https://open.spotify.com/track/5ZMVoeESUk5zl0sfENea0O) | [Carajita](https://open.spotify.com/artist/0EGnen60b0WKZQaoOsGsqJ) | [LUNES PM](https://open.spotify.com/album/0L9AUFYdTtUFuBKBGT7Q11) | 2:01 |
 | 100 | [CUBA \(Buena y Mala\)](https://open.spotify.com/track/0Rbq0Jn9pTS5IPGys1iUtT) | [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [CUBA \(Buena y Mala\)](https://open.spotify.com/album/6mhvACsPdVYmb2rrGcwYBr) | 1:48 |

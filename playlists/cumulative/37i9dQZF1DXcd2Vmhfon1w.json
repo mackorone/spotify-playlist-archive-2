@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. AMBKOR.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 239372,
       "name": "AH\u00c1",
       "url": "https://open.spotify.com/track/17zHHBjcFkUqxTL7GyhTi1"
@@ -760,6 +760,24 @@
       "duration_ms": 163062,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF"
+    },
+    {
+      "album": {
+        "name": "Aligators",
+        "url": "https://open.spotify.com/album/41DrEFhR7eEnsbIdcgRpHh"
+      },
+      "artists": [
+        {
+          "name": "Carrion GodBle$$",
+          "url": "https://open.spotify.com/artist/7we8fCds6Fc36UjH1oq4OU"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Aligators",
+      "url": "https://open.spotify.com/track/2JZ7IeoaJXUusWKV2JVfxA"
     },
     {
       "album": {
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 223542,
       "name": "Brutalism",
       "url": "https://open.spotify.com/track/5vKNn5a0hFnHMaUpidjQNB"
@@ -10672,7 +10690,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 227496,
       "name": "Nueva Season",
       "url": "https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC"
@@ -13501,6 +13519,28 @@
     },
     {
       "album": {
+        "name": "STALKER",
+        "url": "https://open.spotify.com/album/4LevLmizOJoyXi5O9bymoQ"
+      },
+      "artists": [
+        {
+          "name": "Erik Urano",
+          "url": "https://open.spotify.com/artist/4UGlbaxTr9BPv4YLD6iWRN"
+        },
+        {
+          "name": "Harto Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7q9zy1VD126XTDrWcnEqBQ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Solaris",
+      "url": "https://open.spotify.com/track/0BPQlhrn6Rc9lY7onAAzBY"
+    },
+    {
+      "album": {
         "name": "Soldado",
         "url": "https://open.spotify.com/album/5KzUynJHc6e4CodfZfuQNN"
       },
@@ -15096,6 +15136,24 @@
       "duration_ms": 148869,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1JwmMWreFmS5JN21mp1w7B"
+    },
+    {
+      "album": {
+        "name": "Vamos Viendo",
+        "url": "https://open.spotify.com/album/3XWUUEuN3Ju6EaGXVP4xUl"
+      },
+      "artists": [
+        {
+          "name": "LosNi\u00f1osDelCaminito",
+          "url": "https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157973,
+      "name": "Vamos Viendo",
+      "url": "https://open.spotify.com/track/15cGaXIjBiDVaDCYg5aKfB"
     },
     {
       "album": {

@@ -11736,7 +11736,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
@@ -14652,6 +14652,24 @@
       "duration_ms": 141448,
       "name": "rakastetuks",
       "url": "https://open.spotify.com/track/5hyeTEEoJq7V7B9SHr2NIc"
+    },
+    {
+      "album": {
+        "name": "Rakastumisen oireet",
+        "url": "https://open.spotify.com/album/2cM5W1rwV48w6sdpp68RgA"
+      },
+      "artists": [
+        {
+          "name": "Elias Kaskinen",
+          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Rakastumisen oireet",
+      "url": "https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR"
     },
     {
       "album": {

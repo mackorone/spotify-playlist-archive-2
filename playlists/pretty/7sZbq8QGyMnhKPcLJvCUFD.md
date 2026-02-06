@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 718,370 likes - 265 songs - 12 hr 37 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 718,344 likes - 265 songs - 12 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -274,4 +274,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 264 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
 | 265 | [Let's Go](https://open.spotify.com/track/5Oz6cJjkuLpUJNdhxiW9Tl) | [Mo Falk](https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [NCS x Geometry Dash: Volume 1](https://open.spotify.com/album/35EIo9W0kukj9d1OnGjX9S) | 2:32 |
 
-Snapshot ID: `AAAZiA9k30aZdYTSexRO6yT1p6awBGEf`
+Snapshot ID: `AAAZioELovgVxWvW9tJf/+/7metY5Jly`

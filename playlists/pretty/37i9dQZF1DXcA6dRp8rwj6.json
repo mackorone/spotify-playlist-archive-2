@@ -1,13 +1,81 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: DaBaby)",
-  "num_followers": 456241,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: EsDeeKid)",
+  "num_followers": 456277,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMcnbqurGoYeNqv5FuLYVcXXggOu",
+  "snapshot_id": "AAAAAGlPvfVJIvGc3sa+5ZL8GXqCaMAd",
   "tracks": [
+    {
+      "added_at": "2026-02-05 16:00:35",
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "duration_ms": 120944,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
+    },
+    {
+      "added_at": "2026-02-05 16:00:35",
+      "album": {
+        "name": "WENNA",
+        "url": "https://open.spotify.com/album/2D0ozhWJjzNJMduXT5Qydi"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        }
+      ],
+      "duration_ms": 168041,
+      "name": "WENNA",
+      "url": "https://open.spotify.com/track/4inWT7wUgLQhWoIhE23WVE"
+    },
+    {
+      "added_at": "2026-02-05 16:00:35",
+      "album": {
+        "name": "Burnt Bridges",
+        "url": "https://open.spotify.com/album/3UqnRXWF0OM9reIktVLplq"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Sabastian",
+          "url": "https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "TWO.FIVE",
+      "url": "https://open.spotify.com/track/6DgJB4B4Z5GhKfUuK1uiLN"
+    },
+    {
+      "added_at": "2026-02-05 16:00:35",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "duration_ms": 131506,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
+    },
     {
       "added_at": "2026-01-31 13:55:53",
       "album": {
@@ -1667,22 +1735,6 @@
     {
       "added_at": "2026-01-31 13:55:53",
       "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 132336,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0SQNu4qg8dQQxmwZoxNsCR"
-    },
-    {
-      "added_at": "2026-01-31 13:55:53",
-      "album": {
         "name": "HAPPY ACCIDENTS VOL. 2",
         "url": "https://open.spotify.com/album/77ccljceESwTy5Mqrg4iFh"
       },
@@ -1695,22 +1747,6 @@
       "duration_ms": 188571,
       "name": "P2000",
       "url": "https://open.spotify.com/track/349wwJQlBSnVUImC0PBwH5"
-    },
-    {
-      "added_at": "2026-01-31 13:55:53",
-      "album": {
-        "name": "Kush & Orange Juice (15th Anniversary)",
-        "url": "https://open.spotify.com/album/2tagwJExHdyK8MTv7zxXZf"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 144850,
-      "name": "Over Here - Bonus Track",
-      "url": "https://open.spotify.com/track/5kPC2gejhpMULSmabaLTzn"
     },
     {
       "added_at": "2026-01-31 13:55:53",
@@ -1807,22 +1843,6 @@
     {
       "added_at": "2026-01-31 13:55:53",
       "album": {
-        "name": "For No Reason",
-        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 159568,
-      "name": "For No Reason",
-      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
-    },
-    {
-      "added_at": "2026-01-31 13:55:53",
-      "album": {
         "name": "I'm A Dog (Remix)",
         "url": "https://open.spotify.com/album/17kvRgTPVHa6RwgqY29W4q"
       },
@@ -1839,30 +1859,6 @@
       "duration_ms": 206582,
       "name": "I'm A Dog - Remix",
       "url": "https://open.spotify.com/track/1IJktgqBOGN7CjUYZQQdIb"
-    },
-    {
-      "added_at": "2026-01-31 13:55:53",
-      "album": {
-        "name": "CiCi (Deluxe)",
-        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Nice n' Sweet (feat. MOLIY)",
-      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2026-01-31 13:55:53",

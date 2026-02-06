@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Danya Devs
+> Proudly Southern African Afropop gems\. Cover: Sqiniseko SqinQ
 
-731 songs - 2 day 4 hr 2 min
+732 songs - 2 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Phakade](https://open.spotify.com/track/3uDw8M8eTBDC7npvLy9ELS) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [SeeZus Beats](https://open.spotify.com/artist/2IRgHENUusLqlDaj5hRmoi) | [Phakade](https://open.spotify.com/album/0lGgjqIGQb21QuAU55jpdQ) | 5:07 | 2022-06-23 | 2023-08-04 |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-10-07 | 2023-06-30 |
 | [Pharadise \(feat\. Young Stunna\)](https://open.spotify.com/track/2t66w9rIC1SQBYDlgQv7rS) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Pharadise](https://open.spotify.com/album/1jdo2X5GsN9bVFd41g6nNN) | 4:02 | 2025-04-24 |  |
-| [Phendula](https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Phendula](https://open.spotify.com/album/1sR2TBRnQgPrjkMPqdQHBP) | 3:16 | 2025-06-12 |  |
+| [Phendula](https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Phendula](https://open.spotify.com/album/1sR2TBRnQgPrjkMPqdQHBP) | 3:17 | 2025-06-12 |  |
 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 | 2024-10-10 |  |
 | [Please Stay](https://open.spotify.com/track/3etMtEdaEBPD4NKfCUj0HJ) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Please Stay](https://open.spotify.com/album/1mky1KbxL1dRlFuvJyqA16) | 6:14 | 2023-08-17 | 2023-09-01 |
 | [Pretender](https://open.spotify.com/track/20hoZcmu5L51NhHi7JAr9f) | [Mukololo](https://open.spotify.com/artist/3PjUsqUK9807lMGiWKIQoT), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Pretender](https://open.spotify.com/album/2ltrUjRCMRNOIyoQ1R1hTS) | 5:04 | 2025-04-14 | 2025-04-18 |
@@ -652,6 +652,7 @@
 | [uMfazi\_omuhle](https://open.spotify.com/track/21ihgUfLmtxXwACVarO6EY) | [SouthSideblueprint](https://open.spotify.com/artist/4hiA5BZLtNc8W5Jv1As1vv), [XiKamakazi](https://open.spotify.com/artist/5FTpKlIyNZxecEd2xT8FRL) | [spy\_da\_man](https://open.spotify.com/album/5lXb8z5UIVu0usiRFgxhbQ) | 2:18 | 2022-06-02 | 2022-06-17 |
 | [Umgani Wakho](https://open.spotify.com/track/3O2xwCcuT0k6KG6oqAkAQu) | [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [3310](https://open.spotify.com/album/7AgGMHzNjT0Fudd77ZGonH) | 4:32 | 2021-08-26 | 2022-04-15 |
 | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/track/5k0Ng0woKxgXJ8wv5CyO4M) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Umhlaba Wakho \(feat\. Nkosazana Daughter & Azana\)](https://open.spotify.com/album/4pG98Z46EJRUepyWcRl015) | 4:25 | 2022-07-07 | 2022-10-14 |
+| [Umjolo](https://open.spotify.com/track/0U3RITh8dKQSxhGF0yCPAQ) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Duncan](https://open.spotify.com/artist/6ly70lDRQATSZLN2ptpEbL) | [Umjolo](https://open.spotify.com/album/5HhZc3pfxYX4DeXrnxkKq3) | 4:21 | 2026-02-05 |  |
 | [Umjolo O Healthy](https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Ugcobo](https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg) | 3:58 | 2023-05-25 | 2023-09-01 |
 | [Umkhonto](https://open.spotify.com/track/1L9J1HzkgKfdYPo3gYOhl7) | [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [UMKHONTO](https://open.spotify.com/album/0qAAJBVDuxADt93qEk06xZ) | 3:12 | 2024-01-25 |  |
 | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Igcokama Elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ) | 3:49 | 2023-11-23 | 2023-12-15 |

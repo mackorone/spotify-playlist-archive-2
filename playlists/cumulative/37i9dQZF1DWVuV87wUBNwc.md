@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> RAYE au sommet de la première playlist de France.
+> GIMS & Theodora au sommet de la première playlist de France.
 
 429 songs - 21 hr 46 min
 

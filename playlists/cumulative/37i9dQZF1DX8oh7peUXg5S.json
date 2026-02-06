@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Luis Eduardo Aute.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: El Kanka.",
   "name": "Cantautores",
   "tracks": [
     {
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 299778,
       "name": "El coraz\u00f3n por delante",
       "url": "https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0"
@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234196,
+      "name": "Le pasa solo al resto",
+      "url": "https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz"
+    },
+    {
+      "album": {
         "name": "Canciones de amor y celda",
         "url": "https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro"
       },
@@ -4311,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Mientras Sue\u00f1o y Vivo",
+        "url": "https://open.spotify.com/album/1hU1fFbP9m42aSg7ryHBzZ"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Mientras Sue\u00f1o y Vivo",
+      "url": "https://open.spotify.com/track/2cW60XXZg0wFa300A57Wmn"
+    },
+    {
+      "album": {
         "name": "Algo familiar",
         "url": "https://open.spotify.com/album/0LSUDQC96WRRg2nATcTQ3k"
       },
@@ -4326,6 +4362,24 @@
       "duration_ms": 332816,
       "name": "Miguitas de pan",
       "url": "https://open.spotify.com/track/0uqnA4Vaca06nMfSmieeJd"
+    },
+    {
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/4hk5ODgRTAVk9jv4Mo6n8N"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179090,
+      "name": "Moreno",
+      "url": "https://open.spotify.com/track/0fjLfvd70UrT4Gbx5krquK"
     },
     {
       "album": {
@@ -6306,7 +6360,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180825,
       "name": "So Payaso",
       "url": "https://open.spotify.com/track/3je2COsiyhHwCVhrqV6rxq"
@@ -7059,6 +7113,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298106,
+      "name": "Un Lugar Mejor",
+      "url": "https://open.spotify.com/track/4io4eIs1Z1KGv2FcXisENP"
+    },
+    {
+      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -7222,7 +7294,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 285647,
       "name": "Vente vindo",
       "url": "https://open.spotify.com/track/4HkDB1tgycbxhRvAKddBzj"

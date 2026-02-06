@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : TKS 2G",
+  "description": "Photo : Soolking x Rim'K",
   "name": "Best Life",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 172000,
       "name": "Brouncha",
       "url": "https://open.spotify.com/track/7eKCe1BJJneUcu2y0skZV4"
@@ -1564,6 +1564,24 @@
       "duration_ms": 154455,
       "name": "Cadeau",
       "url": "https://open.spotify.com/track/3wdX97iSj3e6yeR2UHAK1b"
+    },
+    {
+      "album": {
+        "name": "Calle",
+        "url": "https://open.spotify.com/album/5jSmmR4aYGQIPwo5Eeq86N"
+      },
+      "artists": [
+        {
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125621,
+      "name": "Calle",
+      "url": "https://open.spotify.com/track/2MObjNQYsu62Ma91SiFZ8Z"
     },
     {
       "album": {
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 170388,
       "name": "DD",
       "url": "https://open.spotify.com/track/6tnyd1pEIaWc3cDGZqA64R"
@@ -3249,6 +3267,36 @@
     },
     {
       "album": {
+        "name": "Gambi le pote de TK",
+        "url": "https://open.spotify.com/album/5Ind9GGqQa2KhoRnSjbdsb"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        },
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Gambi le pote de TK",
+      "url": "https://open.spotify.com/track/45knpPGw0zbWmtMR73xwjm"
+    },
+    {
+      "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia"
       },
@@ -3876,6 +3924,28 @@
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
+    },
+    {
+      "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/1GwMnWaNp82JobvTSEzxSM"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128570,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/1QPDxecby4Bri0FnneIwGl"
     },
     {
       "album": {
@@ -5220,7 +5290,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 129104,
       "name": "Mon Crush a Moi",
       "url": "https://open.spotify.com/track/1qF3hoHaGgKTUpUn4W7CY8"
@@ -6377,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "Phuket",
+        "url": "https://open.spotify.com/album/2HoOpU2p1juhm8jZOoLdZs"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Phuket",
+      "url": "https://open.spotify.com/track/5cr2IR72Kz5i1BN239nYCC"
+    },
+    {
+      "album": {
         "name": "Ph\u00e9nom\u00e9nal",
         "url": "https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT"
       },
@@ -7012,7 +7100,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 184960,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4tGZCW0Ik3wASPyZXVjZQo"
@@ -7104,7 +7192,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177677,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/49w3f0FJLmHw0YSzAevGkT"
@@ -7675,6 +7763,24 @@
     },
     {
       "album": {
+        "name": "Seychelles",
+        "url": "https://open.spotify.com/album/3VHcrPUdqCHkNIbNLYxyf0"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "Seychelles",
+      "url": "https://open.spotify.com/track/0LVo3mfYzZuCRADfUMczcX"
+    },
+    {
+      "album": {
         "name": "SHATTA CRIMINEL",
         "url": "https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT"
       },
@@ -8132,7 +8238,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178840,
       "name": "Tema Love",
       "url": "https://open.spotify.com/track/0TWQ4ggFChalDzWuQswo9z"
@@ -8216,6 +8322,24 @@
       "duration_ms": 131633,
       "name": "TESLA (feat. DaChoyce)",
       "url": "https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1"
+    },
+    {
+      "album": {
+        "name": "Ti B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/2SpriWSRlBrj43RAxdeiES"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "Ti B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/7EvY12qA3o3rkoQV07IW4P"
     },
     {
       "album": {

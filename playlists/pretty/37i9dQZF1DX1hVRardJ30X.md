@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nicky Jam, Fuerza Regida, Katteyes & SINAKA, Tokischa & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,627 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,668 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [Circulo Vicioso](https://open.spotify.com/track/7uwwQW7rkEGerKkg9rhZlX) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [Circulo Vicioso](https://open.spotify.com/album/614APbaiiDiexsASLTlR8B) | 2:31 |
 | 15 | [La Racha](https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [La Racha](https://open.spotify.com/album/2TyDe3uxvIEj6cScPrrZeF) | 2:48 |
 | 16 | [NO ME VOY A QUITAR EL SOMBRERO](https://open.spotify.com/track/3ICYZgcI64jA5dfBO1BHpW) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [NO ME VOY A QUITAR EL SOMBRERO](https://open.spotify.com/album/1p51mB1pMN9ucyZ3T9vNTE) | 1:41 |
-| 17 | [Adriana Lima](https://open.spotify.com/track/4hrXNAwzQH2ackEyYGcs9C) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Kris R](https://open.spotify.com/artist/5NPiUG3unuYKD9ZgwZv3FA), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [JET LAG](https://open.spotify.com/album/3aVYF4VDsnDaYrb8S9vac6) | 3:58 |
+| 17 | [Adriana Lima](https://open.spotify.com/track/4hrXNAwzQH2ackEyYGcs9C) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [JET LAG](https://open.spotify.com/album/3aVYF4VDsnDaYrb8S9vac6) | 3:58 |
 | 18 | [SIN TI](https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [SIN TI](https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4) | 2:40 |
 | 19 | [KAWASAKI](https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [KAWASAKI](https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM) | 2:37 |
 | 20 | [Esto De La Fama](https://open.spotify.com/track/0afZyMv8Q8QXCX7ZoT1yJA) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Gabriel Ssoe](https://open.spotify.com/artist/6jj51ACAVuQf2879t7p7O8) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 2:33 |

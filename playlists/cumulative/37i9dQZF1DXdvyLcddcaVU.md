@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,018 songs - 2 day 4 hr 55 min
+1,019 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Awa](https://open.spotify.com/track/6WWOAUl2LhG9PG9UcQPVUi) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:21 | 2023-06-02 | 2023-09-10 |
 | [AZAMAN](https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:28 | 2024-09-27 | 2024-11-16 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-02-27 | 2025-06-21 |
-| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-07 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-05 |  |
+| [B.M.S \(by my side\)](https://open.spotify.com/track/17pMT4RIeRWlQiuErirVic) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3VOt0eYA2qCdwHCQDYbWz4) | 2:05 | 2026-01-07 | 2026-02-06 |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-03-24 | 2023-10-02 |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-09-13 | 2024-10-12 |
 | [Babylone](https://open.spotify.com/track/2j494b1ZhXswDVorEIV5va) | [Népal](https://open.spotify.com/artist/1E8w172gkuT5htpwaIEsEl) | [2016 \- 2018](https://open.spotify.com/album/3QycsedIXFMAuoE3QEIOlf) | 3:27 | 2024-02-16 | 2024-05-04 |

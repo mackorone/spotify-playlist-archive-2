@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2185,6 +2185,28 @@
     },
     {
       "album": {
+        "name": "Outsider Partie 2 : H\u2019ella Stories",
+        "url": "https://open.spotify.com/album/28rSxBv7lmT0lam8Z0jl3E"
+      },
+      "artists": [
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Comment sont les hommes ?",
+      "url": "https://open.spotify.com/track/2TDCo125JIMJuvgmGHEYma"
+    },
+    {
+      "album": {
         "name": "Compliqu\u00e9",
         "url": "https://open.spotify.com/album/5MpMmdwpjfuEYV0sNWrnyn"
       },
@@ -4289,6 +4311,28 @@
     },
     {
       "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/2HPHZiGbTPFlE1vDdXeQIz"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185213,
+      "name": "Guess What",
+      "url": "https://open.spotify.com/track/5rbO4iwxgoaqrHc2Mt1kPk"
+    },
+    {
+      "album": {
         "name": "SUAVE Tome 1",
         "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
       },
@@ -5786,7 +5830,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 144390,
       "name": "LE PLAN",
       "url": "https://open.spotify.com/track/5ijrVn1dt3LyBKIH5uzjIQ"
@@ -6517,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/6FtXO4BecwBSH3WQFbFOxa"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134173,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/0Jb2FpuE5OfuUzwkkd6hSo"
+    },
+    {
+      "album": {
         "name": "Maman prie pour moi",
         "url": "https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R"
       },
@@ -6840,7 +6902,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146333,
       "name": "Miel (feat. Lisandro Cuxi)",
       "url": "https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU"
@@ -6955,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/1cORx4mYsAQarJb9aoCHLJ"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142012,
+      "name": "Mode Avion",
+      "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
+    },
+    {
+      "album": {
         "name": "MOI OU EUX",
         "url": "https://open.spotify.com/album/2On3wpSPXfIvnqIL0gjThL"
       },
@@ -7042,7 +7122,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
@@ -7984,7 +8064,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 157675,
       "name": "Papi",
       "url": "https://open.spotify.com/track/0RiFKqL8iMuixzxPPMENav"

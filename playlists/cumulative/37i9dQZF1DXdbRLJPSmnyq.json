@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: Ado",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: LiSA",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 224705,
       "name": "Fear Us (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/7JTojjDe7DUamPDIxCIiZH"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 260778,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 294141,
       "name": "masshiro (pure white)",
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 262335,
       "name": "Mine or Yours",
       "url": "https://open.spotify.com/track/71BFBz7Yc1Hq4MPXdn9ivo"
@@ -2819,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Not a Goodbye",
+      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
+    },
+    {
+      "album": {
         "name": "NOT OK",
         "url": "https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC"
       },
@@ -2974,7 +2992,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 200100,
       "name": "Pain Give Form",
       "url": "https://open.spotify.com/track/5i8NWMVWvkYKjYPIeQv9ML"
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
@@ -3931,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "SWEET MAGIC",
+        "url": "https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193746,
+      "name": "SWEET MAGIC",
+      "url": "https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf"
+    },
+    {
+      "album": {
         "name": "SWISH DAT",
         "url": "https://open.spotify.com/album/3C9UtowLQZlhdJ6Ir99XS0"
       },
@@ -4382,7 +4418,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 186193,
       "name": "Watch me!",
       "url": "https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk"
@@ -4804,7 +4840,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 201251,
       "name": "\u3055\u3088\u30fc\u306a\u3089\u307e\u305f\u3044\u3064\u304b\uff01- Sayonara",
       "url": "https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV"
@@ -5081,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "\u30a2\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30c9\u30ec\u30ca",
         "url": "https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x"
       },
@@ -5128,7 +5182,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
@@ -5236,7 +5290,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 204302,
       "name": "\u30ab\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd"
@@ -5452,7 +5506,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 266741,
       "name": "\u30b9\u30b1\u30c3\u30c1",
       "url": "https://open.spotify.com/track/1qyMHya2R2k57MApk6kBzI"
@@ -5878,7 +5932,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178380,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
@@ -6790,7 +6844,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 191075,
       "name": "\u5f98\u5f8a",
       "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
@@ -6844,7 +6898,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 218834,
       "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"
@@ -7132,7 +7186,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 275446,
       "name": "\u6625\u306e\u5d50",
       "url": "https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr"
@@ -7438,7 +7492,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 383361,
       "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
       "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
@@ -7972,7 +8026,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
@@ -8062,7 +8116,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 236066,
       "name": "\u9a19\u30b7\u611b - Damashiai",
       "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"

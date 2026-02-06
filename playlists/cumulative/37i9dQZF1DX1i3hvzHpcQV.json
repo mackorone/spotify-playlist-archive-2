@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Parasakthi",
+  "description": "Tune into the Hottest tracks of Kollywood!\nCover : Jana Nayagan",
   "name": "Hot Hits Tamil",
   "tracks": [
     {
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190909,
       "name": "Kaavaalaa (From \"Jailer\")",
       "url": "https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo"
@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 244472,
       "name": "Namakkana Kaalam",
       "url": "https://open.spotify.com/track/5sRy4h9hECF9pEqObdtzfF"
@@ -3100,10 +3100,40 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 279272,
       "name": "Ratnamala",
       "url": "https://open.spotify.com/track/3119vPmRByxW1WfbZfU5GI"
+    },
+    {
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303203,
+      "name": "Rekka Rekka",
+      "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"
     },
     {
       "album": {
@@ -3573,6 +3603,36 @@
     },
     {
       "album": {
+        "name": "Retro [TAMIL]",
+        "url": "https://open.spotify.com/album/5G6wOndtXdAygfFXSy1f7q"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "SVDP",
+          "url": "https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239110,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/12zT7djETGfDeL6JIVjM2b"
+    },
+    {
+      "album": {
         "name": "Thee Thalapathy (From \"Varisu\")",
         "url": "https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL"
       },
@@ -3592,6 +3652,28 @@
       "duration_ms": 258000,
       "name": "Thee Thalapathy (From \"Varisu\")",
       "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
+    },
+    {
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364651,
+      "name": "Theekkoluthi",
+      "url": "https://open.spotify.com/track/4HAJQk7bvl5wuKnUI9QXXg"
     },
     {
       "album": {

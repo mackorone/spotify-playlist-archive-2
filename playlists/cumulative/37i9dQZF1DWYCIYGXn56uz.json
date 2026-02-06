@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Cate Lumina",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Lorenzo Salvetti",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 181301,
       "name": "100 Sigarette",
       "url": "https://open.spotify.com/track/2OOitJLWO975yrhBRC29dM"
+    },
+    {
+      "album": {
+        "name": "100MILA COLPI",
+        "url": "https://open.spotify.com/album/0HaZnjadcLH3rZqfUYnM0h"
+      },
+      "artists": [
+        {
+          "name": "Ascanio",
+          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "100MILA COLPI",
+      "url": "https://open.spotify.com/track/5pgx6z2KwNwUUAUMGcRHYI"
     },
     {
       "album": {
@@ -734,6 +752,24 @@
       "duration_ms": 169167,
       "name": "ALTOMARE",
       "url": "https://open.spotify.com/track/3ivx0H3d4jNPNxupsfPEVF"
+    },
+    {
+      "album": {
+        "name": "AMARAVOGLIA",
+        "url": "https://open.spotify.com/album/2eZihEnfQsoHuL7E7G8G9n"
+      },
+      "artists": [
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97297,
+      "name": "AMARAVOGLIA",
+      "url": "https://open.spotify.com/track/4cj4VHfg2n5HSm5J9SSOTB"
     },
     {
       "album": {
@@ -3743,6 +3779,42 @@
     },
     {
       "album": {
+        "name": "Come stai Come va",
+        "url": "https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks"
+      },
+      "artists": [
+        {
+          "name": "EOS",
+          "url": "https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144158,
+      "name": "Come stai Come va",
+      "url": "https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7"
+    },
+    {
+      "album": {
+        "name": "COMPASSO",
+        "url": "https://open.spotify.com/album/6tfqH53xym45ve6D6biLTa"
+      },
+      "artists": [
+        {
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156093,
+      "name": "COMPASSO",
+      "url": "https://open.spotify.com/track/7t2j0BORFCFLSvqM4ITvzL"
+    },
+    {
+      "album": {
         "name": "COMPLICI",
         "url": "https://open.spotify.com/album/3jiO40zvusWtEZeDHn4j1e"
       },
@@ -4520,7 +4592,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 190122,
       "name": "Devastante",
       "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
@@ -8112,6 +8184,24 @@
       "duration_ms": 178991,
       "name": "La mia canzone per te",
       "url": "https://open.spotify.com/track/5UeIcE8opHwuFFk6em1U0l"
+    },
+    {
+      "album": {
+        "name": "LA MIA STORIA",
+        "url": "https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173506,
+      "name": "LA MIA STORIA",
+      "url": "https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB"
     },
     {
       "album": {
@@ -12857,6 +12947,24 @@
     },
     {
       "album": {
+        "name": "PICCOLA",
+        "url": "https://open.spotify.com/album/6t5QOlEXI1cGIuiJ7zVW4q"
+      },
+      "artists": [
+        {
+          "name": "Dedd\u00e8",
+          "url": "https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "PICCOLA",
+      "url": "https://open.spotify.com/track/5aUXhutSI9GpffwQ1NcsmA"
+    },
+    {
+      "album": {
         "name": "piccola",
         "url": "https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL"
       },
@@ -13672,7 +13780,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180856,
       "name": "Quei ricordi l\u00e0",
       "url": "https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ"
@@ -14782,7 +14890,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 151037,
       "name": "Scusa Mamma",
       "url": "https://open.spotify.com/track/032UiUwwoEYSc5DfOgILgH"
@@ -15725,6 +15833,24 @@
     },
     {
       "album": {
+        "name": "SONO PERSA",
+        "url": "https://open.spotify.com/album/3Yf86Lnx0lY2yNuslp5OIp"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171766,
+      "name": "SONO PERSA",
+      "url": "https://open.spotify.com/track/1CfhwjK3SSRwLy4A7uOxb6"
+    },
+    {
+      "album": {
         "name": "Soraya",
         "url": "https://open.spotify.com/album/2y65ScAlc5MUfUa72fQcdo"
       },
@@ -16583,6 +16709,24 @@
     },
     {
       "album": {
+        "name": "Terapia 3, feat Chi C'era",
+        "url": "https://open.spotify.com/album/1ixmUYWi5vUiSK63DFQu8h"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198092,
+      "name": "Terapia 3, feat Chi C'era",
+      "url": "https://open.spotify.com/track/75aMyprbVkQqeFpZ1k68J2"
+    },
+    {
+      "album": {
         "name": "Testa o Croce",
         "url": "https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38"
       },
@@ -17289,6 +17433,24 @@
     },
     {
       "album": {
+        "name": "Tutto tutto tutto dentro",
+        "url": "https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tutto tutto tutto dentro",
+      "url": "https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i"
+    },
+    {
+      "album": {
         "name": "Ultimo addio",
         "url": "https://open.spotify.com/album/7vs04FRFm1oifBdzXdGvgb"
       },
@@ -17816,6 +17978,24 @@
       "duration_ms": 156835,
       "name": "Un\u2019altra Mania",
       "url": "https://open.spotify.com/track/1taGP4ykDbPVPqMt1wovJN"
+    },
+    {
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/5Cmr7WhuhmV1nAHHuvdUd9"
+      },
+      "artists": [
+        {
+          "name": "fiori d'artificio",
+          "url": "https://open.spotify.com/artist/3MXnL1M89Wm3mO7kInwwRO"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163255,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5xHrjemS8vIl1tkyUwk5NP"
     },
     {
       "album": {

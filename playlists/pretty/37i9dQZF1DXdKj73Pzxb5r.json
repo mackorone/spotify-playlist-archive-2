@@ -1,13 +1,45 @@
 {
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rumahsakit",
-  "num_followers": 34259,
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Elephant Kind",
+  "num_followers": 34265,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwxS0cxWobaQA/UnJZafFrSAeHP",
+  "snapshot_id": "AAAAAC1HD01jufmW8tTAnEXe2/4cn4jc",
   "tracks": [
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Plan",
+        "url": "https://open.spotify.com/album/579QnPtwji8uwbduXTpMSI"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Plan",
+      "url": "https://open.spotify.com/track/6ywYZytrkVHljYD2NdT86B"
+    },
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
@@ -45,6 +77,102 @@
       "url": "https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k"
     },
     {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Monopolar",
+        "url": "https://open.spotify.com/album/2xIr4lTHFOX24DssyuvO0R"
+      },
+      "artists": [
+        {
+          "name": "Strange Fruit",
+          "url": "https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Monopolar",
+      "url": "https://open.spotify.com/track/7FsylnthYpfFkOnFj8xBT5"
+    },
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Malari 74",
+        "url": "https://open.spotify.com/album/2VTxekOCy6zKDOGr1fg8qU"
+      },
+      "artists": [
+        {
+          "name": "Yoko City Ghost",
+          "url": "https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ"
+        }
+      ],
+      "duration_ms": 504260,
+      "name": "Malari 74",
+      "url": "https://open.spotify.com/track/09eErDgyFU1NnKmuUKSyM4"
+    },
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Awal Masa",
+        "url": "https://open.spotify.com/album/4rbBU2sNozWLxdfeMjyQAi"
+      },
+      "artists": [
+        {
+          "name": "GUNGS",
+          "url": "https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "IYAA",
+      "url": "https://open.spotify.com/track/4XfW8WDKYzgNC2G5xMHQUk"
+    },
+    {
+      "added_at": "2026-01-30 03:11:26",
+      "album": {
+        "name": "nulla, vol.1",
+        "url": "https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q"
+      },
+      "artists": [
+        {
+          "name": "T. Rucira",
+          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
+        }
+      ],
+      "duration_ms": 228607,
+      "name": "nulla",
+      "url": "https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH"
+    },
+    {
+      "added_at": "2026-02-06 02:15:06",
+      "album": {
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz"
+      },
+      "artists": [
+        {
+          "name": "adoracion",
+          "url": "https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8"
+    },
+    {
+      "added_at": "2026-02-06 02:15:59",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/2iMS3PNOr7ydeR2Gn3UOP5"
+      },
+      "artists": [
+        {
+          "name": "Featuz",
+          "url": "https://open.spotify.com/artist/3EgfHzR0rv5ZYE8wvbqqde"
+        }
+      ],
+      "duration_ms": 231818,
+      "name": "People Never Change",
+      "url": "https://open.spotify.com/track/0ctg3ul5v15bY48DeoeAIv"
+    },
+    {
       "added_at": "2026-01-30 03:11:26",
       "album": {
         "name": "Ghost Circuit",
@@ -79,22 +207,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "nulla, vol.1",
-        "url": "https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q"
-      },
-      "artists": [
-        {
-          "name": "T. Rucira",
-          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
-        }
-      ],
-      "duration_ms": 228607,
-      "name": "nulla",
-      "url": "https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Heaven In Philadelphia",
         "url": "https://open.spotify.com/album/0q5azHZ8A0b41jjG0kKP58"
       },
@@ -123,6 +235,22 @@
       "duration_ms": 204590,
       "name": "Smile Like The Sun",
       "url": "https://open.spotify.com/track/5Xxtcc2F184IUgv11QjjhO"
+    },
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Strangest Thing",
+        "url": "https://open.spotify.com/album/4KhLjeU0e23xMbcHBmxb4H"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Strangest Thing",
+      "url": "https://open.spotify.com/track/2xJirPz5nrfgLM6NTenL0a"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -299,26 +427,6 @@
       "duration_ms": 192989,
       "name": "Ends With Holding You",
       "url": "https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "LEVITASI",
-        "url": "https://open.spotify.com/album/12y9mwCN7sJaQmcQlyS5V2"
-      },
-      "artists": [
-        {
-          "name": "TANJUNG",
-          "url": "https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        }
-      ],
-      "duration_ms": 211178,
-      "name": "Salahkah",
-      "url": "https://open.spotify.com/track/2M1fu2RYxPGZ0jwogMR0UX"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -839,38 +947,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Berdansa di Pesta",
-        "url": "https://open.spotify.com/album/2CaUhA0E0rnKauBuCJRWME"
-      },
-      "artists": [
-        {
-          "name": "Aksaranata",
-          "url": "https://open.spotify.com/artist/2oqxRLLsnj8YXdqoHUK3dt"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Berdansa di Pesta",
-      "url": "https://open.spotify.com/track/3zl5F4BCmmQ0TgNl3iqqGu"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Hidup Baru",
-        "url": "https://open.spotify.com/album/6gaNIRX2VpAHF4lXBeNytw"
-      },
-      "artists": [
-        {
-          "name": "yowha",
-          "url": "https://open.spotify.com/artist/6fNC8J5n7BnYgmRXWQdb3m"
-        }
-      ],
-      "duration_ms": 240275,
-      "name": "Hidup Baru",
-      "url": "https://open.spotify.com/track/3qTeUn2za3w6m9d77WI5W0"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Behind Closed Doors",
         "url": "https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X"
       },
@@ -903,42 +979,6 @@
       "duration_ms": 248253,
       "name": "When We Left Our Sparks Back in Yesterday",
       "url": "https://open.spotify.com/track/3EUXMfnCw4mxf460xsVhVI"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Sugar Coat Inc.",
-        "url": "https://open.spotify.com/album/71DdkGcoRDXibQH8gs5Utn"
-      },
-      "artists": [
-        {
-          "name": "Tripov",
-          "url": "https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h"
-        }
-      ],
-      "duration_ms": 198948,
-      "name": "My Dear, Oh Dear",
-      "url": "https://open.spotify.com/track/4Nrzjx16pCRUAZ7TXikLpA"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "in my twenties",
-        "url": "https://open.spotify.com/album/3JwZWTu2OgSyuNDIYNQiTh"
-      },
-      "artists": [
-        {
-          "name": "Alex Teh",
-          "url": "https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36"
-        },
-        {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "messy in the weather (feat. Adhitia Sofyan)",
-      "url": "https://open.spotify.com/track/4QyS8e7BCxIBv83n9w2Ek0"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -1011,82 +1051,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "DERAU",
-        "url": "https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN"
-      },
-      "artists": [
-        {
-          "name": "Jugo Djarot",
-          "url": "https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "DERAU",
-      "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Cinta dan Air Mata",
-        "url": "https://open.spotify.com/album/1zMZELWesRtKQ6ATpCPXt0"
-      },
-      "artists": [
-        {
-          "name": "Vintonic",
-          "url": "https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW"
-        }
-      ],
-      "duration_ms": 208187,
-      "name": "Cinta dan Air Mata",
-      "url": "https://open.spotify.com/track/30uxypVmxd8vPrD4WtHuIV"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Penyakit Hati 2",
-        "url": "https://open.spotify.com/album/03lqRrpM5eYm03MJ12QKE7"
-      },
-      "artists": [
-        {
-          "name": "Tarrarin",
-          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
-        },
-        {
-          "name": "Bagja",
-          "url": "https://open.spotify.com/artist/4jAImWkqUpo1ILMq2Tc1G5"
-        },
-        {
-          "name": "Rosmawar",
-          "url": "https://open.spotify.com/artist/6hlYgOhUeTivxVJtWcRSf5"
-        }
-      ],
-      "duration_ms": 176448,
-      "name": "Penyakit Hati 2",
-      "url": "https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Gundah",
-        "url": "https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z"
-      },
-      "artists": [
-        {
-          "name": "The Cottons",
-          "url": "https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy"
-        },
-        {
-          "name": "Aprilia Apsari",
-          "url": "https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Gundah",
-      "url": "https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Tamasya di Angkasa",
         "url": "https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf"
       },
@@ -1099,26 +1063,6 @@
       "duration_ms": 261994,
       "name": "Tamasya di Angkasa",
       "url": "https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Room 17A (make up ur mind)",
-        "url": "https://open.spotify.com/album/5gx1vLtw8bGVTPC7VIelrN"
-      },
-      "artists": [
-        {
-          "name": "Delorians",
-          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
-        },
-        {
-          "name": "deadlorians.",
-          "url": "https://open.spotify.com/artist/3AHPaHS4KdmuYyAIk3i9qF"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Room 17A (make up ur mind)",
-      "url": "https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -1183,22 +1127,6 @@
       "duration_ms": 246750,
       "name": "SEDASA",
       "url": "https://open.spotify.com/track/59lGPlYIugiYJeTv235PUa"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Naluri",
-        "url": "https://open.spotify.com/album/62oVmxB383Ze3O4nDFTpmr"
-      },
-      "artists": [
-        {
-          "name": "Angsa & Serigala",
-          "url": "https://open.spotify.com/artist/5uVsh3l1ETYfBr8fw8Uzng"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Naluri",
-      "url": "https://open.spotify.com/track/6AOBDjmbXo0sUyS18mD8VL"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -1351,22 +1279,6 @@
       "duration_ms": 312374,
       "name": "Nadir",
       "url": "https://open.spotify.com/track/4hLENyIfOUetv7i7i5QGo4"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "DENTUM",
-        "url": "https://open.spotify.com/album/1j19FQajbchxmR1Yc8GKYJ"
-      },
-      "artists": [
-        {
-          "name": "Romantic Echoes",
-          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
-        }
-      ],
-      "duration_ms": 318331,
-      "name": "DENTUM",
-      "url": "https://open.spotify.com/track/0Ie6cd0pjQ5sDXxlimfyti"
     },
     {
       "added_at": "2026-01-30 03:11:26",

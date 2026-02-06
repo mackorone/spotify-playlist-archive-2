@@ -2,7 +2,7 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como Crudo.
+> Fino y elegante, como Blessd y J Álvarez.
 
 353 songs - 18 hr 42 min
 

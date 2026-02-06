@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,524 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,548 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 29 | [Street Smart](https://open.spotify.com/track/5FYzK9MhW1OcxhT1LkuNAB) | [Rudra](https://open.spotify.com/artist/44MHzAVFBiPecgQaxHNPxy), [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Parallax Beatz](https://open.spotify.com/artist/07bqba2Xrt4mYpGnNmqFdk) | [Street Smart](https://open.spotify.com/album/3ttJxk75gL8WKYvbVlVGlc) | 3:08 |
 | 30 | [Makaan](https://open.spotify.com/track/2o1ipIaYWshaBhbayqNpep) | [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3), [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy) | [Heartbreak Manual](https://open.spotify.com/album/7gXEGlBu7eglaGIixLhcVC) | 3:00 |
 | 31 | [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 |
-| 32 | [PARCHA KHOL](https://open.spotify.com/track/5sznjJwt1R072wptYBppaL) | [WANT3D](https://open.spotify.com/artist/2rmTXxI6P6lSp6Sud6moZo), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [PARCHA KHOL](https://open.spotify.com/album/3Aa9c8Zby6UA3AeKGnw8ot) | 3:39 |
+| 32 | [PARCHA KHOL](https://open.spotify.com/track/5sznjJwt1R072wptYBppaL) | [WANT3D](https://open.spotify.com/artist/2rmTXxI6P6lSp6Sud6moZo), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r), [The Xenial Secret](https://open.spotify.com/artist/6iHQVrMCgOsE5e464fSxil) | [PARCHA KHOL](https://open.spotify.com/album/3Aa9c8Zby6UA3AeKGnw8ot) | 3:39 |
 | 33 | [NO CONTRACT?](https://open.spotify.com/track/3DsGQZoBRKyaAaEy6J0dCG) | [99side](https://open.spotify.com/artist/269bxxEYnNM4N0Iizy2dL7), [Rofflala](https://open.spotify.com/artist/5fZxDD1wLAoesdL1uEpDqi) | [NO CONTRACT?](https://open.spotify.com/album/6zcJZy0uc8MwOQkjEKtjVq) | 9:00 |
 | 34 | [Kachi Keri](https://open.spotify.com/track/3qm1pm8ckvLXghGTJPOyVW) | [wardhan](https://open.spotify.com/artist/2OAtsddM5PcYlvKdidW4CO), [ecame](https://open.spotify.com/artist/7i2Vr5FZgv5BqUjHmQuCvE) | [Kachi Keri](https://open.spotify.com/album/4W4x1HfPC03OljqBhEveZt) | 2:08 |
 | 35 | [VN5 \(PYAAS\)](https://open.spotify.com/track/65MAY9YngeKLwqDsejRbhb) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Akash Shravan](https://open.spotify.com/artist/4jFzbVrYw3ARhalxPjFfU0) | [VN5 \(PYAAS\)](https://open.spotify.com/album/27wQ4HeWFdhZrmJuuIfAdh) | 3:14 |

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Siyam
 
-492 songs - 1 day 0 hr 48 min
+494 songs - 1 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Açık Yara](https://open.spotify.com/track/5TWN91FA8QYkXYoo8zYQEb) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Açık Yara](https://open.spotify.com/album/4yOeweMxMdGxJ901dZeyAt) | 3:03 | 2024-08-08 | 2024-11-08 |
 | [Açıldı Kapılar](https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Açıldı Kapılar](https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I) | 2:57 | 2024-12-12 | 2025-11-23 |
 | [ağla güzelim](https://open.spotify.com/track/1SqKjDGRkgi8zeUCyolyhx) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [ağla güzelim](https://open.spotify.com/album/21Wv7Up90usEUO94F1QxnF) | 3:30 | 2025-03-13 | 2025-03-21 |
+| [Aşağılık Sevgili](https://open.spotify.com/track/1eyrfntQvB6SksetYFaKLo) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Aşağılık Sevgili](https://open.spotify.com/album/198fVZm4oGC6wteMAmIUUW) | 3:27 | 2026-02-05 |  |
 | [aşk değil bağımlılık](https://open.spotify.com/track/1sD4CW97iiA5hdxwvcTKxB) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [aşk değil bağımlılık](https://open.spotify.com/album/4jq207usflU4Xmm4O7a5dG) | 3:02 | 2026-01-22 | 2026-01-30 |
 | [Aşka Doyamadığım](https://open.spotify.com/track/2CKOvKwoIqgHMIyki5PUzn) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşka Doyamadığım](https://open.spotify.com/album/6NRXcIDhigFtargqoVGe9f) | 3:33 | 2025-12-25 | 2026-01-31 |
 | [aşka düşelim mi?](https://open.spotify.com/track/284iaPUQYDPcllhQwvxuuB) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [aşka düşelim mi?](https://open.spotify.com/album/4036lmdN5gVVLmZGbt3I7z) | 2:46 | 2025-07-10 | 2025-07-18 |
@@ -100,6 +101,7 @@
 | [Bir Gün Gideceğim Buradan](https://open.spotify.com/track/6xkSI48AJlIRQwffd0and4) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Bir Gün Gideceğim Buradan](https://open.spotify.com/album/2xtEDraGpjQwsGv6rqGSwX) | 5:12 | 2026-01-01 | 2026-02-03 |
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 | 2025-07-18 |
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 | 2025-05-26 |
+| [Bir Hayal](https://open.spotify.com/track/7M1Q7tQiYhEJzOMvT6nUQI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bir Hayal](https://open.spotify.com/album/5DHGd3CQhJ3gizWH4dAa83) | 2:43 | 2026-02-05 |  |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 | 2025-08-01 |
 | [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 | 2025-07-03 | 2025-10-22 |
 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 | 2025-06-26 |  |
@@ -197,7 +199,7 @@
 | [Giderken](https://open.spotify.com/track/6DcdNWiNPgFGVme662paXx) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Giderken](https://open.spotify.com/album/5QJFCk945XXSzrN9pLbnNa) | 3:17 | 2025-01-23 | 2025-02-07 |
 | [Giderken](https://open.spotify.com/track/0u9vscKsv0ILYhO9imXy2B) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Giderken](https://open.spotify.com/album/2a6ab7JIb4MXOmXxVvkux5) | 4:20 | 2025-08-15 | 2025-11-04 |
 | [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 | 2024-11-12 |
-| [Gökyüzü](https://open.spotify.com/track/4VzOeP2FFJHradQ2myK618) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Gökyüzü](https://open.spotify.com/album/50zFMHvD08jJuvIoTh6UfE) | 3:16 | 2026-01-22 |  |
+| [Gökyüzü](https://open.spotify.com/track/4VzOeP2FFJHradQ2myK618) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Gökyüzü](https://open.spotify.com/album/50zFMHvD08jJuvIoTh6UfE) | 3:16 | 2026-01-22 | 2026-02-06 |
 | [Gönlün Arkada Kaldı](https://open.spotify.com/track/6jhyTPqRdjOCKKWDQnIlA0) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71), [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Gönlün Arkada Kaldı](https://open.spotify.com/album/4tennWdRd4Z34dvVfhYnSA) | 2:13 | 2025-11-27 | 2026-01-27 |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 | 2025-07-18 |
 | [Görmeyeli](https://open.spotify.com/track/3kUWBHDjX87A7TcqlazzaB) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/0Y1iRff0MBlxV8v8RdcFxL) | 3:00 | 2025-10-23 | 2025-11-06 |
@@ -257,7 +259,7 @@
 | [Kandım](https://open.spotify.com/track/3LuedX2S05DG0Cq5wwVxBX) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Kandım](https://open.spotify.com/album/1mvy62Xu6egls3dS6StBcB) | 2:51 | 2025-08-15 | 2025-08-29 |
 | [Kandırma](https://open.spotify.com/track/1I7HW3rzJtaQaPVHNFbbsY) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kandırma](https://open.spotify.com/album/3aPOHYpcqG87zC7xTLfxRm) | 3:14 | 2025-08-07 | 2025-08-28 |
 | [Kapına Dayandım](https://open.spotify.com/track/0ba1gp7kIBwvcHPwKRGVe5) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Kapına Dayandım](https://open.spotify.com/album/6rrafkaUVL19kzgfRSw4VB) | 2:45 | 2024-07-25 | 2024-08-02 |
-| [Kara Gözlüm](https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Kara Gözlüm](https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh) | 3:21 | 2026-01-22 |  |
+| [Kara Gözlüm](https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Kara Gözlüm](https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh) | 3:21 | 2026-01-22 | 2026-02-06 |
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 | 2024-07-05 |
 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 | 2025-03-27 | 2025-11-07 |
 | [Karma](https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Karma](https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v) | 3:12 | 2025-07-24 | 2025-09-09 |

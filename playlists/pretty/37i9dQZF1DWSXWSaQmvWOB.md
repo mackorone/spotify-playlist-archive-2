@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: JELISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,727 likes - 108 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,948 likes - 108 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 |
+| 1 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 |
 | 2 | [Bring Me Back To Life](https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 3:24 |
-| 3 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 |
+| 3 | [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 |
 | 4 | [To Love Somebody](https://open.spotify.com/track/00XRL8YKioCRcSb088xivh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 3:45 |
 | 5 | [Honest Man](https://open.spotify.com/track/0Zm9bkfnz9Ukx3cKm45Ulh) | [Leon Lee King](https://open.spotify.com/artist/6RcAjGSc8Ds1Pczaka30qy) | [Honest Man](https://open.spotify.com/album/0DsKsrvezmgBI8rQppwzUN) | 3:23 |
 | 6 | [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 107 | [Colors](https://open.spotify.com/track/4WqG4yMCX2QbjQc8SBaDyt) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [Colors](https://open.spotify.com/album/3GnLPpDwWYpIEdBlgaEk4o) | 3:24 |
 | 108 | [If I Go](https://open.spotify.com/track/714cmvN51nNzhgNbuUagIh) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [If I Go](https://open.spotify.com/album/3OjaVtDPuXV05JoBYGdffT) | 3:20 |
 
-Snapshot ID: `AAAAAOVQxoR1H2fkv9qAwH5MgnqpXvQs`
+Snapshot ID: `AAAAAMZX7jDsEkJQzLQmYf03rI7Z4qby`

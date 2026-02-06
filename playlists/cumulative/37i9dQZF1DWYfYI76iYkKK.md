@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-592 songs - 1 day 14 hr 43 min
+593 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,14 @@
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 | 2023-08-03 | 2023-09-15 |
 | [Save Me From Hell](https://open.spotify.com/track/5mOA5K06EpY7PV62bqTEDI) | [武宏澧](https://open.spotify.com/artist/58kU1aZSAwtNyfcND3dWis) | [Save Me From Hell](https://open.spotify.com/album/0qSi596PI2P2jmf78cnAHV) | 3:48 | 2024-06-27 | 2024-07-05 |
-| [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 | 2025-12-12 |
+| [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 |  |
 | [Sent](https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 4:01 | 2023-10-05 | 2023-10-20 |
 | [She’s A Trouble](https://open.spotify.com/track/3sEUXx8VNNvCxGv4sKEFIJ) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [She’s A Trouble](https://open.spotify.com/album/6wO8VzhdO1YLjXUhOuIf7w) | 4:02 | 2024-10-31 | 2024-11-08 |
 | [so what.](https://open.spotify.com/track/7kp5jX3NL5xWene9JTwW3i) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [so what.](https://open.spotify.com/album/5cHG1xWu7hm4CbwPGTo1O2) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [Softer Than Starlight（柔多比星）](https://open.spotify.com/track/6g4wGpxgBgFscfxDZiKHyN) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Catecholamines](https://open.spotify.com/album/0acJ2NKXBasslauGuQp6Q5) | 5:14 | 2023-11-09 | 2023-11-24 |
 | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/track/3jZKQXkPxiwVmPPtiGO58P) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Special Night（电视剧《轧戏》密语主题曲）](https://open.spotify.com/album/4KEfrMyOcq1I4HPRSBK1Du) | 4:40 | 2026-01-15 |  |
 | [spr.](https://open.spotify.com/track/14efCsyFCL2ijqKALcSJom) | [宋亞軒](https://open.spotify.com/artist/2izHDDZH4WkrB5eOo59GVY) | [spr.](https://open.spotify.com/album/56M8rrG0PmzKhp0FWlV2x7) | 3:13 | 2025-03-13 | 2025-03-21 |
+| [Stay With Me](https://open.spotify.com/track/5XGJDP8nliwD9nnG29LsCy) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Stay With Me](https://open.spotify.com/album/6EbUoTFRqZrM3Eq9EsDNFU) | 3:33 | 2026-02-05 |  |
 | [Sunshine \- Chinese Version](https://open.spotify.com/track/7Dy67OOwBZR61wV979AW8s) | [Sophia Kao](https://open.spotify.com/artist/6MeJZNLqjXuJ0fJ2yPlimo) | [Sunshine \(Chinese Version\)](https://open.spotify.com/album/0Tdt30UplFjakHhsvNMl5o) | 2:21 | 2023-08-03 | 2023-08-18 |
 | [Tattoo \- "REBORN" Movie Ending Song](https://open.spotify.com/track/0H7sm4ptv8fFTkbHDRZoP1) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [Tattoos \("Reborn" Movie Ending Song\)](https://open.spotify.com/album/7DWUnMnAtkQaU5vYRtE7Gr) | 4:29 | 2022-06-30 | 2022-07-27 |
 | [Tears from the Ice River \(Acoustic\)](https://open.spotify.com/track/7lFB4AEhkVzSDNBNzO7rCK) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [Zkaaai](https://open.spotify.com/artist/6RB2RIXIqFLubGeBD7u4gK) | [Tears from the Ice River \(Acoustic\)](https://open.spotify.com/album/0yoV5Jny0beDsW6Nbpe8h5) | 2:51 | 2023-03-16 | 2023-03-31 |
@@ -295,7 +296,7 @@
 | [後視鏡](https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI) | [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [我的雷雨季電台](https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1) | 2:42 | 2024-05-23 | 2025-01-03 |
 | [微笑分手](https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [微笑分手](https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi) | 4:21 | 2022-06-30 | 2022-07-11 |
 | [心的一天](https://open.spotify.com/track/5lEX3SmF9PW55qLo9GjbPw) | [Valencia 胡雪瑜](https://open.spotify.com/artist/4yMIDvM4wXmxuvE3IGrbf1) | [心的一天](https://open.spotify.com/album/4VlmvI6V4TnVOn81n8MiBu) | 3:22 | 2023-11-09 | 2023-11-24 |
-| [心臟的右邊 / Right Side of My Heart \(feat\. 魏如萱\)](https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Same Stories, Different Narratives](https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ) | 4:32 | 2025-06-19 |  |
+| [心臟的右邊 / Right Side of My Heart \(feat\. 魏如萱\)](https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Same Stories, Different Narratives](https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ) | 4:32 | 2025-06-19 | 2026-02-06 |
 | [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 | 2023-10-12 | 2023-12-02 |
 | [怎麼不一樣呢 \(《百味小廚神 中元大餐》插曲\)](https://open.spotify.com/track/4FQdAMz8yJH1sAwitVTNWj) | [李千娜](https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb) | [百味小廚神 中元大餐 \(Original Television Soundtrack\)](https://open.spotify.com/album/2gaHcID7JZU541ZenQQGx2) | 4:36 | 2023-08-31 | 2023-10-10 |
 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 | 2022-06-02 | 2025-03-28 |
@@ -394,7 +395,7 @@
 | [最好的（影視劇《飛馳餘生》主題曲）](https://open.spotify.com/track/1j0JJR7z66LFCxEgP7mgO0) | [徐丹](https://open.spotify.com/artist/6h4pdt9OsFsEsklIS84lUn) | [最好的](https://open.spotify.com/album/5rdzNIfW48kmAlfLiSIZj2) | 4:07 | 2023-08-10 | 2023-08-25 |
 | [最後一封情書](https://open.spotify.com/track/60SwCZbyJ9OmAiGJkLVsgl) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ), [莫子儀](https://open.spotify.com/artist/7wJwYpnCLPuT1gndVaQTYk) | [失物之城](https://open.spotify.com/album/5nHnPgrbJGhhgl0UzytY8Y) | 4:22 | 2022-06-10 | 2022-06-12 |
 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:44 | 2025-08-14 | 2025-11-14 |
-| [最後一次這樣](https://open.spotify.com/track/0nLcKjLIYmCQM7kicJigIi) | [魚翔Yu Xiang](https://open.spotify.com/artist/6z2Zc7kXoJetjvEMGsCUJG) | [最後一次這樣](https://open.spotify.com/album/6vHsulF0uCwiKhXTiR21DJ) | 4:54 | 2026-01-15 |  |
+| [最後一次這樣](https://open.spotify.com/track/0nLcKjLIYmCQM7kicJigIi) | [魚翔Yu Xiang](https://open.spotify.com/artist/6z2Zc7kXoJetjvEMGsCUJG) | [最後一次這樣](https://open.spotify.com/album/6vHsulF0uCwiKhXTiR21DJ) | 4:54 | 2026-01-15 | 2026-02-06 |
 | [最後的晚安\(DEMO\)](https://open.spotify.com/track/2BZnKatCiyHaRFFv3oy3v2) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [最後的晚安\(DEMO\)](https://open.spotify.com/album/4Thhd8c8bh6nsuVB9x5OT3) | 4:04 | 2025-07-10 | 2025-07-18 |
 | [最想見到你 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [44天](https://open.spotify.com/album/6tyHdfBJNMVgeiskGRCCyS) | 3:40 | 2022-06-02 | 2022-07-29 |
 | [最最好](https://open.spotify.com/track/3HPZzjXJzz4Cr4rCJoDp0C) | [弦子](https://open.spotify.com/artist/2jFWO75iGHxpZURZi2FBT4) | [最最好](https://open.spotify.com/album/091F3LtkxmfMLddT29TrYD) | 3:44 | 2025-01-09 | 2025-02-19 |

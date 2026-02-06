@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-14",
-  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Novah",
+  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Odymel",
   "name": "rave",
   "tracks": [
     {
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "BLUE GEMINI",
+        "url": "https://open.spotify.com/album/31JAzkudcJIzJpVg743Fpv"
+      },
+      "artists": [
+        {
+          "name": "3LEEZA",
+          "url": "https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199991,
+      "name": "BLUE GEMINI",
+      "url": "https://open.spotify.com/track/58LeaCBZVxYzMC4h7IwXGJ"
+    },
+    {
+      "album": {
         "name": "Body 2 Body",
         "url": "https://open.spotify.com/album/4d2Gk7HZHYG0Hy0mUhhhst"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 196812,
       "name": "Body 2 Body",
       "url": "https://open.spotify.com/track/3s8mmearbEIac4NbavqVSl"
+    },
+    {
+      "album": {
+        "name": "BONKSEN",
+        "url": "https://open.spotify.com/album/795Zi8UMTqLPrClQscPLI8"
+      },
+      "artists": [
+        {
+          "name": "Doruksen",
+          "url": "https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "BONKSEN",
+      "url": "https://open.spotify.com/track/3d8guQ7YoY7ltgJce1LdRp"
     },
     {
       "album": {
@@ -1596,6 +1632,28 @@
       "duration_ms": 194558,
       "name": "Buurman Uit Berlijn - Radio Edit",
       "url": "https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr"
+    },
+    {
+      "album": {
+        "name": "Buzz n Bass",
+        "url": "https://open.spotify.com/album/5XFz6CSUebIITjz2k0QdIa"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        },
+        {
+          "name": "Trancemaster Krause",
+          "url": "https://open.spotify.com/artist/5zKJhJZNLAQoVoycu4Esnw"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Buzz n Bass",
+      "url": "https://open.spotify.com/track/18ObX0v5LFMC5C01mUog5B"
     },
     {
       "album": {
@@ -2382,7 +2440,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 171495,
       "name": "Diamonds on My Neck",
       "url": "https://open.spotify.com/track/00HVImziSu4MZSdpBgDGZz"
@@ -2626,7 +2684,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 227560,
       "name": "DO MARGINAL",
       "url": "https://open.spotify.com/track/5uRXdl2c3WPC6KGaq7eJpl"
@@ -2776,7 +2834,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 155492,
       "name": "Don't Turn Your Back",
       "url": "https://open.spotify.com/track/1bb6p0xbMmSIXvRVoVGBdR"
@@ -3010,7 +3068,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 144853,
       "name": "Drop It Like This",
       "url": "https://open.spotify.com/track/03bxrsDirOeyLukjVr7kml"
@@ -3844,7 +3902,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178874,
       "name": "Fire II : Dragon Return",
       "url": "https://open.spotify.com/track/73GX54INzJBte2PuK23SNR"
@@ -4576,7 +4634,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 302400,
       "name": "Gucci but different",
       "url": "https://open.spotify.com/track/4zmDjQo7YG1l2oHsOpAn5U"
@@ -4876,6 +4934,32 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "album": {
+        "name": "HOW WE GET",
+        "url": "https://open.spotify.com/album/2tMez4F42VqibciWSK58aV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Brero",
+          "url": "https://open.spotify.com/artist/1QhdMPjpZukcfa9gHJOlAO"
+        },
+        {
+          "name": "CARGO",
+          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
+        },
+        {
+          "name": "Hanne B",
+          "url": "https://open.spotify.com/artist/2BtaIszxPIaEd1g9u6Ni7W"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215012,
+      "name": "HOW WE GET",
+      "url": "https://open.spotify.com/track/291Y9MeF8pnIfqZPqSV7Gy"
     },
     {
       "album": {
@@ -5480,6 +5564,36 @@
       "duration_ms": 213937,
       "name": "In The City (Charli XCX & Sam Smith) - DJ HEARTSTRING REMIX",
       "url": "https://open.spotify.com/track/1PPyQo1k7wI1U6BcaD0ZfT"
+    },
+    {
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/6DyjHjDdM04ke0HAGe3t0I"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        },
+        {
+          "name": "SARIAN",
+          "url": "https://open.spotify.com/artist/0q3mpiybWOPy6s6U48OQxJ"
+        },
+        {
+          "name": "Felix Averian",
+          "url": "https://open.spotify.com/artist/5vAVNHQJI2uD7IVsoADd9V"
+        },
+        {
+          "name": "FUMI",
+          "url": "https://open.spotify.com/artist/0ieV0HaegU5VGBSBXpY2qK"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125571,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/2bigdkLGJMGh9CGUZ9sl3e"
     },
     {
       "album": {
@@ -7371,6 +7485,24 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6pc1W2easTIXpeZOQc5oa7"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3IhQToC4GB1FWMrDHeeWt1"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
       },
@@ -7426,7 +7558,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 161697,
       "name": "Morals",
       "url": "https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj"
@@ -8418,7 +8550,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 199720,
       "name": "PACKS",
       "url": "https://open.spotify.com/track/3418oOr3jVq1miS6BUDFCd"
@@ -10334,7 +10466,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 146080,
       "name": "Space Train",
       "url": "https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB"
@@ -10508,6 +10640,28 @@
       "duration_ms": 276493,
       "name": "Stereoscopic",
       "url": "https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/7xODWuhqiBGndgvajvmo69"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "JOKESONYOU",
+          "url": "https://open.spotify.com/artist/2XqkFv7puGh2cP0azCZdoc"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7H3GMZLMdTaiAytCvI3i93"
     },
     {
       "album": {
@@ -11358,6 +11512,24 @@
       "duration_ms": 332500,
       "name": "Tivoli",
       "url": "https://open.spotify.com/track/4gRhss10Km9aMS5Qyz8WpT"
+    },
+    {
+      "album": {
+        "name": "TO THE CLUB",
+        "url": "https://open.spotify.com/album/35JglLF6BtTRj0x0CeIPbH"
+      },
+      "artists": [
+        {
+          "name": "Elon Bass",
+          "url": "https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "TO THE CLUB",
+      "url": "https://open.spotify.com/track/4mcbdZwwH9FJige0KyrEf0"
     },
     {
       "album": {
@@ -12820,7 +12992,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 275244,
       "name": "Yoyoyo",
       "url": "https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI"

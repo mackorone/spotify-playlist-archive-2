@@ -2,7 +2,7 @@
 
 ### [NXT](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> NXT presents..\. Ones to Watch 2026: Jubed
+> NXT presents..\. Ones to Watch 2026: Toxic Lyrikali
 
 627 songs - 1 day 5 hr 16 min
 

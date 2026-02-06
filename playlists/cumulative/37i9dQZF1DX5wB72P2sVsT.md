@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> David Guetta, Teddy Swims et Tones and I au top des bangers dance/electro du moment !
+> Kato au top des bangers dance/electro du moment !
 
 327 songs - 15 hr 3 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 77279,
+  "num_followers": 77271,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Hymns For The Christian Life",
-        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Presence People",
         "url": "https://open.spotify.com/album/3kSJsZ20S5G9Q53vkhrDAi"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 471490,
       "name": "Jesus Forever",
       "url": "https://open.spotify.com/track/0uj4h2Ltq68hUBoaTp62Oy"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Hymns For The Christian Life",
+        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "All Of The Above",
-        "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
+        "name": "Passion: Salvation\u2019s Tide Is Rising",
+        "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 330360,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+      "duration_ms": 268466,
+      "name": "My Victory",
+      "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Passion: Salvation\u2019s Tide Is Rising",
-        "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
+        "name": "All Of The Above",
+        "url": "https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 268466,
-      "name": "My Victory",
-      "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
+      "duration_ms": 330360,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "People (Live)",
-        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Chris Davenport",
-          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
-        },
-        {
-          "name": "Joel Houston",
-          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
-        }
-      ],
-      "duration_ms": 393360,
-      "name": "Another In The Fire - Live",
-      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1447,6 +1423,30 @@
       "duration_ms": 273439,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4nzSgYDePiYrLJbrxqE36p"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Chris Davenport",
+          "url": "https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "duration_ms": 393360,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/0XeC21BGINMRdZnaPQQNPx"
-      },
-      "artists": [
-        {
-          "name": "Life Church Music",
-          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
-        }
-      ],
-      "duration_ms": 378733,
-      "name": "The Anchor (Live)",
-      "url": "https://open.spotify.com/track/0NkwVfWRSsrBQlo6tE6nVA"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "This Is Jesus",
         "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 317415,
       "name": "Calvary's Cross",
       "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/0XeC21BGINMRdZnaPQQNPx"
+      },
+      "artists": [
+        {
+          "name": "Life Church Music",
+          "url": "https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2"
+        }
+      ],
+      "duration_ms": 378733,
+      "name": "The Anchor (Live)",
+      "url": "https://open.spotify.com/track/0NkwVfWRSsrBQlo6tE6nVA"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Faith And Wonder (Live)",
         "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 359374,
       "name": "Who Could (Live)",
       "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Good News (Live)",
+        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 266632,
+      "name": "Good News - Live",
+      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Deeper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Behold (The King Is Calling) [Live]",
         "url": "https://open.spotify.com/album/6z8l97hpcXTNVvFp1rpjQP"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 809142,
       "name": "Behold (The King Is Calling) - Live",
       "url": "https://open.spotify.com/track/2p1MCZwVjTPOOaOGWov6eA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Deeper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO"
     },
     {
       "added_at": "2025-04-11 04:00:15",

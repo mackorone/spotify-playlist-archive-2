@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Returning To Myself (Commentary Album)",
+        "url": "https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287545,
+      "name": "A Long Goodbye",
+      "url": "https://open.spotify.com/track/6jqH5HXEsyuyDCO3EqucQJ"
+    },
+    {
+      "album": {
         "name": "Are You Ready?",
         "url": "https://open.spotify.com/album/57WzHBJGngVVWhd1V3pXMM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 255 likes - 1,835 songs - 4 day 15 hr 0 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 256 likes - 1,872 songs - 4 day 16 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1843,5 +1843,42 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1833 | [Latido](https://open.spotify.com/track/4EbWNHuIQT77zPekmQXv03) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Latido](https://open.spotify.com/album/0JfNRexOOM77SDxARoTJxl) | 3:00 |
 | 1834 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 |
 | 1835 | [FIRST \- LIVE AT THE PUB](https://open.spotify.com/track/2Hbsuhl4xxHs6Nb4cARevw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST \(LIVE AT THE PUB\)](https://open.spotify.com/album/7dSAOE0d05FwcUYrbFadqh) | 3:42 |
+| 1836 | [Summer Rain](https://open.spotify.com/track/6KdmlljQVKULvy3GQmZRCH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summer Rain](https://open.spotify.com/album/1iQUHaUbjh5cVtAHf0lz5e) | 1:50 |
+| 1837 | [Ain't No Other Woman](https://open.spotify.com/track/5Zs8bCESSuAHbLueu57glk) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Ain't No Other Woman](https://open.spotify.com/album/7hOoR58irid4LYyGp9Oj2n) | 1:52 |
+| 1838 | [Space Odyssey](https://open.spotify.com/track/5lwtSR1F1bHAhbxCGRZdFj) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 1:15 |
+| 1839 | [Free Palestine LO\-FI](https://open.spotify.com/track/6f09c4eH3eZlL1vqmYroXM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Free Palestine LO\-FI](https://open.spotify.com/album/082KN8HXMQlTr0NHkKoE1l) | 2:29 |
+| 1840 | [Sunset](https://open.spotify.com/track/5ETP74JwR7Z9EzqbcPli12) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Sunset](https://open.spotify.com/album/467M1BSniMWgsqFXe8oB1P) | 1:36 |
+| 1841 | [Drilling 4 Black Gold](https://open.spotify.com/track/16lq7Qholf7soy69oXCnb3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Drilling 4 Black Gold](https://open.spotify.com/album/4Kdmee7t25mzd2Q5Hqvj9W) | 2:20 |
+| 1842 | [I](https://open.spotify.com/track/6heF1ldh4Tr4mvMAxYuGnL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:30 |
+| 1843 | [HipHop Sonata by Night](https://open.spotify.com/track/1G3pYdf1r3dGFeeXmdwzjx) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [HipHop Sonata by Night](https://open.spotify.com/album/2So7Ex6Cz2uolQvTpmxU29) | 3:43 |
+| 1844 | [The Five Jack O'Lanterns](https://open.spotify.com/track/04n4d2bNgCu8n2lI03s0Cd) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 3:20 |
+| 1845 | [Goodbye](https://open.spotify.com/track/2VmozdG04Rzg1nwsJwOi10) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Goodbye](https://open.spotify.com/album/11VEbc2aRfahpmOloNyRjX) | 2:19 |
+| 1846 | [Mellow](https://open.spotify.com/track/2CVk6XYIXcjx6YuAJSMW2p) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:43 |
+| 1847 | [Silent Reflection](https://open.spotify.com/track/2qMxLBcSgoWXSLpJ8Jcws9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Silent Reflection](https://open.spotify.com/album/5N9SsUFysyqH3LBtphkl5g) | 2:58 |
+| 1848 | [Fright Nights](https://open.spotify.com/track/5RDslJNl9VYwb8yomdDieO) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 3:07 |
+| 1849 | [A New Dawn Is Rising](https://open.spotify.com/track/0WCQyNS7wdBFuiusXW6Ktl) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [A New Dawn Is Rising](https://open.spotify.com/album/0AeBVX509zDizQJftgdW8v) | 3:20 |
+| 1850 | [Seclusion](https://open.spotify.com/track/5oAENAFAHwWRvCyWu53EEL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:36 |
+| 1851 | [Westside Boogie](https://open.spotify.com/track/1MJBGA9MJr1TEox9h7MCLF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Westside Boogie](https://open.spotify.com/album/4TS2CFnVY2TdQi4Otqltrf) | 1:19 |
+| 1852 | [Witches' Coven](https://open.spotify.com/track/3DqADy3xSf6qtB8rZVmfkl) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:55 |
+| 1853 | [Free Palestine](https://open.spotify.com/track/7qvqjcI8UZcEHg0qobqO5v) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Free Palestine](https://open.spotify.com/album/1ZcwYoogiPCQtVy7VSFPF0) | 1:45 |
+| 1854 | [Garden Of Eden](https://open.spotify.com/track/04EBNQslSK2Eu5ls4RSqyF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 1:25 |
+| 1855 | [YEEZUS WTF Is Wrong With You](https://open.spotify.com/track/1aLiGeXArkpoXyyVGDaTsH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [YEEZUS WTF Is Wrong With You](https://open.spotify.com/album/4q9Nr8kViPDAerpUuydRey) | 1:57 |
+| 1856 | [FREE LUIGI](https://open.spotify.com/track/46XfL6oFDAvccDQKTcGzks) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [FREE LUIGI](https://open.spotify.com/album/6ieX42cMu1R1HPecaoHCbe) | 3:16 |
+| 1857 | [Último Día de Playa](https://open.spotify.com/track/6NAJNGtKdGlomwElyk9Wfb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Último Día de Playa](https://open.spotify.com/album/53jVLMm40xLGS3l4Bwpk5g) | 3:48 |
+| 1858 | [Jazzy Days](https://open.spotify.com/track/14TeaPm478rDzyg4zrJbZg) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:05 |
+| 1859 | [I'll Let Go](https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I'll Let Go](https://open.spotify.com/album/0l61DNg32FUICvJGrSnqL2) | 2:54 |
+| 1860 | [Black Diamond In The Sky](https://open.spotify.com/track/6ULLg6F4CeuOB3TXdt3ApY) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Black Diamond In The Sky](https://open.spotify.com/album/2rqliFFlzocYr0fwZQb5sX) | 3:19 |
+| 1861 | [4:20](https://open.spotify.com/track/0Q91CUgcx43dgZio77W5Pq) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [4:20](https://open.spotify.com/album/5JTdhKilGQNGu4HDvBH3Tv) | 2:10 |
+| 1862 | [Whispers in the Woods](https://open.spotify.com/track/4jKXQNoP21umJ1aSZOKlGX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:45 |
+| 1863 | [I Love It \(When U Get Me Hot\)](https://open.spotify.com/track/77pIzX0sn91x6tzFjMgYQD) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I Love It \(When U Get Me Hot\)](https://open.spotify.com/album/6B48gNn25ibto7J62Jxp6U) | 4:29 |
+| 1864 | [Creepy Clown Music](https://open.spotify.com/track/3yWagvtgVuGUsZiPCvtxfQ) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Creepy Clown Music](https://open.spotify.com/album/5msCrIVId2CJ7SFLc6a759) | 3:12 |
+| 1865 | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/track/0jGrZv6oYBMjewGisdMmLf) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Midnight Symphony in B\-Flat Minor](https://open.spotify.com/album/1NSR8MdqFU94rvtZSbiApm) | 3:19 |
+| 1866 | [Paranormal Activity](https://open.spotify.com/track/5zvsKYkzwTF8zp0HjO5URg) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 1:52 |
+| 1867 | [Summertime](https://open.spotify.com/track/1ZFp8VqkVqtoDyHN2DqG8U) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summertime](https://open.spotify.com/album/5lvXKEIhhOFJdskGf6BlEf) | 4:47 |
+| 1868 | [Stylistic](https://open.spotify.com/track/51iZcgX4evi9xTatArievX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Stylistic](https://open.spotify.com/album/0yq7btu8PMqTGafTxSWYrO) | 1:51 |
+| 1869 | [Close](https://open.spotify.com/track/3VD3K1yTGF4bvqYddUhbS9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Close](https://open.spotify.com/album/2zeQG69Omrxy1bSrsrB3m7) | 2:55 |
+| 1870 | [Whispers Interlude](https://open.spotify.com/track/2vD0ygDVavXuP21jhGpWak) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 0:34 |
+| 1871 | [Castles In The Sand](https://open.spotify.com/track/69BPGdSMjgoqMc7ARHTWD3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Castles In The Sand](https://open.spotify.com/album/0DAvX41yl9ymrUie0E6Dp9) | 3:57 |
+| 1872 | [The Mask of Port Royal](https://open.spotify.com/track/7AUvEj1PnsUp5MiyBgHupD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Mask of Port Royal](https://open.spotify.com/album/5h3nOYxuBXFtGkW7DMfbro) | 3:44 |
 
-Snapshot ID: `AAAIBlWXEOthxkgGDa2j1m8C6S33GA0W`
+Snapshot ID: `AAAICNmd3sORUCw55yUsnmvQnSYdesfe`

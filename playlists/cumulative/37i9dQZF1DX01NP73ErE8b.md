@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  BLANCO in cover
+> I brani italiani che abbiamo on repeat  🔁  Noemi in cover
 
-497 songs - 1 day 1 hr 34 min
+500 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 ora](https://open.spotify.com/track/0b54d3bmW5cKbntB5Rrp1H) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/2DyqXtkT9eESK7W7deh9sZ) | 2:57 | 2025-05-01 | 2025-05-27 |
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-07-27 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-07-01 | 2024-08-20 |
+| [16 MARZO \(con Achille Lauro\)](https://open.spotify.com/track/01TUkBH9V8oHCf2BkqOZUG) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [IO CANTO 2](https://open.spotify.com/album/7u8bubJkuvkbsjimRnETdi) | 3:42 | 2026-02-05 |  |
 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 | 2025-01-09 | 2025-01-24 |
 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 | 2026-01-15 | 2026-01-30 |
 | [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 | 2025-07-01 | 2025-08-23 |
@@ -95,12 +96,12 @@
 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 | 2025-05-22 | 2025-12-19 |
 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 | 2025-02-12 | 2025-06-13 |
 | [Chill](https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Chill](https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF) | 2:15 | 2025-05-15 | 2025-09-24 |
-| [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 |  |
+| [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 | 2026-01-21 | 2026-02-06 |
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-11 |
 | [CITTÀ BRUCIATA](https://open.spotify.com/track/4zBPnaMz5ebUL3hIvJkG4r) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [CITTÀ BRUCIATA](https://open.spotify.com/album/0Ug4CAdFkw1IcTm9v6R9pa) | 2:31 | 2025-05-08 | 2025-06-04 |
 | [Clamo](https://open.spotify.com/track/4hjPMRNdO051CH4vbvm2Ty) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Clamo](https://open.spotify.com/album/0teZmkbw8UI1Bp6olhIuln) | 2:30 | 2025-01-09 | 2025-02-12 |
 | [CODICE ROSSO \(feat\. Ketama126\)](https://open.spotify.com/track/0JdNrT8m1ivzumEkSK4GSU) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [CODICE ROSSO \(feat\. Ketama126\)](https://open.spotify.com/album/4PnWAViZoWPhwDZGcWGJWZ) | 2:38 | 2025-11-20 | 2025-12-19 |
-| [Col tuo nome](https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Lunedì](https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo) | 2:58 | 2026-01-22 |  |
+| [Col tuo nome](https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Lunedì](https://open.spotify.com/album/0n9Mdq5RwqIXEqmiarJvFo) | 2:58 | 2026-01-22 | 2026-02-06 |
 | [colpo di tosse](https://open.spotify.com/track/2npEqmXQJIjNXi1OvpJaFJ) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:09 | 2025-04-10 | 2025-04-25 |
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 | 2025-02-06 |
 | [Come ti pare](https://open.spotify.com/track/442iJf633cBGxEYjFKclrA) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [Come ti pare](https://open.spotify.com/album/3P24oOA71cIk2H7iI3tx3s) | 2:55 | 2025-04-17 | 2025-05-30 |
@@ -141,7 +142,7 @@
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-12 | 2025-11-21 |
 | [ECO](https://open.spotify.com/track/6QCTxkk1mFF54CMNROO8A9) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ECO](https://open.spotify.com/album/3S37iz4O7LuteCbsheta2d) | 2:09 | 2025-09-11 | 2025-10-03 |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-12 | 2025-04-11 |
-| [ECO](https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [ECO](https://open.spotify.com/album/1wRVugtJAp1Z199ndOK4tN) | 2:30 | 2026-01-14 |  |
+| [ECO](https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [ECO](https://open.spotify.com/album/1wRVugtJAp1Z199ndOK4tN) | 2:30 | 2026-01-14 | 2026-02-06 |
 | [Effetto Michelangelo](https://open.spotify.com/track/0gjhofGQhOfHRPIMUm4xZR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Effetto Michelangelo](https://open.spotify.com/album/6UW5e6nybaoQxKWj6rlhFc) | 3:12 | 2025-11-13 | 2025-12-18 |
 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 | 2025-04-17 | 2025-05-02 |
 | [ERAVAMO NOI](https://open.spotify.com/track/38wsjARxC8QjPPOvjaIpCb) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [ERAVAMO NOI](https://open.spotify.com/album/3uttVXC1dH9oLKUhlrP522) | 3:46 | 2025-04-17 | 2025-05-08 |
@@ -228,6 +229,7 @@
 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 | 2025-11-20 | 2025-12-30 |
 | [LA GELOSIA](https://open.spotify.com/track/4zqzwofYeyScZ7ix0KmclN) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [LA GELOSIA](https://open.spotify.com/album/3bLkZuCcgJ2YzaUGwMXMbg) | 3:11 | 2025-05-22 | 2025-06-04 |
 | [La ghigliottina](https://open.spotify.com/track/07JD3mo4jLWXoSOuSzL8Bp) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [La ghigliottina](https://open.spotify.com/album/5irwCesxjZvde8AFNOW3at) | 3:42 | 2024-09-19 | 2024-10-18 |
+| [LA MIA STORIA](https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [LA MIA STORIA](https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd) | 2:53 | 2026-02-05 |  |
 | [LA MIA STORIA TRA LE DITA](https://open.spotify.com/track/31eAijCejvmhSeou6L40Su) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [LA MIA STORIA TRA LE DITA / All Versions](https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN) | 5:15 | 2025-09-11 | 2025-10-17 |
 | [La notte](https://open.spotify.com/track/1ORx3yuGZUW1FjowRyVztF) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 2:45 | 2025-10-09 | 2025-11-04 |
 | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 | 2024-11-26 | 2025-01-17 |
@@ -457,6 +459,7 @@
 | [Ti Fidavi \(feat\. Capo Plaza\)](https://open.spotify.com/track/4FdRVbXlQTdmfDCQPNZYVp) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:11 | 2025-03-20 | 2025-05-23 |
 | [Ti manca l’aria](https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Ti manca l’aria](https://open.spotify.com/album/56b0zsCOziJ9ujXcqs93Jy) | 3:12 | 2025-04-03 | 2025-10-25 |
 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 | 2025-04-03 | 2025-04-18 |
+| [ti prego non piangere](https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [ti prego non piangere](https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw) | 3:19 | 2026-02-05 |  |
 | [Tilt](https://open.spotify.com/track/6EzqfLXQSgs0JeTY73VZob) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tilt](https://open.spotify.com/album/2dZj4dQ0l93htP9jv6HD1Z) | 2:25 | 2025-04-17 | 2025-05-09 |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-07-01 | 2024-11-15 |
 | [Tornado](https://open.spotify.com/track/7HVSOhJfXg6aeRoULQqFQv) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tornado](https://open.spotify.com/album/0L6R6QRvA7TjB9XA53aMUu) | 2:43 | 2024-10-03 | 2024-10-23 |

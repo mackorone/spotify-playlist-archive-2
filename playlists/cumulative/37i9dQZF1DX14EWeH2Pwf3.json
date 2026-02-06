@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "10 AD",
+        "url": "https://open.spotify.com/album/5ZCtDKhvCG3KgLZ82qQ5JQ"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209802,
+      "name": "10 AD",
+      "url": "https://open.spotify.com/track/1r6AV5MMjO8xAkBB9g8Cde"
+    },
+    {
+      "album": {
         "name": "100 MESSAGGI",
         "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
       },
@@ -874,7 +892,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 151488,
       "name": "a me piace #249 (feat. LILCR)",
       "url": "https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 185960,
       "name": "AMBRA (feat. Tedua)",
       "url": "https://open.spotify.com/track/2bzsS7p3b4s6eeZu0ZGQyj"
@@ -2528,6 +2546,24 @@
       "duration_ms": 196085,
       "name": "Banlieue",
       "url": "https://open.spotify.com/track/1QKBcUYppvjlYrcQuGS73H"
+    },
+    {
+      "album": {
+        "name": "BASTA",
+        "url": "https://open.spotify.com/album/0bRbYs6orDKrJ2prSY31ZL"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "BASTA",
+      "url": "https://open.spotify.com/track/1mBo5wxBPceNVvIu9TzLrt"
     },
     {
       "album": {
@@ -5924,7 +5960,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 147368,
       "name": "DIEGO",
       "url": "https://open.spotify.com/track/7jhmOPnKn9dv0DhZQ4KNq9"
@@ -6698,7 +6734,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 198001,
       "name": "Eroina (feat. Tutti Fenomeni)",
       "url": "https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee"
@@ -10566,6 +10602,28 @@
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
+    },
+    {
+      "album": {
+        "name": "Anche gli Eroi Muoiono",
+        "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163305,
+      "name": "La violenza Necessaria (feat. Shiva)",
+      "url": "https://open.spotify.com/track/4gYOPsRynx7hXQm5q47o04"
     },
     {
       "album": {
@@ -15254,6 +15312,28 @@
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
+    },
+    {
+      "album": {
+        "name": "Cipriani",
+        "url": "https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Patek Philippe (feat. Lazza)",
+      "url": "https://open.spotify.com/track/6sukW44PrvVzeko9KZlqen"
     },
     {
       "album": {

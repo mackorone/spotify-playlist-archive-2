@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-498 songs - 1 day 11 hr 10 min
+499 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Asleep Among Endives](https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Asleep Among Endives](https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S) | 5:06 | 2023-11-28 |  |
 | [Asshole \- Unplugged Mix](https://open.spotify.com/track/0lQjyUIG1gJXqsqtUPLVq5) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Asshole \(Unplugged Mix\)](https://open.spotify.com/album/0bUhsgRLVMVCD2O0EvBv55) | 6:17 | 2024-03-05 | 2024-06-22 |
 | [astronaut](https://open.spotify.com/track/7MyaO0sCEPGYAugCbltZsr) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [astronaut](https://open.spotify.com/album/4LAASJUTt0j2xtB79no0DH) | 4:38 | 2022-12-15 | 2022-12-21 |
+| [away](https://open.spotify.com/track/1MYetTbja5QTuFPovHz51u) | [Suzu Toyama](https://open.spotify.com/artist/22PLvYimVUNQsA4G9HfM1u) | [swim](https://open.spotify.com/album/4lHEtHGt79utQFn5XauGUP) | 4:28 | 2026-02-05 |  |
 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 | 2022-11-23 | 2023-02-17 |
 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-03 | 2023-12-17 |
 | [Beautiful and Various Dreams](https://open.spotify.com/track/5GWhM4Atl9aZqmN51jhpwI) | [Haruka Strings](https://open.spotify.com/artist/5OycqAeoJSots0lHem0k3b) | [Dreams in the Wind](https://open.spotify.com/album/4vxw13tXAZNNUMbY9E8QtK) | 6:30 | 2023-10-10 | 2023-10-25 |
@@ -83,7 +84,7 @@
 | [Furui Chizu \(Old Map\)](https://open.spotify.com/track/0cNzX9fSafdJQQuxNeUOFM) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [Kazuma Fujimoto](https://open.spotify.com/artist/20qDjhYBrYKWNCKmGgJIFH) | [Yoru no Niwa \(Night Garden\)](https://open.spotify.com/album/596yPS71AnU4gBjgzK4eKR) | 3:42 | 2022-11-10 | 2022-12-14 |
 | [Gekijyou](https://open.spotify.com/track/6JgoiW5cZae1GUEktXaJLq) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 5:58 | 2023-08-15 | 2024-01-10 |
 | [Gloria](https://open.spotify.com/track/1LfLRWF1I3ydJpNgwGP88u) | [Wuinguin](https://open.spotify.com/artist/00N3aCj3lIPQW8hcPNFjRO) | [Gloria](https://open.spotify.com/album/4c7yPOvymJDhwEpwiQ1yOq) | 3:07 | 2023-03-14 | 2023-03-29 |
-| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 |  |
+| [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 | 2022-10-20 | 2026-02-06 |
 | [grace](https://open.spotify.com/track/4tIvs7L5ND34rMCCfMuKUQ) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs) | [grace](https://open.spotify.com/album/5xy29po3H6R9PgsIfznkl3) | 3:03 | 2022-12-06 | 2025-02-07 |
 | [Grapefruit Moon](https://open.spotify.com/track/2PE3kNSKy56QkLZmO3Sb5w) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:16 | 2023-10-03 | 2024-04-19 |
 | [Grapefruit Moon](https://open.spotify.com/track/4u6rKlnEBE1Ul3Ll7IUuH9) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Grapefruit Moon](https://open.spotify.com/album/0JFZ2rVwfkL6YpBfyNIN1l) | 3:16 | 2023-09-08 | 2023-10-01 |

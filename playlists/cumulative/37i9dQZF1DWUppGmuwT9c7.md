@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-145 songs - 7 hr 1 min
+147 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1000 vragen](https://open.spotify.com/track/1068pajBnU9TzDLktx4SVT) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [1000 vragen](https://open.spotify.com/album/2shhEsmp7pBWIdCzcS0sZR) | 2:46 | 2025-07-14 | 2025-09-05 |
 | [Aan Alle Mooie Meiden](https://open.spotify.com/track/6x4A4DTWHBK2w7GSAiqVbD) | [Willem Barth](https://open.spotify.com/artist/1thOlcNMXFKvfW0n9ACI52) | [Doe Het Goed](https://open.spotify.com/album/4ZJoyXr0vVitn4DN3yUHQC) | 3:29 | 2025-07-14 | 2025-09-05 |
 | [Adio Amore](https://open.spotify.com/track/10Kc8w5ncxZ7gO7Mk9148q) | [Alex](https://open.spotify.com/artist/2KbZtIe5VeOU8DnktA5xm9) | [Met Feestelijke Groet](https://open.spotify.com/album/74IVzj9l7wqYqcanlePuk2) | 3:14 | 2025-07-14 |  |
-| [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2025-07-14 |  |
+| [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2025-07-14 | 2026-02-06 |
+| [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 | 2026-02-05 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-07-14 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-14 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2025-07-14 | 2025-10-17 |
@@ -23,6 +24,7 @@
 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-07-14 |  |
 | [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2025-07-14 |  |
 | [Atje Voor De Sfeer](https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo) | 3:18 | 2025-11-21 |  |
+| [Avond 2.0](https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o) | [Martijn Stam](https://open.spotify.com/artist/08us5J8eRdUoGifsSIOMa1) | [Avond 2.0](https://open.spotify.com/album/0BVSguaWW08ymbT39URufK) | 3:27 | 2026-02-05 |  |
 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 | 2025-07-14 |  |
 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 | 2025-07-14 |  |
 | [Ben Je Verliefd?](https://open.spotify.com/track/0cvs1LuaTEAHmyayUg06Fy) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Ben Je Verliefd?](https://open.spotify.com/album/52bg2ZQ67d6TXMVg6Tg2uh) | 2:40 | 2025-11-13 |  |

@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 195403,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 207453,
       "name": "Blooming just for you",
       "url": "https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI"
@@ -1578,6 +1578,28 @@
       "duration_ms": 179200,
       "name": "Do What You Do",
       "url": "https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -5096,7 +5118,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 167650,
       "name": "VOoDOo BOogie",
       "url": "https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e"

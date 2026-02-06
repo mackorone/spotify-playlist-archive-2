@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-170 songs - 11 hr 28 min
+171 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 | 2024-05-24 |  |
 | [No One Like The Lord \(We Crown You\) \- Live From Costa Mesa, CA / 2023](https://open.spotify.com/track/2bc8dK2VSBuLHMkqDfT8k1) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y) | [No One Like The Lord \(We Crown You\) \[Live\]](https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ) | 6:01 | 2025-01-31 |  |
 | [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 | 2025-09-22 |  |
+| [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 | 2026-02-05 |  |
 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 | 2025-01-31 |  |
 | [Oceans \(Where Feet May Fail\) \- Redux](https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 8:11 | 2024-05-24 | 2025-09-23 |
 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-08-08 |  |

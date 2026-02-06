@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,174 songs - 2 day 2 hr 48 min
+1,175 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [On Memories](https://open.spotify.com/track/2MTSeMNLl4NWp78TqKkoWj) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Keymos](https://open.spotify.com/artist/3jYmochIImw0vubNZp6aBA), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [On Memories](https://open.spotify.com/album/7JNyf7Esfb1ZYbIYblchWc) | 2:21 | 2026-01-30 |  |
 | [On My Mind](https://open.spotify.com/track/4TUaU58i6tdPM6nUQsuGXg) | [INGO](https://open.spotify.com/artist/02nC5Y8T3ypxNiVetKbtWe), [VLCNO](https://open.spotify.com/artist/4hLLtXtfMsPwv2IDrHX7WV), [Rufus Palma](https://open.spotify.com/artist/44CzGf8c8HGNeTVwPERzV3) | [On My Mind](https://open.spotify.com/album/5pG10xasQCekacngUjs6uW) | 2:09 | 2024-08-07 | 2024-08-26 |
 | [On The Phone](https://open.spotify.com/track/7yqQzz7dv2KsEVEg2MZTBb) | [Methner](https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln), [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM) | [On The Phone](https://open.spotify.com/album/7rU6OnbjbZprf6pwCoaa95) | 2:04 | 2025-06-15 | 2025-07-07 |
+| [On You Tonight](https://open.spotify.com/track/74W5fZ6oXGfOkEsBnJGoF6) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [On You Tonight](https://open.spotify.com/album/5rVcIzH1pDaK6tGkoGH8MI) | 2:17 | 2026-02-05 |  |
 | [On Your Mind](https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF) | [On Your Mind](https://open.spotify.com/album/7vFToKJJgSpRBd2aPz46zI) | 2:42 | 2024-04-12 | 2024-05-13 |
 | [Once In A Lifetime](https://open.spotify.com/track/6B0k1E8ipTPLS6pGC94tbz) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Once In A Lifetime](https://open.spotify.com/album/0xrPZaLvMpr6Xvo4Oel6lB) | 2:24 | 2025-10-12 |  |
 | [One for Me](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ) | [Retrac](https://open.spotify.com/artist/4P9X0X8dNRMp6GoIQNFfMr) | [One for Me](https://open.spotify.com/album/3kzSRgawJTVLzRie5UMFD4) | 3:02 | 2024-07-05 | 2024-09-16 |

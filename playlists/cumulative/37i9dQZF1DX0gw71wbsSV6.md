@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-349 songs - 21 hr 33 min
+350 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Asleep Among Endives](https://open.spotify.com/track/7AKxbxzkxm2ERWrd1ggniO) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Asleep Among Endives](https://open.spotify.com/album/4UOBqsp4uZxpE6hsgjLz0b) | 5:06 | 2024-03-24 |  |
 | [Asleep Among Endives](https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Asleep Among Endives](https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S) | 5:06 | 2023-11-28 | 2024-04-19 |
 | [Autumn Letter](https://open.spotify.com/track/6VTBW8fe5SX7qxhhHREKmS) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Dusk to Dawn](https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be) | 3:50 | 2023-10-12 | 2023-11-24 |
+| [away](https://open.spotify.com/track/1MYetTbja5QTuFPovHz51u) | [Suzu Toyama](https://open.spotify.com/artist/22PLvYimVUNQsA4G9HfM1u) | [swim](https://open.spotify.com/album/4lHEtHGt79utQFn5XauGUP) | 4:28 | 2026-02-05 |  |
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2023-01-10 | 2023-06-03 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 | 2023-04-09 |
 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 | 2023-09-26 | 2023-11-14 |
@@ -215,7 +216,7 @@
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2022-10-16 | 2023-01-11 |
 | [Proof](https://open.spotify.com/track/2QjHdflfNJzFGPtCvcPvOO) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Proof](https://open.spotify.com/album/4DTqGZgFGrLMnJgdaetEuJ) | 3:41 | 2023-02-09 | 2023-03-05 |
 | [Proof](https://open.spotify.com/track/3Zgw1DjigjWI5AFPTZYBwZ) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Proof](https://open.spotify.com/album/3Cfg3146LWDhdWMX3YpKo1) | 3:41 | 2023-03-09 | 2023-03-27 |
-| [Puff/Pass](https://open.spotify.com/track/69dxGbipWP3zLo5tmCrfNt) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 1:46 | 2025-10-11 |  |
+| [Puff/Pass](https://open.spotify.com/track/69dxGbipWP3zLo5tmCrfNt) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 1:46 | 2025-10-11 | 2026-02-06 |
 | [Re\-魔法](https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Re\-魔法](https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo) | 4:38 | 2024-02-20 | 2024-03-08 |
 | [READY WHEN YOU ARE](https://open.spotify.com/track/75Xk8awb6BTEC8ywUS151D) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Ready When You Are](https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU) | 3:58 | 2023-04-13 | 2023-05-08 |
 | [Reverie](https://open.spotify.com/track/0EnUxHj1I1cBmRzSKzB4tK) | [Jilian Summers](https://open.spotify.com/artist/0NxMTmmuciwlzWWdFoSmYd) | [Reverie](https://open.spotify.com/album/7d8IYdG8eK9MQapqkh8chk) | 3:53 | 2023-10-19 | 2023-11-08 |

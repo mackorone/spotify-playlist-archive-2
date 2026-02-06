@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: EMAA
+> Cele mai noi hituri pop românești\. Cover: ADDA
 
-396 songs - 18 hr 47 min
+398 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Ba e soare, ba e ploaie](https://open.spotify.com/track/7ffVzMf2rW26TlWkPhYvPk) | [Yuka](https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2) | [Ba e soare, ba e ploaie](https://open.spotify.com/album/2QNvNrO1u2o7hLJJ8lfhap) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Bahebek](https://open.spotify.com/track/5Ks0xMrdqAQhzTEoRKrDDv) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Bahebek](https://open.spotify.com/album/7wwHJYVoehYIp6IZvopzjy) | 2:13 | 2024-10-31 | 2025-04-05 |
 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 | 2024-11-21 | 2025-05-09 |
-| [Bandita](https://open.spotify.com/track/2x96Huq7M02DA8Y7QAUhB8) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Bandita](https://open.spotify.com/album/0f8WwbsunWbQ0Pgfm350oS) | 2:44 | 2025-10-16 |  |
+| [Bandita](https://open.spotify.com/track/2x96Huq7M02DA8Y7QAUhB8) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Bandita](https://open.spotify.com/album/0f8WwbsunWbQ0Pgfm350oS) | 2:44 | 2025-10-16 | 2026-02-06 |
 | [Bani](https://open.spotify.com/track/61deXEuSYYBLM0iFAR56Hx) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Bani](https://open.spotify.com/album/1QZskmHu5VDLTmSmOFLC8r) | 2:39 | 2025-07-03 | 2025-07-18 |
 | [Bea, Daca Vrei](https://open.spotify.com/track/0Jrjh6uUm8piWAWGP8erR2) | [Anda Adam](https://open.spotify.com/artist/5Xf9tWz0AarRXKqKKxJkNE), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Bea, Daca Vrei](https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH) | 2:54 | 2024-11-28 | 2025-01-24 |
 | [Beautiful](https://open.spotify.com/track/3N6AhbiagcojnXm4GiugHk) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Beautiful](https://open.spotify.com/album/0K4ZTHodKJ4oLr37KIrtvW) | 2:44 | 2025-09-25 | 2025-10-17 |
@@ -144,7 +144,7 @@
 | [Elastico](https://open.spotify.com/track/0K9n8OoGSRX3YcXa92oKmj) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv) | [Elastico](https://open.spotify.com/album/30uxeN97eyutVdKVwaSiQH) | 3:20 | 2026-01-15 |  |
 | [Elita \- From "Cursa" The Movie](https://open.spotify.com/track/59LyOyo8OwKTNXS1OahYrl) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Elita \(From "Cursa" The Movie\)](https://open.spotify.com/album/6cZswVNnltYzWJhCqAzxFh) | 2:36 | 2025-10-23 | 2025-11-28 |
 | [Energia ta](https://open.spotify.com/track/12lADUOFdAtvQw9io0tYbH) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Energia ta](https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe) | 3:08 | 2024-10-10 | 2024-11-01 |
-| [Era Era](https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Era Era](https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq) | 2:30 | 2025-08-28 |  |
+| [Era Era](https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Era Era](https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq) | 2:30 | 2025-08-28 | 2026-02-06 |
 | [eRAI](https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [eRAI](https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7) | 2:44 | 2024-06-27 | 2024-11-22 |
 | [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 | 2025-12-11 |  |
 | [Fantasy](https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Fantasy](https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA) | 2:23 | 2025-07-03 | 2025-09-26 |
@@ -186,6 +186,7 @@
 | [Iluzie](https://open.spotify.com/track/1awMO1eWN1buV4MuLaIaDG) | [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK) | [Iluzie](https://open.spotify.com/album/1bS1SesVsnfelzOPUAik9M) | 2:57 | 2025-07-24 | 2025-08-22 |
 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:11 | 2024-09-26 | 2024-10-25 |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-06-27 | 2024-11-08 |
+| [In felul meu](https://open.spotify.com/track/3MYQkomhXKVuK57InAhy73) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [In felul meu](https://open.spotify.com/album/6tHhdyxYwywydA7joRqKSI) | 3:17 | 2026-02-05 |  |
 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 | 2025-08-21 | 2025-11-14 |
 | [Inainte de tine](https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Dorian Popa](https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo) | [Inainte de tine](https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC) | 3:04 | 2024-12-05 | 2025-04-11 |
 | [Inainte sa pleci](https://open.spotify.com/track/5hvllpMgrrroUcUtjf4Y9F) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Amangoi](https://open.spotify.com/album/1pEvO9aEvYdcadtQ7OhILi) | 2:24 | 2025-01-23 | 2025-02-28 |
@@ -264,6 +265,7 @@
 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 | 2024-12-19 | 2025-03-14 |
 | [Nu pleca](https://open.spotify.com/track/7mcsrraNgG3ixoKkfk91ne) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a), [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP) | [Nu pleca](https://open.spotify.com/album/0wfXJt5KoGNJJCgjXBHbjZ) | 2:52 | 2024-09-12 | 2024-11-08 |
 | [Nu Plânge](https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu Plânge](https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6) | 3:17 | 2024-09-26 | 2025-02-07 |
+| [Nu Stiu Sa Nu Sufar](https://open.spotify.com/track/2kf3UpCtV80Ssx3oem5vz8) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Nu Stiu Sa Nu Sufar](https://open.spotify.com/album/6NdUNHQH37aL01PicSyUEu) | 2:19 | 2026-02-05 |  |
 | [Nu Știi](https://open.spotify.com/track/6pIzd6GX9dJtx73xeHcxPR) | [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb), [Blacklist](https://open.spotify.com/artist/3QvMYjA3Hfu62w8XUkRR4P) | [Nu Știi](https://open.spotify.com/album/6UJtTFwqorh9xVUjsagaFc) | 3:02 | 2024-06-27 | 2024-09-27 |
 | [Numai din iubirea ta](https://open.spotify.com/track/3GehMSs3OFHFr00UBY7O5m) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Numai din iubirea ta](https://open.spotify.com/album/48IaoHBsyHNTU2SVPyFRUk) | 2:39 | 2025-09-11 | 2025-12-12 |
 | [Numai una](https://open.spotify.com/track/0OEKRaMZgxBfwdHZdFW8il) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Numai una](https://open.spotify.com/album/1rA1kXCUIW5DSQyrYSKv3b) | 2:52 | 2025-05-30 | 2025-08-01 |

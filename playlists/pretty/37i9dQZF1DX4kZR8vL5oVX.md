@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Myra \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,307 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,309 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 39 | [La délicatesse](https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [La délicatesse](https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum) | 3:09 |
 | 40 | [Champagne](https://open.spotify.com/track/4sQRdcGkzlTL6zHGZH1RZt) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 3:09 |
 | 41 | [+](https://open.spotify.com/track/34DsT7o2tx1n9TBGYLBnk4) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [+](https://open.spotify.com/album/2qRPHUdhQNhGL5HRYYiAK8) | 1:59 |
-| 42 | [Nirvana](https://open.spotify.com/track/2mPqDjRnBZ6L6gQxtJN9K5) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [Nirvana](https://open.spotify.com/album/74FqVLDMpUHk5kqqirPkVd) | 2:54 |
-| 43 | [aquarium](https://open.spotify.com/track/7GHT3vLehVK1O7nsRaPIS7) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW), [harrry](https://open.spotify.com/artist/3xQRe0o7kXHEBqYexZjW1T) | [aquarium](https://open.spotify.com/album/4CN4grTRdlVhvzldSwe5nJ) | 2:02 |
-| 44 | [The Potential](https://open.spotify.com/track/52bxs9e9KOfKhnQzBO3dbh) | [Eya Patterns](https://open.spotify.com/artist/1EvXarvs2FpYLlpkdOIsBN) | [The Potential](https://open.spotify.com/album/46EOdOeUt6DcrCHo0T6ZGQ) | 2:55 |
-| 45 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 |
-| 46 | [Désolée pour le bruit](https://open.spotify.com/track/7k0Uh7XlKmYZ0cu93Sz08j) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Désolée pour le bruit](https://open.spotify.com/album/6E36XhssJx05xCU79gmSKp) | 3:38 |
-| 47 | [EN ITALIQUE](https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl) | [EN ITALIQUE](https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi) | 2:55 |
-| 48 | [SHAKE IT UP](https://open.spotify.com/track/1UQvVP0Zbr6p1H4gqbmQI2) | [Teyma](https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h) | [SHAKE IT UP](https://open.spotify.com/album/4gnR2eeiEWoIUx5GbQYGPM) | 2:00 |
+| 42 | [Ma tension](https://open.spotify.com/track/5LrpoGrSoEyhQOWKvHtXny) | [Aïshé](https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo) | [Ma tension](https://open.spotify.com/album/0VnKx5E7zvKQ8YHMKCZF4l) | 2:46 |
+| 43 | [Nirvana](https://open.spotify.com/track/2mPqDjRnBZ6L6gQxtJN9K5) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [Nirvana](https://open.spotify.com/album/74FqVLDMpUHk5kqqirPkVd) | 2:54 |
+| 44 | [aquarium](https://open.spotify.com/track/7GHT3vLehVK1O7nsRaPIS7) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW), [harrry](https://open.spotify.com/artist/3xQRe0o7kXHEBqYexZjW1T) | [aquarium](https://open.spotify.com/album/4CN4grTRdlVhvzldSwe5nJ) | 2:02 |
+| 45 | [The Potential](https://open.spotify.com/track/52bxs9e9KOfKhnQzBO3dbh) | [Eya Patterns](https://open.spotify.com/artist/1EvXarvs2FpYLlpkdOIsBN) | [The Potential](https://open.spotify.com/album/46EOdOeUt6DcrCHo0T6ZGQ) | 2:55 |
+| 46 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 |
+| 47 | [Désolée pour le bruit](https://open.spotify.com/track/7k0Uh7XlKmYZ0cu93Sz08j) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Désolée pour le bruit](https://open.spotify.com/album/6E36XhssJx05xCU79gmSKp) | 3:38 |
+| 48 | [EN ITALIQUE](https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl) | [EN ITALIQUE](https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi) | 2:55 |
+| 49 | [SHAKE IT UP](https://open.spotify.com/track/1UQvVP0Zbr6p1H4gqbmQI2) | [Teyma](https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h) | [SHAKE IT UP](https://open.spotify.com/album/4gnR2eeiEWoIUx5GbQYGPM) | 2:00 |
 
 Snapshot ID: `AAAAAJYlXd2b/h1w63KM5rBSH6gLYH5W`

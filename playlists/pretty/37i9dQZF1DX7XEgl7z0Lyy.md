@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,632 likes - 125 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,725 likes - 125 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 48 | [FΛSHION \- Speed Up](https://open.spotify.com/track/2G5YPVwlqQxlflCwTdElH3) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION \(Slow + Speed Up Edit\)](https://open.spotify.com/album/35L2KnjTRZIdd91mIXgjFm) | 2:06 |
 | 49 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 50 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
-| 51 | [ICEWHORE! \- slowed](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
+| 51 | [ICEWHORE! \- SLOWED](https://open.spotify.com/track/01A9Xt0XyeYIzC9K7MSvua) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/4To1CK51OcwNtpLnlirXQK) | 2:03 |
 | 52 | [cupcakes\_pt2.mp3](https://open.spotify.com/track/20Xu4YrbVVOUnMdfEJQJ1V) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [cupcakes\_pt2.mp3](https://open.spotify.com/album/7aq8NMxPVMGRTZnqyO6W8U) | 1:54 |
 | 53 | [TELL ME LIES \(w/ Odetari\)](https://open.spotify.com/track/12Lbz6z4cu9HlltYVqwcPR) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [TELL ME LIES \(w/ Odetari\)](https://open.spotify.com/album/2aqRDu300Y685accgkSGhr) | 2:13 |
 | 54 | [DDR \(Dance Dance Revolution\)](https://open.spotify.com/track/71NY8f0OrMX3ty1oqwMTvi) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [DDR \(Dance Dance Revolution\)](https://open.spotify.com/album/4OPFTrKsaY0pbRaLxcFCLv) | 2:11 |

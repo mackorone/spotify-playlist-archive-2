@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ONE OR EIGHT
 
-564 songs - 1 day 8 hr 11 min
+565 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [meow bell](https://open.spotify.com/track/0u8kiQsb059uWLMxL5Foio) | [nogika chaba](https://open.spotify.com/artist/3vbtMfAWkjNFOFrcQRFZyZ) | [TEA TIME](https://open.spotify.com/album/4pLBNMAi00WNFyiBSUgq29) | 2:08 | 2023-04-13 | 2023-05-19 |
 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-10-12 | 2023-11-11 |
 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 | 2024-10-03 | 2025-04-14 |
+| [MONTAGEM HIKARI](https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l) | [BellyJay](https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv) | [MONTAGEM HIKARI](https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG) | 1:29 | 2026-02-05 |  |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-11-09 | 2024-05-01 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-26 | 2023-02-24 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-07 | 2023-11-11 |
@@ -441,7 +442,7 @@
 | [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 | 2024-10-10 | 2025-02-14 |
 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 | 2026-01-22 |  |
 | [ヒロイン](https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:29 | 2025-11-25 | 2025-12-08 |
-| [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 | 2025-05-08 |  |
+| [ビジュがレベチ](https://open.spotify.com/track/7vi2Wh16kaoy9MXTa7V7hP) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [ビジュがレベチ](https://open.spotify.com/album/3hXsYOcrMxpvmd7nt1VKHw) | 3:10 | 2025-05-08 | 2026-02-06 |
 | [ビリミリオン](https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ビリミリオン](https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu) | 3:46 | 2023-01-26 | 2023-02-10 |
 | [ビートDEトーヒ](https://open.spotify.com/track/5D4XpDNbB5WTFLQ8VA442k) | [ハマいく](https://open.spotify.com/artist/0yAwTq1vSQQ8fpvLr5wdoF) | [ビートDEトーヒ](https://open.spotify.com/album/2AFM1KkgOLDZFibeUoxq7G) | 2:18 | 2023-01-26 | 2023-10-06 |
 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 | 2023-03-23 | 2023-04-28 |

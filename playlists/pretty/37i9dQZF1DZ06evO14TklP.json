@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 18372,
+  "num_followers": 18403,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAw5dTNXHUsAIFtu4DdT6X5",
+  "snapshot_id": "aYKMAAAAAAABgANObLrxjc6W0dtKNSDX",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
       "duration_ms": 168158,
       "name": "Bratz",
       "url": "https://open.spotify.com/track/30xwvoR89CZqAVdpxYQ6Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRASILEIRINHA",
-        "url": "https://open.spotify.com/album/2Kh7WzFexVNaUSKRUXXBbB"
-      },
-      "artists": [
-        {
-          "name": "Pep Starling",
-          "url": "https://open.spotify.com/artist/2OKT3UlyCvDefb14iq4E71"
-        },
-        {
-          "name": "SPEEDTEST",
-          "url": "https://open.spotify.com/artist/6ddDsGckb6YrBYs05ROyTu"
-        }
-      ],
-      "duration_ms": 109298,
-      "name": "BRASILEIRINHA",
-      "url": "https://open.spotify.com/track/3toAO2cP04P6zKIQf4bx0r"
     },
     {
       "added_at": null,
@@ -1071,6 +1051,34 @@
       "duration_ms": 169590,
       "name": "Flat",
       "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "CRIVO",
+          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,106 songs - 2 day 4 hr 32 min
+1,107 songs - 2 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-02-28 |
 | [Atlas \(feat\. KIKI\)](https://open.spotify.com/track/2gw1pC8Gkdx6YFSvKLuds0) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Atlas \(feat\. KIKI\)](https://open.spotify.com/album/0aIWt94LuCqovkCKTtqRkP) | 3:01 | 2024-10-24 | 2024-12-13 |
 | [AUDEMARS PIGUET](https://open.spotify.com/track/0aakrLJ6HaeyfaCwtbCucg) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [AUDEMARS PIGUET](https://open.spotify.com/album/13pFiO6TJFUUiLo6kNIX7R) | 2:47 | 2024-06-06 | 2024-07-02 |
-| [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:53 | 2025-12-18 |  |
+| [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:53 | 2025-12-18 | 2026-02-06 |
 | [AURA](https://open.spotify.com/track/4t8h8yMNmBpeHQYi8FfIUI) | [Krissemane](https://open.spotify.com/artist/4iECab0POmzwLrf28xg7cb) | [AURA](https://open.spotify.com/album/42KcHxSUIFwxvj72vIuOjf) | 2:10 | 2025-05-08 | 2025-05-30 |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-05-09 | 2024-09-06 |
 | [Autiotalo](https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Autiotalo](https://open.spotify.com/album/63MCMtSJoQrHnyfZoKJdVg) | 2:41 | 2024-04-11 | 2024-07-02 |
@@ -916,6 +916,7 @@
 | [Synttärit \(feat\. Cledos & VJ\)](https://open.spotify.com/track/3Z5m2SsEJcAmhBl6SmHw9X) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Synttärit \(feat\. Cledos & VJ\)](https://open.spotify.com/album/4cLbqT38Crm1w4pMM9O8J8) | 2:31 | 2024-06-13 | 2024-09-13 |
 | [Syssy \(Part 2\)](https://open.spotify.com/track/4UTh2hqijx9svHwAcN1O46) | [EL'o](https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC) | [Syssy \(Part 2\)](https://open.spotify.com/album/3zhD7LFgclpwZGJDfLINoc) | 2:53 | 2023-11-23 | 2023-12-01 |
 | [Sytkäri \(feat\. AHTI\)](https://open.spotify.com/track/1qrhTBdde8r9IactB9HUJt) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sytkäri \(feat\. AHTI\)](https://open.spotify.com/album/7vfKdnD2eJZhnxyFtBIttQ) | 2:57 | 2024-04-04 | 2024-05-17 |
+| [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 | 2026-02-05 |  |
 | [Syypää sun hymyyn \- Unitas Sigma](https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:52 | 2025-12-05 |  |
 | [Syytön](https://open.spotify.com/track/6CmcMleWpkxzsPFldOAykG) | [VITUN ISO ROTSI](https://open.spotify.com/artist/6MV5ac176V1MCVMVPBhPLv), [Sairas T](https://open.spotify.com/artist/55zt05Vx5iZkdxCA9wrYDK), [Käsipuoli](https://open.spotify.com/artist/5mykcPLIvdK71LjMHFKgGU) | [Syytön](https://open.spotify.com/album/7zg2gN3IRc6HxRKEz9gLGm) | 2:25 | 2023-10-12 | 2023-10-27 |
 | [SÄ ET OO MUN HUUDI](https://open.spotify.com/track/4z8ZGbAtI12yEtYVOBgcB1) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu) | [Karmea Antoni](https://open.spotify.com/album/67URbmAXqJWSeuCLlkD0CC) | 2:41 | 2024-03-07 | 2024-03-22 |

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SEUNGHOO\(승후\)\)
 
-599 songs - 1 day 8 hr 12 min
+601 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 | 2024-11-29 | 2025-03-13 |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2022-05-28 | 2022-07-08 |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-05-28 | 2022-07-14 |
+| [Need Your Love](https://open.spotify.com/track/4TmUt54LsJM2Lcdc8xuYlH) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Need Your Love](https://open.spotify.com/album/2mRFv7TogKJHA2hN8B06iw) | 2:32 | 2026-02-05 |  |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-20 | 2025-09-19 |
 | [Never Let Me Go](https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-01-13 | 2023-08-18 |
 | [Never walk away](https://open.spotify.com/track/3JcdQdCAgzqOndLZfenPJN) | [youz](https://open.spotify.com/artist/0DnzwTQFyxjR4Dnvn6zckz) | [Never walk away](https://open.spotify.com/album/3o40tfZQqJNrohFB0Y032a) | 2:07 | 2025-06-02 | 2025-10-23 |
@@ -405,6 +406,7 @@
 | [OTT](https://open.spotify.com/track/24YMYC4soMfH1EmpArGkQv) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Playlist Vol\. 2](https://open.spotify.com/album/3IQ5ZC5WllOj9TdDCF5PoH) | 2:57 | 2025-06-02 | 2025-10-23 |
 | [Our Way \(Feat\. Jeong Dayeong\)](https://open.spotify.com/track/4vUnEJStIJUKiSJ2XU8hkZ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Jeong Dayeong](https://open.spotify.com/artist/20mVTB1N9ZvNj8MtxLx7cx) | [New Edition 67](https://open.spotify.com/album/3McZamGgg3KYV2Q3GJgxCH) | 2:53 | 2025-02-05 | 2025-05-21 |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-27 | 2022-12-14 |
+| [Over](https://open.spotify.com/track/5NFKUNRPcWGaLfAPaofT5v) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Over](https://open.spotify.com/album/7KIrdVNTVtm309OHv2n93Z) | 2:04 | 2026-02-05 |  |
 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 | 2023-12-18 | 2024-05-24 |
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-04 | 2024-09-14 |
@@ -478,7 +480,7 @@
 | [Song for You](https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Thanks For Nothing](https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk) | 3:11 | 2023-11-14 | 2024-05-01 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2023-01-21 |
 | [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0vONqdc0gHme3GxX6ySs80) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/album/7wOVIDIXPWP5CbpB8nCxCI) | 2:59 | 2024-12-02 | 2025-04-10 |
-| [SPARK](https://open.spotify.com/track/0yD5CKSEHpbZYn9WPTrqIF) | [DOO](https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW) | [SPARK](https://open.spotify.com/album/4cR43mVJqjQ7uVQQvwZrbh) | 4:36 | 2025-08-05 |  |
+| [SPARK](https://open.spotify.com/track/0yD5CKSEHpbZYn9WPTrqIF) | [DOO](https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW) | [SPARK](https://open.spotify.com/album/4cR43mVJqjQ7uVQQvwZrbh) | 4:36 | 2025-08-05 | 2026-02-06 |
 | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC) | 3:09 | 2024-02-13 | 2024-06-18 |
 | [Squat](https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [Squat](https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR) | 2:40 | 2024-08-05 | 2024-09-21 |
 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 | 2023-11-06 | 2024-04-05 |
@@ -531,7 +533,7 @@
 | [To you](https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [To you](https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us) | 2:52 | 2023-10-05 | 2024-01-09 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-11-28 | 2024-04-19 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 | 2022-08-19 |
-| [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-05 |  |
+| [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-05 | 2026-02-06 |
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 | 2022-06-21 |
 | [TONIGHT](https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [VINYARD](https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm) | 3:27 | 2024-10-14 | 2025-03-13 |
 | [Tonite](https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Tonite](https://open.spotify.com/album/60TEBgKHLlYS86WTewsbuZ) | 3:09 | 2023-04-17 | 2023-10-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Ocie Elliott",
-  "num_followers": 76597,
+  "num_followers": 76625,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmMBSsT/rfBV66eZYXfNhJZUFRC",
+  "snapshot_id": "AAAAACejwCsFNsDGS9Pnzx56byjIhDQP",
   "tracks": [
     {
       "added_at": "2026-01-15 21:43:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/0boz2COxgC376hg1Drao5V"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 256146,
       "name": "Love Is A Wild Thing",
       "url": "https://open.spotify.com/track/5F5lmpwXkxAJtvZqEguTRo"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/78JxIticjNz5ZB3iNYEP6g"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/0boz2COxgC376hg1Drao5V"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -985,6 +985,30 @@
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
+      "added_at": "2026-02-06 01:54:06",
+      "album": {
+        "name": "Ain't As Pretty A Blue",
+        "url": "https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU"
+      },
+      "artists": [
+        {
+          "name": "Fleeland",
+          "url": "https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4"
+        },
+        {
+          "name": "Frances Whitney",
+          "url": "https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E"
+        },
+        {
+          "name": "Mills",
+          "url": "https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo"
+        }
+      ],
+      "duration_ms": 237884,
+      "name": "Ain't As Pretty A Blue",
+      "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
       "added_at": "2025-02-14 17:00:13",
       "album": {
         "name": "Fear Fun",
@@ -1051,22 +1075,6 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -1079,6 +1087,22 @@
       "duration_ms": 300706,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1215,6 +1239,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1231,22 +1271,6 @@
       "duration_ms": 209799,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1471,6 +1495,22 @@
     {
       "added_at": "2025-02-14 17:00:13",
       "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "We Can't Be Tamed",
+      "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
+    },
+    {
+      "added_at": "2025-02-14 17:00:13",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW"
       },
@@ -1487,22 +1527,6 @@
       "duration_ms": 240787,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "We Can't Be Tamed",
-      "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
     },
     {
       "added_at": "2025-02-14 17:00:13",
@@ -1655,22 +1679,6 @@
       "duration_ms": 182253,
       "name": "Drugstore Houses",
       "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
-    },
-    {
-      "added_at": "2025-02-14 17:00:13",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     }
   ],
   "unique_name": "Folk Favourites",

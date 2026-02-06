@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104014,
+  "num_followers": 104024,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAADjkwj7jJV9nJwz9EmKLLVC",
+  "snapshot_id": "aYKMAAAAAADXUwrM4rEYWnyQ62OfwJ5H",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 280893,
+      "name": "What's Changed",
+      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 280893,
-      "name": "What's Changed",
-      "url": "https://open.spotify.com/track/59Em8UEb9sEluju4PKVPWv"
+      "duration_ms": 303400,
+      "name": "Spanish",
+      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 214970,
       "name": "Addicted - Radio Edit",
       "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Spanish",
-      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
     },
     {
       "added_at": null,

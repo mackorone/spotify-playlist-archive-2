@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-343 songs - 23 hr 41 min
+344 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
 | [Addicted to You](https://open.spotify.com/track/6MBCIz3ryX6INVwCXmMKHi) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Addicted to You](https://open.spotify.com/album/4YhgeoxIF0rz7hqRXhNcEm) | 3:15 | 2025-12-12 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
-| [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 |  |
+| [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 | 2026-02-06 |
 | [All In This \- Original mix](https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z) | [MAHTAL](https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I) | [Omnes EP](https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1) | 4:49 | 2024-04-09 |  |
 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-05 | 2024-11-29 |
 | [alleswirdgut \- Underworld Remix](https://open.spotify.com/track/10YwDxJAwjbsaMWA00uiKk) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [alleswirdgut \(Underworld Remix\)](https://open.spotify.com/album/6DVSxhK6Qz1HwXsdLerkfR) | 4:50 | 2024-11-29 | 2025-07-23 |
@@ -202,6 +202,7 @@
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
 | [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
+| [LSD Loop \- Marie Vaunt Edit](https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [LSD Loop \(Marie Vaunt Edit\)](https://open.spotify.com/album/1UzujATP7DcSu239QBgFMv) | 3:16 | 2026-02-03 |  |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Liezel Pieters en Gerhard Steyn",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -1366,6 +1366,24 @@
       "duration_ms": 165149,
       "name": "Diepseeduiker 17",
       "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+    },
+    {
+      "album": {
+        "name": "Dieselfde Bly",
+        "url": "https://open.spotify.com/album/3l6zhVLJs90NyQMa7bHMcv"
+      },
+      "artists": [
+        {
+          "name": "Leah",
+          "url": "https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219579,
+      "name": "Dieselfde Bly",
+      "url": "https://open.spotify.com/track/2dfE8HxGJQv8RRSkyeYJ7G"
     },
     {
       "album": {
@@ -6682,7 +6700,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164520,
       "name": "Wat Kan 'n Man Dan Doen",
       "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"

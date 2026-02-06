@@ -3321,6 +3321,24 @@
     },
     {
       "album": {
+        "name": "Thula Moya Wam (Live At Krugersdorp)",
+        "url": "https://open.spotify.com/album/5BJ86o3emSIdj42OdWcaTX"
+      },
+      "artists": [
+        {
+          "name": "William Sejake",
+          "url": "https://open.spotify.com/artist/4WTT2rtyjYaA0oOIBbae6R"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261165,
+      "name": "Thula Moya Wam - Live At Krugersdorp",
+      "url": "https://open.spotify.com/track/79THsHXl74N9Xf8htzukKv"
+    },
+    {
+      "album": {
         "name": "Thulungakhali",
         "url": "https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE"
       },
@@ -4286,6 +4304,28 @@
       "duration_ms": 307510,
       "name": "Yibanathi",
       "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
+    },
+    {
+      "album": {
+        "name": "Zion (Live at Heartfelt Arena, December, 2025) (feat. Oncemore Six)",
+        "url": "https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538000,
+      "name": "Zion (Live at Heartfelt Arena, December, 2025) (feat. Oncemore Six)",
+      "url": "https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav"
     },
     {
       "album": {

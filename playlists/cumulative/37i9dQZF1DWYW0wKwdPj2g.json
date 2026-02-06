@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Christ is Revealed (Live)",
+        "url": "https://open.spotify.com/album/1eBWZp3peS6tBGxvjsfNLA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Okosun",
+          "url": "https://open.spotify.com/artist/6JKSHKVaV8cubGfJDx8Kkl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 621333,
+      "name": "Christ Is Revealed - Live",
+      "url": "https://open.spotify.com/track/53IGCkM5LR9nGqfkeZg87q"
+    },
+    {
+      "album": {
         "name": "Come magnify the Lord with me (Live From The Song Of Sons Project)",
         "url": "https://open.spotify.com/album/3brGWRyscnHJ5s6iIpfPc0"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 267227,
       "name": "Goodness Of God - Live at Doxa Deo Tshwane Central",
       "url": "https://open.spotify.com/track/5hmLPjr3EWRHL4IAzFoCKw"
@@ -5866,6 +5884,28 @@
       "duration_ms": 284212,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6dkpWruWBcvP0G43JYvpdn"
+    },
+    {
+      "album": {
+        "name": "Zion (Live at Heartfelt Arena, December, 2025) (feat. Oncemore Six)",
+        "url": "https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic"
+      },
+      "artists": [
+        {
+          "name": "Mmuso Worship",
+          "url": "https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s"
+        },
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538000,
+      "name": "Zion (Live at Heartfelt Arena, December, 2025) (feat. Oncemore Six)",
+      "url": "https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav"
     },
     {
       "album": {

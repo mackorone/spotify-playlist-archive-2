@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: ma\u00efa",
-  "num_followers": 43700,
+  "num_followers": 44097,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -100,7 +100,7 @@
           "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
         }
       ],
-      "duration_ms": 205161,
+      "duration_ms": 205162,
       "name": "Zeig mir",
       "url": "https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y"
     },
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "CLAP",
-        "url": "https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ"
-      },
-      "artists": [
-        {
-          "name": "Josi",
-          "url": "https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4"
-        }
-      ],
-      "duration_ms": 126346,
-      "name": "CLAP",
-      "url": "https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "zwei fremde",
         "url": "https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 170181,
       "name": "zwei fremde",
       "url": "https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "CLAP",
+        "url": "https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ"
+      },
+      "artists": [
+        {
+          "name": "Josi",
+          "url": "https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4"
+        }
+      ],
+      "duration_ms": 126346,
+      "name": "CLAP",
+      "url": "https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "DER KOPIERER",
-        "url": "https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "DER KOPIERER",
-      "url": "https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "wenn du tanzen willst",
         "url": "https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 174620,
       "name": "wenn du tanzen willst",
       "url": "https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "DER KOPIERER",
+        "url": "https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 179467,
+      "name": "DER KOPIERER",
+      "url": "https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Keiner Wei\u00df",
         "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 168750,
       "name": "Keiner Wei\u00df",
       "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Nordberg",
-          "url": "https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0"
-        }
-      ],
-      "duration_ms": 327345,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Hair on Coffee",
         "url": "https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 201625,
       "name": "Hair on Coffee",
       "url": "https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Nordberg",
+          "url": "https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0"
+        }
+      ],
+      "duration_ms": 327345,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Mad Machine 2.0",
-        "url": "https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 161399,
-      "name": "Mad Machine 2.0",
-      "url": "https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Willows",
         "url": "https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 217625,
       "name": "Willows",
       "url": "https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Mad Machine 2.0",
+        "url": "https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 161399,
+      "name": "Mad Machine 2.0",
+      "url": "https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU"
     },
     {
       "added_at": "2026-02-03 23:00:18",

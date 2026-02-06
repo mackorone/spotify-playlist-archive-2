@@ -6281,6 +6281,28 @@
     },
     {
       "album": {
+        "name": "West Dakota Rose",
+        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Christopher Henry",
+          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
+        }
+      ],
+      "date_added": "2026-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354847,
+      "name": "West Dakota Rose",
+      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
+    },
+    {
+      "album": {
         "name": "West Virginia Red",
         "url": "https://open.spotify.com/album/75a6zJG8thNcgXIWAnkDOC"
       },

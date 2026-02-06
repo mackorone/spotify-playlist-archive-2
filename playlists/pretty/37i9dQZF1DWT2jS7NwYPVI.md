@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Coach Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,037 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,010 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 21 | [Preacher](https://open.spotify.com/track/6P5pDG0Nb9Q67GauzEfYq0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Preacher](https://open.spotify.com/album/3SmDHvHQfZ40SoL0K3McAt) | 3:20 |
 | 22 | [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 |
 | 23 | [Volcano](https://open.spotify.com/track/3MJA1vEuDATierADDMEJep) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Volcano](https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD) | 2:28 |
-| 24 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
+| 24 | [Autopilot](https://open.spotify.com/track/3a1jT0YHIsQDqIPt95gONV) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/7ykeLZhhplzKnHwWJHl1XJ) | 2:46 |
 | 25 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 |
 | 26 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 |
 | 27 | [I Like You](https://open.spotify.com/track/1F3M1n8k9AzmqqPiJVyZju) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [I Like You](https://open.spotify.com/album/50sVHuzirT8bCwAqYJnmSJ) | 4:14 |

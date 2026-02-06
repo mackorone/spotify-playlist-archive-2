@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 206032,
+  "num_followers": 206045,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+        "name": "Afternoon X",
+        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+      "duration_ms": 246466,
+      "name": "Afternoon X",
+      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Afternoon X",
-        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
       "artists": [
         {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Afternoon X",
-      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "All Through The Day",
         "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Triple Fire",
-        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
-      },
-      "artists": [
-        {
-          "name": "Geneva Jacuzzi",
-          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Dry",
-      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "The Apple Drop",
         "url": "https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Triple Fire",
+        "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
+      },
+      "artists": [
+        {
+          "name": "Geneva Jacuzzi",
+          "url": "https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Dry",
+      "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Where To Put The Pain",
         "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
       "artists": [
         {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
         }
       ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1295,6 +1279,22 @@
       "duration_ms": 170737,
       "name": "La Roseraie",
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Pearlies",
-        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "The Presence",
-      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 291771,
       "name": "Lovegaze",
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Pearlies",
+        "url": "https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Island Family (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "A Time To Blossom",
         "url": "https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Songs To Whistle When Strolling Along The Abyss",
         "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     }
   ],
   "unique_name": "Oblique",

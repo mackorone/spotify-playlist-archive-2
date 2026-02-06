@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZevNd7Fcmnf.md) - [plain]
 
 > Enjoy Music from "GIRLS und PANZER" series! （C）GIRLS und PANZER Projekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,124 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,142 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

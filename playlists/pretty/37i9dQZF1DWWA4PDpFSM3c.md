@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,860 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,945 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 46 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 |
 | 47 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 | 48 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 |
-| 49 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
-| 50 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
+| 49 | [Hey Radha](https://open.spotify.com/track/3NT8OV19NUe4szO6OL0OEu) | [Amar Dudam](https://open.spotify.com/artist/6whKgtgFVbXg8VxPF22go2) | [Hey Radha \- Single](https://open.spotify.com/album/2t3bQJvaw1iG9mPah8mBRG) | 4:03 |
+| 50 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
 
 Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,023 songs - 4 day 22 hr 28 min
+2,024 songs - 4 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Doin' What We Do](https://open.spotify.com/track/7uewWUcF5oMtz0Y1DRKp5K) | [Matia](https://open.spotify.com/artist/6EvvaiB1nAWU1JSnwTwox0) | [Doin' What We Do](https://open.spotify.com/album/2X7s7WHy74hCO1x9HiEPbp) | 3:36 | 2024-07-12 |  |
 | [Domani](https://open.spotify.com/track/2MYNJs0D9o5P6eeun3NsSh) | [O.](https://open.spotify.com/artist/2j7HJB57fTk8SuyfQ9bLpU) | [Domani](https://open.spotify.com/album/6dZTu5z9RCbrOQ3nJxryfM) | 2:07 | 2025-04-16 |  |
 | [dON't](https://open.spotify.com/track/1fF9qCcVpoNO8wDQ84ZrXk) | [guty](https://open.spotify.com/artist/509LEN4hgOuvtZgxqgUPTL) | [dON't](https://open.spotify.com/album/7DVK0A9YOnaGvboGcR9Hvk) | 3:31 | 2025-09-24 |  |
+| [Don't Care for Carolina](https://open.spotify.com/track/683NrysqQaIRzIfak8fcFZ) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Don't Care for Carolina](https://open.spotify.com/album/6DsdvPQqxNxbNPdUIS3KFh) | 3:30 | 2026-02-05 |  |
 | [Don't Close Your Eyes](https://open.spotify.com/track/137EFl57ceIvKLnBYb2MhV) | [Saya](https://open.spotify.com/artist/38uvObNn78wrEaxv3NCLHi) | [Don't Close Your Eyes](https://open.spotify.com/album/1JJJqlyEJDLQeFIqf0mF4A) | 4:56 | 2025-12-09 |  |
 | [Don't Give Up \- Radio Edit](https://open.spotify.com/track/4mn3LQDUbe2HngMFbbMEdY) | [Kaya Street](https://open.spotify.com/artist/66Ut7HSrPbmQoDoKtdzxal) | [Don't Give Up](https://open.spotify.com/album/4lAZIzS8UEfR5g8RlEeWz1) | 4:00 | 2025-10-20 |  |
 | [Don't Go](https://open.spotify.com/track/6SlrGxF2vpc7fxyQYL10Zp) | [Duke Mahone](https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e), [Lexnour](https://open.spotify.com/artist/4jSTBrJjCYoBCBhAAC2INR) | [Don't Go](https://open.spotify.com/album/7bto2zTqiC4zujZ4mQwwzW) | 3:32 | 2025-08-13 |  |

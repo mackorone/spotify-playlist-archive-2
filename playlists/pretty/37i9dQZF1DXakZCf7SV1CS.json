@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92312,
+  "num_followers": 92339,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -579,38 +579,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 140183,
       "name": "800 db cloud",
       "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+        "name": "#BrooklynBloodPop!",
+        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
       "artists": [
         {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
         }
       ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+      "duration_ms": 145610,
+      "name": "#BrooklynBloodPop!",
+      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "#BrooklynBloodPop!",
-        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
       "artists": [
         {
-          "name": "SyKo",
-          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
         }
       ],
-      "duration_ms": 145610,
-      "name": "#BrooklynBloodPop!",
-      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
     },
     {
       "added_at": "2024-10-09 21:55:22",

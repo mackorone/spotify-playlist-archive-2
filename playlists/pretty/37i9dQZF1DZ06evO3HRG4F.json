@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5480,
+  "num_followers": 5481,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAAAM29nEQDJQUdT9wUkzp+wc",
+  "snapshot_id": "aYKMAAAAAADiDUNtdU7bxiCbsZylzsz9",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decreto por el Regreso de los Buenos Tiempos",
         "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 309626,
       "name": "Prot\u00e9geme",
       "url": "https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 263026,
-      "name": "Whatsapp",
-      "url": "https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ford Monttana 69",
         "url": "https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Hollywood",
-        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 289680,
-      "name": "Yo Con Mi Desmadre",
-      "url": "https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG"
+      "duration_ms": 263026,
+      "name": "Whatsapp",
+      "url": "https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl"
     },
     {
       "added_at": null,
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+        "name": "Dr. Hollywood",
+        "url": "https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 289680,
+      "name": "Yo Con Mi Desmadre",
+      "url": "https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 214333,
       "name": "El Domador",
       "url": "https://open.spotify.com/track/4bH1M9pP9eZlkNs9JbCv3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+        "name": "Todos Estos A\u00f1os, Vol. 2",
+        "url": "https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 247200,
-      "name": "No Me la Acab\u00f3",
-      "url": "https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v"
+      "duration_ms": 214906,
+      "name": "Historias de Rock & Roll",
+      "url": "https://open.spotify.com/track/6hYLlylb5O4YAG9OMnbA0k"
     }
   ],
   "unique_name": "This Is Charlie Monttana",

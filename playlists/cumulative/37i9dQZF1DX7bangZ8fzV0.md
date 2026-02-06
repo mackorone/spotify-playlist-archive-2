@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Liezel Pieters en Gerhard Steyn
+> Net die beste Afrikaanse musiek! Omslag: Leah
 
-368 songs - 20 hr 22 min
+369 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Die Rower](https://open.spotify.com/track/2V2nGO3KiIXZunNZjIiPY4) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Die Rower](https://open.spotify.com/album/5MRXndYHbRTxLhROnjpeoO) | 4:15 | 2023-09-21 | 2023-10-27 |
 | [Diepseeduiker 17](https://open.spotify.com/track/1eIZwzjI4lB2nRoxO50l4q) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Ontdekking](https://open.spotify.com/album/0nUGaOlp2pVhxbTlfKVcLq) | 2:45 | 2025-11-10 | 2025-11-15 |
 | [Diepseeduiker 17](https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Diepseeduiker 17](https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz) | 2:45 | 2024-02-29 |  |
+| [Dieselfde Bly](https://open.spotify.com/track/2dfE8HxGJQv8RRSkyeYJ7G) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Dieselfde Bly](https://open.spotify.com/album/3l6zhVLJs90NyQMa7bHMcv) | 3:39 | 2026-02-05 |  |
 | [Dik Stukke](https://open.spotify.com/track/1vLgP2904rKta6tRuWjfS0) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Dik Stukke](https://open.spotify.com/album/1vx1KGUg2AzDmbOh3kQCGy) | 3:07 | 2025-05-08 | 2026-01-29 |
 | [Dina](https://open.spotify.com/track/5qA6bUnDzyLDbyAlH4U7vV) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:16 | 2023-03-09 | 2024-04-27 |
 | [Dis 'n Vibe](https://open.spotify.com/track/5cM47TXZurGyo8c0JcOJ8v) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Dis 'n Vibe](https://open.spotify.com/album/2Mo2TPvo9aehgvcLdyP67Z) | 3:06 | 2024-07-04 | 2024-12-23 |
@@ -363,7 +364,7 @@
 | [Wanneer Laas](https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Wanneer Laas](https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL) | 2:42 | 2022-11-03 | 2022-11-18 |
 | [Wat De Hel](https://open.spotify.com/track/15Mu0ea08pEgTLBRHqNF0e) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Wat De Hel](https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4) | 3:50 | 2022-09-08 | 2022-12-02 |
 | [Wat Ek Wil Hoor](https://open.spotify.com/track/4Ru287GBQTvVF7PJ9ydWQO) | [Ryk Kleinhans](https://open.spotify.com/artist/7Mqa0OsJfdlr4CrKGah5NV) | [Wat Ek Wil Hoor](https://open.spotify.com/album/5CAqw8LhiLMVgldhcGUU04) | 3:28 | 2025-05-01 | 2025-06-01 |
-| [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 |  |
+| [Wat Kan 'n Man Dan Doen](https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Wat Kan 'n Man Dan Doen](https://open.spotify.com/album/7ouDwXKPZZ4YNf93lP4eHR) | 2:44 | 2025-04-24 | 2026-02-06 |
 | [Wat my Pa sou sê](https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Wat my Pa sou sê](https://open.spotify.com/album/5FP9ioRvPrNL2LavCBjU70) | 2:56 | 2022-09-22 | 2022-11-04 |
 | [Wat nou?](https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Wat nou?](https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM) | 2:38 | 2023-07-13 | 2023-12-15 |
 | [Wes Kaap](https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [God Kan](https://open.spotify.com/album/26qfyYjiOZDdHj2c5uR20y) | 2:35 | 2024-12-12 | 2025-02-21 |

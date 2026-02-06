@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-916 songs - 2 day 7 hr 8 min
+917 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 | 2024-07-12 |
 | [The Only Way Out is Through](https://open.spotify.com/track/51txmuSJgeOo1B8x71i3k9) | [Vilde Tuv](https://open.spotify.com/artist/29qqFSoXdHRDxmlvkKielH) | [Truthbomb](https://open.spotify.com/album/0oyo57QSPiO0zz19lvECQl) | 4:17 | 2025-11-29 | 2026-01-15 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
+| [the producer](https://open.spotify.com/track/2Wx54D8JPCgXHgUzxs1RGI) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [the producer](https://open.spotify.com/album/57GpcPS0MhI2AKU6DCd8O7) | 3:18 | 2026-02-05 |  |
 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 | 2024-08-08 | 2024-09-08 |
 | [The Sailboat Song](https://open.spotify.com/track/5epBt5MByagXURhyKl2diz) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Stoned Soul Picnic](https://open.spotify.com/album/5prYrujbU18XFdkMkjnJGX) | 2:52 | 2025-08-24 | 2025-09-11 |
 | [The Scholars and the Travellers](https://open.spotify.com/track/7B9BrHMWhdZMkipl4ktznK) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [The Electricity in Your House Wants to Sing](https://open.spotify.com/album/3DbqxV708R452k79cUg7zy) | 4:02 | 2025-01-11 | 2025-03-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Lenin Ramírez
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,287,541 likes - 54 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,287,314 likes - 54 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

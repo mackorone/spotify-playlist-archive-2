@@ -1,12 +1,12 @@
 {
   "description": "This is DZ Deathrays. The essential tracks, all in one playlist.",
-  "num_followers": 1373,
+  "num_followers": 1372,
   "original_name": "This Is DZ Deathrays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYE6gAAAAACCujV81hv53+ofH0XwdofU",
+  "snapshot_id": "aYKMAAAAAAAtcFCigvDrlM5SBVhIUWVT",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On My Leather",
         "url": "https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 153862,
       "name": "Blood On My Leather",
       "url": "https://open.spotify.com/track/2yX5Hz2SvtGvfNnI879xrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
     },
     {
       "added_at": null,

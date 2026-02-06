@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 167996,
       "name": "A Fuul",
       "url": "https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Aketesia",
+        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+      },
+      "artists": [
+        {
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193562,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
+    },
+    {
+      "album": {
         "name": "Akokoa",
         "url": "https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 156233,
       "name": "Alhaji Popping",
       "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 219428,
       "name": "Awurade Aye",
       "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 166291,
       "name": "BALANCE (with Lasmid)",
       "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 137142,
       "name": "Black Girl Magic",
       "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 165000,
       "name": "Certified Loner (No Competition)",
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 177015,
       "name": "damn u",
       "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
@@ -4066,7 +4084,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 197522,
       "name": "Enter",
       "url": "https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW"
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 220927,
       "name": "Ewor Me",
       "url": "https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP"
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 140917,
       "name": "Figure Say",
       "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
@@ -4742,7 +4760,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 182622,
       "name": "Fine Girl",
       "url": "https://open.spotify.com/track/6P52DObY1mHoGjJAObCvAQ"
@@ -4944,7 +4962,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 195434,
       "name": "FLY GIRL (feat. Gyakie & Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
@@ -5116,7 +5134,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 178105,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK"
@@ -5266,6 +5284,28 @@
       "duration_ms": 162285,
       "name": "Front Back",
       "url": "https://open.spotify.com/track/1dgV02EoMrLcF4za1RsTvX"
+    },
+    {
+      "album": {
+        "name": "Disturbation 2",
+        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197264,
+      "name": "Fully Active (feat. Lalid)",
+      "url": "https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN"
     },
     {
       "album": {
@@ -5873,6 +5913,24 @@
     },
     {
       "album": {
+        "name": "Head 2 Toe",
+        "url": "https://open.spotify.com/album/55MHUPOnFtWmFzX2VEZBkd"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164206,
+      "name": "Head 2 Toe",
+      "url": "https://open.spotify.com/track/4nDEUYBii6DRM6sPs1vIS0"
+    },
+    {
+      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -6212,7 +6270,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 208808,
       "name": "I Want",
       "url": "https://open.spotify.com/track/3D2zP0zJA2GbpMlxBPfQWy"
@@ -6440,7 +6498,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Into The Future",
       "url": "https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k"
@@ -6502,7 +6560,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 180000,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N"
@@ -7042,7 +7100,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -7438,7 +7496,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
@@ -7580,7 +7638,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 141967,
       "name": "Larger Than Life (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
@@ -7620,7 +7678,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 159292,
       "name": "Lavida Loca (feat. Lasmid)",
       "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
@@ -7836,7 +7894,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
@@ -9332,7 +9390,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
@@ -9414,7 +9472,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 266922,
       "name": "NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix",
       "url": "https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD"
@@ -9462,6 +9520,28 @@
       "duration_ms": 201369,
       "name": "No Issues",
       "url": "https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/4rgXOI6re7kir0vZKx0ZRL"
+      },
+      "artists": [
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        },
+        {
+          "name": "Kweku Darlington",
+          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191137,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/4qua256ZagtQ0WPHRj7ua2"
     },
     {
       "album": {
@@ -10778,7 +10858,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
@@ -11296,7 +11376,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 159905,
       "name": "Put Am on God",
       "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
@@ -11996,7 +12076,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "SAME TIMBS",
       "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
@@ -12318,7 +12398,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -12442,7 +12522,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 215593,
       "name": "Shoulder",
       "url": "https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ"
@@ -12494,6 +12574,24 @@
       "duration_ms": 175922,
       "name": "Sika",
       "url": "https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52"
+    },
+    {
+      "album": {
+        "name": "SILLY INTROVERT",
+        "url": "https://open.spotify.com/album/4ZCYCr9SGA6rehsAcHuiyn"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164584,
+      "name": "SILLY INTROVERT",
+      "url": "https://open.spotify.com/track/1QQlEz6kUVkz939kdRUPVA"
     },
     {
       "album": {
@@ -12686,7 +12784,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 166312,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"
@@ -12938,7 +13036,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Soweto (with Omah Lay & Tempoe)",
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
@@ -13486,7 +13584,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 179381,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
@@ -13544,7 +13642,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 234024,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
@@ -13826,7 +13924,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
@@ -14042,7 +14140,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 194181,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
@@ -14162,7 +14260,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 183719,
       "name": "Tracking You",
       "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
@@ -14340,7 +14438,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 226809,
       "name": "TSOOBI (AKONOBA)",
       "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"

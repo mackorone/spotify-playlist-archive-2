@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Martin Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,111 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,357 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 54 | [Break Every Chain \- Live](https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Awakening \- Live From Chicago](https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft) | 8:07 |
 | 55 | [Battle Belongs](https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Battle Belongs](https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0) | 4:47 |
 | 56 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
-| 57 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
-| 58 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
+| 57 | [Open The Eyes Of My Heart \- Live](https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 5:21 |
+| 58 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
 | 59 | [Scars](https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:58 |
 | 60 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 61 | [Glorious Day \(Living He Loved Me\)](https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:40 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 78 | [YOUR NAME IS POWER](https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER](https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A) | 3:56 |
 | 79 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 80 | [The Power of Your Name](https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Power of Your Name](https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb) | 6:35 |
-| 81 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
-| 82 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
+| 81 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
+| 82 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
 | 83 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 |
 | 84 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 85 | [El\-Shaddai](https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:08 |

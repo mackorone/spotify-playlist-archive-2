@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
-  "num_followers": 573487,
+  "num_followers": 573534,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -303,42 +303,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Primos (with Hermanos Guti\u00e9rrez)",
-        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Primos (with Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -371,6 +335,26 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Primos (with Hermanos Guti\u00e9rrez)",
+        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Primos (with Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "Naxatras",
         "url": "https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 440014,
       "name": "Waves",
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Ananda Shankar (US Internet Release)",
-        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
-      },
-      "artists": [
-        {
-          "name": "Ananda Shankar",
-          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Jumpin' Jack Flash",
-      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Ananda Shankar (US Internet Release)",
+        "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
+      },
+      "artists": [
+        {
+          "name": "Ananda Shankar",
+          "url": "https://open.spotify.com/artist/5eNWwEF0woj5E5Fnu9qXaQ"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Jumpin' Jack Flash",
+      "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Are You Tired? (Keep on Singing)",
-        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
-      },
-      "artists": [
-        {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
-        }
-      ],
-      "duration_ms": 404562,
-      "name": "Are You Tired? (Keep on Singing)",
-      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Are You Tired? (Keep on Singing)",
+        "url": "https://open.spotify.com/album/6bfQx9nxndQu5zU3G4qBW7"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "duration_ms": 404562,
+      "name": "Are You Tired? (Keep on Singing)",
+      "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Man It Feels Like Space Again",
-        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
       "artists": [
         {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
         }
       ],
-      "duration_ms": 501840,
-      "name": "Man It Feels Like Space Again",
-      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+        "name": "Man It Feels Like Space Again",
+        "url": "https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q"
       },
       "artists": [
         {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
         }
       ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+      "duration_ms": 501840,
+      "name": "Man It Feels Like Space Again",
+      "url": "https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Corporal",
-        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 386800,
-      "name": "Ker",
-      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 195013,
       "name": "Hey Boy Hey Girl - Cover Version",
       "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Corporal",
+        "url": "https://open.spotify.com/album/5PNOMgqCw68PvfKzwBNWU3"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 386800,
+      "name": "Ker",
+      "url": "https://open.spotify.com/track/1Vws7JNu4H97usOHqVBbEx"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Explosions In The Sky",
-        "url": "https://open.spotify.com/album/16LihO62KcKIUU6capsuh9"
-      },
-      "artists": [
-        {
-          "name": "Kadavar",
-          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
-        }
-      ],
-      "duration_ms": 293120,
-      "name": "Explosions In The Sky",
-      "url": "https://open.spotify.com/track/51ru4MgM1wrYz38uVFw61R"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "The Efferusphere",
         "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Explosions In The Sky",
+        "url": "https://open.spotify.com/album/16LihO62KcKIUU6capsuh9"
+      },
+      "artists": [
+        {
+          "name": "Kadavar",
+          "url": "https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z"
+        }
+      ],
+      "duration_ms": 293120,
+      "name": "Explosions In The Sky",
+      "url": "https://open.spotify.com/track/51ru4MgM1wrYz38uVFw61R"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 237493,
       "name": "Feel so Fine",
       "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "A Round of Applause",
         "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 265374,
       "name": "See",
       "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
-      },
-      "artists": [
-        {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "WILLING",
         "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 183829,
       "name": "WILLING",
       "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+      },
+      "artists": [
+        {
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        },
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
-        }
-      ],
-      "duration_ms": 661120,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
+      },
+      "artists": [
+        {
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        },
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
+        }
+      ],
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Fractal Haze",
-        "url": "https://open.spotify.com/album/7CRJxDjnOOUA4sUX6A4kNJ"
+        "name": "Yellowblack",
+        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
       },
       "artists": [
         {
-          "name": "Giobia",
-          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
         }
       ],
-      "duration_ms": 403391,
-      "name": "Fractal Haze",
-      "url": "https://open.spotify.com/track/0uAqsjOY03RRg1GFcOyJxB"
+      "duration_ms": 154055,
+      "name": "Yellowblack",
+      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
     },
     {
       "added_at": "2025-12-19 06:00:08",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
-        "name": "Yellowblack",
-        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 154055,
-      "name": "Yellowblack",
-      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
         "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
         "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 328404,
       "name": "Disciplina",
       "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
+        "name": "Fractal Haze",
+        "url": "https://open.spotify.com/album/7CRJxDjnOOUA4sUX6A4kNJ"
+      },
+      "artists": [
+        {
+          "name": "Giobia",
+          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+        }
+      ],
+      "duration_ms": 403391,
+      "name": "Fractal Haze",
+      "url": "https://open.spotify.com/track/0uAqsjOY03RRg1GFcOyJxB"
     },
     {
       "added_at": "2025-12-19 06:00:08",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Woro Widowati",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Karnamereka, Ndarboy Genk",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -6225,6 +6225,28 @@
     },
     {
       "album": {
+        "name": "Njanjeni",
+        "url": "https://open.spotify.com/album/3dRpUQW6NA1Gq6mCCZGAlk"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Yaya Hnd",
+          "url": "https://open.spotify.com/artist/6roqstyqWLth4X96c2Vpcv"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257007,
+      "name": "Njanjeni",
+      "url": "https://open.spotify.com/track/79AuIgXTJqA1QoPHxRtM2O"
+    },
+    {
+      "album": {
         "name": "Njarem",
         "url": "https://open.spotify.com/album/27YAoA59XEtW70BYkLvJjL"
       },
@@ -9303,6 +9325,28 @@
     },
     {
       "album": {
+        "name": "Sikep",
+        "url": "https://open.spotify.com/album/1zseMFCKNuNVEKSm94xGDg"
+      },
+      "artists": [
+        {
+          "name": "Karnamereka",
+          "url": "https://open.spotify.com/artist/7ihcdlIbI4nuavBwOA5QXq"
+        },
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Sikep",
+      "url": "https://open.spotify.com/track/5TnXvnMzkA6D7dsq6Yl32J"
+    },
+    {
+      "album": {
         "name": "Sikep \"Siap Kelangan Pengarep Arep\"",
         "url": "https://open.spotify.com/album/5mTukLvoT78r57nJVtPIK5"
       },
@@ -9518,6 +9562,24 @@
       "duration_ms": 542863,
       "name": "Sugeng Dalu",
       "url": "https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc"
+    },
+    {
+      "album": {
+        "name": "Sumandhing",
+        "url": "https://open.spotify.com/album/7rsRcJTbndfHD1KmhI8PkJ"
+      },
+      "artists": [
+        {
+          "name": "Wahyu F Giri",
+          "url": "https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281403,
+      "name": "Sumandhing",
+      "url": "https://open.spotify.com/track/4nDmNth5y0njhlNnoivl75"
     },
     {
       "album": {

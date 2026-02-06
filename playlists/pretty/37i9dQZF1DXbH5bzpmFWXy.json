@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dani Flow & Nfasis en portada.",
-  "num_followers": 289287,
+  "num_followers": 289290,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "San Pedro",
-        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "San Pedro",
-      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "Un Pacto",
         "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 146896,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "San Pedro",
+        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "San Pedro",
+      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
     },
     {
       "added_at": "2026-01-02 06:00:23",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-01-02 06:00:23",
       "album": {
-        "name": "Gatito",
-        "url": "https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Enayy",
-          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
-        }
-      ],
-      "duration_ms": 178043,
-      "name": "Gatito",
-      "url": "https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE"
-    },
-    {
-      "added_at": "2026-01-02 06:00:23",
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 127343,
       "name": "F*CK",
       "url": "https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP"
+    },
+    {
+      "added_at": "2026-01-02 06:00:23",
+      "album": {
+        "name": "Gatito",
+        "url": "https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "duration_ms": 178043,
+      "name": "Gatito",
+      "url": "https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE"
     },
     {
       "added_at": "2026-01-02 06:00:23",

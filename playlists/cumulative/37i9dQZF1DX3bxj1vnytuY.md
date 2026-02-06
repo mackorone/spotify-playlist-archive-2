@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-300 songs - 1 day 4 hr 43 min
+301 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Jit Dhifkom \- Mr\. ID Remix](https://open.spotify.com/track/42Q358CCQXpuoPiCnFfL6i) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [Nabil Sansi](https://open.spotify.com/artist/6n18eBRlVxd4v4YnbbYlvs), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE) | [Buddha Bar XXVI](https://open.spotify.com/album/4qK4AL20uV6cJwmYmb3Imh) | 8:08 | 2025-10-13 |  |
 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 | 2024-12-12 |  |
 | [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 | 2023-07-14 |
-| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-10-05 |  |
+| [Jungle Paradise](https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Visions 2 \(Departure\)](https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E) | 8:29 | 2023-10-05 | 2026-02-06 |
 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-03-03 | 2024-10-15 |
 | [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 | 2023-10-23 | 2024-04-19 |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2023-03-01 |  |
@@ -240,6 +240,7 @@
 | [Sahara](https://open.spotify.com/track/0kpdD6AqC6dU06Ce9IELXB) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Sahara](https://open.spotify.com/album/0sVzf6cIeYhtwExwfvYeN8) | 2:04 | 2023-03-03 |  |
 | [Sajanna](https://open.spotify.com/track/42lUfNanMpFhibe2lNGqpA) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Nizami](https://open.spotify.com/album/5dHAWAY4CJ1MWYWjB25rVW) | 7:34 | 2022-04-13 | 2022-07-29 |
 | [Sajanna](https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v) | [Jack Essek](https://open.spotify.com/artist/6nDOWOY45vBCj8zb1JocP4), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [Ethno World 2](https://open.spotify.com/album/5pdUgjwzDl9iEOR32qh0YC) | 7:34 | 2022-07-21 | 2023-04-21 |
+| [Salaam](https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Hiya](https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH) | [Salaam](https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX) | 4:46 | 2026-02-05 |  |
 | [Salgir Boyu \- Bedouin Rework](https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [The Bedouin Reworks of DakhaBrakha](https://open.spotify.com/album/5fbYGyiRWLkzbbE69ikqZH) | 7:00 | 2022-04-13 | 2023-06-23 |
 | [Samaritan](https://open.spotify.com/track/37KGiv7fXcXu1c0Bp3rhcN) | [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh) | [Samaritan](https://open.spotify.com/album/5wPFohzrd2a5YPtjqcKeQE) | 3:18 | 2024-07-04 |  |
 | [Sanga \- Ayala's Mirror Mix](https://open.spotify.com/track/5njJGouELo1gsEPZVlHr5n) | [Ayala \(IT\)](https://open.spotify.com/artist/2h6ch162V2MEXLHgAyC0Q0), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Sanga](https://open.spotify.com/album/5Y4pwqtZqRPKzsstpF51So) | 6:35 | 2023-09-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,165 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 39 | [Dama Da Cama](https://open.spotify.com/track/1wGQDVJEmV0rD5CALBOYvu) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ R7](https://open.spotify.com/artist/6WuTZb8WWZ5xitAQrgAJY2) | [Dama Da Cama](https://open.spotify.com/album/6BDcEwETRtgxhuKbKx4fse) | 3:21 |
 | 40 | [APESHIT](https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46) | 4:24 |
 | 41 | [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 |
-| 42 | [Vem pro Cabaré](https://open.spotify.com/track/7FbF3jz2rS1V0ZOWjRGjDR) | [Selminho DJ](https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib), [MC Duzinho do Cabaré](https://open.spotify.com/artist/4R4yZ6T76hF53TDvD0uRgs) | [Vem pro Cabaré](https://open.spotify.com/album/2B5H5gJTID1NfRMJQkWcXj) | 3:08 |
+| 42 | [Vem pro Cabaré](https://open.spotify.com/track/7FbF3jz2rS1V0ZOWjRGjDR) | [Selminho DJ](https://open.spotify.com/artist/1szIIFdhWodOHfQUDn39ib), [MC Duzinho do Cabaré](https://open.spotify.com/artist/4R4yZ6T76hF53TDvD0uRgs), [Funk das galáxias](https://open.spotify.com/artist/5ay7ERQ96zTIqQbsbGCNpw) | [Vem pro Cabaré](https://open.spotify.com/album/2B5H5gJTID1NfRMJQkWcXj) | 3:08 |
 | 43 | [Tá Tarada](https://open.spotify.com/track/7m9DftfwqESYDVcQqOxQgB) | [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8) | [Tá Tarada](https://open.spotify.com/album/7ibxn1p2SnMsrBlpp98E90) | 2:53 |
 | 44 | [Dom Dom Dom](https://open.spotify.com/track/3zd8GrqInpxh3CWsEUAUqO) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Funk, Vol\. 5](https://open.spotify.com/album/5cnoAuSNpgiygtyUH43ztW) | 2:01 |
 | 45 | [O Sonho dos Menor](https://open.spotify.com/track/7mr0zoo97HRDdu7XxJcnzt) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [O Sonho dos Menor](https://open.spotify.com/album/66StMOhGdX7THW6iAw16ZH) | 3:08 |

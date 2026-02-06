@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 177181,
       "name": "i drive me mad",
       "url": "https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW"
@@ -2998,10 +2998,28 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 151236,
       "name": "Sick of Me Too",
       "url": "https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb"
+    },
+    {
+      "album": {
+        "name": "Sick of Me Too",
+        "url": "https://open.spotify.com/album/2NXAXKV91fx1xAmgFLv7rP"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151236,
+      "name": "Sick of Me Too",
+      "url": "https://open.spotify.com/track/7JMdAJjOVg1a2zEaIOBhMO"
     },
     {
       "album": {

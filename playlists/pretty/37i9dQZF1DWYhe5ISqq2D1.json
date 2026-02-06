@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: butaji",
-  "num_followers": 64803,
+  "num_followers": 64814,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u30ac\u30a4\u30a2",
-        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
-      },
-      "artists": [
-        {
-          "name": "Siip",
-          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
-        }
-      ],
-      "duration_ms": 367306,
-      "name": "\u9732",
-      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "\u5e78\u305b\u306e\u8272",
         "url": "https://open.spotify.com/album/2H4TS8jql9CaCrJ1kZ8sVz"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 253727,
       "name": "\u5e78\u305b\u306e\u8272",
       "url": "https://open.spotify.com/track/1juaA8WMJ43w0LlFdRcewf"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "duration_ms": 367306,
+      "name": "\u9732",
+      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u30ac\u30a4\u30a2",
-        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
-      },
-      "artists": [
-        {
-          "name": "Siip",
-          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
-        }
-      ],
-      "duration_ms": 268487,
-      "name": "\u30ac\u30a4\u30a2",
-      "url": "https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Laugh",
         "url": "https://open.spotify.com/album/0QmujzTxQFdS9zYbfJznnJ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186573,
       "name": "Latata",
       "url": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "duration_ms": 268487,
+      "name": "\u30ac\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
+        "name": "\u61f8\u60f3\u6b4c",
+        "url": "https://open.spotify.com/album/0XlISlh69xeT4B0oJJgOjT"
       },
       "artists": [
         {
-          "name": "Kucci",
-          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
         }
       ],
-      "duration_ms": 185000,
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
+      "duration_ms": 205714,
+      "name": "\u61f8\u60f3\u6b4c",
+      "url": "https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -991,34 +991,18 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u61f8\u60f3\u6b4c",
-        "url": "https://open.spotify.com/album/0XlISlh69xeT4B0oJJgOjT"
+        "name": "\u30e9\u30a4\u30a2\u30fc",
+        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
       },
       "artists": [
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "Kucci",
+          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
         }
       ],
-      "duration_ms": 205714,
-      "name": "\u61f8\u60f3\u6b4c",
-      "url": "https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
-        "name": "Won't ever",
-        "url": "https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 173299,
-      "name": "Won't ever",
-      "url": "https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO"
+      "duration_ms": 185000,
+      "name": "\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1035,6 +1019,22 @@
       "duration_ms": 238166,
       "name": "\u611b\u3068\u306f",
       "url": "https://open.spotify.com/track/6lmIrtShYENvtIGtBFEviO"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "Won't ever",
+        "url": "https://open.spotify.com/album/4mdaxkLZ454RKHh1Lhm3QU"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 173299,
+      "name": "Won't ever",
+      "url": "https://open.spotify.com/track/7uXbeSZqwSHEvi3fIfl4DO"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "pink",
         "url": "https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "LALALA (Baby it takes two)",
-        "url": "https://open.spotify.com/album/74Zy5Q7uB8BjuLaHJFBQlK"
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
         }
       ],
-      "duration_ms": 182794,
-      "name": "LALALA (Baby it takes two)",
-      "url": "https://open.spotify.com/track/3xUMHTsZA4iU1azQcz6RJO"
+      "duration_ms": 224812,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
-        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
+        "name": "LALALA (Baby it takes two)",
+        "url": "https://open.spotify.com/album/74Zy5Q7uB8BjuLaHJFBQlK"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        },
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 227538,
-      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
-      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
+      "duration_ms": 182794,
+      "name": "LALALA (Baby it takes two)",
+      "url": "https://open.spotify.com/track/3xUMHTsZA4iU1azQcz6RJO"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1299,6 +1279,26 @@
       "duration_ms": 160895,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/2445JyDGRHYTKR9z80bAK6"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        },
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 227538,
+      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u53c2?",
-        "url": "https://open.spotify.com/album/0lzX67dxF9EAPHy4HZnfiU"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3066\u306a",
-          "url": "https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u53c2?",
-      "url": "https://open.spotify.com/track/1raAmqAEnFqTGbhx0hiHZg"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Dead End",
         "url": "https://open.spotify.com/album/3uNW0d4Jw5gXbS0hbG5NbD"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 167466,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/2lWwupKSHPNLmCfuZ3ZHav"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u53c2?",
+        "url": "https://open.spotify.com/album/0lzX67dxF9EAPHy4HZnfiU"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3066\u306a",
+          "url": "https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u53c2?",
+      "url": "https://open.spotify.com/track/1raAmqAEnFqTGbhx0hiHZg"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 269960,
-      "name": "Quest",
-      "url": "https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "BIG BUG BEAR",
         "url": "https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 226530,
       "name": "BIG BUG BEAR",
       "url": "https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 269960,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "glauben",
-        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "\u611f\u60c5\u7684\u4fb5\u7565",
-      "url": "https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6EDT74EiZ5pKdiTuGpeD0O"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 211493,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2uoJ1GfCQHmwqmKNAYSauH"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "glauben",
+        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "\u611f\u60c5\u7684\u4fb5\u7565",
+      "url": "https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

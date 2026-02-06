@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 295426,
+  "num_followers": 295415,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "peter pan.",
         "url": "https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 184614,
       "name": "peter pan.",
       "url": "https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -367,6 +367,22 @@
       "duration_ms": 184822,
       "name": "Acres",
       "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -443,22 +459,6 @@
       "duration_ms": 151520,
       "name": "One Call Away (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "tell me what you want",
-        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "tell me what you want",
-      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "He's Not Me",
-        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 207762,
-      "name": "He's Not Me",
-      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "back 'n forth",
         "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197952,
       "name": "back 'n forth",
       "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "He's Not Me",
+        "url": "https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 207762,
+      "name": "He's Not Me",
+      "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Waiting For You (feat. Reggie Dartey)",
         "url": "https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1343,6 +1343,30 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
+        "name": "If The Walls Could Talk",
+        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
+      },
+      "artists": [
+        {
+          "name": "Lizzy",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Maydien",
+          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "If The Walls Could Talk",
+      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
         "name": "It Starts With Us",
         "url": "https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa"
       },
@@ -1371,30 +1395,6 @@
       "duration_ms": 180923,
       "name": "It Starts With Us",
       "url": "https://open.spotify.com/track/09cmUCzXeTMxU7xVfOFfMO"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
-        "name": "If The Walls Could Talk",
-        "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
-      },
-      "artists": [
-        {
-          "name": "Lizzy",
-          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
-        },
-        {
-          "name": "Maydien",
-          "url": "https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y"
-        },
-        {
-          "name": "Mitchell Yard",
-          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "If The Walls Could Talk",
-      "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Empath",
-      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Why Do Feelings Matter Anyway",
         "url": "https://open.spotify.com/album/74KBgkPg55lmPeu8Lt2r4M"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 180048,
       "name": "N.M.N",
       "url": "https://open.spotify.com/track/1c9AwaAGcb4e7IPTRuPdHN"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "LUCKY ME",
-        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
+        "name": "Two Cents",
+        "url": "https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 163561,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
+      "duration_ms": 178137,
+      "name": "Two Cents",
+      "url": "https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -1671,22 +1667,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Two Cents",
-        "url": "https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 178137,
-      "name": "Two Cents",
-      "url": "https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 166666,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "LUCKY ME",
+        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 163561,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
       "added_at": "2026-02-03 23:00:18",

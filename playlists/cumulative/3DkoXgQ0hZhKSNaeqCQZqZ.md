@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-473 songs - 1 day 1 hr 0 min
+474 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [ALLORNOTHING](https://open.spotify.com/track/2kdfq8yibR4si0xTVtFNe1) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:24 | 2025-11-11 |  |
 | [Always Hated](https://open.spotify.com/track/4ix39AucihLeMNCe64fR6F) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Always Hated](https://open.spotify.com/album/1UY6s7nnSEBXgyuwRrJOq2) | 2:57 | 2023-06-14 |  |
 | [Angels At Night](https://open.spotify.com/track/0xnK07iPZTUlxnLyYlmRls) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [Angels At Night](https://open.spotify.com/album/3xCoV0hBCqTvBu8Uohlzh1) | 2:17 | 2025-02-14 |  |
-| [Another Perfect Day, Another Perfect Night](https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH) | [Spring Silver](https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv) | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb) | 3:29 | 2024-08-15 |  |
+| [Another Perfect Day, Another Perfect Night](https://open.spotify.com/track/3wTIesZaQuXHjoo8wvh1bH) | [Spring Silver](https://open.spotify.com/artist/1CV0psSL6XvECs0ixfRJcv) | [Another Perfect Day, Another Perfect Night](https://open.spotify.com/album/1emxhGcyn2WqKdnZI2jXvb) | 3:29 | 2024-08-15 | 2026-02-06 |
 | [ANTIHUMAN](https://open.spotify.com/track/3gUeMsbYV3mktmkknKWrnq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIHUMAN](https://open.spotify.com/album/0qB4GkfoPpEbDawVEpfn8r) | 3:31 | 2023-08-26 |  |
 | [ANTIVILLAIN](https://open.spotify.com/track/5WQOTW68PnM96F67Zc8KRy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [ANTIVILLAIN](https://open.spotify.com/album/1BzXmHRWqVaOQaQuMZdJ6s) | 4:11 | 2024-04-24 |  |
 | [antler crimes](https://open.spotify.com/track/4aNz4UAOIBvC6hnnobhUuF) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ) | [herdbound](https://open.spotify.com/album/1U37WNDGRpBEG0SreBA2Yy) | 4:43 | 2025-03-11 |  |
@@ -208,6 +208,7 @@
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
 | [if i could meet you there](https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [rodeo](https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7) | 3:08 | 2024-11-18 |  |
 | [if u get lost](https://open.spotify.com/track/5OEDL9OjURGPg0d2FCRFCS) | [ARRYTH](https://open.spotify.com/artist/15FxGdlZMPSCPi5N5PUbKZ) | [if u get lost](https://open.spotify.com/album/2Tjfriw39PTfBHkYQ0eQc0) | 4:31 | 2025-02-23 |  |
+| [im so burnt out......](https://open.spotify.com/track/0u9ah2ll7H8deTtTv7QEkS) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [im so burnt out......](https://open.spotify.com/album/3dehGedgrDUQgbnVXAw7OC) | 1:11 | 2026-02-05 |  |
 | [im stuck in my ways](https://open.spotify.com/track/1XBwRg51e4v4By4cvjXbQt) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [cheap guitar, cheap songs.](https://open.spotify.com/album/33Fzs7KelOKWDsxvYT9P8x) | 2:44 | 2025-10-27 | 2025-10-29 |
 | [Imníoch](https://open.spotify.com/track/7efo4RmYcdwxLiChZHDVjt) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns) | [Imníoch](https://open.spotify.com/album/1nQSa3IHxEDhHFfXgoVfiV) | 2:36 | 2025-04-28 |  |
 | [In The Night](https://open.spotify.com/track/7eAZzyrEGnMHb4gBWQ2Ak7) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [In The Night](https://open.spotify.com/album/5TBn9CgZCvznaAlWt9lRKj) | 2:34 | 2024-11-18 |  |
@@ -252,7 +253,7 @@
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |
 | [Machine](https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA) | [YxFF](https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ), [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Machine](https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD) | 2:43 | 2025-01-23 |  |
 | [Magnetic](https://open.spotify.com/track/2XSi3EMeKsCUbI9HLgk5JP) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Magnetic](https://open.spotify.com/album/3enpfoY39g32QfaS4zs2n9) | 3:02 | 2025-08-24 |  |
-| [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 |  |
+| [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 | 2026-02-06 |
 | [MAK 2](https://open.spotify.com/track/5182eSwZytleUce3d5qbmA) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [MAK 2](https://open.spotify.com/album/0dHHz0rhgonxIFtnXZvMd9) | 2:03 | 2025-06-06 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 |  |
@@ -418,7 +419,7 @@
 | [talk my shit](https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [h i d a m a](https://open.spotify.com/artist/4hwdD8J5z3iLG7uSg3w6sw) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 3:25 | 2025-01-30 |  |
 | [TBH](https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TBH](https://open.spotify.com/album/1RzgX5MqrIA6IqYSkVDeWG) | 1:58 | 2024-11-03 |  |
 | [telephone](https://open.spotify.com/track/14lMI3AfvtQVvJoOvmb9tZ) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [can opener's notebook: fish whisperer](https://open.spotify.com/album/7F81VnxiHp0jDJtQLcsZWo) | 2:55 | 2024-11-29 |  |
-| [Temporary](https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Temporary](https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn) | 3:00 | 2024-03-06 |  |
+| [Temporary](https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Temporary](https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn) | 3:00 | 2024-03-06 | 2026-02-06 |
 | [Tension](https://open.spotify.com/track/3j6EwWAqg0e0tit4zCV03D) | [SubCorv](https://open.spotify.com/artist/4bgP9dOf4yyE1fehFa4UaJ), [Tygre](https://open.spotify.com/artist/4we0HjU8pyJbI5IE3BHLIP) | [Le Vide](https://open.spotify.com/album/6Z7X2WHdRhSq4Qq2OXCY8I) | 4:07 | 2024-04-08 | 2025-09-22 |
 | [tether](https://open.spotify.com/track/4mSyDYm6dYl5Qx6rNUIp2r) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [tether](https://open.spotify.com/album/5VDFtcYSBVLuuyF126Nh92) | 1:46 | 2025-06-08 |  |
 | [That Spark](https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8) | [Eris Soundworks](https://open.spotify.com/artist/5X1SwenxpH0EvoxYsQZNxz), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Visitor](https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj) | 5:05 | 2024-03-06 |  |

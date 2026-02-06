@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "obra aberta",
+        "url": "https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM"
+      },
+      "artists": [
+        {
+          "name": "obra aberta",
+          "url": "https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1298505,
+      "name": "amizade de baixa manuten\u00e7\u00e3o #11",
+      "url": "https://open.spotify.com/episode/1hFRm6iVBLMyWCGUz3Mm6D"
+    },
+    {
+      "album": {
         "name": "bom mesmo \u00e9 ser emocionada",
         "url": "https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE"
       },

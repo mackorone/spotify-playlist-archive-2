@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 114451,
+  "num_followers": 114456,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "Perd\u00f3name, Madre",
+        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 246657,
+      "name": "Perd\u00f3name, Madre",
+      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Las Calles Tienen Memoria",
         "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Perd\u00f3name, Madre",
-        "url": "https://open.spotify.com/album/3iayhGgNxplb1PlyUqd8PV"
+        "name": "Ni Descanso, Ni Paz!",
+        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
         }
       ],
-      "duration_ms": 246657,
-      "name": "Perd\u00f3name, Madre",
-      "url": "https://open.spotify.com/track/3m4sBPROsVE0lwggigu5R4"
+      "duration_ms": 137102,
+      "name": "Ni Descanso, Ni Paz!",
+      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -759,22 +775,6 @@
       "duration_ms": 88000,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Ni Descanso, Ni Paz!",
-        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
-      },
-      "artists": [
-        {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
-        }
-      ],
-      "duration_ms": 137102,
-      "name": "Ni Descanso, Ni Paz!",
-      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "Ya No Me Divierto",
+        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Ya No Me Divierto",
+      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Prohibido Prohibir",
         "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 221480,
       "name": "Prohibido Prohibir",
       "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Ya No Me Divierto",
-        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Ya No Me Divierto",
-      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Hostilidad",
-        "url": "https://open.spotify.com/album/7uzIoYyDXiSruw4EOrZjqU"
-      },
-      "artists": [
-        {
-          "name": "Inkandescencia",
-          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
-        },
-        {
-          "name": "Free City",
-          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Hostilidad",
-      "url": "https://open.spotify.com/track/7fJRuNQjAvhi0qKMA4LX1X"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "No Olvidamos, 3 de Marzo - Single",
         "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
@@ -1183,6 +1163,22 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+        "name": "Hostilidad",
+        "url": "https://open.spotify.com/album/7uzIoYyDXiSruw4EOrZjqU"
       },
       "artists": [
         {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        },
+        {
+          "name": "Free City",
+          "url": "https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0"
         }
       ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+      "duration_ms": 237400,
+      "name": "Hostilidad",
+      "url": "https://open.spotify.com/track/7fJRuNQjAvhi0qKMA4LX1X"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Revi\u00e9ntales",
-        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Revi\u00e9ntales",
-      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "La Mejor Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu"
+      },
+      "artists": [
+        {
+          "name": "La L\u00ednea Roja",
+          "url": "https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM"
+        }
+      ],
+      "duration_ms": 178821,
+      "name": "La Mejor Opci\u00f3n",
+      "url": "https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Muros de Cristal",
         "url": "https://open.spotify.com/album/7F7ydT9NEri6TwG0UOKboQ"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 290369,
       "name": "Muros de Cristal",
       "url": "https://open.spotify.com/track/23JPltf9ba5dDctQQhuXHW"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "La Mejor Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3MlJPEOuDovfV8z8MLbuYu"
-      },
-      "artists": [
-        {
-          "name": "La L\u00ednea Roja",
-          "url": "https://open.spotify.com/artist/0yooxBZxMUx0d0XqMM3dKM"
-        }
-      ],
-      "duration_ms": 178821,
-      "name": "La Mejor Opci\u00f3n",
-      "url": "https://open.spotify.com/track/64AlFt6yd0L5Mes9heUi5I"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Bea Vapea",
-        "url": "https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0"
-      },
-      "artists": [
-        {
-          "name": "Estrogenuinas",
-          "url": "https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM"
-        }
-      ],
-      "duration_ms": 123042,
-      "name": "Bea Vapea",
-      "url": "https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Incomunicado",
         "url": "https://open.spotify.com/album/79BlGaN24zhGl6wTNMcV1b"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Bea Vapea",
+        "url": "https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0"
+      },
+      "artists": [
+        {
+          "name": "Estrogenuinas",
+          "url": "https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM"
+        }
+      ],
+      "duration_ms": 123042,
+      "name": "Bea Vapea",
+      "url": "https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau"
     },
     {
       "added_at": "2026-02-01 23:01:19",

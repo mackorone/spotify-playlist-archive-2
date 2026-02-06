@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 207629,
       "name": "des excuses",
       "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-06",
       "duration_ms": 183802,
       "name": "La nuit n'est pas pr\u00eateuse",
       "url": "https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI"
@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "On va voir la mer",
+        "url": "https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149578,
+      "name": "On va voir la mer",
+      "url": "https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx"
+    },
+    {
+      "album": {
         "name": "PARADIS / SIERRA NEVADA",
         "url": "https://open.spotify.com/album/7rlMrXqjgdiDzBHyz090HD"
       },
@@ -4606,6 +4624,24 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr"
+      },
+      "artists": [
+        {
+          "name": "Canine",
+          "url": "https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168597,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae"
     },
     {
       "album": {

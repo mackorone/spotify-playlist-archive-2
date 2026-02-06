@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 3 hr 28 min
+58 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Rolling Deep](https://open.spotify.com/track/61F4fwBN9KzeOH3KJ2ypAu) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [State Of Mind](https://open.spotify.com/album/4gX0D6oS2t2a85RJNMvjIK) | 2:02 | 2025-08-23 |  |
 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 | 2024-01-29 |  |
 | [Same Old Story](https://open.spotify.com/track/4zTsnilS61CuECqMeq70Kw) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 2:58 | 2024-01-29 |  |
+| [Satellite](https://open.spotify.com/track/5Z3BpQ8jZhyDLluo5QUfWS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:39 | 2026-02-05 |  |
 | [Sensation](https://open.spotify.com/track/7eHc2nQ1tKJHEwR3ge2ZQy) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [Sensationnel](https://open.spotify.com/album/4tvSihPpEkii5ncIcfRboA) | 3:02 | 2025-02-16 | 2025-04-12 |
 | [She Wanna](https://open.spotify.com/track/13CqoBKII7rdFn1f6NSjsW) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 3:33 | 2024-01-29 |  |
 | [Spaghetti](https://open.spotify.com/track/7j0AjRMQ5f2AFMLgn9aQHm) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:32 | 2024-01-29 |  |

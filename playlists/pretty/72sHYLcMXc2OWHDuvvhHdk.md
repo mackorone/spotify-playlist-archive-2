@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,270 songs - 5 day 12 hr 48 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,272 songs - 5 day 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2278,5 +2278,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2268 | [Polka Hands](https://open.spotify.com/track/5kNy9hMut7vB7BOYuePS9p) | [The Imaginary Band](https://open.spotify.com/artist/6C07tFlxuK6Aq1aQBMExrm), [Andrew Christopher](https://open.spotify.com/artist/2v5uSfzONW5ws0uRnD7UPv) | [Polka Hands](https://open.spotify.com/album/0jYAVagQlYBbN7brc1vv2M) | 3:15 |
 | 2269 | [Plenty \- Remix](https://open.spotify.com/track/79zYZ5z4gm7TINADqk87br) | [Sheni](https://open.spotify.com/artist/6gkfOKtjKkKeztY4Pv0VNu), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Plenty \(Remix\)](https://open.spotify.com/album/22y3e5UR33tamFwQeA6LcU) | 3:15 |
 | 2270 | [DELUSIONAL](https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v) | [Jfallon](https://open.spotify.com/artist/4odgyHXrBNILVxyGFGdaJ0), [AUGY](https://open.spotify.com/artist/7BZO8HVP46PLeEYEBLlkLw) | [DELUSIONAL](https://open.spotify.com/album/1QhZ8MlWlKWXgxUPMEUqzl) | 2:36 |
+| 2271 | [Don't Care for Carolina](https://open.spotify.com/track/683NrysqQaIRzIfak8fcFZ) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Don't Care for Carolina](https://open.spotify.com/album/6DsdvPQqxNxbNPdUIS3KFh) | 3:30 |
+| 2272 | [Volverte A Ver](https://open.spotify.com/track/6wJ7Y3zs6zW1dirjIq0nMn) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Volverte A Ver](https://open.spotify.com/album/3uigmjEJPtau8rlzhMa3Bv) | 2:51 |
 
-Snapshot ID: `AAAJdRlBI/hj57bH5xOb/1fPMYmMDnJi`
+Snapshot ID: `AAAJdw53IHpB3K+acoEK7Ak+kUnc895I`

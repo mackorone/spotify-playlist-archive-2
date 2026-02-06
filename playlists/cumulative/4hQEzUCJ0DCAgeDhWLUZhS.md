@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-548 songs - 1 day 8 hr 1 min
+552 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 | 2025-06-12 |  |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-08 |  |
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 | 2025-06-04 |
+| [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 | 2026-02-05 |  |
 | [AIN'T MY GAME](https://open.spotify.com/track/3oPq1bVJJDlqXytAjsroGu) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [AIN'T MY GAME](https://open.spotify.com/album/4wPVVVZAqOGl4JMQAn50aq) | 3:01 | 2025-10-06 |  |
 | [ALL MY ANGELS](https://open.spotify.com/track/6aKtw75H6AxnofYE4E1The) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/59DduybzCVWmkkWoq8qs2p) | 3:01 | 2025-10-27 |  |
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 | 2022-03-18 |
@@ -129,6 +130,7 @@
 | [Dust On My Brain](https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Dust On My Brain](https://open.spotify.com/album/4ZxzVGsD6E2OM89NFe6rPH) | 3:11 | 2025-05-20 |  |
 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 | 2021-10-29 | 2025-05-28 |
 | [Ease My Mind](https://open.spotify.com/track/2pBRMZKqwdPrrMLZouj5yZ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Ease My Mind](https://open.spotify.com/album/4bdJvHMmM4nZ5VClRTVdqa) | 3:25 | 2021-11-19 | 2025-05-28 |
+| [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 | 2026-02-05 |  |
 | [Elaborate Attractions](https://open.spotify.com/track/0Ky4U5952pryWGyCgAnl6b) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [1/2](https://open.spotify.com/album/1gysbgJ8ZrAqrWEgKHl5uN) | 3:06 | 2020-10-10\* | 2021-05-13 |
 | [Elephants](https://open.spotify.com/track/3OZfyZHECqT3q48x5ct2yh) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Elephants](https://open.spotify.com/album/6RSlSnCY2GqdgzwVS2VqIW) | 3:23 | 2020-10-10\* | 2022-03-18 |
 | [elevator song](https://open.spotify.com/track/4FdXiFVP6qezflXS7wqRrI) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [elevator song](https://open.spotify.com/album/2ElVLkTeLKhfiPBorxwN8I) | 2:57 | 2021-05-22 | 2022-03-18 |
@@ -191,6 +193,7 @@
 | [Hazy](https://open.spotify.com/track/1UwYheYpzp3PvBEoBmyFtd) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Hazy](https://open.spotify.com/album/433aNFBpLGYYqWzx5lY9b0) | 4:04 | 2021-09-10 | 2025-05-28 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-27 | 2025-06-04 |
 | [HELL BOY](https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [HELL BOY](https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila) | 2:55 | 2025-01-23 | 2025-06-04 |
+| [Hella Good](https://open.spotify.com/track/0qpqTbW0hU89ekz6E8t5if) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hella Good](https://open.spotify.com/album/0pHlaQDXd2x2XiSj3urIyX) | 3:13 | 2026-02-05 |  |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-14 | 2025-06-04 |
 | [Her World](https://open.spotify.com/track/1nlBWHWjHVrdjukChekg5K) | [Raintalker](https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC) | [Her World](https://open.spotify.com/album/3kyRqSYzOSbUcIf32LAXaR) | 3:13 | 2024-01-12 | 2025-06-04 |
 | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10\* | 2021-05-13 |
@@ -521,6 +524,7 @@
 | [Vortex](https://open.spotify.com/track/58ZtTGuySqYHlquNK2ryyI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Vortex](https://open.spotify.com/album/2yTgZSjCAn1w9n7hnyb78L) | 4:38 | 2021-08-21 | 2025-05-28 |
 | [Vulnerability](https://open.spotify.com/track/4mO3tgKhdb21D92dDmgnCR) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Vulnerability](https://open.spotify.com/album/3G0PSYxUg6w3YRYn85XBsO) | 3:50 | 2022-01-14 | 2025-05-28 |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2021-11-04 | 2025-05-28 |
+| [Wake Up Calling](https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wake Up Calling](https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L) | 3:49 | 2026-02-05 |  |
 | [Wake Up, Sunshine](https://open.spotify.com/track/0xUvmXH7JO3klazeWlOyup) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:16 | 2020-10-10\* | 2021-05-13 |
 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-07-02 | 2025-05-28 |
 | [Wanted?](https://open.spotify.com/track/2rYllInztQMtHyuVFUyci5) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Wanted?](https://open.spotify.com/album/4Kd7ghDh5uUwfUCldPS6eN) | 3:51 | 2024-09-20 | 2025-06-04 |
@@ -547,7 +551,7 @@
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2025-06-04 |
 | [World Keeps Spinning](https://open.spotify.com/track/1Ekjbbbg6kWy0ITBPQSVhB) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [World Keeps Spinning / Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/5H6tcLBsm1RpqWCoIC4F40) | 3:34 | 2020-10-10\* | 2021-05-13 |
 | [World Keeps Spinning](https://open.spotify.com/track/62CoqBSo6NUdiQQTIKQQAM) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing](https://open.spotify.com/album/6MfiM93nfMmvDlegb3gbG5) | 3:34 | 2020-10-10\* | 2021-05-13 |
-| [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 | 2025-02-28 |  |
+| [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 | 2025-02-28 |  |
 | [Worship](https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:56 | 2020-10-10\* | 2021-02-25 |
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 | 2025-06-04 |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 | 2025-06-04 |

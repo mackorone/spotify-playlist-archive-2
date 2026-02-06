@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 93842,
+  "num_followers": 93864,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323480,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/12ZTpSvqoRhlZh6GZZEvuR"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
       },
@@ -919,18 +919,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
         }
       ],
-      "duration_ms": 248043,
-      "name": "I Should Live in Salt",
-      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
+      "duration_ms": 160066,
+      "name": "Diane Young",
+      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -951,18 +951,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Modern Vampires of the City",
-        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 160066,
-      "name": "Diane Young",
-      "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+      "duration_ms": 248043,
+      "name": "I Should Live in Salt",
+      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Modern Jesus",
-      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 217120,
       "name": "Life Round Here",
       "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 194053,
+      "name": "Modern Jesus",
+      "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Warm Water (Snakehips Remix)",
         "url": "https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 253584,
       "name": "Warm Water - Snakehips Remix",
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Kangaroo Court",
+      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 221894,
       "name": "Drop The Game",
       "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Kangaroo Court",
-      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Muchacho De Lujo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song For Zula",
-      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song For Zula",
+      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Wild Heart",
         "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 268455,
       "name": "Only",
       "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1619,22 +1635,6 @@
       "duration_ms": 220240,
       "name": "Entertainment",
       "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     }
   ],
   "unique_name": "Best of Indie 2013",

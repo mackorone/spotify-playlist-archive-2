@@ -551,30 +551,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Getting Better",
-        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Ps Wilson Bugembe",
-          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
-        }
-      ],
-      "duration_ms": 245363,
-      "name": "Getting Better",
-      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -611,6 +587,30 @@
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Ps Wilson Bugembe",
+          "url": "https://open.spotify.com/artist/0klkSQ9nnuVVrURzP6QKzD"
+        }
+      ],
+      "duration_ms": 245363,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
     },
     {
       "added_at": "2024-03-01 12:07:08",

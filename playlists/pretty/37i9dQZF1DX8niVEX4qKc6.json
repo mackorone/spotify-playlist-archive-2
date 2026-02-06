@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 192908,
+  "num_followers": 192913,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Fanky - Live",
-      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Fanky - Live",
+      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 208289,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Arrancacorazones - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Mundo Agradable (feat. Ricardo Mollo)",
         "url": "https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1167,22 +1183,6 @@
       "duration_ms": 243391,
       "name": "Un Osito de Peluche de Taiwan",
       "url": "https://open.spotify.com/track/1U4LPaM9gk3YQ2nN3gtMzf"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Cantamos en mi terraza? #2",
         "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 274407,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "El Filo",
-        "url": "https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d"
+        "name": "AC\u00daSTICO Vol.1",
+        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
       },
       "artists": [
         {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
         }
       ],
-      "duration_ms": 162714,
-      "name": "El Temporal",
-      "url": "https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh"
+      "duration_ms": 168500,
+      "name": "Amor Roto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "AC\u00daSTICO Vol.1",
-        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
+        "name": "El Filo",
+        "url": "https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d"
       },
       "artists": [
         {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
         }
       ],
-      "duration_ms": 168500,
-      "name": "Amor Roto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
+      "duration_ms": 162714,
+      "name": "El Temporal",
+      "url": "https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",
