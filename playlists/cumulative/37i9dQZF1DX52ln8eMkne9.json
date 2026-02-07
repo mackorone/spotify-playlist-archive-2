@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Halo / Tempo Rei",
+        "url": "https://open.spotify.com/album/6j1MKq8FYonXtMycWde85S"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140825,
+      "name": "Halo / Tempo Rei",
+      "url": "https://open.spotify.com/track/6QjVs8r8Ls5BnOcEJOB0xN"
+    },
+    {
+      "album": {
         "name": "One Evening in July",
         "url": "https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01"
       },
@@ -3185,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/1XuPX5tHV71SXdBW0qOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Jody Sternberg",
+          "url": "https://open.spotify.com/artist/5e54vDDW4xAxgz6Z0HfOdv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/4vzYYM4Ck6oLJYJMH4PjYQ"
+    },
+    {
+      "album": {
         "name": "To Miss Shirley Horn with Love",
         "url": "https://open.spotify.com/album/6xnsfb2deVBQxP23cyqSis"
       },
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 210600,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 366177,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb"

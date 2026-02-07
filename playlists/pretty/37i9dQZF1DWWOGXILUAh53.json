@@ -1,13 +1,121 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Namasenda",
-  "num_followers": 378026,
+  "description": "The hottest new pop with all the drops. Cover: Blusher",
+  "num_followers": 378726,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALAaONd/+P9CWnclSQaX82CRpnvY",
+  "snapshot_id": "AAAAAE56ecPkn8OU23WqWnCKHfBqj0Gv",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "rager",
+        "url": "https://open.spotify.com/album/50DZmSygoelBizezheVskd"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 168111,
+      "name": "rager",
+      "url": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "COOK",
+        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 170243,
+      "name": "COOK",
+      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 168298,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Release The Pressure",
+        "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 203668,
+      "name": "Release The Pressure",
+      "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Some Kinda Heaven",
+        "url": "https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Some Kinda Heaven",
+      "url": "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
+    },
     {
       "added_at": "2026-01-30 05:01:17",
       "album": {
@@ -25,6 +133,46 @@
       "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
     },
     {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "I had a dream...",
+        "url": "https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "I had a dream...",
+      "url": "https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 155210,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad"
+    },
+    {
       "added_at": "2026-01-16 05:00:28",
       "album": {
         "name": "DANCE...",
@@ -39,6 +187,54 @@
       "duration_ms": 236041,
       "name": "DANCE... - Edit",
       "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "duration_ms": 182571,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "YUM-ME (Featuring Two Planets and Eloise Keeble)",
+        "url": "https://open.spotify.com/album/7fG4cyEYYEdRPAJPZMyhVH"
+      },
+      "artists": [
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Two Planets",
+          "url": "https://open.spotify.com/artist/7ujhs6kppvxNBZyeDVZKhr"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 138620,
+      "name": "YUM-ME - Featuring Two Planets and Eloise Keeble",
+      "url": "https://open.spotify.com/track/1LrP3NxSkhULxoVxXmkGHU"
     },
     {
       "added_at": "2026-01-16 05:00:28",
@@ -79,6 +275,22 @@
       "duration_ms": 172981,
       "name": "You & Me (Always Forever)",
       "url": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
+    },
+    {
+      "added_at": "2026-02-06 05:00:34",
+      "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
+      },
+      "artists": [
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 128769,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
     },
     {
       "added_at": "2026-01-30 05:01:17",
@@ -1595,26 +1807,6 @@
       "duration_ms": 180151,
       "name": "Hey Son",
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
-    },
-    {
-      "added_at": "2025-11-07 05:00:58",
-      "album": {
-        "name": "With Your Love",
-        "url": "https://open.spotify.com/album/6HjOkGo6xdNpBJSTa4FlDK"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ryan Tedder",
-          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "With Your Love",
-      "url": "https://open.spotify.com/track/3T1CFsOfNi9Dy9cMtjNdEQ"
     },
     {
       "added_at": "2025-11-07 05:00:58",

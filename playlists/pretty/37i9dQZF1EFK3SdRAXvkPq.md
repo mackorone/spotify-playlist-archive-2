@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 145 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 145 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 54 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 |
 | 55 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/7nRgLd2Zq4w42iVTfXjIC2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 2:41 |
 | 56 | [CANSADO DE SUFRIR](https://open.spotify.com/track/2ezVwv9gf70ebjt2AyAOSN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:29 |
-| 57 | [Me Gusta Tu Flow](https://open.spotify.com/track/4sblqX31CbhXao931HDudr) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:57 |
-| 58 | [Anoche](https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:24 |
+| 57 | [Anoche](https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:24 |
+| 58 | [Me Gusta Tu Flow](https://open.spotify.com/track/4sblqX31CbhXao931HDudr) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:57 |
 | 59 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 |
 | 60 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 |
 | 61 | [FICHAJE DEL AÑO](https://open.spotify.com/track/0shb1hFrVP3Lstj1mmaHiQ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:13 |
@@ -133,9 +133,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 123 | [Se Feliz](https://open.spotify.com/track/3OcKqMyb2Z2Yzl0exlQUtb) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:22 |
 | 124 | [Poeta Herío](https://open.spotify.com/track/32nDX9V41Xge8OUn28jvwG) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 2:58 |
 | 125 | [iNFiEL](https://open.spotify.com/track/5pAv7OG5axtYyFTgwRHoT4) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [iNFiEL](https://open.spotify.com/album/3ktRBDAce3gK8hOHxNrvxy) | 3:21 |
-| 126 | [Borrachita](https://open.spotify.com/track/3SX4yr2LJ6PYAoxu5JVZRB) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Borrachita](https://open.spotify.com/album/7s5lLiAVlmxu4SzCTMhnQk) | 2:32 |
-| 127 | [Oveja Negra](https://open.spotify.com/track/2iu4sVHpHaSWWuIzTbr0u2) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:41 |
-| 128 | [LA MISMA SEMANA](https://open.spotify.com/track/1xwP2UggllQbPCzBPJ8Y27) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 2:32 |
+| 126 | [LA MISMA SEMANA](https://open.spotify.com/track/1xwP2UggllQbPCzBPJ8Y27) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 2:32 |
+| 127 | [Borrachita](https://open.spotify.com/track/3SX4yr2LJ6PYAoxu5JVZRB) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Borrachita](https://open.spotify.com/album/7s5lLiAVlmxu4SzCTMhnQk) | 2:32 |
+| 128 | [Oveja Negra](https://open.spotify.com/track/2iu4sVHpHaSWWuIzTbr0u2) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:41 |
 | 129 | [Sorry](https://open.spotify.com/track/0fjP3kUcpfiqpBhNY4ZivV) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 2:25 |
 | 130 | [Besito De 3](https://open.spotify.com/track/18EYvHAcjYa6M06nwRmk2a) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [De La Nada](https://open.spotify.com/album/4jKwM7c7M4nVravIlgM7im) | 2:08 |
 | 131 | [Bloqueau](https://open.spotify.com/track/6qbGnfhExKzOlAXW2PszfO) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [EL SOBREVIVIENTE WWW](https://open.spotify.com/album/1GczTJTAoJSPILp7gEMEfS) | 3:18 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 144 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 145 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcI4/gAAAADkw+36wu16c1U0a2R4Y0jE`
+Snapshot ID: `AcI+lAAAAAAsuIcPRaFZenHvEfYN4/j4`

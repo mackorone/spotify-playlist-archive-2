@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Chanel Loren
 
-2,484 songs - 5 day 8 hr 6 min
+2,486 songs - 5 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Eyes on Me](https://open.spotify.com/track/2fVkrcEPqrXB6RNSA36Hdb) | [June Jones](https://open.spotify.com/artist/68MzdZEcqsklRZH1tttYk8) | [Eyes on Me](https://open.spotify.com/album/2glDpPBJzVqEtQMz2kCenG) | 3:26 | 2025-07-31 | 2025-09-05 |
 | [Eyes On You](https://open.spotify.com/track/35OlFESa4OUrPTbVb1sYSa) | [Sarah Hemi](https://open.spotify.com/artist/4BQlN5DBVwm72Q6foAEzly) | [Eyes On You](https://open.spotify.com/album/3rapAYXSUpYkQLN68J75iV) | 2:15 | 2023-09-28 | 2023-10-20 |
 | [F U](https://open.spotify.com/track/3vfwoAAkvqlEQU9xmMgvVb) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [F U](https://open.spotify.com/album/58nhRIbbVOEcE93fMpZEzP) | 2:11 | 2024-05-02 | 2024-05-24 |
+| [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-06 |  |
 | [Face the Rain](https://open.spotify.com/track/0bS9FnFkhfQJNUbr6arCB8) | [Zed](https://open.spotify.com/artist/4LkIslEZ5nN9DpibfQKOyt) | [Face the Rain](https://open.spotify.com/album/3aFtfHLTuzrWMJcrVPURxf) | 3:34 | 2024-05-30 | 2024-06-28 |
 | [Fade Into Forever](https://open.spotify.com/track/3qhQ0UC3jb2TgKxcGgJX2f) | [AYLA](https://open.spotify.com/artist/5fuHH6l6LnSu6vvxR1gtj6) | [Fade Into Forever](https://open.spotify.com/album/3X8iUiD48ksg0UJx6lE6mg) | 2:50 | 2024-06-27 | 2024-08-09 |
 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 | 2024-04-04 | 2024-05-10 |
@@ -1088,7 +1089,7 @@
 | [I Pray Every Night](https://open.spotify.com/track/7ajIrNYW0XYMj4zODYWnkP) | [Milku](https://open.spotify.com/artist/1ZAQrwStUeOr0wl3PGbMQX) | [Be Honest](https://open.spotify.com/album/25AT70fkyVeA5igw2JrJg7) | 3:30 | 2024-11-28 | 2025-01-10 |
 | [I Remember](https://open.spotify.com/track/1z3rZio5rrWx5CT0jGbSOE) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [I Remember](https://open.spotify.com/album/2sldH2PiHPE0nfLIf8EqQ8) | 4:11 | 2024-03-07 | 2024-04-05 |
 | [I Sent My Therapist To Therapy](https://open.spotify.com/track/6ofVkSSWsDcnzRCNwrvpXB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [I Sent My Therapist To Therapy](https://open.spotify.com/album/23nGL24RjKEvIEbiY2DVob) | 3:00 | 2023-12-07 | 2024-02-02 |
-| [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [](https://open.spotify.com/album/null) | 3:33 | 2026-02-05 |  |
+| [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:33 | 2026-02-05 |  |
 | [I Should've Said](https://open.spotify.com/track/1SdzKhTKPtaJBJLtyly6N4) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO) | [I Should've Said](https://open.spotify.com/album/6zX7HTCeoVIkTASiXL0Q6P) | 3:21 | 2024-08-22 | 2024-09-13 |
 | [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 | 2025-11-13 | 2026-01-15 |
 | [I Think She Wants Me](https://open.spotify.com/track/2IkYXrDWbwcYvQH02S8U1C) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 2:08 | 2023-06-15 | 2023-07-14 |
@@ -1714,6 +1715,7 @@
 | [Race Against My Heartbeat](https://open.spotify.com/track/5OMvBo5dBvNVDnGDuSDpsr) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Drench](https://open.spotify.com/album/7iO6ONbfPWRfJ7fjgbcsai) | 3:22 | 2025-10-09 | 2025-11-14 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-06 | 2025-05-09 |
 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-09-21 | 2023-11-17 |
+| [rager](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [rager](https://open.spotify.com/album/50DZmSygoelBizezheVskd) | 2:48 | 2026-02-05 |  |
 | [Ransom](https://open.spotify.com/track/3khCD3lUTYeSEDxQiZlhMM) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Ransom](https://open.spotify.com/album/2MKyE6AcvtLiW7I8tGsn9k) | 3:47 | 2025-04-17 | 2025-06-06 |
 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-15 | 2025-06-27 |
 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-15 |  |
@@ -2188,6 +2190,7 @@
 | [Till The Music Stops](https://open.spotify.com/track/2JHZpvUwQaUX9erOsObQM0) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [Till The Music Stops](https://open.spotify.com/album/3hIUqYPaJCvway0SP5KqBw) | 3:33 | 2025-07-24 | 2025-09-05 |
 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 | 2024-06-27 | 2024-08-17 |
 | [Time](https://open.spotify.com/track/4nlJMRr4nGcCpokvgsJVSZ) | [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr), [Indigo Hearts](https://open.spotify.com/artist/7f7vHYP5vonXhTkDHidGTu) | [Time](https://open.spotify.com/album/3WHEGBacu2DeA8VPlDmcYb) | 3:40 | 2025-02-27 | 2025-04-04 |
+| [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-06 |  |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-17 | 2025-08-22 |
 | [Time Of My Life](https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Time Of My Life](https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw) | 2:29 | 2024-08-16 | 2024-09-20 |
 | [Time Of My Life](https://open.spotify.com/track/65qcCeaBTWMMUTOWurS7pb) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Time Of My Life](https://open.spotify.com/album/25q7aE2QDCQEpwKF4yyXWl) | 3:16 | 2024-08-16 | 2024-09-20 |
@@ -2233,7 +2236,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 1](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2026-02-06 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |

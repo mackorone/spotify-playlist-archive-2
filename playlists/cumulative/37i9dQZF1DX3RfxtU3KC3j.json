@@ -5495,6 +5495,24 @@
     },
     {
       "album": {
+        "name": "\u0130\u00c7\u0130ME SEN\u0130 \u00c7EKER\u0130M",
+        "url": "https://open.spotify.com/album/1RsN3pk6yABfkTHlKft4cG"
+      },
+      "artists": [
+        {
+          "name": "Maderzat",
+          "url": "https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "\u0130\u00c7\u0130ME SEN\u0130 \u00c7EKER\u0130M",
+      "url": "https://open.spotify.com/track/2c9GmMamgZ1ui0DSplVzzs"
+    },
+    {
+      "album": {
         "name": "Kabuls\u00fcz",
         "url": "https://open.spotify.com/album/7HtOssAMWl2RhItlwGAqpq"
       },
@@ -6872,6 +6890,24 @@
       "duration_ms": 322180,
       "name": "Merhabalar",
       "url": "https://open.spotify.com/track/6wwsGEHWTRtYaDOsAbq002"
+    },
+    {
+      "album": {
+        "name": "Mizantrop",
+        "url": "https://open.spotify.com/album/7C0Jr61asVHUd9lZVGlTGj"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222641,
+      "name": "Mizantrop",
+      "url": "https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9"
     },
     {
       "album": {
@@ -8658,7 +8694,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 211901,
       "name": "Su Gibi",
       "url": "https://open.spotify.com/track/09FRnjhTYt1N5EPh00qlBe"
@@ -9046,24 +9082,6 @@
       "duration_ms": 262101,
       "name": "Toz Duman - Rock Version",
       "url": "https://open.spotify.com/track/3ci6hJvT0VlcKDvqgnvEqr"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Lil Moshpit, Yoon Suk Cheol)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Roh Yun Ha)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 201200,
       "name": "FOR GRANTED",
       "url": "https://open.spotify.com/track/68kxRiEjmwrPkBGVuZDORg"
@@ -13814,7 +13814,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192391,
       "name": "Spring (Feat. ASH ISLAND, Skinny Brown)",
       "url": "https://open.spotify.com/track/7iIL3EoQtWR7jknTbzbWai"
@@ -15106,6 +15106,28 @@
       "duration_ms": 162506,
       "name": "Too Busy",
       "url": "https://open.spotify.com/track/1b2Hhx9a6ucAQFhZgjfLbb"
+    },
+    {
+      "album": {
+        "name": "sonogram",
+        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224397,
+      "name": "Too laid back",
+      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
     },
     {
       "album": {
@@ -17122,6 +17144,32 @@
       "duration_ms": 184346,
       "name": "\ube59\uadf8\ub808",
       "url": "https://open.spotify.com/track/1gtabUo4ov467fUjf2514i"
+    },
+    {
+      "album": {
+        "name": "\ud76c / \ub178 / \uc560 / \ub77d",
+        "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "audiogothh",
+          "url": "https://open.spotify.com/artist/1WJKWpQ5iEZoCZAKVTZjMM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "\uc560 (just like uh huh)",
+      "url": "https://open.spotify.com/track/383c6EPYFELVPnQObxy026"
     },
     {
       "album": {

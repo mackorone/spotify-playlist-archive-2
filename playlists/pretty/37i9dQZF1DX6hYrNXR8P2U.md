@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > MUY PIOLA<br/>📷 Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,051 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,063 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 3 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 |
 | 4 | [Aloha](https://open.spotify.com/track/4t4i6kFApE5s50eUGEfw7p) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Aloha](https://open.spotify.com/album/313acaAYW3GcLzQjTPywRi) | 2:46 |
 | 5 | [Seúl](https://open.spotify.com/track/3yoI47UbxuCojhxspj2lo0) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Seúl / Matarme con vos](https://open.spotify.com/album/3LWSktH775QjtDFA2XoWRH) | 2:24 |
-| 6 | [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [](https://open.spotify.com/album/null) | 3:54 |
+| 6 | [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [La calma](https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A) | 3:54 |
 | 7 | [quereme](https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [quereme](https://open.spotify.com/album/1ii4MjyB8C12pqjUIyhOkS) | 2:09 |
 | 8 | [Puro](https://open.spotify.com/track/1561A0KDSbrQR4WW0dTeyt) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Puro](https://open.spotify.com/album/7LRVYzAIgLOvrDvezhVd6r) | 3:50 |
 | 9 | [CUANDO ESCRIBÍA ASIMETRÍA](https://open.spotify.com/track/54Yqi4VYecMQ7Mol0KTyX3) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [CUANDO ESCRIBÍA ASIMETRÍA](https://open.spotify.com/album/4QCM6aNuH8D1eBm1qp07Jg) | 3:56 |

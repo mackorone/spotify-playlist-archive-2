@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 403594,
+  "num_followers": 403579,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
         "name": "Old Tricks",
         "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 148778,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
+        "name": "Pontiac (So Tell Me Momma)",
+        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 225379,
+      "name": "Pontiac (So Tell Me Momma)",
+      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
+    },
+    {
+      "added_at": "2026-01-09 05:00:37",
+      "album": {
         "name": "I'm The One",
         "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 175973,
       "name": "I'm The One (feat. Marty Stuart)",
       "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
-    },
-    {
-      "added_at": "2026-01-09 05:00:37",
-      "album": {
-        "name": "Pontiac (So Tell Me Momma)",
-        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 225379,
-      "name": "Pontiac (So Tell Me Momma)",
-      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Hit The Hay Runnin'",
-        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 184271,
-      "name": "Hit The Hay Runnin'",
-      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     },
     {
       "added_at": "2026-01-09 05:00:37",
@@ -1487,22 +1491,18 @@
     {
       "added_at": "2026-01-09 05:00:37",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+        "name": "Hit The Hay Runnin'",
+        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+      "duration_ms": 184271,
+      "name": "Hit The Hay Runnin'",
+      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
     },
     {
       "added_at": "2026-01-09 05:00:37",

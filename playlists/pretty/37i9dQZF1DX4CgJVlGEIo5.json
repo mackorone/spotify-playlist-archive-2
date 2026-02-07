@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 384088,
+  "num_followers": 384124,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Gathering",
+        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Feels Like Lightning",
+      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Colorado (feat. Carlie Hanson)",
         "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 202666,
       "name": "Colorado (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Gathering",
-        "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Feels Like Lightning",
-      "url": "https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh"
     },
     {
       "added_at": "2024-07-05 21:33:59",

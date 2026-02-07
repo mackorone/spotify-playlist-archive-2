@@ -553,8 +553,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Her Side",
+        "url": "https://open.spotify.com/album/7EJGHAulmFdXaeECghFNmw"
       },
       "artists": [
         {
@@ -4057,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Croak Dream",
+        "url": "https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Silently",
+      "url": "https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP"
+    },
+    {
+      "album": {
         "name": "Sinking Again",
         "url": "https://open.spotify.com/album/1Uk4DT1XYVaPYv4OC9IY46"
       },
@@ -4669,42 +4687,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
-        }
-      ],
-      "date_added": "2026-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Ulrika Spacek",
-          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
-        }
-      ],
-      "date_added": "2026-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
-    },
-    {
-      "album": {
         "name": "Trash TV",
         "url": "https://open.spotify.com/album/1CPV9kx5Kyh2nRHmv45Qlh"
       },
@@ -4958,6 +4940,24 @@
       "duration_ms": 108138,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4Gh2Lp6wpVgbBOa7DE2m2l"
+    },
+    {
+      "album": {
+        "name": "EXPO",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Weights & Measures",
+      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
     },
     {
       "album": {

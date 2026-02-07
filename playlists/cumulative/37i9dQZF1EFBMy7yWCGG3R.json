@@ -7289,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253782,
+      "name": "why'd you have to call",
+      "url": "https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3"
+    },
+    {
+      "album": {
         "name": "Wildfire (Radio Edit)",
         "url": "https://open.spotify.com/album/4dwI13hCaY9jH25taNQLaU"
       },

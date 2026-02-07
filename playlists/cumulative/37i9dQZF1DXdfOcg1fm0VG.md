@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-201 songs - 11 hr 29 min
+202 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Into the Starfield \(Main Theme\)](https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Starfield: Original Game Soundtrack](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) | 2:49 | 2023-09-15 |  |
 | [Introduction](https://open.spotify.com/track/2ufr0Gs4OWL1Uo22EsJDSx) | [Kristofer Maddigan](https://open.spotify.com/artist/2jR6Lr47O21Iq7l5Bs2mig) | [Cuphead \(Original Soundtrack\)](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu) | 3:31 | 2021-12-15 |  |
 | [It’s the Sims – The Sims 4 Seasons – Seasons Theme](https://open.spotify.com/track/5sOTi75kj7Lwgyc5daU6pF) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [The Sims 4, Vol\. 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64) | 2:20 | 2023-02-03 |  |
+| [J\-E\-N\-O\-V\-A \-誕生\- \- FF7 Rebirth OST Ver.](https://open.spotify.com/track/0gaTZvg2lb52sJMlQfygoP) | [植松 伸夫](https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW), [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv) | [FINAL FANTASY VII REBIRTH Original Soundtrack](https://open.spotify.com/album/5xjdN0ta4RP1iH9zT2zwKU) | 6:33 | 2026-02-06 |  |
 | [Journey \(feat\. Kronos Quartet\)](https://open.spotify.com/track/5P68xT9dqkleXVVtdIJPXo) | [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X), [Skye Lewin](https://open.spotify.com/artist/7AK1uvXalruijh6pjRVDl1), [C Paul Johnson](https://open.spotify.com/artist/1IMQj6EtlmfuEDQI1Mh7HK), [Rotem Moav](https://open.spotify.com/artist/5EzR3mljAoKai6zZePlqpC), [Pieter Schlosser](https://open.spotify.com/artist/7E6yVUVRGff9KfjPGkpMc4), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Destiny 2 \(Original Soundtrack\)](https://open.spotify.com/album/6EuwzfvfcEA1X8fODjFhhJ) | 7:17 | 2021-12-15 |  |
 | [Kingdom of Wessex](https://open.spotify.com/track/49Zre5VpuQk1GtH63JLm5B) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 3:41 | 2021-12-15 |  |
 | [Kingdom of Wessex](https://open.spotify.com/track/3wNSZ0ZowXgUeO4sEEHMRw) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/1XVLOMqM70YmlLnkLCWAR8) | 3:41 | 2023-02-03 | 2024-04-19 |

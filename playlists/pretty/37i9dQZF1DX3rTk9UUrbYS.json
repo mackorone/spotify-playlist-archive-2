@@ -1,13 +1,33 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 66225,
+  "num_followers": 66232,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZtYCGscnerXYjIRGJsVVXH7abV",
+  "snapshot_id": "AAAAABVwFu0GCumsQTr6OmEiUN9/Gqnn",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Elysian Invocation / \"Pollen of the Earth\"",
+        "url": "https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ni\u00f1o & Friends",
+          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
+        },
+        {
+          "name": "Saul Williams",
+          "url": "https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm"
+        }
+      ],
+      "duration_ms": 895627,
+      "name": "Elysian Invocation",
+      "url": "https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn"
+    },
     {
       "added_at": "2026-01-30 05:00:32",
       "album": {
@@ -1471,22 +1491,6 @@
       "duration_ms": 492066,
       "name": "Attack of the Mikrokosmos",
       "url": "https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Piece 4",
-        "url": "https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quintet",
-          "url": "https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Piece 4",
-      "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"
     },
     {
       "added_at": "2020-08-25 21:55:35",

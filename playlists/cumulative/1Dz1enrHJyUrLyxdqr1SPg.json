@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/0KGf5lHR0tIYuN0FNE2rvo"
+      },
+      "artists": [
+        {
+          "name": "J.H.M",
+          "url": "https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Shallow One",
+      "url": "https://open.spotify.com/track/7oy9mEkLxR28XH0gzvL6Do"
+    },
+    {
+      "album": {
         "name": "Shortcomings",
         "url": "https://open.spotify.com/album/6mtOm34OMbSzzvk4RipzI5"
       },
@@ -1756,6 +1774,24 @@
       "duration_ms": 202306,
       "name": "Street Politics",
       "url": "https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R"
+    },
+    {
+      "album": {
+        "name": "Summer Suite",
+        "url": "https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG"
+      },
+      "artists": [
+        {
+          "name": "MoonDreams Music",
+          "url": "https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Summer Suite",
+      "url": "https://open.spotify.com/track/3glAritAmxyFSc772bZhU3"
     },
     {
       "album": {

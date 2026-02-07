@@ -1,18 +1,18 @@
 {
   "description": "New Music from Omah Lay, Shoday, Ruger, DJ Tunez, King Promise and Mr Eazi and more ",
-  "num_followers": 172820,
+  "num_followers": 173713,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRDLWFNoZ7zKK4vHuOzawPej/tN",
+  "snapshot_id": "AAAAAPX/hiROS02g+Du/5Bg/CtQvzi57",
   "tracks": [
     {
-      "added_at": "2026-02-06 00:01:17",
+      "added_at": "2026-02-06 05:15:22",
       "album": {
         "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+        "url": "https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+      "url": "https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm"
     },
     {
       "added_at": "2026-02-06 00:01:17",
@@ -167,8 +167,8 @@
     {
       "added_at": "2026-02-06 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -183,8 +183,8 @@
     {
       "added_at": "2026-02-06 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
       "artists": [
         {
@@ -237,19 +237,39 @@
       "url": "https://open.spotify.com/track/0bYPMrLUMFwFRuzgTe6XOW"
     },
     {
+      "added_at": "2026-02-06 05:15:22",
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
+    },
+    {
       "added_at": "2026-02-06 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM"
       },
       "artists": [
         {
           "name": "Dwson",
           "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 339320,
+      "name": "Sense",
       "url": "https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD"
     },
     {
@@ -689,6 +709,22 @@
       "url": "https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F"
     },
     {
+      "added_at": "2026-02-06 05:15:22",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
       "added_at": "2026-02-06 00:01:17",
       "album": {
         "name": "Softly",
@@ -815,6 +851,30 @@
     {
       "added_at": "2026-02-06 00:01:17",
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs"
+      },
+      "artists": [
+        {
+          "name": "Thywill",
+          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 214524,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq"
+    },
+    {
+      "added_at": "2026-02-06 00:01:17",
+      "album": {
         "name": "I'm Not Hurt",
         "url": "https://open.spotify.com/album/64thWLLUzZBQ6lSu23u7XT"
       },
@@ -861,6 +921,38 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
+      "added_at": "2026-02-06 05:15:22",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "added_at": "2026-02-06 05:15:22",
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
+    },
+    {
       "added_at": "2026-02-06 00:01:17",
       "album": {
         "name": "Fiji Love",
@@ -879,8 +971,8 @@
     {
       "added_at": "2026-02-06 00:01:17",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/1PzziqEROOLUuoJ361H4mv"
       },
       "artists": [
         {
@@ -891,6 +983,26 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/2EMQWESauY84wbQBUuzjTa"
+    },
+    {
+      "added_at": "2026-02-06 00:01:17",
+      "album": {
+        "name": "Pam Pam Pam",
+        "url": "https://open.spotify.com/album/2M8vkoHzc8l77iWO5wgYgE"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Echelon Beatz",
+          "url": "https://open.spotify.com/artist/61znra23oiOShvDCDC32Gh"
+        }
+      ],
+      "duration_ms": 179271,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/0rAaMscdc9Rrs0fMc3BXKD"
     },
     {
       "added_at": "2026-02-06 00:01:17",
@@ -951,6 +1063,26 @@
       "duration_ms": 157449,
       "name": "TAKE ME",
       "url": "https://open.spotify.com/track/55UCvgaL8vujuS9V8c6eaz"
+    },
+    {
+      "added_at": "2026-02-06 05:15:22",
+      "album": {
+        "name": "Take Two: Grey",
+        "url": "https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP"
+      },
+      "artists": [
+        {
+          "name": "Joy Njokey",
+          "url": "https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF"
+        },
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2osGCDZFpwhoBEvOaEwL9I"
     },
     {
       "added_at": "2026-02-06 00:01:17",

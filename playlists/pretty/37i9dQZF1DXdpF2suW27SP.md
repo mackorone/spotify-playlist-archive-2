@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Slow J e Prodígio entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,595 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,622 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 7 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
 | 8 | [Hoje](https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Hoje](https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5) | 1:53 |
 | 9 | [UGA](https://open.spotify.com/track/2LP2LGoSzz8X091CVtfDJn) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [UGA](https://open.spotify.com/album/6S1kSyxG1FXR7NRVya9yDI) | 2:03 |
-| 10 | [Track 17](https://open.spotify.com/track/5LUARBAcweeHJydX6RO70H) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [O Meu Lugar](https://open.spotify.com/track/5LUARBAcweeHJydX6RO70H) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [O Que Não Se Vê É Eterno](https://open.spotify.com/album/5svyI97pSCZmEBullM3czj) | 2:48 |
 | 11 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
 | 12 | [Vai Vem](https://open.spotify.com/track/7GXgJi99HdLgr4N46RMIZI) | [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Weezy Drums](https://open.spotify.com/artist/00VNfcalBUVIvf1Czysbab) | [Vai Vem](https://open.spotify.com/album/1UrW8qkhIxMXpAKXEoqaDH) | 3:19 |
 | 13 | [ELA É ESSA](https://open.spotify.com/track/3myDC0hr8oRTamQzjmGPzX) | [bapcat](https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou), [ICARO](https://open.spotify.com/artist/6ih0GTEQYgmqCjrXSZUlbZ) | [ELA É ESSA](https://open.spotify.com/album/7yLh0f66gyeDEs5V9xeF99) | 2:36 |

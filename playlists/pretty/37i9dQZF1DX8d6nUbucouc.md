@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,936 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,954 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 26 | [Superman](https://open.spotify.com/track/4NtGAQJXUXfqIni5ouifAX) | [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Hard Van Buiten, Gebroken Van Binnen](https://open.spotify.com/album/6gAjlhxCZHluNBCghWD1l6) | 3:33 |
 | 27 | [Zegevieren](https://open.spotify.com/track/7mO12vvu1kHS0VQ4eYRRHm) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 4:00 |
 | 28 | [Regen Op Warm Asfalt](https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:38 |
-| 29 | [Gekkenhuis FT\. Jawat](https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 6:07 |
-| 30 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
+| 29 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
+| 30 | [Gekkenhuis FT\. Jawat](https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 6:07 |
 | 31 | [Klein, Klein Jongetje](https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Rotterdam](https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN) | 4:25 |
 | 32 | [Colucci](https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 4:07 |
 | 33 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 44 | [Zwarte Koffie](https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 3:52 |
 | 45 | [Wind Waait](https://open.spotify.com/track/0csgY0KzPTHJeZJJhQdIk1) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 5:14 |
 | 46 | [Blam Blam](https://open.spotify.com/track/63ajJl52FOdeBYsUthJUyc) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Slapeloze Nachten](https://open.spotify.com/album/1HFoz1ACfQuTwhV9xwRAgL) | 2:55 |
-| 47 | [Superheld](https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc) | [Nino](https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu) | [Stille Wateren Diepe Gronden](https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW) | 4:07 |
-| 48 | [Wakker In Du Cel](https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 4:50 |
-| 49 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
+| 47 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
+| 48 | [Superheld](https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc) | [Nino](https://open.spotify.com/artist/33qeczxHwDRybWmW1vI2Nu) | [Stille Wateren Diepe Gronden](https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW) | 4:07 |
+| 49 | [Wakker In Du Cel](https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 4:50 |
 | 50 | [Op De Straat \- Bonus Track](https://open.spotify.com/track/41pk4rQlDeoLtLhZetgz5s) | [Salah Edin](https://open.spotify.com/artist/61NnMiAXGKbPGObTEwcssj), [Stickz](https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Nederlands Grootste Nachtmerrie](https://open.spotify.com/album/47ARpHxuUxPJvAR7EjiOgD) | 6:23 |
 | 51 | [Ambiance](https://open.spotify.com/track/6QcH6GjDPcjixgieMwPr4j) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Sticks](https://open.spotify.com/artist/0DnbOatBnP7UDkeiQACgxd) | [Ambiance](https://open.spotify.com/album/46EmL72r47VNWRUhRnELKC) | 4:00 |
 | 52 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |

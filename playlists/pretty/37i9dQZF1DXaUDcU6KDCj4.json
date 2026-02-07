@@ -1,13 +1,273 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 868075,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Gia Margaret",
+  "num_followers": 868524,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+kwZlKmxyScoo5elY1PT6XfE/2",
+  "snapshot_id": "AAAAABByH1lEfzOBNHswn26BfPBQXstV",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Everyone Around Me Dancing",
+        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Ring Of Fire",
+        "url": "https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 232138,
+      "name": "Ring Of Fire",
+      "url": "https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "I Swam Here",
+        "url": "https://open.spotify.com/album/5QbBdna4KHIYaEPLUgzOy0"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "duration_ms": 193365,
+      "name": "Follow Your Whispers",
+      "url": "https://open.spotify.com/track/2CJ9Dwt1k5meS70xE95nG0"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Living With It",
+        "url": "https://open.spotify.com/album/4LUtFFdFmvzCbNpu7e4Mka"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 200367,
+      "name": "Living With It",
+      "url": "https://open.spotify.com/track/1QBGCMSazaEBciECTDYIUr"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7EFRZB2ih19Af7Y8Au1N81"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 253575,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6kBwPPG1Vdhh3mnApOk1XA"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Saint of Scrap Metal",
+        "url": "https://open.spotify.com/album/1yHAqc0ozB8vy3a6lxCAsO"
+      },
+      "artists": [
+        {
+          "name": "Anna Tivel",
+          "url": "https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Saint of Scrap Metal",
+      "url": "https://open.spotify.com/track/3tsSt7LVkc7AvzKc69LZLf"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Ashes & Smoke",
+        "url": "https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Ashes & Smoke",
+      "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Steinza Was Here!",
+        "url": "https://open.spotify.com/album/0v2F8PQymZAzCgRLWAtaFk"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        }
+      ],
+      "duration_ms": 200599,
+      "name": "Weep",
+      "url": "https://open.spotify.com/track/3d08EtofM4x6evpP0EEjs3"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/0nGdHgAmvCFnRznteNDvVi"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "February",
+      "url": "https://open.spotify.com/track/4XFnBkKFdfDmpO6dfHbOgk"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Laughter In Summer",
+        "url": "https://open.spotify.com/album/3dhTmKjuXuYJDxlhOk9qMx"
+      },
+      "artists": [
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        }
+      ],
+      "duration_ms": 153154,
+      "name": "Shenandoah",
+      "url": "https://open.spotify.com/track/61pNwKKItWUmks2HxPqO7w"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "exposure therapy",
+        "url": "https://open.spotify.com/album/10t4Nektp5BYy5geTZ9xif"
+      },
+      "artists": [
+        {
+          "name": "Khatumu",
+          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
+        }
+      ],
+      "duration_ms": 200178,
+      "name": "exposure therapy",
+      "url": "https://open.spotify.com/track/5rB5sbAZi0H1rKiFfoT9uv"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Little Sparks",
+        "url": "https://open.spotify.com/album/5wrdfZuJsrpsLfZQ7mhZP8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 219480,
+      "name": "Cracks Forming",
+      "url": "https://open.spotify.com/track/1cMGU2vZhuWzEWz2xAG68Q"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "Paint The Sky",
+        "url": "https://open.spotify.com/album/4BUUPCjNaXcm2DHRfxOuta"
+      },
+      "artists": [
+        {
+          "name": "Chelou",
+          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Paint The Sky",
+      "url": "https://open.spotify.com/track/7hHSemxSCWCushUOZx21QB"
+    },
+    {
+      "added_at": "2026-02-06 05:00:43",
+      "album": {
+        "name": "You Are in My Dreams",
+        "url": "https://open.spotify.com/album/4F1eCGZrxqFTLXtLuiU0R9"
+      },
+      "artists": [
+        {
+          "name": "kisses",
+          "url": "https://open.spotify.com/artist/7MbkSrmyackm8thDTLCqFR"
+        }
+      ],
+      "duration_ms": 228027,
+      "name": "Candy Flip",
+      "url": "https://open.spotify.com/track/7FSWfaH7VYM96fQWovWmtn"
+    },
     {
       "added_at": "2026-01-30 05:01:15",
       "album": {
@@ -1901,7 +2161,7 @@
         }
       ],
       "duration_ms": 184133,
-      "name": "Mona (You Stayed)",
+      "name": "Mona (you stayed)",
       "url": "https://open.spotify.com/track/2J1XZqHBO7zeJAKPZGxgGN"
     },
     {
@@ -2635,186 +2895,6 @@
       "duration_ms": 172500,
       "name": "sugar",
       "url": "https://open.spotify.com/track/6MwfbZ8o7OZjY8C0HOHOuC"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "The Man I'm Supposed to Be",
-        "url": "https://open.spotify.com/album/7sZ7r9GjMQqoyFsHyIj9h3"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 222131,
-      "name": "The Man I'm Supposed To Be",
-      "url": "https://open.spotify.com/track/3Kbgwa33bP2XwjjI2f4K5V"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Cynthia",
-        "url": "https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Cynthia",
-      "url": "https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "winding down",
-        "url": "https://open.spotify.com/album/0LWVJ5rTXEyWs67DMQK4mt"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "winding down",
-      "url": "https://open.spotify.com/track/3kVCAHJ6NUmyjobxsTzB5O"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Another Picture",
-        "url": "https://open.spotify.com/album/4KX3JNsNm2zB2VZO7xMfvk"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        },
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/1fwHf7Calby2F56dBkV371"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Vampire",
-        "url": "https://open.spotify.com/album/5Lc6Aojd87MEhtFP3HtLst"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 181759,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/1NKCv9S52R9VwaDfPyM9pS"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Footing",
-        "url": "https://open.spotify.com/album/1AlXpmZEWcqWCUQkDY7D6R"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 206305,
-      "name": "Footing",
-      "url": "https://open.spotify.com/track/39tNdOtWE6Dkj1eQXXFoC7"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Roses / Lost Control",
-        "url": "https://open.spotify.com/album/1g5copHaHThjgDm3KuQZ8g"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 170613,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0N56rSgJY59xhcDFv1utgS"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "Moon High",
-        "url": "https://open.spotify.com/album/2zs2TqAnPmvleXma1hnpsH"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Moon High",
-      "url": "https://open.spotify.com/track/412j7NDQ14MM5PrtK4YU35"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "A Better Place",
-        "url": "https://open.spotify.com/album/7ASXLiWyqOqv6mh386F5hL"
-      },
-      "artists": [
-        {
-          "name": "M. Byrd",
-          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
-        }
-      ],
-      "duration_ms": 244192,
-      "name": "A Better Place",
-      "url": "https://open.spotify.com/track/7p1TScCkeUQ3vSkKqTOcA8"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "River Runs Dry",
-        "url": "https://open.spotify.com/album/3sSGBzuk9Eq3aA4hgvhyW3"
-      },
-      "artists": [
-        {
-          "name": "Daniel Nunnelee",
-          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "River Runs Dry",
-      "url": "https://open.spotify.com/track/4CHHkSkDNst5mTNRfdUIyn"
-    },
-    {
-      "added_at": "2025-11-14 05:00:33",
-      "album": {
-        "name": "song for the road",
-        "url": "https://open.spotify.com/album/7nzFOWyLOd6VstRr1InGWB"
-      },
-      "artists": [
-        {
-          "name": "Zach Seabaugh",
-          "url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2"
-        }
-      ],
-      "duration_ms": 184762,
-      "name": "song for the road",
-      "url": "https://open.spotify.com/track/5GqL8Wno0EwvIPQJojkHKn"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: El Kanka.
 
-383 songs - 1 day 0 hr 28 min
+384 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 | 2022-06-28 | 2022-08-12 |
 | [La Memoria Del Corazón](https://open.spotify.com/track/1oQzGXjYAJ77bFfZSui6Ng) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [La Memoria Del Corazón](https://open.spotify.com/album/7hzPKiTaSxBWnq4w8oizP9) | 3:27 | 2024-09-23 | 2024-11-10 |
 | [La Muerte y el Amor No Tienen Cura](https://open.spotify.com/track/37glbnuiPyyT7VgNI0gtF8) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8), [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [La Muerte y el Amor No Tienen Cura](https://open.spotify.com/album/3xSJY2HuAegw0BcbhMpOGw) | 4:31 | 2025-11-06 | 2025-11-28 |
+| [La niebla](https://open.spotify.com/track/0gjTieZUtFOxmiQEj9E4vc) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Cerezos en flor](https://open.spotify.com/album/3SPCK1KljQ4LeyxaDFYZOc) | 3:10 | 2026-02-06 |  |
 | [La Paloma](https://open.spotify.com/track/5xAuNiEcaOIGQjoxujEMTE) | [Inma Serrano](https://open.spotify.com/artist/05Rq120pXSeKl8VjW8FBia) | [La Paloma](https://open.spotify.com/album/2Dwq5e6kudsdFAGEkSIRqd) | 3:11 | 2024-05-09 | 2024-05-22 |
 | [La Pena Vuela \(VMG\)](https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [La Pena Vuela \(VMG\)](https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb) | 2:34 | 2024-10-03 | 2024-11-19 |
 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 | 2022-06-09 |  |
@@ -188,7 +189,7 @@
 | [Las Cosas Que Importan](https://open.spotify.com/track/4jzcN41E4BMPFYp0WSlfQ5) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/4m8whfllhHJ02RU5LwIySw) | 3:34 | 2023-05-29 | 2023-10-24 |
 | [Las Cosas Que Importan](https://open.spotify.com/track/7wMI2biNviwKOMqK53OEzu) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [LO PURO](https://open.spotify.com/album/0FSNoh3jzgyMrFT5oYfWP6) | 3:34 | 2023-10-12 | 2023-12-15 |
 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 | 2022-06-09 |  |
-| [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [](https://open.spotify.com/album/null) | 3:54 | 2026-02-05 |  |
+| [Le pasa solo al resto](https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [La calma](https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A) | 3:54 | 2026-02-05 |  |
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
 | [Lila Alelí](https://open.spotify.com/track/1pv8kjnd68qQt0dM22reqP) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Lila Alelí](https://open.spotify.com/album/2if5JlMd0QhkF93PKGashv) | 3:25 | 2025-06-27 | 2025-09-19 |
 | [Llegas tú](https://open.spotify.com/track/7cr1yg8r6ELife74riXE9W) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Llegas tú](https://open.spotify.com/album/1Yl5dq5EX3iweirK4qub8c) | 2:40 | 2024-07-31 | 2024-10-06 |
@@ -205,7 +206,7 @@
 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 | 2022-06-09 |  |
 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 | 2022-08-11 |  |
 | [Lucía](https://open.spotify.com/track/4vGMLLZQbanPA7CxiUndM7) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Lucía](https://open.spotify.com/album/69XgctIStwKPPFJ0ZhXNjW) | 3:04 | 2022-06-30 | 2022-07-24 |
-| [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 | 2023-05-29 |  |
+| [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 | 2023-05-29 | 2026-02-07 |
 | [Luz de Luna](https://open.spotify.com/track/74f3f2OeIyXFvxSs2xk5IG) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Rozalén por Chavela](https://open.spotify.com/album/25dLCScmY71x60dbg002J2) | 3:22 | 2025-02-27 | 2025-04-28 |
 | [Mala Para Los Huesos Esta Humedad](https://open.spotify.com/track/3HToc9eJEi09RjduiQQgDz) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Vengo Con Los Ojos Nuevos](https://open.spotify.com/album/1iuRiSCibNZMbSuHMkDIUD) | 3:48 | 2025-06-19 |  |
 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 | 2022-09-08 | 2024-04-19 |
@@ -364,7 +365,7 @@
 | [Tú y Yo](https://open.spotify.com/track/1WwPYCEpRgcvWikz2vSbai) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [El Viaje](https://open.spotify.com/album/0bvqm9JJHdSoQmNakHR948) | 3:40 | 2022-06-09 | 2022-07-29 |
 | [Un Día de Estos](https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Apuntes Sobre Mi Paso por el Invierno](https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b) | 4:01 | 2022-08-11 | 2025-12-04 |
 | [Un Día De Estos](https://open.spotify.com/track/6ZmJgYJp4agUqbcPVPCTv9) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Un Día De Estos](https://open.spotify.com/album/2OIxW8I2nTppWY04ty45A3) | 3:21 | 2023-09-14 | 2023-10-27 |
-| [Un Lugar Mejor](https://open.spotify.com/track/4io4eIs1Z1KGv2FcXisENP) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [](https://open.spotify.com/album/null) | 4:58 | 2026-02-05 |  |
+| [Un Lugar Mejor](https://open.spotify.com/track/4io4eIs1Z1KGv2FcXisENP) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [10 Locos Años Descalzos](https://open.spotify.com/album/53HTUZeLSi6LVlOpzNU7Et) | 4:58 | 2026-02-05 |  |
 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 | 2022-06-09 |  |
 | [Un Solo Corazón](https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r) | [El Jose](https://open.spotify.com/artist/2bYHojIdnEKALvN2TZ3zrP), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Yo Sin Tú](https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i) | 5:08 | 2022-06-09 | 2025-11-15 |
 | [Un último vals](https://open.spotify.com/track/4CiY69daQtmIl2RNqsYCtp) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Un último vals](https://open.spotify.com/album/5EIyVu9MNNnpn7nuaYHMRp) | 4:13 | 2024-10-17 | 2025-03-14 |

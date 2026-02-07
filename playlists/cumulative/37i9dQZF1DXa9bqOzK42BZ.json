@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Jina Takatifu",
+        "url": "https://open.spotify.com/album/4SWHBXpkt4ZWt9TfHpPITK"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289938,
+      "name": "Jina Takatifu",
+      "url": "https://open.spotify.com/track/7tUw7l5NOyvzfLr6EFjjMf"
+    },
+    {
+      "album": {
         "name": "Kaa nami (Live)",
         "url": "https://open.spotify.com/album/1MKs6gINHwZoh3mRAGxF4d"
       },

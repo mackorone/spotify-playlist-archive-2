@@ -2,9 +2,9 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Malilla, Lorna y Pablito Mix en cover
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alu Mix y Brray en cover
 
-990 songs - 2 day 0 hr 11 min
+991 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Combiaton](https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70) | [Dj Drewther](https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx), [Casper Mx](https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn) | [Combiaton](https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt) | 2:19 | 2024-02-02 | 2024-06-15 |
 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 | 2022-01-07 | 2023-06-03 |
 | [Como antes](https://open.spotify.com/track/4B1cXwBQnDEJstz20pIGWc) | [Ugo Angelito](https://open.spotify.com/artist/6cTdwsZXsrxQctiywmTkhE) | [Como antes](https://open.spotify.com/album/1GKOK0J23s710Qx3pXvFwH) | 3:25 | 2023-03-17 | 2023-04-01 |
-| [Como Chicle \(feat\. Yoxxy\) \[Remix\]](https://open.spotify.com/track/1ljKVOveVYsqdlXXLjMoOu) | [FVBIIAN](https://open.spotify.com/artist/3QkNp8MdNMNnDqMVDnbN3p), [G\-Air](https://open.spotify.com/artist/2WuVQk8ICZECtQCZFc6RxS), [Yoxxy](https://open.spotify.com/artist/0QlJr0xs5PDdhfZLqUZcYq) | [Como Chicle \(feat\. Yoxxy\) \[Remix\]](https://open.spotify.com/album/1UFVQXSjola292kLlxAO9Q) | 2:57 | 2025-10-31 |  |
+| [Como Chicle \(feat\. Yoxxy\) \[Remix\]](https://open.spotify.com/track/1ljKVOveVYsqdlXXLjMoOu) | [FVBIIAN](https://open.spotify.com/artist/3QkNp8MdNMNnDqMVDnbN3p), [G\-Air](https://open.spotify.com/artist/2WuVQk8ICZECtQCZFc6RxS), [Yoxxy](https://open.spotify.com/artist/0QlJr0xs5PDdhfZLqUZcYq) | [Como Chicle \(feat\. Yoxxy\) \[Remix\]](https://open.spotify.com/album/1UFVQXSjola292kLlxAO9Q) | 2:57 | 2025-10-31 | 2026-02-07 |
 | [como la brisa](https://open.spotify.com/track/5ioimDn2KLDx7lGqDo8fLw) | [Menesesynths](https://open.spotify.com/artist/6SQnzGHdCUIw22KdJGvsXw) | [como la brisa](https://open.spotify.com/album/3owd58DY9eZjbi55sq5RzD) | 2:58 | 2023-06-09 | 2023-09-30 |
 | [Como mi Nena 2025](https://open.spotify.com/track/6XjzNWpibzE4ylWuIUZOAO) | [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Como mi Nena 2025](https://open.spotify.com/album/1v9NQP8WJtDO5IKXPsZR7y) | 4:17 | 2025-05-09 |  |
 | [Como Niños](https://open.spotify.com/track/33t8RT6FkLmDqR0XhdtSfE) | [Farileo](https://open.spotify.com/artist/6tAbzKOioDdEowdunxreU3) | [Como Niños](https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV) | 3:04 | 2023-02-24 | 2023-07-01 |
@@ -988,6 +988,7 @@
 | [Ñero Session 16](https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Ñero Session 16](https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1) | 2:17 | 2025-02-21 |  |
 | [Ñero Session 17](https://open.spotify.com/track/28sOcy3NXj7ga0JMEHauIU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Ñero Session 17](https://open.spotify.com/album/4UDoV0gSbWnoVVYUW2XmYB) | 2:50 | 2025-04-24 | 2025-06-03 |
 | [Ñero Session 18](https://open.spotify.com/track/2bMwrVNQ8BeH4w3o12GZoh) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Bbyboy 100k](https://open.spotify.com/artist/12523oWu2Tgbcy89mJJhHi), [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh) | [Ñero Session 18](https://open.spotify.com/album/6FRuG41qAc885UAtWWdhoG) | 2:16 | 2025-12-05 |  |
+| [Ñero Session 19](https://open.spotify.com/track/3MobdYJwa8hDOyZT7bEA2C) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Ñero Session 19](https://open.spotify.com/album/5Rpv92i6hlOAUAI1h1FRlO) | 2:47 | 2026-02-06 |  |
 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 | 2023-03-03 | 2024-05-09 |
 | [Ñero Session 23](https://open.spotify.com/track/5dmrKfJd5roTYwH5YfOg7G) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Ñero Session 23](https://open.spotify.com/album/6qN493Dqvx508buRITESb6) | 2:44 | 2024-07-11 | 2025-07-19 |
 | [Ñero Session 3](https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Ñero Session 3](https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA) | 2:48 | 2024-06-07 | 2025-07-19 |

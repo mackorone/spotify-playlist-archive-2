@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 210317,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI"
@@ -2614,6 +2614,24 @@
       "duration_ms": 203264,
       "name": "Last Goodbyes",
       "url": "https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM"
+    },
+    {
+      "album": {
+        "name": "Last Goodbyes",
+        "url": "https://open.spotify.com/album/4fw7jipazKGdJZIKzAUo8t"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193441,
+      "name": "Last Goodbyes (Acoustic Version)",
+      "url": "https://open.spotify.com/track/2PJcce23TKlBYwkusjGt2K"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Girl Scout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,759 likes - 196 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,760 likes - 196 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Play The Part](https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/1056qytYUijsTICJ4VIItC) | 2:50 |
 | 2 | [groby](https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [embraced for a second as we die](https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt) | 3:37 |
-| 3 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [](https://open.spotify.com/album/null) | 3:20 |
+| 3 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 |
 | 4 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 |
 | 5 | [Keeper](https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Keeper](https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP) | 3:45 |
 | 6 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 195 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
 | 196 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 
-Snapshot ID: `AAAAAMvpFNVEtL7E95kEr0ChGN27jqXc`
+Snapshot ID: `AAAAAEK23j+rUCegzoFTP+9482WCOD7r`

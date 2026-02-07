@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211376,
+  "num_followers": 211375,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAAFVbCWQoniTM5judydcCoy",
+  "snapshot_id": "aYPdgAAAAADZerbTXrt2RwtWpnDtJuv9",
   "tracks": [
     {
       "added_at": null,
@@ -656,13 +656,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -716,17 +716,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Lili K",
-          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
+          "name": "Nate Fox",
+          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Good Ass Intro",
-      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
+      "duration_ms": 139406,
+      "name": "Pusha Man",
+      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
     },
     {
       "added_at": null,
@@ -740,13 +736,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
         }
       ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,
@@ -808,13 +804,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Nate Fox",
-          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Lili K",
+          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
         }
       ],
-      "duration_ms": 139406,
-      "name": "Pusha Man",
-      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
+      "duration_ms": 239250,
+      "name": "Good Ass Intro",
+      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
     },
     {
       "added_at": null,

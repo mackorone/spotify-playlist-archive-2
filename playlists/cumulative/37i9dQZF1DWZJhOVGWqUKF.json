@@ -8191,6 +8191,24 @@
     },
     {
       "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/2D6NZrDN8qBCQdZqU8T53y"
+      },
+      "artists": [
+        {
+          "name": "No Soul Society",
+          "url": "https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/1eog9TZ7UNY1gtP7UC6h0l"
+    },
+    {
+      "album": {
         "name": "Love To Be Loved",
         "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
       },
@@ -11125,6 +11143,24 @@
     },
     {
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5p7SfFy0yWn0bA5vUWKjcw"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS"
       },
@@ -13848,24 +13884,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG"
     },
     {
       "album": {

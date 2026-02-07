@@ -3503,6 +3503,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
+        "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260206,
+      "name": "I'm Black And I'm Proud - Say It Loud",
+      "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
+    },
+    {
+      "album": {
         "name": "20 Years Systematic",
         "url": "https://open.spotify.com/album/4sEySwCWJvLi03S7vEH7nf"
       },
@@ -3514,7 +3536,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 367095,
       "name": "Ice",
       "url": "https://open.spotify.com/track/5D9LjY7gZ49RoSekqMCvP6"

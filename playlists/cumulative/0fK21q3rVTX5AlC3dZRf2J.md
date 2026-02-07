@@ -4,11 +4,12 @@
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-115 songs - 3 hr 45 min
+116 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-03-09 |  |
+| [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/track/2NwY0T1T7TeKORCA6WoBSu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/album/5YS75TyDzP63G8RyvBVXZe) | 1:49 | 2026-02-07 |  |
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-03-09 |  |
 | [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2024-03-09 |  |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-03-09 |  |

@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Static Dress
 
-687 songs - 1 day 17 hr 24 min
+689 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [COLOURED IN](https://open.spotify.com/track/5MLJKggIN2d9VAiklXVDHZ) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [COLOURED IN](https://open.spotify.com/album/19UKcuHruJ95L5SM5du6qp) | 3:36 | 2025-08-11 | 2025-09-12 |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-07-25 | 2023-11-11 |
 | [Cowboy Milk](https://open.spotify.com/track/4u3v4FhMii7GqEsxBUBhiJ) | [Beauty School](https://open.spotify.com/artist/46yPZXaKNR5nkEqMzhifG6) | [Cowboy Milk](https://open.spotify.com/album/4xLDL7CGdXugh9oxsQA5dV) | 3:09 | 2024-08-14 | 2025-09-12 |
+| [CRANIUM](https://open.spotify.com/track/1JSzBPJqGdDbqPh5sDrntu) | [False Reality](https://open.spotify.com/artist/2UzhploNTDxWtJkr5BE3cm) | [FADED INTENTIONS](https://open.spotify.com/album/5kfP0YaA60oC5088JBfLwi) | 3:19 | 2026-02-06 |  |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-04 | 2025-09-12 |
 | [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 | 2025-10-23 | 2025-12-06 |
 | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [Mark Vollelunga](https://open.spotify.com/artist/69lSSZZg7Xp8XJ3bjdNOXU) | [Crossing the Rubicon \(feat\. NOTHING MORE\)](https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI) | 3:24 | 2025-09-11 |  |
@@ -204,7 +205,7 @@
 | [Even If I Never Get There](https://open.spotify.com/track/0xbhvgbN92iUOddEfdGR4L) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Even If I Never Get There](https://open.spotify.com/album/37tK6EVQs3NQIx3MqTghaL) | 3:15 | 2026-01-23 |  |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2025-02-07 |  |
 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 | 2025-06-06 | 2025-10-04 |
-| [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-23 |  |
+| [Everybody Knows](https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Everybody Knows](https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs) | 3:19 | 2025-10-23 | 2026-02-07 |
 | [EXPIRE](https://open.spotify.com/track/6nWD0hIvscwrUddF8lTRPU) | [ARCHIVES](https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq) | [EXPIRE](https://open.spotify.com/album/3tynJ9yMLDlo0kv8iubqW7) | 3:03 | 2025-08-11 | 2025-09-12 |
 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 | 2025-04-04 | 2025-09-12 |
 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 | 2023-06-01 | 2023-08-05 |
@@ -367,6 +368,7 @@
 | [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-11 |  |
 | [Like No Other](https://open.spotify.com/track/5Hjj61HTqfrvxORvRs7fDH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Like No Other](https://open.spotify.com/album/340dgGTAgE7yRwyHlJdyIE) | 2:31 | 2025-02-21 | 2025-09-12 |
 | [Like the Fourth Wall](https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Like the Fourth Wall](https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs) | 5:43 | 2025-10-23 | 2026-01-31 |
+| [Lilith & Esther](https://open.spotify.com/track/47AOYMwSZIIn3CTKbHvMYf) | [Mallavora](https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Lilith & Esther](https://open.spotify.com/album/0bx1k8st8W0DLLJBsCo9jB) | 3:12 | 2026-02-06 |  |
 | [Limousine](https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Limousine](https://open.spotify.com/album/1VPZZCdbX5Op6uDB1l1eqh) | 3:21 | 2023-11-17 | 2025-09-12 |
 | [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2023-09-23 |
 | [Losing My Grip](https://open.spotify.com/track/1h29QJe8e4TzlhdpXIue4U) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip](https://open.spotify.com/album/2osQNt480aZ9v9UEDLWPCA) | 2:47 | 2024-04-11 | 2025-09-12 |
@@ -631,7 +633,7 @@
 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 | 2025-09-11 | 2026-01-24 |
 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 | 2023-09-15 | 2024-05-04 |
 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 | 2023-04-21 | 2024-02-17 |
-| [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 | 2025-10-23 |  |
+| [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 | 2025-10-23 | 2026-02-07 |
 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 | 2022-11-10 | 2023-07-26 |
 | [under the knife](https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:58 | 2025-04-04 |  |
 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 | 2024-04-19 | 2025-09-12 |

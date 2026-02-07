@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-240 songs - 11 hr 56 min
+241 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,8 +166,9 @@
 | [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-08-29 |  |
 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 | 2025-07-18 | 2025-10-11 |
 | [Questions \- Deluxe Remix](https://open.spotify.com/track/0liCVPZBCrl18tC6jSwqJX) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions \(Remix Pack\)](https://open.spotify.com/album/0uDuT93S0B5kocmTo582kE) | 4:19 | 2025-07-18 | 2025-09-13 |
-| [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2025-07-18 |  |
+| [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 | 2025-07-18 | 2026-02-07 |
 | [Release Me \(feat\. Jules Buckley\)](https://open.spotify.com/track/37IB9gTLJognX12EMMvR9T) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Paul Harris](https://open.spotify.com/artist/46jtIbj72oWxiUY2CQvSJd), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Release Me \(feat\. Jules Buckley\)](https://open.spotify.com/album/6Ed6m6dNICFco8Jx8BxH6X) | 3:23 | 2025-07-18 |  |
+| [Release The Pressure](https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Release The Pressure](https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx) | 3:23 | 2026-02-06 |  |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2025-07-18 | 2025-11-15 |
 | [remember \(my name\)](https://open.spotify.com/track/5pXJ82WRuuoizkkW1RJZuz) | [multiplayer](https://open.spotify.com/artist/3s5XnLtcMr2F9CiOBlgbed), [aintjuly](https://open.spotify.com/artist/4YvASpJwHHUJxPGV2HIrRA) | [remember \(my name\)](https://open.spotify.com/album/5HWldIPagbJh75wIJ876ie) | 2:13 | 2025-07-18 | 2025-10-11 |
 | [Remember Me](https://open.spotify.com/track/15RPmc9LVulYANNiuyDQBC) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE) | [Remember Me](https://open.spotify.com/album/41b7QZKNWavDjxpKa7D5aW) | 2:20 | 2025-07-18 | 2026-01-28 |

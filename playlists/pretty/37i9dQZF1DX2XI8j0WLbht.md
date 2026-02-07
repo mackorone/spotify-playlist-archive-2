@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,204 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,208 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,21 +27,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 17 | [No Estoy Triste, Estoy Lejos](https://open.spotify.com/track/0SUS21tacPzjAcYLVEi78l) | [Mariella y Venero](https://open.spotify.com/artist/76vGvqFz2qUYeCyY8W8c4Y) | [No Estoy Triste, Estoy Lejos](https://open.spotify.com/album/4oHh123UoLe574yFhfBw2U) | 5:23 |
 | 18 | [Bumerán](https://open.spotify.com/track/1eDG6rEIWlVLVmoOZPnmRd) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Bumerán](https://open.spotify.com/album/2UWpmovdzymBeYBRflCgX8) | 2:49 |
 | 19 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 |
-| 20 | [Amigos](https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Amigos](https://open.spotify.com/album/7FXxxX3233WGt9NLhnPvMC) | 3:16 |
-| 21 | [Mujer Mexicana](https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Mujer Mexicana](https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB) | 3:22 |
-| 22 | [Fotografías](https://open.spotify.com/track/7Co0T0D7mnUwrx7ffdrPya) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Fotografías](https://open.spotify.com/album/6Jw3cM7MRp1D4yhf1Fj9Km) | 4:03 |
-| 23 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 |
-| 24 | [no sé](https://open.spotify.com/track/2TGuIQbw62MSxJzBkpF8dC) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [no sé](https://open.spotify.com/album/6z44re4pwE8Ye6YFOgJw7D) | 1:00 |
-| 25 | [no me culpes por sentir](https://open.spotify.com/track/2XgCopGQ3HzMhxNPOYrW85) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:48 |
-| 26 | [Seguirte](https://open.spotify.com/track/1eot6WprsYiGUcX4YPpRhO) | [Sam Chávez](https://open.spotify.com/artist/5GpWkjxYTy97PC84yWcxsm) | [Seguirte](https://open.spotify.com/album/2G1YEu65XRDBnCdTXjA0sp) | 2:42 |
-| 27 | [Mapas en Blanco](https://open.spotify.com/track/2w2noxTEg9IUZv9kCdt3Y2) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0), [Ximena Carstensen](https://open.spotify.com/artist/4pELcIPO8XT2tszzk7d6cu) | [Mapas en Blanco](https://open.spotify.com/album/0oCZZwDGaiqjbzHy0T5Opc) | 3:54 |
-| 28 | [nadie va a pensar en ti mejor que yo](https://open.spotify.com/track/30fduyyodbe4XUJ45Sn8zK) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 5:41 |
-| 29 | [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 |
-| 30 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 |
-| 31 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
-| 32 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
-| 33 | [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 |
-| 34 | [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 |
+| 20 | [Mal de Amores](https://open.spotify.com/track/7aXpSB3zDZG2mPYowpEPNJ) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Mal de Amores](https://open.spotify.com/album/2ETyqCocQb3rLg5ik39Ya7) | 4:24 |
+| 21 | [Amigos](https://open.spotify.com/track/7neyy61UqoctoI9ouUyFJd) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Amigos](https://open.spotify.com/album/7FXxxX3233WGt9NLhnPvMC) | 3:16 |
+| 22 | [Mujer Mexicana](https://open.spotify.com/track/2aoaQbWGcfePI9WL85leY0) | [FRNCE](https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f) | [Mujer Mexicana](https://open.spotify.com/album/1ql6HMWjXzf5tOwvO16bOB) | 3:22 |
+| 23 | [Fotografías](https://open.spotify.com/track/7Co0T0D7mnUwrx7ffdrPya) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Fotografías](https://open.spotify.com/album/6Jw3cM7MRp1D4yhf1Fj9Km) | 4:03 |
+| 24 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 |
+| 25 | [no sé](https://open.spotify.com/track/2TGuIQbw62MSxJzBkpF8dC) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [no sé](https://open.spotify.com/album/6z44re4pwE8Ye6YFOgJw7D) | 1:00 |
+| 26 | [no me culpes por sentir](https://open.spotify.com/track/2XgCopGQ3HzMhxNPOYrW85) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:48 |
+| 27 | [Seguirte](https://open.spotify.com/track/1eot6WprsYiGUcX4YPpRhO) | [Sam Chávez](https://open.spotify.com/artist/5GpWkjxYTy97PC84yWcxsm) | [Seguirte](https://open.spotify.com/album/2G1YEu65XRDBnCdTXjA0sp) | 2:42 |
+| 28 | [Mapas en Blanco](https://open.spotify.com/track/2w2noxTEg9IUZv9kCdt3Y2) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0), [Ximena Carstensen](https://open.spotify.com/artist/4pELcIPO8XT2tszzk7d6cu) | [Mapas en Blanco](https://open.spotify.com/album/0oCZZwDGaiqjbzHy0T5Opc) | 3:54 |
+| 29 | [nadie va a pensar en ti mejor que yo](https://open.spotify.com/track/30fduyyodbe4XUJ45Sn8zK) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 5:41 |
+| 30 | [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 |
+| 31 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 |
+| 32 | [Ropa De Bazar](https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ropa De Bazar](https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI) | 3:17 |
+| 33 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 34 | [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 |
 | 35 | [No Te Vayas Sin Saber](https://open.spotify.com/track/3u136DJMY2wCgZ2TaO4wND) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:44 |
 | 36 | [Espacio](https://open.spotify.com/track/0V1Bfgwp2RVDYxbpicF2IT) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Mucho Gusto](https://open.spotify.com/album/0XWdaufTjSXBkTl9dZpDtN) | 3:26 |
 | 37 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 | 74 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 |
 | 75 | [Volar](https://open.spotify.com/track/6PNhKRQDm9vQuPQcnK6SJm) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [Volar](https://open.spotify.com/album/7iRSlrtY3Hpw1j6QwJ9Rg0) | 3:56 |
 
-Snapshot ID: `AAAAAKnnj9LEZFRzgEEQijLpUdyM81zp`
+Snapshot ID: `AAAAAKWqahnegyZ/TezOcAXQIGA+9+bt`

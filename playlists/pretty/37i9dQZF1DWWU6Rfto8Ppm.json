@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3898706,
+  "num_followers": 3899544,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Ella Se Contradice (feat. Plan B)",
         "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 256756,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Eh Oh Eh Oh",
-      "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 232666,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Eh Oh Eh Oh",
+      "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 260200,
       "name": "Tocarte Toa (2008 / Remix)",
       "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Los Reyes del Perreo",
+        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "El Tiburon",
+      "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -2167,26 +2187,6 @@
       "duration_ms": 152613,
       "name": "Alocate",
       "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Los Reyes del Perreo",
-        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        },
-        {
-          "name": "Baby Ranks",
-          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "El Tiburon",
-      "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Dos Palgas",
-      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Dos Palgas",
+      "url": "https://open.spotify.com/track/1ohrqIMhros7Gi7mX80WB6"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "La Calle Vol. 1",
-        "url": "https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 229746,
-      "name": "Agresivo",
-      "url": "https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 190186,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/2WkWjXV1lQtSFNZoFzu3r0"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "La Calle Vol. 1",
+        "url": "https://open.spotify.com/album/30iJTNP5UbuT2QFDlOVwME"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Agresivo",
+      "url": "https://open.spotify.com/track/2kGnzHH1Q6YaxjNylz68CM"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "El Que los Puso a Entonar",
-        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Te Imagino",
-      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "El Movimiento: The Mixtape",
         "url": "https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 209120,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "El Que los Puso a Entonar",
+        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3015,22 +3015,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "2K20, Pt. 1 (Live)",
         "url": "https://open.spotify.com/album/0N091826fEGbqVB1NnKguC"
       },
@@ -3043,6 +3027,22 @@
       "duration_ms": 128259,
       "name": "Mayor Que Yo - Live",
       "url": "https://open.spotify.com/track/5JXopnXnBeEH4eiiFvhMSc"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6e86ZPMiOcQxE8TAC9TBFH"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3155,22 +3155,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "The Money Machine Presenta: El Bando Korrupto 2",
-        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Prez",
-          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Stars Are Blind",
         "url": "https://open.spotify.com/album/1ce0VwubSzMxb0y5LM29K6"
       },
@@ -3191,6 +3175,22 @@
       "duration_ms": 256853,
       "name": "Stars Are Blind - Luny Tunes Remix; feat. Wisin and Yandel",
       "url": "https://open.spotify.com/track/6jRinD1LZTMwaf7B8BnRS6"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "The Money Machine Presenta: El Bando Korrupto 2",
+        "url": "https://open.spotify.com/album/04owJYXyzs72kYcy2keNrd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Prez",
+          "url": "https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3631,8 +3631,8 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Chosen Few El Documental II",
-        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
       },
       "artists": [
         {
@@ -3640,9 +3640,9 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+      "duration_ms": 220056,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3659,22 +3659,6 @@
       "duration_ms": 152106,
       "name": "Ag\u00e1rrala - Remix",
       "url": "https://open.spotify.com/track/43yyvWNjl3yWpghcrxZYkr"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3703,6 +3687,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
       },
@@ -3723,8 +3723,8 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+        "name": "Chosen Few El Documental II",
+        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
       },
       "artists": [
         {
@@ -3732,9 +3732,25 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 220056,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
+      "duration_ms": 183133,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
+      },
+      "artists": [
+        {
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        }
+      ],
+      "duration_ms": 199110,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3759,34 +3775,18 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/4GBaFbtHeZD8t8bd1jE0AD"
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
       },
       "artists": [
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 199110,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1Z4IqxukC6Yuer0nK7rC2R"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

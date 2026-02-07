@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,272 songs - 5 day 12 hr 54 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,279 songs - 5 day 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2280,5 +2280,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2270 | [DELUSIONAL](https://open.spotify.com/track/3t8Usl5l0m5QB0jvmUMZ7v) | [Jfallon](https://open.spotify.com/artist/4odgyHXrBNILVxyGFGdaJ0), [AUGY](https://open.spotify.com/artist/7BZO8HVP46PLeEYEBLlkLw) | [DELUSIONAL](https://open.spotify.com/album/1QhZ8MlWlKWXgxUPMEUqzl) | 2:36 |
 | 2271 | [Don't Care for Carolina](https://open.spotify.com/track/683NrysqQaIRzIfak8fcFZ) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Don't Care for Carolina](https://open.spotify.com/album/6DsdvPQqxNxbNPdUIS3KFh) | 3:30 |
 | 2272 | [Volverte A Ver](https://open.spotify.com/track/6wJ7Y3zs6zW1dirjIq0nMn) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Volverte A Ver](https://open.spotify.com/album/3uigmjEJPtau8rlzhMa3Bv) | 2:51 |
+| 2273 | [Screwed](https://open.spotify.com/track/5skC96Bef44xi38O6TeFaP) | [Savannah Love](https://open.spotify.com/artist/4Y47LEaNMuG8hnVkjgUCPW) | [Savannah Love \(Self\-Titled\)](https://open.spotify.com/album/6OMqQO4RghCklXtXAVFDqT) | 3:14 |
+| 2274 | [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 |
+| 2275 | [Sŵn y Môr](https://open.spotify.com/track/61AXnzqHsFGvGne4dpzYqn) | [Lonely Mountain](https://open.spotify.com/artist/2XjWUpDLOIJCQC8MMc1M8h) | [Sŵn y Môr](https://open.spotify.com/album/2Ff9ZyoOHAjY1nbv7BUvmR) | 5:52 |
+| 2276 | [Then I Met You](https://open.spotify.com/track/3FyvD6sx4OX2uIUUGsxIxU) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Then I Met You](https://open.spotify.com/album/62obecHMJmWIs8hcgnXN30) | 2:06 |
+| 2277 | [Raining Love](https://open.spotify.com/track/2PaYOVLgQlZ92JqW5x0QY2) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Lovers and Fears](https://open.spotify.com/album/493y7hAQdhllwWpj8c6LxI) | 3:35 |
+| 2278 | [Rebuild](https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:40 |
+| 2279 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
 
-Snapshot ID: `AAAJdw53IHpB3K+acoEK7Ak+kUnc895I`
+Snapshot ID: `AAAJfo6rajQp1srbQ9gw8CgdvtVEUi+3`

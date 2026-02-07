@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: RB Gujjar & Eshan Bhati
+> Best of Haryanvi Hip\-Hop! Cover: RP Singh
 
-539 songs - 1 day 3 hr 18 min
+540 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [BANDEKHANI](https://open.spotify.com/track/0Yly2vTZ58vOK2pbRbTAhx) | [Ricky Singh](https://open.spotify.com/artist/7dC0vBjsZRfnAbl5MDjWjm), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [BANDEKHANI](https://open.spotify.com/album/7jfDVnMgbgUXhiqa9PvU64) | 3:09 | 2023-12-14 | 2024-02-08 |
 | [Banger](https://open.spotify.com/track/0WSsU9xfo2zGol8MYqO9q4) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Banger](https://open.spotify.com/album/4SpOQqLYAKJg1woQLczbjm) | 3:28 | 2024-03-29 | 2025-01-11 |
 | [Bann Main Rahya Karu](https://open.spotify.com/track/5u29jcCehy4SYKRG3OON9F) | [Harsh Gahlot](https://open.spotify.com/artist/64QTwumjPa6cpyki0ckyxq), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh), [Azaad Khanda Khedi](https://open.spotify.com/artist/3SXlEH01NE35u5kZ74jEAd) | [Bann Main Rahya Karu](https://open.spotify.com/album/4OaEiZsyJ6QQHMPHuE2aQr) | 3:20 | 2025-06-20 |  |
-| [Banna](https://open.spotify.com/track/5dQXa74bKFqX1F6Ys9SlFu) | [THE U.D](https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72), [Lil Urban](https://open.spotify.com/artist/4i13upvBtMR2ETu4kG31fq) | [Banna](https://open.spotify.com/album/5BkZ2XhGUgpgLCfGJtWxxK) | 2:48 | 2026-01-30 |  |
+| [Banna](https://open.spotify.com/track/5dQXa74bKFqX1F6Ys9SlFu) | [THE U.D](https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72), [Lil Urban](https://open.spotify.com/artist/4i13upvBtMR2ETu4kG31fq) | [Banna](https://open.spotify.com/album/5BkZ2XhGUgpgLCfGJtWxxK) | 2:48 | 2026-01-30 | 2026-02-07 |
 | [Banna](https://open.spotify.com/track/4EJeXbGlUuFBhXrWhTcavw) | [Viren](https://open.spotify.com/artist/1UfQ6wLvSJXXwM3dfOZkPO) | [Banna](https://open.spotify.com/album/2Nhq6x2kUsGJkHIQSqYozj) | 2:28 | 2025-10-07 | 2025-10-11 |
 | [Barmer To Hongkong](https://open.spotify.com/track/4e7OUJxaMFpN2mb5msncZY) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Barmer To Hongkong](https://open.spotify.com/album/1a76HZ1gdIgyCKAFEkrVfF) | 2:39 | 2025-03-28 | 2025-05-14 |
 | [Batau Ke](https://open.spotify.com/track/3Q9JAU3UKc2oxpGLqbTBdU) | [Jassi Prince](https://open.spotify.com/artist/3OD31rCk0oTk8LSmpzx6hi), [Sumit Mangali](https://open.spotify.com/artist/6XFpyrsgncXqUGON83CUg4), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Batau Ke](https://open.spotify.com/album/5sJYy4QA3nKNLlzz6jXKQ9) | 2:52 | 2025-10-03 | 2025-11-08 |
@@ -514,6 +514,7 @@
 | [Time](https://open.spotify.com/track/15mTMlItAclXCqXXhbCqhS) | [Ashu Morkhi](https://open.spotify.com/artist/7sBANqUtlylPQjOXt4XHR6), [Govind Bhana](https://open.spotify.com/artist/1NeFOovBejPz8FN6MrFqfO) | [Time](https://open.spotify.com/album/3xwbxOcqROtALRfUtNRyTc) | 2:52 | 2024-02-06 | 2024-03-19 |
 | [Tony Montana](https://open.spotify.com/track/0XhRWYSnhd4XTtucsfpPn3) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Tony Montana](https://open.spotify.com/album/02Poj3U1abJNpmUXzhc0lP) | 2:55 | 2025-12-19 | 2026-01-17 |
 | [Tool](https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Tool](https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik) | 2:56 | 2024-04-18 | 2024-05-06 |
+| [Top Off](https://open.spotify.com/track/5TRIFHtfd5tEujvteywsYO) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Top Off](https://open.spotify.com/album/4IPy1G02DyDuyEQWQ3CEHP) | 1:46 | 2026-02-06 |  |
 | [TORSION](https://open.spotify.com/track/1giRNoUCag2UZV5r466wC6) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [ANSHBuzz](https://open.spotify.com/artist/0EIuc4EpZPox8OgB9Ys4c9) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 3:40 | 2025-12-02 | 2026-01-31 |
 | [Total](https://open.spotify.com/track/2UnJTK5NiGTD9L9wsYz1Az) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri) | [Total](https://open.spotify.com/album/71P9Ez49rEozCuXodmSQrb) | 3:49 | 2026-01-09 |  |
 | [Trap\-Aloch](https://open.spotify.com/track/4MrxNSv3MP8A07qsjpsklW) | [Aman Mangali Aala](https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Scooby Doo!](https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog) | 3:37 | 2025-05-09 | 2025-05-17 |

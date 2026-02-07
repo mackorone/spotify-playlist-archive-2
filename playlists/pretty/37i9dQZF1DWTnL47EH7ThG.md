@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,550 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,565 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 49 | [Boss Sweet](https://open.spotify.com/track/6NXE9HXJV6SlgAIQhCAqyy) | [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [Boss Sweet](https://open.spotify.com/album/2DJCpHmsFIjOoNxIzhlijY) | 3:56 |
 | 50 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 |
 | 51 | [2 GOOD 2 YOU](https://open.spotify.com/track/1SSLtVOusZ9tY0Wwtz9Xnq) | [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [2 GOOD 2 YOU](https://open.spotify.com/album/18NopvFuiES6PyxEedszvA) | 3:31 |
-| 52 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 |
+| 52 | [IDK WHAT TO TELL YOU](https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LOVE BLACK](https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA) | 3:30 |
 | 53 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 |
 | 54 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 |
 | 55 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 |

@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Dave & Tems
 
-799 songs - 1 day 15 hr 59 min
+800 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [April 7](https://open.spotify.com/track/1PkFOGkj1rFVEjgH8Ccj6r) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [April 7](https://open.spotify.com/album/1WphmRfkYVCSITY4Tu5B9p) | 2:59 | 2025-04-04 |  |
 | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj) | 2:36 | 2023-01-20 | 2023-06-24 |
 | [Attractive](https://open.spotify.com/track/6tAo13vdUAC0pp8P2FN1tt) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:02 | 2025-01-24 | 2025-02-08 |
-| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-03 |  |
+| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-03 | 2026-02-07 |
 | [ayo](https://open.spotify.com/track/4qExpqP0xAjotJa8gA5FkS) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [unreleased](https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU) | 3:04 | 2025-05-16 | 2025-06-14 |
 | [Baby Wyd \(Remix\) \(feat\. Latto & Lakeyah\)](https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 3:48 | 2022-07-22 | 2022-09-10 |
 | [Baby Z](https://open.spotify.com/track/462LJdoEI5Lm6kEDijarCH) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Baby Z](https://open.spotify.com/album/1IJTKZSE6ddFc7qsIlGuTO) | 2:02 | 2025-12-12 | 2026-01-15 |
@@ -113,6 +113,7 @@
 | [Breath Of Fresh Air](https://open.spotify.com/track/178eHuTn2OrAW9JnqbrKCd) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Street Psalms](https://open.spotify.com/album/0F81kdKteOdZ5fBofqn3NN) | 2:12 | 2025-11-14 |  |
 | [Broken](https://open.spotify.com/track/6sehQApg26jTIqKmuILztI) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Nothin Major](https://open.spotify.com/album/6JjSsgfGQrBs5blnzbUKWb) | 2:58 | 2023-12-15 | 2024-01-13 |
 | [Buss At You Too](https://open.spotify.com/track/6By1xBaO7IW3N5xDGzc28P) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Buss At You Too](https://open.spotify.com/album/6KIp91ieIVYj87LT76J5TT) | 2:56 | 2025-10-03 | 2025-10-25 |
+| [Buy What U Want](https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Buy What U Want](https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h) | 3:47 | 2026-02-06 |  |
 | [By My Side \(with Hunxho & Polo G\)](https://open.spotify.com/track/2ZgJ3Q7lJMZHpUM1y9ag2C) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Let Me Fly](https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED) | 3:16 | 2025-05-23 | 2025-08-17 |
 | [By MySelf](https://open.spotify.com/track/6htZCLDzCJUePPPjVCDBEv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [By MySelf](https://open.spotify.com/album/58QPTOR2nMzNFsfWX7iAEB) | 2:41 | 2022-06-17 | 2022-08-13 |
 | [C h e e r s](https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:54 | 2024-04-26 | 2024-05-04 |

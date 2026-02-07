@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,936 likes - 166 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,928 likes - 166 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 165 | [Forest Breath](https://open.spotify.com/track/4JHSk6ehy7ztovsUjZAxV9) | [Cerasifera](https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k) | [Forest Breath](https://open.spotify.com/album/4SCtfrNF8SSagNIYk3b5B7) | 2:41 |
 | 166 | [Resonance Field](https://open.spotify.com/track/1SOCWJqcdZGVyCGxtERFut) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Resonance Field](https://open.spotify.com/album/1jn6yRRutKHejrBIZzKXbz) | 2:33 |
 
-Snapshot ID: `AAAAANhRt+p3sdGli8JkY42d/lg0wNf4`
+Snapshot ID: `AAAAAHbZ3mdya4P7Pl+5UcDlG0bAb2dK`

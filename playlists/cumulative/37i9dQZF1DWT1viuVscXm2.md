@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-434 songs - 1 day 0 hr 36 min
+435 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Fuego de Noche, Nieve de Día / Vuelve](https://open.spotify.com/track/3aM3fwqcKK5pttsl8C0ELB) | [Julián Bruno](https://open.spotify.com/artist/4GiUBU5qC374SE66G2wYY2), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Fuego de Noche, Nieve de Día / Vuelve](https://open.spotify.com/album/6Jo0hkCbLXT05ynSrLeSyQ) | 3:14 | 2023-10-27 | 2024-02-17 |
 | [Fuerte No Soy](https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Fuerte No Soy](https://open.spotify.com/album/0otGOAVyYMS2WeiRwLwr2j) | 4:39 | 2024-04-19 | 2024-07-20 |
 | [Fugitivo / Aca Llega la Banda / Asi Fue \- En Vivo](https://open.spotify.com/track/1FmxDLgWWPGN3gWTD45648) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fugitivo / Aca Llega la Banda / Asi Fue \(En Vivo\)](https://open.spotify.com/album/4adOZCfSCGTRXBiDdS5tRo) | 7:12 | 2021-12-24 | 2023-04-29 |
+| [Golpes En El Corazón](https://open.spotify.com/track/09uXwwlVhiRpSpmcRoLJFP) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Masacrados Por La Felicidad](https://open.spotify.com/album/2ShR2NhAnFCSzyoTADk3tS) | 3:23 | 2026-02-06 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/0OJmI5sNIOFOjRcKKMioMT) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/6LAwwzCUNj4rWZ9KKHRDOh) | 3:00 | 2025-09-25 |  |
 | [Hazme Olvidarla](https://open.spotify.com/track/3XQ8hlGg3npsH3JwwdcI1f) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Hazme Olvidarla](https://open.spotify.com/album/6Z4LbPRfRr5BHB4n9rUkl0) | 3:05 | 2023-07-21 | 2023-10-21 |
 | [Hey Tu](https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Hey Tu](https://open.spotify.com/album/0qEN49ipLOHVnuAaXZJSNV) | 3:16 | 2023-02-10 | 2023-04-01 |
@@ -389,7 +390,7 @@
 | [Tu Sacaganas](https://open.spotify.com/track/2E7VxFwGSmvqLfsFoGDSi9) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tu Sacaganas](https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0) | 3:13 | 2025-06-20 | 2025-10-11 |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-04 | 2025-09-26 |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |
-| [Tuyo Siempre](https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Tuyo Siempre](https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0) | 3:12 | 2025-09-12 |  |
+| [Tuyo Siempre](https://open.spotify.com/track/1LewKEF0frV9UK0zFPCaAc) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Tuyo Siempre](https://open.spotify.com/album/54NBD6pWru3bLU3U0dbCb0) | 3:12 | 2025-09-12 | 2026-02-07 |
 | [Tuyo Siempre](https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tuyo Siempre](https://open.spotify.com/album/5iWCGpIviT851tliidHWm7) | 2:53 | 2024-04-05 | 2024-05-25 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-10 | 2025-01-18 |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-04-07 |  |

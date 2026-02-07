@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-637 songs - 1 day 12 hr 21 min
+639 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Mi Nawe](https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Mi Nawe](https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2) | 2:45 | 2023-10-19 | 2024-07-05 |
 | [Milele](https://open.spotify.com/track/3vArI20yjxyaVepSKiaUml) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Milele](https://open.spotify.com/album/4wIHp3uNOmvSxsmquGOqe7) | 2:57 | 2022-09-08 | 2022-11-18 |
 | [Milele](https://open.spotify.com/track/0EmxQAONJcrwsUBXEG0MHT) | [Ziddy Value](https://open.spotify.com/artist/5gXnyeKkqW4TntseWbzJ8I), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Milele](https://open.spotify.com/album/6gVktkDRocUP5pn9WvVANr) | 3:04 | 2024-07-11 | 2024-08-09 |
+| [Minakutaka](https://open.spotify.com/track/54IZOqy2UAzaJtNJwUSbPH) | [Future Destin](https://open.spotify.com/artist/54v6fGbKfPoC31jwPPTA6v), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Minakutaka](https://open.spotify.com/album/0iSx80Jcyka7e7drgnaWKA) | 2:55 | 2026-02-05 |  |
 | [Mind Your Business](https://open.spotify.com/track/0RlgWDE08CHHKzACLWczCV) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Mind Your Business](https://open.spotify.com/album/7z4FyJhsRKM8TNepV4CwoM) | 3:08 | 2023-03-23 | 2023-09-22 |
 | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/track/25G0isuPtzCqMWDPm99yPS) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Miss Bantu \(feat\. Spice\)](https://open.spotify.com/album/3MUrDQrZLAlpUPniQ63wwZ) | 3:33 | 2022-07-22 | 2023-01-13 |
 | [Mitano](https://open.spotify.com/track/2MeQYMD5hTdHVRX4fjpYvi) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mitano](https://open.spotify.com/album/2PHyjMtCUcwATrDvQ1ZuQ3) | 3:12 | 2025-10-23 | 2026-01-30 |
@@ -612,6 +613,7 @@
 | [Wenyewe](https://open.spotify.com/track/5dfPuFkAQinbzkzBGtOW57) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Wenyewe](https://open.spotify.com/album/4yCjoMMfoSmEPhLXbTXhux) | 3:24 | 2023-06-22 | 2024-02-23 |
 | [Wewe](https://open.spotify.com/track/3KKWjl22OG6lEDQN2xDNn9) | [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Wewe](https://open.spotify.com/album/3eEgq8X2S0cWoHUhKZPfQd) | 3:13 | 2024-02-15 | 2024-06-08 |
 | [Wewe Hapo](https://open.spotify.com/track/0IyXFzO9oyN8rnLhHdfQob) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Wewe Hapo](https://open.spotify.com/album/5UASDblO4PCxUEOhb1pUxH) | 3:45 | 2024-01-12 | 2024-11-22 |
+| [Wewe Hapo](https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Mr Blue](https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf) | [Wewe Hapo](https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl) | 2:28 | 2026-02-05 |  |
 | [Whine 4 Me \(feat\. Vanillah\)](https://open.spotify.com/track/6o8Ah4wcVQw88DN8O5RsR8) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI) | [Whine 4 Me \(feat\. Vanillah\)](https://open.spotify.com/album/6Qf9oIZtf7Gxf1SGfCSf81) | 2:42 | 2022-12-09 | 2023-05-12 |
 | [Why](https://open.spotify.com/track/52BYjohWWYvUustvR8YaRg) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Why](https://open.spotify.com/album/6b8SBxH7W4pSr0Bxf0hBfa) | 2:58 | 2025-02-20 | 2025-08-16 |
 | [Why](https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv) | [The Ben](https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Why](https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB) | 3:26 | 2022-01-13 | 2023-01-27 |

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,024 songs - 4 day 22 hr 32 min
+2,030 songs - 4 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1371,6 +1371,7 @@
 | [Rain in Paradise](https://open.spotify.com/track/3lp0XVbd1Kg2sXqbmew8Xk) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Rain in Paradise](https://open.spotify.com/album/2EpQPwn9TasOBMPzaiAtnD) | 4:51 | 2025-01-07 |  |
 | [Rainbow](https://open.spotify.com/track/7oCidbZEGhxcLC7ebQaRwn) | [Lucas Prospero](https://open.spotify.com/artist/2KqlV9bFYcA3KtqxJLSIvf) | [Rainbow](https://open.spotify.com/album/6HXstvDME8rCAg8DeCs47T) | 2:55 | 2025-06-13 |  |
 | [Raining in Han River](https://open.spotify.com/track/2eGOWoVzmKnlmtoi9zFhkU) | [LUMA](https://open.spotify.com/artist/18nE2xBTTDN18lQW6wL2Cy) | [Raining in Han River](https://open.spotify.com/album/30q3ARGz6phOgZ1vKkeU0C) | 3:27 | 2025-10-29 |  |
+| [Raining Love](https://open.spotify.com/track/2PaYOVLgQlZ92JqW5x0QY2) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Lovers and Fears](https://open.spotify.com/album/493y7hAQdhllwWpj8c6LxI) | 3:35 | 2026-02-07 |  |
 | [Raise the Jolly Roger](https://open.spotify.com/track/24LE4OczzhrtQeicROhu5y) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Raise the Jolly Roger](https://open.spotify.com/album/2fes4SUDmlPJYWtiQqCMMu) | 3:07 | 2025-10-09 |  |
 | [Rakett i røven!](https://open.spotify.com/track/2LiFsvEv77lh0P6nYd6dcA) | [G.M.L.](https://open.spotify.com/artist/4H1Hn4nIuzTyDQY2RuGUYC) | [Rakett i røven!](https://open.spotify.com/album/2S06h80vHsotlgrRKLm8bk) | 3:42 | 2026-01-14 |  |
 | [Ramblin'](https://open.spotify.com/track/3rVFieESvDEriMkxcLY3Ux) | [Lonesome Andy & His One Man Band](https://open.spotify.com/artist/4QT9pI8ouqGGr0q87Kp3K6) | [Ramblin'](https://open.spotify.com/album/3KFBIrtOY6OQAGfMKm5akP) | 4:50 | 2025-03-04 |  |
@@ -1380,6 +1381,7 @@
 | [Reach Out \(Intro\)](https://open.spotify.com/track/7Lv5lo5gKkM3p3T7GPHjn8) | [XIV Ash](https://open.spotify.com/artist/0Uza79K0BV2haG8oZ6VIyG) | [Dissatisfied](https://open.spotify.com/album/7nEEwsCu4M2tsJZSPa5ZjT) | 2:41 | 2025-02-19 |  |
 | [Ready For Some Rock'n'Roll](https://open.spotify.com/track/1O8B00F3LC8juK9gI9qQC8) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [Ready For Some Rock'n'Roll](https://open.spotify.com/album/7uVQbpVBBj1z1CrmPHCfTj) | 2:20 | 2025-05-22 |  |
 | [Reality](https://open.spotify.com/track/1wYyN8ju8CNLwYBXVJYkIJ) | [Indi Faulkner](https://open.spotify.com/artist/7AETAXt2VZjJIf8axgm6GZ) | [Reality](https://open.spotify.com/album/6QbfxAZK1HsMH63Ipxgna5) | 2:46 | 2025-08-04 |  |
+| [Rebuild](https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:40 | 2026-02-07 |  |
 | [Red Desert Road](https://open.spotify.com/track/3NgMcXGhe2EbRFx6vVpPsP) | [Pat Riel](https://open.spotify.com/artist/2xNmhXgczM1o9RvceSiKjU) | [Red Desert Road](https://open.spotify.com/album/3cgxxoKaJ9vpjthf5Y6xbi) | 4:36 | 2024-07-15 |  |
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2026-01-06 |  |
 | [Red Sweater](https://open.spotify.com/track/3rMkxYm6zPtntipi2VMtmK) | [MARINSS](https://open.spotify.com/artist/4GrpcnM6IFTf7mWpADVnL5) | [Red Sweater](https://open.spotify.com/album/4gF3kSp5bHxx1xuYoTQR8p) | 3:08 | 2025-02-25 |  |
@@ -1455,6 +1457,7 @@
 | [Scott was here \- a Saturday night rendition](https://open.spotify.com/track/4xZplCnBaaIW8fAeAihUlB) | [Willebrant](https://open.spotify.com/artist/5nEcpS6rLafg21UFJhXSpp) | [Scott was here \(a Saturday night rendition\)](https://open.spotify.com/album/43Af1d20GRyFUDfOXvdCaF) | 2:24 | 2024-12-10 |  |
 | [Scream](https://open.spotify.com/track/2ZHgLWu8IzIeHWqAjWFLSx) | [Anna Searight](https://open.spotify.com/artist/7gLO6oVqDUJ93e1FqpJkII) | [Scream](https://open.spotify.com/album/3CiRJexs98yo6Wp8Xx7Ncb) | 3:29 | 2025-08-12 |  |
 | [Screens](https://open.spotify.com/track/6ZXBp6plZ2WvUg0ACmfQVJ) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Screens](https://open.spotify.com/album/3Ja2pRgTTF0YvhR1YPzdcd) | 3:26 | 2024-08-22 |  |
+| [Screwed](https://open.spotify.com/track/5skC96Bef44xi38O6TeFaP) | [Savannah Love](https://open.spotify.com/artist/4Y47LEaNMuG8hnVkjgUCPW) | [Savannah Love \(Self\-Titled\)](https://open.spotify.com/album/6OMqQO4RghCklXtXAVFDqT) | 3:14 | 2026-02-07 |  |
 | [Se parliamo d'amore](https://open.spotify.com/track/6FpfNYy5NIBwilNvRmzR6B) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [Se parliamo d'amore](https://open.spotify.com/album/6gU5wpU6ZSpKKnPXus8uHO) | 4:20 | 2025-10-30 |  |
 | [Sea Day](https://open.spotify.com/track/50XjtTSz3jKUVgZru25dMa) | [GWC](https://open.spotify.com/artist/6l7dIYO3oQXMuHKQwaRpFc) | [Sixth Album](https://open.spotify.com/album/4oQxGtwLnhiogBInr9a79s) | 3:04 | 2025-11-20 |  |
 | [Second Chance](https://open.spotify.com/track/4kPxaMMsHa95tYKRXtO27z) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Second Chance](https://open.spotify.com/album/7FnG077RVZGoLWqieZRDO3) | 3:22 | 2025-07-02 |  |
@@ -1572,6 +1575,7 @@
 | [Stay in the Light](https://open.spotify.com/track/2uldLReEocFmvrLfRvn22N) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [The Clone](https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs) | 4:04 | 2025-07-16 |  |
 | [Stay in Your Lane](https://open.spotify.com/track/2JeNFOEGEriRdMYsQjjtRm) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Stay in Your Lane](https://open.spotify.com/album/2kVTNP1StpnGQp68Baaqe9) | 2:32 | 2025-05-23 |  |
 | [Stay Soft](https://open.spotify.com/track/6oSB2kldqBEQpjQOEoIIFY) | [MARE](https://open.spotify.com/artist/0I8kUVpp2zVFwinaDoV1dU), [Franzi Berg](https://open.spotify.com/artist/09AgztcXrg0mCWt5RcHD39) | [Stay Soft](https://open.spotify.com/album/7hlCbMdpg9ZewqpXTcvEGx) | 3:49 | 2026-01-14 |  |
+| [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 | 2026-02-07 |  |
 | [Still Holding My Breath](https://open.spotify.com/track/7hmdCsdMxzVdtPbInrOWGe) | [Phil Cooper](https://open.spotify.com/artist/3J3J24345E8cocxwrz2yLY) | [Still Holding My Breath](https://open.spotify.com/album/6fPfZMIFwrjI9Vj8PT5BXw) | 3:16 | 2025-02-05 |  |
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-02 |  |
 | [Still Trying](https://open.spotify.com/track/5fIZtfQM5xhVaZdoAbnYs8) | [Alyssa DVM](https://open.spotify.com/artist/0GnamqXgRQBKJKTuoKMVx7) | [things i could never say](https://open.spotify.com/album/15WSzlQ8KgrMY81xLN2Wxg) | 3:02 | 2024-04-13 |  |
@@ -1628,6 +1632,7 @@
 | [Symmetric](https://open.spotify.com/track/2M6bYplgzxDWiU3vuGcl4L) | [Good Sunset](https://open.spotify.com/artist/1XeexwpjUws2EwUOUaO56Z) | [Cinema Everything](https://open.spotify.com/album/3Kp3powxVaQz0RA3bLOiRf) | 3:13 | 2025-12-10 |  |
 | [Synchronicity](https://open.spotify.com/track/2cEwm4HMumDFEukmHvzpwY) | [AYU](https://open.spotify.com/artist/1sjcTXZESni2B5F8LERoSw) | [Synchronicity](https://open.spotify.com/album/1PAKndvvrxK5PhDjoWfU0S) | 3:54 | 2025-08-25 |  |
 | [Sí](https://open.spotify.com/track/0HEUYBboxxjbBfqTPYtQ6Q) | [Kmpoy](https://open.spotify.com/artist/58I0270Xk0eCdscoHHIVfr) | [Sí](https://open.spotify.com/album/5bloXCPKR4EpphePofWk8w) | 3:36 | 2025-10-27 |  |
+| [Sŵn y Môr](https://open.spotify.com/track/61AXnzqHsFGvGne4dpzYqn) | [Lonely Mountain](https://open.spotify.com/artist/2XjWUpDLOIJCQC8MMc1M8h) | [Sŵn y Môr](https://open.spotify.com/album/2Ff9ZyoOHAjY1nbv7BUvmR) | 5:52 | 2026-02-07 |  |
 | [Tabibu Mkuu Huyu](https://open.spotify.com/track/2bZj2UKYZaz5RktgcWQjys) | [Sda Songs](https://open.spotify.com/artist/0qQ3BIZnYojHhx7QiV5mS2), [Accapela](https://open.spotify.com/artist/6VuGyCEELe5dbzzyGp7iUk) | [Tabibu Mkuu Huyu](https://open.spotify.com/album/3coCu28KDVCeJlp7Ha9dyi) | 5:30 | 2025-05-30 |  |
 | [TACO](https://open.spotify.com/track/1HkEPJgeovX136Z88TSWJQ) | [ThePieces](https://open.spotify.com/artist/0BN1T49jfRbf4eMqJtS5R1) | [TACO](https://open.spotify.com/album/0RB9Ux4zExOzjPnnQYe9ZZ) | 3:01 | 2025-10-21 |  |
 | [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 | 2025-10-09 |  |
@@ -1736,6 +1741,7 @@
 | [The Wanderer \- 2025 Remaster](https://open.spotify.com/track/4KZNTbPQp6ag1na4rZnSjf) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [Renewed Spirit \(2025 Remaster\)](https://open.spotify.com/album/5DNl9WHy6X7fc427vdugOm) | 3:39 | 2025-09-29 |  |
 | [The weight of freedom](https://open.spotify.com/track/4gVKItkWjVQZNbTLQb9Tb8) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [When time runs dry](https://open.spotify.com/album/151onIPEKJjuyooQEEVfKE) | 4:15 | 2025-04-24 |  |
 | [The World's Got a Broken Heart](https://open.spotify.com/track/4WDR7Mh4CgnJMm8521geAO) | [Chillin''](https://open.spotify.com/artist/08OE1oQavpFMQU51ZnkWFO) | [The World's Got a Broken Heart](https://open.spotify.com/album/3VtIGdxVwjhIA3zgP1596R) | 2:55 | 2025-07-25 |  |
+| [Then I Met You](https://open.spotify.com/track/3FyvD6sx4OX2uIUUGsxIxU) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Then I Met You](https://open.spotify.com/album/62obecHMJmWIs8hcgnXN30) | 2:06 | 2026-02-07 |  |
 | [These City Streets](https://open.spotify.com/track/3ZocmxFRkWcx2hLp0hce18) | [VaterSon](https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl) | [These City Streets](https://open.spotify.com/album/2tnlxcijFM3RZP3yj2sGqE) | 4:48 | 2026-01-22 |  |
 | [These Feelings](https://open.spotify.com/track/5BhNXyU0kNXYNcjebP3muf) | [Izira Burley](https://open.spotify.com/artist/645jCEvLMhWSdTLi7nXYyG) | [These Feelings](https://open.spotify.com/album/5PDnq0bBl8a7qp9KqiBFmJ) | 6:00 | 2024-11-21 |  |
 | [These Nights](https://open.spotify.com/track/0TpWV21JNSsTel3YnECbyM) | [Nick Lusk](https://open.spotify.com/artist/5R1WTh4MvuD9Fg0p8kC3Yt) | [These Nights](https://open.spotify.com/album/6LOiqUKpIv1vPB3fgyIvEC) | 2:58 | 2025-04-04 |  |

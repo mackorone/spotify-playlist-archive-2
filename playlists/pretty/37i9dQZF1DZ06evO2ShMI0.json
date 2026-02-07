@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 206981,
+  "num_followers": 207013,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAAP/NOHvjwpE/PUA0HilIOC",
+  "snapshot_id": "aYPdgAAAAABnEda6cmd2meI3tDTOIVe+",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 355293,
-      "name": "Lamento Boliviano - En Vivo",
-      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planetario",
         "url": "https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 241440,
       "name": "Tibio Corazon",
       "url": "https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 355293,
+      "name": "Lamento Boliviano - En Vivo",
+      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "added_at": null,

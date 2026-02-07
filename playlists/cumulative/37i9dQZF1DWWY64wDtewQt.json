@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "ACIDO III",
+        "url": "https://open.spotify.com/album/5xKDwnwKEgP3tvBAjq581C"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        },
+        {
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93918,
+      "name": "ACIDO III - Slowed",
+      "url": "https://open.spotify.com/track/0GecnrwlbhYKU0occvdJPs"
+    },
+    {
+      "album": {
         "name": "ADRENALIN",
         "url": "https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 70704,
       "name": "AUTOMOTIVO PA PA PAPAI - Slowed",
       "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 90461,
       "name": "DRESS!",
       "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
@@ -6654,6 +6676,24 @@
       "duration_ms": 150000,
       "name": "GODZILLA",
       "url": "https://open.spotify.com/track/04PQ6RwQZWdbdT72qdcsoA"
+    },
+    {
+      "album": {
+        "name": "GOZALO",
+        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120263,
+      "name": "GOZALO - Slowed",
+      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
     },
     {
       "album": {
@@ -13236,7 +13276,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -13492,6 +13532,28 @@
       "duration_ms": 145055,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/2AeJCvSLJQLWkEMxnI3jna"
+    },
+    {
+      "album": {
+        "name": "REVENGE !",
+        "url": "https://open.spotify.com/album/1N1ScAffPK3WNEQrHPOzAf"
+      },
+      "artists": [
+        {
+          "name": "1HXSX",
+          "url": "https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY"
+        },
+        {
+          "name": "wnorg17",
+          "url": "https://open.spotify.com/artist/65cjg9X9Ie37SCH9Gz5ddq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "REVENGE - Super Slowed",
+      "url": "https://open.spotify.com/track/3ZEUbnmVPwGRhLm28QzXkI"
     },
     {
       "album": {
@@ -14220,7 +14282,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 124000,
       "name": "SEMPERO - Slowed",
       "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
@@ -15864,6 +15926,24 @@
       "duration_ms": 184000,
       "name": "THUNDERSTRIKE",
       "url": "https://open.spotify.com/track/5D8MCa8Q05Urj343Hci4eq"
+    },
+    {
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
       "album": {

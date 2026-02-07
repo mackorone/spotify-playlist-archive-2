@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-31",
-  "description": "Congratulations to all the nominees for Best New Artist!",
+  "description": "Watch exclusive live performances from Spotify's Best New Artist Party. Music Videos only available on premium.",
   "name": "Best New Artist",
   "tracks": [
     {
@@ -92,10 +92,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
+        "name": "back to friends (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/55EiSSdCOYFHHXlUm4EuvY"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "back to friends (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/7hnRwuDI4sYRgMyFAlMLDF"
     },
     {
       "album": {
@@ -233,6 +251,24 @@
     },
     {
       "album": {
+        "name": "d\u00a3aler (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/0v5PNBzVwh0Vs5LhEMmEL3"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167926,
+      "name": "d\u00a3aler (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/0mk2VyfCAbap4u8iotd8f3"
+    },
+    {
+      "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
       },
@@ -302,10 +338,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
+    },
+    {
+      "album": {
+        "name": "Gnarly (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137812,
+      "name": "Gnarly (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr"
     },
     {
       "album": {
@@ -518,10 +572,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
+        "name": "Man I Need (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/5Bt2zqIvQ5BtgoLrKjcyI6"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183775,
+      "name": "Man I Need (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/2UaHy96emBz85rYljZTs8S"
     },
     {
       "album": {
@@ -673,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Nobody New (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/1tnlXVfwlzZhid6TTM1vyr"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257429,
+      "name": "Nobody New (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/5W24RsurxAxgj1Nmj6fzPe"
+    },
+    {
+      "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
       },
@@ -702,7 +792,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
@@ -738,10 +828,28 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "album": {
+        "name": "Ordinary (Live) | Spotify Best New Artist",
+        "url": "https://open.spotify.com/album/3UaeDahMnSx1tUbZ7uHWT1"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197952,
+      "name": "Ordinary (Live) | Spotify Best New Artist",
+      "url": "https://open.spotify.com/track/6mfQp9SPJiqb3PItp7cIMl"
     },
     {
       "album": {

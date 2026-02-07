@@ -2,7 +2,7 @@
 
 ### [90s Party](https://open.spotify.com/playlist/37i9dQZF1DXdo6A3mWpdWx)
 
-> The biggest party hits of the 1990s\. Cover: Aqua.
+> The biggest party hits of the 1990s\. Cover: Jennifer Lopez.
 
 364 songs - 1 day 0 hr 52 min
 
@@ -198,7 +198,7 @@
 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2021-03-22 |  |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2021-03-22 | 2024-04-19 |
 | [Let's Get Loud](https://open.spotify.com/track/0OKA2QqBb0vkRrVFTWnayY) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Latin Explosion](https://open.spotify.com/album/5c1ctCLSuIaFvPNPAzlyLI) | 4:00 | 2022-10-11 | 2022-11-13 |
-| [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-03-22 | 2026-02-06 |
+| [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 | 2021-03-22 |  |
 | [Lets Get Ready to Rhumble](https://open.spotify.com/track/5yIDhiIA3rjYBaApHcwlDV) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB) | [Psyche](https://open.spotify.com/album/07XYnWqfJDXe0X5CJYDkCO) | 3:58 | 2021-09-08 | 2022-07-27 |
 | [Life \- Radio Edit](https://open.spotify.com/track/42MOQv8uspw7Jt6XSujAm7) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [The Album](https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC) | 4:17 | 2021-09-08 | 2022-05-29 |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2021-03-22 |  |
@@ -226,7 +226,7 @@
 | [My Lovin' \(You're Never Gonna Get It\)](https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 4:41 | 2022-02-23 |  |
 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3CiM7fBGbaP6jiyuH2Ot4j) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Natural \(Eastwest Release\)](https://open.spotify.com/album/6nURVXyllcTUxC0u8pzsOf) | 3:37 | 2021-03-22 | 2022-07-29 |
 | [Mysterious Times](https://open.spotify.com/track/3w6BcLgFqVSOK8RnV4k7Cd) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Tina Cousins](https://open.spotify.com/artist/2uhEmRPgI5Ppg2T3o8VP31) | [Life Goes On](https://open.spotify.com/album/2ANQ6hLrvOnhRUQEmMsjLi) | 3:41 | 2021-09-08 | 2022-07-29 |
-| [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 | 2021-09-08 |  |
+| [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 | 2021-09-08 | 2026-02-07 |
 | [Never Let Her Slip Away \- Essential Edit](https://open.spotify.com/track/7qW3zwIxGaE4LJfYJpaGjp) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Check Out The Groove](https://open.spotify.com/album/6OTuDBUEkoGfEYdpYr3odK) | 3:32 | 2021-09-08 | 2022-07-29 |
 | [No Coke](https://open.spotify.com/track/4KvN4AOTLyqXytmERRTp8c) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [Hello Afrika](https://open.spotify.com/album/0kId4xyCXqT4gESHyoh70G) | 6:41 | 2022-10-11 | 2023-11-11 |
 | [No Coke](https://open.spotify.com/track/4zPJXluWPGkIZLEQ5JK6aD) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [Hello Afrika](https://open.spotify.com/album/72DHaATEQHEHsrIX7nyd1t) | 6:41 | 2022-10-11 | 2023-12-24 |

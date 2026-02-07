@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Dylan Sinclair",
+  "description": "R&B of the moment by the artists of the future. Cover: RAAHiiM",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -520,6 +520,24 @@
       "duration_ms": 168928,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
+    },
+    {
+      "album": {
+        "name": "PRAY FOR ME",
+        "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195687,
+      "name": "96 Camry",
+      "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
     },
     {
       "album": {
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 144250,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 247114,
       "name": "Anything 4 U",
       "url": "https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 127297,
       "name": "awake",
       "url": "https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB"
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 175080,
       "name": "Bettadaze",
       "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205028,
       "name": "Catching Feelings",
       "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
@@ -5744,7 +5762,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 107131,
       "name": "Collection",
       "url": "https://open.spotify.com/track/0qz1gbRqO1YP4hE3Aaq3RD"
@@ -8078,7 +8096,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204580,
       "name": "DRIVE ME CRAZY",
       "url": "https://open.spotify.com/track/1fXFSgHDXwt7nk1rXbssG1"
@@ -9172,7 +9190,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 160000,
       "name": "Falling Off",
       "url": "https://open.spotify.com/track/5i6sfCzHacfBEdLPzFjgiy"
@@ -9730,7 +9748,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179715,
       "name": "Fill My Lungs",
       "url": "https://open.spotify.com/track/78oqhGj8IlNtGoxOODDfiP"
@@ -10452,7 +10470,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166360,
       "name": "Freakie",
       "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
@@ -13350,7 +13368,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159408,
       "name": "I get u bby",
       "url": "https://open.spotify.com/track/0NwpFfqxAOvGDodAAZgEf5"
@@ -13372,7 +13390,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183176,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/1ArttydEA3A8dNa28t0Oj6"
@@ -13870,6 +13888,24 @@
       "duration_ms": 241920,
       "name": "ICU",
       "url": "https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl"
+    },
+    {
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "album": {
@@ -19397,6 +19433,24 @@
     },
     {
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/2fyeGCncCmMTDjbjxWOag9"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152020,
+      "name": "No Sikes, No Tradesies",
+      "url": "https://open.spotify.com/track/2jxhMpIYepmo5asrPxTOcQ"
+    },
+    {
+      "album": {
         "name": "ULTRA",
         "url": "https://open.spotify.com/album/5RVCEBzJf14dJzY8Avz8yk"
       },
@@ -19924,7 +19978,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129850,
       "name": "Oakland Baby",
       "url": "https://open.spotify.com/track/1eCmhxAjTh2tJgyT9wntHL"
@@ -20670,6 +20724,24 @@
       "duration_ms": 155530,
       "name": "Options",
       "url": "https://open.spotify.com/track/0DW2oDjvCpHYWAGPboo3jr"
+    },
+    {
+      "album": {
+        "name": "Ordinary Feelings",
+        "url": "https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Ordinary Feelings",
+      "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
     },
     {
       "album": {
@@ -22351,6 +22423,28 @@
     },
     {
       "album": {
+        "name": "Racing - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/57lI0Xm6BW9HsreBu9Grv9"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238131,
+      "name": "Racing - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2nR12FGffvDVUcPvq46bB4"
+    },
+    {
+      "album": {
         "name": "Racing Home",
         "url": "https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi"
       },
@@ -23600,7 +23694,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192599,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/6rNqibiTywzcBLCwBM0z3z"
@@ -24018,7 +24112,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 226166,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
@@ -25341,6 +25435,24 @@
     },
     {
       "album": {
+        "name": "ijan",
+        "url": "https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1"
+      },
+      "artists": [
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "somewhere in the world",
+      "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
+    },
+    {
+      "album": {
         "name": "Entries",
         "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
       },
@@ -25876,7 +25988,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 180312,
       "name": "Sticky Situation",
       "url": "https://open.spotify.com/track/7qlcQJxJHg9qC1Trq93rPA"
@@ -25988,7 +26100,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
@@ -26078,7 +26190,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 122427,
       "name": "strip",
       "url": "https://open.spotify.com/track/2S8fy8xhBLcgbOq1TMGbwd"
@@ -26154,7 +26266,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 154029,
       "name": "Studio Rat",
       "url": "https://open.spotify.com/track/6rYsXWll1q7YDfen5cm5Vq"
@@ -29090,7 +29202,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 257786,
       "name": "Uneven",
       "url": "https://open.spotify.com/track/11qmyAOH8ZcVjzgCu0UqGx"
@@ -29550,7 +29662,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 186890,
       "name": "Wamu",
       "url": "https://open.spotify.com/track/1SKKJYMiJpZ6y67BC7sPXp"
@@ -30451,6 +30563,24 @@
     },
     {
       "album": {
+        "name": "Who's Better",
+        "url": "https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174757,
+      "name": "Who\u2019s Better",
+      "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
+    },
+    {
+      "album": {
         "name": "Love Station",
         "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
       },
@@ -30814,7 +30944,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140751,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY"

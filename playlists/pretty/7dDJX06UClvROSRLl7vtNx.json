@@ -1,12 +1,12 @@
 {
   "description": "Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 103237,
+  "num_followers": 103255,
   "original_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABP2HSW+SxjhziVR0xVJZx5MP368KzF",
+  "snapshot_id": "AABP2/pHT9o0oAzKjBCrl8v19bj9mz+n",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -867,6 +867,26 @@
       "duration_ms": 167142,
       "name": "Take Me Somewhere (Warm)",
       "url": "https://open.spotify.com/track/5LpFSrFNgTFFi5LRKiUF03"
+    },
+    {
+      "added_at": "2026-02-06 19:55:52",
+      "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/6tQx6ggWUu7F4e9IWsAsrS"
+      },
+      "artists": [
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "duration_ms": 141052,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/0nVVyZQDvNX303LqKibo8i"
     },
     {
       "added_at": "2024-05-14 21:31:38",
@@ -4401,26 +4421,6 @@
       "url": "https://open.spotify.com/track/68gqfdmUcUNMRINRYMxUd0"
     },
     {
-      "added_at": "2026-01-02 23:21:24",
-      "album": {
-        "name": "Following The Sun",
-        "url": "https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        },
-        {
-          "name": "NEEKA",
-          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Following The Sun",
-      "url": "https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs"
-    },
-    {
       "added_at": "2026-02-03 23:29:21",
       "album": {
         "name": "Still Beats For You",
@@ -4443,6 +4443,26 @@
       "duration_ms": 123076,
       "name": "Still Beats For You",
       "url": "https://open.spotify.com/track/76YRDMjSMpiQMOlYzUuoqW"
+    },
+    {
+      "added_at": "2026-01-02 23:21:24",
+      "album": {
+        "name": "Following The Sun",
+        "url": "https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Following The Sun",
+      "url": "https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs"
     }
   ],
   "unique_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",

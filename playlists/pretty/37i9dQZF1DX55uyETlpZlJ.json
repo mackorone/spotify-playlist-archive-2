@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sumedh K",
-  "num_followers": 26119,
+  "num_followers": 26127,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIT+CysLDWw/H8W3Zq+V9nIg4yNa",
+  "snapshot_id": "AAAAAKscH2vSV7GU57aspTcQZ7u7NSTB",
   "tracks": [
     {
       "added_at": "2026-02-02 06:54:08",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/1CQ7sRQeHw1xIzLSOkGXHn"
     },
     {
+      "added_at": "2026-02-06 13:55:11",
+      "album": {
+        "name": "Awat Iwat",
+        "url": "https://open.spotify.com/album/7pkcKP6W4jd7n2hWLelkv4"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "duration_ms": 173674,
+      "name": "Awat Iwat",
+      "url": "https://open.spotify.com/track/4JJ3C6fTzrcMk5b4E0ovjB"
+    },
+    {
       "added_at": "2026-01-30 08:54:06",
       "album": {
         "name": "Marujanma",
@@ -43,6 +59,46 @@
       "duration_ms": 148961,
       "name": "Marujanma",
       "url": "https://open.spotify.com/track/3XMwWPK24jpdSQqntn3Vj4"
+    },
+    {
+      "added_at": "2026-02-06 13:55:11",
+      "album": {
+        "name": "Dil Anthaithi Jal Anthaithi",
+        "url": "https://open.spotify.com/album/2rcwDU6LsrbYGqG7FOsD1Z"
+      },
+      "artists": [
+        {
+          "name": "Ravi Bajantri",
+          "url": "https://open.spotify.com/artist/31eOltgNJ4EVNKKuM1ehM7"
+        },
+        {
+          "name": "Rizwana",
+          "url": "https://open.spotify.com/artist/2uRrnf9nsjU1VQSTk6AtaQ"
+        }
+      ],
+      "duration_ms": 189874,
+      "name": "Dil Anthaithi Jal Anthaithi",
+      "url": "https://open.spotify.com/track/3LJCdvyikzVnnsoWnn6Aql"
+    },
+    {
+      "added_at": "2026-02-06 13:55:59",
+      "album": {
+        "name": "Baanancha Daati",
+        "url": "https://open.spotify.com/album/0Hw6G4xkJk6kV1uUYdV6Ye"
+      },
+      "artists": [
+        {
+          "name": "Narayan Sharma",
+          "url": "https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP"
+        },
+        {
+          "name": "Sumedh K",
+          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Baanancha Daati",
+      "url": "https://open.spotify.com/track/3iaNuA2lJwM4fE66tnDEEU"
     },
     {
       "added_at": "2026-01-28 14:39:06",
@@ -63,6 +119,26 @@
       "duration_ms": 148796,
       "name": "Hey Nanna Jeeva",
       "url": "https://open.spotify.com/track/6Cv3CSs5W7CvP3V4BHcJgQ"
+    },
+    {
+      "added_at": "2026-02-06 13:53:27",
+      "album": {
+        "name": "Nanu Ninna Gungalle",
+        "url": "https://open.spotify.com/album/6Fgm8pw8QSsYfZeaV3jLCR"
+      },
+      "artists": [
+        {
+          "name": "Haston Rodrigues",
+          "url": "https://open.spotify.com/artist/069pd0XzR1dBt9JsBWEZ7W"
+        },
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 144812,
+      "name": "Nanu Ninna Gungalle",
+      "url": "https://open.spotify.com/track/3A1SlGPj1dd5AWHyUYOKhx"
     },
     {
       "added_at": "2026-01-15 13:27:01",
@@ -87,6 +163,22 @@
       "duration_ms": 323000,
       "name": "Khushi",
       "url": "https://open.spotify.com/track/7cd8f7AqLjP6v47ZQNRJxV"
+    },
+    {
+      "added_at": "2026-02-06 13:52:39",
+      "album": {
+        "name": "Biddiyabbe Hudugi",
+        "url": "https://open.spotify.com/album/0WRoTyJwEgkaBF3BVgqsrv"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        }
+      ],
+      "duration_ms": 158582,
+      "name": "Biddiyabbe Hudugi",
+      "url": "https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr"
     },
     {
       "added_at": "2025-11-10 08:39:03",
@@ -1257,42 +1349,6 @@
       "url": "https://open.spotify.com/track/0xzFjj7PUkSrtDRPOIYsjl"
     },
     {
-      "added_at": "2025-06-24 04:48:26",
-      "album": {
-        "name": "Gaanji",
-        "url": "https://open.spotify.com/album/2GClnG0LY6hIqv3CmLMznO"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Gaanji",
-      "url": "https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87"
-    },
-    {
-      "added_at": "2025-09-15 06:42:11",
-      "album": {
-        "name": "Ond Dina",
-        "url": "https://open.spotify.com/album/2En6iZgolhowKR7U7KuwR7"
-      },
-      "artists": [
-        {
-          "name": "Mohith Gowda",
-          "url": "https://open.spotify.com/artist/2DAJsSSNE1YOAW5GB42RuJ"
-        },
-        {
-          "name": "Nithin Kumar",
-          "url": "https://open.spotify.com/artist/07DcBxw1rbEnGlJjMEsC4P"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Ond Dina",
-      "url": "https://open.spotify.com/track/6N1Va8bl7Dpt0Y23GOR0z3"
-    },
-    {
       "added_at": "2025-09-15 06:41:40",
       "album": {
         "name": "Jeevada Gelathiye (Love Anthem) (From \"Timepass\")",
@@ -1315,50 +1371,6 @@
       "duration_ms": 191301,
       "name": "Jeevada Gelathiye (Love Anthem) (From \"Timepass\")",
       "url": "https://open.spotify.com/track/5AT4QCATMnz2lNkbEbDQqB"
-    },
-    {
-      "added_at": "2025-09-15 06:42:48",
-      "album": {
-        "name": "Ee Gungalli",
-        "url": "https://open.spotify.com/album/7GNN2ddgGwGIe1KU5D0CwD"
-      },
-      "artists": [
-        {
-          "name": "Dr Nithin S",
-          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
-        },
-        {
-          "name": "Nishan S",
-          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Ee Gungalli",
-      "url": "https://open.spotify.com/track/20FyYI3BKbdMQiWnUceUdF"
-    },
-    {
-      "added_at": "2025-09-09 10:04:56",
-      "album": {
-        "name": "Yuva Sambhrama",
-        "url": "https://open.spotify.com/album/6PzxSApJvoUrvoGq4A7cqe"
-      },
-      "artists": [
-        {
-          "name": "P. Neethu Ninaad",
-          "url": "https://open.spotify.com/artist/5PGPXV2zwP3FiE4Ara6bB8"
-        },
-        {
-          "name": "Somashekhar G. S.",
-          "url": "https://open.spotify.com/artist/3SPzAYByqDjVRy9NRbJ3XY"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Yuva Sambhrama",
-      "url": "https://open.spotify.com/track/48cN3waamNlLU3i0089NkQ"
     },
     {
       "added_at": "2025-09-06 04:54:58",
@@ -1427,26 +1439,6 @@
       "duration_ms": 264229,
       "name": "Pappi Kodabek Anisaithi",
       "url": "https://open.spotify.com/track/1a67KzJ30F9KW1Zxaljoxs"
-    },
-    {
-      "added_at": "2025-08-11 06:17:14",
-      "album": {
-        "name": "Usiru",
-        "url": "https://open.spotify.com/album/39xAAG1JJjPzXug1Zj5LHy"
-      },
-      "artists": [
-        {
-          "name": "Nithish O K",
-          "url": "https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78"
-        },
-        {
-          "name": "Sanoop Kumar",
-          "url": "https://open.spotify.com/artist/3wRgagXI2E8pvzksuf9TTx"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Usiru",
-      "url": "https://open.spotify.com/track/2Z5RYeUKMb7hQt4YWNiBq4"
     },
     {
       "added_at": "2025-08-11 06:50:52",

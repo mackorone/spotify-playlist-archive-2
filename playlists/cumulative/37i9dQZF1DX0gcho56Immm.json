@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: PVA",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Sassy 009",
   "name": "Cph+",
   "tracks": [
     {
@@ -118,6 +118,28 @@
       "duration_ms": 217066,
       "name": "A thousand lies - Fine EDIT",
       "url": "https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS"
+    },
+    {
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "A Thousand Steps",
+      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
     },
     {
       "album": {
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 396550,
       "name": "Ethereal Security Guard",
       "url": "https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp"
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 126000,
       "name": "hello hello",
       "url": "https://open.spotify.com/track/6xl7k4T3EJGtzrCom3hBVT"
@@ -2236,6 +2258,24 @@
       "duration_ms": 256217,
       "name": "Lay down",
       "url": "https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO"
+    },
+    {
+      "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147195,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1awTFbIlHiDAviFFW3hJ7m"
     },
     {
       "album": {
@@ -2811,6 +2851,32 @@
     },
     {
       "album": {
+        "name": "Oscillate",
+        "url": "https://open.spotify.com/album/4MBW1DczWB3jKb0pcdUosd"
+      },
+      "artists": [
+        {
+          "name": "Niko Demus",
+          "url": "https://open.spotify.com/artist/1tzCwHckFepdUWpH3WxFXD"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        },
+        {
+          "name": "MFM",
+          "url": "https://open.spotify.com/artist/5xvA0mjmeF1CxB12bjWR8l"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250714,
+      "name": "Oscillate",
+      "url": "https://open.spotify.com/track/7MvbfqjUGQAjlLRGVxxBFs"
+    },
+    {
+      "album": {
         "name": "Desert Window",
         "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
       },
@@ -3354,7 +3420,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 150500,
       "name": "Sober Love",
       "url": "https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK"
@@ -3560,7 +3626,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 215861,
       "name": "Stranglers",
       "url": "https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE"

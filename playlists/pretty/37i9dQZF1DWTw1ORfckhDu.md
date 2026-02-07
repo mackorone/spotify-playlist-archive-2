@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,840 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,833 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 30 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
 | 31 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
 | 32 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 |
-| 33 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 |
-| 34 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |
+| 33 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |
+| 34 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 |
 | 35 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
 | 36 | [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 |
 | 37 | [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 |
-| 38 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
-| 39 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
+| 38 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
+| 39 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
 | 40 | [Syypää sun hymyyn \- Unitas Sigma](https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:52 |
 | 41 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 42 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 |

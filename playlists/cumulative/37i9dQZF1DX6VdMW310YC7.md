@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,861 songs - 5 day 6 hr 27 min
+1,862 songs - 5 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,7 +873,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/54lEP2AiBdnVrqh49PoUqN) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Sea Monster](https://open.spotify.com/album/13N9WZkBPSuQYXKKkSN9Ud) | 3:46 | 2020-08-06 | 2020-10-09 |
 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 | 2022-10-24 | 2023-04-29 |
 | [Kaleidoscope Colours \- Fejká Remix](https://open.spotify.com/track/5rWRtUt00uxitABP3ZYDC4) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Kaleidoscope Colours \(Fejká Remix\)](https://open.spotify.com/album/1xdRo1G11xXRjIzGjLQCTu) | 5:22 | 2023-10-20 | 2023-11-11 |
-| [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 | 2026-01-16 |  |
+| [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 | 2026-01-16 | 2026-02-07 |
 | [Kami](https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Kami EP](https://open.spotify.com/album/5AYtQB9ctK389PKxcDLIMZ) | 5:15 | 2022-07-08 | 2022-08-22 |
 | [Karabali](https://open.spotify.com/track/1hSjdeo8nyWJZO5nBO7rVC) | [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj), [Isis "Apache" Montero](https://open.spotify.com/artist/6bYazLdY9FOXMKqiJpP8yA), [Roque Martinez](https://open.spotify.com/artist/6LcN8OnXsB9BD3j58iDKKT) | [Afroterraneo](https://open.spotify.com/album/4BpBqfC0qi6MaB3l96QBo4) | 7:05 | 2020-05-22 | 2020-10-09 |
 | [Kasoto \(feat\. Jo Jo Mendy\)](https://open.spotify.com/track/5Utktu0IFcGXXtIlky7ObZ) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Jo Jo Mendy](https://open.spotify.com/artist/23GwAF5aZwBDyis1Hnh6mg) | [Into Daylight](https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l) | 4:30 | 2020-08-20 | 2020-10-09 |
@@ -1661,6 +1661,7 @@
 | [This Could Be \- Chill Mix](https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [This Could Be \(Chill Mix\)](https://open.spotify.com/album/1EePdJthRN92skeHT0hzev) | 2:58 | 2020-11-20 | 2022-09-22 |
 | [This Is It](https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Frida Sundemo](https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY) | [This Is It](https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z) | 4:23 | 2024-03-22 | 2024-06-08 |
 | [This Is Love](https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [This Is Love](https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS) | 3:35 | 2024-03-29 | 2025-06-01 |
+| [This Is Our Life](https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [This Is Our Life](https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL) | 4:28 | 2026-02-06 |  |
 | [This Place](https://open.spotify.com/track/73mS0eZixX8WFFMuKZ1iH1) | [obylx](https://open.spotify.com/artist/3oB2U9OWSyEKuSve5KNgyx) | [This Place](https://open.spotify.com/album/6cGZGCXTRVpc4Tbe9BbwBq) | 3:40 | 2020-03-17 | 2021-01-11 |
 | [This Time \- Four Tet Remix](https://open.spotify.com/track/1x62N4B6k427U5Oj2aFxRY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [This Time \(Four Tet Remix\)](https://open.spotify.com/album/0GY2LOgXecSnpqFTLxnmhb) | 4:20 | 2022-08-26 | 2022-09-10 |
 | [This World](https://open.spotify.com/track/00p8qNEetqyyT1A61Kc5I2) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [This World](https://open.spotify.com/album/6rY1N1eCW1ZgwN6x0uqyfb) | 3:14 | 2021-12-17 | 2022-03-26 |

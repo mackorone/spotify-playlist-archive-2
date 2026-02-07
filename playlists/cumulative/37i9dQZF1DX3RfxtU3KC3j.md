@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Deniz Mert x Batu Akdeniz
 
-633 songs - 1 day 12 hr 15 min
+634 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [İyi Böyle](https://open.spotify.com/track/6bOepoWGi8psgbPDmMq0tF) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Hayali](https://open.spotify.com/album/0mtiJQ5cGF0uZBVw4euHzU) | 4:57 | 2024-06-28 | 2025-02-07 |
 | [İçimde Aşk Var](https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [İçimde Aşk Var](https://open.spotify.com/album/0LdGyfUXeGIe39klUkXU22) | 4:26 | 2024-08-29 | 2024-12-20 |
 | [İçimde Bir Olmaz Var](https://open.spotify.com/track/1Lnw2VA6nXBZLeaUhJLhnJ) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [İçimde Bir Olmaz Var](https://open.spotify.com/album/2jXHuN6jpXkvRY8NZrqFCU) | 3:12 | 2024-07-04 | 2024-08-30 |
+| [İÇİME SENİ ÇEKERİM](https://open.spotify.com/track/2c9GmMamgZ1ui0DSplVzzs) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH) | [İÇİME SENİ ÇEKERİM](https://open.spotify.com/album/1RsN3pk6yABfkTHlKft4cG) | 3:35 | 2026-02-06 |  |
 | [Kabulsüz](https://open.spotify.com/track/4pxtRPMJk4O94lBC37gWUF) | [İsa Özkocaman](https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ) | [Kabulsüz](https://open.spotify.com/album/7HtOssAMWl2RhItlwGAqpq) | 3:02 | 2025-09-12 | 2025-10-03 |
 | [Kaderimiz Aynı](https://open.spotify.com/track/4zJNE1GD0Xl1HOGo932md8) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Kaderimiz Aynı](https://open.spotify.com/album/41pLi7pHVSpEI4ht0zKwFr) | 3:15 | 2025-09-04 | 2025-10-10 |
 | [Kafamın İçinde Aynı Rüya](https://open.spotify.com/track/4ckSJCS3KKU7mvxy0YyBww) | [Şort](https://open.spotify.com/artist/53aZkPw3Pn5P7wVmuB9iS3) | [Kafamın İçinde Aynı Rüya](https://open.spotify.com/album/5C2XTdsGFUFh4m9Kg093ym) | 2:30 | 2025-09-12 | 2025-10-01 |
@@ -381,6 +382,7 @@
 | [MECBURUM](https://open.spotify.com/track/3sAwWq40uK8QB5q1zKBHi5) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [MECBURUM](https://open.spotify.com/album/5EVIcgxL3scIIUTvsZVUtj) | 2:48 | 2025-03-06 | 2025-08-22 |
 | [Melek](https://open.spotify.com/track/70DXE9oeZyyaEHSe7pdPDO) | [Kristal Kit](https://open.spotify.com/artist/4wvDdtaKCBY7g9hF8aZo7N) | [Melek](https://open.spotify.com/album/4qGPxlR2XYCktE8qbpk15b) | 3:03 | 2025-09-12 | 2025-10-10 |
 | [Merhabalar](https://open.spotify.com/track/6wwsGEHWTRtYaDOsAbq002) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Yeni Anadolu](https://open.spotify.com/album/6wW21mPWq2zMPdR1cKZS2P) | 5:22 | 2024-06-28 | 2024-10-23 |
+| [Mizantrop](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Mizantrop](https://open.spotify.com/album/7C0Jr61asVHUd9lZVGlTGj) | 3:42 | 2026-02-05 |  |
 | [Modern İnsanlarız](https://open.spotify.com/track/6kEMFpocQgnUC8MXd6rc35) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Modern İnsanlarız](https://open.spotify.com/album/558LMka02jpf9BWupdd0aU) | 3:28 | 2025-03-06 | 2025-04-11 |
 | [Mutlu Taklidi](https://open.spotify.com/track/0oJguEIl9C3vNOkYOxvYc0) | [Can Temiz](https://open.spotify.com/artist/05iWQOypkDrzS7Udolm0gI) | [Yerin Dibi Göğün Sonunda](https://open.spotify.com/album/6ziyaPLRXLm9PcZdTR8xSH) | 4:34 | 2024-06-28 | 2024-10-04 |
 | [N'olur Dur](https://open.spotify.com/track/5lu93iq1RkkyiiXh2vJ3Vy) | [Mert Nadir](https://open.spotify.com/artist/30iUiyRwy0msR9kSZ3rmRU) | [N'olur Dur](https://open.spotify.com/album/25z9SkY1gDzIkQ1i6rIM2J) | 3:16 | 2025-12-04 | 2025-12-26 |
@@ -477,7 +479,7 @@
 | [Son Kalan Sevgi](https://open.spotify.com/track/79ACxIaSx19G4U7IxCGswo) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ) | [Son Kalan Sevgi](https://open.spotify.com/album/1i4R0hL5WBawbOJJzWskTF) | 4:11 | 2025-11-06 | 2026-01-16 |
 | [Son Kez](https://open.spotify.com/track/6Z2TIB0ouqhkVRoCIAkQoL) | [Anıl Selvi](https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE) | [Son Kez](https://open.spotify.com/album/3rB3Ozi75hDJXmr58HKOVe) | 3:56 | 2025-07-10 | 2025-08-01 |
 | [Son Yalancı](https://open.spotify.com/track/1smzNZCDv6XoVL6di4jnI8) | [emre aydın](https://open.spotify.com/artist/66vIaZFb8okZH0npc4eQ5q) | [Son Yalancı](https://open.spotify.com/album/0cO13pahjDW891lvc8a7Kl) | 3:18 | 2025-06-05 | 2025-06-27 |
-| [Su Gibi](https://open.spotify.com/track/09FRnjhTYt1N5EPh00qlBe) | [Ars Longa](https://open.spotify.com/artist/469bcSDGiMNbVssgFqGMRg) | [Su Gibi](https://open.spotify.com/album/4H7qGEGcnP6KBNxH4TX0vK) | 3:31 | 2026-01-23 |  |
+| [Su Gibi](https://open.spotify.com/track/09FRnjhTYt1N5EPh00qlBe) | [Ars Longa](https://open.spotify.com/artist/469bcSDGiMNbVssgFqGMRg) | [Su Gibi](https://open.spotify.com/album/4H7qGEGcnP6KBNxH4TX0vK) | 3:31 | 2026-01-23 | 2026-02-07 |
 | [Sus](https://open.spotify.com/track/66fIYxjo9FlaRqMXaC5Vwa) | [Sattas](https://open.spotify.com/artist/0VWRXoE547qHGpUemsl1ge) | [Sus](https://open.spotify.com/album/2TtiMvAsbJXGqij4RKldQF) | 3:56 | 2025-05-22 | 2025-06-20 |
 | [Suç Mahalli](https://open.spotify.com/track/7m07vBa3Yu2Wc9h6dPurM5) | [Gece Yolcuları](https://open.spotify.com/artist/21ppfKgGToa81HQE0kET5P) | [Suç Mahalli](https://open.spotify.com/album/0C4odrZOLjimgmEvZRoFn6) | 3:19 | 2025-11-13 | 2025-12-05 |
 | [Suçlusun](https://open.spotify.com/track/1wp9Hb2HPr60upMYMcnRbC) | [Demir Demirkan](https://open.spotify.com/artist/0ONcicRZwAgDDZyeWrLia3) | [Suçlusun](https://open.spotify.com/album/0ZC8oQF1PdCDWI3m7dGHVG) | 5:38 | 2025-04-10 | 2025-08-08 |
@@ -498,7 +500,6 @@
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
 | [Ters Çingene](https://open.spotify.com/track/3YWnLnHWY3ZJQXC2URCuix) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Ters Çingene](https://open.spotify.com/album/06MY2lC2YmcTGWGIs4FvOf) | 4:04 | 2025-11-13 | 2025-12-05 |
 | [Toz Duman \- Rock Version](https://open.spotify.com/track/3ci6hJvT0VlcKDvqgnvEqr) | [Anıl Bektaş](https://open.spotify.com/artist/1MhbXjORYpq5VYTmPRLKMs) | [Toz Duman \(Rock Version\)](https://open.spotify.com/album/28EfENFMKlh1DmKQ1JkyqR) | 4:22 | 2025-12-04 |  |
-| [Track 2](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 | 2025-11-15 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-13 | 2026-02-06 |
 | [Tövbeler Olsun](https://open.spotify.com/track/7MWjzXxPHI3Y4ExcxNbnpk) | [Murat Kekilli](https://open.spotify.com/artist/1av8oluskzg2mOBajdzRI9) | [Tövbeler Olsun](https://open.spotify.com/album/0JIDhXi2fxhFE0azejZLwb) | 3:12 | 2025-10-16 | 2025-11-07 |

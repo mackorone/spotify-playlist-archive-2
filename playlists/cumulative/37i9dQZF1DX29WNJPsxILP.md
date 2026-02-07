@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: OG Lucifer
+> Best of Hindi Hip\-Hop! Cover: Vichaar
 
-307 songs - 15 hr 36 min
+308 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 |  |
 | [Bhala Kyun](https://open.spotify.com/track/0PQCaJpJm0CLEkUW2V0uf2) | [DOTM](https://open.spotify.com/artist/2AL0XQ1mbnWU5xVR6R4KRa) | [Bhala Kyun](https://open.spotify.com/album/4LOMwtCuIoTwddmvBsxta6) | 2:45 | 2025-05-30 |  |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-24 | 2025-01-22 |
-| [Big Stepper](https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Big Stepper](https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y) | 7:54 | 2026-01-02 |  |
+| [Big Stepper](https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Big Stepper](https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y) | 7:54 | 2026-01-02 | 2026-02-07 |
 | [Bigshots](https://open.spotify.com/track/76in3GYb0JA5ix0h8DfuP6) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO) | [Bigshots](https://open.spotify.com/album/3RFwbOZwpFWicFjsJiImUj) | 3:15 | 2025-09-05 | 2025-09-24 |
 | [BLACK MONEY](https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [BLACK MONEY](https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ) | 3:48 | 2025-01-06 |  |
 | [Blessed](https://open.spotify.com/track/4GivXw16d9aVeLbZgrEkIJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Blessed](https://open.spotify.com/album/23IYMJYNH8OYpk8C7kb9zy) | 3:02 | 2025-03-21 | 2025-07-12 |
@@ -174,6 +174,7 @@
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 | 2025-01-07 |
 | [Laapata](https://open.spotify.com/track/0LMteNwmU1fqJMFiCYHpSi) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 4:14 | 2025-01-06 | 2025-05-17 |
 | [Lapata](https://open.spotify.com/track/3kSSWkrIMhhqBJem3DOjmr) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:11 | 2024-08-26 | 2025-05-17 |
+| [Laying Low](https://open.spotify.com/track/1CADvUV2bCufzrTvjNadmF) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [Laying Low](https://open.spotify.com/album/7nQrnBnkXx1BUTM5Qa4te7) | 2:27 | 2026-02-06 |  |
 | [Lena Mera Naam](https://open.spotify.com/track/3O7ZGvPlFyrlZafkVcUDnW) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Lena Mera Naam](https://open.spotify.com/album/5QslV1zMHTGKnVrfckuysx) | 2:18 | 2023-03-10 | 2024-10-02 |
 | [Level Up](https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Level Up](https://open.spotify.com/album/2nCWTEDqE4wUyDPPoSL1p5) | 3:54 | 2023-03-10 | 2023-10-12 |
 | [LIFESTYLE](https://open.spotify.com/track/4jHJq2kE3nqF6djDzeZGFg) | [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [LIFESTYLE](https://open.spotify.com/album/3OVLSxqoWeSoNvW9KVBR25) | 2:41 | 2023-03-10 | 2023-04-22 |

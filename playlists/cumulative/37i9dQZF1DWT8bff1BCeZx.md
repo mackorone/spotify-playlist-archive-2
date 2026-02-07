@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-845 songs - 2 day 7 hr 29 min
+846 songs - 2 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [So Grateful](https://open.spotify.com/track/4kbqk8gpGdGt5L0oNVQ6fS) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Grateful](https://open.spotify.com/album/2s3CMn5sVGIeR4E3gWj2fl) | 2:52 | 2025-06-06 | 2025-09-05 |
 | [Soft](https://open.spotify.com/track/2fUJm3F33vvWrjoCJRi3yY) | [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Soft](https://open.spotify.com/album/17PkT47e5b8gB3GCvW5z4u) | 2:42 | 2025-03-14 | 2025-09-12 |
 | [Soldiers of Christ](https://open.spotify.com/track/0dhRQwIn8BIJhMzG1loHFG) | [Skie Music](https://open.spotify.com/artist/5P4rch630qIMkSGKTlpZlO), [Where Feet Fail](https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq), [Ti’fe](https://open.spotify.com/artist/6ulRI2tQW3DCVCpzZ2rtMX) | [Soldiers of Christ](https://open.spotify.com/album/61KoNY6jzpXCzAuhfcQ4LH) | 2:47 | 2024-08-09 | 2025-02-28 |
+| [Something good has happened](https://open.spotify.com/track/52x2mfyWNnUutPiUAjeWc1) | [REMISSION CHOIR](https://open.spotify.com/artist/7su0qgtlzxcFO2HOAhxF7u) | [Something good has happened](https://open.spotify.com/album/0WhvX648fMjz5H1PbVJBSc) | 2:58 | 2026-02-06 |  |
 | [Somewhere](https://open.spotify.com/track/67GptqaU5DeO2yvz359UKQ) | [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [Somewhere](https://open.spotify.com/album/6tXaKkYgBYcWCUpOyb9yQH) | 2:35 | 2025-09-26 | 2025-10-10 |
 | [Son Of God](https://open.spotify.com/track/7gceIXSetClB9LeVTOmdEy) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Son Of God](https://open.spotify.com/album/2PMaePYmLI7YLYA7wOdUke) | 2:22 | 2025-04-25 | 2025-06-06 |
 | [Song Of My Soul](https://open.spotify.com/track/7wRQktGAKukB8vNxhShnx6) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Song Of My Soul](https://open.spotify.com/album/2i2gd91rUyrkHwiaHGV98g) | 3:31 | 2025-10-10 |  |

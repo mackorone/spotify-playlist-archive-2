@@ -2694,10 +2694,6 @@
           "url": "https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I"
         },
         {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        },
-        {
           "name": "Freezjoe",
           "url": "https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM"
         },
@@ -9130,6 +9126,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "whatchu want",
+        "url": "https://open.spotify.com/album/15wJznFpg1iyZMSGUA6YGo"
+      },
+      "artists": [
+        {
+          "name": "Derkio",
+          "url": "https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118010,
+      "name": "whatchu want",
+      "url": "https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i"
     },
     {
       "album": {

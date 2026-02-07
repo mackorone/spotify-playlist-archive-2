@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "COME GET YOUR GIRL",
+        "url": "https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221812,
+      "name": "COME GET YOUR GIRL",
+      "url": "https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK"
+    },
+    {
+      "album": {
         "name": "Comin'",
         "url": "https://open.spotify.com/album/3NoLzPNXKprTlGRMDUlvHP"
       },
@@ -1310,6 +1328,28 @@
       "duration_ms": 241204,
       "name": "IRS",
       "url": "https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD"
+    },
+    {
+      "album": {
+        "name": "jack of all trades",
+        "url": "https://open.spotify.com/album/5R9GLxQ237gIqXUZRXzyzz"
+      },
+      "artists": [
+        {
+          "name": "scrutch",
+          "url": "https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC"
+        },
+        {
+          "name": "music ZerO",
+          "url": "https://open.spotify.com/artist/6YRV4XG1UsZxRsaC194vAY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157548,
+      "name": "jack of all trades",
+      "url": "https://open.spotify.com/track/2NiFKEDeAhGeJdbjtQVQH6"
     },
     {
       "album": {
@@ -2330,6 +2370,24 @@
       "duration_ms": 236104,
       "name": "Streets",
       "url": "https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1"
+    },
+    {
+      "album": {
+        "name": "Sweet Blue Moon",
+        "url": "https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL"
+      },
+      "artists": [
+        {
+          "name": "Victoria Staff",
+          "url": "https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170951,
+      "name": "Sweet Blue Moon",
+      "url": "https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW"
     },
     {
       "album": {

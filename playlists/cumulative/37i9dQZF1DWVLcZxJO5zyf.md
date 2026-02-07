@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Léo Foguete
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
-452 songs - 21 hr 29 min
+453 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Capa De Revista](https://open.spotify.com/track/0PNwMRlZgwoWVe0idfGQPH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:22 | 2024-12-27 | 2025-06-14 |
 | [Carta Marcada](https://open.spotify.com/track/1Ts6QC1fpuzULRbhFP4rCz) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [As Pequenas Grandes Coisas](https://open.spotify.com/album/2NHq83Hm0jiwfxe4M6yvHL) | 2:34 | 2025-04-25 |  |
 | [Cavalgada](https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Cavalgada](https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ) | 2:01 | 2022-08-26 | 2022-12-24 |
+| [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 | 2026-02-06 |  |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 | 2023-12-01 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-05-18 |
 | [Ciclone](https://open.spotify.com/track/2J4nJffXU569d2ld9yxH6D) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:54 | 2023-08-25 | 2023-10-13 |
@@ -295,7 +296,7 @@
 | [Olho no Gato](https://open.spotify.com/track/6ZwMZUgN277HqoWaSZoFtX) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:39 | 2023-04-28 | 2023-08-19 |
 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 | 2023-09-20 | 2024-06-01 |
 | [Ouro de Tolo](https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 4:56 | 2025-04-01 | 2025-07-22 |
-| [Pacífico](https://open.spotify.com/track/21d3Wn57kL1f7c4ehGL614) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [BAUNILHA](https://open.spotify.com/album/3hheTmYxbjQHeT3i2QPxqr) | 2:56 | 2025-11-28 |  |
+| [Pacífico](https://open.spotify.com/track/21d3Wn57kL1f7c4ehGL614) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [BAUNILHA](https://open.spotify.com/album/3hheTmYxbjQHeT3i2QPxqr) | 2:56 | 2025-11-28 | 2026-02-07 |
 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 | 2022-09-23 | 2022-10-04 |
 | [Para De Dizer Que Não Me Ama \- Ao Vivo](https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Para De Dizer Que Não Me Ama \(Ao Vivo\)](https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC) | 4:50 | 2024-02-23 | 2024-04-27 |
 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-05 |  |

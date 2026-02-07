@@ -3845,8 +3845,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {
@@ -6677,7 +6677,7 @@
     },
     {
       "album": {
-        "name": "OK Rosa Blomst",
+        "name": "Ok rosa blomst",
         "url": "https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH"
       },
       "artists": [
@@ -6694,7 +6694,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167629,
-      "name": "OK Rosa Blomst",
+      "name": "Ok rosa blomst",
       "url": "https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd"
     },
     {
@@ -9204,6 +9204,24 @@
       "duration_ms": 115443,
       "name": "TIME",
       "url": "https://open.spotify.com/track/1RFT0A7lSYgLuFq90bGCqR"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168298,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
     },
     {
       "album": {

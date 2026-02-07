@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15750,
+  "num_followers": 15752,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAADaxYvugbq+PCpNZgq3Zu3O",
+  "snapshot_id": "aYPdgAAAAAA1q0hbZgg+WIvN7NIBNzRE",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano y Mujer",
-        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222598,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 184770,
       "name": "Cuando Te Enamores de M\u00ed",
       "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano y Mujer",
+        "url": "https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 222598,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1QKYuBO7MDcmV9ruzCJTlv"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Amor",
-        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 194118,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 177852,
       "name": "Ladrona (feat. Carolina Mestrovic)",
       "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Amor",
+        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 194118,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236843,
-      "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 268880,
       "name": "Me Va a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236843,
+      "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
     },
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 178225,
       "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204714,
       "name": "Al\u00edviame",
       "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 191080,
       "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
       "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
     },
     {
       "added_at": null,

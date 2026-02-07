@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "RUSH (Blush)",
-        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 242545,
-      "name": "RUSH (Blush)",
-      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 317178,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Kwong",
-        "url": "https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB"
-      },
-      "artists": [
-        {
-          "name": "Knopha",
-          "url": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
-        }
-      ],
-      "duration_ms": 343384,
-      "name": "Corundrum",
-      "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Unsolicited Joints",
-        "url": "https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r"
+        "name": "Kwong",
+        "url": "https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB"
       },
       "artists": [
         {
-          "name": "Unsolicited Joints",
-          "url": "https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB"
+          "name": "Knopha",
+          "url": "https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF"
         }
       ],
-      "duration_ms": 378461,
-      "name": "Joint 2",
-      "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
+      "duration_ms": 343384,
+      "name": "Corundrum",
+      "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 259805,
       "name": "ENCLOSURE",
       "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
+      },
+      "artists": [
+        {
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
+        }
+      ],
+      "duration_ms": 220743,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
     },
     {
       "added_at": "2023-08-31 14:00:00",

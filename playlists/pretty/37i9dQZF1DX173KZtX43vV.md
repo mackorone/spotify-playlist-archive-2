@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Ella Mai
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,370 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,404 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [](https://open.spotify.com/album/null) | 3:43 |
+| 1 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 2 | [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 |
 | 3 | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [ERA](https://open.spotify.com/artist/4Aefs4DWkn6zjggzBiK7Gj) | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/album/07DLX06IuDYwIdrbu0K1bq) | 2:27 |
-| 4 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [](https://open.spotify.com/album/null) | 3:01 |
+| 4 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 5 | [meet and greet.](https://open.spotify.com/track/2rMkZAWKKZA9dljfBW0nRh) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [meet and greet.](https://open.spotify.com/album/50R65o5gbUNXNnwNDSpWh8) | 3:00 |
 | 6 | [NOW OR NEVER II](https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NOW OR NEVER II](https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3) | 2:38 |
 | 7 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
-| 8 | [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [](https://open.spotify.com/album/null) | 3:05 |
+| 8 | [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Yaqeen](https://open.spotify.com/album/6Dfh1h3bNM26MVj9Ou3ekB) | 3:05 |
 | 9 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 10 | [Des mythos](https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Des mythos](https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I) | 2:57 |
 | 11 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 |
-| 12 | [Track 7](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [96 Camry](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [PRAY FOR ME](https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs) | 3:15 |
 | 13 | [Siren Song](https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Siren Song](https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng) | 2:57 |
 | 14 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |
 | 15 | [J\*b](https://open.spotify.com/track/6daan5z4JqVAf0zRBmjXLr) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [J\*b](https://open.spotify.com/album/2O2yplbalROV9h6hXgC8lT) | 1:57 |

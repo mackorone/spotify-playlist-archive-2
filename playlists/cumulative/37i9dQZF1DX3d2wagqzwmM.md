@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: D'Angello & Francis
 
-662 songs - 1 day 9 hr 38 min
+663 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Armageddon](https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Armageddon](https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ) | 2:44 | 2023-01-12 | 2023-03-14 |
 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 | 2024-02-01 | 2024-06-07 |
 | [Attention](https://open.spotify.com/track/33PrROTmibJVlLYO5CZg0E) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Attention](https://open.spotify.com/album/4khR8sOn7QVzXrADwEWKwO) | 2:48 | 2022-12-27 | 2023-01-03 |
+| [Awaken Your Soul](https://open.spotify.com/track/1DP8HnjcWCZN1DNpLtMqKn) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Awaken Your Soul](https://open.spotify.com/album/2bidWTYP4zpoO0pG1jo22f) | 2:52 | 2026-02-05 |  |
 | [Away](https://open.spotify.com/track/0jlOSE3AQyktZ1syrahVxq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Away](https://open.spotify.com/album/7p0C05QUXFD5TaJjA029Gn) | 3:05 | 2022-04-14 | 2022-06-24 |
 | [Axel F](https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Axel F](https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6) | 2:28 | 2024-07-25 | 2026-01-31 |
 | [Baby, We Go Fast](https://open.spotify.com/track/5zAD7yXhRIun5y9SJ3O4Ec) | [KROMI](https://open.spotify.com/artist/554qDHSwsDfX0qOfyxQjWs) | [Baby, We Go Fast](https://open.spotify.com/album/6SodAOzVREjC27qIMnPlTB) | 3:30 | 2024-01-25 | 2024-02-16 |
@@ -210,7 +211,7 @@
 | [Funky Town](https://open.spotify.com/track/4A7aOnpjE4yytIbXTg6BxT) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Maurice West](https://open.spotify.com/artist/1qF8DC6uIBjskqP0hyw1Gk) | [Funky Town](https://open.spotify.com/album/6oiwGJoWZv4EX7wknq8MyA) | 2:48 | 2022-04-14 | 2022-12-02 |
 | [Future Rave Is Now](https://open.spotify.com/track/5phqs1kTBLOWhG7FD3MVDv) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Future Rave Is Now](https://open.spotify.com/album/05GxrCfoBcSwBNeiDO0tEm) | 4:40 | 2023-01-19 | 2023-03-19 |
 | [Gargantua](https://open.spotify.com/track/1LiErV7U8q381wvwZYQevL) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Gargantua](https://open.spotify.com/album/4bJeoEg11UbeqMYE9thxb2) | 3:48 | 2022-04-14 | 2022-09-26 |
-| [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 | 2024-10-10 |  |
+| [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 | 2024-10-10 | 2026-02-07 |
 | [Get Dirty](https://open.spotify.com/track/5OLlIdE9oG9dxFz8UZ8d9X) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Get Dirty](https://open.spotify.com/album/3mQqQhb7Mw6PVx4dvX921P) | 3:01 | 2022-04-14 | 2022-08-22 |
 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 | 2025-10-13 | 2026-01-15 |
 | [Get Get Down](https://open.spotify.com/track/6GiEvgq0lKlDWZoEwlBWvJ) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET) | [Get Get Down](https://open.spotify.com/album/5dj7dMGSn3mW3AS3OoWxYd) | 2:27 | 2025-04-11 | 2025-09-24 |

@@ -13805,6 +13805,24 @@
     },
     {
       "album": {
+        "name": "GBTC",
+        "url": "https://open.spotify.com/album/22vX5Kxo15Iw2rGkTZMYq3"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275217,
+      "name": "GBTC",
+      "url": "https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO"
+    },
+    {
+      "album": {
         "name": "Leidenzwang",
         "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
       },
@@ -22557,6 +22575,24 @@
     },
     {
       "album": {
+        "name": "CURSED FRAME",
+        "url": "https://open.spotify.com/album/3EmtI0MboNQ8kY2SQ1aUEc"
+      },
+      "artists": [
+        {
+          "name": "Another Country $$$$",
+          "url": "https://open.spotify.com/artist/3At9kBvFhiXo8y64fyHdwo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "MOTH",
+      "url": "https://open.spotify.com/track/1H4gXQt5jHktMwJo59akVV"
+    },
+    {
+      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/2dkDKXBAk4xFBgbEQtKU0m"
       },
@@ -22688,7 +22724,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 130872,
       "name": "Muddy Shores",
       "url": "https://open.spotify.com/track/0XZo0HtwB9W3m3O4Dgc6XN"
@@ -28494,7 +28530,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 211500,
       "name": "R\u00f8j\u00f8 Latid\u00f8",
       "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
@@ -33234,7 +33270,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166528,
       "name": "The Big E",
       "url": "https://open.spotify.com/track/4CIGIijEyrDgrLeS1TWvXp"
@@ -34854,6 +34890,24 @@
       "duration_ms": 357256,
       "name": "Tide Pool Portals to Another World",
       "url": "https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq"
+    },
+    {
+      "album": {
+        "name": "TIDE SLACKLE",
+        "url": "https://open.spotify.com/album/3ITtK5odHK7a104oJqUyb3"
+      },
+      "artists": [
+        {
+          "name": "ONYX GARDEN",
+          "url": "https://open.spotify.com/artist/579Ah65QiTZxDgiaGKpJtx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "TIDE SLACKLE",
+      "url": "https://open.spotify.com/track/2FRnWUKiylNW7gjJ5p8tqr"
     },
     {
       "album": {

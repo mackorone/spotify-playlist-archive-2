@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-813 songs - 1 day 14 hr 32 min
+814 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [JOY \(feat\. Olamide\)](https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ) | 2:45 | 2023-12-01 | 2024-01-13 |
 | [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-14 | 2025-06-28 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-08-29 |  |
-| [Jujupiano](https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Richiemusic](https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG) | [Jujupiano La Presido](https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg) | 2:09 | 2025-03-28 |  |
+| [Jujupiano](https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Richiemusic](https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG) | [Jujupiano La Presido](https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg) | 2:09 | 2025-03-28 | 2026-02-07 |
 | [Jump Up Skirt](https://open.spotify.com/track/5h5owfuUP5Te0LFGJQPBHk) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Jump Up Skirt](https://open.spotify.com/album/4fc7TNhO0DWeE9eosCps7D) | 1:58 | 2024-03-22 | 2024-04-26 |
 | [K.O.K](https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [K.O.K](https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt) | 2:37 | 2025-08-01 | 2025-08-30 |
 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 | 2023-04-25 | 2024-11-22 |
@@ -683,6 +683,7 @@
 | [Shayo](https://open.spotify.com/track/48yyEzWXIbAhU3H2iC9iDa) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Shayo](https://open.spotify.com/album/606tG62I0ClaZAuuHdM5rz) | 3:17 | 2023-09-14 | 2023-09-29 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/4G6GeId2tVeACOpPSBKT1L) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 1:18 | 2022-10-30 | 2022-11-11 |
 | [SHE LIKE IGBO](https://open.spotify.com/track/6Dleq7tjYht5tF4Ki2r5Mk) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 1:18 | 2022-10-30 | 2022-12-03 |
+| [Shina Rampe](https://open.spotify.com/track/2wUBujNySRbtpsv39Wy0lc) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Shina Rampe](https://open.spotify.com/album/5pnDeSZS2hR0fF0NS9CeoX) | 2:59 | 2026-02-06 |  |
 | [SHISHI](https://open.spotify.com/track/4Mnc9lGRf3C7oYPgbUiEzu) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp) | [SHISHI](https://open.spotify.com/album/6ChmRhbgUh53zXJhDxMPtX) | 2:20 | 2025-04-04 | 2025-05-03 |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 | 2026-01-24 |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-12-09 |

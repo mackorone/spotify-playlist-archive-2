@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 145869,
       "name": "All Kinds of Country",
       "url": "https://open.spotify.com/track/51qhktrdUqMlGd16YNps7I"
@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Choked Up",
+        "url": "https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps"
+      },
+      "artists": [
+        {
+          "name": "Carson Janik",
+          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185283,
+      "name": "Choked Up",
+      "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191227,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 170501,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
@@ -2642,6 +2660,24 @@
       "duration_ms": 202255,
       "name": "For The Record",
       "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
+    },
+    {
+      "album": {
+        "name": "Foraine",
+        "url": "https://open.spotify.com/album/1CqNbhG9hvthcQ5bw3UQG7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Foraine",
+      "url": "https://open.spotify.com/track/1tBoPHs23Y9lYSpikSj3dq"
     },
     {
       "album": {
@@ -4957,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "Lonely For You",
+        "url": "https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151016,
+      "name": "Lonely For You",
+      "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
+    },
+    {
+      "album": {
         "name": "Lonesome",
         "url": "https://open.spotify.com/album/2fWGkbYkFIxHIYHZqIvjvh"
       },
@@ -6759,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188296,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
+    },
+    {
+      "album": {
         "name": "Reason To Love",
         "url": "https://open.spotify.com/album/5tg7NcUK6SS93Q1QNJl51f"
       },
@@ -7228,6 +7300,24 @@
       "duration_ms": 172295,
       "name": "She Stole My Truck",
       "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
+    },
+    {
+      "album": {
+        "name": "SHE'S SO SWEET",
+        "url": "https://open.spotify.com/album/0qIyfB9B1cLpjKhnDtPmuC"
+      },
+      "artists": [
+        {
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173690,
+      "name": "SHE'S SO SWEET",
+      "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
     },
     {
       "album": {
@@ -8306,7 +8396,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 157586,
       "name": "the only one",
       "url": "https://open.spotify.com/track/7ehTjU5A752Gff7YuRZ69r"
@@ -8364,7 +8454,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 201585,
       "name": "Thief",
       "url": "https://open.spotify.com/track/7tOxqHzZIUK0Ob1QtXIulA"

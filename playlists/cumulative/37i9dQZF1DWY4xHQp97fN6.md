@@ -2,9 +2,9 @@
 
 ### [Get Turnt](https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6)
 
-> Mood: Turnt Cover: Lil Baby
+> Mood: Turnt Cover: Don Toliver
 
-1,093 songs - 2 day 4 hr 4 min
+1,094 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2025-01-09 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-10 | 2024-04-19 |
 | [less is more \(with Skepta\)](https://open.spotify.com/track/6CZKeP30SneJmRQpYxLCYZ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [LONDON](https://open.spotify.com/album/1XvoHkzmM4rhOsrZpjFZS6) | 2:44 | 2025-03-21 | 2025-03-29 |
+| [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-02-06 |  |
 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 | 2025-04-25 | 2025-08-09 |
 | [Let The Smokers Shine The Coupes](https://open.spotify.com/track/3XyNi4ARXWBgzeDFKoJPqy) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:30 | 2022-04-29 | 2022-08-20 |
 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 | 2023-06-16 | 2023-09-09 |

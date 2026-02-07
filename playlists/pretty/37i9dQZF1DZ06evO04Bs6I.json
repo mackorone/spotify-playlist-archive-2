@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116625,
+  "num_followers": 116626,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAB28XVYWGUZTGDcG6z9ip7m",
+  "snapshot_id": "aYPdgAAAAAC8eGURjF1xMU4i6hV7yCbc",
   "tracks": [
     {
       "added_at": null,
@@ -322,15 +322,11 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 238393,
-      "name": "Tua Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d"
+      "duration_ms": 273000,
+      "name": "Toca em Mim de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 273000,
-      "name": "Toca em Mim de Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f"
+      "duration_ms": 238393,
+      "name": "Tua Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d"
     },
     {
       "added_at": null,

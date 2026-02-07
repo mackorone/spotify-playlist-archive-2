@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-314 songs - 15 hr 3 min
+315 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-26 | 2025-09-27 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-30 | 2025-02-04 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2025-01-28 |  |
+| [Aar Ya Paar](https://open.spotify.com/track/6rQXdlcrqfz1xJ5PhTc2fk) | [Preiit virk](https://open.spotify.com/artist/6lFiKYSjHLugshbKRDYUxj), [Marshal](https://open.spotify.com/artist/2nGgrRPLSoXT7C2WQzsA1X) | [Aar Ya Paar](https://open.spotify.com/album/5AQDj6ZcZAcFEA0hF1weqV) | 2:48 | 2026-02-06 |  |
 | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC) | 3:15 | 2024-12-05 | 2025-03-11 |
 | [Addicted \(ਆਦੀ\)](https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(ਆਦੀ\)](https://open.spotify.com/album/2mb6o5BhEvbO4ma4hf6hcy) | 2:58 | 2024-08-30 | 2024-09-14 |
 | [Ailaan](https://open.spotify.com/track/3qlSsuFecwMbBxSoKTlWhs) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Ailaan](https://open.spotify.com/album/4isux29kRs7HJnskLhBuku) | 3:05 | 2025-01-28 | 2025-04-21 |
@@ -196,7 +197,7 @@
 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 | 2025-10-16 |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 | 2025-01-29 |
 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-19 |  |
-| [Malwa Marine](https://open.spotify.com/track/2WyuoNqRTZtJdK4Tmmhf5X) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:50 | 2025-11-21 |  |
+| [Malwa Marine](https://open.spotify.com/track/2WyuoNqRTZtJdK4Tmmhf5X) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:50 | 2025-11-21 | 2026-02-07 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-07-18 | 2023-09-05 |
 | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [MANIAC \- Bonus Track \[From "GLORY"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-24 | 2025-04-02 |
 | [Many](https://open.spotify.com/track/7h91UP2SFrGnKRzHwxT9qs) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 2:10 | 2025-06-13 | 2025-06-25 |

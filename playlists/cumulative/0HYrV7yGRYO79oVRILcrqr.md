@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-302 songs - 18 hr 37 min
+305 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
 | [Money](https://open.spotify.com/track/5EYHdEkl9T4osuhxLGB0e7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Westway Rises](https://open.spotify.com/album/1UF1jnphfnZ65FU9Qp3KdV) | 3:34 | 2026-01-13 |  |
+| [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2026-02-06 |  |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
@@ -205,6 +206,7 @@
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
+| [PERFECT](https://open.spotify.com/track/6GK8NT1WSXxnxN0fGQrzo2) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [PERFECT](https://open.spotify.com/album/66qJyF1dyBFl0AEa3Oye7x) | 2:12 | 2026-02-06 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 | 2025-12-17 |
 | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/track/76Z8LaWHDpelBLtqeHYdxV) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/album/1WyfzVrgGwWtsaXpZKo9Uq) | 3:51 | 2025-12-16 |  |
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 | 2025-12-17 |
@@ -252,6 +254,7 @@
 | [Stoner](https://open.spotify.com/track/2dOiAm5I3PFizdsj77ywI5) | [Thought Fox](https://open.spotify.com/artist/0oJtH8Mmh8JAoC8nVpro0h) | [Stoner](https://open.spotify.com/album/0oT9O2PT0bHFcHAhcoPRXB) | 3:50 | 2025-12-08 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-23 | 2025-12-17 |
 | [Strange Illusions](https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 5:13 | 2025-11-19 | 2025-12-17 |
+| [Stranger in the Doorway](https://open.spotify.com/track/513tmH4f4ObKLAzFrxpgDb) | [Massey's Cross](https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ) | [Memorial](https://open.spotify.com/album/2k8sdKIeYBSy6QTWZLPGWK) | 4:37 | 2026-02-06 |  |
 | [STRANGER'S GROOVE](https://open.spotify.com/track/2ui1yY0rOb4PZEAMs25Zu4) | [YOS JAMES](https://open.spotify.com/artist/6iQ8xFB2QZhLyD3SjWLFn2) | [STRANGER'S GROOVE](https://open.spotify.com/album/1cSWCYaLEGd443YOKMEsk3) | 4:00 | 2025-11-23 | 2025-12-17 |
 | [Submarine \(feat\. Vallartis\)](https://open.spotify.com/track/6ivXxPez2olkS1v4m3xTMc) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [When You Say My Name \(feat\. Vallartis\)](https://open.spotify.com/album/4hAxZnpMKJ8gNQ9TyaMwPG) | 2:29 | 2025-09-22 | 2025-12-17 |
 | [Superpoderes](https://open.spotify.com/track/1NmFeOiVM3syxcpZ19vfBB) | [Mil Disparos](https://open.spotify.com/artist/4yhzOd2WrjwPz9yHG2TwKn) | [Superpoderes](https://open.spotify.com/album/7iixCzIDlpSI0PtdbjzT4C) | 4:01 | 2025-10-27 | 2025-11-28 |

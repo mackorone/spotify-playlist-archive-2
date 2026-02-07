@@ -1,13 +1,29 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1236,
+  "num_followers": 1240,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQOStOF94sAtTLG2VZo3gv8DucVijp",
+  "snapshot_id": "AAAQQ8yIGW1z185BTCWkuN7UmawbQ2mD",
   "tracks": [
+    {
+      "added_at": "2026-02-06 09:53:34",
+      "album": {
+        "name": "Mi piace quando ridi",
+        "url": "https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "Mi piace quando ridi",
+      "url": "https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC"
+    },
     {
       "added_at": "2026-01-15 08:27:53",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
-    },
-    {
-      "added_at": "2026-01-08 11:10:57",
-      "album": {
-        "name": "Allora come ti va",
-        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 278576,
-      "name": "Allora come ti va",
-      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "added_at": "2026-02-01 09:03:28",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/43aVP7siaAfqPsgzKLGn0N"
     },
     {
+      "added_at": "2026-02-06 14:53:44",
+      "album": {
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ"
+      },
+      "artists": [
+        {
+          "name": "Cyfnos",
+          "url": "https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr"
+        }
+      ],
+      "duration_ms": 136310,
+      "name": "Alone Time",
+      "url": "https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg"
+    },
+    {
       "added_at": "2026-01-23 14:26:56",
       "album": {
         "name": "My Black Cat",
@@ -72,7 +88,7 @@
           "url": "https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ"
         }
       ],
-      "duration_ms": 237200,
+      "duration_ms": 235927,
       "name": "My Black Cat",
       "url": "https://open.spotify.com/track/1W7tQ70CJsbIpS0jTERKdM"
     },
@@ -91,6 +107,22 @@
       "duration_ms": 149195,
       "name": "Dust",
       "url": "https://open.spotify.com/track/3VRWKz4dsAwfkPm0rMCSy8"
+    },
+    {
+      "added_at": "2026-01-08 11:10:57",
+      "album": {
+        "name": "Allora come ti va",
+        "url": "https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 278576,
+      "name": "Allora come ti va",
+      "url": "https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS"
     },
     {
       "added_at": "2026-01-22 12:53:12",
@@ -221,6 +253,22 @@
       "url": "https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M"
     },
     {
+      "added_at": "2025-11-28 08:14:38",
+      "album": {
+        "name": "Ma Cos'\u00e8",
+        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 255006,
+      "name": "Ma Cos'\u00e8",
+      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
+    },
+    {
       "added_at": "2026-01-15 03:44:52",
       "album": {
         "name": "YOU SHOULD KNOW",
@@ -251,22 +299,6 @@
       "duration_ms": 175058,
       "name": "Out The Zip",
       "url": "https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R"
-    },
-    {
-      "added_at": "2025-11-28 08:14:38",
-      "album": {
-        "name": "Ma Cos'\u00e8",
-        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 255006,
-      "name": "Ma Cos'\u00e8",
-      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
     },
     {
       "added_at": "2026-01-15 09:06:49",
@@ -407,30 +439,6 @@
       "duration_ms": 184024,
       "name": "Hiera",
       "url": "https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ"
-    },
-    {
-      "added_at": "2026-01-11 09:45:04",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/1NvoxvesaqQU9i10LeyQjH"
-      },
-      "artists": [
-        {
-          "name": "C-Blanch",
-          "url": "https://open.spotify.com/artist/3P4f8K6ylyCWcD8sP23BhM"
-        },
-        {
-          "name": "t-WIN",
-          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        }
-      ],
-      "duration_ms": 132495,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/0j8MBA8Z4UWqEuuKxLQLVJ"
     },
     {
       "added_at": "2026-01-13 09:44:36",
@@ -2319,6 +2327,74 @@
       "duration_ms": 158815,
       "name": "Il vaccino e' vicino",
       "url": "https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF"
+    },
+    {
+      "added_at": "2026-02-06 10:01:37",
+      "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/73UchtLkbvSqu1a4M4y9ca"
+      },
+      "artists": [
+        {
+          "name": "t-WIN",
+          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
+        }
+      ],
+      "duration_ms": 259119,
+      "name": "Sparta",
+      "url": "https://open.spotify.com/track/6xKUzyS3s6Uj7sAoelAVvC"
+    },
+    {
+      "added_at": "2026-02-06 10:01:45",
+      "album": {
+        "name": "Accountable (Remix Pt. 2)",
+        "url": "https://open.spotify.com/album/4OwhPNHpYwND8lFY9xT0Wh"
+      },
+      "artists": [
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        }
+      ],
+      "duration_ms": 164959,
+      "name": "Accountable - Remix Pt. 2",
+      "url": "https://open.spotify.com/track/1eS5Y5IiqB5UFxwvlf9AxJ"
+    },
+    {
+      "added_at": "2026-02-06 12:17:16",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/5d7eSh9oEQH92dut0QDeZ0"
+      },
+      "artists": [
+        {
+          "name": "C Douglas",
+          "url": "https://open.spotify.com/artist/6wOuR5uXJy1RqpK5G9SEAc"
+        }
+      ],
+      "duration_ms": 201046,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/1cpStVGZuj5IxJUQ29FCMq"
+    },
+    {
+      "added_at": "2026-02-06 21:26:54",
+      "album": {
+        "name": "Last Train (Piano Version)",
+        "url": "https://open.spotify.com/album/0gR016ZqYp1xZ0r49oAq64"
+      },
+      "artists": [
+        {
+          "name": "Niko Albano",
+          "url": "https://open.spotify.com/artist/0O3DeHtMP6v7Pd9aizUGB3"
+        }
+      ],
+      "duration_ms": 179855,
+      "name": "Last Train - Piano Version",
+      "url": "https://open.spotify.com/track/1vsXAJlYC3kxpOOcQj8UMR"
     }
   ],
   "unique_name": "New Indie Music",

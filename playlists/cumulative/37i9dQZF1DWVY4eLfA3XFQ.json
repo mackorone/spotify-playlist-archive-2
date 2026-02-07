@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udd25 Tech house operators, featuring Chris Lorenzo",
+  "description": "50% techno, 50% house \ud83e\udd41 Tech house operators, featuring Jackie Hollander",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 248750,
       "name": "back 2 u",
       "url": "https://open.spotify.com/track/32hCv3uH5eZrQyiwKUbfUq"
@@ -7163,6 +7163,28 @@
     },
     {
       "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/6pSi22TrhdkMooy5lgFrl2"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lazic",
+          "url": "https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg"
+        },
+        {
+          "name": "F\u00e1tima",
+          "url": "https://open.spotify.com/artist/7htBsYMQL8HOXgKR9iYCkh"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211041,
+      "name": "Cabeza (feat. F\u00e1tima)",
+      "url": "https://open.spotify.com/track/1SeY7OXdqVjsGEnavG0V2m"
+    },
+    {
+      "album": {
         "name": "Cadillac",
         "url": "https://open.spotify.com/album/5TdThABVYRNR6afRUOa3N2"
       },
@@ -8451,6 +8473,24 @@
     },
     {
       "album": {
+        "name": "Chicago Press",
+        "url": "https://open.spotify.com/album/3wEBphTdFP2wfFSbckvIoF"
+      },
+      "artists": [
+        {
+          "name": "Luca Ferrero",
+          "url": "https://open.spotify.com/artist/2m0J7cygZoPewLCTD5E4VY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179069,
+      "name": "Chicago Press",
+      "url": "https://open.spotify.com/track/5NzJ7hfmBiCzGwdKGJmGO7"
+    },
+    {
+      "album": {
         "name": "Chicken Bone",
         "url": "https://open.spotify.com/album/6DwT1HWM4RkVziCDDjEz39"
       },
@@ -8990,7 +9030,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 187733,
       "name": "Cocaine Inside My Blunts",
       "url": "https://open.spotify.com/track/5fNaWjwU4FvSZoX1Q7g8gZ"
@@ -11922,7 +11962,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 190275,
       "name": "Diva",
       "url": "https://open.spotify.com/track/3QTIyOvn8OPufLrFf7oQDt"
@@ -15146,7 +15186,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213375,
       "name": "EYES",
       "url": "https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1"
@@ -17238,7 +17278,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184615,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/4Dny38Rxq5EdaBju4FdJwH"
@@ -20989,6 +21029,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/57Bi07LfjHor3eOPsg7nBj"
+      },
+      "artists": [
+        {
+          "name": "Mason Flint",
+          "url": "https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/6hLIUDzLOZECZ5iEmTYld5"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0W2q9C3kxFeChVSRvIFyxG"
       },
@@ -21274,6 +21332,24 @@
       "duration_ms": 222154,
       "name": "Hot Off The Press",
       "url": "https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP"
+    },
+    {
+      "album": {
+        "name": "Hot Sensation",
+        "url": "https://open.spotify.com/album/4ch2SG4G7jBYEkRlxu09Lt"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hot Sensation",
+      "url": "https://open.spotify.com/track/0i1oGYNy2JVFZUSYIBP4po"
     },
     {
       "album": {
@@ -23043,6 +23119,28 @@
     },
     {
       "album": {
+        "name": "Impressive",
+        "url": "https://open.spotify.com/album/7t751Owrp6BfQ2ALySrHcb"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197537,
+      "name": "Impressive",
+      "url": "https://open.spotify.com/track/1L0IGzJXz2ja4OzXef1pb5"
+    },
+    {
+      "album": {
         "name": "In & Out (feat. Modern Lover)",
         "url": "https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza"
       },
@@ -24656,6 +24754,24 @@
       "duration_ms": 142322,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163336,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
     },
     {
       "album": {
@@ -27518,7 +27634,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 134095,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
@@ -28608,6 +28724,24 @@
       "duration_ms": 205312,
       "name": "Make Me Say",
       "url": "https://open.spotify.com/track/1r3orgCEbIlHphGhZAHRl3"
+    },
+    {
+      "album": {
+        "name": "Make My Day",
+        "url": "https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f"
+      },
+      "artists": [
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
     },
     {
       "album": {
@@ -32039,6 +32173,24 @@
     },
     {
       "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+    },
+    {
+      "album": {
         "name": "Need You Tonight EP",
         "url": "https://open.spotify.com/album/1YfvqyDu5D8KhhSIImLVwx"
       },
@@ -34763,6 +34915,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "album": {
         "name": "Out The Door",
         "url": "https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y"
       },
@@ -35450,10 +35620,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177230,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/6IM0zyC3wi2u6s4pwuNWHa"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/7J3SVJeMwyuGZQ7w1IenYB"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        },
+        {
+          "name": "Tobias Gerard",
+          "url": "https://open.spotify.com/artist/1ReDnqgOhy44VBuE0zvIaB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180966,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/0RBDLXIq1soyS2IuOrFjpY"
     },
     {
       "album": {
@@ -36968,7 +37160,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205846,
       "name": "Psychedelica",
       "url": "https://open.spotify.com/track/4uZo6C80EWLyjVoDci01NL"
@@ -37192,6 +37384,24 @@
       "duration_ms": 220581,
       "name": "Pump The Brakes",
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
+    },
+    {
+      "album": {
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/3e9HasqBrjBoA0tOksDU7m"
+      },
+      "artists": [
+        {
+          "name": "Chinonegro",
+          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/0c8lRWXWsios8EYe7JbdWu"
     },
     {
       "album": {
@@ -38790,7 +39000,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 134769,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0469wpByAo3eX3BZZx25Yw"
@@ -39154,7 +39364,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 173538,
       "name": "Rock This Party",
       "url": "https://open.spotify.com/track/453jGhhwwZU8EJeFDDPNZa"
@@ -40908,7 +41118,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 180900,
       "name": "Shades On",
       "url": "https://open.spotify.com/track/11sT6ogSSw8waTWBy0BG3z"
@@ -42727,6 +42937,24 @@
     },
     {
       "album": {
+        "name": "Picture: Volkoder",
+        "url": "https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9"
+    },
+    {
+      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -43263,6 +43491,24 @@
     },
     {
       "album": {
+        "name": "Sound",
+        "url": "https://open.spotify.com/album/6MAddzKCmNSz5aqlEgcQkM"
+      },
+      "artists": [
+        {
+          "name": "Sadro",
+          "url": "https://open.spotify.com/artist/4rn0HDcr0dkfAd5XwrHrkY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216190,
+      "name": "Sound",
+      "url": "https://open.spotify.com/track/5PG2W9pNtvcKvzfMyuBvq9"
+    },
+    {
+      "album": {
         "name": "Sound Of The Dragonfly",
         "url": "https://open.spotify.com/album/1r9GUiZzineJIF19j2ftU6"
       },
@@ -43434,7 +43680,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169846,
       "name": "Speaker Cone",
       "url": "https://open.spotify.com/track/6leein4CtEbHqA17pyEnGH"
@@ -44432,7 +44678,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179076,
       "name": "SUPA FLY",
       "url": "https://open.spotify.com/track/1nTyu3fIH5rwvERcc4DqMu"
@@ -48585,6 +48831,24 @@
     },
     {
       "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -51986,7 +52250,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 200930,
       "name": "When It Kicks",
       "url": "https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym"

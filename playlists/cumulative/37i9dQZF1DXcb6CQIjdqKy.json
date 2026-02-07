@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: We The Kingdom",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Lecrae",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1735,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "Bailo Contigo",
+        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183389,
+      "name": "Bailo Contigo",
+      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/7LqeafIBl0tVINCMCpNtc0"
       },
@@ -2412,6 +2434,28 @@
       "duration_ms": 233152,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
+    },
+    {
+      "album": {
+        "name": "Black Sheep II",
+        "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154169,
+      "name": "Black Sheep II",
+      "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
     },
     {
       "album": {
@@ -5247,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Faith Hope Love",
+        "url": "https://open.spotify.com/album/334TQf2aWDT8YRb5Ji9NaI"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202241,
+      "name": "Faith Hope Love",
+      "url": "https://open.spotify.com/track/1KpuHYjrDPTkAjaxxsSVDQ"
+    },
+    {
+      "album": {
         "name": "Manna Pt.1",
         "url": "https://open.spotify.com/album/3mhzPwu7aLioOnEhDbfNJ1"
       },
@@ -6770,7 +6832,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 164378,
       "name": "God Is With Her!",
       "url": "https://open.spotify.com/track/7g6OjzMJn1v6Eilf4kDs3z"
@@ -8466,7 +8528,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 221894,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
@@ -13471,6 +13533,24 @@
     },
     {
       "album": {
+        "name": "Reconstruction: Second Story",
+        "url": "https://open.spotify.com/album/2DhoiwGl6jcbrMhCSwP44c"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129535,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/7yYf4UIKpToCCggs40VZeu"
+    },
+    {
+      "album": {
         "name": "Let's Be Honest - EP",
         "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
       },
@@ -14766,7 +14846,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 153039,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/2bTseRksJMWi7ZqOBFWEoy"
@@ -17528,7 +17608,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 198716,
       "name": "Prove A Thing",
       "url": "https://open.spotify.com/track/1eW1cvfacSaQyI6mCkEqQO"

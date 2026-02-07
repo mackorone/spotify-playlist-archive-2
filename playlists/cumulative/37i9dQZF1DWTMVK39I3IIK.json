@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165144,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM"
       },
@@ -6082,24 +6100,6 @@
       "duration_ms": 127500,
       "name": "TO OM NATTEN",
       "url": "https://open.spotify.com/track/42Rt9FsB03RRTfT4vR3prd"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
     },
     {
       "album": {

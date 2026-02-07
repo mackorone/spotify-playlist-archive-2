@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. R\u00e9gulo Molina, Oscar Maydon y Neton Vega en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Mala Ma\u00f1a y Valen en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -184,6 +184,24 @@
       "duration_ms": 206000,
       "name": "4X4",
       "url": "https://open.spotify.com/track/2YmmgLpbAFNj7oJZ85ouCt"
+    },
+    {
+      "album": {
+        "name": "50/50 (cabr\u00f3n equivocado)",
+        "url": "https://open.spotify.com/album/12dChbZsYly1ihfYpm2rwK"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163187,
+      "name": "50/50 (cabr\u00f3n equivocado)",
+      "url": "https://open.spotify.com/track/1GOnk7Tab8c4XSmUyhpQib"
     },
     {
       "album": {
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 262800,
       "name": "Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9"
@@ -2970,6 +2988,28 @@
       "duration_ms": 169026,
       "name": "Imposible Olvidarte",
       "url": "https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr"
+    },
+    {
+      "album": {
+        "name": "IMU",
+        "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139734,
+      "name": "IMU",
+      "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
       "album": {
@@ -3074,7 +3114,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 150930,
       "name": "Juega Conmigo",
       "url": "https://open.spotify.com/track/6WaAlcxkJAjyopyvCceecf"
@@ -3576,6 +3616,28 @@
       "duration_ms": 184341,
       "name": "La \u00daltima Flor",
       "url": "https://open.spotify.com/track/44s0YklM6qSCqBgCeJMTkS"
+    },
+    {
+      "album": {
+        "name": "LABERINTO",
+        "url": "https://open.spotify.com/album/0qKWsGCgLTVOmkHbvid764"
+      },
+      "artists": [
+        {
+          "name": "MALA MA\u00d1A",
+          "url": "https://open.spotify.com/artist/6oEnb01go5SoSwwyo8wbRa"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166347,
+      "name": "LABERINTO",
+      "url": "https://open.spotify.com/track/6VML7jhukVfsspoeOFaDye"
     },
     {
       "album": {
@@ -4384,7 +4446,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169749,
       "name": "Mentality",
       "url": "https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw"
@@ -4610,6 +4672,24 @@
       "duration_ms": 166948,
       "name": "Mi Tiempo",
       "url": "https://open.spotify.com/track/3bJuYzQZ82bcXqEEur6UgT"
+    },
+    {
+      "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "album": {
@@ -5444,7 +5524,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177493,
       "name": "Pagana",
       "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
@@ -6380,7 +6460,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 215117,
       "name": "Siempre Ibas A Estar",
       "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
@@ -6445,6 +6525,28 @@
     },
     {
       "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
+    },
+    {
+      "album": {
         "name": "Sin Restricciones",
         "url": "https://open.spotify.com/album/3f1u3CVH8GISuEK8becTRD"
       },
@@ -6482,6 +6584,24 @@
       "duration_ms": 171671,
       "name": "Solitos",
       "url": "https://open.spotify.com/track/69xdXyltln7iQExXgY9Xtw"
+    },
+    {
+      "album": {
+        "name": "Secretos En Mi Cuarto Vol. 1",
+        "url": "https://open.spotify.com/album/1sjJNDy5XIRtqt4eWfMS0j"
+      },
+      "artists": [
+        {
+          "name": "Erick MA",
+          "url": "https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/0WJabBXclWUKZS16P4ktPL"
     },
     {
       "album": {
@@ -7462,7 +7582,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 155000,
       "name": "Volv\u00ed a volver",
       "url": "https://open.spotify.com/track/0XLuOdsBPOVYulTaZgflzw"

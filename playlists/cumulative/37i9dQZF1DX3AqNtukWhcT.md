@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-288 songs - 14 hr 8 min
+291 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Deep](https://open.spotify.com/track/1AIRo8fm2HRBijyK2R9tTv) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Deep](https://open.spotify.com/album/0QOeIULtoZKuYNhb6ZtdpI) | 2:40 | 2025-11-25 |  |
 | [Deep Wellness](https://open.spotify.com/track/3n4QsPRpbkzgXwP8PprorS) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Fountain of Life](https://open.spotify.com/album/1ipenLBGBc2xcdSKd4BF08) | 3:27 | 2022-09-02 | 2022-11-26 |
 | [Divya](https://open.spotify.com/track/7sB73Z8yPxPWslAETo2L9d) | [The Still Grove](https://open.spotify.com/artist/2RGAaERtAwx8nfiQlTTzSK) | [Divya](https://open.spotify.com/album/0Vmffb5uWJhXs6zi8U9mI3) | 3:16 | 2025-09-30 | 2025-11-26 |
-| [Dream of Me](https://open.spotify.com/track/27VP3YGEkmebz3sFLCGVDO) | [Luke Vibewalker](https://open.spotify.com/artist/7lYH6Zw1XntyUNvJe3ccsb) | [We Can't Find the Rain](https://open.spotify.com/album/6jZUMaNzrsCB7KsMz21ki8) | 2:30 | 2025-11-25 |  |
+| [Dream of Me](https://open.spotify.com/track/27VP3YGEkmebz3sFLCGVDO) | [Luke Vibewalker](https://open.spotify.com/artist/7lYH6Zw1XntyUNvJe3ccsb) | [We Can't Find the Rain](https://open.spotify.com/album/6jZUMaNzrsCB7KsMz21ki8) | 2:30 | 2025-11-25 | 2026-02-07 |
 | [Dreamcatcher](https://open.spotify.com/track/5t6fUO17x9Y9hbY0SPTHkE) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Dreamcatcher](https://open.spotify.com/album/0EIWPtJH5BOFGnhYESjCDi) | 2:36 | 2025-09-30 | 2025-11-26 |
 | [Dreamwalker](https://open.spotify.com/track/6O42QZVJXVbThqGmVf81av) | [Mearlorne](https://open.spotify.com/artist/3qBmBfvM7WekY4GCLnU9vk) | [Dreamwalker](https://open.spotify.com/album/7DG1RTtJnpGzSNVJmAsil9) | 2:33 | 2022-09-02 | 2025-11-26 |
 | [drowse](https://open.spotify.com/track/28DC7ed7WyifmElgEnqzZ4) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [drowse](https://open.spotify.com/album/1lVtgDrmobIrOKTqQiqgmS) | 2:31 | 2026-01-14 |  |
@@ -102,6 +102,7 @@
 | [Four Rings on the Butterfly's Wing](https://open.spotify.com/track/2Gt9UXAnJwsT6hiAQgUh3Y) | [The Light Sail](https://open.spotify.com/artist/5M7skfxJFZQ2FL2q1ZDXF3) | [Bluebell Clay](https://open.spotify.com/album/0Qw8cZhsuRQK1f76Hc8HTn) | 4:00 | 2022-09-02 | 2025-11-26 |
 | [Garden Of Rhythm](https://open.spotify.com/track/4WFhr2DDEyMEdNXW8waIL5) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Chaturanga](https://open.spotify.com/album/7g0nKAHc5ShQ2quCpXz9hr) | 3:11 | 2022-09-02 | 2025-11-26 |
 | [Gende Ka Phool](https://open.spotify.com/track/4i4rZpKi3QA58Bqs5QRdUd) | [Star Lions](https://open.spotify.com/artist/3oyABNjDzJ2BL5tshlzpf0) | [Gende Ka Phool](https://open.spotify.com/album/2jCOAIjv0fhD1bap6y0i6Q) | 3:32 | 2022-09-02 | 2025-11-26 |
+| [Getting There](https://open.spotify.com/track/6WuRi1AJsdOcfWEddjaD1W) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Getting There](https://open.spotify.com/album/2qskPgr72MeWhSSwYh5lAu) | 2:22 | 2026-02-06 |  |
 | [Glidin' Glenn](https://open.spotify.com/track/3J2H0xt3OmOp2owq9uEoRG) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Lullabeats](https://open.spotify.com/album/2DL4A3UTJJNwuLvkHjkA8N) | 3:19 | 2022-09-02 | 2024-08-20 |
 | [Glowing Echoes](https://open.spotify.com/track/57flfvyGFL9TEfBiACIVpu) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk), [LORO\_DROP](https://open.spotify.com/artist/0JZTQtQaqSIssm7W5RZ02F) | [Glowing Echoes](https://open.spotify.com/album/7G4NgU2z4q6QHSSWch6uuP) | 3:30 | 2024-05-11 | 2025-11-26 |
 | [Golden Path](https://open.spotify.com/track/7e2CFHVgLRaQxQwyqQosfo) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Golden Path](https://open.spotify.com/album/3UZlYQUzKDBDoPFD545PFY) | 2:37 | 2025-04-15 | 2025-11-26 |
@@ -177,6 +178,7 @@
 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2025-11-25 |  |
 | [Nutshell](https://open.spotify.com/track/5buu11onotjmjgcxA0FaoV) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Nutshell](https://open.spotify.com/album/09WWnbCx6Ahe5yDcwRxPZW) | 3:11 | 2025-11-25 | 2026-01-15 |
 | [Oceans Anahata](https://open.spotify.com/track/7D3XzDFwR1BYnzcQ5Yl6P2) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [Oceans Anahata](https://open.spotify.com/album/6geVgdN6Ik1nG3YF4Vex51) | 3:22 | 2022-10-25 | 2025-11-26 |
+| [Old Friend](https://open.spotify.com/track/6LpsDrcyVsFHETVxy1YHRc) | [Skywhirl](https://open.spotify.com/artist/6LPkTVpOzCscagDFBicM1S) | [Old Friend](https://open.spotify.com/album/6KViVdB4TILBoD31Fe6n89) | 1:45 | 2026-02-06 |  |
 | [Old Friends](https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Old Friends](https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V) | 2:33 | 2025-11-25 | 2026-01-15 |
 | [Open Mind](https://open.spotify.com/track/3IlFvhJa7yFZXhN7bkGtXa) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Open Mind](https://open.spotify.com/album/0hKWla6AJkI5W4IJSzKcuv) | 3:20 | 2024-07-13 | 2025-11-26 |
 | [Orient Silence](https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG) | [Mellow Melt](https://open.spotify.com/artist/6Ur5qbkaIdwqygJFTTjyHJ) | [Orient Silence](https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4) | 2:29 | 2025-11-25 |  |
@@ -222,13 +224,14 @@
 | [Shooting Star](https://open.spotify.com/track/7gguitGiTNaDg2NFKBEkRC) | [Suntam](https://open.spotify.com/artist/102ZisJTB3o3NFyOaDMXGP) | [Shooting Star](https://open.spotify.com/album/0JiBMAYQroXPn8YykRcQBo) | 2:15 | 2025-04-15 | 2025-11-26 |
 | [Silence Meditation](https://open.spotify.com/track/5kE0kUUfOKShSkbAj1qcNm) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [African Healing Drums \(30 Amazing Tribal Music, Joyful African Rhythms, Exotic Ambient\)](https://open.spotify.com/album/1TiUZKAgMnwqzQGuzzNXBP) | 3:30 | 2022-09-02 | 2022-11-26 |
 | [Silhouette Of The Rising Moon](https://open.spotify.com/track/4Xx0DgSHugdXDOqd2t6K0D) | [Aqualypt](https://open.spotify.com/artist/7nTsvLMZz3GLEWO8mUoxlI) | [Silhouette Of The Rising Moon](https://open.spotify.com/album/1UTKIU8wn9zaifF6tqvDRy) | 2:14 | 2022-09-02 | 2025-11-26 |
+| [simple things](https://open.spotify.com/track/2jJPB8v11nFxx0INPjZFok) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [simple things](https://open.spotify.com/album/0Lu2tlgxEVh0AFSOEiq3cB) | 1:57 | 2026-02-06 |  |
 | [Skymning](https://open.spotify.com/track/2y0BMHBFSf2im53pkK4uFG) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Andrum](https://open.spotify.com/album/4XlThOmNRjVCljmuz5WQgH) | 2:52 | 2024-01-26 | 2025-11-26 |
 | [slideeee](https://open.spotify.com/track/3OpSUq3SzwupH1A7CnM9oT) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [slideeee](https://open.spotify.com/album/3fVg4rAmzSfYDUDpdba4tJ) | 2:18 | 2025-11-25 |  |
 | [Slow Dharma Rhythm](https://open.spotify.com/track/2h8r92cX2vlsbmId8bav3l) | [Prana Collective](https://open.spotify.com/artist/5RfYWT0kGJC1Ag4C605tW2) | [Slow Dharma Rhythm](https://open.spotify.com/album/0BYXB6NTn8RnJSMlWRFunN) | 3:39 | 2023-01-20 | 2025-11-26 |
 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 | 2025-11-25 | 2026-01-15 |
 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 | 2025-11-25 |  |
 | [Snow Angel](https://open.spotify.com/track/3vLEU0wZwsxICfp5vrdGZR) | [nalic](https://open.spotify.com/artist/5s4V2T57cftxtUaKKaxUrL) | [Snow Angel](https://open.spotify.com/album/1gyiqIsm8qOv52P0fuEnT1) | 3:10 | 2025-11-25 |  |
-| [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2025-11-25 |  |
+| [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2025-11-25 | 2026-02-07 |
 | [Solitude Conscience](https://open.spotify.com/track/0pRtAfGhXjMop0RGbx4M2W) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Solitude Conscience](https://open.spotify.com/album/1mRnmAvDa3CqDMiAlwVdyP) | 2:37 | 2025-07-09 | 2025-11-26 |
 | [Something Peaceful](https://open.spotify.com/track/7vceZdDidUyqdRxOzaixvb) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Something Peaceful](https://open.spotify.com/album/0QKUJ45lB2LHIDtE2LEl0f) | 2:50 | 2025-07-09 | 2025-11-26 |
 | [Soothing Soul](https://open.spotify.com/track/78LapUyXelxYlcvNjSbwsx) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Soothing Soul](https://open.spotify.com/album/5pQPc6Jg2WrpBQjLwFyWQm) | 3:10 | 2023-08-11 | 2025-11-26 |
@@ -256,7 +259,7 @@
 | [Sunrise rhythm](https://open.spotify.com/track/5AbfbKz3mc0rtOeYMIZlQq) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Sunrise rhythm](https://open.spotify.com/album/1eBzGZH6dKnu4HvQJgICbf) | 3:02 | 2023-06-21 | 2023-11-18 |
 | [Swahili](https://open.spotify.com/track/03ZYpkbpDoUJproBs64vli) | [Hank Drum](https://open.spotify.com/artist/7kpwgkybkjrBOQybEwDpWI) | [Healing My Soul](https://open.spotify.com/album/0QgeFx2lRMC9OpgeOS7cmo) | 2:31 | 2022-09-02 | 2025-02-14 |
 | [Sígueme](https://open.spotify.com/track/1PsJNnqXyaufkAJi0a7b4g) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Sígueme](https://open.spotify.com/album/5ng3WKav3ROU6p0tdQJOyx) | 3:53 | 2022-09-02 | 2025-11-26 |
-| [Take care of you](https://open.spotify.com/track/6M6qGdhwMG3wlPcLhUedEX) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Take care of you](https://open.spotify.com/album/0co3IUnySyqdoD0stuQOKr) | 1:55 | 2025-11-25 |  |
+| [Take care of you](https://open.spotify.com/track/6M6qGdhwMG3wlPcLhUedEX) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Take care of you](https://open.spotify.com/album/0co3IUnySyqdoD0stuQOKr) | 1:55 | 2025-11-25 | 2026-02-07 |
 | [Tangerine Sky](https://open.spotify.com/track/5VG8600Qbb6vcPPO33IvTd) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [Tangerine Sky](https://open.spotify.com/album/4VZgKvPE7z12njOZhDsrUS) | 3:07 | 2022-11-25 | 2025-11-26 |
 | [The city felt softer today](https://open.spotify.com/track/6dWq7H8cVKdH8wSH0Y0f9s) | [minoumi](https://open.spotify.com/artist/4ZgI4V653zyvBVnIv20F0K) | [The city felt softer today](https://open.spotify.com/album/3Y3x78X4Hu9juzcDhUS8Yw) | 2:05 | 2026-01-14 |  |
 | [The Palace Garden](https://open.spotify.com/track/1tYc3NNaQxwlUbFJJvyvic) | [Yolof Palace](https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj) | [The Palace Garden](https://open.spotify.com/album/0S4nJVFGtTtQRqXPvvQxXa) | 3:14 | 2023-06-21 | 2025-11-26 |

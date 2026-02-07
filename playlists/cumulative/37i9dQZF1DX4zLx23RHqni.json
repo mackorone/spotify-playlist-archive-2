@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "NEERODA",
+        "url": "https://open.spotify.com/album/4dsujoKlVZUFNllqWr5FNe"
+      },
+      "artists": [
+        {
+          "name": "Sathyan Ilanko",
+          "url": "https://open.spotify.com/artist/0GbNmLZKI7PpYKVkw26wnN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179095,
+      "name": "NEERODA",
+      "url": "https://open.spotify.com/track/5g1bOJVsi8SbCy7aNMTlip"
+    },
+    {
+      "album": {
         "name": "Neethaney",
         "url": "https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK"
       },

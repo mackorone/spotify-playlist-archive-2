@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Emma Harner",
-  "num_followers": 218925,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Anna Graves",
+  "num_followers": 218937,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW",
+  "snapshot_id": "AAAAALJIdJ8aV11PwgnF0Y7QxNMVM+eT",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:27:34",
+      "album": {
+        "name": "Ashes & Smoke",
+        "url": "https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Ashes & Smoke",
+      "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
+    },
+    {
+      "added_at": "2026-02-06 05:27:34",
+      "album": {
+        "name": "What a Woman Tastes Like",
+        "url": "https://open.spotify.com/album/36dVhorUYrMWJcTaLog5LS"
+      },
+      "artists": [
+        {
+          "name": "Summer Overstreet",
+          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "What a Woman Tastes Like",
+      "url": "https://open.spotify.com/track/5MNsmiILMG66m3h5SXZHCS"
+    },
     {
       "added_at": "2026-01-23 05:20:59",
       "album": {
@@ -25,6 +57,54 @@
       "url": "https://open.spotify.com/track/6nFUqMJ8bGX78npDfMm8Ho"
     },
     {
+      "added_at": "2026-02-06 14:38:25",
+      "album": {
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
+    },
+    {
+      "added_at": "2026-02-06 05:27:34",
+      "album": {
+        "name": "Bootstraps",
+        "url": "https://open.spotify.com/album/3J6um8Yq96K0KHbIiYVE1N"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Bootstraps",
+      "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
+    },
+    {
+      "added_at": "2026-02-06 05:27:34",
+      "album": {
+        "name": "I Love Being Wrong",
+        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 288812,
+      "name": "I Love Being Wrong",
+      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
+    },
+    {
       "added_at": "2026-01-16 05:00:31",
       "album": {
         "name": "Struggle Bus",
@@ -39,6 +119,22 @@
       "duration_ms": 200035,
       "name": "Struggle Bus",
       "url": "https://open.spotify.com/track/7rliwqjbmK8JOFZOHYcQvv"
+    },
+    {
+      "added_at": "2026-02-06 05:27:34",
+      "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 148352,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268"
     },
     {
       "added_at": "2026-01-06 19:25:50",
@@ -295,22 +391,6 @@
       "duration_ms": 205941,
       "name": "Lost in LA",
       "url": "https://open.spotify.com/track/1C1BSzlhjqAE3SMSXjV8N0"
-    },
-    {
-      "added_at": "2025-12-09 22:19:13",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/38qsz6r3RdHiTt4gy93E9W"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/11f2oFUNl44UmzZj7L9oIw"
     },
     {
       "added_at": "2025-12-05 05:55:17",
@@ -857,22 +937,6 @@
       "url": "https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r"
     },
     {
-      "added_at": "2025-10-10 04:00:38",
-      "album": {
-        "name": "Grow Out Of You",
-        "url": "https://open.spotify.com/album/7KP890EZNkVqO039GbIJ0X"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "Grow Out Of You",
-      "url": "https://open.spotify.com/track/4KtGZhFHKyJTI8yEStENZt"
-    },
-    {
       "added_at": "2025-09-26 04:00:18",
       "album": {
         "name": "WOMEN WHO LOVE TOO MUCH",
@@ -903,70 +967,6 @@
       "duration_ms": 145186,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "Over it Now",
-        "url": "https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8"
-      },
-      "artists": [
-        {
-          "name": "Chilli Chilton",
-          "url": "https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq"
-        }
-      ],
-      "duration_ms": 203085,
-      "name": "Over it Now",
-      "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
-    },
-    {
-      "added_at": "2025-08-22 04:00:26",
-      "album": {
-        "name": "No Good At Hanging Up",
-        "url": "https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 205335,
-      "name": "Hit Me Where It Hurts",
-      "url": "https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K"
-    },
-    {
-      "added_at": "2025-09-12 04:00:17",
-      "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2025-09-12 04:00:17",
-      "album": {
-        "name": "His Loss",
-        "url": "https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 150839,
-      "name": "His Loss",
-      "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

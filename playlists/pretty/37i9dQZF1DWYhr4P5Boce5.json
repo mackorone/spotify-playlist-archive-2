@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209104,
+  "num_followers": 209111,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
-        "name": "Slow Renaissance",
-        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Love In the Time of Madness",
-      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2026-01-20 16:41:25",
-      "album": {
         "name": "Somewhere In Her Dreams",
         "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 256012,
       "name": "Somewhere In Her Dreams",
       "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
+    },
+    {
+      "added_at": "2026-01-20 16:41:25",
+      "album": {
+        "name": "Slow Renaissance",
+        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
+      },
+      "artists": [
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Love In the Time of Madness",
+      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
     },
     {
       "added_at": "2026-01-20 16:41:25",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
-        "name": "God Made You",
-        "url": "https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi"
+        "name": "Without The Risk",
+        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
       },
       "artists": [
         {
-          "name": "2 Lane Summer",
-          "url": "https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 202771,
-      "name": "God Made You",
-      "url": "https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK"
+      "duration_ms": 223518,
+      "name": "Without The Risk",
+      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
     },
     {
       "added_at": "2026-01-20 16:41:25",
@@ -1391,22 +1387,6 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
-        "name": "Without The Risk",
-        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 223518,
-      "name": "Without The Risk",
-      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
-    },
-    {
-      "added_at": "2026-01-20 16:41:25",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2026-01-20 16:41:25",
+      "album": {
+        "name": "God Made You",
+        "url": "https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi"
+      },
+      "artists": [
+        {
+          "name": "2 Lane Summer",
+          "url": "https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "duration_ms": 202771,
+      "name": "God Made You",
+      "url": "https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK"
     },
     {
       "added_at": "2026-01-20 16:41:25",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
+    },
+    {
+      "added_at": "2026-01-20 16:41:25",
+      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2026-01-20 16:41:25",
-      "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2026-01-20 16:41:25",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/5my3MVN5gPepbvZEBL8D5P"
+        "name": "Breathe Life",
+        "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
       "artists": [
         {
@@ -1584,13 +1584,17 @@
           "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
         },
         {
-          "name": "Jordan Pride",
-          "url": "https://open.spotify.com/artist/1HSFSZkVOHE0UL7tOfSiIb"
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Matthew Grant",
+          "url": "https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1YmA9FFtmamIkqP6ZagRdf"
+      "duration_ms": 186468,
+      "name": "Breathe Life",
+      "url": "https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA"
     },
     {
       "added_at": "2026-01-20 16:41:25",
@@ -1667,8 +1671,8 @@
     {
       "added_at": "2026-01-20 16:41:25",
       "album": {
-        "name": "Breathe Life",
-        "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/5my3MVN5gPepbvZEBL8D5P"
       },
       "artists": [
         {
@@ -1676,17 +1680,13 @@
           "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
         },
         {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Matthew Grant",
-          "url": "https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di"
+          "name": "Jordan Pride",
+          "url": "https://open.spotify.com/artist/1HSFSZkVOHE0UL7tOfSiIb"
         }
       ],
-      "duration_ms": 186468,
-      "name": "Breathe Life",
-      "url": "https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA"
+      "duration_ms": 163902,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1YmA9FFtmamIkqP6ZagRdf"
     },
     {
       "added_at": "2026-01-20 16:41:25",

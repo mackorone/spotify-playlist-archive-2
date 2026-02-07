@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca aka Roc Beats in cover.",
-  "num_followers": 48558,
+  "num_followers": 48570,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/5MosfyfmZprrraxo4qt8rM"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 190565,
-      "name": "Attica",
-      "url": "https://open.spotify.com/track/7G9FEW3DjTlDV2NglprvLH"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
         "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/54aMJQ88Vyua8UeKijirW1"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 193043,
       "name": "Che Fine Hai Fatto Fibra? (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/7yhNfdwemomRUQjgSOcgw8"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5MosfyfmZprrraxo4qt8rM"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 190565,
+      "name": "Attica",
+      "url": "https://open.spotify.com/track/7G9FEW3DjTlDV2NglprvLH"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -583,18 +583,34 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+        "name": "King Del Rap",
+        "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
       },
       "artists": [
         {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Curre curre guagli\u00f2",
-      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
+      "duration_ms": 240080,
+      "name": "King Del Rap",
+      "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "Bugiardo",
+        "url": "https://open.spotify.com/album/3XuRONbq5BSjqMWI2A5Zud"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "La Soluzione",
+      "url": "https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -627,34 +643,34 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Bugiardo",
-        "url": "https://open.spotify.com/album/3XuRONbq5BSjqMWI2A5Zud"
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
         }
       ],
-      "duration_ms": 237960,
-      "name": "La Soluzione",
-      "url": "https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa"
+      "duration_ms": 323360,
+      "name": "Curre curre guagli\u00f2",
+      "url": "https://open.spotify.com/track/1sGXp5yeGTFsxJDKsvF8QB"
     },
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "King Del Rap",
-        "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
         }
       ],
-      "duration_ms": 240080,
-      "name": "King Del Rap",
-      "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -679,22 +695,6 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
-      },
-      "artists": [
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -751,26 +751,18 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "FUNNY GAMES",
-        "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Sine",
-          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 171891,
-      "name": "DRUGSTORE (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/7eMFQsiZPEm4i42mhNdE0X"
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -799,18 +791,42 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+        "name": "FUNNY GAMES",
+        "url": "https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
         }
       ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+      "duration_ms": 171891,
+      "name": "DRUGSTORE (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7eMFQsiZPEm4i42mhNdE0X"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "L'amico degli amici",
+        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Cosa vuoi da me",
+      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -831,22 +847,6 @@
       "duration_ms": 165000,
       "name": "TROPPAweed (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "L'amico degli amici",
-        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Cosa vuoi da me",
-      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
         "name": "Favola",
         "url": "https://open.spotify.com/album/4LtUc77mtEMvblER5Jf45L"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 189278,
       "name": "Favola",
       "url": "https://open.spotify.com/track/1Qp2eMLXVnff8plWwm48i4"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
+        "name": "CVLT - HELLRAISERS",
+        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        }
+      ],
+      "duration_ms": 110262,
+      "name": "HELLRAISERS",
+      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 197290,
       "name": "Welcome To The Jungle (feat. Ernia, Joshua, Neffa)",
       "url": "https://open.spotify.com/track/7D5N7XBeGeAedTg7oL8xEl"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "CVLT - HELLRAISERS",
-        "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 110262,
-      "name": "HELLRAISERS",
-      "url": "https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
         "name": "URLAMI",
         "url": "https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 181599,
       "name": "URLAMI",
       "url": "https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
         "name": "Teoria Del Contrario Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/5P7QlydmH0HKv5u6VOwyOg"
       },
@@ -1387,38 +1403,6 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Lealt\u00e0 e rispetto",
-        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Capeesh",
-      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
         "name": "PENKILLER",
         "url": "https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 166000,
       "name": "Beh ok (feat. Madman)",
       "url": "https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
         "name": "24/7 (feat. Ensi & Gemitaiz)",
         "url": "https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 181333,
       "name": "24/7 (feat. Ensi & Gemitaiz)",
       "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1659,22 +1659,30 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Modus Operandi",
-        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
+        "name": "Machete Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         },
         {
           "name": "Jack The Smoker",
           "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Modus Operandi",
-      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
+      "duration_ms": 202666,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1711,30 +1719,22 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Machete Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
       },
       "artists": [
         {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
         },
         {
           "name": "Jack The Smoker",
           "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+      "duration_ms": 186750,
+      "name": "Modus Operandi",
+      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1775,22 +1775,18 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Era Tutto Un Sogno",
-        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
       },
       "artists": [
         {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Tutti Contenti (feat. Salmo)",
-      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -1815,18 +1811,22 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+        "name": "Era Tutto Un Sogno",
+        "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
       },
       "artists": [
         {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+      "duration_ms": 212786,
+      "name": "Tutti Contenti (feat. Salmo)",
+      "url": "https://open.spotify.com/track/6Wdf1htEjr9K5JeS82BHfM"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -2839,30 +2839,6 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "Ragazzi fuori",
-        "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
-      },
-      "artists": [
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        },
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        },
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        }
-      ],
-      "duration_ms": 189145,
-      "name": "Ragazzi fuori",
-      "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
         "name": "Aspromonte a Roma",
         "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
       },
@@ -2883,6 +2859,30 @@
       "duration_ms": 205958,
       "name": "Putiferio",
       "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "Ragazzi fuori",
+        "url": "https://open.spotify.com/album/2RgScSlYyVlMPB2KiYnS88"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        }
+      ],
+      "duration_ms": 189145,
+      "name": "Ragazzi fuori",
+      "url": "https://open.spotify.com/track/2QQ3rN78weEKTKBK3Op4dw"
     },
     {
       "added_at": "2026-02-05 23:01:08",
@@ -2943,22 +2943,6 @@
     {
       "added_at": "2026-02-05 23:01:08",
       "album": {
-        "name": "The Island Chainsaw Massacre",
-        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 220682,
-      "name": "Il senso dell'odio",
-      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
-    },
-    {
-      "added_at": "2026-02-05 23:01:08",
-      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 219069,
       "name": "Blocchi Di Marmo",
       "url": "https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd"
+    },
+    {
+      "added_at": "2026-02-05 23:01:08",
+      "album": {
+        "name": "The Island Chainsaw Massacre",
+        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Il senso dell'odio",
+      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
     },
     {
       "added_at": "2026-02-05 23:01:08",

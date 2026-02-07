@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 39277,
+  "num_followers": 39280,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "duration_ms": 180652,
+      "name": "\u0412\u0441\u0456 \u0446\u0456 \u0444\u0430\u0440\u0431\u0438",
+      "url": "https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "Feel it Still",
         "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
-        "name": "\u0411\u0456\u043b\u044c\u0448\u0435 \u043d\u0456\u0436 \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f",
-        "url": "https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ"
+        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
       },
       "artists": [
         {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
         }
       ],
-      "duration_ms": 180652,
-      "name": "\u0412\u0441\u0456 \u0446\u0456 \u0444\u0430\u0440\u0431\u0438",
-      "url": "https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb"
+      "duration_ms": 189890,
+      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2025-12-02 11:28:48",
@@ -979,22 +995,6 @@
       "duration_ms": 112262,
       "name": "\u041b\u0438\u043d\u0443",
       "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
-      },
-      "artists": [
-        {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2025-12-02 11:28:48",

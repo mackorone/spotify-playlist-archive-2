@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-649 songs - 1 day 20 hr 9 min
+651 songs - 1 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Candle Flickers \(feat\. Peter Gregson\) \- Adagio](https://open.spotify.com/track/7H1jV49w6b5xTPT6LojVOw) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg), [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Candle Flickers](https://open.spotify.com/album/4gAaXS2qlVgp3AqFY8ajgq) | 2:44 | 2025-03-19 |  |
 | [Canton](https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Canton](https://open.spotify.com/album/5w9c6kAouFX6I1mrdVVpYf) | 5:25 | 2025-04-11 |  |
 | [Carapace](https://open.spotify.com/track/2njj6RRRr3LTQ0KR57k3bY) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Green and Grey \(Expanded\)](https://open.spotify.com/album/1XQ1UyJcVjfDg4V2g0CWeh) | 3:31 | 2020-10-20\* | 2022-04-21 |
-| [Cedar \- Night Cycles Version](https://open.spotify.com/track/3RBObqvYa9JvhbYNAQWDC6) | [Blake Ewing](https://open.spotify.com/artist/11ReFzDfYn4ZuUVgJhnFA5) | [Night Cycles 2](https://open.spotify.com/album/3AxB2NftaARZ2lRKntRy34) | 4:05 | 2020-10-20\* |  |
+| [Cedar \- Night Cycles Version](https://open.spotify.com/track/3RBObqvYa9JvhbYNAQWDC6) | [Blake Ewing](https://open.spotify.com/artist/11ReFzDfYn4ZuUVgJhnFA5) | [Night Cycles 2](https://open.spotify.com/album/3AxB2NftaARZ2lRKntRy34) | 4:05 | 2020-10-20\* | 2026-02-07 |
 | [Cedar \- Night Cycles Version](https://open.spotify.com/track/7lhao6PRQRckrTJT59d4v4) | [Blake Ewing](https://open.spotify.com/artist/11ReFzDfYn4ZuUVgJhnFA5) | [Night Cycles 2](https://open.spotify.com/album/4X0gogCnEkNqSHQRr4HhQ5) | 4:05 | 2024-03-01 | 2024-04-11 |
 | [Celeste](https://open.spotify.com/track/0OYYiR0CxzsXscdXH0tE2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Celeste](https://open.spotify.com/album/46JzdTHeF11bGywUlrjW98) | 4:38 | 2021-12-10 | 2022-03-05 |
 | [Celeste](https://open.spotify.com/track/1ncwpnEGE9EI4xAkQ3H0Nw) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Celeste](https://open.spotify.com/album/3zYlVgQZyGZiuvBTqkgcO4) | 4:22 | 2020-10-20\* | 2022-04-21 |
@@ -270,7 +270,7 @@
 | [Het Gruuthuse\-Handschrift II\. 108: Orlof, Vrauwe, Ende Ic Moet Gaen](https://open.spotify.com/track/1bbxQn4aqgFxIaACB8h1as) | [Anonymous](https://open.spotify.com/artist/5SMaSwixs64gEaMc4YLNG9), [Anthony Romaniuk](https://open.spotify.com/artist/6UKrmiVZmqqHY0P3hqyif8) | [Bells](https://open.spotify.com/album/6Oa0Jnsxn5ZvLzp4w2CwfM) | 2:31 | 2020-10-21 | 2021-03-19 |
 | [Heysátan](https://open.spotify.com/track/6JKIkgaSyYN6T0vBQwhDHk) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 4:41 | 2020-12-04 | 2020-12-11 |
 | [Hiding \- Clariloops Rework](https://open.spotify.com/track/1D7OqPLkdYqLwdb8TjinLh) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx), [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Hiding \(Clariloops Rework\)](https://open.spotify.com/album/3uvVjALgpgfCwAXVRU6yF9) | 2:51 | 2023-06-09 | 2024-12-13 |
-| [Hjlóð](https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc) | [Logan Nelson](https://open.spotify.com/artist/2673BUBn3wz0Iayq4BV5DM) | [Lavender Echoes](https://open.spotify.com/album/1rGAqzsDCufTGxQOnfrA7l) | 4:24 | 2020-10-20\* |  |
+| [Hjlóð](https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc) | [Logan Nelson](https://open.spotify.com/artist/2673BUBn3wz0Iayq4BV5DM) | [Lavender Echoes](https://open.spotify.com/album/1rGAqzsDCufTGxQOnfrA7l) | 4:24 | 2020-10-20\* | 2026-02-07 |
 | [Hoover](https://open.spotify.com/track/06nFOtNdgdWVbYZvVzJnmw) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Hoover](https://open.spotify.com/album/2ROBgbg8qM9LX0HqwE6RGZ) | 5:40 | 2025-11-20 |  |
 | [Horizons](https://open.spotify.com/track/6vLmtliG9VEbJDKjasnxF8) | [Manuel Zito](https://open.spotify.com/artist/1D1r09YGuPm6Q5L8KeQcd2) | [Horizons](https://open.spotify.com/album/1No9s0CqX1i0Ic9W1dpo9W) | 3:45 | 2021-12-13 |  |
 | [How to Fall in Love in a Pandemic \(Music for a Short Film\)](https://open.spotify.com/track/7upguSfQ3tXlymVbMb6784) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [How to Fall in Love in a Pandemic \(Music for a Short Film\)](https://open.spotify.com/album/6Nm5OND1eSWPMJMSUiLeCc) | 3:27 | 2020-10-20\* | 2022-07-29 |
@@ -438,6 +438,7 @@
 | [Plume](https://open.spotify.com/track/5tcNW6V7hwzMlAx0psUtGn) | [Matteo de Grandis](https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce) | [Plume](https://open.spotify.com/album/4ljmpyMpm9drHONeKDdRsi) | 3:00 | 2024-03-01 | 2024-12-13 |
 | [Pomegranate](https://open.spotify.com/track/2xDPJSFMb53Ym5HHGXuaJQ) | [Quarterly](https://open.spotify.com/artist/07FlzrUOQrnOrGf9aAp9km) | [Pomegranate](https://open.spotify.com/album/5dfUD4mVuuZbcSWBpqJLgz) | 2:37 | 2020-10-20\* | 2025-03-20 |
 | [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Post String Theory \(Foam and Sand Rework\)](https://open.spotify.com/album/4LeYPputcKJqRtKx89XCdI) | 4:50 | 2022-07-15 | 2025-03-20 |
+| [Prelude to a Soul](https://open.spotify.com/track/32BlfIiOChEnxe7JoiIkYy) | [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Save Me Not](https://open.spotify.com/album/2SO9W0vx2L123tksH0rlrB) | 2:46 | 2026-02-06 |  |
 | [Promise Of Sun](https://open.spotify.com/track/3d4uGAoWs2lm9LzLhq2K9n) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Echoes In The Valley](https://open.spotify.com/album/7J4IGBexnwLgplDpLdCKYS) | 3:00 | 2021-10-31 |  |
 | [Puccini: Vissi d'Arte \- Olivia Belli Rework](https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Puccini: Vissi d'Arte \(Olivia Belli Rework\)](https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x) | 3:09 | 2024-11-29 | 2025-03-20 |
 | [Páthē](https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Páthē](https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9) | 5:41 | 2024-11-20 |  |
@@ -657,5 +658,6 @@
 | [Éclosion](https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Éclosion](https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9) | 4:55 | 2021-01-29 | 2024-11-21 |
 | [Þegar vetrar þokan grá](https://open.spotify.com/track/2A6eV42jrO05RAMDBrT0ua) | [Steindor Andersen](https://open.spotify.com/artist/0Bl8mgC0g7xvt0McRdFKqW), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1) | [Stafnbúi](https://open.spotify.com/album/5jexmdqtgOLSU32x1wL9WZ) | 3:42 | 2020-12-04 | 2020-12-11 |
 | [・\-\-・ \-\-\- ・ \- \- ・\-・ ・ ・](https://open.spotify.com/track/0koh0Teu96qurTHhNFDQR3) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [・\-\-・ \-\-\- ・ \- \- ・\-・ ・ ・](https://open.spotify.com/album/7ab275pvaiAeAGhU5YazJG) | 3:01 | 2020-11-20 | 2021-03-18 |
+| [－－･ －－－ －･･ －･･ －－－ －･－･ －･－ ･･･ ･－ － －･･ ･ ･－ － ････ ････ ･－ ･－･ －･･･ －－－ ･－･](https://open.spotify.com/track/4Tu3q5BSyJ136whhkCsieH) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－･ －－－ －･･ －･･ －－－ －･－･ －･－ ･･･ ･－ － －･･ ･ ･－ － ････ ････ ･－ ･－･ －･･･ －－－ ･－･](https://open.spotify.com/album/5vAvZDHPp4IL3aQBEWIaNW) | 8:48 | 2026-02-06 |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

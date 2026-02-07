@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 195188,
+  "num_followers": 195241,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAB3oQ8oAiOrR2cqKHrL+He/",
+  "snapshot_id": "aYPdgAAAAACvD/p93uZgMg8IfeBf1tOq",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "El Careto Y El Comando",
-      "url": "https://open.spotify.com/track/0HuP5xLv151vNqT7e7AH9O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Vida O Muerte",
         "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 153733,
       "name": "La Costumbre",
       "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "El Careto Y El Comando",
+      "url": "https://open.spotify.com/track/0HuP5xLv151vNqT7e7AH9O"
     },
     {
       "added_at": null,

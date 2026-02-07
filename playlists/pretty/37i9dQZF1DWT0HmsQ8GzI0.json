@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Saya No\u00e9",
-  "num_followers": 16238,
+  "num_followers": 16247,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "TRANSFORMANIA",
-        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
-      },
-      "artists": [
-        {
-          "name": "Csinszka",
-          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
-        }
-      ],
-      "duration_ms": 231948,
-      "name": "\u00c9n vagyok az aki nem j\u00f3",
-      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Portug\u00edzer",
         "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 242899,
       "name": "Portug\u00edzer",
       "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "duration_ms": 231948,
+      "name": "\u00c9n vagyok az aki nem j\u00f3",
+      "url": "https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
+        "name": "Menj",
+        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 227391,
+      "name": "Menj",
+      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
         "name": "Blicc",
         "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 228519,
       "name": "Blicc",
       "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
-        "name": "Lassan, kocsis",
-        "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 248761,
-      "name": "Lassan, kocsis",
-      "url": "https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
         "name": "Pillang\u00f3hat\u00e1s",
         "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+        "name": "Lassan, kocsis",
+        "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
       },
       "artists": [
         {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
+      "duration_ms": 248761,
+      "name": "Lassan, kocsis",
+      "url": "https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Menj",
-        "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
+        "name": "nemveledvanagond",
+        "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
         }
       ],
-      "duration_ms": 227391,
-      "name": "Menj",
-      "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+      "duration_ms": 185647,
+      "name": "nemveledvanagond",
+      "url": "https://open.spotify.com/track/3WjnAkTGVJhHRQYgiKEgud"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "nemveledvanagond",
-        "url": "https://open.spotify.com/album/3YF6pxzU60rS7n4BSjqxwR"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 185647,
-      "name": "nemveledvanagond",
-      "url": "https://open.spotify.com/track/3WjnAkTGVJhHRQYgiKEgud"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "disco maffia",
         "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
-        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 179636,
-      "name": "k\u00f6z\u00f6ny",
-      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Csillagb\u00f3l f\u00e9ny",
         "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 251423,
       "name": "Csillagb\u00f3l f\u00e9ny",
       "url": "https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "k\u00f6z\u00f6ny",
+      "url": "https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -923,6 +923,22 @@
       "duration_ms": 166000,
       "name": "A sz\u00edv vezet",
       "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "\u00c1tv\u00e1ltoz\u00e1s",
+        "url": "https://open.spotify.com/album/6hsZfiC88IGsjbFDVvJLM4"
+      },
+      "artists": [
+        {
+          "name": "Libid\u00f8",
+          "url": "https://open.spotify.com/artist/4otk3zOzEAhKNGKj37wr3i"
+        }
+      ],
+      "duration_ms": 249660,
+      "name": "\u00c1tv\u00e1ltoz\u00e1s",
+      "url": "https://open.spotify.com/track/4TXdciIVbdeFwUxLC51bPs"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -963,34 +979,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "\u00c1tv\u00e1ltoz\u00e1s",
-        "url": "https://open.spotify.com/album/6hsZfiC88IGsjbFDVvJLM4"
+        "name": "sz\u00f3lj (aranyh\u00edd)",
+        "url": "https://open.spotify.com/album/39kGCLUoKVFcmeiSjOoun4"
       },
       "artists": [
         {
-          "name": "Libid\u00f8",
-          "url": "https://open.spotify.com/artist/4otk3zOzEAhKNGKj37wr3i"
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
         }
       ],
-      "duration_ms": 249660,
-      "name": "\u00c1tv\u00e1ltoz\u00e1s",
-      "url": "https://open.spotify.com/track/4TXdciIVbdeFwUxLC51bPs"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
-        "name": "HAMU",
-        "url": "https://open.spotify.com/album/1i7qU8N1m5l9MOGyU5X0yW"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 214809,
-      "name": "HAMU",
-      "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
+      "duration_ms": 178064,
+      "name": "sz\u00f3lj (aranyh\u00edd)",
+      "url": "https://open.spotify.com/track/7yDW67RLU93TVsXv177s8I"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "sz\u00f3lj (aranyh\u00edd)",
-        "url": "https://open.spotify.com/album/39kGCLUoKVFcmeiSjOoun4"
+        "name": "HAMU",
+        "url": "https://open.spotify.com/album/1i7qU8N1m5l9MOGyU5X0yW"
       },
       "artists": [
         {
-          "name": "kristoaf",
-          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
         }
       ],
-      "duration_ms": 178064,
-      "name": "sz\u00f3lj (aranyh\u00edd)",
-      "url": "https://open.spotify.com/track/7yDW67RLU93TVsXv177s8I"
+      "duration_ms": 214809,
+      "name": "HAMU",
+      "url": "https://open.spotify.com/track/4UINS170JG1vNJIZSBNSku"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Szeressetek",
-        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+        "name": "vesz\u00e9lyes utc\u00e1k",
+        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Szeressetek",
-      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+      "duration_ms": 171666,
+      "name": "vesz\u00e9lyes utc\u00e1k",
+      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Magamat keresem",
-        "url": "https://open.spotify.com/album/1o7Xbt9VYs0VTC2T29IptW"
-      },
-      "artists": [
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Magamat keresem",
-      "url": "https://open.spotify.com/track/4C08uOyQjflKZMzpAoxsBL"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "kurvanagy ???",
         "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
@@ -1131,8 +1115,24 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "vesz\u00e9lyes utc\u00e1k",
-        "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
+        "name": "Magamat keresem",
+        "url": "https://open.spotify.com/album/1o7Xbt9VYs0VTC2T29IptW"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Magamat keresem",
+      "url": "https://open.spotify.com/track/4C08uOyQjflKZMzpAoxsBL"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 171666,
-      "name": "vesz\u00e9lyes utc\u00e1k",
-      "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Boldog dalok, morbid viccek",
-        "url": "https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 262325,
-      "name": "Boldog dalok, morbid viccek",
-      "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
-    },
-    {
-      "added_at": "2026-02-05 23:00:28",
-      "album": {
         "name": "Goly\u00f3\u00e1ll\u00f3",
         "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2026-02-05 23:00:28",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
+        "name": "Boldog dalok, morbid viccek",
+        "url": "https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB"
       },
       "artists": [
         {
-          "name": "Samurai Drive",
-          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
         }
       ],
-      "duration_ms": 232874,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
+      "duration_ms": 262325,
+      "name": "Boldog dalok, morbid viccek",
+      "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
     },
     {
       "added_at": "2026-02-05 23:00:28",
@@ -1347,6 +1331,22 @@
       "duration_ms": 180983,
       "name": "Vigy\u00e9l El",
       "url": "https://open.spotify.com/track/57v3hecB0GJkHY8FZBcjS4"
+    },
+    {
+      "added_at": "2026-02-05 23:00:28",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/0wXhrHl6OrfNBTSRia2eV2"
+      },
+      "artists": [
+        {
+          "name": "Samurai Drive",
+          "url": "https://open.spotify.com/artist/3KJXAVUBjcuGGU7A7ExedX"
+        }
+      ],
+      "duration_ms": 232874,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/0MvQKd4qZb8ng7svhz5QlI"
     },
     {
       "added_at": "2026-02-05 23:00:28",

@@ -4779,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "Impression",
+        "url": "https://open.spotify.com/album/2jZQt2LalNKkcI7r8G4eI5"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131288,
+      "name": "Impression",
+      "url": "https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw"
+    },
+    {
+      "album": {
         "name": "In My Skin",
         "url": "https://open.spotify.com/album/2mRojYGgIJFkDsI75rIP98"
       },
@@ -4864,6 +4882,28 @@
       "duration_ms": 159500,
       "name": "Ishq Hai Nibhana",
       "url": "https://open.spotify.com/track/3gmQxTX5z25Dk2OpWtkTVw"
+    },
+    {
+      "album": {
+        "name": "Ishq Ne Tere",
+        "url": "https://open.spotify.com/album/2DcqdGsVzm818P6VVNec5B"
+      },
+      "artists": [
+        {
+          "name": "Arunima Sharma",
+          "url": "https://open.spotify.com/artist/2zzJUB2acfwOKPhMnJkBMv"
+        },
+        {
+          "name": "Saikapian Manmohan Singh",
+          "url": "https://open.spotify.com/artist/4VNvaHBrdMNiIDADDpDWvl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "Ishq Ne Tere",
+      "url": "https://open.spotify.com/track/5BPnQISGL40w5YOZl5VCSs"
     },
     {
       "album": {
@@ -6690,7 +6730,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168000,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/0N7oQjTaY8TEnHwa7ktljA"
@@ -7858,7 +7898,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197777,
       "name": "Mehfilein",
       "url": "https://open.spotify.com/track/4CAdkRevQFwo698x7WTus1"
@@ -8204,7 +8244,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 182666,
       "name": "Mirza",
       "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
@@ -12282,6 +12322,28 @@
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "album": {
+        "name": "Preet Ka Pehlaa Rang",
+        "url": "https://open.spotify.com/album/3Z3yaXXkcaai3PQ6j5mjJ1"
+      },
+      "artists": [
+        {
+          "name": "Mousomi Utpal",
+          "url": "https://open.spotify.com/artist/537kclZgsgjVv7rfOY13AE"
+        },
+        {
+          "name": "Utpal Datta",
+          "url": "https://open.spotify.com/artist/4nVIbhUybO070apzNiVFNR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186872,
+      "name": "Swapna Geet",
+      "url": "https://open.spotify.com/track/79UtWqOJy6AATpe1WlcCvh"
     },
     {
       "album": {

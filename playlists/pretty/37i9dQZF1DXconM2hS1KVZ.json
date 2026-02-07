@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 428104,
+  "num_followers": 428068,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+        "name": "Fireball (feat. John Ryan)",
+        "url": "https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "John Ryan",
+          "url": "https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+      "duration_ms": 235012,
+      "name": "Fireball (feat. John Ryan)",
+      "url": "https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"
     }
   ],
   "unique_name": "Sommerklassiker",

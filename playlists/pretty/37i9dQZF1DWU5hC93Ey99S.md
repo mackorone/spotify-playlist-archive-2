@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,174 likes - 166 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,346 likes - 166 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 10 | [Keep It Simple](https://open.spotify.com/track/2GLypzkTRcrdn1bRDOi25E) | [Melr](https://open.spotify.com/artist/6AGtYsLIZrn8KbtrJUP2Uu) | [Keep It Simple](https://open.spotify.com/album/42V3QZUhgYF2059NCTMg7u) | 3:02 |
 | 11 | [Weightless](https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Weightless](https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1) | 4:34 |
 | 12 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 |
-| 13 | [Track 7](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [](https://open.spotify.com/album/null) | 0:00 |
+| 13 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
 | 14 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 15 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 |
 | 16 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 |

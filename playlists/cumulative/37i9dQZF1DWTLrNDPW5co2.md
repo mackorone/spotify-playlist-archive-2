@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Honey Dijon.
 
-444 songs - 1 day 3 hr 7 min
+445 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Feeling](https://open.spotify.com/track/3iYbR4Pk129oLJoOwlNxFZ) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [DJ Failure](https://open.spotify.com/artist/5CzlPFyjOEHl6oa223hMAY) | [Feeling](https://open.spotify.com/album/1SRMHsdO1q9JfZ2cosSUHc) | 3:12 | 2025-07-11 |  |
 | [Femboy](https://open.spotify.com/track/6VtyMsUQBagv5qRul8Z21F) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Femboy](https://open.spotify.com/album/0mmiZ1VaRHXbpb4uXceN9Y) | 2:36 | 2025-12-05 |  |
 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 | 2024-06-14 | 2025-10-11 |
-| [Feral](https://open.spotify.com/track/4QiiW2b1WvzxZWD4KTCJNj) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Feral](https://open.spotify.com/album/5Zfo9kRvYbXmI9euFtAYLe) | 3:28 | 2025-09-12 |  |
+| [Feral](https://open.spotify.com/track/4QiiW2b1WvzxZWD4KTCJNj) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Feral](https://open.spotify.com/album/5Zfo9kRvYbXmI9euFtAYLe) | 3:28 | 2025-09-12 | 2026-02-07 |
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2021-10-15 | 2024-06-01 |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-10-15 | 2023-06-02 |
 | [FOREVER 21 w/ MISS LUXURY](https://open.spotify.com/track/5DFk9bjNR334on2mT4zhVq) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [MISS LUXURY](https://open.spotify.com/artist/6KlmTJ2jv8hMPUzuUEKNbZ) | [FOREVER 21 w/ MISS LUXURY](https://open.spotify.com/album/7me2zDjFfeJZiO8NvtKLY0) | 2:04 | 2025-01-24 | 2025-06-21 |
@@ -369,6 +369,7 @@
 | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Shaun J\. Wright](https://open.spotify.com/artist/31iZW0Zin2Ibzfr1BzXqpJ), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/album/0uqwUBeEk4WYoLt5ZJdirW) | 4:08 | 2024-09-20 | 2025-08-30 |
 | [Security](https://open.spotify.com/track/34XD74XzRNiojWYXAveUKj) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [Security](https://open.spotify.com/album/33mSENjZtsyhTYKXDV3UIZ) | 2:17 | 2025-01-24 |  |
 | [Selfish](https://open.spotify.com/track/4mktXHIFaaZ7247HlYeeeq) | [Jonah Almost](https://open.spotify.com/artist/3AsAGsWuplZx5dWXBzlyg1), [Rubby](https://open.spotify.com/artist/6iw4g0olqFqUdAGjkxjeAI) | [Selfish](https://open.spotify.com/album/1Ayj1RRALeOzUc26eCu7Wl) | 3:06 | 2024-10-18 | 2025-05-24 |
+| [Sexistential \- Arca’s Take](https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Sexistential \(Arca’s Take\)](https://open.spotify.com/album/0CghpJDNKhaaPU9Pw20Og6) | 3:44 | 2026-02-06 |  |
 | [SHAKE DAT](https://open.spotify.com/track/2uZNd8oxhctekoIoDfUoBP) | [River Moon](https://open.spotify.com/artist/5RD4Hod68h5cQzoz965po2) | [SHAKE DAT](https://open.spotify.com/album/4wLp5PZ8NmU2W0zaMXAw2W) | 5:00 | 2023-06-20 | 2023-06-24 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-10-13 | 2024-09-21 |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2021-10-15 | 2024-03-23 |

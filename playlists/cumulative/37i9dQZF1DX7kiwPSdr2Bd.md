@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Léa Mendonça
 
-305 songs - 1 day 3 hr 49 min
+306 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Jesus Vive \- Ao Vivo](https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Jesus Vive \(Ao Vivo\)](https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg) | 7:17 | 2023-05-12 | 2023-05-27 |
 | [Jesus, Meu Primeiro Amor \(Ao Vivo\)](https://open.spotify.com/track/0vqmdarUyBnBnXiyQ8bqvY) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Jesus, Meu Primeiro Amor \(Ao Vivo\)](https://open.spotify.com/album/4EY3T4raR9smfcDaZWY05b) | 5:31 | 2023-02-03 | 2023-07-08 |
 | [João Viu / Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [João Viu / Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog) | 4:39 | 2025-06-06 |  |
+| [Levarei a Minha Cruz \- Ao Vivo](https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW) | [Mayara Karolaine](https://open.spotify.com/artist/2CQGSc7wDD1TMHJvRO5P75), [Vivace Music](https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs) | [Levarei a Minha Cruz \(Ao Vivo\)](https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk) | 3:35 | 2026-02-06 |  |
 | [Leão \- Acústico](https://open.spotify.com/track/72NJM7lD4KMcxoiSD5Cvab) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Leão \(Acústico\)](https://open.spotify.com/album/7KnlkcRioCEETEpOjrPTKO) | 3:50 | 2023-01-13 | 2023-02-04 |
 | [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 | 2023-09-02 |
 | [Liberdade](https://open.spotify.com/track/2TWLi0yA5HiU3MM2G3tdht) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Liberdade](https://open.spotify.com/album/4avufiq5YcQv4etr5pnGzU) | 4:06 | 2024-04-26 | 2025-03-18 |
@@ -292,7 +293,7 @@
 | [Tóxico Amor \- Studio Session](https://open.spotify.com/track/0G43SeDBEBwt8XU2jBt1FK) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Tóxico Amor \(Studio Session\)](https://open.spotify.com/album/1YHOs9o07L3oT443Co7CAW) | 3:52 | 2023-07-28 | 2023-08-19 |
 | [Um Milhão de Vezes \- Ao Vivo](https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Um Milhão de Vezes \(Ao Vivo\)](https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I) | 4:18 | 2024-04-19 | 2025-07-20 |
 | [Uma Hora é Pouco \- Ao Vivo](https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Ao Vivo\)](https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT) | 10:21 | 2023-03-03 | 2023-09-26 |
-| [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 | 2022-09-09 |  |
+| [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 | 2022-09-09 | 2026-02-07 |
 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 | 2022-09-09 | 2023-07-15 |
 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 | 2025-07-04 | 2025-07-20 |
 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 | 2024-08-16 |  |

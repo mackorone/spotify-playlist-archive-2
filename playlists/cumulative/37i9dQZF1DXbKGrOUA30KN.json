@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Durch die Blume",
+        "url": "https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Gut genug",
+      "url": "https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y"
+    },
+    {
+      "album": {
         "name": "Gut mit dir",
         "url": "https://open.spotify.com/album/2xipWmCGI2F7pNuKjpWDUb"
       },
@@ -3871,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "sad baddie anthem EP",
+        "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137436,
+      "name": "sad baddie anthem",
+      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
+    },
+    {
+      "album": {
         "name": "Scherben",
         "url": "https://open.spotify.com/album/1uKhs1Xn1h7iLDUdZ8D3D5"
       },
@@ -4199,42 +4235,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "SOPHIA",
-          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
-    },
-    {
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh"
       },
@@ -4535,8 +4535,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Blumendisko",
+        "url": "https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO"
       },
       "artists": [
         {

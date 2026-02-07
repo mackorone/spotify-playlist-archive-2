@@ -4,7 +4,7 @@
 
 > unearthing music that makes us feel interesting, featuring madra salach.
 
-511 songs - 1 day 7 hr 58 min
+512 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Black Rabbit](https://open.spotify.com/track/7mUAtPz8GMelbiuVyPEgKP) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Black Rabbit](https://open.spotify.com/album/5ZuHH6ov9hbThE3u2QVPhq) | 4:35 | 2025-02-21 | 2025-05-02 |
 | [Blanket \- Dan Carey Remix](https://open.spotify.com/track/0n7MDEsT31gB6W1dcYOS32) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi), [Dan Carey](https://open.spotify.com/artist/1PXStuNqw9YDsim4EhMSq7) | [Blanket \(Dan Carey Remix\)](https://open.spotify.com/album/7fNGZksnLZi3ZHkzQd2VfP) | 3:40 | 2024-06-14 | 2024-09-06 |
 | [Blankspace](https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Blankspace](https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g) | 3:04 | 2026-01-12 |  |
-| [Bleary Eyes](https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bleary Eyes](https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD) | 4:53 | 2025-10-02 |  |
+| [Bleary Eyes](https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bleary Eyes](https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD) | 4:53 | 2025-10-02 | 2026-02-07 |
 | [Blue](https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Blue](https://open.spotify.com/album/7sM3EjIPx3j5n3M0T0qjAt) | 3:36 | 2024-08-16 | 2025-03-25 |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-06 | 2025-03-25 |
 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 | 2025-10-16 |  |
@@ -249,6 +249,7 @@
 | [jamie xx](https://open.spotify.com/track/319e5sMbCe9WOZgfPm3c7S) | [vegas water taxi](https://open.spotify.com/artist/6c4VNNZPpiVzynOvh11Bgc) | [jamie xx](https://open.spotify.com/album/5GHKu315auQgANll0e0GpE) | 3:24 | 2026-01-16 |  |
 | [Jesus](https://open.spotify.com/track/3eeoEbLGDStit43ojhNC99) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Jesus / Holy Brother](https://open.spotify.com/album/1Eb7PDUA9mwxhH0xbGJquK) | 3:10 | 2025-01-17 | 2025-05-02 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-14 | 2025-09-02 |
+| [JING'AN TEMPLE](https://open.spotify.com/track/17X4AXgPTtUSX8rWzgH373) | [SILVERWINGKILLER](https://open.spotify.com/artist/01fAmVDgOqwXenvB9TWVCu) | [JING'AN TEMPLE](https://open.spotify.com/album/5orWxU2PBoM198cHqIprzk) | 2:28 | 2026-02-06 |  |
 | [JIVE](https://open.spotify.com/track/4WJ7z7TqsN06ZXcgfVxCJG) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [JIVE](https://open.spotify.com/album/6L0MoQQNsJMpIxy2H0g98g) | 4:14 | 2025-06-18 | 2025-10-03 |
 | [Johnny](https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Johnny](https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB) | 3:34 | 2024-07-26 | 2025-02-22 |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-12 |  |

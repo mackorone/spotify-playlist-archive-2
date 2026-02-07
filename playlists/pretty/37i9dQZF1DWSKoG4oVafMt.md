@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
 
-### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
+### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,482 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,616 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Apsraa 2](https://open.spotify.com/track/6apKBuRQS4gBiWbmtXir6X) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Apsraa 2](https://open.spotify.com/album/5zrxuSi46sZpMynX2HsVrf) | 9:05 |
 | 100 | [Tere Layi](https://open.spotify.com/track/58rlJQKF6RyDfkAxiCqVEO) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Tere Layi](https://open.spotify.com/album/3FMJraUH21tY0jTbNdlHP9) | 6:40 |
 
-Snapshot ID: `AAAAALT1jQewjKKPYM+bjM8BKSohmqGr`
+Snapshot ID: `AAAAAEhtPOtJ+BQVudtFwzxIXSg96iBM`

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Ktyb
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : EMP1RE
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,258 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,264 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 |
-| 2 | [STORY](https://open.spotify.com/track/48Hx9OyVN0uNt785LNj6pQ) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [STORY](https://open.spotify.com/album/3KIN37CuJ5aNrGaDcasprX) | 3:09 |
+| 1 | [STORY](https://open.spotify.com/track/48Hx9OyVN0uNt785LNj6pQ) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [STORY](https://open.spotify.com/album/3KIN37CuJ5aNrGaDcasprX) | 3:09 |
+| 2 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 |
 | 3 | [ken w ken](https://open.spotify.com/track/787ew6ljH49JY4p38wsBY1) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Rehla](https://open.spotify.com/album/11TOgqAu4RWGpmpzady4y2) | 3:21 |
 | 4 | [Amir Al Bihar](https://open.spotify.com/track/4eDl7rpLj1JCSLaqbIQ6h5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Amir Al Bihar](https://open.spotify.com/album/3ZzxEG1zKE7kq372gxXgyG) | 3:02 |
 | 5 | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/track/1CbUpKk52t8R0bzxTFHJdH) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Lili Wala Sbe7 \(Demo\)](https://open.spotify.com/album/1GkVd8003ojeJAId0GohK5) | 4:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [CHARIKET DAJEJ](https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W) | [Fossa](https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX) | [CHARIKET DAJEJ](https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r) | 3:31 |
 | 60 | [AIRMAX](https://open.spotify.com/track/0JsxcoIZwREN05wzM25fC1) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [AIRMAX](https://open.spotify.com/album/1krq5NT4YvlfvgCVbxKio7) | 2:57 |
 
-Snapshot ID: `AAAAAB/i7fikD2wlZmoecUN3gJtSGsud`
+Snapshot ID: `AAAAAIYqVq231o8FnSN4/4J2r0Jz2t7H`

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS"
+    },
+    {
+      "album": {
         "name": "i swear i'm fine",
         "url": "https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs"
       },
@@ -373,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170361,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui"
+    },
+    {
+      "album": {
         "name": "Dancing Shadows",
         "url": "https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI"
       },
@@ -395,6 +435,42 @@
     },
     {
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256737,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191351,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG"
+    },
+    {
+      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -410,6 +486,24 @@
       "duration_ms": 161004,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT"
+    },
+    {
+      "album": {
+        "name": "Gut Punch",
+        "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Gut Punch",
+      "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
     },
     {
       "album": {
@@ -765,6 +859,42 @@
     },
     {
       "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203923,
+      "name": "Mirror to the Sky",
+      "url": "https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp"
+    },
+    {
+      "album": {
+        "name": "NANi",
+        "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "NANi",
+      "url": "https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH"
+    },
+    {
+      "album": {
         "name": "Nothing Like I Used To Be",
         "url": "https://open.spotify.com/album/0OEk2M4TSQFs9gWQqEWNyo"
       },
@@ -798,6 +928,24 @@
       "duration_ms": 161751,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/26jAZCayrtgXFq7UhpQgSO"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/6X5XfDaweonx5mIQHZiHNB"
     },
     {
       "album": {
@@ -947,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237898,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
       },
@@ -1001,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "superstars",
+        "url": "https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144348,
+      "name": "superstars",
+      "url": "https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj"
+    },
+    {
+      "album": {
         "name": "Sketchbook",
         "url": "https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8"
       },
@@ -1016,6 +1204,24 @@
       "duration_ms": 220664,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr"
+    },
+    {
+      "album": {
+        "name": "Why Not More?",
+        "url": "https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164606,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/4uUih1tl2qNtucRds8RZgu"
     },
     {
       "album": {
@@ -1171,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "What Do I Know? (Just A Girl) [feat. Shenseea]",
+        "url": "https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149279,
+      "name": "What Do I Know? (Just A Girl) [feat. Shenseea]",
+      "url": "https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA"
+    },
+    {
+      "album": {
         "name": "The Complete Season 13 Collection (The Voice Performance)",
         "url": "https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt"
       },
@@ -1229,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269443,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
       },
@@ -1244,6 +1490,24 @@
       "duration_ms": 193066,
       "name": "White Man",
       "url": "https://open.spotify.com/track/5zyyicAObouqjww4FL7vsP"
+    },
+    {
+      "album": {
+        "name": "Music For People Who Believe In DNCE",
+        "url": "https://open.spotify.com/album/5i9q6otDNQm25gyl5Ik3F3"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/3dfSKcVcxle6GUL6i7FBjm"
     },
     {
       "album": {

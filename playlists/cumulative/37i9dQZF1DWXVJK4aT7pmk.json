@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146526,
       "name": "Ayee",
       "url": "https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN"
@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "MUSAFIR (Live)",
+        "url": "https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282739,
+      "name": "Faqeeran - Live",
+      "url": "https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191874,
       "name": "HIM.",
       "url": "https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8"
@@ -2058,6 +2076,28 @@
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
+    },
+    {
+      "album": {
+        "name": "Jogi",
+        "url": "https://open.spotify.com/album/5ID3wDWAzVrkaCXwZa9Pkx"
+      },
+      "artists": [
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        },
+        {
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174421,
+      "name": "Jogi",
+      "url": "https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk"
     },
     {
       "album": {
@@ -3182,7 +3222,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146038,
       "name": "PERFECT (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz"
@@ -3208,6 +3248,28 @@
       "duration_ms": 119740,
       "name": "Petrol",
       "url": "https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0"
+    },
+    {
+      "album": {
+        "name": "Piche Tere",
+        "url": "https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119755,
+      "name": "Piche Tere",
+      "url": "https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h"
     },
     {
       "album": {

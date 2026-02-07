@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,146 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,273 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 149 | [Binaural Alpha Waves 106\-114 Hz](https://open.spotify.com/track/0CmEJsRYkDL2Eb3H8KLdKg) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Binaural Alpha Waves 106\-114 Hz](https://open.spotify.com/album/2X7Kuh2krSDuS7gDbwXuLp) | 2:34 |
 | 150 | [Refreshed \(Binaural Alpha\)](https://open.spotify.com/track/3x5KoeNMu87qI58lciyDRJ) | [Harper Rems](https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP) | [Revitalizing Mind \(Binaural Alpha\)](https://open.spotify.com/album/3qiExS5HQHUKfER0TqmhSG) | 3:51 |
 
-Snapshot ID: `AAAAAA6u7qlQKEPTK6INqcOQt8FTio2X`
+Snapshot ID: `AAAAAI2RqUeTiPveYxzXvW3uTpx8qgEG`

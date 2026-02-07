@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 599 likes - 482 songs - 23 hr 19 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 600 likes - 483 songs - 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -357,7 +357,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 347 | [No Tom \(Time\)](https://open.spotify.com/track/0ZXTly4pxs2DkvKRXNUg5D) | [Sav DaLawd](https://open.spotify.com/artist/6TGuEedwrZbbwkz1d36yAw) | [No Tom \(Time\)](https://open.spotify.com/album/6pU5xDsEcoxMLi4wnw8ea3) | 3:44 |
 | 348 | [AWAKE \- Original Mix](https://open.spotify.com/track/6rgQichAWgJCsWePFymIOt) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [AK Journey](https://open.spotify.com/artist/4WpNCKYj2J1sEh9pYzqXDW) | [AWAKE \(Original Mix\)](https://open.spotify.com/album/5Q47cwt9twvd5uWOVK3ZE6) | 2:41 |
 | 349 | [Clarity](https://open.spotify.com/track/7BcPGHMy13w7PUg7BGOByO) | [Zarius](https://open.spotify.com/artist/2Q20E4muR026ErmtLCdkaD) | [Clarity](https://open.spotify.com/album/79DX18dJbTqZHdlodMJhXP) | 2:54 |
-| 350 | [Eyes On You \- Slowed + Reverb](https://open.spotify.com/track/0YnFqLaMgeL1djRjXBI7Dx) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Eyes On You \(Slowed + Reverb\)](https://open.spotify.com/album/0pFsdfI0DYp3vp3gxLnYQd) | 3:36 |
+| 350 | [Eyes On You \- Slowed + Reverb](https://open.spotify.com/track/0YnFqLaMgeL1djRjXBI7Dx) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Eyes On You \(Slowed + Reverb\)](https://open.spotify.com/album/0pFsdfI0DYp3vp3gxLnYQd) | 3:36 |
 | 351 | [Beyond](https://open.spotify.com/track/2wUBVADxzbkOGDCMJLlqA1) | [4GOT10](https://open.spotify.com/artist/6K8R9AxskkrrwheT424Zzr) | [Beyond](https://open.spotify.com/album/1XszGMcfsUw0S0yEsbM7Jr) | 1:22 |
 | 352 | [REGGAE, Pt\. 3 \- Original Mix](https://open.spotify.com/track/115k6PfNK2uj14usJ3MwmA) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Ved](https://open.spotify.com/artist/1PRwKr1aAP4YDisnEuvTym) | [REGGAE, Pt\. 3 \(Original Mix\)](https://open.spotify.com/album/1WfHcDciiMp2H3DUy9eTsN) | 3:26 |
 | 353 | [REGGAE, Pt\. 4 \- Original Mix](https://open.spotify.com/track/2VCxBtAX3cGG9efKmhrahq) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [NarcosBeats](https://open.spotify.com/artist/4FYLhxKBdSMnDPwxZBeMM9) | [REGGAE, Pt\. 4 \(Original Mix\)](https://open.spotify.com/album/2Wi37SlC5XaNizJqOnh7wT) | 2:45 |
@@ -490,5 +490,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 480 | [Whitney remix ft\. swaveoh](https://open.spotify.com/track/4mo6JNiJ6RlcrxYArkImoR) | [swaveoh](https://open.spotify.com/artist/4tq4w6QBUcBu7jPXlREGDz) | [Whitney remix ft\. swaveoh](https://open.spotify.com/album/76LHANQHM4lOYbeultZQYN) | 1:38 |
 | 481 | [WIFE YOU UP \- Dance Remix](https://open.spotify.com/track/2IbvLHBU9xNltdOxQNc7Ee) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [blackbirdz](https://open.spotify.com/artist/5XlpgAlMt1YOjijhFazgdg), [JJJackson](https://open.spotify.com/artist/0MOqq6zMTLf6oTqkcCTAv6) | [WIFE YOU UP REMIX PACK](https://open.spotify.com/album/3Q1Dl3LhIIYfcl19OL6Pks) | 2:36 |
 | 482 | [Pressuh](https://open.spotify.com/track/0bN6DP9jvgIEqkLCYVVnCk) | [Dova?](https://open.spotify.com/artist/1EEjUSS9drSjsLAndXHpRo) | [Pressuh](https://open.spotify.com/album/7eWqkKPbjpBjysS4Kc15f8) | 2:00 |
+| 483 | [whatchu want](https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [whatchu want](https://open.spotify.com/album/15wJznFpg1iyZMSGUA6YGo) | 1:58 |
 
-Snapshot ID: `AAABgsbG4DKjCmVEYQ00J8oN10JUTdBW`
+Snapshot ID: `AAABg5sNy/MlLYJEeAHPjgCh1Wi6kK9o`

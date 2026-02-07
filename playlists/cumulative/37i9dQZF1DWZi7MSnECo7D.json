@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Infinito Latente",
+  "description": "M\u00fasica brasileira fora da curva. Foto: pedro lanches, YMA",
   "name": "alt BR",
   "tracks": [
     {
@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "adesivos",
+        "url": "https://open.spotify.com/album/64Q8HwqFXQnMLwv44Adjm4"
+      },
+      "artists": [
+        {
+          "name": "pedro lanches",
+          "url": "https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7"
+        },
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241781,
+      "name": "adesivos",
+      "url": "https://open.spotify.com/track/2DC3j9vVu1Y9yC35gwuj89"
+    },
+    {
+      "album": {
         "name": "Agora Eu Preciso Pagar Contas",
         "url": "https://open.spotify.com/album/2IBGgqV3XGhtL9dz6PiUsn"
       },
@@ -558,6 +580,24 @@
       "duration_ms": 191570,
       "name": "Agora Eu Preciso Pagar Contas",
       "url": "https://open.spotify.com/track/58xEYZkV8UyFZxTO9UlwVO"
+    },
+    {
+      "album": {
+        "name": "Agu\u00e7a",
+        "url": "https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Loyola",
+          "url": "https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172053,
+      "name": "Agu\u00e7a",
+      "url": "https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK"
     },
     {
       "album": {
@@ -1632,7 +1672,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 158970,
       "name": "Ayer Mor\u00ed",
       "url": "https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3"
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 218093,
       "name": "charlie",
       "url": "https://open.spotify.com/track/2ao0oy1rwhQm0xnfSu1jgs"
@@ -3238,7 +3278,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177391,
       "name": "Consciente",
       "url": "https://open.spotify.com/track/44DfRvxTdq4taWVWeuuRjI"
@@ -3484,7 +3524,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 249392,
       "name": "Corpo Asa",
       "url": "https://open.spotify.com/track/1KnpKwAIZK37oIqowUNV09"
@@ -4173,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Desde Que Eu Morri",
+        "url": "https://open.spotify.com/album/7tCz7eqMGfd8tbf5f2JVVZ"
+      },
+      "artists": [
+        {
+          "name": "Ludovic",
+          "url": "https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215125,
+      "name": "Desde Que Eu Morri",
+      "url": "https://open.spotify.com/track/485DVlRqkWddYmWvXW3HaS"
+    },
+    {
+      "album": {
         "name": "Desejos de um Le\u00e3o",
         "url": "https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2"
       },
@@ -4690,7 +4748,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194765,
       "name": "Eclipse Solar",
       "url": "https://open.spotify.com/track/7JnOzPASrmhQdiSrv8Yl1v"
@@ -4878,6 +4936,24 @@
       "duration_ms": 239285,
       "name": "Ensaio",
       "url": "https://open.spotify.com/track/1jyqE4qZwLWqlENCHS8ho9"
+    },
+    {
+      "album": {
+        "name": "Ensalada de Verano",
+        "url": "https://open.spotify.com/album/5vFfW1UcJQPUjVhJEfgb5I"
+      },
+      "artists": [
+        {
+          "name": "Maria Luma",
+          "url": "https://open.spotify.com/artist/0kPtoMbZBliIFjgrbj8ONC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ensalada de Verano",
+      "url": "https://open.spotify.com/track/7qwBPJeOXTYhSxRPOfVGWs"
     },
     {
       "album": {
@@ -5969,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "flutuar",
+        "url": "https://open.spotify.com/album/0c24C6da48f4vE1PXDkxFs"
+      },
+      "artists": [
+        {
+          "name": "Vulgari",
+          "url": "https://open.spotify.com/artist/1I59YmNhfLX2DO3bkGGKmX"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "flutuar",
+      "url": "https://open.spotify.com/track/3fsJOS6fA34rwK58v2Uwf0"
+    },
+    {
+      "album": {
         "name": "Fogos",
         "url": "https://open.spotify.com/album/3DL6uecdrSVItdPBmNhd4K"
       },
@@ -6684,7 +6778,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162692,
       "name": "Imprevis\u00edvel",
       "url": "https://open.spotify.com/track/5cRpK6nKXBM5xbHU048Z6h"
@@ -8137,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Me Pede",
+        "url": "https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad"
+      },
+      "artists": [
+        {
+          "name": "Karla Hill",
+          "url": "https://open.spotify.com/artist/06OHroQpGdXwvdSJIfJdMC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Me Pede",
+      "url": "https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC"
+    },
+    {
+      "album": {
         "name": "sonhos que nunca morrem",
         "url": "https://open.spotify.com/album/33etIhUAICBW6GkQPNMMWl"
       },
@@ -8332,6 +8444,24 @@
       "duration_ms": 236604,
       "name": "Mel\u00f4 do Sossego",
       "url": "https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud"
+    },
+    {
+      "album": {
+        "name": "Menina do cabelo alaranjado",
+        "url": "https://open.spotify.com/album/40wuN4ukAndX0xBCYIbecA"
+      },
+      "artists": [
+        {
+          "name": "Luiza Aires",
+          "url": "https://open.spotify.com/artist/7xOICaCwUN27SBArKb9jle"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "Menina do cabelo alaranjado",
+      "url": "https://open.spotify.com/track/2Rspg5WSGNFmU0XicEwYr8"
     },
     {
       "album": {
@@ -10646,7 +10776,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 189500,
       "name": "os carros",
       "url": "https://open.spotify.com/track/2BQslz0bjUZCft2LQoL31M"
@@ -11588,7 +11718,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 264000,
       "name": "pra voc\u00ea saber como eu to:",
       "url": "https://open.spotify.com/track/5md4g4CpeW8q5h1nMh3Ayr"
@@ -15870,6 +16000,28 @@
       "duration_ms": 278236,
       "name": "Voc\u00ea Sabe Bem",
       "url": "https://open.spotify.com/track/08qLu0pFzJMUMhm7X6s6Ta"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Sabe Tudo Pela Metade",
+        "url": "https://open.spotify.com/album/7B8MA87nlF4fTEmbgPaf1C"
+      },
+      "artists": [
+        {
+          "name": "Rafa Canovas",
+          "url": "https://open.spotify.com/artist/4bwXauSZTnrlZLw47HkDuD"
+        },
+        {
+          "name": "Quiriku",
+          "url": "https://open.spotify.com/artist/1yez2LsZPGg0UkaMtCeUhw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227755,
+      "name": "Voc\u00ea Sabe Tudo Pela Metade",
+      "url": "https://open.spotify.com/track/70Gyc0ylgaU7iwaXKZFsTC"
     },
     {
       "album": {

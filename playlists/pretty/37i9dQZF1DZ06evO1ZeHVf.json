@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 54682,
+  "num_followers": 54708,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACM6wPTEVPeDycppF9qEXpZ",
+  "snapshot_id": "aYPdgAAAAAD4ee0cBnr8419JIKoryGZ7",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shout To The Lord",
-        "url": "https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli"
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
       "artists": [
         {
-          "name": "House of Worship",
-          "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
-        },
-        {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Darlene Zschech",
-          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
         }
       ],
-      "duration_ms": 428594,
-      "name": "Shout To The Lord",
-      "url": "https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9"
+      "duration_ms": 332973,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
     },
     {
       "added_at": null,
@@ -319,18 +311,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+        "name": "Shout To The Lord",
+        "url": "https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli"
       },
       "artists": [
         {
+          "name": "House of Worship",
+          "url": "https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24"
+        },
+        {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Darlene Zschech",
+          "url": "https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw"
         }
       ],
-      "duration_ms": 332973,
-      "name": "Alabaster Box",
-      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+      "duration_ms": 428594,
+      "name": "Shout To The Lord",
+      "url": "https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 219333,
       "name": "A Heart Like Yours",
       "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 294493,
       "name": "Jesus, You're Beautiful",
       "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Just To Be Close To You - Live",
-      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 69200,
       "name": "Hallelujah To The King - Intro",
       "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 307484,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/77y50GoCnEr3ckdfp5dFT4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throne Room (Gold Edition)",
         "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 288400,
       "name": "Come Fill My Heart",
       "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 307484,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/77y50GoCnEr3ckdfp5dFT4"
     },
     {
       "added_at": null,

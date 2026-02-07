@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1330420,
+  "num_followers": 1330338,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "No Way To Relax When You Are On Fire",
-        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "No Way To Relax When You Are On Fire",
-      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 207242,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "This Must Be Love",
+        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 167459,
+      "name": "This Must Be Love",
+      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "This Must Be Love",
-        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 167459,
-      "name": "This Must Be Love",
-      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "the minute you're gone",
+        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "the minute you're gone",
+      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
     },
     {
       "added_at": "2025-12-31 13:31:08",

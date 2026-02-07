@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "pq no to' e' dembow en rd loko. Portada: Little Homie, Huan62",
+  "description": "pq no to' e' dembow en rd loko. Portada: Amenazzy",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -358,6 +358,28 @@
       "duration_ms": 146952,
       "name": "3.5",
       "url": "https://open.spotify.com/track/1a8xrk8ZCV9jOZI6RjRIE0"
+    },
+    {
+      "album": {
+        "name": "30 MILLAS",
+        "url": "https://open.spotify.com/album/4sbufBApTom9ZQrvK7tBH7"
+      },
+      "artists": [
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "BASTY",
+          "url": "https://open.spotify.com/artist/1RjIaNqPp6x0lJ90ghEq83"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116678,
+      "name": "30 MILLAS",
+      "url": "https://open.spotify.com/track/5K5W8gHk0AGTESkxLEVF7O"
     },
     {
       "album": {
@@ -3970,7 +3992,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 221896,
       "name": "Castigo A Tu Gata",
       "url": "https://open.spotify.com/track/02riKUO9d04p6ap90ZM607"
@@ -6396,7 +6418,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 125893,
       "name": "Delay, Capitulo 19",
       "url": "https://open.spotify.com/track/49yPFUfOk7HbniqxMOfSGx"
@@ -7674,7 +7696,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 121142,
       "name": "E' Popi",
       "url": "https://open.spotify.com/track/3vPEOORh1ulDAf47hp7tAh"
@@ -15224,7 +15246,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 113384,
       "name": "Malo Son Ello",
       "url": "https://open.spotify.com/track/3KXTCRK2lGuvrfJQJGldkU"
@@ -16404,6 +16426,28 @@
       "duration_ms": 224095,
       "name": "Mi Esposa",
       "url": "https://open.spotify.com/track/36qU5s412GZ7FExUMevWyZ"
+    },
+    {
+      "album": {
+        "name": "Mi Fan",
+        "url": "https://open.spotify.com/album/4ilA53WnNbmegglzjDgp0D"
+      },
+      "artists": [
+        {
+          "name": "DJ Kiko El De Lo Alka",
+          "url": "https://open.spotify.com/artist/3Yw1hzqrJkVzGIliYmCKvF"
+        },
+        {
+          "name": "Kaly Ocho",
+          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96675,
+      "name": "Mi Fan",
+      "url": "https://open.spotify.com/track/3LdI4y4zHhWYaIBEJcts1O"
     },
     {
       "album": {
@@ -18512,7 +18556,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 125625,
       "name": "No Me Conviene",
       "url": "https://open.spotify.com/track/2yliwlBi1A4cEQjPz3lZUZ"
@@ -20103,6 +20147,36 @@
     },
     {
       "album": {
+        "name": "Paloma (Remix)",
+        "url": "https://open.spotify.com/album/4H2OOb55lXuKoxdtmXKVnq"
+      },
+      "artists": [
+        {
+          "name": "Rc La Sensacion",
+          "url": "https://open.spotify.com/artist/4yR1GCYxY2lgkvPUhUM8Ws"
+        },
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Sammy The Greatest",
+          "url": "https://open.spotify.com/artist/51NCx9Br54qYPezwKIvIz3"
+        },
+        {
+          "name": "Sensa",
+          "url": "https://open.spotify.com/artist/77ncgyvtpVSjgM8WoGi3Mg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157954,
+      "name": "Paloma - Remix",
+      "url": "https://open.spotify.com/track/0RjXzHvMzqdVzLvMsge9vQ"
+    },
+    {
+      "album": {
         "name": "Pamela",
         "url": "https://open.spotify.com/album/436fgECKeBrd32YCDvpK7Y"
       },
@@ -21676,7 +21750,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 274800,
       "name": "Que Sera (Remix)",
       "url": "https://open.spotify.com/track/4ZHDUFMYdwiHhtObBGHRJ1"
@@ -21694,7 +21768,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 62795,
       "name": "que te de",
       "url": "https://open.spotify.com/track/3eqcuvI8RDvHy8JBiDrq6U"
@@ -22476,7 +22550,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 128320,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/48XxF0ROif5U7fmtsjQZ6r"
@@ -22928,6 +23002,24 @@
       "duration_ms": 179124,
       "name": "Se Comenta",
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "album": {
+        "name": "Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/7t5KKxga8kR6ZiOMNjwKik"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/235mVsqziBNPXuCuvCAM9h"
     },
     {
       "album": {
@@ -27044,7 +27136,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 148800,
       "name": "Una Vida Entera",
       "url": "https://open.spotify.com/track/6RY4o2xm6saT6RKA3dYBH0"

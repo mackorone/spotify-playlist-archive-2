@@ -2405,6 +2405,36 @@
     },
     {
       "album": {
+        "name": "Filha de Iemanj\u00e1",
+        "url": "https://open.spotify.com/album/2hwxkqA2MrUupNxP11arBa"
+      },
+      "artists": [
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Ogmansha",
+          "url": "https://open.spotify.com/artist/5PwQWhjrKuZ0XGpUBP007N"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181185,
+      "name": "Filha de Iemanj\u00e1",
+      "url": "https://open.spotify.com/track/1oWHwJS4FrWcCrw6d6fq8F"
+    },
+    {
+      "album": {
         "name": "Fim De Semana",
         "url": "https://open.spotify.com/album/3pbfczs2jCRIaPsjWcSszo"
       },
@@ -3710,7 +3740,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 289122,
       "name": "Na Areia",
       "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1510850,
+  "num_followers": 1510811,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 230772,
-      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Onde A Gente Chegou",
         "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 160408,
       "name": "Onde A Gente Chegou",
       "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 230772,
+      "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
     },
     {
       "added_at": "2024-08-02 18:37:00",

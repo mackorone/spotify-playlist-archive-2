@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-08-13 17:36:16",
       "album": {
+        "name": "bad idea!",
+        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
+    },
+    {
+      "added_at": "2025-08-13 17:36:16",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
-    },
-    {
-      "added_at": "2025-08-13 17:36:16",
-      "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
     },
     {
       "added_at": "2025-08-13 17:36:16",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-08-13 17:36:16",
       "album": {
+        "name": "Gang Signs & Prayer",
+        "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 179564,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J"
+    },
+    {
+      "added_at": "2025-08-13 17:36:16",
+      "album": {
         "name": "Philip Oakey & Giorgio Moroder",
         "url": "https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 232666,
       "name": "Together In Electric Dreams - Remastered 2003 / From \"Electric Dreams\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS"
-    },
-    {
-      "added_at": "2025-08-13 17:36:16",
-      "album": {
-        "name": "Gang Signs & Prayer",
-        "url": "https://open.spotify.com/album/5S1Og4Ubi4afuiBOzyBhmW"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 179564,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/4P8dRfSz0LBgyWfjod6v3J"
     },
     {
       "added_at": "2025-08-13 17:36:16",

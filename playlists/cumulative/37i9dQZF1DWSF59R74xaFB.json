@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Paty Cant\u00fa en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Sin Bandera en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169651,
       "name": "Bumer\u00e1n",
       "url": "https://open.spotify.com/track/1eDG6rEIWlVLVmoOZPnmRd"
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 256633,
       "name": "guarda tus migajas",
       "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
@@ -5214,6 +5214,24 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
+    },
+    {
+      "album": {
+        "name": "La calma",
+        "url": "https://open.spotify.com/album/1T2jfF6ytBufPN9dUDlM0A"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234196,
+      "name": "Le pasa solo al resto",
+      "url": "https://open.spotify.com/track/16hphSypwXfQdaK2T4jqEz"
     },
     {
       "album": {
@@ -6362,7 +6380,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 209069,
       "name": "MIRO TU CARA EN LA LUNA",
       "url": "https://open.spotify.com/track/1WNuSmfx8g1VtJaWayVUBJ"
@@ -7057,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "ESCENAS",
+        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
+    },
+    {
+      "album": {
         "name": "Nunca Digas Jam\u00e1s",
         "url": "https://open.spotify.com/album/68eOK9YTfbG2IUEt3BH7Zm"
       },
@@ -7248,6 +7284,24 @@
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
+    },
+    {
+      "album": {
+        "name": "Otra Vez (One More Time)",
+        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193161,
+      "name": "Otra Vez (One More Time)",
+      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
     },
     {
       "album": {
@@ -7462,7 +7516,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
@@ -7596,7 +7650,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
@@ -7658,7 +7712,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183546,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD"
@@ -8707,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Si Te Preguntan por M\u00ed",
+        "url": "https://open.spotify.com/album/2zficpTBAumUKYpffmGZKW"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212743,
+      "name": "Si Te Preguntan por M\u00ed",
+      "url": "https://open.spotify.com/track/6TNfi4TTJqh39Gi3eUVfOh"
+    },
+    {
+      "album": {
         "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
       },
@@ -8788,7 +8860,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
@@ -10082,6 +10154,24 @@
       "duration_ms": 256706,
       "name": "Tonto coraz\u00f3n",
       "url": "https://open.spotify.com/track/1BMwZkCA1xu4HNTFn7Poro"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e1gico M\u00e1gico",
+        "url": "https://open.spotify.com/album/6KNrS7axhizrYa31eeNNYt"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218692,
+      "name": "Tr\u00e1gico M\u00e1gico",
+      "url": "https://open.spotify.com/track/5AYRp7aG0BJ3w7b01suBlT"
     },
     {
       "album": {

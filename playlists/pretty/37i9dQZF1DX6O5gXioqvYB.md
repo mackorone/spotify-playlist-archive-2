@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Roshelle in cover + tutto il meglio delle novità indie 🎀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,526 likes - 115 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,532 likes - 115 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 9 | [separi](https://open.spotify.com/track/3jQ0VHtxq8iV7Tzz1vWnGW) | [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [separi](https://open.spotify.com/album/7p5W1pnnR39CND3N5G7S6L) | 3:09 |
 | 10 | [Ya Tú Sabes](https://open.spotify.com/track/4B5jn44Fp6WNc3wcVugSPY) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [JIMI](https://open.spotify.com/artist/5sA6WPwZsAFjwgKWHKM1E0) | [Ya Tú Sabes](https://open.spotify.com/album/1mjI8aBc9bfwa7xQQ2fqgn) | 2:22 |
 | 11 | [Ancora tu](https://open.spotify.com/track/3z9la1ZrG34n98F1bgkHZ8) | [Depo](https://open.spotify.com/artist/3WDTh7mzsXaYVbh6K0ZAMe) | [Ancora tu](https://open.spotify.com/album/3k2f3jIvgYrerPKz4OtxRQ) | 3:10 |
-| 12 | [Il tempo è un bastardo](https://open.spotify.com/track/3WIMeu1hfHtzFASbabbQhc) | [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [](https://open.spotify.com/album/null) | 3:32 |
+| 12 | [Il tempo è un bastardo](https://open.spotify.com/track/3WIMeu1hfHtzFASbabbQhc) | [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [Camaleonte](https://open.spotify.com/album/2V7v8sDtnbetwmo6v7L8Ye) | 3:32 |
 | 13 | [Per quando sei triste triste](https://open.spotify.com/track/6eDYz8amUDIybmC1F9TjVx) | [Il Solito Dandy](https://open.spotify.com/artist/4ZfQQC1zzgnrh46Jjz43KM) | [Per quando sei triste triste](https://open.spotify.com/album/6hlzt1Vq5o9t5PAZ8vKqS7) | 2:32 |
 | 14 | [I Treni](https://open.spotify.com/track/0VRqo8Lq3I0nHWmzIl4frP) | [Lea Gavino](https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL) | [I Treni](https://open.spotify.com/album/5QCKN7a53PzgtmWpSszO4e) | 2:52 |
 | 15 | [Pensieri Giganti](https://open.spotify.com/track/2nD7aJv1eAaR4LpGJsVYCs) | [Martina Grillo](https://open.spotify.com/artist/3eATOhqJn8TM3qCyIrG35Q) | [Pensieri Giganti](https://open.spotify.com/album/4utR88kNfOonRA9cFmCVLf) | 3:07 |

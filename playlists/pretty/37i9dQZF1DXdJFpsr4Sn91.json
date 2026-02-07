@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60238,
+  "num_followers": 60232,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "Make up your mind",
         "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 188000,
       "name": "Make up your mind",
       "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Prismatic: Pack One",
-        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -783,6 +763,26 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "Rakkaudenkipee",
         "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 174044,
       "name": "Rakkaudenkipee",
       "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "Tytt\u00f6yst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 177132,
-      "name": "Tytt\u00f6yst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -835,18 +819,18 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
       "artists": [
         {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 191119,
-      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -867,6 +851,22 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 191119,
+      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Cokis ja Mentos",
-        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
-      },
-      "artists": [
-        {
-          "name": "Mira Luoti",
-          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Cokis ja Mentos",
-      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "Pieni ikuisuus",
         "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Make Trap Great Again",
-        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+        "name": "Cokis ja Mentos",
+        "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
       },
       "artists": [
         {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+          "name": "Mira Luoti",
+          "url": "https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho"
         }
       ],
-      "duration_ms": 186043,
-      "name": "Tykk\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
+      "duration_ms": 167293,
+      "name": "Cokis ja Mentos",
+      "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -1187,6 +1171,22 @@
       "duration_ms": 176754,
       "name": "Uus ikuisuus",
       "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "Make Trap Great Again",
+        "url": "https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Tykk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Tuut Tuut Tuut",
-        "url": "https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 200056,
-      "name": "Tuut Tuut Tuut",
-      "url": "https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "Carolina Herrera (feat. VilleGalle)",
         "url": "https://open.spotify.com/album/18gxa8D3F2DP27Hax1rBPC"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 181466,
       "name": "Carolina Herrera (feat. VilleGalle)",
       "url": "https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "Tuut Tuut Tuut",
+        "url": "https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 200056,
+      "name": "Tuut Tuut Tuut",
+      "url": "https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584"
     },
     {
       "added_at": "2026-02-05 22:00:29",

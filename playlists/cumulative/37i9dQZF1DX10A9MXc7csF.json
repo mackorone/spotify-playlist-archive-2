@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Christian Ortega \u2b50\ufe0f",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Drian \u2b50\ufe0f",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -1377,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/71Ew3hwX36HwniRQqYU7px"
+      },
+      "artists": [
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159883,
+      "name": "Al Filo",
+      "url": "https://open.spotify.com/track/57pSju6wOjeHZ16FS2hmbz"
+    },
+    {
+      "album": {
         "name": "Estoy Ilusionado",
         "url": "https://open.spotify.com/album/3rtTwDzziHswWKw0ozgEY7"
       },
@@ -2582,6 +2604,24 @@
       "duration_ms": 208002,
       "name": "Atraido A Ti",
       "url": "https://open.spotify.com/track/3yX2QyAOg06lxR884Z1rCc"
+    },
+    {
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "AUNQUE SEA EN DOS",
+      "url": "https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs"
     },
     {
       "album": {
@@ -4475,6 +4515,28 @@
     },
     {
       "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/5kN1QrefKBmkaBAOhFFyPD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ajedrez",
+          "url": "https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor"
+        },
+        {
+          "name": "Grupo En Califas",
+          "url": "https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155623,
+      "name": "Caribe",
+      "url": "https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm"
+    },
+    {
+      "album": {
         "name": "Carnalito",
         "url": "https://open.spotify.com/album/3QZWIob5yTnT3TSUwodM8f"
       },
@@ -5042,7 +5104,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162338,
       "name": "CHOLO",
       "url": "https://open.spotify.com/track/6QoRO8iQ6hyNXvDqSJYFiH"
@@ -5638,6 +5700,24 @@
       "duration_ms": 167142,
       "name": "CON EL DOCTOR",
       "url": "https://open.spotify.com/track/2AzOv8RGH5NjnlJfshXGRj"
+    },
+    {
+      "album": {
+        "name": "Con Todo Respetillo",
+        "url": "https://open.spotify.com/album/2Ve39C512F7uD193hMt9y5"
+      },
+      "artists": [
+        {
+          "name": "Galvancillo",
+          "url": "https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/0vpbVISB52ZBAiquPhkhWw"
     },
     {
       "album": {
@@ -6422,6 +6502,28 @@
       "duration_ms": 154852,
       "name": "Cuernito",
       "url": "https://open.spotify.com/track/6qD6nrJ9GNR9aEmFJWSMRP"
+    },
+    {
+      "album": {
+        "name": "Cuernito",
+        "url": "https://open.spotify.com/album/2Fe9k9hGh0yXUeIMOI9mIc"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137168,
+      "name": "Cuernito",
+      "url": "https://open.spotify.com/track/5RmTxl5kMLw8QRgyPZiaRd"
     },
     {
       "album": {
@@ -7662,7 +7764,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162352,
       "name": "DIOS TESTIGO",
       "url": "https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz"
@@ -8020,6 +8122,24 @@
       "duration_ms": 197365,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK"
+    },
+    {
+      "album": {
+        "name": "Dos Tragos",
+        "url": "https://open.spotify.com/album/5X04ENxaDm8fmSRINAgX8N"
+      },
+      "artists": [
+        {
+          "name": "Drian",
+          "url": "https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168002,
+      "name": "Dos Tragos",
+      "url": "https://open.spotify.com/track/21ck2spLtlxVSAGWRqWwkX"
     },
     {
       "album": {
@@ -8922,7 +9042,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 135093,
       "name": "El Espa\u00f1ol",
       "url": "https://open.spotify.com/track/7LwIfpgMqvTWe7qXjonXvJ"
@@ -13000,7 +13120,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213194,
       "name": "Guerrero de Mil Batallas",
       "url": "https://open.spotify.com/track/3NLiwEsbaihHr32XJwcdcX"
@@ -14336,7 +14456,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183370,
       "name": "Kg hay que vender!!",
       "url": "https://open.spotify.com/track/6yrgtxfxQESIXNsa0zDybV"
@@ -15600,6 +15720,24 @@
       "duration_ms": 197245,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/5fmPKuO8EhL4OdOuanUjIa"
+    },
+    {
+      "album": {
+        "name": "No Fui Yo",
+        "url": "https://open.spotify.com/album/1QXnrdgOgqdTdknxXenvkH"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183923,
+      "name": "Las Partes",
+      "url": "https://open.spotify.com/track/3tTiTuQpRpzHP0tuQowCb5"
     },
     {
       "album": {
@@ -17909,6 +18047,24 @@
     },
     {
       "album": {
+        "name": "Me Pegu\u00e9 Un Pase",
+        "url": "https://open.spotify.com/album/1ROowuHI5f2q09pVncaEVN"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142578,
+      "name": "Me Pegu\u00e9 Un Pase",
+      "url": "https://open.spotify.com/track/7qGBTUrqWcHgGqMSP2SCrv"
+    },
+    {
+      "album": {
         "name": "Palm Street Music, Vol. 1",
         "url": "https://open.spotify.com/album/7fwncJsgC0MNq75dIOb6Yg"
       },
@@ -18258,7 +18414,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179436,
       "name": "Mi Apellido Pesa",
       "url": "https://open.spotify.com/track/6rBwIFQQuNDozDJdl3AbPL"
@@ -18584,7 +18740,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192234,
       "name": "Mi Kid",
       "url": "https://open.spotify.com/track/486wzWBtg4xyR2h2eVwfgH"
@@ -21036,6 +21192,24 @@
       "duration_ms": 231435,
       "name": "No Me Borres",
       "url": "https://open.spotify.com/track/12RbliJEQtREQV60AmDD7x"
+    },
+    {
+      "album": {
+        "name": "No Me Compares",
+        "url": "https://open.spotify.com/album/2bSUzObbvvrMDyxxc6e0PB"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224761,
+      "name": "No Me Compares",
+      "url": "https://open.spotify.com/track/2HidEcnta7nkdKZkmiyC4q"
     },
     {
       "album": {
@@ -23714,7 +23888,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
@@ -26458,7 +26632,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146454,
       "name": "Santa Claus Lleg\u00f3 a la Ciudad",
       "url": "https://open.spotify.com/track/6DyQ2rNUhXcc9QmbN8MMYE"
@@ -27337,6 +27511,24 @@
     },
     {
       "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
+    },
+    {
+      "album": {
         "name": "Sin Miedo Al Exito",
         "url": "https://open.spotify.com/album/5JNw6CsEmFJEYDw8oYpWhM"
       },
@@ -27642,6 +27834,24 @@
       "duration_ms": 173294,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2fUqqd6QM5HLaPQVyC1lng"
+    },
+    {
+      "album": {
+        "name": "Secretos En Mi Cuarto Vol. 1",
+        "url": "https://open.spotify.com/album/1sjJNDy5XIRtqt4eWfMS0j"
+      },
+      "artists": [
+        {
+          "name": "Erick MA",
+          "url": "https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/0WJabBXclWUKZS16P4ktPL"
     },
     {
       "album": {
@@ -29096,7 +29306,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 132480,
       "name": "Titi",
       "url": "https://open.spotify.com/track/7khljrwL1dO6sZDAClVeLF"
@@ -30100,6 +30310,24 @@
       "duration_ms": 179164,
       "name": "Ultimo Asiento",
       "url": "https://open.spotify.com/track/1uDldUtFn8MTK1uPbWQVS7"
+    },
+    {
+      "album": {
+        "name": "Ultimo Cigarro",
+        "url": "https://open.spotify.com/album/7wcoIfwEIen743ftWpLHxK"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164730,
+      "name": "Ultimo Cigarro",
+      "url": "https://open.spotify.com/track/2288uM7VA7NKEgmy33T2Fa"
     },
     {
       "album": {
@@ -31344,7 +31572,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 139598,
       "name": "Viendo Estrellitas",
       "url": "https://open.spotify.com/track/4NIppWnkkNYH4CEbRVsPfj"
@@ -32188,7 +32416,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"

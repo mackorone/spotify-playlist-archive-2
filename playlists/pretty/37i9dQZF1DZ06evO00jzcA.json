@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 485213,
+  "num_followers": 485225,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAAPnrW7NCtzyglJ9tT3hGD1",
+  "snapshot_id": "aYPdgAAAAABu8Jv6ACaOpE/tSu84DWN1",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kiss (Remastered 1997)",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose - Remastered 1997",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock And Roll All Nite (MOONLGHT Remix)",
         "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 135918,
       "name": "Rock And Roll All Nite - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss (Remastered 1997)",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose - Remastered 1997",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,

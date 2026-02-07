@@ -4,14 +4,14 @@
 
 > Acoustic covers of all your favourite songs.
 
-336 songs - 18 hr 13 min
+338 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Baby One More Time \- Acoustic Version](https://open.spotify.com/track/2ta83B4eCsS7PFuBpahkTV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [...Baby One More Time](https://open.spotify.com/album/0X8CWMaapiIEowia7TUbBM) | 3:40 | 2022-10-28 | 2023-02-18 |
 | [8 \- Acoustic](https://open.spotify.com/track/7jbqyVufN1czQkloAjFKSE) | [Salty Snacks](https://open.spotify.com/artist/5rXaOEzB1J3SPGCwb6yVcG) | [8 \(Acoustic\)](https://open.spotify.com/album/0c5XGUqq9pSkVhWvwii5nW) | 2:53 | 2022-08-26 | 2023-01-20 |
 | [A Hazy Shade Of Winter](https://open.spotify.com/track/07UJwROZlxGkoq0dlv4FvQ) | [Javier Barrera](https://open.spotify.com/artist/0rPKDNLYtijSxZYDwdOpN8) | [A Hazy Shade Of Winter](https://open.spotify.com/album/35NxsFHdWTSkPnMOpgYld3) | 3:18 | 2022-10-28 | 2023-02-03 |
-| [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-08-26 |  |
+| [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-08-26 | 2026-02-07 |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2022-08-26 | 2023-01-05 |
 | [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-03-16 | 2023-06-09 |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2022-10-14 | 2023-05-12 |
@@ -134,7 +134,7 @@
 | [Happier](https://open.spotify.com/track/3OwhqIxSDPx2VrqtJ7s7sD) | [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Happier](https://open.spotify.com/album/6YwrB6k9s7tZIlFDCGyu1y) | 2:29 | 2022-08-26 | 2023-01-20 |
 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 | 2022-08-26 |  |
 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2022-08-26 |  |
-| [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-08-26 |  |
+| [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-08-26 | 2026-02-07 |
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2022-08-26 |  |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-08-26 | 2026-01-17 |
 | [Heaven](https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c) | [Claire McCarty](https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K) | [Heaven](https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x) | 2:49 | 2023-08-08 |  |
@@ -229,6 +229,7 @@
 | [My Girl](https://open.spotify.com/track/05TVM0mkxmxvQir279cFFu) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 3:01 | 2023-02-03 | 2024-04-19 |
 | [My Girl](https://open.spotify.com/track/1YNI03S3TLYTEV3r0f086r) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:01 | 2022-08-26 |  |
 | [Never Ending Story](https://open.spotify.com/track/4x1HyRlBRnjTdsOz6osq1c) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Jess Thristan](https://open.spotify.com/artist/2rtfPkaYolh8brr0j5MVuM) | [Constellation](https://open.spotify.com/album/0t3diXkhlYUpfekeclMjaU) | 2:21 | 2022-08-26 | 2023-01-20 |
+| [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 | 2026-02-06 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 | 2022-10-28 |  |
 | [Nevermind](https://open.spotify.com/track/3pDR6ZxaCVn7gPd7PhgxiI) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [Nevermind](https://open.spotify.com/album/0KkQWFbJ0inQlhebSMbAhM) | 3:16 | 2022-08-26 | 2023-01-05 |
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-08-26 | 2022-12-02 |
@@ -343,6 +344,7 @@
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-08-26 | 2023-04-14 |
 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 | 2024-02-23 |  |
 | [You're Losing Me](https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy) | [Kody Ternes](https://open.spotify.com/artist/3kcZRvJW10HzHleumOMgTc) | [You're Losing Me](https://open.spotify.com/album/4jFe1w3b0ovGoiXjJ3lL7i) | 3:20 | 2024-02-02 |  |
+| [Young Folks](https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Young Folks](https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT) | 3:34 | 2026-02-06 |  |
 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

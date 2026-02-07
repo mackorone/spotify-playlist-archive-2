@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Zoë Livay
 
-1,211 songs - 2 day 9 hr 56 min
+1,212 songs - 2 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -876,6 +876,7 @@
 | [Puinhoop](https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Puinhoop](https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW) | 2:14 | 2025-11-27 |  |
 | [Radar](https://open.spotify.com/track/7sPU3UDb9jjW3F9AYKlQD9) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Radar](https://open.spotify.com/album/1wNXE5nqPYkz3j0Fe8nmWB) | 2:22 | 2024-01-25 | 2024-04-05 |
 | [Radeloos](https://open.spotify.com/track/1uEPo1m1b4BM8W2WvMVx2V) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Radeloos](https://open.spotify.com/album/1AbaBKvEgIhbPx43G0SXyc) | 2:33 | 2025-12-04 | 2026-01-15 |
+| [Radio](https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Kleinkunst](https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe) | 2:24 | 2026-02-06 |  |
 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-08-17 | 2023-11-16 |
 | [Radiostilte](https://open.spotify.com/track/0cQo1sW0zleJYXwoJWIbKR) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [3](https://open.spotify.com/album/7xaulag2Vj8jDCOMTt32rm) | 2:54 | 2025-11-03 | 2026-01-06 |
 | [Ralphie](https://open.spotify.com/track/0f2GSOCvtLTWJZNmVSCE1v) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd), [Ghazi](https://open.spotify.com/artist/0WQ05juCyNhLOY4sjYrpTK) | [Ralphie](https://open.spotify.com/album/5FY4guwMoh3L8DDy8dxCmf) | 2:41 | 2024-03-21 | 2024-05-03 |
@@ -1087,7 +1088,7 @@
 | [Voor De Gek](https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Voor De Gek](https://open.spotify.com/album/5GgAB0RzMQ8gtszcfpUO0a) | 3:03 | 2023-02-23 | 2023-05-10 |
 | [Voor Even Is Het Goed](https://open.spotify.com/track/5KENoW3hvhGvJus52bHPYV) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Voor Even Is Het Goed](https://open.spotify.com/album/1ugArcMJsgmLjeAXaea2Ia) | 3:14 | 2024-08-01 | 2024-10-25 |
 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 | 2024-04-18 | 2024-07-27 |
-| [Voor M'n Deur](https://open.spotify.com/track/4dolay7QGIGsqyp5uXEAAv) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Voor M'n Deur](https://open.spotify.com/album/2W86GDxxM3ze7js9ymeAHR) | 2:20 | 2025-11-06 |  |
+| [Voor M'n Deur](https://open.spotify.com/track/4dolay7QGIGsqyp5uXEAAv) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Voor M'n Deur](https://open.spotify.com/album/2W86GDxxM3ze7js9ymeAHR) | 2:20 | 2025-11-06 | 2026-02-07 |
 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 | 2025-03-06 | 2025-03-28 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-05-26 |
 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-03-04 | 2024-05-17 |

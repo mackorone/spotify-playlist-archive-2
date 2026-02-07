@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,180 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,867 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 2 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
 | 3 | [Mi Entorno](https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Entorno](https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj) | 2:52 |
 | 4 | [No Basta Con Querernos Más \- Spotify Sessions \(Acústico\)](https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Nsqk \- Spotify Sessions](https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL) | 2:50 |
-| 5 | [triston](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 3:36 |
+| 5 | [](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 0:00 |
 | 6 | [Dos16 \(feat\. Josa El Menor, Vic Gunn, Malo & Viglezz\)](https://open.spotify.com/track/2V9iZGxzyUnUBUPdGEW29Y) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Josa El Menor](https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo), [Vic Gunn](https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [\#2016TrapLatinSongsByLaObsesión](https://open.spotify.com/album/38U3R9JJKis2VGTsL1iay9) | 7:07 |
 | 7 | [Poema](https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Poema](https://open.spotify.com/album/4ZMo7m59UfGiOOn7O7l0ED) | 3:14 |
 | 8 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \ub77c\ud3ec\uc5e0 (LA POEM)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen to the latest Korean classical & new-age music here! (Cover: \uc784\uc724\ucc2c (Yunchan Lim)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classics Korea",
   "tracks": [
     {
@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations (Live at Carnegie Hall, New York, 2025)",
+        "url": "https://open.spotify.com/album/29g6SUPE0ucUazmZLwALTs"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244346,
+      "name": "Goldberg Variations, BWV 988: Aria - Live at Carnegie Hall, New York, 2025",
+      "url": "https://open.spotify.com/track/70DpYhvEq728ju0ZrLKRww"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Goldberg Variations, BWV 988: Aria (Live at Carnegie Hall, New York, 2025)",
         "url": "https://open.spotify.com/album/5gpWdWnLC42JBrESzrF9qX"
       },
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 401026,
       "name": "Listen",
       "url": "https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994"
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 257040,
       "name": "Minuet in G Minor, HWV 434 No. 4 (Arr. Kempff for Piano)",
       "url": "https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs"
@@ -3356,6 +3378,60 @@
       "duration_ms": 156160,
       "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
       "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 5: IV. Adagietto. Sehr langsam (Arr. Farrington for Chamber Ensemble)",
+        "url": "https://open.spotify.com/album/2H30dWs3wv17zd3cFKdXbi"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "Elen H\u00e2f Rideal",
+          "url": "https://open.spotify.com/artist/4p9gsGc4X0UO8Gei9RmQIY"
+        },
+        {
+          "name": "Abigail Fenna",
+          "url": "https://open.spotify.com/artist/2ULo8ytMjpgsT3WyjyIc8R"
+        },
+        {
+          "name": "Liz Varlow",
+          "url": "https://open.spotify.com/artist/4hxvWdtfh68g72HLeKr2Oc"
+        },
+        {
+          "name": "Chantal Woodhouse",
+          "url": "https://open.spotify.com/artist/5f9QRbvuMzZnmv0rMr8wds"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        },
+        {
+          "name": "Benjamin Cunningham",
+          "url": "https://open.spotify.com/artist/0rPN2a6VARPrEchHxVKcJY"
+        },
+        {
+          "name": "David Gordon",
+          "url": "https://open.spotify.com/artist/4YvmbUu5BxZsyJkkgf5CZN"
+        },
+        {
+          "name": "Suzy Willison-Kawalec",
+          "url": "https://open.spotify.com/artist/1kBDaGiXeEF8Zg2CHGjLfF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552586,
+      "name": "Symphony No. 5: IV. Adagietto. Sehr langsam (Arr. Farrington for Chamber Ensemble)",
+      "url": "https://open.spotify.com/track/3wyvblXjnA73J9WepAsioc"
     },
     {
       "album": {

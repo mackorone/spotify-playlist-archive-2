@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "CICLOS",
+        "url": "https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
+    },
+    {
+      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
       },
@@ -11494,24 +11512,6 @@
       "duration_ms": 206879,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "date_added": "2026-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S"
     },
     {
       "album": {

@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 200975,
       "name": "'t Puntje van de t\u00f3ng",
       "url": "https://open.spotify.com/track/6ZMFdfYZH9Q6GmaBDGcFU7"
@@ -1438,6 +1438,24 @@
     {
       "album": {
         "name": "Beneath My Skin",
+        "url": "https://open.spotify.com/album/4BbNfnjoNMGtONXMKlRVNJ"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199830,
+      "name": "Beneath My Skin",
+      "url": "https://open.spotify.com/track/3YS9z1r7MUsI8RxhdnCFnI"
+    },
+    {
+      "album": {
+        "name": "Beneath My Skin",
         "url": "https://open.spotify.com/album/3MEWg3OP2ZgV3hrDiMgQi1"
       },
       "artists": [
@@ -2300,6 +2318,24 @@
       "duration_ms": 162656,
       "name": "Carnaval, Wie Viert Het Niet?!",
       "url": "https://open.spotify.com/track/6t8GQXMBsYrHYHsyIH4zCR"
+    },
+    {
+      "album": {
+        "name": "Carnavalsmuziek",
+        "url": "https://open.spotify.com/album/2FJUTLnYTGumln2DyINRkY"
+      },
+      "artists": [
+        {
+          "name": "Moeilijk Straal",
+          "url": "https://open.spotify.com/artist/5qdCBsrXOsvFbCJb9dn0lP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "Carnavalsmuziek",
+      "url": "https://open.spotify.com/track/0ZrH8Dri3ffjs0MLUGuPnr"
     },
     {
       "album": {
@@ -7822,7 +7858,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166942,
       "name": "Kusje Hier Kusje Daar",
       "url": "https://open.spotify.com/track/3DToXXH3aYS9ddqQ9SzBFl"
@@ -14468,7 +14504,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192361,
       "name": "Vastelaoves-afterparty",
       "url": "https://open.spotify.com/track/4ErVsfO0Pf6bKfo0KpnLzw"
@@ -14720,6 +14756,24 @@
       "duration_ms": 189793,
       "name": "Vierentwintigdelig Noodpakket",
       "url": "https://open.spotify.com/track/0CrFZWIu08NUW2eDkAEygd"
+    },
+    {
+      "album": {
+        "name": "Vogel\u00e8r",
+        "url": "https://open.spotify.com/album/1xEije5x5zYRINzkNAdG1a"
+      },
+      "artists": [
+        {
+          "name": "C.V. De Kinkeluten",
+          "url": "https://open.spotify.com/artist/4psNYMdItCn8QtbL6BV39Y"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194765,
+      "name": "Vogel\u00e8r",
+      "url": "https://open.spotify.com/track/4tSNg31L0F7pfhx6k9GMO4"
     },
     {
       "album": {

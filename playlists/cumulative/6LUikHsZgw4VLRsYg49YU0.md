@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-298 songs - 17 hr 10 min
+300 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chris takes the world by storm \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/4N1hJ03kkrhemlxlW9iElF) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [鳴羽田漢気応援団](https://open.spotify.com/artist/366BpKdkyHFZslOlOk1Fmm) | [Chris takes the world by storm \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/6Ba8dIvaBTm8YnKAQYsUNq) | 1:25 | 2025-05-30 |  |
 | [Clues to the Truth](https://open.spotify.com/track/6GlWy6mvDQl2tnDZdOlgK4) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [Pluto \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/731lLGre09H8XEU1cHY1Mn) | 2:42 | 2023-12-08 | 2025-09-27 |
 | [Coast to Coast \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/0vjsTwsScrOanbR3x6tURw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Nicholas Aquilino](https://open.spotify.com/artist/19W88XiqODfaExksbWpU86), [Shayne Holland](https://open.spotify.com/artist/31boEXN1loQ6XgSoCiiGa4) | [Coast to Coast \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/6MLOrcVFBKUIjNgYTaZwzG) | 1:37 | 2025-05-30 |  |
+| [Cold Night](https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Cold Night](https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI) | 3:12 | 2026-02-06 |  |
 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 | 2023-01-13 | 2024-09-21 |
 | [Crimson Lightning](https://open.spotify.com/track/0waIhVlr9YdRK3GNWLxD4m) | [Toft Willingham](https://open.spotify.com/artist/4cxcb1EnVZwWbGHy2kJNfr), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [Metallic Rouge \(Original Soundtrack\)](https://open.spotify.com/album/3xUFB8dVFpTph5lYBZ3otN) | 3:29 | 2024-01-26 | 2025-11-01 |
 | [Crunchyroll Anime Awards Theme](https://open.spotify.com/track/7tRWsI0z6X7dV5PHDBPzcN) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Crunchyroll Anime Awards Theme](https://open.spotify.com/album/17lFOjflySH9gg3fLoPG1W) | 5:17 | 2024-03-15 | 2025-11-01 |
@@ -64,6 +65,7 @@
 | [Dragon Smasher](https://open.spotify.com/track/61CW0S1pvauDA5V8hLzo0n) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \(Original Soundtrack\)](https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS) | 1:58 | 2024-04-19 |  |
 | [DROPPED OUTTA COLLEGE](https://open.spotify.com/track/2aV5ZEAvHwvL332EsJ1gWc) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [DROPPED OUTTA COLLEGE](https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR) | 2:07 | 2022-02-18 | 2022-12-10 |
 | [Everybody Hates Me \- Khrebto Remix](https://open.spotify.com/track/4hJolpt4ZqzoZuET5l3rzV) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Khrebto](https://open.spotify.com/artist/0fLTK12xF2IMaNmKMSue6g) | [Everybody Hates Me \(Remixes\)](https://open.spotify.com/album/4L8Nq5w4vVuoC1AY9i2MDZ) | 3:15 | 2022-02-18 | 2022-12-10 |
+| [Execution](https://open.spotify.com/track/7mWZIQTibWOpop4BNCGkCF) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [JUJUTSU KAISEN SEASON 3 \- The Culling Game \- Part 1 \- Original Soundtrack \~Selected Version\~](https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd) | 1:31 | 2026-02-06 |  |
 | [Face My Fears \(English Version\)](https://open.spotify.com/track/0CALOqrkXAE7WB2nyIATLk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Face My Fears](https://open.spotify.com/album/78yYCNxcHTH0Ugsekj8kbQ) | 3:42 | 2022-02-18 | 2022-12-10 |
 | [FACELESS](https://open.spotify.com/track/6vxT9Jfpp5vJs0A8w6NUJl) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [FACELESS](https://open.spotify.com/album/5EKoC23fdT9gTwbJOrfVZK) | 3:32 | 2024-07-19 |  |
 | [Falling](https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Falling](https://open.spotify.com/album/1Czfd5tEby3DbdYNdqzrCa) | 2:39 | 2022-02-18 | 2022-12-10 |

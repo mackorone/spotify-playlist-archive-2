@@ -5367,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "bum bum (Quevedo)",
+        "url": "https://open.spotify.com/album/6JwOijOl2wROD5Fr5WkxhX"
+      },
+      "artists": [
+        {
+          "name": "Nicolas St",
+          "url": "https://open.spotify.com/artist/46ZbMxPRLZocZXj9hkDzLP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210813,
+      "name": "bum bum (Quevedo)",
+      "url": "https://open.spotify.com/track/5xtX1RgXrxZvpJH7hn0png"
+    },
+    {
+      "album": {
         "name": "bunda \ud83c\udf51",
         "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
       },
@@ -7894,7 +7912,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 203000,
       "name": "Conselho - Ao Vivo",
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
@@ -12544,7 +12562,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197031,
       "name": "ES MIO",
       "url": "https://open.spotify.com/track/0GSetWzuSciGAtvZVOmkCt"
@@ -22835,6 +22853,28 @@
     },
     {
       "album": {
+        "name": "me engualichaste remix",
+        "url": "https://open.spotify.com/album/0fy533bx17Ureu5RLlUwBX"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1n",
+          "url": "https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb"
+        },
+        {
+          "name": "ARA",
+          "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202593,
+      "name": "me engualichaste remix",
+      "url": "https://open.spotify.com/track/7yoqxVu48MhMSaHT07Atdo"
+    },
+    {
+      "album": {
         "name": "Nuevo Hotel Miranda!",
         "url": "https://open.spotify.com/album/4di9h6Igl1rbd0xtZfsyD6"
       },
@@ -30753,6 +30793,24 @@
     },
     {
       "album": {
+        "name": "por ser como sos.",
+        "url": "https://open.spotify.com/album/62sydDY6hMncHUeMT3F7yV"
+      },
+      "artists": [
+        {
+          "name": "T4CHO",
+          "url": "https://open.spotify.com/artist/78IcwShFpJmMdZK9mCOVl5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "por ser como sos.",
+      "url": "https://open.spotify.com/track/4tPJerqRMJacJc34Ce8odt"
+    },
+    {
+      "album": {
         "name": "PARA QUIEN TRABAJAS Vol. I",
         "url": "https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2"
       },
@@ -34930,7 +34988,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -35618,7 +35676,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166000,
       "name": "Soy Favela",
       "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
@@ -40936,7 +40994,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162947,
       "name": "UWAIE - versi\u00f3n cumbia",
       "url": "https://open.spotify.com/track/6UO9DhCUq4ZbQz7PXwelFV"

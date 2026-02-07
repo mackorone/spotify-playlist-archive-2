@@ -1563,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "HYBRID",
+        "url": "https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Bad and Bouje (feat. taves)",
+      "url": "https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd"
+    },
+    {
+      "album": {
         "name": "Bad Belle",
         "url": "https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d"
       },
@@ -16426,24 +16448,6 @@
       "duration_ms": 135157,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "date_added": "2026-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd"
     },
     {
       "album": {

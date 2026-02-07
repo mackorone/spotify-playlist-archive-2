@@ -2517,6 +2517,28 @@
     },
     {
       "album": {
+        "name": "Fantasy Camera (feat. Forest Claudette)",
+        "url": "https://open.spotify.com/album/7LCKojbf1T8VJGaqm9eVHq"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        },
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184080,
+      "name": "Fantasy Camera (feat. Forest Claudette)",
+      "url": "https://open.spotify.com/track/5GrUr9jQJqRRvA6AuHiYYH"
+    },
+    {
+      "album": {
         "name": "Fascination (La Felix Remix)",
         "url": "https://open.spotify.com/album/1WAH4gGgj4C9hJ5qbssEcE"
       },
@@ -5898,7 +5920,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 217056,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn"

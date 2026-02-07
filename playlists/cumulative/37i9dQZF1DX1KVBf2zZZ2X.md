@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-292 songs - 13 hr 39 min
+293 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alba Interior](https://open.spotify.com/track/6CucfbV9cRorFGJsxvawjW) | [Ambientis](https://open.spotify.com/artist/1d6rZsRCqd4bX8i1mpC5Eg) | [Alba Interior](https://open.spotify.com/album/3kKKSiPrL6WReIc6UfZITH) | 2:35 | 2025-12-03 |  |
 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 | 2024-02-06 | 2024-10-20 |
 | [Amicitia](https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj) | [Novataire](https://open.spotify.com/artist/55xdv1NaYNZdMBLT7yRTEC) | [Amicitia](https://open.spotify.com/album/2ZoWABKbu1bnwjcL1YIeSi) | 1:58 | 2023-04-13 | 2023-10-07 |
+| [Among the Trees](https://open.spotify.com/track/7kdIJsL9I72X4HA4ySTxsJ) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Among the Trees](https://open.spotify.com/album/44da8CCGVhjzH4EBEMp0Bi) | 3:08 | 2026-01-21 |  |
 | [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 | 2025-06-16 |
 | [Angelic Birds](https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5) | [Inara Rex](https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj) | [Angelic Birds](https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX) | 2:07 | 2024-02-06 | 2025-09-25 |
 | [Anima Naturale](https://open.spotify.com/track/2kFfuFMjmXUuIyWEBDoKXA) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Anima Naturale](https://open.spotify.com/album/3FjoYivEdT9lJFiD10OrHZ) | 2:28 | 2024-07-18 | 2025-09-25 |
@@ -268,7 +269,7 @@
 | [The Teacher Within](https://open.spotify.com/track/3RPnZneI5lPdM5lMTsYUWR) | [Bias Beats](https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT) | [The Teacher Within](https://open.spotify.com/album/5QdaV8dVbKPircWmgYw38v) | 2:46 | 2025-09-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-03-03 | 2025-06-12 |
 | [Thorns of Life](https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Thorns of Life](https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m) | 4:23 | 2025-02-21 |  |
-| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 |  |
+| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 | 2026-02-07 |
 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 | 2023-03-03 | 2025-05-17 |
 | [Time](https://open.spotify.com/track/0CX1Qm7MPcKv0sfOFQKA0H) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Time](https://open.spotify.com/album/3RHVDUwSrUqxPO9cBbHmNo) | 3:08 | 2025-06-11 | 2025-12-16 |
 | [Timeless Voyage](https://open.spotify.com/track/7tGzD3aIB69OOnOO65Cwhs) | [Ni Che](https://open.spotify.com/artist/77Pf6uoWxVn5ja9ZaTMmkY) | [Timeless Voyage](https://open.spotify.com/album/1NN4Jw81N8enQMJU8bGpqr) | 2:34 | 2025-12-03 |  |

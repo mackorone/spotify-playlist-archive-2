@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Hermitude
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,406 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,415 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [FITNESS FIRST](https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [FITNESS FIRST](https://open.spotify.com/album/62FuCq483syEgtWTFD03zP) | 2:45 |
 | 10 | [More Than Friends](https://open.spotify.com/track/58s4I1Gm80UBlbtaYky8Ai) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [More Than Friends](https://open.spotify.com/album/5FH0PvCQCH7I2NOOZniiuW) | 2:36 |
 | 11 | [Confession](https://open.spotify.com/track/0djKAYbFaMG539SuVAS6Ad) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/73urlObxlJLyIPJwwnikJ2) | 2:35 |
-| 12 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [](https://open.spotify.com/album/null) | 3:12 |
+| 12 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
 | 13 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 |
 | 14 | [Stuck In A Loop](https://open.spotify.com/track/7wKqk5dEyAl3IMG0JWI5i4) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Stuck In A Loop](https://open.spotify.com/album/2EmTsbWSCULTXSZ1yKbbAt) | 2:43 |
 | 15 | [Upside Down](https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Upside Down](https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro) | 2:05 |

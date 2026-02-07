@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 223274,
       "name": "Feel like grooving",
       "url": "https://open.spotify.com/track/2Srua18ww8YtO5lRgKFDJW"
@@ -15510,7 +15510,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 217121,
       "name": "Meets the Sea",
       "url": "https://open.spotify.com/track/4Zs5DSz0nNvKWMTNKoAQ78"
@@ -16767,6 +16767,24 @@
     },
     {
       "album": {
+        "name": "My Borrowed Umbrella",
+        "url": "https://open.spotify.com/album/59cgfYFQMHTfczBAV5uwu5"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184221,
+      "name": "My Borrowed Umbrella",
+      "url": "https://open.spotify.com/track/2RWwy3RrVmCaCjlLYZ0njT"
+    },
+    {
+      "album": {
         "name": "My dream in your eyes",
         "url": "https://open.spotify.com/album/4KOsiDi78CaSy2KCoZ6YFQ"
       },
@@ -17048,7 +17066,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 295627,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7IVYcE5ah4f7VJBzkAgGo3"
@@ -19814,7 +19832,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181576,
       "name": "Rain-drenched",
       "url": "https://open.spotify.com/track/3pT9n3pNaP9371RS9cDl0V"
@@ -21567,6 +21585,24 @@
     },
     {
       "album": {
+        "name": "Slow Motion Sky",
+        "url": "https://open.spotify.com/album/18CW0df2dA0xS4Gdwm4bJw"
+      },
+      "artists": [
+        {
+          "name": "Orbit Trio",
+          "url": "https://open.spotify.com/artist/0UrAU253yLOb2eBXIiyXNq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Slow Motion Sky",
+      "url": "https://open.spotify.com/track/4C9Fa3M34QQRbQkNf1dFlH"
+    },
+    {
+      "album": {
         "name": "Slow Motion Sunset",
         "url": "https://open.spotify.com/album/7M8bkz7JQRjiCVV6GgTYaN"
       },
@@ -21726,6 +21762,24 @@
       "duration_ms": 211275,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3OiG2WAVCWv2eCBS2Iyqsm"
+    },
+    {
+      "album": {
+        "name": "So Bittersweet",
+        "url": "https://open.spotify.com/album/2Yihrso8HzLoKk4jvrDeUn"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281514,
+      "name": "So Bittersweet",
+      "url": "https://open.spotify.com/track/1hkVecwNV7nJ2bJbo0qRTu"
     },
     {
       "album": {
@@ -22878,6 +22932,24 @@
       "duration_ms": 202051,
       "name": "Steps Ahead",
       "url": "https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio"
+    },
+    {
+      "album": {
+        "name": "Steps in the Rain",
+        "url": "https://open.spotify.com/album/0sEfokoid38YWhxhPhfDV4"
+      },
+      "artists": [
+        {
+          "name": "The Blue Alley",
+          "url": "https://open.spotify.com/artist/2OqSm9mH0el2YOy4V6gG6w"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218757,
+      "name": "Steps in the Rain",
+      "url": "https://open.spotify.com/track/6h6aqhPGy00XvZPQX7y6uh"
     },
     {
       "album": {
@@ -26262,7 +26334,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206000,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/6CgnEtKYDu8HIva6erHcjp"
@@ -27706,7 +27778,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 233036,
       "name": "What If",
       "url": "https://open.spotify.com/track/7ztZrcNxwC7kRTsvqkbyS3"
@@ -28289,6 +28361,24 @@
     },
     {
       "album": {
+        "name": "Where you were",
+        "url": "https://open.spotify.com/album/1aGelYnFIpi5P282jEmPKG"
+      },
+      "artists": [
+        {
+          "name": "Devon Crouch",
+          "url": "https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178185,
+      "name": "Where you were",
+      "url": "https://open.spotify.com/track/4FFDBh3RHBTr5wXskfLilK"
+    },
+    {
+      "album": {
         "name": "Whereabouts",
         "url": "https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57"
       },
@@ -28700,6 +28790,24 @@
       "duration_ms": 169266,
       "name": "Without Doubt",
       "url": "https://open.spotify.com/track/6GcDZlQB7lBvWck6lqoFqk"
+    },
+    {
+      "album": {
+        "name": "Without saying much",
+        "url": "https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr"
+      },
+      "artists": [
+        {
+          "name": "Mill Basin",
+          "url": "https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256542,
+      "name": "Without saying much",
+      "url": "https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc"
     },
     {
       "album": {

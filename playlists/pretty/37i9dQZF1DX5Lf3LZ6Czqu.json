@@ -1,13 +1,37 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Marcin",
-  "num_followers": 161749,
+  "num_followers": 161776,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJcuqApUFGRSqzE4BDlXETR/nvp",
+  "snapshot_id": "AAAAADXaPNcyzZkm1knBH/aESawlRKW5",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Fan Boy",
+        "url": "https://open.spotify.com/album/31uc0WmKlLjCnc120eahuK"
+      },
+      "artists": [
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Henrik Linder",
+          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
+        },
+        {
+          "name": "Aron Mellerg\u00e5rd",
+          "url": "https://open.spotify.com/artist/7EEisBA2uPcpabPlTY0kRQ"
+        }
+      ],
+      "duration_ms": 251374,
+      "name": "Fan Boy",
+      "url": "https://open.spotify.com/track/3GKYGyMThFGPpjnYmiNcFa"
+    },
     {
       "added_at": "2026-01-16 05:00:18",
       "album": {
@@ -419,26 +443,6 @@
       "duration_ms": 265950,
       "name": "Four Day Weekend",
       "url": "https://open.spotify.com/track/2Lv1k8ZSaC8XbjRvLPXqgM"
-    },
-    {
-      "added_at": "2022-10-11 14:34:22",
-      "album": {
-        "name": "SkyBluePink",
-        "url": "https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v"
-      },
-      "artists": [
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Owane",
-          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
-        }
-      ],
-      "duration_ms": 325500,
-      "name": "SkyBluePink",
-      "url": "https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6"
     },
     {
       "added_at": "2023-03-03 05:01:00",

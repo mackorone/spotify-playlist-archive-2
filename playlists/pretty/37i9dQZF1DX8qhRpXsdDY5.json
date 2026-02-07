@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 236359,
+  "num_followers": 236320,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
         "name": "Eterna Navidad",
         "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 239800,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
     },
     {
       "added_at": "2025-12-04 18:43:31",

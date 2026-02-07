@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover:  	<br/>Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,857 likes - 108 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,925 likes - 108 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 107 | [Comin' To You](https://open.spotify.com/track/1ZqWAMxU6vWFHA2WzNqwCL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Comin' To You](https://open.spotify.com/album/4pedOTSRabuv4pEeIITCRJ) | 4:21 |
 | 108 | [Sacred Soil](https://open.spotify.com/track/2qHHlaoTV2yLEzHYFB9LWy) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Sacred Soil](https://open.spotify.com/album/2GtHXXH1DOMA9bgUs81WoF) | 5:00 |
 
-Snapshot ID: `AAAAAAPGHzoYGu13bBAWm/8W0JcHkB63`
+Snapshot ID: `AAAAAKeGTyxuxAqjp/y/vJyCkLPQc5wQ`

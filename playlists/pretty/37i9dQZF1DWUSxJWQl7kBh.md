@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Llénate de good vibes con HOPECORE, el nuevo álbum de Grupo Selectivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,700 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,819 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 84 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 |
 | 85 | [Drop Shop](https://open.spotify.com/track/09S2imgmL99bmW9rj9nBdX) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [The Beginning](https://open.spotify.com/album/5VkepErVQUGrabLNsUPQZz) | 3:43 |
 
-Snapshot ID: `AAAAAPhsTWztA3XHAWWhnLMHCE0yJnJ2`
+Snapshot ID: `AAAAAIRYzfnagtpAhQHOkUGy9nKFW4wc`

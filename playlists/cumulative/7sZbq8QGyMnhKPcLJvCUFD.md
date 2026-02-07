@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-821 songs - 1 day 16 hr 55 min
+822 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Overdose \- Tatsunoshin Remix](https://open.spotify.com/track/0iQCOjsrWC7JL7dQSUH1FH) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Overdose \(Remixes\)](https://open.spotify.com/album/4p3dVr8xYrBj1Mo0tVFD7t) | 2:50 | 2024-07-26 |  |
 | [Overdrive](https://open.spotify.com/track/2rYf9wTfwynIGAhAInlnWp) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Overdrive](https://open.spotify.com/album/65aPHPKXu9PjsR7tOAWd8I) | 2:43 | 2025-01-14 |  |
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 | 2023-08-10 |
+| [Overdrive](https://open.spotify.com/track/5AIn2hGUkaVzwDPWASJZ6W) | [ZEXSING](https://open.spotify.com/artist/6pVUHsFkc7Obj8NPEuQip8), [MXRCURY](https://open.spotify.com/artist/5l8u9QkCC6aXONoJEdRrlL), [Pharmagut](https://open.spotify.com/artist/5OK443dFtM8qFBYXa6lMG0) | [Overdrive](https://open.spotify.com/album/5i7Nzoph7rQGlyzVRannfX) | 1:57 | 2026-02-06 |  |
 | [Overheat](https://open.spotify.com/track/7MZSg7TAsqSD2UugRRqdX9) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Karl Killing](https://open.spotify.com/artist/586Rqc4ZLh7QPaMkIx1zEN), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:07 | 2025-07-25 |  |
 | [Paper Walls](https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV) | [Elliot Kings](https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm), [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Paper Walls](https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9) | 2:46 | 2023-04-11 | 2023-08-10 |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 | 2023-08-10 |

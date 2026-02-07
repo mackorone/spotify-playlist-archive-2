@@ -4,7 +4,7 @@
 
 > Laura Pausini e Achille Lauro in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,599 songs - 5 day 13 hr 35 min
+2,600 songs - 5 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,7 +1069,7 @@
 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 | 2025-10-16 | 2025-11-07 |
 | [I luv that babe](https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [I luv that babe](https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc) | 2:20 | 2025-07-17 | 2025-08-15 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-10 | 2024-11-15 |
-| [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [](https://open.spotify.com/album/null) | 3:33 | 2026-02-05 |  |
+| [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:33 | 2026-02-05 |  |
 | [I Tried](https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [I Tried](https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP) | 2:32 | 2025-07-17 | 2025-08-15 |
 | [I WANNA MOVE TO BROOKLYN](https://open.spotify.com/track/51uk8yCAwqn1X68Z9QxPBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 3:00 | 2025-04-17 | 2025-05-16 |
 | [i was never yours](https://open.spotify.com/track/3PZJCi3lAFueEfVpnjpd6X) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [i was never yours](https://open.spotify.com/album/0FP1jrZQtA6nrvJ4HFl3Jl) | 3:11 | 2025-08-14 | 2025-09-19 |
@@ -2191,7 +2191,7 @@
 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 | 2025-05-01 | 2025-05-30 |
 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-01-09 | 2026-02-06 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-18 | 2024-08-30 |
-| [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [](https://open.spotify.com/album/null) | 4:17 | 2026-02-05 |  |
+| [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 4:17 | 2026-02-05 |  |
 | [Swimming Pool](https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Swimming Pool](https://open.spotify.com/album/3hcMcEo5O1i707MVen72zi) | 3:24 | 2024-08-29 | 2024-09-21 |
 | [Swing For The Fences](https://open.spotify.com/track/6NWSMj8WDJEGBR1c6zNAcb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Swing For The Fences](https://open.spotify.com/album/1COihktsbgckhf2QrFKPc3) | 3:22 | 2025-03-06 | 2025-04-04 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 | 2024-11-15 |
@@ -2319,6 +2319,7 @@
 | [Tieni per me](https://open.spotify.com/track/0L9zUSvruMDHMRIqFg3ZEa) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Tieni per me](https://open.spotify.com/album/0Tfnqv4HXNgQa5oWsjAaKP) | 3:20 | 2024-11-28 | 2024-12-06 |
 | [Tighididà \(con Franco126 & Dov'è Liana\)](https://open.spotify.com/track/0zPg8gU7RN9TtmQsKNwE6d) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Tighididà \(con Franco126 & Dov'è Liana\)](https://open.spotify.com/album/3iZgJ3zaygooKnSYZWHs5q) | 2:26 | 2025-04-24 | 2025-05-23 |
 | [Tilt](https://open.spotify.com/track/6EzqfLXQSgs0JeTY73VZob) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Tilt](https://open.spotify.com/album/2dZj4dQ0l93htP9jv6HD1Z) | 2:25 | 2025-04-17 | 2025-05-16 |
+| [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-05 |  |
 | [time alone w u](https://open.spotify.com/track/5l8XXqPtwQQ28ThnjaDUh5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [time alone w u](https://open.spotify.com/album/0hJGN8c6ZDBsYWf2roeBCR) | 2:12 | 2026-01-01 | 2026-01-30 |
 | [Time to Love](https://open.spotify.com/track/4VIeoEMJltbvXeheuWAMIe) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Time to Love](https://open.spotify.com/album/311c0D09KypPSsR28imdzd) | 3:58 | 2025-11-06 | 2025-11-21 |
 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 | 2025-10-09 | 2025-10-31 |

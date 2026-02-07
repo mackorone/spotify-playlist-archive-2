@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-978 songs - 2 day 14 hr 16 min
+979 songs - 2 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Angel](https://open.spotify.com/track/4WHQH9TRMCtR7nqnTjKaty) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 2:44 | 2024-01-29 |  |
 | [Announcement \- Sped Up](https://open.spotify.com/track/37yxlMfYaoAAI1dY2axJZU) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Universal Mind Control](https://open.spotify.com/album/6wl2laSmw3sucFUwRlqAP2) | 3:45 | 2024-09-12 |  |
 | [Anti Matter](https://open.spotify.com/track/1LMsm1VLbyuLI95fNihyOG) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 4:01 | 2024-09-12 |  |
-| [Anything](https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc) | [Hedley](https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo) | [Wild Life](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO) | 3:11 | 2024-01-29 | 2026-02-06 |
+| [Anything](https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc) | [Hedley](https://open.spotify.com/artist/6Shas1ACrMl25XHgTrzxeo) | [Wild Life](https://open.spotify.com/album/6ixtp901UtxzxN81ErCYbO) | 3:11 | 2024-01-29 |  |
 | [Anything](https://open.spotify.com/track/20HaMaNES3lw0EWJXS1Fb6) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Kingdom Come](https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY) | 4:21 | 2024-09-12 |  |
 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 | 2024-01-31 |  |
 | [APESHIT](https://open.spotify.com/track/4YPkPJWP26WuwMnOOtzPJN) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [APESHIT \(Official Video\)](https://open.spotify.com/album/2NEQBoiYhgkGdGufGFwG0C) | 6:05 | 2024-01-29 | 2024-02-01 |
@@ -460,7 +460,8 @@
 | [Intro](https://open.spotify.com/track/07H9mwJYoTQdOoaOKxBH5z) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 2:16 | 2024-01-29 |  |
 | [Intro / Time For Some Action](https://open.spotify.com/track/3qLswcHofm34CnlG6El9LC) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 3:42 | 2024-09-12 |  |
 | [Isn't This The World](https://open.spotify.com/track/4THeHY8ygdtjShn2NHOh0S) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 4:12 | 2024-09-12 |  |
-| [It Blows My Mind](https://open.spotify.com/track/5X6J2NlFuXZfmpze7XO83h) | [Darryl DeBarge](https://open.spotify.com/artist/2KlE44YoSFD6bOnUB0E4kh) | [Intro Buddha](https://open.spotify.com/album/42Kz9d5Zp5xgFiOwqrsWzu) | 5:00 | 2024-09-12 |  |
+| [It Blows My Mind](https://open.spotify.com/track/5X6J2NlFuXZfmpze7XO83h) | [Darryl DeBarge](https://open.spotify.com/artist/2KlE44YoSFD6bOnUB0E4kh) | [Intro Buddha](https://open.spotify.com/album/42Kz9d5Zp5xgFiOwqrsWzu) | 5:00 | 2024-09-12 | 2026-02-07 |
+| [It Blows My Mind \(feat\. Pharrell Williams & DJ Quick\)](https://open.spotify.com/track/1JqKWRVohUi9RVJ7Kf19pZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In The Dogg House Part 3 \- \[The Dave Cash Collection\]](https://open.spotify.com/album/6TziBM782banYlFQXALSbK) | 4:59 | 2026-02-06 |  |
 | [It Girl](https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:47 | 2024-02-01 |  |
 | [It Girl](https://open.spotify.com/track/7pjWl2IAZcszPDFpcSVWHA) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [It Girl \(Video\)](https://open.spotify.com/album/3UNMOR5IWPOTF3ztJ4y4DG) | 5:06 | 2024-01-29 | 2024-02-02 |
 | [It Wasn't Us \(feat\. I\-20\)](https://open.spotify.com/track/4GhKGkbKAJUl7RfLG9XOg6) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/5pmDcxTVPDS9y8Wl1661DY) | 3:34 | 2024-06-20 |  |

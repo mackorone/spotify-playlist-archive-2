@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 148107,
+  "num_followers": 148097,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Poker (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
         "name": "4 Seasons",
         "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 151106,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Poker (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
     },
     {
       "added_at": "2026-01-23 02:28:33",

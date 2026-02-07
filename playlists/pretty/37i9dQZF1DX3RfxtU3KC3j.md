@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Deniz Mert x Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,039 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,025 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 2 | [Yalan](https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Yalan](https://open.spotify.com/album/6BUu1VknyMLsBhamWTliol) | 3:46 |
 | 3 | [Bana yalanlar](https://open.spotify.com/track/6dnaVcfaxDbaccqgkYwmnT) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Bana yalanlar](https://open.spotify.com/album/5r6fUP4kmiqOZp1gxJQOI0) | 3:42 |
 | 4 | [Yarim Benden Gidiyordu](https://open.spotify.com/track/5iI8vDuLoSWtRFlPuymfAG) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Yarim Benden Gidiyordu](https://open.spotify.com/album/5m5MUACw91Gu258a2gwYjW) | 4:19 |
-| 5 | [Track 2](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Mizantrop](https://open.spotify.com/track/2cRdX6mRkBRFOnM050fQa9) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Mizantrop](https://open.spotify.com/album/7C0Jr61asVHUd9lZVGlTGj) | 3:42 |
 | 6 | [Şerefine](https://open.spotify.com/track/1h5blUrJoJ4jyUH3NOEtXm) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Şerefine](https://open.spotify.com/album/1gwpFWFdhQAKfna0qybZRp) | 2:10 |
 | 7 | [Yorgun Mermi](https://open.spotify.com/track/21FksgRBxaDINspFnaQOFo) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Yorgun Mermi](https://open.spotify.com/album/0YFXWyupjPdbQcSXaTFtsV) | 3:32 |
 | 8 | [Yavru Ejdera](https://open.spotify.com/track/5BTOgcFGD7T6USBOEgbcQq) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Yavru Ejdera](https://open.spotify.com/album/1UOUetJQZrNlkS6wTRCbn3) | 2:44 |
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 14 | [Denize Baktım](https://open.spotify.com/track/1LcEQyifLT6WLI4kdsdHwn) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Denize Baktım](https://open.spotify.com/album/0XUXiJPTtvE3LHjwI0axd5) | 4:24 |
 | 15 | [Pusulasız Kafile](https://open.spotify.com/track/00siM52qocPbbpPK6KhYlz) | [Serbest Radikal](https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ) | [Pusulasız Kafile](https://open.spotify.com/album/7yWKFNrWJWJb7g2X0RHIdQ) | 3:05 |
 | 16 | [Sahte Gül Pazarı](https://open.spotify.com/track/4cqbObbQf9sSnDr0apOpea) | [Bahadır Sağlam](https://open.spotify.com/artist/60MyIKYA3yY1lGNroaZIgT) | [Sahte Gül Pazarı](https://open.spotify.com/album/5KQ2yqBqjo8j3KRKpEAqNw) | 3:10 |
-| 17 | [Yalanmış](https://open.spotify.com/track/5mPfZM7cKhLmDhyPjfTIzR) | [Frozen Clouds](https://open.spotify.com/artist/0M3LK8CPC8luVRntRVHwAp), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1), [tan](https://open.spotify.com/artist/4sObWMDsglbiw2u1A1RZpX) | [Kal](https://open.spotify.com/album/37uCLb3ss0CurFjzG3wu2b) | 2:52 |
-| 18 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |
-| 19 | [Aşk Olsun](https://open.spotify.com/track/2JRiptUwDYy598is1XFrhK) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Aşk Olsun](https://open.spotify.com/album/2xEN8ZHk6ApAUdHp2g1Xdj) | 3:55 |
-| 20 | [KORKUSUZ](https://open.spotify.com/track/7omTtQAIlxlHs79kfZKWcf) | [ZWANG](https://open.spotify.com/artist/26j3ne1fJ8K5LFHnLHsHYt), [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71) | [KORKUSUZ](https://open.spotify.com/album/4SVAFl9CVLgdphrDhvBnsd) | 2:28 |
-| 21 | [Ah Yoluna! \- Canlı @Vaha Studios](https://open.spotify.com/track/7vxfRFeoumgQZnGfHtF7PK) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Ah Yoluna! \(Canlı @Vaha Studios\)](https://open.spotify.com/album/5RqcuUrMtRw7vCulisu7bL) | 3:12 |
-| 22 | [Pranga](https://open.spotify.com/track/4aqNmisdb2R1efhnsPTxOK) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB), [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Pranga](https://open.spotify.com/album/4g91F6WIH4LZhIYPvHvPY6) | 3:17 |
-| 23 | [Yak Bizi \- Canlı](https://open.spotify.com/track/6L2AJV1XvJHqX13rDhURcR) | [Whisky](https://open.spotify.com/artist/0MsIW3TOudzdnzlxQSp5kW) | [Ankara Konser 2006 \(Canlı\)](https://open.spotify.com/album/3CcMNGme5vK7r47jjVP9OH) | 4:49 |
-| 24 | [Bir Şey Olacak Gibi](https://open.spotify.com/track/32ITjAohxIXEXrJdcV4g2d) | [Frapan](https://open.spotify.com/artist/7ykkGTwXWbWwBVjV3C4Bx4) | [Bir Şey Olacak Gibi](https://open.spotify.com/album/793n8SjHJ7TJamP0EvPV6z) | 2:47 |
-| 25 | [Su Gibi](https://open.spotify.com/track/09FRnjhTYt1N5EPh00qlBe) | [Ars Longa](https://open.spotify.com/artist/469bcSDGiMNbVssgFqGMRg) | [Su Gibi](https://open.spotify.com/album/4H7qGEGcnP6KBNxH4TX0vK) | 3:31 |
+| 17 | [İÇİME SENİ ÇEKERİM](https://open.spotify.com/track/2c9GmMamgZ1ui0DSplVzzs) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH) | [İÇİME SENİ ÇEKERİM](https://open.spotify.com/album/1RsN3pk6yABfkTHlKft4cG) | 3:35 |
+| 18 | [Yalanmış](https://open.spotify.com/track/5mPfZM7cKhLmDhyPjfTIzR) | [Frozen Clouds](https://open.spotify.com/artist/0M3LK8CPC8luVRntRVHwAp), [UZUM3](https://open.spotify.com/artist/0MxwyKmWLNSPtWbaAnfFr1), [tan](https://open.spotify.com/artist/4sObWMDsglbiw2u1A1RZpX) | [Kal](https://open.spotify.com/album/37uCLb3ss0CurFjzG3wu2b) | 2:52 |
+| 19 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |
+| 20 | [Aşk Olsun](https://open.spotify.com/track/2JRiptUwDYy598is1XFrhK) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Aşk Olsun](https://open.spotify.com/album/2xEN8ZHk6ApAUdHp2g1Xdj) | 3:55 |
+| 21 | [KORKUSUZ](https://open.spotify.com/track/7omTtQAIlxlHs79kfZKWcf) | [ZWANG](https://open.spotify.com/artist/26j3ne1fJ8K5LFHnLHsHYt), [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71) | [KORKUSUZ](https://open.spotify.com/album/4SVAFl9CVLgdphrDhvBnsd) | 2:28 |
+| 22 | [Ah Yoluna! \- Canlı @Vaha Studios](https://open.spotify.com/track/7vxfRFeoumgQZnGfHtF7PK) | [Sedef Sebüktekin](https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l) | [Ah Yoluna! \(Canlı @Vaha Studios\)](https://open.spotify.com/album/5RqcuUrMtRw7vCulisu7bL) | 3:12 |
+| 23 | [Pranga](https://open.spotify.com/track/4aqNmisdb2R1efhnsPTxOK) | [Yasemin Rosa](https://open.spotify.com/artist/1zrc2YgiwtHNcgmuYkThkB), [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Pranga](https://open.spotify.com/album/4g91F6WIH4LZhIYPvHvPY6) | 3:17 |
+| 24 | [Yak Bizi \- Canlı](https://open.spotify.com/track/6L2AJV1XvJHqX13rDhURcR) | [Whisky](https://open.spotify.com/artist/0MsIW3TOudzdnzlxQSp5kW) | [Ankara Konser 2006 \(Canlı\)](https://open.spotify.com/album/3CcMNGme5vK7r47jjVP9OH) | 4:49 |
+| 25 | [Bir Şey Olacak Gibi](https://open.spotify.com/track/32ITjAohxIXEXrJdcV4g2d) | [Frapan](https://open.spotify.com/artist/7ykkGTwXWbWwBVjV3C4Bx4) | [Bir Şey Olacak Gibi](https://open.spotify.com/album/793n8SjHJ7TJamP0EvPV6z) | 2:47 |
 | 26 | [Saatim Çalmadan](https://open.spotify.com/track/6x2lRA6wbjQR7RAYN8NPje) | [Ceren Boynuk](https://open.spotify.com/artist/35Kl5jmicwD3kkMH7B74Bd) | [Saatim Çalmadan](https://open.spotify.com/album/3HtjV57vajDEQDkYIPEXC0) | 3:39 |
 | 27 | [Başım Belada](https://open.spotify.com/track/34BfKevgLjTT8ZSegvaFFE) | [Mehmet Erdem](https://open.spotify.com/artist/0ylYRIvKTpv9uvTfKbYjM0) | [Başım Belada](https://open.spotify.com/album/6Zk2BuhY4cFcOXPGScrMFy) | 4:08 |
 | 28 | [Bir yolunu bulacağız](https://open.spotify.com/track/2qOvwuM2q8kZPgO92ftYuD) | [Aziz Piyade](https://open.spotify.com/artist/207ge5nlUkftKtQYe76iW4), [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa) | [Bir yolunu bulacağız](https://open.spotify.com/album/21OWBMHPr6CDCFZO1Fm7kQ) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Bu Aşk Fazla Sana](https://open.spotify.com/track/7expNQoHRRsA93Qml9ChC4) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Bu Aşk Fazla Sana](https://open.spotify.com/album/6LiOSllZjULVpj6l4FZnEs) | 3:24 |
 | 75 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAAGxJ2nbzWA7uhz5FowH5fgl1YTTT`
+Snapshot ID: `AAAAACOTxjp3OrYqQSu1Zy3tsqedO473`

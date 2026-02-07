@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Louis Tomlinson",
+  "description": "a little indie, a little pop, soda featuring Whitney Whitney",
   "name": "soda",
   "tracks": [
     {
@@ -512,6 +512,24 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     },
     {
       "album": {
@@ -10364,7 +10382,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181866,
       "name": "HEART AWAY",
       "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
@@ -14012,7 +14030,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205304,
       "name": "Know You Naked",
       "url": "https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE"
@@ -17889,6 +17907,24 @@
     },
     {
       "album": {
+        "name": "ohmygod!",
+        "url": "https://open.spotify.com/album/6ffP9JDhw7iYPdnTJwK3Km"
+      },
+      "artists": [
+        {
+          "name": "archie",
+          "url": "https://open.spotify.com/artist/2EqbS3LYLBLS6scWZAHCrE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "ohmygod!",
+      "url": "https://open.spotify.com/track/2pxw43ycOory6Ghyo2WOSa"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V"
       },
@@ -18334,6 +18370,24 @@
       "duration_ms": 164509,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh"
+    },
+    {
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/6H04GCoprTTplhVAcFIJYx"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195209,
+      "name": "Out Of The Dark",
+      "url": "https://open.spotify.com/track/2o2toLWSPdp0HNTSbFbUBP"
     },
     {
       "album": {
@@ -24677,6 +24731,24 @@
     },
     {
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/5LHuSgAPwwcSsNqkyJtFrM"
+      },
+      "artists": [
+        {
+          "name": "Micah Dailey-White",
+          "url": "https://open.spotify.com/artist/0SSLcKlt82IAYAFVKljEZc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/5y0RughFKGYIldQ8CGRXdW"
+    },
+    {
+      "album": {
         "name": "Think I'm In Love",
         "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
@@ -24984,6 +25056,28 @@
       "duration_ms": 206822,
       "name": "tomorrow [ANGLE OF ETERNITY]",
       "url": "https://open.spotify.com/track/3FPMhDvr63opoivWLiabxn"
+    },
+    {
+      "album": {
+        "name": "Lost In The Wonder",
+        "url": "https://open.spotify.com/album/7fttWtjzkhPgTRpNy9pII6"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/2lXi0eQYkj5eLLLWYfG6rh"
     },
     {
       "album": {
@@ -26038,6 +26132,24 @@
       "duration_ms": 186063,
       "name": "Wait Until Tomorrow",
       "url": "https://open.spotify.com/track/753YTuoNXuJjBcUo6yW9R6"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/2WARgPafAX7Taehcpwmi0z"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226304,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/49t87UaGyvXM2CJVXNwOsQ"
     },
     {
       "album": {
@@ -27888,6 +28000,24 @@
       "duration_ms": 179253,
       "name": "You Shaped Hole",
       "url": "https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7"
+    },
+    {
+      "album": {
+        "name": "you woke me up",
+        "url": "https://open.spotify.com/album/3bgwaKuJ00y0DWB9eqeA71"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194570,
+      "name": "you woke me up",
+      "url": "https://open.spotify.com/track/55hBQyyUNR5j2pZYGj9lj0"
     },
     {
       "album": {

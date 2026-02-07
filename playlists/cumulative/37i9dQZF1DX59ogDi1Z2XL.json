@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Skiifall",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Casper TNG",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "Alpenflage",
+        "url": "https://open.spotify.com/album/27x0RvWDONBs4nrfo3r3QK"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Junia-T",
+          "url": "https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133583,
+      "name": "Alpenflage",
+      "url": "https://open.spotify.com/track/32fQHw1cgqqGsspPVfRXNj"
+    },
+    {
+      "album": {
         "name": "Already Made It",
         "url": "https://open.spotify.com/album/5en7xLIvrTAYxRae9lBJH5"
       },
@@ -3400,7 +3422,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 148824,
       "name": "Back Seat (feat. Luh Kel)",
       "url": "https://open.spotify.com/track/4qL9d0bYh0KYV0FMBIStfs"
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181591,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/2ZmaHgBgqrVJJnQS8SW6oQ"
@@ -10762,7 +10784,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 127476,
       "name": "Drill Up The Place",
       "url": "https://open.spotify.com/track/7q06iTn1T5VptIHZCfo5Nj"
@@ -11942,7 +11964,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 156438,
       "name": "Extraordinary",
       "url": "https://open.spotify.com/track/36rlkP3ybzHPC4HcUBeasa"
@@ -12146,7 +12168,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 185750,
       "name": "Faith, Pt. 1",
       "url": "https://open.spotify.com/track/0hrR28IofCUiGDfL5eT2S4"
@@ -12354,6 +12376,24 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/29ldu0knp8dHvfcqifCru8"
+      },
+      "artists": [
+        {
+          "name": "Yung Tory",
+          "url": "https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126486,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/7daURZy1DSM8XsYA3zYVcR"
     },
     {
       "album": {
@@ -15396,7 +15436,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 174159,
       "name": "GOODTHANKYOU",
       "url": "https://open.spotify.com/track/13QIaQniwcsUp1DSOCa4HI"
@@ -17996,6 +18036,24 @@
       "duration_ms": 129896,
       "name": "Ice Spice",
       "url": "https://open.spotify.com/track/5urWEm3xpFTiek4qSHouQZ"
+    },
+    {
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
     },
     {
       "album": {
@@ -22312,7 +22370,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 262151,
       "name": "Make That Change",
       "url": "https://open.spotify.com/track/1LhGIPQfvFtpJbauagp9KA"
@@ -23058,6 +23116,28 @@
       "duration_ms": 151173,
       "name": "Minor Setback",
       "url": "https://open.spotify.com/track/4YE4shhyKQ1ObmZfZClWxg"
+    },
+    {
+      "album": {
+        "name": "MIROIR",
+        "url": "https://open.spotify.com/album/5F1TZOFKyNPC5dswz3P0Fm"
+      },
+      "artists": [
+        {
+          "name": "Nahl\u00e9",
+          "url": "https://open.spotify.com/artist/4bckn9wOQswhAmiUunNqKO"
+        },
+        {
+          "name": "Avian",
+          "url": "https://open.spotify.com/artist/5gvfHg3GsPE9GHaD3SnHiP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89620,
+      "name": "MIROIR",
+      "url": "https://open.spotify.com/track/5FfXM1nteZWgTetnDZQJem"
     },
     {
       "album": {
@@ -26022,7 +26102,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 102421,
       "name": "Not Nice to Meet",
       "url": "https://open.spotify.com/track/3lFDnyVopgk8qMUJZvkhIo"
@@ -28627,6 +28707,24 @@
     },
     {
       "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/1MupQK4McEeoPyRXJs3wmv"
+      },
+      "artists": [
+        {
+          "name": "Shelailai",
+          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154655,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/3gAC0FGwgRuwM97G1OM69F"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/76X9Y0e32Lv3Z7XZlQF0i7"
       },
@@ -29920,7 +30018,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 126863,
       "name": "QTB Bidness",
       "url": "https://open.spotify.com/track/5K40zYcwTCNlmuzllT1jWP"
@@ -30090,7 +30188,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 151417,
       "name": "Rain Man",
       "url": "https://open.spotify.com/track/0w0IxGXwokkpHHAyxW0fka"
@@ -31858,7 +31956,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204610,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5nOnkyjbiIfAyUvBSJv6LG"
@@ -34354,7 +34452,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 187603,
       "name": "Step Out",
       "url": "https://open.spotify.com/track/7gm1hgJm2jfQRXF36RgAPL"
@@ -38977,6 +39075,24 @@
     },
     {
       "album": {
+        "name": "Burnt Bridges",
+        "url": "https://open.spotify.com/album/3UqnRXWF0OM9reIktVLplq"
+      },
+      "artists": [
+        {
+          "name": "Sheldon Sabastian",
+          "url": "https://open.spotify.com/artist/3TVN22ppuxvrMtVOIGFYYn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "TWO.FIVE",
+      "url": "https://open.spotify.com/track/6DgJB4B4Z5GhKfUuK1uiLN"
+    },
+    {
+      "album": {
         "name": "U & I",
         "url": "https://open.spotify.com/album/5UkpjgrkBf3i1YAoRISYCg"
       },
@@ -41888,6 +42004,24 @@
       "duration_ms": 201904,
       "name": "WYD",
       "url": "https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci"
+    },
+    {
+      "album": {
+        "name": "BINE & SHELL",
+        "url": "https://open.spotify.com/album/3OGazch8CsS2w5tG1p5uZx"
+      },
+      "artists": [
+        {
+          "name": "Wave Montega",
+          "url": "https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123435,
+      "name": "x'in oz",
+      "url": "https://open.spotify.com/track/4MUBjD713YOmHfjDSO5OOJ"
     },
     {
       "album": {

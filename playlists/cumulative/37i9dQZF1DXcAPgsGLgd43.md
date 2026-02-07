@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-494 songs - 1 day 2 hr 26 min
+495 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Kiki](https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Kiki](https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH) | 3:00 | 2025-05-09 | 2026-01-25 |
 | [Kuba](https://open.spotify.com/track/7Mv6lRAkJt83BSqBLDDTY1) | [Jakblauz](https://open.spotify.com/artist/0jBf3A4p8Cv5UovH9LPDvg) | [Kuba](https://open.spotify.com/album/1oWdKRkVfVM1dIyTCXQbP9) | 2:37 | 2024-01-26 | 2024-10-26 |
 | [La Boca \(JP Garcia Remix\)](https://open.spotify.com/track/4DeD44PP33SfpIKvr8M9L0) | [DJ PJAY](https://open.spotify.com/artist/15vHTe6NYt3Mjy3b90SQLc), [JP Garcia](https://open.spotify.com/artist/7d2gR406GZNOBBawzSRjHL), [Fermo](https://open.spotify.com/artist/61oZjYAtQ3Bsmjaen7kFnn) | [La Boca \(JP Garcia Remix\)](https://open.spotify.com/album/31JP6lshNMGXh6hBKNQpv6) | 3:26 | 2025-12-22 |  |
+| [La bohemia](https://open.spotify.com/track/5E8eu7Jfj7dkZgnbMOPtwK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [La bohemia](https://open.spotify.com/album/6xQ8fWvwPReZSU4uRkUI8p) | 3:48 | 2026-02-06 |  |
 | [La Bomba \- Mr\. Pauer Remix Original](https://open.spotify.com/track/0bfvwaqeQrk39mY7o7XEBT) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [La Bomba \(Mr\. Pauer Remix Original\)](https://open.spotify.com/album/5hwn6ZlFtnqo9P4PNdYedl) | 2:33 | 2025-01-17 |  |
 | [La Bruja](https://open.spotify.com/track/7fnDp9el4DgDmb9qKXwODT) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Eduardo G](https://open.spotify.com/artist/3AroaaHqrohHSbQUO1lc1c), [Yaneth Sandoval](https://open.spotify.com/artist/1ymQkBtOIvnlZdCqYQ7xiS) | [La Bruja](https://open.spotify.com/album/7LSIcZRuyPSW8uSJYhNXNs) | 3:02 | 2025-03-21 | 2025-03-29 |
 | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T) | 2:17 | 2024-08-16 | 2026-01-24 |
@@ -380,7 +381,7 @@
 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 | 2023-11-10 |  |
 | [Reina de la Pista](https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Reina de la Pista](https://open.spotify.com/album/0QjabydE5tFFlPCfrofKfC) | 2:47 | 2025-10-17 |  |
 | [Resistencia](https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Blow \(ITA\)](https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq) | [Resistencia](https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E) | 2:43 | 2024-02-16 | 2024-05-03 |
-| [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 | 2025-11-07 |  |
+| [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 | 2025-11-07 | 2026-02-07 |
 | [Rico Rola](https://open.spotify.com/track/376UNzeHi1Bx99RPBGTzgl) | [CASA AMIGOS](https://open.spotify.com/artist/1GfmUaYy7OeBPTwqDrjiE3), [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Rico Rola](https://open.spotify.com/album/02WJDUh4iIRBroPxxMoS0b) | 2:10 | 2025-12-22 |  |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-05-23 |  |
 | [Ritmo](https://open.spotify.com/track/5Fc6juKKeI1G163te8UKjo) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [Ritmo](https://open.spotify.com/album/3537zCnqcxxG74usD1BLg6) | 2:40 | 2025-11-14 |  |

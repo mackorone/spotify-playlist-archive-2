@@ -2835,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
+        "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260206,
+      "name": "I'm Black And I'm Proud - Say It Loud",
+      "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
+    },
+    {
+      "album": {
         "name": "Christmas in the City",
         "url": "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s"
       },
@@ -4430,6 +4452,24 @@
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k"
+    },
+    {
+      "album": {
+        "name": "Put the Bucket Down (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/73pTDzPdfoStoUAATSYMZB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407396,
+      "name": "Put the Bucket Down - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/47XBPbDssZEbThD2ZeGmkk"
     },
     {
       "album": {

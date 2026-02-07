@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-548 songs - 1 day 19 hr 58 min
+550 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [CHROMA 011 A.L.O.E II](https://open.spotify.com/track/61gCDJBdaNXE4sy9Xl2lvl) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 000](https://open.spotify.com/album/0m1epiCLYT58W9XZdGgLK4) | 5:42 | 2025-11-14 |  |
 | [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-15 | 2025-07-17 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-15 | 2024-04-19 |
-| [Circadian Rhythm \- BOP Remix](https://open.spotify.com/track/151JobcMNpyBbA47MR0z5T) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Circadian Rhythm \(BOP Remix\)](https://open.spotify.com/album/1DTFfoiB1F1DOnWQAiXea2) | 4:34 | 2025-07-23 |  |
+| [Circadian Rhythm \- BOP Remix](https://open.spotify.com/track/151JobcMNpyBbA47MR0z5T) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Circadian Rhythm \(BOP Remix\)](https://open.spotify.com/album/1DTFfoiB1F1DOnWQAiXea2) | 4:34 | 2025-07-23 | 2026-02-07 |
 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-08-17 | 2025-07-24 |
 | [Climate Flu](https://open.spotify.com/track/6RyTgXg86oSjqQFIdZQa1Z) | [Duckett](https://open.spotify.com/artist/2F1Xapfmt9HXopbgBuAfvC), [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [The Climate Flu EP](https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs) | 6:41 | 2021-10-06 | 2022-07-22 |
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2025-07-17 |
@@ -271,6 +271,7 @@
 | [Lost You in the Fog](https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 8:53 | 2021-10-06 | 2025-07-17 |
 | [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 | 2023-04-15 | 2025-08-23 |
 | [Love & Aggression](https://open.spotify.com/track/510FIqgsteZpZvY9g0XWtu) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Love & Aggression](https://open.spotify.com/album/3WnwcRbhmT6jfPLMD7Yg01) | 4:29 | 2025-08-22 | 2025-11-04 |
+| [Love Languages](https://open.spotify.com/track/3ZgNp3Eu8Qx8UmSdnJILtK) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa) | [Wagenmuzik 2](https://open.spotify.com/album/4112se9p86vUJXzn2Z7ckn) | 4:06 | 2026-02-06 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 | 2025-11-19 |
 | [LSI Dreaming](https://open.spotify.com/track/4TQwoeLP4Mj9vHsf6h6zNw) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [LSI Dreaming](https://open.spotify.com/album/0Zy5FDZUHa4cMdM3UmUgYi) | 5:13 | 2025-06-20 | 2025-10-04 |
 | [Lucky Me](https://open.spotify.com/track/0x5xYIRlkAYComANpdnPNB) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Lucky Me](https://open.spotify.com/album/1HKIdsPLPNWtZ6TO5xy0AK) | 5:58 | 2025-03-14 | 2025-09-20 |
@@ -312,6 +313,7 @@
 | [Nannou \- Mixed](https://open.spotify.com/track/3dgD602JCmRmFm95pOXCtz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Nannou \(Mixed\)](https://open.spotify.com/album/4UiRbLnV7kPBhXhyEnr1S2) | 1:55 | 2022-12-29 | 2023-03-19 |
 | [Need](https://open.spotify.com/track/6PAEXXkC8QydV8MOTRv0C8) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Need](https://open.spotify.com/album/5y47Hl3JPvTbGZDkjL4fyR) | 3:54 | 2025-02-21 | 2025-08-13 |
 | [Need U](https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp) | [Out of\_](https://open.spotify.com/artist/5jJictcua4HAXhz2voFh2C) | [Need U](https://open.spotify.com/album/5Fkn7LxxVhbKKqrYKYdbQa) | 4:04 | 2025-05-20 | 2025-11-29 |
+| [Neon Pulse \- Midnight Version](https://open.spotify.com/track/6gOutDxUYEjRfzvUVonM3f) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Neon Pulse \(Midnight Version\)](https://open.spotify.com/album/77BiuGLt07HNvRABCmVZ3U) | 2:36 | 2026-02-06 |  |
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2025-06-07 |
 | [Night Truths](https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [Night Truths](https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA) | 7:08 | 2026-01-16 |  |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2025-07-17 |
@@ -528,7 +530,7 @@
 | [Weather the Storm](https://open.spotify.com/track/7tukLYFGfh5osYc8uoqOmk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/671j83cAr05uMnsERPGycZ) | 4:36 | 2021-10-06 | 2025-07-17 |
 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 | 2021-10-06 | 2025-07-10 |
 | [Weird Beard](https://open.spotify.com/track/2bD26zTxGTi2LJs0NDQZph) | [Cosmic Neighbourhood](https://open.spotify.com/artist/20jBFovpOUwDnYWNqdnTp4) | [All for Fall](https://open.spotify.com/album/7qLeaIF2WOVwBe65nuSgyw) | 9:33 | 2021-10-06 | 2025-07-17 |
-| [Well, We Can't Go Back Now](https://open.spotify.com/track/3TKelAeks16VAqc9CIoUBk) | [Wretla](https://open.spotify.com/artist/4splnNqhQXs88TtHWR0fbw) | [Well, We Can't Go Back Now](https://open.spotify.com/album/22F1qfwQ9zCsXv1cNJZwNG) | 6:57 | 2025-10-10 |  |
+| [Well, We Can't Go Back Now](https://open.spotify.com/track/3TKelAeks16VAqc9CIoUBk) | [Wretla](https://open.spotify.com/artist/4splnNqhQXs88TtHWR0fbw) | [Well, We Can't Go Back Now](https://open.spotify.com/album/22F1qfwQ9zCsXv1cNJZwNG) | 6:57 | 2025-10-10 | 2026-02-07 |
 | [What Came First And Why Does It Matter](https://open.spotify.com/track/1X7kDbXEPCJYYp376yqFbD) | [DJ Chrysalis](https://open.spotify.com/artist/3h07CvDZJ8MLsl8tAIMzvy) | [What Came First And Why Does It Matter](https://open.spotify.com/album/1uir3TdZvumqFzKcMKsavV) | 4:05 | 2022-06-08 | 2025-07-17 |
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-29 |
 | [Whipping Spree](https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Journey into Mr Re](https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC) | 6:51 | 2023-06-01 | 2023-08-09 |

@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 84213,
+  "num_followers": 84249,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALF+KYY0P3VvRHc5dbDM+c9rEjuP",
+  "snapshot_id": "AAAAAOMHCs34w80SDR2w235PrXphBZ/P",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:25",
+      "album": {
+        "name": "Make It Happen (Radio Edit)",
+        "url": "https://open.spotify.com/album/047GAcv3m7UVTKnsdLRO02"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 221425,
+      "name": "Make It Happen - Radio Edit",
+      "url": "https://open.spotify.com/track/0eiZgUgyPywLSOVITCpgMk"
+    },
     {
       "added_at": "2026-01-30 05:00:33",
       "album": {
@@ -515,22 +531,6 @@
       "duration_ms": 282040,
       "name": "Catalonia",
       "url": "https://open.spotify.com/track/3wy86KLR6VKyuBVHeyaM6b"
-    },
-    {
-      "added_at": "2025-01-10 05:00:08",
-      "album": {
-        "name": "Let's Talk",
-        "url": "https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Let's Talk",
-      "url": "https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP"
     },
     {
       "added_at": "2025-01-24 05:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,376 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,380 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 39 | [Sparks \(Turn Off Your Mind\) \- Atmozfears & Audiotricz Radio Mix](https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Sparks \(Turn Off Your Mind\) \(Atmozfears & Audiotricz Remix\)](https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD) | 2:49 |
 | 40 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
 | 41 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 |
-| 42 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 |
-| 43 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 |
+| 42 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 |
+| 43 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 |
 | 44 | [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 |
 | 45 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
 | 46 | [Love You Forever](https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Love You Forever](https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 | 50 | [Lighthouse \- Radio Edit](https://open.spotify.com/track/0GYvUa9kz7wNTs3qqfK3Gb) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lighthouse](https://open.spotify.com/album/0NspntfDBwf6LLgeCTXX6J) | 3:06 |
 
-Snapshot ID: `aYKMAAAAAAA7w6UYEiSqG15KEdR3QdE3`
+Snapshot ID: `aYPdgAAAAACgPmrwwFcIqJEXUD27kll3`

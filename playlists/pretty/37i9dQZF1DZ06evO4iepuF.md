@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iepuF.md) - [plain]
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 50 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 50 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iepuF.md) - [plain]
 | 34 | [when has healthy ever been my priority \- Remake Version](https://open.spotify.com/track/3R2YwDsdxwNwaxVLKbY5Hi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [when has healthy ever been my priority](https://open.spotify.com/album/3gGsuSxZerzUF3ZcMwjk87) | 1:40 |
 | 35 | [phoinky](https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [phoinky new beginning](https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz) | 0:47 |
 | 36 | [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 |
-| 37 | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ) | 1:41 |
-| 38 | [Can you take it?](https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Can you take it?](https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8) | 3:33 |
+| 37 | [Can you take it?](https://open.spotify.com/track/0TPcuz0aWCaspJflGL4FGp) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Can you take it?](https://open.spotify.com/album/6ilt6meuMxAA7WXOLRKJf8) | 3:33 |
+| 38 | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ) | 1:41 |
 | 39 | [i only got one](https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i only got one](https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7) | 1:10 |
 | 40 | [before i explode](https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:04 |
 | 41 | [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iepuF.md) - [plain]
 | 43 | [what's it like to be a heart broken bitch](https://open.spotify.com/track/7xw9WWgfnUQI4FvUaAjtyK) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:44 |
 | 44 | [past present future](https://open.spotify.com/track/2rtde4rfw3x5zYGzVC3dJp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 3:29 |
 | 45 | [RIP Creativity](https://open.spotify.com/track/0tCmwtKSJK5CHsmNLz1Unw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [RIP Creativity](https://open.spotify.com/album/4daDA6ersDkffX8BC46lAM) | 2:00 |
-| 46 | [in my heart](https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx) | 2:14 |
+| 46 | [only wonders now.](https://open.spotify.com/track/0VF21cnRMtUFtSie7P8xNh) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:56 |
 | 47 | [kys delete ur songs](https://open.spotify.com/track/07nOL4L0tXqL8O9ufMEeFT) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 0:51 |
 | 48 | [pocket dimension](https://open.spotify.com/track/3iyC5mynKGLzazQHARVcNN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:20 |
-| 49 | [only wonders now.](https://open.spotify.com/track/0VF21cnRMtUFtSie7P8xNh) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:56 |
-| 50 | [this ts pmo me off](https://open.spotify.com/track/4MGbrzC5f3dLfSXdjhz4Es) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [this ts pmo me off](https://open.spotify.com/album/26Koe9XUKRUdzsmmz45gyz) | 1:43 |
+| 49 | [in my heart](https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx) | 2:14 |
+| 50 | [microtonal ghost](https://open.spotify.com/track/6YAq0AsR5qLv38dAylq96b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [microtonal ghost](https://open.spotify.com/album/78k3fA3wgT4cNynmZE9Dpe) | 2:32 |
 
-Snapshot ID: `aYKMAAAAAAD/TnLJfRM6nXtRNcltxqTO`
+Snapshot ID: `aYPdgAAAAAAa5pKAft6Qf47tWJmE37Jc`

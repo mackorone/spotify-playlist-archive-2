@@ -21061,6 +21061,28 @@
     },
     {
       "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/6tQx6ggWUu7F4e9IWsAsrS"
+      },
+      "artists": [
+        {
+          "name": "Baked Moon",
+          "url": "https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/0nVVyZQDvNX303LqKibo8i"
+    },
+    {
+      "album": {
         "name": "Starting With Something",
         "url": "https://open.spotify.com/album/1XtrJDG6T3JY6T6BLkOLGT"
       },

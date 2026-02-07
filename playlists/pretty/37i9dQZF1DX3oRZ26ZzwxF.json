@@ -1,13 +1,37 @@
 {
   "description": "Le meilleur du rap africain francophone. Photo : Black K",
-  "num_followers": 59849,
+  "num_followers": 59887,
   "original_name": "Afro Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrlxfaD6bZccl9knsHLuJ/U46JL",
+  "snapshot_id": "AAAAAELPZ1+GQGjlxJvb6TY0gapcQAlK",
   "tracks": [
+    {
+      "added_at": "2026-02-06 10:02:32",
+      "album": {
+        "name": "Yeux de Foule",
+        "url": "https://open.spotify.com/album/2On9qaBkgHOn6TZW6703X3"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        },
+        {
+          "name": "Tripa Gninnin",
+          "url": "https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ"
+        }
+      ],
+      "duration_ms": 221638,
+      "name": "Yeux de Foule",
+      "url": "https://open.spotify.com/track/5YjawURFOkam2wXSlx6lGD"
+    },
     {
       "added_at": "2026-02-05 23:00:23",
       "album": {

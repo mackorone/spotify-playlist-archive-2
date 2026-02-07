@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Cold Night",
+        "url": "https://open.spotify.com/album/63WdFxvJi1f4U71Q4FsrpI"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192994,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
+    },
+    {
+      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -1110,6 +1128,24 @@
       "duration_ms": 195493,
       "name": "Everybody Hates Me - Khrebto Remix",
       "url": "https://open.spotify.com/track/4hJolpt4ZqzoZuET5l3rzV"
+    },
+    {
+      "album": {
+        "name": "JUJUTSU KAISEN SEASON 3 - The Culling Game - Part 1 - Original Soundtrack ~Selected Version~",
+        "url": "https://open.spotify.com/album/130ALCkyGuUdB8Jly6bXJd"
+      },
+      "artists": [
+        {
+          "name": "\u7167\u4e95\u9806\u653f",
+          "url": "https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91333,
+      "name": "Execution",
+      "url": "https://open.spotify.com/track/7mWZIQTibWOpop4BNCGkCF"
     },
     {
       "album": {

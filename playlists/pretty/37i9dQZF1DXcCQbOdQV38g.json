@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59884,
+  "num_followers": 59886,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Blijven Slapen",
         "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 170991,
       "name": "Blijven Slapen",
       "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
     },
     {
       "added_at": "2026-02-03 23:00:20",

@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207428,
       "name": "Deus Na Minha Hist\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0"
@@ -1867,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "IMPERFEITO",
+        "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
+      },
+      "artists": [
+        {
+          "name": "Seven Plus",
+          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
+        },
+        {
+          "name": "Rayssa Andreoli",
+          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314736,
+      "name": "IMPERFEITO",
+      "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+    },
+    {
+      "album": {
         "name": "Meia Noite (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
       },
@@ -2211,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "O Maior Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QXJWHHtoOU2cU2a6ZwT9x"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340584,
+      "name": "Melhor Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NroUAhj3hIfz80cQqM8t0"
+    },
+    {
+      "album": {
         "name": "Saudade, Vol. 1",
         "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
       },
@@ -2456,7 +2496,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 341666,
       "name": "Ningu\u00e9m Pode Parar - Ao Vivo",
       "url": "https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA"

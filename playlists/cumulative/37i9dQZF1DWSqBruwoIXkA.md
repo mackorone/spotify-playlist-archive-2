@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sydney Rose & Tom Odell
 
-1,016 songs - 2 day 7 hr 55 min
+1,018 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Break My Heart Again](https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh) | 3:58 | 2022-09-16 | 2024-02-02 |
 | [Break My Heart Again](https://open.spotify.com/track/2is19a6HY7ZdWP654IMhEE) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Break My Heart Again](https://open.spotify.com/album/3vh5Rvh2LVovpYKhrnSndx) | 3:58 | 2021-12-17 | 2025-05-17 |
 | [break up with me](https://open.spotify.com/track/0b23sw8Yo8I44tmsh8B19K) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [break up with me](https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE) | 2:32 | 2024-08-16 | 2024-10-12 |
+| [break your own heart](https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [break your own heart](https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED) | 3:14 | 2026-02-06 |  |
 | [bridesmaid](https://open.spotify.com/track/2LZ24cM1dh7nIs1tblxiwV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [bridesmaid](https://open.spotify.com/album/26KBwbUyMsbzjiAXyrOKP8) | 3:12 | 2025-05-23 | 2025-12-20 |
 | [Briston](https://open.spotify.com/track/65VpwcmfM8WMvEPrI0cCtF) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Briston](https://open.spotify.com/album/5cmC9O768yOGu5tU1qf0f8) | 2:47 | 2025-04-08 | 2025-08-18 |
 | [broken](https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:15 | 2022-12-16 | 2024-04-19 |
@@ -142,7 +143,7 @@
 | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Call Your Mom \(with Lizzy McAlpine\)](https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku) | 4:38 | 2023-09-15 | 2024-02-17 |
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-10-28 | 2023-01-28 |
 | [Can't Even Hate You](https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Can’t Even Hate You](https://open.spotify.com/album/1t0tUAlK4qQC71NiwwjFOf) | 3:57 | 2024-08-30 | 2025-03-26 |
-| [Can't Fit In His Shoes](https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Can't Fit In His Shoes](https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu) | 3:15 | 2025-06-06 |  |
+| [Can't Fit In His Shoes](https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Can't Fit In His Shoes](https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu) | 3:15 | 2025-06-06 | 2026-02-07 |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 |  |
 | [Cannibal](https://open.spotify.com/track/0dG8MLek8njy95ScARZkD6) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [\(the angry part\)](https://open.spotify.com/album/7gxbIv1uPNjNf93OYaeLPG) | 3:06 | 2025-03-28 | 2025-06-25 |
 | [Car Accident](https://open.spotify.com/track/0fOwJiPxWs5Wp8IggTSYAE) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:33 | 2023-02-11 | 2023-03-04 |
@@ -778,7 +779,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-12-25 |
 | [Senses](https://open.spotify.com/track/1JetH4krYbWJNZenvTOC4D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Senses](https://open.spotify.com/album/7Hitj3Xv5AfE3DnMl3U43v) | 2:39 | 2024-10-04 | 2024-12-14 |
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 | 2022-10-22 |
-| [Shapeshifting on a Saturday Night \- Alone in My Bedroom Version](https://open.spotify.com/track/72fwwIfHVFPCyzQinhKPpy) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night \(Alone in My Bedroom Version\)](https://open.spotify.com/album/6Q9ub9pPb01qLX4gRyiw8T) | 4:42 | 2025-09-26 |  |
+| [Shapeshifting on a Saturday Night \- Alone in My Bedroom Version](https://open.spotify.com/track/72fwwIfHVFPCyzQinhKPpy) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night \(Alone in My Bedroom Version\)](https://open.spotify.com/album/6Q9ub9pPb01qLX4gRyiw8T) | 4:42 | 2025-09-26 | 2026-02-07 |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 | 2024-09-28 |
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2024-12-20 | 2025-03-26 |
@@ -870,6 +871,7 @@
 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 | 2023-06-02 | 2023-08-20 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-09-13 | 2024-10-05 |
 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 | 2025-06-24 | 2025-09-05 |
+| [The Rain Isn't Over](https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [The Rain Isn't Over](https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB) | 3:02 | 2026-02-06 |  |
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-05 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |

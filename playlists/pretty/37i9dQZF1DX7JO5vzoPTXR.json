@@ -1,13 +1,173 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFCReBjxdBABS\"> Trannie Anderson </a> ",
-  "num_followers": 87317,
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFQuy1uEYTm1p\">Ariel Imani</a> ",
+  "num_followers": 87321,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK",
+  "snapshot_id": "AAAAAAojp/qbjeWk8oXDCgTP58xbKvrt",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/1wFvwQ7b3bpe4YbzFs7H4d"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bugaboo",
+      "url": "https://open.spotify.com/track/4RqulYdOhSdFIoxZKNp1ot"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "Wonder What She Thinks of Me",
+      "url": "https://open.spotify.com/track/4keqQBiftWkXbPOSsjK7EH"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 109906,
+      "name": "Fun Girl",
+      "url": "https://open.spotify.com/track/78mXeWyY9ZEqOCkTl3nGfI"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "A Woman's Worth",
+      "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "jonathan",
+        "url": "https://open.spotify.com/album/5fqzAMfT5w2xxvgtNR8k5e"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "duration_ms": 208297,
+      "name": "jonathan",
+      "url": "https://open.spotify.com/track/1mHJ0Eol0og89OSe2qJ8zS"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "BUTTERF-LIES",
+        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 128445,
+      "name": "BUTTERF-LIES",
+      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "WWE",
+        "url": "https://open.spotify.com/album/3tHsc212qluTxRO58PxzII"
+      },
+      "artists": [
+        {
+          "name": "Summer Overstreet",
+          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "WWE",
+      "url": "https://open.spotify.com/track/4oe7YRTpx8in784w0Ggxn1"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Almost Did",
+        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 145129,
+      "name": "Almost Did",
+      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/4Zp3fMgfdt9oElTyErCEA0"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "duration_ms": 158863,
+      "name": "WHEN IT'S ALL HAPPENING",
+      "url": "https://open.spotify.com/track/4XYKiljJ1RfGaJrbJ3QvgS"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+    },
     {
       "added_at": "2026-01-09 05:00:48",
       "album": {
@@ -651,166 +811,6 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 191720,
-      "name": "CRZY",
-      "url": "https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Little (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Be Yourself",
-      "url": "https://open.spotify.com/track/60V16rkc0r73IjVIoyfqg6"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "La'Donna",
-        "url": "https://open.spotify.com/album/3DCseDHoJhI3dLk3TwmjqH"
-      },
-      "artists": [
-        {
-          "name": "Charm La'Donna",
-          "url": "https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT"
-        }
-      ],
-      "duration_ms": 176844,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/3bItNedEUjf8f1BIUqWQay"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Heaux Tales, Mo' Tales: The Deluxe",
-        "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 230901,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/5c3GIQYmfyEuxFbCSExfl6"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Fame is a Gun",
-        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/6GQEKl0QtVKCC0vH3FcJKZ"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "The Ocean And The River",
-      "url": "https://open.spotify.com/track/2edC7Hfap022MtjZ2ugMZQ"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "The Mirror",
-        "url": "https://open.spotify.com/album/6GQEKl0QtVKCC0vH3FcJKZ"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 209433,
-      "name": "Fearless These Days",
-      "url": "https://open.spotify.com/track/7z7wTrzJBqlm9ldoVeJ8IJ"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 138031,
-      "name": "I Love Her",
-      "url": "https://open.spotify.com/track/54H2zOnBtJXEL7MuUPjqlH"
     }
   ],
   "unique_name": "Created by Women",

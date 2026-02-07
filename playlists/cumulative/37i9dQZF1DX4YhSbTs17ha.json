@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 149387,
       "name": "BRONCEADOR",
       "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 157927,
       "name": "CASI T\u00da",
       "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
@@ -3437,6 +3437,28 @@
     },
     {
       "album": {
+        "name": "Como en el Idilio",
+        "url": "https://open.spotify.com/album/41JrkRjJsRo8EgXELTlhsn"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267683,
+      "name": "Como en el Idilio",
+      "url": "https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ"
+    },
+    {
+      "album": {
         "name": "Como Es Que Se Hace",
         "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
       },
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
@@ -8600,7 +8622,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 246688,
       "name": "lento - Live performance",
       "url": "https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN"
@@ -10372,6 +10394,24 @@
       "duration_ms": 175053,
       "name": "Mi Salida Contigo",
       "url": "https://open.spotify.com/track/5zMaWQoxNyNo8hJICxNyBK"
+    },
+    {
+      "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "album": {
@@ -12182,6 +12222,24 @@
       "duration_ms": 211474,
       "name": "Otra Noche en L.A.",
       "url": "https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu"
+    },
+    {
+      "album": {
+        "name": "Otra Vez (One More Time)",
+        "url": "https://open.spotify.com/album/3sxPPMrXlaFD4ReBr9LUrM"
+      },
+      "artists": [
+        {
+          "name": "CD9",
+          "url": "https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193161,
+      "name": "Otra Vez (One More Time)",
+      "url": "https://open.spotify.com/track/0nbxWA3JkDrg7x5fBFMnaj"
     },
     {
       "album": {
@@ -15318,6 +15376,24 @@
       "duration_ms": 205542,
       "name": "Te Acuerdas",
       "url": "https://open.spotify.com/track/4Oy75mbculFYO26JYtc8DN"
+    },
+    {
+      "album": {
+        "name": "Te Dedico",
+        "url": "https://open.spotify.com/album/6hG7Y2YydErFBY0jsg3sY1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Te Dedico",
+      "url": "https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6"
     },
     {
       "album": {

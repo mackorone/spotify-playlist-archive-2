@@ -1,13 +1,101 @@
 {
-  "description": "New songwriters on the horizon from around the world. Cover: RISC",
-  "num_followers": 16578,
+  "description": "New songwriters on the horizon from around the world. Cover: Maria Fernanda Diaz Ju\u00e1rez",
+  "num_followers": 16587,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqRH4aqEmSLAhnrinp+PaKuKey6",
+  "snapshot_id": "AAAAAJn58K3JyJ8ejQSFYoXuG93ieXyN",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Soy de Mazatl\u00e1n",
+        "url": "https://open.spotify.com/album/0njMBhaUtcZIzjr8mKDvWB"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carlos Osuna",
+          "url": "https://open.spotify.com/artist/1YmUDtVMLCpjypyu8gNJRc"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Soy de Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/58ylor5aPoUgcg2E6sCQ7o"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "\u00c1ndale Pues Terco",
+        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "\u00c1ndale Pues Terco",
+      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 141710,
+      "name": "\u00bfSeguimos o No?",
+      "url": "https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1"
+    },
+    {
+      "added_at": "2026-02-06 05:00:28",
+      "album": {
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd"
+    },
     {
       "added_at": "2025-11-07 22:33:34",
       "album": {

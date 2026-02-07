@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 93608,
+  "num_followers": 93616,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Nice Work If You Can Get It - Remastered",
-      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 169786,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4bIeo029q0hlNl2d3XJ0iM"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Nice Work If You Can Get It - Remastered",
+      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -479,30 +479,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 231053,
       "name": "Liza (All the Clouds'll Roll Away)",
       "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
+        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
+        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        }
+      ],
+      "duration_ms": 199421,
+      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
+      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
         "name": "Icon: Menuhin and Grappelli",
         "url": "https://open.spotify.com/album/7pKyZXyyF4ikG7UPG5YDUr"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 139626,
       "name": "Gershwin / Arr. Harris: Fascinatin' Rhythm",
       "url": "https://open.spotify.com/track/7hEmaEBReUuhaskdorVGRq"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
-        "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
-        "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Evgeny Kissin",
-          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
-        }
-      ],
-      "duration_ms": 199421,
-      "name": "Three Preludes: II. Andante con moto e poco rubato - Live",
-      "url": "https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq"
     },
     {
       "added_at": "2025-12-15 11:57:31",

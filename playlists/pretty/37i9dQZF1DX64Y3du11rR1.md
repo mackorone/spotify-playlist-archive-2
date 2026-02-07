@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,497 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,515 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 70 | [Fireproof](https://open.spotify.com/track/210ndBj74sya9gALSQlWfe) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Fireproof](https://open.spotify.com/album/2x6tj6drKrzTBDLRiMzjJm) | 3:02 |
 | 71 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 |
 | 72 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 |
-| 73 | [Summertime Sadness \(Acoustic\)](https://open.spotify.com/track/3e0Ww4XhDI3rHksRFcqf7U) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Summertime Sadness \(Acoustic\)](https://open.spotify.com/album/5eo6xHrvpX4hGrGeBcTIdL) | 2:39 |
+| 73 | [Summertime Sadness \(Acoustic\)](https://open.spotify.com/track/3e0Ww4XhDI3rHksRFcqf7U) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Summertime Sadness \(Acoustic\)](https://open.spotify.com/album/5eo6xHrvpX4hGrGeBcTIdL) | 2:39 |
 | 74 | [Forget Me](https://open.spotify.com/track/35hEBYKKgxPP0wJHCtqPB2) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [Forget Me](https://open.spotify.com/album/1EoabBUf3lsf4GzqWTr0Ue) | 3:19 |
 | 75 | [Wonderwall](https://open.spotify.com/track/3YFNoWIYjbSIsvUBWrCgqq) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Wonderwall](https://open.spotify.com/album/19mcR8eRojfUN67K8jF64h) | 2:24 |
 | 76 | [Kill Em With Kindness \- Acoustic](https://open.spotify.com/track/2zdWyXkUu9CowCZ4rVnBg2) | [Savella](https://open.spotify.com/artist/6SPMTzlnXVUvJqe1qkPswm), [Rachael Schroeder](https://open.spotify.com/artist/6Hyd8L8cnUxrMhN89nlgAb) | [The Best Covers Ever](https://open.spotify.com/album/0dCQghJmb45XZDALsB5XYo) | 3:32 |

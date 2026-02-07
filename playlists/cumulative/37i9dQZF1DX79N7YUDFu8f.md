@@ -4,13 +4,14 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-304 songs - 17 hr 54 min
+306 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [22 Weeks](https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B) | 3:52 | 2026-02-06 |  |
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2021-11-24 | 2022-08-12 |
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-05-28 |  |
-| [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 | 2022-09-26 |  |
+| [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 | 2022-09-26 | 2026-02-07 |
 | [Alice \- Acoustic](https://open.spotify.com/track/6dp4Rf8RxrbKUIOGMGWErU) | [Cloud Cukkoo](https://open.spotify.com/artist/3bIIfcj0VjiKKPrJgA57Rg) | [Alice \(Acoustic\)](https://open.spotify.com/album/2iNeA2CpYYCsnaJDjDHljO) | 4:03 | 2023-06-14 |  |
 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 | 2024-11-08 |  |
 | [Almost Made It](https://open.spotify.com/track/2pdYfeHGmZw01rqbspFIoZ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Almost Made It](https://open.spotify.com/album/5erOgjYwyCKsY3z48gLOCW) | 2:33 | 2021-11-24 | 2025-02-04 |
@@ -71,6 +72,7 @@
 | [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 | 2024-11-14 |  |
 | [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-03-21 |  |
 | [Find The River](https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova) | 3:49 | 2021-11-24 | 2022-02-04 |
+| [Finding Out More \- Symphonic Version](https://open.spotify.com/track/7ugnSc3QVVJ99A06gTLeOJ) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Finding Out More \(Symphonic Version\)](https://open.spotify.com/album/3SrqVxM7R19zvnpHSmtG4P) | 4:24 | 2026-02-06 |  |
 | [Flowers Grow in the Saddest Parts](https://open.spotify.com/track/6g3ZkK2Rkn1Nhbyf0uUCte) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [Flowers Grow In The Saddest Parts](https://open.spotify.com/album/4fVmTL6baDtBeZokzEULTU) | 2:58 | 2025-02-17 |  |
 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 | 2022-11-03 | 2022-11-13 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-03 | 2023-12-15 |
@@ -209,7 +211,7 @@
 | [Princess](https://open.spotify.com/track/0JfIKYbzWSO4HP1xQ8yx5T) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/51JA0UFkSPqimGkwXL7upb) | 3:56 | 2022-12-01 | 2023-02-24 |
 | [Princess](https://open.spotify.com/track/3OzgmgV9iwlOSfrlPFNWxy) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Princess](https://open.spotify.com/album/7BoMdLxz0tfcAAV5ZW7W1J) | 3:56 | 2021-11-24 | 2022-07-29 |
 | [Princess](https://open.spotify.com/track/7MoXmKuJTCBTE9lQFtMWM2) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Hopeless Romance](https://open.spotify.com/album/5WMuOOML8PANPuUQKeIo8S) | 3:56 | 2022-06-03 | 2022-12-02 |
-| [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 | 2024-05-25 |  |
+| [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 | 2024-05-25 | 2026-02-07 |
 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 | 2024-11-22 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-08-11 | 2026-01-24 |
 | [Quietly Yours](https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 3:54 | 2022-11-17 | 2024-04-19 |

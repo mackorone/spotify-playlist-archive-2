@@ -1,13 +1,225 @@
 {
-  "description": "The best rock songs of the moment. Cover: Softcult",
-  "num_followers": 194065,
+  "description": "The best rock songs of the moment. Cover: Metric",
+  "num_followers": 194059,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGG8IRdIs0wkUGkkFF9mHPT2diPO",
+  "snapshot_id": "AAAAAKLuIOHIPYLEaobVpGIoVJbJWeIK",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Back On The Gas",
+        "url": "https://open.spotify.com/album/7qQJvQr6iuQ5kzTzclsSrS"
+      },
+      "artists": [
+        {
+          "name": "John Shambles",
+          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Back On The Gas",
+      "url": "https://open.spotify.com/track/2QC0ghem0k3a6ACILZEJ3N"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Victim Of Luck",
+        "url": "https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Victim Of Luck",
+      "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 97577,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/3Zd0Fhy0KxrF386X4u3fRu"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "duration_ms": 209879,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6Uxd374CH8XLEvlRFvCMsT"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "BLEACH",
+        "url": "https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 148071,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Not Around Anymore",
+        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Not Around Anymore",
+      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "TWICE",
+        "url": "https://open.spotify.com/album/29cUGht8DCeDQ9DDTVHlZG"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 224404,
+      "name": "TWICE",
+      "url": "https://open.spotify.com/track/3c7E75a0REL2z6jt8yfrjV"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Different Kind Of Love",
+        "url": "https://open.spotify.com/album/2ruEVIwYM4HjFXEjvnU45o"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Different Kind Of Love",
+      "url": "https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "Tenterhooks",
+        "url": "https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "Au Revoir Reservoir",
+      "url": "https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "I Wasn't There",
+        "url": "https://open.spotify.com/album/41vSKtkKhz158eKtRnx4fV"
+      },
+      "artists": [
+        {
+          "name": "The Jins",
+          "url": "https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "I Wasn't There",
+      "url": "https://open.spotify.com/track/2Y8Cq82XEeOzgnni6nockw"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "DOWN FOR THAT",
+        "url": "https://open.spotify.com/album/6XrdjhXjAZyfBenkymGiWA"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "duration_ms": 131741,
+      "name": "DOWN FOR THAT",
+      "url": "https://open.spotify.com/track/6MY7tVcqdKFG0GA6oXOY5v"
+    },
+    {
+      "added_at": "2026-02-06 05:01:25",
+      "album": {
+        "name": "DON'T GO",
+        "url": "https://open.spotify.com/album/3PcsZqPLGL6kHQDmSZCMqr"
+      },
+      "artists": [
+        {
+          "name": "Sierra Levesque",
+          "url": "https://open.spotify.com/artist/5ovcQlmQG16m2jnnsbc3T6"
+        }
+      ],
+      "duration_ms": 241980,
+      "name": "DON'T GO",
+      "url": "https://open.spotify.com/track/6XxWUlXsVTJjUHjadQEZlP"
+    },
     {
       "added_at": "2026-01-30 05:01:54",
       "album": {

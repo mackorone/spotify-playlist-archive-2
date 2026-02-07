@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 224383,
+  "num_followers": 224485,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Duele el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY"
+      },
+      "artists": [
+        {
+          "name": "Bely Basarte",
+          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Duele el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Otro trago",
         "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 167710,
       "name": "Otro trago",
       "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Duele el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY"
-      },
-      "artists": [
-        {
-          "name": "Bely Basarte",
-          "url": "https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Duele el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl"
     },
     {
       "added_at": "2022-02-18 06:00:00",

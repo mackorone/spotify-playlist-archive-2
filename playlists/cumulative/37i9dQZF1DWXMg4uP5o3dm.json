@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/0sOVArr3z0hfXvRBZ0PEt8"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187889,
+      "name": "555",
+      "url": "https://open.spotify.com/track/3kdKikExAZGvLjuvgyJwQ3"
+    },
+    {
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/6r2LkXt6DqfQGV70OHAilY"
       },
@@ -584,6 +602,24 @@
       "duration_ms": 188333,
       "name": "Black & White",
       "url": "https://open.spotify.com/track/7ajdfpfW1h6cN7GMQ5Sver"
+    },
+    {
+      "album": {
+        "name": "BLEACH",
+        "url": "https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148071,
+      "name": "BLEACH",
+      "url": "https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR"
     },
     {
       "album": {
@@ -1157,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
+    },
+    {
+      "album": {
         "name": "DANCEFLOOR",
         "url": "https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO"
       },
@@ -1425,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1"
       },
@@ -1686,6 +1758,24 @@
       "duration_ms": 188237,
       "name": "Don't Look At Me",
       "url": "https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM"
+    },
+    {
+      "album": {
+        "name": "DON'T BREAK",
+        "url": "https://open.spotify.com/album/3S6npOa9VWV12xCewdMhf3"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170847,
+      "name": "DON\u2019T BREAK",
+      "url": "https://open.spotify.com/track/2kHzXBf6d59dzm63kUa9xE"
     },
     {
       "album": {
@@ -2782,7 +2872,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 186277,
       "name": "Hate Me Too",
       "url": "https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2"
@@ -2866,7 +2956,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 236400,
       "name": "Have Fun",
       "url": "https://open.spotify.com/track/0CUDJNdyr5XhIblZRYIpe9"
@@ -3020,7 +3110,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
@@ -3280,7 +3370,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 202000,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8"
@@ -4411,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284339,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB"
+    },
+    {
+      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },
@@ -4828,7 +4936,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163505,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/21ncqOTJc9gXfd6bVwOdgo"
@@ -5147,6 +5255,28 @@
     },
     {
       "album": {
+        "name": "Sailboat (feat. chloe moriondo)",
+        "url": "https://open.spotify.com/album/60THqqLuqBeheWV1eda4im"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "Sailboat (feat. chloe moriondo)",
+      "url": "https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA"
+    },
+    {
+      "album": {
         "name": "SALT (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
       },
@@ -5412,7 +5542,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 208658,
       "name": "Skinny Loser",
       "url": "https://open.spotify.com/track/25f23uoQ4S8VCQR4KQvvOh"
@@ -5430,7 +5560,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 154800,
       "name": "SLEEP PARALYSIS DEMON",
       "url": "https://open.spotify.com/track/5daagdqvfB0hNAx6diXxYc"
@@ -5474,6 +5604,24 @@
       "duration_ms": 267986,
       "name": "Smoke Hole",
       "url": "https://open.spotify.com/track/66y3v3HpE6kjIo7k2UnwDd"
+    },
+    {
+      "album": {
+        "name": "\u2661",
+        "url": "https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246442,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY"
     },
     {
       "album": {
@@ -6392,7 +6540,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 212727,
       "name": "What, Me Worry? - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi"

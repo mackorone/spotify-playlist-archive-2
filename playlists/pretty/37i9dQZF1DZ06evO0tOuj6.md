@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,288 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,293 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [to live \- feat.LEO](https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [LEO](https://open.spotify.com/artist/09SM0HFZW4tOpELk4yDF6v) | [to live \(feat.LEO\)](https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb) | 5:29 |
 | 50 | [天空橋](https://open.spotify.com/track/5bOYQWLp9r94uILGt8p9B2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Paradise Has NO BORDER](https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ) | 3:57 |
 
-Snapshot ID: `aYKMAAAAAACrkzKAfoc9DsmYoeJYEdUJ`
+Snapshot ID: `aYPdgAAAAADXejSn0Swg6qH4jOWho/ZR`

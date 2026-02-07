@@ -1,13 +1,33 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Ritesh G Rao",
-  "num_followers": 43234,
+  "num_followers": 43236,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1hWXib9/YhBpGdd1uB8DI1RcIf",
+  "snapshot_id": "AAAAADyZNjE8CVqj9pQ3TRdft5Gs7z9p",
   "tracks": [
+    {
+      "added_at": "2026-02-06 13:18:20",
+      "album": {
+        "name": "Lekha",
+        "url": "https://open.spotify.com/album/0vPN0XkMtISoHD9xaVNi0T"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Ayaan",
+          "url": "https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "Lekha",
+      "url": "https://open.spotify.com/track/5r0F3Ujnoo6xufzw9fH5GO"
+    },
     {
       "added_at": "2026-01-30 04:16:01",
       "album": {
@@ -27,6 +47,46 @@
       "duration_ms": 236160,
       "name": "Pagale Jaabili",
       "url": "https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN"
+    },
+    {
+      "added_at": "2026-02-06 13:18:20",
+      "album": {
+        "name": "Vinnavugaa",
+        "url": "https://open.spotify.com/album/1DfhIlUepHaM8ddF8oza4d"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        }
+      ],
+      "duration_ms": 289999,
+      "name": "Vinnavugaa",
+      "url": "https://open.spotify.com/track/6WMvmjn8unOOKS6t4MdRlz"
+    },
+    {
+      "added_at": "2026-02-06 13:18:20",
+      "album": {
+        "name": "Vagalaadi - Telugu",
+        "url": "https://open.spotify.com/album/77rACM8DWRdUmGTmj3yN3G"
+      },
+      "artists": [
+        {
+          "name": "Nitish John",
+          "url": "https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF"
+        },
+        {
+          "name": "Shreya Krish",
+          "url": "https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0"
+        }
+      ],
+      "duration_ms": 292482,
+      "name": "Vagalaadi - Telugu",
+      "url": "https://open.spotify.com/track/1QnZLUZCtHp4eyxPg6ZuPl"
     },
     {
       "added_at": "2026-01-15 07:26:02",
@@ -485,46 +545,6 @@
       "url": "https://open.spotify.com/track/50q8BrjDWxd6XscEATHfaO"
     },
     {
-      "added_at": "2025-04-04 13:37:28",
-      "album": {
-        "name": "Oh Na Jabilli",
-        "url": "https://open.spotify.com/album/2n5Xs94x1GZZ6E5IqWkoQE"
-      },
-      "artists": [
-        {
-          "name": "The Fantasia Men",
-          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        }
-      ],
-      "duration_ms": 260425,
-      "name": "Oh Na Jabilli",
-      "url": "https://open.spotify.com/track/5BekW72buCK2sWHcRMXv42"
-    },
-    {
-      "added_at": "2025-03-05 13:22:01",
-      "album": {
-        "name": "Prathi Kshanam",
-        "url": "https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa"
-      },
-      "artists": [
-        {
-          "name": "Akhil Chandra",
-          "url": "https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 173185,
-      "name": "Prathi Kshanam",
-      "url": "https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV"
-    },
-    {
       "added_at": "2025-04-17 14:01:53",
       "album": {
         "name": "Paruguna Raave",
@@ -547,6 +567,22 @@
       "duration_ms": 306465,
       "name": "Paruguna Raave",
       "url": "https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e"
+    },
+    {
+      "added_at": "2026-02-06 13:18:20",
+      "album": {
+        "name": "Ningiloni Chandamama",
+        "url": "https://open.spotify.com/album/7u2HRvuKdLZ5f6ek1xg0rv"
+      },
+      "artists": [
+        {
+          "name": "Yadagiri Ajay Yesudass",
+          "url": "https://open.spotify.com/artist/0dA5o66qNf5LDGxkTcuWXL"
+        }
+      ],
+      "duration_ms": 273967,
+      "name": "Ningiloni Chandamama",
+      "url": "https://open.spotify.com/track/5duaeNlFheTw4bGkuywnRe"
     },
     {
       "added_at": "2025-10-03 07:11:39",
@@ -591,30 +627,6 @@
       "duration_ms": 198333,
       "name": "Photo Tisthava",
       "url": "https://open.spotify.com/track/1p8yKnn8UkL32O3EBdhqV8"
-    },
-    {
-      "added_at": "2025-01-27 10:27:38",
-      "album": {
-        "name": "Hello Chittamma",
-        "url": "https://open.spotify.com/album/3HaCAI70bGfKoAwrVpgUD8"
-      },
-      "artists": [
-        {
-          "name": "Roll Rida",
-          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        },
-        {
-          "name": "Agastya Raag",
-          "url": "https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Hello Chittamma",
-      "url": "https://open.spotify.com/track/08JFxXy4ERFQFZAcEu8y86"
     },
     {
       "added_at": "2025-08-14 05:52:11",
@@ -1091,22 +1103,6 @@
       "duration_ms": 221193,
       "name": "Eedu Magadentra Bujji (From \"Naari - The Women\")",
       "url": "https://open.spotify.com/track/7ydXgKDw3NWJBLUfHME9YR"
-    },
-    {
-      "added_at": "2025-08-04 07:20:23",
-      "album": {
-        "name": "JORDAAR BONALU",
-        "url": "https://open.spotify.com/album/4CCGP86JNpn3EiHLf5nK5H"
-      },
-      "artists": [
-        {
-          "name": "Dasagriva",
-          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
-        }
-      ],
-      "duration_ms": 206399,
-      "name": "JORDAAR BONALU",
-      "url": "https://open.spotify.com/track/5kgHaFpjmF37K4NK1fQDJU"
     },
     {
       "added_at": "2025-11-18 07:38:48",

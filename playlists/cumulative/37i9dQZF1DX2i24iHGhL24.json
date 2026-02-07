@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193012,
+      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8"
       },
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 185714,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"

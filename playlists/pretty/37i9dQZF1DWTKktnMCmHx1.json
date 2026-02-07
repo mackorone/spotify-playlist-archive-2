@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93122,
+  "num_followers": 93124,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Trafficante",
+        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Trafficante",
+      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "ELO",
         "url": "https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 220896,
       "name": "ELEGANTE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Trafficante",
-        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Trafficante",
-      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
     },
     {
       "added_at": "2024-12-06 12:53:49",

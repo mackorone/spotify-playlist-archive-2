@@ -6677,6 +6677,32 @@
     },
     {
       "album": {
+        "name": "Trailblazer (Dream Chaser Version)",
+        "url": "https://open.spotify.com/album/4JW06DEbL5FdwoiFh4BLAI"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251186,
+      "name": "Trailblazer (with Brandy Clark & Lukas Nelson) - Dream Chaser Version",
+      "url": "https://open.spotify.com/track/7kKFl8OEWcNUQuFFiqWzSX"
+    },
+    {
+      "album": {
         "name": "Trippin'",
         "url": "https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R"
       },

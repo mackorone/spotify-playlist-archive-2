@@ -4,7 +4,7 @@
 
 > Tous les hits latino du moment sont ici\. Photo : Bad Bunny
 
-396 songs - 20 hr 22 min
+397 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alegría](https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Alegría](https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq) | 2:45 | 2024-09-06 | 2025-05-09 |
 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 | 2025-01-09 | 2025-04-04 |
 | [ALOHA](https://open.spotify.com/track/5WwBpc6NYJ4wN8IPDP6laT) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2023-11-23 | 2024-01-26 |
+| [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 3:42 | 2026-02-05 |  |
 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 | 2024-04-25 | 2024-09-07 |
 | [Amigos](https://open.spotify.com/track/40jgBnBitjAwrWszYMLrvR) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Amigos](https://open.spotify.com/album/3DkbgLj1xLcDI5aCDnajVQ) | 3:15 | 2023-12-07 | 2024-02-09 |
 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 | 2025-04-24 | 2025-06-20 |

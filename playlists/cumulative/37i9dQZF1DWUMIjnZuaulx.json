@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Ryan Ofei",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Darrel Walls & PJ Morton",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah (Live)",
+        "url": "https://open.spotify.com/album/0INOYdcyhbTjYgabUGfreG"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427889,
+      "name": "Build Your Hope - Live",
+      "url": "https://open.spotify.com/track/5CEswoFJ4sRA1NwqcaWQje"
+    },
+    {
+      "album": {
         "name": "God Showing Out",
         "url": "https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW"
       },
@@ -3103,6 +3121,32 @@
     },
     {
       "album": {
+        "name": "Sweet, Sweet Spirit",
+        "url": "https://open.spotify.com/album/1R461Pp3IjnhjgOvYisIBx"
+      },
+      "artists": [
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        },
+        {
+          "name": "The Baylor Project",
+          "url": "https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231490,
+      "name": "Farther Along",
+      "url": "https://open.spotify.com/track/28nJK3tkruELKVNGSDoGnE"
+    },
+    {
+      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/3ACVXWduweG5Gl8smmF5mC"
       },
@@ -3476,7 +3520,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 392258,
       "name": "Garment Of Praise - Live",
       "url": "https://open.spotify.com/track/4ekXmMuGkRpjvf0EdyYYtL"
@@ -4596,7 +4640,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 360662,
       "name": "Hands High - Live",
       "url": "https://open.spotify.com/track/5FcT8trPka5SbmNdovHGX3"

@@ -3517,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb"
+      },
+      "artists": [
+        {
+          "name": "Barbro",
+          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "Living In It",
+      "url": "https://open.spotify.com/track/0ZRaUVbA5LXkyBoU33SBpf"
+    },
+    {
+      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -5880,24 +5898,6 @@
       "duration_ms": 239748,
       "name": "Took the Train 'til the End",
       "url": "https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Barbro",
-          "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0ZRaUVbA5LXkyBoU33SBpf"
     },
     {
       "album": {

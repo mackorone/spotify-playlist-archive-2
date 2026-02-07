@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZMtVXjuP2o.md) - [plain]
 
 > Stories of resilience, vision, and impact from Black leaders and pioneers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

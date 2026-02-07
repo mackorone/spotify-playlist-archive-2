@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-472 songs - 1 day 1 hr 30 min
+474 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/6xElOEltTrQ9AaULllcMxI) | 2:38 | 2021-03-11 | 2023-10-28 |
 | [how do you sleep?](https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [how do you sleep?](https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm) | 3:43 | 2023-04-14 | 2023-10-28 |
 | [How Do You Sleep? \- Acoustic](https://open.spotify.com/track/2ZgUlizmH0VmOJzUwDchAf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [How Do You Sleep? \(Acoustic\)](https://open.spotify.com/album/0RR2uPlGQKAYXJIXgYNJKE) | 3:25 | 2021-03-11 | 2023-04-14 |
-| [How to save a life \- Acoustic version](https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [How to save a life \- Acoustic version](https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353) | 3:27 | 2023-01-04 |  |
+| [How to save a life \- Acoustic version](https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [How to save a life \- Acoustic version](https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353) | 3:27 | 2023-01-04 | 2026-02-07 |
 | [Human Nature](https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Human Nature](https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB) | 3:56 | 2021-03-11 | 2022-12-17 |
 | [HURTFUL](https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [HURTFUL](https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8) | 2:26 | 2023-02-17 | 2024-02-26 |
 | [I ain't worried](https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I ain't worried](https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza) | 2:48 | 2022-11-11 | 2023-10-28 |
@@ -248,7 +248,7 @@
 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 | 2022-11-25 | 2023-10-28 |
 | [Is It Just Me? \(feat\. JP Cooper\) \(Acoustic\)](https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz) | 3:33 | 2022-11-11 | 2023-10-28 |
 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 | 2022-10-14 | 2023-10-28 |
-| [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2023-10-27 |  |
+| [Issues \- Acoustic Version](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2023-10-27 | 2026-02-07 |
 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 | 2022-09-30 | 2023-10-28 |
 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 | 2022-11-11 |  |
 | [Joke's On You \- Acoustic](https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You \(Acoustic\)](https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ) | 3:09 | 2021-03-11 | 2022-09-01 |
@@ -313,6 +313,7 @@
 | [My Love \- Acoustic](https://open.spotify.com/track/4DFfEiSy8xyYhNkrgAzXx0) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:02 | 2022-11-25 | 2023-04-14 |
 | [Nangilima \- Acoustic in Isby](https://open.spotify.com/track/1HJpeLvjjld7yMytQHruNJ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Acoustic in Isby](https://open.spotify.com/album/7mWKfFxovOPJfuEk7qGWbq) | 4:09 | 2022-08-31 | 2023-10-28 |
 | [Nervous \- Piano Version](https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:14 | 2023-02-17 | 2023-10-28 |
+| [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 | 2026-02-06 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 | 2023-10-27 |  |
 | [Never Let You Go \(Acoustic\)](https://open.spotify.com/track/6wWT4qlrKMl9AKMTEqWTer) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Jane Decker](https://open.spotify.com/artist/6gwexMlbo78wmlBF8U2V6r) | [Landon Austin and Friends: Covers \(June 2019\)](https://open.spotify.com/album/1EuSVTxpUy95BsC9HRMxUh) | 3:04 | 2021-03-11 | 2022-12-02 |
 | [Never Let You Go \- Acoustic](https://open.spotify.com/track/06VK1j4uZTHLb4SnpGY0Z8) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Jane Decker](https://open.spotify.com/artist/6gwexMlbo78wmlBF8U2V6r) | [Never Let You Go](https://open.spotify.com/album/5bjptaMVXrsgzIjTjw2L24) | 3:04 | 2021-03-11 | 2022-07-29 |
@@ -478,6 +479,7 @@
 | [You Raise Me Up](https://open.spotify.com/track/4mGiTmzkCS8Y1EFnQT4010) | [Shelby Park](https://open.spotify.com/artist/5k2EXCexl2KBdpfyyNEpet) | [You Raise Me Up](https://open.spotify.com/album/6lsClakGKncbzUfvydr0vd) | 2:20 | 2024-03-08 | 2025-07-25 |
 | [you were good to me](https://open.spotify.com/track/7sLC7SVbmunEgf9WSSNWA5) | [seaiiana](https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps) | [You Were Good To Me](https://open.spotify.com/album/705oyi8ElySBaCbuXQC8hy) | 3:49 | 2023-06-08 | 2023-06-10 |
 | [You'll Never Walk Alone](https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [You'll Never Walk Alone](https://open.spotify.com/album/7nUJxEfO6ShXWqz4QHCmTg) | 2:41 | 2023-06-22 | 2023-11-01 |
+| [Young Folks](https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Young Folks](https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT) | 3:34 | 2026-02-06 |  |
 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 | 2023-11-24 |  |
 | [Your Song \- Acoustic](https://open.spotify.com/track/08peGCGwTVXc1WT2UNdVs5) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Your Song \(Acoustic\)](https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ) | 3:01 | 2022-09-30 | 2022-11-26 |
 

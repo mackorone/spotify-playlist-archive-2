@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 25 | [Make Me Feel](https://open.spotify.com/track/2ogeuuFlYmhSwCwTBYV1Fx) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Make Me Feel](https://open.spotify.com/album/6T3J1PFPHbfA0au1k94gm7) | 2:14 |
 | 26 | [Flightless](https://open.spotify.com/track/19Z9lAU7qh6uB5628X04eN) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Flightless](https://open.spotify.com/album/6tttSwZHetUZHLOMzDl7Wj) | 2:23 |
 | 27 | [Whenever](https://open.spotify.com/track/2v0RhlOnfy6qBIU3zvFJKq) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:35 |
-| 28 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
-| 29 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 28 | [Paris and Rome](https://open.spotify.com/track/1JMh5BJOU5GIScZWWJIs62) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Paris and Rome](https://open.spotify.com/album/394U7G9ohgXJF8Lm1sQwFh) | 1:58 |
+| 29 | [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 |
 | 30 | [Looking 4 Love](https://open.spotify.com/track/16PmdK3tuq8vlJrEXGJlqB) | [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5) | [Looking 4 Love](https://open.spotify.com/album/1wUKnR8UdzL4lDhWGbWTj5) | 2:22 |
 | 31 | [Twenty One](https://open.spotify.com/track/3iAD8b8HXY4M7jyrU90mgS) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Twenty One](https://open.spotify.com/album/0tOTP7MnvbpTUbg55rKXzq) | 2:08 |
 | 32 | [Life's So Hard \(Sometimes\)](https://open.spotify.com/track/0SvYth9RdqCo7RBvBInKLU) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life's So Hard \(Sometimes\)](https://open.spotify.com/album/5V7D6uTmHqywHAQ8SZkZna) | 2:30 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 44 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 45 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcI41gAAAAC0iYyCNiETlTBTw1/uggJp`
+Snapshot ID: `AcI+dgAAAABEE18F6sQoBEReZNcEXkM6`

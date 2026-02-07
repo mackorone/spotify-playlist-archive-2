@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "and then there's me",
+        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "and then there's me",
+      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
       },
@@ -957,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Cellophane",
+        "url": "https://open.spotify.com/album/7LheKi4JkkqcnXgeAHCkgx"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261799,
+      "name": "Cellophane",
+      "url": "https://open.spotify.com/track/0oIIPqOsHmBNhqAbXBYj8F"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu"
       },
@@ -1148,7 +1184,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB"
@@ -1586,6 +1622,28 @@
       "duration_ms": 196973,
       "name": "Don't You Give Up On Me Yet",
       "url": "https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18"
+    },
+    {
+      "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "album": {
@@ -2948,7 +3006,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 143121,
       "name": "I Imagine (with Hope Tala)",
       "url": "https://open.spotify.com/track/521vHdXums2ft3SO65psWT"
@@ -4279,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "Modes I&II (Live Performance)",
+        "url": "https://open.spotify.com/album/1Cru4TrDCua2Ckg7HXtlLM"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272639,
+      "name": "Modes I&II (Live Performance)",
+      "url": "https://open.spotify.com/track/3RQa3EzSwjLIJazss7DNtw"
+    },
+    {
+      "album": {
         "name": "Mothers & Daughters",
         "url": "https://open.spotify.com/album/0Qko4tFrzahVbJwI5GVeRJ"
       },
@@ -4676,7 +4752,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204846,
       "name": "Oh Well",
       "url": "https://open.spotify.com/track/5FYSZ0tJ8CvWOfN2Rr2Sjw"
@@ -7094,7 +7170,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163636,
       "name": "where the sunlight glows",
       "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"

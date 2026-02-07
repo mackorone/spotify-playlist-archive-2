@@ -1,28 +1,32 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring KE-YEN.\n",
-  "num_followers": 210008,
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Sentimento.\n",
+  "num_followers": 210023,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqT/qRzhv3myuhXlz1qdWR6f07J",
+  "snapshot_id": "AAAAAPC0pBGpxELQGH19KA6YCVJ6q2V6",
   "tracks": [
     {
-      "added_at": "2026-01-23 05:00:26",
+      "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/74wkNGfmzqnkZHMmz04ZR1"
       },
       "artists": [
         {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        },
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
         }
       ],
-      "duration_ms": 255086,
-      "name": "MOVE THAT BODY",
-      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
+      "duration_ms": 149835,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -39,6 +43,22 @@
       "duration_ms": 245273,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "MOVE THAT BODY",
+        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
+      },
+      "artists": [
+        {
+          "name": "KE-YEN",
+          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
+        }
+      ],
+      "duration_ms": 255086,
+      "name": "MOVE THAT BODY",
+      "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -77,36 +97,68 @@
       "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
-      "added_at": "2026-02-04 05:00:17",
+      "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Bounce 03",
-        "url": "https://open.spotify.com/album/1j9noJqTsXq0vlHOPouLmx"
+        "name": "Player",
+        "url": "https://open.spotify.com/album/7yjdADEVUYAm02AJrfnS3u"
       },
       "artists": [
         {
-          "name": "3LEEZA",
-          "url": "https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO"
+          "name": "Toola",
+          "url": "https://open.spotify.com/artist/0eEmBSFK88NKhgsRTtD19k"
         }
       ],
-      "duration_ms": 231382,
-      "name": "Bounce 03",
-      "url": "https://open.spotify.com/track/6x38ulkw93vhg3MEaX9Agy"
+      "duration_ms": 249577,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/0OBS5q06C6kyUn4FrlhtbG"
     },
     {
-      "added_at": "2026-02-04 05:00:17",
+      "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Tacat\u00e1",
-        "url": "https://open.spotify.com/album/0XIunmUmCiWnHYWpDaXNFt"
+        "name": "Lost In Transit",
+        "url": "https://open.spotify.com/album/1JV4hjYKeLMRohDnLhu0YL"
       },
       "artists": [
         {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+          "name": "Richie Hova",
+          "url": "https://open.spotify.com/artist/2wyc7zt9JUPaGXLdAsobmR"
         }
       ],
-      "duration_ms": 166993,
-      "name": "Tacat\u00e1",
-      "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
+      "duration_ms": 187669,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/6ECxGuV8klm7XTOuQrgwLu"
+    },
+    {
+      "added_at": "2026-01-21 18:53:17",
+      "album": {
+        "name": "Why Don't You Love Me",
+        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+      },
+      "artists": [
+        {
+          "name": "Kotti Affair",
+          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+        }
+      ],
+      "duration_ms": 244850,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "House Is The Religion",
+        "url": "https://open.spotify.com/album/22UywSxr7MOsz11il2Vw0W"
+      },
+      "artists": [
+        {
+          "name": "Deaf Toucan",
+          "url": "https://open.spotify.com/artist/3psM3KJlClPARJnfMlnD7m"
+        }
+      ],
+      "duration_ms": 280679,
+      "name": "House Is The Religion",
+      "url": "https://open.spotify.com/track/4mfKrRq2JSFHSWwsjhJMeh"
     },
     {
       "added_at": "2026-01-23 17:35:42",
@@ -127,6 +179,58 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Tacat\u00e1",
+        "url": "https://open.spotify.com/album/0XIunmUmCiWnHYWpDaXNFt"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 166993,
+      "name": "Tacat\u00e1",
+      "url": "https://open.spotify.com/track/5h3PqklN6mnrMYyKOCW2ly"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Bounce 03",
+        "url": "https://open.spotify.com/album/1j9noJqTsXq0vlHOPouLmx"
+      },
+      "artists": [
+        {
+          "name": "3LEEZA",
+          "url": "https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO"
+        }
+      ],
+      "duration_ms": 231382,
+      "name": "Bounce 03",
+      "url": "https://open.spotify.com/track/6x38ulkw93vhg3MEaX9Agy"
+    },
+    {
+      "added_at": "2026-02-06 16:07:22",
+      "album": {
+        "name": "Chasing Dreams",
+        "url": "https://open.spotify.com/album/0vpBzWbIKYQVSYGGvjxPIU"
+      },
+      "artists": [
+        {
+          "name": "KELLAR",
+          "url": "https://open.spotify.com/artist/0XpEz6rMdny9FKQ7rqxbDz"
+        },
+        {
+          "name": "TITVS",
+          "url": "https://open.spotify.com/artist/4Qnu2j0nJ0OuaNiHO7RgS7"
+        }
+      ],
+      "duration_ms": 248535,
+      "name": "Chasing Dreams",
+      "url": "https://open.spotify.com/track/1uz2NgyOzF3j3Z8sx5BBVo"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Directions EP",
         "url": "https://open.spotify.com/album/2PJiTaXSMhzfNgka56LnXN"
       },
@@ -141,20 +245,52 @@
       "url": "https://open.spotify.com/track/4cFoSG4m7W9rEQEnxeuoyB"
     },
     {
-      "added_at": "2026-01-21 18:53:17",
+      "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Why Don't You Love Me",
-        "url": "https://open.spotify.com/album/1bpMmine1onCfOKeRfeRc3"
+        "name": "HOT4U",
+        "url": "https://open.spotify.com/album/0HNVud7oN6KPaF4FqolRYY"
       },
       "artists": [
         {
-          "name": "Kotti Affair",
-          "url": "https://open.spotify.com/artist/50crAqMaWr9rR7rbupFyq2"
+          "name": "Elliot Adamson",
+          "url": "https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz"
         }
       ],
-      "duration_ms": 244850,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/7sfqhOU04aOcql3s5ltkhm"
+      "duration_ms": 173571,
+      "name": "HOT4U",
+      "url": "https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S"
+    },
+    {
+      "added_at": "2026-01-23 05:00:26",
+      "album": {
+        "name": "Touched EP",
+        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+      },
+      "artists": [
+        {
+          "name": "Louis Millne",
+          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+        }
+      ],
+      "duration_ms": 242790,
+      "name": "Touched",
+      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "My Body",
+        "url": "https://open.spotify.com/album/1JAB2DpqBvLApi30q3pBiL"
+      },
+      "artists": [
+        {
+          "name": "AJK (US)",
+          "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -175,6 +311,26 @@
       "duration_ms": 253842,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/29X3cMjlyTSrkBN3Fu2G7E"
+      },
+      "artists": [
+        {
+          "name": "Kaila",
+          "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo"
+        },
+        {
+          "name": "laylay",
+          "url": "https://open.spotify.com/artist/03S9oCv1xRpPHS6hgYBcLW"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/0jIK3nWHM9unsdeqJeHtOS"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -245,6 +401,22 @@
       "url": "https://open.spotify.com/track/5ELPO5jIJsvx01w5WIpXXf"
     },
     {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "What I Feel",
+        "url": "https://open.spotify.com/album/1hvYSx0tMlQytgVkvGeXg8"
+      },
+      "artists": [
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 142859,
+      "name": "What I Feel",
+      "url": "https://open.spotify.com/track/1NDXjNjcnmMA49ThS0Tz3R"
+    },
+    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "Balance",
@@ -293,20 +465,20 @@
       "url": "https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
+      "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Touched EP",
-        "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3Grfhhk3QdkVsjsSDmWtuo"
       },
       "artists": [
         {
-          "name": "Louis Millne",
-          "url": "https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb"
+          "name": "STRAAW",
+          "url": "https://open.spotify.com/artist/6FnEjhHUAZWtBdH0kZqlkS"
         }
       ],
-      "duration_ms": 242790,
-      "name": "Touched",
-      "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
+      "duration_ms": 117559,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3jt7e2DWwoIoGuY2lvfQ8r"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -889,22 +1061,6 @@
       "url": "https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb"
     },
     {
-      "added_at": "2026-01-23 05:00:26",
-      "album": {
-        "name": "Pow Pow Pow",
-        "url": "https://open.spotify.com/album/7Ek7MlQMuaxN8JOeMioGCJ"
-      },
-      "artists": [
-        {
-          "name": "Guber",
-          "url": "https://open.spotify.com/artist/4DmCNoFbSBo0EaULjDrwPo"
-        }
-      ],
-      "duration_ms": 297645,
-      "name": "Omenta",
-      "url": "https://open.spotify.com/track/4b6Bd5zUhNatn3wFLd7fEx"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Hold Me",
@@ -991,54 +1147,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Dont Let Me Down / SFTU",
-        "url": "https://open.spotify.com/album/0NKw7JUQfGBQPV9H5HIV3v"
-      },
-      "artists": [
-        {
-          "name": "Engle",
-          "url": "https://open.spotify.com/artist/4EBTVvuF1oSpoiPFWrUSmA"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "SFTU",
-      "url": "https://open.spotify.com/track/1m15DoUZXxDdwvKYeLEr8T"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/3HH6evHSWMvPAHQlflQ1EV"
-      },
-      "artists": [
-        {
-          "name": "d\u00f3ttir.x",
-          "url": "https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0"
-        }
-      ],
-      "duration_ms": 190625,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/0XdRyvlCj4HLAgOeo8P4Y9"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/7yu5BR8fzZ7i0zsGxNxFhq"
-      },
-      "artists": [
-        {
-          "name": "sk\u00f8ien",
-          "url": "https://open.spotify.com/artist/0nLcBTkyWqwEsUJB2Xnw6y"
-        }
-      ],
-      "duration_ms": 149558,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/6yHRGd0A1mF3tys6GNTlnD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/5nsMuDWe08bhTCKQ2CvFuR"
       },
@@ -1071,22 +1179,6 @@
       "duration_ms": 164571,
       "name": "Borehole",
       "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Show Me The Lights",
-        "url": "https://open.spotify.com/album/2LZndqe80f5ldqIh2YqrzY"
-      },
-      "artists": [
-        {
-          "name": "Showgun",
-          "url": "https://open.spotify.com/artist/1pHshppLS4zwrdgTp23HFq"
-        }
-      ],
-      "duration_ms": 178671,
-      "name": "Show Me The Lights",
-      "url": "https://open.spotify.com/track/5v5O4LVum9OcKTCLujjq1m"
     },
     {
       "added_at": "2026-01-21 18:53:17",

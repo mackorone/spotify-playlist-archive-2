@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Metallica",
+  "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Megadeth",
   "name": "Thrashers",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 229733,
       "name": "112",
       "url": "https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf"
+    },
+    {
+      "album": {
+        "name": "3111",
+        "url": "https://open.spotify.com/album/2zkkD8YEH6AaOdKPV7LGDb"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "3111",
+      "url": "https://open.spotify.com/track/2WS6J9d3BV96MwUBb5koO8"
     },
     {
       "album": {
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 365706,
       "name": "Ethereal Nightmare",
       "url": "https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ"
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 189915,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe"
@@ -4043,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Krushers Of The World",
+        "url": "https://open.spotify.com/album/654l01PNNorXhMXu0vj8Jv"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Krushers Of The World",
+      "url": "https://open.spotify.com/track/3GMLXn9WaVqYFyMUM7i4Dw"
+    },
+    {
+      "album": {
         "name": "Power And Pain",
         "url": "https://open.spotify.com/album/3yMXMihmwUHEXHc8K3Q2Kq"
       },
@@ -4252,7 +4288,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 246552,
       "name": "Lockdown Forever",
       "url": "https://open.spotify.com/track/68R8KwPDpmDk44l8Xyelqg"
@@ -4875,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Never A God",
+        "url": "https://open.spotify.com/album/4EwbTitaTlo9VvUSllkH8P"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Never A God",
+      "url": "https://open.spotify.com/track/50CHkHFGDGAUbXsrqON5kR"
+    },
+    {
+      "album": {
         "name": "Primal Future: 2019",
         "url": "https://open.spotify.com/album/3GC8hY4NnN4YDlHMJARwsD"
       },
@@ -5372,7 +5426,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 236920,
       "name": "Piranha - Live",
       "url": "https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7"
@@ -5682,6 +5736,24 @@
       "duration_ms": 300292,
       "name": "Punish the Punisher",
       "url": "https://open.spotify.com/track/443FxTiQx9GsJucnUTCLM7"
+    },
+    {
+      "album": {
+        "name": "Megadeth",
+        "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280924,
+      "name": "Puppet Parade",
+      "url": "https://open.spotify.com/track/7bcdR8mEMVJNybCFC7dTlX"
     },
     {
       "album": {
@@ -6547,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Slave Machine",
+        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
+      },
+      "artists": [
+        {
+          "name": "Nervosa",
+          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233886,
+      "name": "Slave Machine",
+      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
+    },
+    {
+      "album": {
         "name": "Beneath the Remains",
         "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
       },
@@ -6958,7 +7048,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 222355,
       "name": "Taphephobia",
       "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Dreamboys The Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,742 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,783 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 10 | [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 |
 | 11 | [UNTITLED 1981](https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [UNTITLED 1981](https://open.spotify.com/album/17T7CPqs6sUPkNGGyuGeM0) | 3:07 |
 | 12 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 |
-| 13 | [tage schmelzen](https://open.spotify.com/track/1RLCmwqLsyjxPR54LC4OaG) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [](https://open.spotify.com/album/null) | 3:37 |
+| 13 | [tage schmelzen](https://open.spotify.com/track/1RLCmwqLsyjxPR54LC4OaG) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [Something Smelling Funny \- EP](https://open.spotify.com/album/7gtHytYO8qAtCWkUjR7OyE) | 3:37 |
 | 14 | [Rotten.com](https://open.spotify.com/track/707YSgcW2evXIQAoW39scK) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz) | [Rotten.com](https://open.spotify.com/album/7IvLa9jKQBsMulzpKIVIVT) | 2:46 |
 | 15 | [California Sun](https://open.spotify.com/track/5XGkCqUvpRzXtCIIPJvA3X) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [California Sun](https://open.spotify.com/album/7x1d1qDgr25wEqh50fDEFN) | 2:21 |
 | 16 | [Different Kind Of Love](https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Different Kind Of Love](https://open.spotify.com/album/2ruEVIwYM4HjFXEjvnU45o) | 3:39 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 20 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 |
 | 21 | [Keeper](https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Keeper](https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP) | 3:45 |
 | 22 | [The Thing](https://open.spotify.com/track/0OhmOdaq3BtgcBeE3eOYYR) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [The Thing](https://open.spotify.com/album/3SSzzh89odIPakG2srLHHf) | 2:02 |
-| 23 | [The Observer](https://open.spotify.com/track/4r7ogSSIUtgYTUUqgSh3qi) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [](https://open.spotify.com/album/null) | 3:27 |
+| 23 | [The Observer](https://open.spotify.com/track/4r7ogSSIUtgYTUUqgSh3qi) | [Hundreds](https://open.spotify.com/artist/7mTyxMGqsoIl6ofVdtjfux) | [Sirens](https://open.spotify.com/album/0awPQsQ61cRzIPK39HoMgY) | 3:27 |
 | 24 | [Tell Me](https://open.spotify.com/track/6AzZIx5XOcopwhj08yavjk) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Tell Me](https://open.spotify.com/album/2ULTvsSBYu727gTsgab8Ln) | 3:25 |
 | 25 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 |
 | 26 | [Ray of Fukin' Sunshine](https://open.spotify.com/track/1jE6s9fq9v4K4VTikekFU7) | [Fortuna Ehrenfeld](https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb) | [Ray of fukin' Sunshine](https://open.spotify.com/album/18Ns9MDeWJYPCltUaUsK3h) | 3:56 |

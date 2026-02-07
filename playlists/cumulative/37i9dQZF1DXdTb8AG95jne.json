@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Beyond the Steam",
+        "url": "https://open.spotify.com/album/3rgEoH4x4AElapQ8zKcTqO"
+      },
+      "artists": [
+        {
+          "name": "Shin Seung Eun",
+          "url": "https://open.spotify.com/artist/4z5v6JmVbuYYVLwHbJPzIm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190061,
+      "name": "Beyond the Steam",
+      "url": "https://open.spotify.com/track/3VTmZHSgOCOQmESVB4FRmI"
+    },
+    {
+      "album": {
         "name": "Bichulae",
         "url": "https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof"
       },
@@ -4863,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "dust",
+        "url": "https://open.spotify.com/album/3DCKxiaNTnsy2HLiTwgehB"
+      },
+      "artists": [
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194833,
+      "name": "dust",
+      "url": "https://open.spotify.com/track/7lZe7HIcIWwYNThkh9ywaG"
+    },
+    {
+      "album": {
         "name": "Dwaeji Gukbap",
         "url": "https://open.spotify.com/album/2CLx1E1CMNB4WMypc4Kx0l"
       },
@@ -5286,7 +5322,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 249707,
       "name": "EPGIM",
       "url": "https://open.spotify.com/track/1F5B80YGJHzGO277qZbaHv"
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 203000,
       "name": "Even If I Shatter in Your Arms",
       "url": "https://open.spotify.com/track/6iKHDfO7E7pIwzdzgMQaXV"
@@ -6966,7 +7002,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 154015,
       "name": "Ghost of You",
       "url": "https://open.spotify.com/track/59TMgNsuQhT5AhE9NW9T6O"
@@ -23054,6 +23090,24 @@
       "duration_ms": 186044,
       "name": "\uc78a\uace0 \uc0b4\uc558\ub358 \uac83\ub4e4",
       "url": "https://open.spotify.com/track/5cSY0Rpfgd9JapMTf9E45W"
+    },
+    {
+      "album": {
+        "name": "\uc878\uc5c5, \uba3c \ud6d7\ub0a0 \uc6b0\ub9ac (Graduation, Far Down The Road)",
+        "url": "https://open.spotify.com/album/0iAG1POH2mEIbU2FVcSvU2"
+      },
+      "artists": [
+        {
+          "name": "DC Yun",
+          "url": "https://open.spotify.com/artist/0gLWhjiydbtpZrjOVmeYFI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278684,
+      "name": "\uc878\uc5c5, \uba3c \ud6d7\ub0a0 \uc6b0\ub9ac (Graduation, Far Down The Road)",
+      "url": "https://open.spotify.com/track/02qRI3evmFD17Cqlgtf91Z"
     },
     {
       "album": {

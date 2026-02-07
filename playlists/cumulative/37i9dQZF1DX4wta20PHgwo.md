@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-555 songs - 2 day 1 hr 36 min
+556 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Grandmother's Dream](https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t) | [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Fredrik Lindborg](https://open.spotify.com/artist/605apsXBdPW9fkFxJpPtDL), [Kjell Öhman](https://open.spotify.com/artist/6zu51Bz8hwBfYzvqu8FUlK), [Kenji Rabson](https://open.spotify.com/artist/1r0bXRQ6z2ggJzKJgENUkD), [Moussa Fadera](https://open.spotify.com/artist/1WVCN6X1myUXbLPWuVqW78) | [Happening](https://open.spotify.com/album/6tdrLGWgElgj8ZCrtqIZeh) | 4:18 | 2020-05-07 | 2026-01-31 |
 | [GUILT](https://open.spotify.com/track/2qteg5TQZlkMpNZ46DQ99w) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Parable Of The Poet](https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD) | 9:22 | 2022-04-14 | 2022-04-29 |
 | [Gymnopedie \#1](https://open.spotify.com/track/5IiPHmv5gz6v80eBdOfg6O) | [Jumaane Smith](https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8) | [Gymnopedie \#1](https://open.spotify.com/album/0RtN2iPJea90ouUktbBksY) | 3:36 | 2025-10-24 | 2026-01-31 |
+| [Half Moon Smile](https://open.spotify.com/track/78IOvSOb11jAqe6KIY2cMK) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Half Moon Smile](https://open.spotify.com/album/77pBFFjNgpjJ3PuAJ2qVl7) | 2:04 | 2026-02-06 |  |
 | [Hard to say Goodbye](https://open.spotify.com/track/3whSnQldx9s3CCiggyvVxk) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [In the Spirit of Toots](https://open.spotify.com/album/3Yy4WuCa8UYTRNmTrcMoR0) | 4:01 | 2023-08-03 |  |
 | [Heaven on My Mind](https://open.spotify.com/track/1pCpyJSU5n26EeuZUzKJUf) | [Yuri Honing Acoustic Quartet](https://open.spotify.com/artist/3VW60tUry7TYVC2BibfgIN) | [Heaven on My Mind](https://open.spotify.com/album/749mv1VJ07QqUf2CwKTOSO) | 6:19 | 2023-11-21 | 2024-06-15 |
 | [Hermetic Boogey](https://open.spotify.com/track/0utXKhCXxreupSQICsuwkr) | [Tonbruket](https://open.spotify.com/artist/5Txp8CzIIEwkALY9agmKpJ) | [Hermetic Boogey](https://open.spotify.com/album/6HsoNd9kAenZ7AcY2ptML5) | 6:13 | 2023-08-25 |  |
@@ -456,7 +457,7 @@
 | [Swept Away](https://open.spotify.com/track/2HfccyKw1vmXFEoOH87FCT) | [Marc Johnson](https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH), [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Swept Away](https://open.spotify.com/album/3Y9niedNuNGE9JcdX9qrIj) | 6:18 | 2020-05-02\* |  |
 | [Tarde](https://open.spotify.com/track/2EXxg3UZwWqMCgs1gUHEgU) | [Ryan Keberle’s Collectiv do Brasil](https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg) | [Sonhos da Esquina](https://open.spotify.com/album/7mKm2xYfdqz3DUzxOVaSAQ) | 5:32 | 2022-03-17 | 2023-10-04 |
 | [Teardrop](https://open.spotify.com/track/1o6v06LkvEkYm0H4S12ejd) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Big Vicious](https://open.spotify.com/artist/6WZmtYXnkegW8tmk9VpWr4) | [Teardrop](https://open.spotify.com/album/3M460rbozbQFxAPSSavwlD) | 7:24 | 2020-05-02\* | 2021-12-18 |
-| [Tears I Cannot Hide](https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 5:21 | 2023-08-03 |  |
+| [Tears I Cannot Hide](https://open.spotify.com/track/3k2ZG7wOrvAJVfATe6t41E) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Tears I Cannot Hide](https://open.spotify.com/album/70bDvVWQoOm0WEFGeyDX9g) | 5:21 | 2023-08-03 | 2026-02-07 |
 | [Tears I Cannot Hide](https://open.spotify.com/track/4HKnG7MIciQ9MtJnYHrWm8) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 5:21 | 2023-08-24 | 2024-04-19 |
 | [Tell Me a Bedtime Story](https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:01 | 2020-05-02\* | 2020-10-27 |
 | [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:03 | 2020-06-12 | 2021-09-17 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 153610,
+  "num_followers": 153641,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 206367,
-      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
-      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185210,
       "name": "Lo M\u00edo Es Tuyo",
       "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+        "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 206367,
+      "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
+      "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Prepararse para la Buena",
         "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 176437,
       "name": "Prepararse para la Buena",
       "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Un Gran Dia",
         "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 139428,
       "name": "Un Gran Dia",
       "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Celebrar",
+        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 167176,
+      "name": "Celebrar",
+      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Celebrar",
-        "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 167176,
-      "name": "Celebrar",
-      "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Bueno",
         "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 175636,
       "name": "Bueno",
       "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1271,6 +1255,22 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Mi Mirada",
-        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
       },
       "artists": [
         {
-          "name": "Toda la Vida",
-          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
-        },
-        {
-          "name": "Jullie",
-          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Mi Mirada",
-      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1455,38 +1451,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+        "name": "Mi Mirada",
+        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
       },
       "artists": [
         {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+          "name": "Toda la Vida",
+          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
         },
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Jullie",
+          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
         }
       ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al - En Vivo",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+      "duration_ms": 156923,
+      "name": "Mi Mirada",
+      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1511,6 +1491,26 @@
       "duration_ms": 210690,
       "name": "La Bandera",
       "url": "https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+      },
+      "artists": [
+        {
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al - En Vivo",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Todito",
-        "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        },
-        {
-          "name": "Kavelo Y No Drama",
-          "url": "https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV"
-        }
-      ],
-      "duration_ms": 163839,
-      "name": "Todito",
-      "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Jesucristo Me Toco (En Vivo)",
         "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Todito",
+        "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        },
+        {
+          "name": "Kavelo Y No Drama",
+          "url": "https://open.spotify.com/artist/5A7m8sjvA3MMBh80K0jJWV"
+        }
+      ],
+      "duration_ms": 163839,
+      "name": "Todito",
+      "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Volver\u00e1",
-        "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
-      },
-      "artists": [
-        {
-          "name": "Maca Andres",
-          "url": "https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        },
-        {
-          "name": "Snail Lake",
-          "url": "https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Volver\u00e1",
-      "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "\u00a1C\u00f3mo no Hablar!",
         "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
       },
@@ -1819,6 +1795,30 @@
       "duration_ms": 169624,
       "name": "Todo Te Lo Debo a T\u00ed",
       "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Volver\u00e1",
+        "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
+      },
+      "artists": [
+        {
+          "name": "Maca Andres",
+          "url": "https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Snail Lake",
+          "url": "https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Volver\u00e1",
+      "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
     },
     {
       "added_at": "2025-12-12 22:35:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Motionless In White is on top of today's best Metal playlist.",
+  "description": "The Amity Affliction is on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181386,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/2TqhTORgYMBEz8hrLbXIhT"
@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 290110,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt"
@@ -3844,6 +3844,24 @@
       "duration_ms": 201800,
       "name": "Coma Blue - Remastered 2022",
       "url": "https://open.spotify.com/track/1WLWMfnnFiXYLujTlkMiou"
+    },
+    {
+      "album": {
+        "name": "Commander of Pain",
+        "url": "https://open.spotify.com/album/6SvPikanz42fybjKeg5LCD"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285247,
+      "name": "Commander of Pain",
+      "url": "https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU"
     },
     {
       "album": {
@@ -7254,7 +7272,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 186068,
       "name": "Fight Like A Girl (feat. K.Flay)",
       "url": "https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC"
@@ -9185,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206788,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
+    },
+    {
+      "album": {
         "name": "House of Light",
         "url": "https://open.spotify.com/album/4GklCdOqG4VgCS4Fwne3wX"
       },
@@ -9270,6 +9306,24 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH"
+    },
+    {
+      "album": {
+        "name": "DREAMCRUSH",
+        "url": "https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8L",
+          "url": "https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Hud",
+      "url": "https://open.spotify.com/track/1MXIHqh0sWyyFXvrkutBFa"
     },
     {
       "album": {
@@ -11106,6 +11160,28 @@
       "duration_ms": 345805,
       "name": "Labyrinth of Stone",
       "url": "https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo"
+    },
+    {
+      "album": {
+        "name": "Death & Connection",
+        "url": "https://open.spotify.com/album/42pro4GlFjLlEoITxqY1oT"
+      },
+      "artists": [
+        {
+          "name": "Shields",
+          "url": "https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I"
+        },
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132733,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/4ZbzUmUtkE5Mke82mVxBAg"
     },
     {
       "album": {
@@ -17254,7 +17330,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 257396,
       "name": "Someone's Daughter",
       "url": "https://open.spotify.com/track/497Y0Hx5OQLlchYgo4ExRk"

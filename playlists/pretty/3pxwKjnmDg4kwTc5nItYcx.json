@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Teddy Swims",
-  "num_followers": 5601,
+  "num_followers": 5602,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHzNZB2qB1AdoGKyKOV4cLY8c9Ayl/",
+  "snapshot_id": "AAAHzW8h1P/X81NloAVJtsO9ln45t42S",
   "tracks": [
     {
       "added_at": "2026-02-02 04:29:06",
@@ -39,6 +39,22 @@
       "duration_ms": 166983,
       "name": "You You You",
       "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
+    },
+    {
+      "added_at": "2026-02-06 03:20:20",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-02-02 04:29:06",

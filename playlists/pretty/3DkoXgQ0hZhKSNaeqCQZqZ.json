@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 966,
+  "num_followers": 970,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE12jKgZM663XogJtiMv/2bXVoCTZv",
+  "snapshot_id": "AAAE2IvhwX17y6CXps1Pw6esoQ8XE1LK",
   "tracks": [
+    {
+      "added_at": "2026-02-06 22:46:19",
+      "album": {
+        "name": "PROJECTILE LAUNCH",
+        "url": "https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ"
+      },
+      "artists": [
+        {
+          "name": "Mors_Music",
+          "url": "https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap"
+        }
+      ],
+      "duration_ms": 103846,
+      "name": "PROJECTILE LAUNCH",
+      "url": "https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat"
+    },
     {
       "added_at": "2026-02-05 16:29:28",
       "album": {

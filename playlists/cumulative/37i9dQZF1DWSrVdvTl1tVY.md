@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: MK
 
-1,274 songs - 3 day 0 hr 13 min
+1,275 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Keep On Moving](https://open.spotify.com/track/3WZ3vHpG2pzW9hicKBqon0) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Keep On Moving](https://open.spotify.com/album/2TXzmcA4yRUc9VLTv68yas) | 3:36 | 2022-10-07 | 2023-01-13 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-21 | 2022-10-22 |
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-07 | 2022-10-08 |
+| [Kids](https://open.spotify.com/track/5yvCgre7udUxMAYBPzBbdl) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Kids](https://open.spotify.com/album/2PulG17V3pdAS4KJMwzRUq) | 3:08 | 2026-02-06 |  |
 | [Kilimanjaro Sound](https://open.spotify.com/track/6vGEVjHqUW5c6nJPzb7WT4) | [Enzo Siragusa](https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX) | [Kilimanjaro Sound](https://open.spotify.com/album/06tlxlKIHJiaJRJcDiywHw) | 6:23 | 2025-10-23 |  |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-03-17 | 2023-09-08 |
 | [KMT](https://open.spotify.com/track/5CZs2xfkxlnuHLN72MujtZ) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Let Me In / KMT](https://open.spotify.com/album/0vWJFiKa8d9lXT6Ri0fCsK) | 3:36 | 2022-04-29 | 2022-08-26 |
@@ -820,7 +821,7 @@
 | [On My Mind \- Enzo is Burning Remix](https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [On My Mind \(Enzo is Burning Remix\)](https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN) | 2:42 | 2024-07-25 | 2025-03-07 |
 | [on my own](https://open.spotify.com/track/0T9529Sq8SrzayMRQpkvOH) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [on my own](https://open.spotify.com/album/2scz1PYUXmFVP0xs8JR2O6) | 6:01 | 2022-12-16 | 2023-02-15 |
 | [On Repeat](https://open.spotify.com/track/1WWmFkRvnEB4dSMoQA224x) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [Elf Kid](https://open.spotify.com/artist/3zCJAYU5pdyvi4nwb5ANnQ) | [On Repeat](https://open.spotify.com/album/3Fblr3zgphPHCkWYW12mzy) | 3:22 | 2022-06-16 | 2022-08-26 |
-| [On The Record](https://open.spotify.com/track/2S9nAbjk51mgA4sW4n1WIF) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [On The Record](https://open.spotify.com/album/6qpZgTSbGhaaHyoCRY6eTC) | 3:06 | 2025-10-09 |  |
+| [On The Record](https://open.spotify.com/track/2S9nAbjk51mgA4sW4n1WIF) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [On The Record](https://open.spotify.com/album/6qpZgTSbGhaaHyoCRY6eTC) | 3:06 | 2025-10-09 | 2026-02-07 |
 | [One By One](https://open.spotify.com/track/799OFBnaXFuFbU6sWg3Ws3) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R), [LAZY JOE](https://open.spotify.com/artist/2PcuyeRKmfMMtq4dyxI43H) | [One By One](https://open.spotify.com/album/03DWHMgCCdRB1ikBMipXtK) | 3:13 | 2024-04-05 | 2024-11-01 |
 | [One More Time](https://open.spotify.com/track/0V55B8CbeV1OMOFPD78udd) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [One More Time](https://open.spotify.com/album/1k5qFfaMjDVHBeJxY5iGBW) | 3:00 | 2025-02-21 | 2025-06-27 |
 | [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 | 2025-01-24 |

@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-289 songs - 16 hr 37 min
+290 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Lemaire \- Radio Edit](https://open.spotify.com/track/05S78KurkT90dskEXozaE4) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Lemaire](https://open.spotify.com/album/1QwnEILfsLf5hb34vKKnhq) | 3:40 | 2022-12-22 | 2025-03-13 |
 | [Lies \- Acoustic Piano](https://open.spotify.com/track/19tlQPgqiFl964Vuz5tOGB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies \(Acoustic Piano\)](https://open.spotify.com/album/5itEPqoXNem3qWRtPiRC2V) | 4:43 | 2026-01-23 |  |
 | [Life Support](https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Going My Own Way](https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW) | 2:41 | 2024-10-03 |  |
+| [Light Behind The Moon \- Acoustic](https://open.spotify.com/track/58n5ZJQGKanPeD9cj8oLTE) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Light Behind The Moon \(Acoustic\)](https://open.spotify.com/album/4e649j0uvHqgGCv6AedN7h) | 3:01 | 2026-02-06 |  |
 | [Lights Down Low](https://open.spotify.com/track/5A6BJLZArq1MPjsnmcuk5f) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Hell's Kitchen Angel](https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc) | 3:43 | 2022-12-22 | 2023-06-02 |
 | [Lights Off](https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/5Zd2cdDVrRrFJsjiSpo1m5) | 3:30 | 2023-01-16 | 2023-10-07 |
 | [Lights Off](https://open.spotify.com/track/5xpNweaHBCbEAykFGcyYF6) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Lights Off](https://open.spotify.com/album/1UJUCrh65VLj1NGKWtXGwC) | 3:30 | 2022-12-22 | 2023-02-03 |
@@ -270,7 +271,7 @@
 | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/track/5VD2s6ASgUPXunzA7vVra3) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Merrick Winter](https://open.spotify.com/artist/5saJxCU9CGqagElzzIXgfI) | [Too Good To Be True \(feat\. Merrick Winter\)](https://open.spotify.com/album/3MifL1uttV2mS2snSADT6X) | 3:17 | 2026-01-23 |  |
 | [Trade it for the Night \- Acoustic Version](https://open.spotify.com/track/6rRRpQjOiXvR70uYxmPcJz) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Neco Novellas](https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe) | [Trade it for the Night \(Unfold Bundle\)](https://open.spotify.com/album/0Fk2Qyu8r17ylGxOciMV1e) | 3:22 | 2025-02-20 |  |
 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 | 2024-07-25 |  |
-| [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 |  |
+| [Twilight \- Acoustic](https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Twilight \(Acoustic\)](https://open.spotify.com/album/6SewIeR2LVxT7AQQw3oAL6) | 3:18 | 2024-05-09 | 2026-02-07 |
 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 | 2024-07-18 | 2024-11-15 |
 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 | 2026-01-23 |  |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2022-12-22 | 2023-02-24 |

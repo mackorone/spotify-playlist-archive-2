@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Arath Arceo 📸
 
-656 songs - 1 day 10 hr 38 min
+657 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Mi Primer Día Sin Ti](https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Primer Día Sin Ti](https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5) | 3:10 | 2025-02-28 | 2026-01-31 |
 | [Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca \- En Vivo](https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El Cachorro](https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 19:47 | 2022-01-28 | 2022-12-24 |
 | [Mi Razón de Ser \- REMASTERIZADO](https://open.spotify.com/track/0cbdTKHQDTA9P3R2iVCXM0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón de Ser \(REMASTERIZADO\)](https://open.spotify.com/album/0lNgjTTlj7czZMn9DW8COx) | 3:28 | 2025-07-04 | 2025-10-18 |
-| [Mi Razón de Ser \- REMASTERIZADO](https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Grandes Éxitos Remasterizado](https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU) | 3:28 | 2025-10-03 |  |
+| [Mi Razón de Ser \- REMASTERIZADO](https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Grandes Éxitos Remasterizado](https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU) | 3:28 | 2025-10-03 | 2026-02-07 |
 | [Mi Reina](https://open.spotify.com/track/3ZwuE3d5mqAXVXTQ7Q9vA8) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mi Reina](https://open.spotify.com/album/22c7ETe6824DtwjvzKHqyX) | 2:55 | 2025-11-14 |  |
 | [Mi Talisman \(En Vivo\)](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 | 2026-01-30 |  |
 | [Mi Vida Perdida](https://open.spotify.com/track/29QELdr4jNnG7IyDGj4GA0) | [Grupo Identificado](https://open.spotify.com/artist/3QYcGdC1ugrwM2UI3JWhJ7), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Mi Vida Perdida](https://open.spotify.com/album/0xbHeloQ1S3ukB5lmMrSTL) | 4:12 | 2025-08-22 | 2025-11-15 |
@@ -619,6 +619,7 @@
 | [Vamos A Vernos](https://open.spotify.com/track/397f40lelcxJlZkrwNNV3w) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Vamos A Vernos](https://open.spotify.com/album/015jWFyaGM4BLxtLlI4hjZ) | 3:37 | 2024-01-26 | 2024-05-11 |
 | [Vamos Bien](https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:20 | 2022-07-01 | 2025-10-04 |
 | [Vas a Estar Bien](https://open.spotify.com/track/2akJQxDzaK8LggCNpnPtDO) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y) | [Vas a Estar Bien](https://open.spotify.com/album/1xvvHaqWTYPpZJWkEM9G07) | 4:11 | 2025-08-22 | 2026-01-24 |
+| [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 | 2026-02-06 |  |
 | [Vivo La Vida A Mi Modo](https://open.spotify.com/track/5WTdMhl8dAOj8g2rsrR6f5) | [Samuel Sarmiento](https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR), [Ivann Flores](https://open.spotify.com/artist/0YsFzeTdG19BpjE4nnrC6M) | [Vivo La Vida A Mi Modo](https://open.spotify.com/album/294t3IHVf5LCF1Fp7zFb2W) | 2:25 | 2025-11-14 |  |
 | [Volveré](https://open.spotify.com/track/26Wuw2ugVQCZdXCNU0M95x) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Volveré](https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa) | 3:22 | 2022-11-03 | 2024-09-20 |
 | [Voy A Levantarme](https://open.spotify.com/track/7sQqPVaiEejICfZK08GI9H) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Voy A Levantarme](https://open.spotify.com/album/63F3VkReUeiOf1LSd2MicF) | 2:17 | 2024-09-20 | 2025-10-04 |

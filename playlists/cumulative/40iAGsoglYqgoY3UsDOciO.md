@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-482 songs - 23 hr 19 min
+483 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Everything](https://open.spotify.com/track/5CGpPbUiTBtjVm5dCRvZbH) | [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [Everything](https://open.spotify.com/album/17Nicg9iwMRlxA3Ovl1bAS) | 2:42 | 2025-12-03 |  |
 | [EVIL EYE \- Remix](https://open.spotify.com/track/4GpfjCsgJTZg3mWMJi5xoQ) | [Moment Shades](https://open.spotify.com/artist/3GFrNdPsxjDxIwAtOaxJlq), [Lemaf](https://open.spotify.com/artist/6PW01jkmplj9yh0ICVqtIL), [Teeprisy](https://open.spotify.com/artist/3LHzeJeBqDW3GxivGAGyQt) | [THE TRIUMPH PACK](https://open.spotify.com/album/3j8jhC1M6Ymjt8SFkfdW3q) | 3:11 | 2024-07-11 |  |
 | [EYE](https://open.spotify.com/track/4jbNm7D0YvHMS1MZ6hJaOf) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:40 | 2023-07-26 |  |
-| [Eyes On You \- Slowed + Reverb](https://open.spotify.com/track/0YnFqLaMgeL1djRjXBI7Dx) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Eyes On You \(Slowed + Reverb\)](https://open.spotify.com/album/0pFsdfI0DYp3vp3gxLnYQd) | 3:36 | 2024-11-17 |  |
+| [Eyes On You \- Slowed + Reverb](https://open.spotify.com/track/0YnFqLaMgeL1djRjXBI7Dx) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Eyes On You \(Slowed + Reverb\)](https://open.spotify.com/album/0pFsdfI0DYp3vp3gxLnYQd) | 3:36 | 2024-11-17 |  |
 | [Fall In Luv With U](https://open.spotify.com/track/67bcMhrp2LKGS7Z8sMRfts) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [noubodii](https://open.spotify.com/artist/561bPxEq7KcgnsIzP8bl9M) | [Fall In Luv With U](https://open.spotify.com/album/5yOufXLzxwmfRnhqKOQ8Rg) | 2:25 | 2025-09-30 |  |
 | [Fallen Faces](https://open.spotify.com/track/2RqaY573Ybk7s3V5Hvu9zS) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Corrupt Tunes, Vol\. 2](https://open.spotify.com/album/3FDbA50N9cbtKQ33skE4Fx) | 1:38 | 2025-12-20 |  |
 | [Falling in the Void](https://open.spotify.com/track/69dznwGHjwTADQwj1H6Ybh) | [Kurotaro](https://open.spotify.com/artist/4KlmHgSd4vqaZbSQYL5zKf) | [Falling in the Void](https://open.spotify.com/album/7kNbdkqhybr01dIo9AB0hv) | 3:30 | 2024-07-19 |  |
@@ -464,6 +464,7 @@
 | [Westside](https://open.spotify.com/track/4KZytfFyq6cFObYt40KQmj) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:24 | 2023-07-26 |  |
 | [What Happens When We Die?](https://open.spotify.com/track/0vzSRZuwogXh11G498bQW3) | [Tommy Snow](https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq) | [What Happens When We Die?](https://open.spotify.com/album/6o2z2D5mjubKDzXvkrfwaj) | 4:32 | 2026-01-21 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-26 |  |
+| [whatchu want](https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [whatchu want](https://open.spotify.com/album/15wJznFpg1iyZMSGUA6YGo) | 1:58 | 2026-02-07 |  |
 | [When It Comes To You](https://open.spotify.com/track/3JmmzgSs6VvBa3gQzcijsm) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [When It Comes To You](https://open.spotify.com/album/0somiwdLc587aSOGWsJhTi) | 2:48 | 2023-07-26 |  |
 | [When You, Love Someone](https://open.spotify.com/track/0UefkaKqYIm0aMd3knln7M) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:10 | 2023-07-26 |  |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-07-26 |  |

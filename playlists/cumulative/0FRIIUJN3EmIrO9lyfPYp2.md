@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-746 songs - 1 day 1 hr 59 min
+753 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Back home](https://open.spotify.com/track/6AlgQrvALx6qVBXHvaAmpJ) | [Kaiv](https://open.spotify.com/artist/2CjA0kHoULDHJz1ffRo6Ac), [umbrella corp](https://open.spotify.com/artist/2uTtTtYADFpoOSiZ3PvAhZ) | [Back home](https://open.spotify.com/album/7FFinFFKawZW1w7qhSTIWJ) | 1:40 | 2025-09-05 | 2026-01-03 |
 | [back to space](https://open.spotify.com/track/37p8UQMsO8A1X1HYuFhz3G) | [anoare](https://open.spotify.com/artist/2qL3xnITjqG3pZUfJkJzmT), [milioraf](https://open.spotify.com/artist/2atsHEA7GQc0DR0guiEzkd) | [back to space](https://open.spotify.com/album/126dWVoJjbH3Zj7LSmI9AH) | 2:01 | 2025-11-07 | 2026-01-03 |
 | [backrooms](https://open.spotify.com/track/54mOoBhEh3Ss0Einj5q80q) | [since 1993](https://open.spotify.com/artist/4wlPCsRxw2NDDcpNZYKiv2) | [thoughtlife](https://open.spotify.com/album/4oMBrguA7nKLKcXFvn7126) | 2:43 | 2025-08-15 |  |
+| [backward](https://open.spotify.com/track/6jAtIRPIQbIfxYoHCQEtLp) | [shelovesmytears](https://open.spotify.com/artist/04odGcXvlgFBaRDIIYzot3) | [we will be at home in Kyiv in may](https://open.spotify.com/album/0rgbSVya5LKjIgxZP0sOUA) | 2:06 | 2026-02-06 |  |
 | [bee](https://open.spotify.com/track/3eNdIW2ODXZiSWzafbzgCw) | [uglysoul](https://open.spotify.com/artist/434JcT4zahRrM4iUDiGBw5) | [bee](https://open.spotify.com/album/5hC5ZEMA7gHnrTtB77jJNv) | 0:51 | 2025-03-28 |  |
 | [been here before](https://open.spotify.com/track/5IT2MpHxEsNakJ7GAvWCxh) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [been here before](https://open.spotify.com/album/5QiLQJVmNPVme0JGtKFUsQ) | 2:08 | 2025-07-25 |  |
 | [before dawn](https://open.spotify.com/track/6hEI5yF9WMKI119bkp7JbJ) | [jn\_n.mp3](https://open.spotify.com/artist/3cd41L5XzRuJJN2Rzj14tE) | [memory fragments](https://open.spotify.com/album/6tsxgXjlCK2wz6qxqgs2KN) | 2:04 | 2025-11-21 | 2026-01-03 |
@@ -126,6 +127,7 @@
 | [cessation](https://open.spotify.com/track/1PrMP3v9BnbmRoR8U5Pdi8) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb), [ihatemyjob](https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO) | [cessation](https://open.spotify.com/album/4QIqLoNZ8OcJBso84Vejtf) | 2:29 | 2025-09-20 |  |
 | [chasing daylight](https://open.spotify.com/track/4DGj9AlmOFYFiwxNrmykjd) | [statika](https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83) | [chasing daylight](https://open.spotify.com/album/0KTqvv72iINIK1CXHTj12K) | 1:03 | 2025-08-15 |  |
 | [chasing lost moments](https://open.spotify.com/track/0pWp5V9sinSPc9pfykzv7j) | [byLexum](https://open.spotify.com/artist/50Uwl3t40dRxrf1sBoeeKo) | [chasing lost moments](https://open.spotify.com/album/4xgCpWmRvlvmnHZzEoM2vU) | 1:36 | 2025-06-27 | 2026-01-03 |
+| [cherished things](https://open.spotify.com/track/4TuDlM41Jqnx0j4cSGh9ZX) | [ohhdeer](https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x) | [cherished things](https://open.spotify.com/album/2m4OZw8XqvTkmPNMRg2vCt) | 1:09 | 2026-02-06 |  |
 | [childhood](https://open.spotify.com/track/1dMQT0c8CuHBpnpQUDs55v) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih) | [childhood](https://open.spotify.com/album/2HYUJ3mvWk1U01rcX5awbM) | 2:27 | 2025-07-04 | 2026-01-03 |
 | [circles](https://open.spotify.com/track/12WvGwzhOCetfVO9Fih9ZF) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [circles](https://open.spotify.com/album/5BVKQ5N5R3KKCsqXWizb01) | 2:14 | 2025-02-14 |  |
 | [clairvoyance](https://open.spotify.com/track/7v4IrnfxTZPYOQQF9Qwd0P) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [kenyara](https://open.spotify.com/artist/7yM3PevaQtwIskKtPLjJNF) | [clairvoyance](https://open.spotify.com/album/4APv2ucjnSkRLiOeJ0qmIM) | 2:11 | 2025-03-21 |  |
@@ -179,6 +181,7 @@
 | [dream depot](https://open.spotify.com/track/7rmz73HqFI14dI51vzRlqC) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [dream depot](https://open.spotify.com/album/2MUflTgy5RG2lvK18P4x5f) | 1:55 | 2025-01-24 |  |
 | [Dream network](https://open.spotify.com/track/0UbvNAtWgHHS8ClsUXsHAd) | [SÆTA](https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p) | [Dream network](https://open.spotify.com/album/290YufmKus4U4klMMT3z6G) | 2:31 | 2025-10-17 | 2026-01-03 |
 | [dreamcatcher](https://open.spotify.com/track/5SaNe3aQ6a9S3WDjqKKJ9a) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [dreamcatcher](https://open.spotify.com/album/6EFEaxltjb9dXojcBIGQ7w) | 2:27 | 2025-05-16 |  |
+| [Dreamcore](https://open.spotify.com/track/07cpPHa71ilPTAnSd3a6Iq) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Dreamcore](https://open.spotify.com/album/1dA5nVXYSY9DgBOQMk7E29) | 1:46 | 2026-02-06 |  |
 | [dreamcore](https://open.spotify.com/track/4eWCbOpM341I6SQ89TpxKM) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [dreamcore](https://open.spotify.com/album/0EAhpUFVbshQxImXQGrB3q) | 1:25 | 2025-12-12 |  |
 | [dreaming of home](https://open.spotify.com/track/3v5qxwG5vlC9H7Ko3BY9LM) | [sevenlies](https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7) | [dreaming of home](https://open.spotify.com/album/2gZFGqJ86SbhNdwzuW38ty) | 2:28 | 2025-12-05 |  |
 | [dreamlight](https://open.spotify.com/track/6N5MbH0tTZu3pPnPIFH7ON) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [dreamlight](https://open.spotify.com/album/6nEmYv7tTe0T9egLd71GsR) | 2:14 | 2025-04-18 |  |
@@ -273,6 +276,7 @@
 | [Fourth Night](https://open.spotify.com/track/5eeP29IuaJYx097SCOT7l4) | [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6) | [In Another Life](https://open.spotify.com/album/5uipHBZ7VPgs6citSbeDIT) | 1:56 | 2025-02-28 |  |
 | [fractured dream](https://open.spotify.com/track/2DBhc7xyDZvE5RjDhOEXrR) | [Soli2ude](https://open.spotify.com/artist/7ubxVOWczeDrGXewrxeNpu) | [broken dreams](https://open.spotify.com/album/5meV7MUTXITWkvikfkZnpN) | 2:04 | 2025-05-02 |  |
 | [fragments of us](https://open.spotify.com/track/0YQzbhmydFrzDg5xQbiQhW) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [fragments of us](https://open.spotify.com/album/5XMohnE1SZ3yZMAFw60zLw) | 1:50 | 2025-11-29 |  |
+| [Frayed](https://open.spotify.com/track/7oor4zzDxQzEr3bNDfVu5v) | [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [Frayed](https://open.spotify.com/album/4ktCX9b1ZoeRsVIxjy94l0) | 2:09 | 2026-02-06 |  |
 | [Freefall](https://open.spotify.com/track/1PCnX2wRXihoTo6hOpeHMF) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Freefall](https://open.spotify.com/album/0pke1XkNgWEau7colM2cfW) | 2:58 | 2026-01-10 |  |
 | [frostbound](https://open.spotify.com/track/14eIHLkKeFQbEDPjIRhhz6) | [for home use only.](https://open.spotify.com/artist/7D826TatvsCgtSudZ8F1Ik) | [frostbound](https://open.spotify.com/album/5g8wiqkgEMyJ72PjQGlmz6) | 1:52 | 2025-01-17 | 2026-01-03 |
 | [frostbound](https://open.spotify.com/track/3QbDxxcrivHCVKE8iIJP1G) | [ID10](https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX), [nocturnal whisper](https://open.spotify.com/artist/6YwWfJotO0x0YtzIyQItLz) | [frostbound](https://open.spotify.com/album/6UgsCtXXcqfQMfPPFGxiCR) | 1:48 | 2025-10-17 | 2026-01-03 |
@@ -521,6 +525,7 @@
 | [Pulse](https://open.spotify.com/track/7pBHatutZnspw7oZeLqWQS) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Pulse](https://open.spotify.com/album/1mZofWWlaJixDcQMhoHHmM) | 2:57 | 2025-05-02 |  |
 | [push](https://open.spotify.com/track/4yikZf5YmbYmMa8PPJJhY1) | [away from](https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a) | [push](https://open.spotify.com/album/3N72idtWeV4QZ5VEHTxgrm) | 1:48 | 2025-12-12 | 2026-01-03 |
 | [quantum rest](https://open.spotify.com/track/6rHGDkzxUediQEFtQRE1qN) | [Anemøia](https://open.spotify.com/artist/2gS2uhoxnOWgd2aJ6OIpFX) | [quantum rest](https://open.spotify.com/album/54yR7m0BbUX54vgGYLGS7v) | 1:41 | 2025-10-24 | 2026-01-03 |
+| [quiet nights, turning into storms](https://open.spotify.com/track/5OROi51CcAGgFIjmeEbTF0) | [furosha](https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l) | [quiet nights, turning into storms](https://open.spotify.com/album/34V7aSJ15hg4uU23YxD0Ix) | 1:37 | 2026-02-06 |  |
 | [Radiance](https://open.spotify.com/track/23bQhKeKpK6X0GOhjTyvMg) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Radiance](https://open.spotify.com/album/1aKDJNakhnnrHCNp9WGpol) | 1:45 | 2025-06-06 |  |
 | [radiance](https://open.spotify.com/track/31HswR1kpcHN90A7ORWQy3) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [radiance](https://open.spotify.com/album/0eHCAnlvsyYUwv1ECmRpdN) | 2:06 | 2025-12-05 |  |
 | [rainbow](https://open.spotify.com/track/5oXROsFq7C1S9Sxg2gzumk) | [Inlirium](https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib) | [rainbow](https://open.spotify.com/album/71POR0Wwq0mufmtNnR3Oxh) | 2:10 | 2025-12-12 | 2026-01-03 |
@@ -568,6 +573,7 @@
 | [selene](https://open.spotify.com/track/5eAQe8OKDo3LCqpiLFz0Tq) | [ItsLucid](https://open.spotify.com/artist/4YE2uKD3VmPd2E46mKGwRt), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [selene](https://open.spotify.com/album/0wThOnGnHxOJPHAaTRbrej) | 2:38 | 2025-07-19 |  |
 | [serene](https://open.spotify.com/track/1ULLmLnOx4cT2Wyvv1Lv9e) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [serene](https://open.spotify.com/album/2mYyYl6x0XowlZgWwS38Tx) | 1:20 | 2025-03-14 |  |
 | [serenity](https://open.spotify.com/track/7CuC9rBwlGatYhO5wZTX9y) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [serenity](https://open.spotify.com/album/78o5IvQuFlh0gsUkH8jOPP) | 2:36 | 2025-05-09 |  |
+| [set free](https://open.spotify.com/track/654T0XE2SFfYBqWrSaxgP4) | [remind me](https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI) | [set free](https://open.spotify.com/album/6zyQ5l7qGc21zF2ZkynX9B) | 1:32 | 2026-02-06 |  |
 | [severance](https://open.spotify.com/track/5W2t0zY2QacBuyHDAr5sCa) | [Bluegaze](https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM), [mbynt](https://open.spotify.com/artist/2mTgGSvHiCy6WNAIBQNOZo) | [severance](https://open.spotify.com/album/11drOFL7ASYRVFPcSGsYGP) | 1:47 | 2026-01-24 |  |
 | [severance](https://open.spotify.com/track/5TcSyCXzdtYgRxYzrl0B9w) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [severance](https://open.spotify.com/album/7HLS2qzp35QBMg67mN3eTF) | 3:03 | 2025-08-15 |  |
 | [shade](https://open.spotify.com/track/0PlZ4T4nWxAXyRbgrrKjxy) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [shade](https://open.spotify.com/album/31shMRxNYV6WGlYUTJErGP) | 1:32 | 2025-03-14 |  |
@@ -685,6 +691,7 @@
 | [Voyage](https://open.spotify.com/track/0EkYU9pOXv66UFV9ySZ6Nn) | [jakub.](https://open.spotify.com/artist/7hUhXAakX6BPEcosMTAPUI) | [Voyage](https://open.spotify.com/album/2KglvZwgcpljMww8BhoaoL) | 1:54 | 2025-02-14 |  |
 | [waiting for a train](https://open.spotify.com/track/6KLqRZQF1UwnHiJwx2DsOj) | [Haunted Tape](https://open.spotify.com/artist/2GJqH7qLbE1EFA87bMxRkR) | [waiting for a train](https://open.spotify.com/album/2oamN2ePwqUXMlMt38qIaV) | 1:49 | 2025-06-06 |  |
 | [wake up](https://open.spotify.com/track/7wY1aVFYQYjVwIqJUZ0Okb) | [lonelyfeels](https://open.spotify.com/artist/67PHfjY1EYOhqrgnJdsE8w) | [wake up](https://open.spotify.com/album/4Sunv0GQxhywoy8ZviaeOB) | 1:48 | 2025-02-07 |  |
+| [walking away](https://open.spotify.com/track/5hV3nBJFTF1x6TcO55K82r) | [Rōōh](https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB), [A.e.r.o.](https://open.spotify.com/artist/7HKQSopbOaBZO8aEOgLdN1) | [walking away](https://open.spotify.com/album/1b8BJYcOjxt0AJ6bHr13GJ) | 2:16 | 2026-02-06 |  |
 | [walking through water](https://open.spotify.com/track/0cLbvfnxgeRNEILYxqZwMO) | [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [walking through water](https://open.spotify.com/album/0Il7YiZt5QYTjBGj5I38dh) | 1:52 | 2025-02-14 |  |
 | [want u](https://open.spotify.com/track/63phRXsi8MQOnn0HidGS5d) | [away from](https://open.spotify.com/artist/40dRV2ORNV9fYyPnTkHw0a) | [want u](https://open.spotify.com/album/3lOmgNEi3ifORFjyO8Bbxz) | 1:36 | 2025-11-21 | 2026-01-03 |
 | [want u](https://open.spotify.com/track/1lZpHHaQEyx8BSItla1x5c) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [want u](https://open.spotify.com/album/4RwoXPgymb9XhBTzbKVYAA) | 2:00 | 2025-04-25 |  |

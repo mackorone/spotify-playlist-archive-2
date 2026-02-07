@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/57CeXretqkDlILesiRMvv6"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 230329,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E"
@@ -1152,6 +1170,24 @@
       "duration_ms": 229733,
       "name": "Find The River",
       "url": "https://open.spotify.com/track/3SBgn3VyF9blrHYcJ5bg1k"
+    },
+    {
+      "album": {
+        "name": "Finding Out More (Symphonic Version)",
+        "url": "https://open.spotify.com/album/3SrqVxM7R19zvnpHSmtG4P"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Finding Out More - Symphonic Version",
+      "url": "https://open.spotify.com/track/7ugnSc3QVVJ99A06gTLeOJ"
     },
     {
       "album": {
@@ -3742,7 +3778,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 259907,
       "name": "Promise",
       "url": "https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2"

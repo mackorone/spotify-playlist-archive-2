@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover:  Dunsin Oyekan",
-  "num_followers": 48221,
+  "num_followers": 48414,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-06 00:01:25",
       "album": {
+        "name": "Jina Takatifu",
+        "url": "https://open.spotify.com/album/4SWHBXpkt4ZWt9TfHpPITK"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "duration_ms": 289938,
+      "name": "Jina Takatifu",
+      "url": "https://open.spotify.com/track/7tUw7l5NOyvzfLr6EFjjMf"
+    },
+    {
+      "added_at": "2026-02-06 00:01:25",
+      "album": {
         "name": "He Will Never Fail",
         "url": "https://open.spotify.com/album/0WEBUsLb3vgZhknADp3VqX"
       },
@@ -993,6 +1009,22 @@
       "url": "https://open.spotify.com/track/5mDpNM1fxPb40VOP63qLzP"
     },
     {
+      "added_at": "2026-02-06 00:01:25",
+      "album": {
+        "name": "Something good has happened",
+        "url": "https://open.spotify.com/album/0WhvX648fMjz5H1PbVJBSc"
+      },
+      "artists": [
+        {
+          "name": "REMISSION CHOIR",
+          "url": "https://open.spotify.com/artist/7su0qgtlzxcFO2HOAhxF7u"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Something good has happened",
+      "url": "https://open.spotify.com/track/52x2mfyWNnUutPiUAjeWc1"
+    },
+    {
       "added_at": "2026-01-30 00:01:24",
       "album": {
         "name": "work in me",
@@ -1244,7 +1276,7 @@
           "url": "https://open.spotify.com/artist/6CZvb8YcMxkqjtgeJ6i4ks"
         }
       ],
-      "duration_ms": 217391,
+      "duration_ms": 213836,
       "name": "WORLD BEST",
       "url": "https://open.spotify.com/track/3fTOmqXNmiro2tvKLu5Ral"
     },

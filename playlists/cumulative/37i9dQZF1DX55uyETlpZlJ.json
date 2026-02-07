@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Awat Iwat",
+        "url": "https://open.spotify.com/album/7pkcKP6W4jd7n2hWLelkv4"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173674,
+      "name": "Awat Iwat",
+      "url": "https://open.spotify.com/track/4JJ3C6fTzrcMk5b4E0ovjB"
+    },
+    {
+      "album": {
         "name": "BAA NANNANU APPIKO",
         "url": "https://open.spotify.com/album/4jgON5I9nwKpbejDfn3esd"
       },
@@ -1070,6 +1088,28 @@
       "duration_ms": 254123,
       "name": "Baadal",
       "url": "https://open.spotify.com/track/5Qp2Ke3Khb0sEnbCHCOjfa"
+    },
+    {
+      "album": {
+        "name": "Baanancha Daati",
+        "url": "https://open.spotify.com/album/0Hw6G4xkJk6kV1uUYdV6Ye"
+      },
+      "artists": [
+        {
+          "name": "Narayan Sharma",
+          "url": "https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP"
+        },
+        {
+          "name": "Sumedh K",
+          "url": "https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Baanancha Daati",
+      "url": "https://open.spotify.com/track/3iaNuA2lJwM4fE66tnDEEU"
     },
     {
       "album": {
@@ -1724,6 +1764,24 @@
       "duration_ms": 247207,
       "name": "Bhayavagide",
       "url": "https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh"
+    },
+    {
+      "album": {
+        "name": "Biddiyabbe Hudugi",
+        "url": "https://open.spotify.com/album/0WRoTyJwEgkaBF3BVgqsrv"
+      },
+      "artists": [
+        {
+          "name": "Chethan Naik",
+          "url": "https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158582,
+      "name": "Biddiyabbe Hudugi",
+      "url": "https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr"
     },
     {
       "album": {
@@ -2507,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "Dil Anthaithi Jal Anthaithi",
+        "url": "https://open.spotify.com/album/2rcwDU6LsrbYGqG7FOsD1Z"
+      },
+      "artists": [
+        {
+          "name": "Ravi Bajantri",
+          "url": "https://open.spotify.com/artist/31eOltgNJ4EVNKKuM1ehM7"
+        },
+        {
+          "name": "Rizwana",
+          "url": "https://open.spotify.com/artist/2uRrnf9nsjU1VQSTk6AtaQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189874,
+      "name": "Dil Anthaithi Jal Anthaithi",
+      "url": "https://open.spotify.com/track/3LJCdvyikzVnnsoWnn6Aql"
+    },
+    {
+      "album": {
         "name": "Dinavella",
         "url": "https://open.spotify.com/album/1YP89I84s7rdeJvRYNTo9h"
       },
@@ -2884,7 +2964,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 176120,
       "name": "Ee Gungalli",
       "url": "https://open.spotify.com/track/20FyYI3BKbdMQiWnUceUdF"
@@ -3388,7 +3468,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 147692,
       "name": "Gaanji",
       "url": "https://open.spotify.com/track/0nTl1C6WCW2yv5P2G8eK87"
@@ -8361,6 +8441,28 @@
     },
     {
       "album": {
+        "name": "Nanu Ninna Gungalle",
+        "url": "https://open.spotify.com/album/6Fgm8pw8QSsYfZeaV3jLCR"
+      },
+      "artists": [
+        {
+          "name": "Haston Rodrigues",
+          "url": "https://open.spotify.com/artist/069pd0XzR1dBt9JsBWEZ7W"
+        },
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144812,
+      "name": "Nanu Ninna Gungalle",
+      "url": "https://open.spotify.com/track/3A1SlGPj1dd5AWHyUYOKhx"
+    },
+    {
+      "album": {
         "name": "Nav Irodh Hinge",
         "url": "https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj"
       },
@@ -9968,7 +10070,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 209142,
       "name": "Ond Dina",
       "url": "https://open.spotify.com/track/6N1Va8bl7Dpt0Y23GOR0z3"
@@ -12472,7 +12574,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216173,
       "name": "Usiru",
       "url": "https://open.spotify.com/track/2Z5RYeUKMb7hQt4YWNiBq4"
@@ -13034,7 +13136,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169523,
       "name": "Yuva Sambhrama",
       "url": "https://open.spotify.com/track/48cN3waamNlLU3i0089NkQ"

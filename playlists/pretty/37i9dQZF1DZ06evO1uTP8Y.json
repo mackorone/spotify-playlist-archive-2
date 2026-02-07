@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 11567,
+  "num_followers": 11592,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAB3thweeilwjj7JnP+QOTns",
+  "snapshot_id": "aYPdgAAAAAA7tocKPVTe4tVbT/JHnD7f",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 176121,
-      "name": "Temptress",
-      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunday At Zuri's",
         "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 200030,
       "name": "Free Me",
       "url": "https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 176121,
+      "name": "Temptress",
+      "url": "https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "HBTS (Haven't Been The Same)",
-      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 68174,
       "name": "Intro (Landmine)",
       "url": "https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "HBTS (Haven't Been The Same)",
+      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 151489,
-      "name": "Modern Day Suicide",
-      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Life (Deluxe)",
         "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
     },
     {
       "added_at": null,

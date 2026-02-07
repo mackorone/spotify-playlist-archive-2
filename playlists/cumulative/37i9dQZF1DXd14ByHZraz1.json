@@ -277,6 +277,24 @@
     },
     {
       "album": {
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/4FeBJWZ4PfVcpDCcLWgYGL"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/1UXN6YD98neROqVMLf2cRS"
+    },
+    {
+      "album": {
         "name": "Are You Down (The Remixes)",
         "url": "https://open.spotify.com/album/41rocj1r6C2g1rm4Wx4Y9V"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 327619,
       "name": "Brava",
       "url": "https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 301300,
       "name": "DUNE",
       "url": "https://open.spotify.com/track/1qHUKbFN1nz3BbS5RogriX"
@@ -1766,6 +1784,28 @@
       "duration_ms": 171562,
       "name": "FAME",
       "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
     },
     {
       "album": {
@@ -5044,7 +5084,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 202204,
       "name": "She The Last One",
       "url": "https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK"
@@ -5836,6 +5876,32 @@
       "duration_ms": 154500,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A"
+    },
+    {
+      "album": {
+        "name": "Vai Tomando",
+        "url": "https://open.spotify.com/album/06vZ4bNOeoTxFl1y44Quqs"
+      },
+      "artists": [
+        {
+          "name": "Dj Brenno Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        },
+        {
+          "name": "Evoxx",
+          "url": "https://open.spotify.com/artist/4ARaZW5s4DFmr6kalIPHI6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Vai Tomando",
+      "url": "https://open.spotify.com/track/4MHoo309LAtMRfbWRsagOy"
     },
     {
       "album": {

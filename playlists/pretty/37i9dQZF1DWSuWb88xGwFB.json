@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 43038,
+  "num_followers": 43050,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing - Hard Metro Mix",
-      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "In Da Clouds",
         "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Rageous",
-          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
-        },
-        {
-          "name": "Franklin Fuentes",
-          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
         }
       ],
-      "duration_ms": 471692,
-      "name": "Tyler Moore Mary",
-      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+      "duration_ms": 341200,
+      "name": "Jump & Sing - Hard Metro Mix",
+      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -996,13 +976,17 @@
       },
       "artists": [
         {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+          "name": "Rageous",
+          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
+        },
+        {
+          "name": "Franklin Fuentes",
+          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
         }
       ],
-      "duration_ms": 260065,
-      "name": "Shine - Sundown Dub",
-      "url": "https://open.spotify.com/track/2s2bVNK44NPctaxBMCg2Z6"
+      "duration_ms": 471692,
+      "name": "Tyler Moore Mary",
+      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1067,6 +1051,22 @@
       "duration_ms": 258906,
       "name": "Give It All To You - 92 Remix",
       "url": "https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine - Sundown Dub",
+      "url": "https://open.spotify.com/track/2s2bVNK44NPctaxBMCg2Z6"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: Sofía Thompson
 
-1,136 songs - 2 day 8 hr 43 min
+1,137 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Más Allá](https://open.spotify.com/track/17WGo3851h6lRAU8GFV9uR) | [Thyago](https://open.spotify.com/artist/58vXMHUbQbvf7jutQTnJZy) | [Más Allá](https://open.spotify.com/album/5NlFJJVCJkquplO5wotAlT) | 2:51 | 2022-06-12 | 2022-10-29 |
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2022-08-11 | 2022-10-29 |
 | [Música Ligera](https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Música Ligera](https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj) | 3:55 | 2022-04-01 | 2022-04-16 |
+| [N U E V A S A M I G A S](https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [N U E V A S A M I G A S](https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH) | 3:15 | 2026-02-06 |  |
 | [nada conmigo](https://open.spotify.com/track/7LeOk7c4D0TfUHRSD0JfKJ) | [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [nada conmigo](https://open.spotify.com/album/6sc1iSuIHONslSqcsJTylx) | 3:18 | 2024-06-14 | 2024-08-03 |
 | [nada de nada](https://open.spotify.com/track/11Ycp611BypMSPvJy6su4S) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada de nada](https://open.spotify.com/album/6sGpAWfVlSBzIAhrGrILBG) | 3:19 | 2024-04-05 | 2024-05-03 |
 | [Nada Tuyo](https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Nada Tuyo](https://open.spotify.com/album/2XqvAoaxho6Ls0SyvRHxY8) | 3:26 | 2022-05-13 | 2022-07-29 |

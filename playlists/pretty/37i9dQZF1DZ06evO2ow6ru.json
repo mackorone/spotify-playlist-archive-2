@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177853,
+  "num_followers": 177866,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACX93LleIuJqgyespchl6E+",
+  "snapshot_id": "aYPdgAAAAABSmDx3Uv28JWEaFE1vyBCy",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic: It's Longer Now!",
-        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Vic Fuentes",
-          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
-        }
-      ],
-      "duration_ms": 213740,
-      "name": "A Love Like War (feat. Vic Fuentes)",
-      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -167,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+        "name": "Don't Panic: It's Longer Now!",
+        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Vic Fuentes",
+          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
         }
       ],
-      "duration_ms": 181836,
-      "name": "Falling For Strangers",
-      "url": "https://open.spotify.com/track/2h0phk6Zf5CI2BN8XO8z76"
+      "duration_ms": 213740,
+      "name": "A Love Like War (feat. Vic Fuentes)",
+      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
     },
     {
       "added_at": null,
@@ -195,6 +179,22 @@
       "duration_ms": 201075,
       "name": "Backseat Serenade",
       "url": "https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 181836,
+      "name": "Falling For Strangers",
+      "url": "https://open.spotify.com/track/2h0phk6Zf5CI2BN8XO8z76"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 151056,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 151056,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/7iWKIvsPmDBFSbThJJc9nY"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyone's Talking!",
-        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/3zbv1mZr0WtBpcF7x7YVqy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 224200,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 216546,
       "name": "Six Feet Under The Stars",
       "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Dark Side of Your Room",
+      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Dark Side of Your Room",
-      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 196232,
-      "name": "English Blood // American Heartache",
-      "url": "https://open.spotify.com/track/7gVWrhosuThCLRM8CarekB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Panic",
         "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 225292,
       "name": "Somewhere in Neverland",
       "url": "https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 196232,
+      "name": "English Blood // American Heartache",
+      "url": "https://open.spotify.com/track/7gVWrhosuThCLRM8CarekB"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197640,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 167827,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "Modern Love",
-      "url": "https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 209933,
       "name": "Time-Bomb",
       "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/6MzsfRoYing0YOe9LhBVen"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wN04stbxdr.md) - [plain]
 
 > Hør årets tolkninger her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,867 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,976 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OK Rosa Blomst](https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [OK Rosa Blomst](https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH) | 2:47 |
+| 1 | [Ok rosa blomst](https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Ok rosa blomst](https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH) | 2:47 |
 | 2 | [Rett inn, rett ut](https://open.spotify.com/track/2pxMFJNOOFu1sZqdtmQJh6) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Rett inn, rett ut](https://open.spotify.com/album/0n3vDDgNLOPCjguPyenJoD) | 2:43 |
 | 3 | [Atlas](https://open.spotify.com/track/1IQ628IqVhDvD6D3Ee6rh1) | [Espen Lind](https://open.spotify.com/artist/1N5566ZYn9C7qtdIlEeHM8), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Atlas](https://open.spotify.com/album/1llB3Psd1xtWVVrkphCKB2) | 2:45 |
 | 4 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 |

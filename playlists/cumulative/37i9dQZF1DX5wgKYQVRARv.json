@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New and recent favorites of Prog Metal. Cover: Opeth",
+  "description": "New and recent favorites of Prog Metal. Cover: Karnivool",
   "name": "Progressive Metal",
   "tracks": [
     {
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "The Blue Nowhere",
+        "url": "https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh"
+      },
+      "artists": [
+        {
+          "name": "Between The Buried And Me",
+          "url": "https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628453,
+      "name": "Absent Thereafter",
+      "url": "https://open.spotify.com/track/55nkp5SGyMMweXrAlbv4a9"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/4BVIM7wC2uahNAOjMwc0ha"
       },
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 386169,
       "name": "Aozora",
       "url": "https://open.spotify.com/track/74yIS4Qvm1DsjF2A5cWGeJ"
@@ -2091,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "The Great Filters",
+        "url": "https://open.spotify.com/album/6DI4rXauRX4BzzPAnKo8Nu"
+      },
+      "artists": [
+        {
+          "name": "Fractal Universe",
+          "url": "https://open.spotify.com/artist/4xP1ALrFSYLVCUiRA0xzMy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Causality's Grip",
+      "url": "https://open.spotify.com/track/4LAnkpI6JW7bB4hRwMYF3y"
+    },
+    {
+      "album": {
         "name": "Vitruvian",
         "url": "https://open.spotify.com/album/0UqADSHYcitQe4LDgJFMzO"
       },
@@ -2156,7 +2192,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
@@ -2708,6 +2744,24 @@
       "duration_ms": 648691,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/4FNm34TBz67yIRB4vhclPF"
+    },
+    {
+      "album": {
+        "name": "Borderland",
+        "url": "https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298533,
+      "name": "Dancing Shadow",
+      "url": "https://open.spotify.com/track/18tPSWC1L2mrXFILxsVWAm"
     },
     {
       "album": {
@@ -3574,7 +3628,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 299096,
       "name": "Drone",
       "url": "https://open.spotify.com/track/5f0S8MYAve5k02OJaiOnv7"
@@ -4130,7 +4184,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 246000,
       "name": "Ephemeral",
       "url": "https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3"
@@ -4998,6 +5052,24 @@
       "duration_ms": 255743,
       "name": "Fragile Space",
       "url": "https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18"
+    },
+    {
+      "album": {
+        "name": "From Nothing",
+        "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
+      },
+      "artists": [
+        {
+          "name": "Benthos",
+          "url": "https://open.spotify.com/artist/0A7v88d7h8uYeGaBhflb45"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341480,
+      "name": "From Nothing",
+      "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
     },
     {
       "album": {
@@ -6178,6 +6250,24 @@
       "duration_ms": 260383,
       "name": "House of Glass",
       "url": "https://open.spotify.com/track/66aHsvy60nqm36rpVf5Nd3"
+    },
+    {
+      "album": {
+        "name": "Rivers of Nihil",
+        "url": "https://open.spotify.com/album/5qwj8HdGnmlctKKAzbbi9m"
+      },
+      "artists": [
+        {
+          "name": "Rivers of Nihil",
+          "url": "https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349360,
+      "name": "House of Light",
+      "url": "https://open.spotify.com/track/4bAZHol7jRDEyrvUoTWN6F"
     },
     {
       "album": {
@@ -7736,7 +7826,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 229440,
       "name": "Lovebite",
       "url": "https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n"
@@ -7924,7 +8014,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 293382,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn"
@@ -8991,6 +9081,24 @@
     },
     {
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/4OsCLyDn92nl4vJp7FH41u"
+      },
+      "artists": [
+        {
+          "name": "Port Noir",
+          "url": "https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292093,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/7L3ocnzkhY2BXKKWBd7xOY"
+    },
+    {
+      "album": {
         "name": "Noonday Devil",
         "url": "https://open.spotify.com/album/4kwiB6JzcCoYH6JRsOoTE2"
       },
@@ -9280,6 +9388,24 @@
       "duration_ms": 173000,
       "name": "Onsra",
       "url": "https://open.spotify.com/track/2hs76oH0fJ5Hbqc2LhoRFY"
+    },
+    {
+      "album": {
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/7MticrE3z3CTM0y3eqwk67"
+      },
+      "artists": [
+        {
+          "name": "Karnivool",
+          "url": "https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369077,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/7hXIGAx0vYm75h9wIt0Wph"
     },
     {
       "album": {
@@ -10058,7 +10184,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 280207,
       "name": "Presence",
       "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
@@ -10120,7 +10246,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 274373,
       "name": "Primal",
       "url": "https://open.spotify.com/track/1B13vdk6J2A567rKDYFiMp"
@@ -10294,7 +10420,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
@@ -11125,6 +11251,24 @@
     },
     {
       "album": {
+        "name": "Beyond Obsidian Euphoria",
+        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mar\u00fam",
+          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422773,
+      "name": "Shallow Ecstasy",
+      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
+    },
+    {
+      "album": {
         "name": "Shapes",
         "url": "https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa"
       },
@@ -11378,7 +11522,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 258526,
       "name": "Smoke of Their Torment",
       "url": "https://open.spotify.com/track/14hM03ZVjzGqiHAo4TMrak"
@@ -13585,6 +13729,24 @@
     },
     {
       "album": {
+        "name": "Waving at the Sky",
+        "url": "https://open.spotify.com/album/0cIqjMVGszUlgY8Aq7v98L"
+      },
+      "artists": [
+        {
+          "name": "AVKRVST",
+          "url": "https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317333,
+      "name": "The Trauma",
+      "url": "https://open.spotify.com/track/1DoOPRw8kP5EZDHVz8BWpN"
+    },
+    {
+      "album": {
         "name": "The Violent Sound",
         "url": "https://open.spotify.com/album/330mPAFxX8ON57T9KfzvMn"
       },
@@ -15172,7 +15334,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 239975,
       "name": "What Is War",
       "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"

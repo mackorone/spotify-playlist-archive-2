@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 18073,
+  "num_followers": 18080,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClJSH2JKSbF/qiSX//OdPiOeLy8",
+  "snapshot_id": "AAAAAHK7cLSkb8TT5Igvnh0EoPTsSLeO",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:36",
+      "album": {
+        "name": "A BOP Song (A Shaboozey Cover)",
+        "url": "https://open.spotify.com/album/1JNI9N9aovGfbhmKalyR46"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 170799,
+      "name": "A BOP Song (A Shaboozey Cover)",
+      "url": "https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN"
+    },
     {
       "added_at": "2026-01-09 05:31:05",
       "album": {
@@ -743,22 +759,6 @@
       "duration_ms": 207653,
       "name": "Popular",
       "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
-    },
-    {
-      "added_at": "2026-01-09 05:31:05",
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 184956,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/0jElcVB3zyu75HmlrbA8XE"
     },
     {
       "added_at": "2026-01-09 05:31:05",

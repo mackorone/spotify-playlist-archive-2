@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: EsDeeKid\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,277 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,306 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 15 | [empty residential \(feat\. WESTSIDE BOOGIE\)](https://open.spotify.com/track/4oYT5fyx2VPLhUlJCJNDii) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [BLIND](https://open.spotify.com/album/69HLWZjsL5W7DSXnHYF6Y8) | 4:07 |
 | 16 | [Do A Trick](https://open.spotify.com/track/37Gw1TDsf01EfANqfvn4M5) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Do A Trick](https://open.spotify.com/album/2SFZiFUpbS56cmY7v859ES) | 2:13 |
 | 17 | [You Think I Don't Know 2026](https://open.spotify.com/track/16f28nynL2BnxgbOiz0cDn) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [You Think I Don't Know 2026](https://open.spotify.com/album/76VX4EjKmeKOiGXrQIQzZI) | 4:06 |
-| 18 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
+| 18 | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [LIT EFFECT \[Feat\. Bktherula & LAZER DIM 700\]](https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ) | 3:27 |
 | 19 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 20 | [Jackpot & Foil \- A COLORS SHOW](https://open.spotify.com/track/3fMtAAd4ZIWxHIv4ahEdHt) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Jackpot & Foil \- A COLORS SHOW](https://open.spotify.com/album/2NB3g3iiys3TMx7ioeMvKd) | 2:16 |
 | 21 | [Flo Jackson](https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Flo Jackson](https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS) | 2:23 |

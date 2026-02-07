@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  L.A.X
 
-893 songs - 1 day 19 hr 29 min
+893 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-07 | 2026-01-15 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-10-14 | 2023-09-29 |
 | [Back & Forth](https://open.spotify.com/track/2989XszQy5GLV5udQSnvKE) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became \(Deluxe Version\)](https://open.spotify.com/album/0mN0nwNdCUQpQayBvLYFrd) | 3:35 | 2021-10-14 | 2022-07-27 |
+| [Bad and Bouje \(feat\. taves\)](https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [HYBRID](https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa) | 2:56 | 2026-02-06 |  |
 | [Bad Belle](https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad Belle](https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d) | 3:26 | 2025-04-07 | 2025-05-17 |
 | [Bad Boy Good Lover](https://open.spotify.com/track/0VNXFNNEjyHLO1rm8SbUvd) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Bad Boy Good Lover](https://open.spotify.com/album/62f6dBkd70E23CWhFFG04t) | 2:10 | 2025-07-18 | 2025-08-01 |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 | 2025-05-31 |
@@ -810,7 +811,6 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-11-16 |
 | [Toxic](https://open.spotify.com/track/3sIksJyo81gKpR5GyT1c8m) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 4:01 | 2022-04-21 | 2022-08-15 |
 | [Toxic Love](https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5) | [Maradona](https://open.spotify.com/artist/06wVF9Sjx2dWGTznkS3GVw), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Toxic Love](https://open.spotify.com/album/1UFB4rx4pD2A93XxU1Ff5w) | 2:15 | 2022-02-10 | 2022-02-14 |
-| [Track 11](https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Track 3](https://open.spotify.com/track/0DIRNsqKK3Vng8f4B23BAF) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Next Rated](https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ) | 3:52 | 2023-10-27 | 2023-11-03 |
 | [Trobul](https://open.spotify.com/track/3mitop70iyN03AreLNsit4) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Trobul](https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS) | 4:02 | 2021-10-14 | 2022-07-27 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-20 | 2023-04-21 |

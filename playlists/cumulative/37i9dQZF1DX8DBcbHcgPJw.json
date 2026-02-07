@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Uri, Mat\u00edas Valdez & Lira",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: The La Planta & Agus Bernasconi",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -600,6 +600,24 @@
       "duration_ms": 198306,
       "name": "Amigos Entre Comillas",
       "url": "https://open.spotify.com/track/5hTm204dhG8tTS3cOJcY2v"
+    },
+    {
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/7Irlz96cYhElwA6iuBWmoU"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187087,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/1GkkY2VlNqWfADvmcyd4e4"
     },
     {
       "album": {
@@ -1824,7 +1842,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204705,
       "name": "Cicactrices",
       "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "CUANDO SALE EL SOL",
       "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
@@ -2678,7 +2696,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 133483,
       "name": "Dame Un Beso",
       "url": "https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe"
@@ -2730,6 +2748,28 @@
       "duration_ms": 192664,
       "name": "De 100 a 0",
       "url": "https://open.spotify.com/track/0qRGHWWeGfBylFP2VPMBWd"
+    },
+    {
+      "album": {
+        "name": "De Ahora En M\u00e1s",
+        "url": "https://open.spotify.com/album/4NNns3geVfYRgO4x7F2VYm"
+      },
+      "artists": [
+        {
+          "name": "Pone La Premier",
+          "url": "https://open.spotify.com/artist/7qv20bMXHsjob4r3uxV6PB"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "De Ahora En M\u00e1s",
+      "url": "https://open.spotify.com/track/0Uf1l3jEA8Cpudla9wTnDj"
     },
     {
       "album": {
@@ -4262,6 +4302,28 @@
       "duration_ms": 196515,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/3naQKuR07Ktb2NqW1s9T1Y"
+    },
+    {
+      "album": {
+        "name": "Estado Emocional",
+        "url": "https://open.spotify.com/album/0CNgzN3hqKBUfSpKDZ9zR0"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144033,
+      "name": "Estado Emocional",
+      "url": "https://open.spotify.com/track/7gTXruUu3npLJqxYdUMqwp"
     },
     {
       "album": {
@@ -7414,7 +7476,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140645,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
@@ -8654,7 +8716,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -12449,6 +12511,28 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/3TUx2R6WCw0zl1al7hN8tq"
+      },
+      "artists": [
+        {
+          "name": "Manu Dal Santo",
+          "url": "https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124468,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/1iOYBlSe5ZCnkM8tVDtSCK"
+    },
+    {
+      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/2zut1qxXZOTntaLVu7GdGF"
       },
@@ -13078,7 +13162,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 237661,
       "name": "Tu Sacaganas / Linda / Lado Triste",
       "url": "https://open.spotify.com/track/4Z7XeOSoNTx11zDae0Gtgz"

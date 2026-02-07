@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Dua Saleh, Bon Iver
 
-798 songs - 1 day 22 hr 11 min
+800 songs - 1 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bad Love God](https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Bad Love God](https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB) | 3:23 | 2024-06-27 | 2024-08-09 |
 | [BAD!](https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [BAD!](https://open.spotify.com/album/5hfJiBLnHNx2RaOE2acqWc) | 2:39 | 2024-07-11 | 2024-10-11 |
 | [bastard](https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [bastard](https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0) | 2:16 | 2025-01-31 | 2025-05-02 |
+| [Battered Chips](https://open.spotify.com/track/2bXownEKgIJMacJFDSfoXN) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Recoup](https://open.spotify.com/album/3j0muxdGqo47ubknQZfBbG) | 3:01 | 2026-02-06 |  |
 | [Behind The Curtain](https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Behind The Curtain](https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM) | 2:37 | 2024-09-05 | 2024-11-01 |
 | [Believe](https://open.spotify.com/track/3XEVA7c2Wm7WzYgJfQppgK) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Believe](https://open.spotify.com/album/6ormJEXkQnAbDrTZUdkZgv) | 3:21 | 2024-08-08 | 2024-10-18 |
 | [Beloved](https://open.spotify.com/track/1EZSldxZEuWVL2S9L9cNoH) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Beloved](https://open.spotify.com/album/4Huxw98rPzbwH7e6sEQRRC) | 3:59 | 2025-07-24 | 2025-11-28 |
@@ -448,6 +449,7 @@
 | [Maybe I Got It Wrong](https://open.spotify.com/track/0mruo27X0hyf51CvH3gPZ0) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Maybe I Got It Wrong](https://open.spotify.com/album/0c1NeWenny0dXK0PG0EzWA) | 3:41 | 2025-07-17 | 2025-08-15 |
 | [MEASURE ME](https://open.spotify.com/track/0YmbGL8wGTW9nJ538LEqnF) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv), [Softlizard](https://open.spotify.com/artist/4pGYioOoAwTF2d44wFGTHM) | [MEASURE ME](https://open.spotify.com/album/5L8bwluc0aeraI6sjNR7VU) | 4:08 | 2024-09-20 | 2024-10-18 |
 | [Mejor Contigo \(Homesick\)](https://open.spotify.com/track/2lPBZtmMVEWbHPBWoCAEKl) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Mejor Contigo \(Homesick\)](https://open.spotify.com/album/7rCP6ztryjUAVod0OiGbZO) | 2:56 | 2025-02-21 | 2025-05-09 |
+| [Miami](https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Miami](https://open.spotify.com/album/76MibAcuxC1HrFcvLYnxKm) | 3:39 | 2026-02-06 |  |
 | [Midnight](https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 4:58 | 2024-06-27 | 2024-09-06 |
 | [Midnight Oil](https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 3:26 | 2024-10-03 | 2024-11-15 |
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-12 | 2024-11-08 |
@@ -555,7 +557,7 @@
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-08-07 | 2025-11-28 |
 | [Post Romance](https://open.spotify.com/track/7p5hSZgshzsERQyTj3gXZh) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Post Romance](https://open.spotify.com/album/58PgUMhfc95w6sXHxLLIUc) | 3:55 | 2025-02-07 | 2025-03-28 |
 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 | 2025-08-14 | 2026-02-06 |
-| [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-01-30 |  |
+| [praxis](https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [praxis](https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0) | 3:28 | 2026-01-30 | 2026-02-07 |
 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 | 2024-12-23 | 2025-02-14 |
 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 | 2024-10-17 | 2025-02-14 |
 | [Precognition](https://open.spotify.com/track/06nyrZz7wEijSlZXxXg5EJ) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Precognition](https://open.spotify.com/album/08LAG64GAPO5Xb3DEmlK2M) | 2:57 | 2025-12-12 | 2026-02-06 |
@@ -678,7 +680,7 @@
 | [Talk Talk Talk](https://open.spotify.com/track/2AcvdEAVDfdXxlWoi82apC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Talk Talk Talk](https://open.spotify.com/album/2i9bKhZ9HOdYWLAS92fARL) | 3:54 | 2025-02-21 | 2025-04-05 |
 | [TARDIS \(hardest\)](https://open.spotify.com/track/5XlyC4ikr1PilocqG2KrBn) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TARDIS \(hardest\)](https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L) | 4:33 | 2024-10-10 | 2025-02-14 |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-06-27 | 2024-10-04 |
-| [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 | 2025-10-16 |  |
+| [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 | 2025-10-16 | 2026-02-07 |
 | [television](https://open.spotify.com/track/1NDk9nqc215p1MNWpNOG3g) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [television](https://open.spotify.com/album/0gswRfkbdRuvktQ7aq052g) | 3:31 | 2025-02-14 | 2025-05-16 |
 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 | 2025-10-16 |  |
 | [Tempest](https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Tempest](https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI) | 4:56 | 2025-03-07 | 2025-05-30 |

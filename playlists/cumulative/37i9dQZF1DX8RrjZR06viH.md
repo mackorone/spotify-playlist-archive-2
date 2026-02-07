@@ -4,7 +4,7 @@
 
 > ❄️❄️❄️
 
-296 songs - 15 hr 26 min
+297 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-13 | 2025-07-19 |
 | [Fineste Dama På Utestedet](https://open.spotify.com/track/0VJAnLZlBHZIPsRcBW3kSw) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Fineste Dama På Utestedet](https://open.spotify.com/album/7pU45MsJfs2xoqC34wPKeV) | 2:44 | 2025-06-26 | 2025-09-19 |
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-17 | 2025-05-07 |
+| [For alltid](https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [ETTERGLØD](https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3) | 4:01 | 2026-02-05 |  |
 | [forever on my mind](https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [forever on my mind](https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p) | 2:53 | 2024-10-24 | 2025-01-10 |
 | [Free My Mind](https://open.spotify.com/track/1C5zAJjoB3cdMBu7Xse28r) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Free My Mind](https://open.spotify.com/album/5uRciE7HeFREekWm21S2qC) | 3:02 | 2025-09-18 | 2025-11-29 |
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 | 2024-10-25 |
@@ -184,7 +185,7 @@
 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-10-31 |  |
 | [Min](https://open.spotify.com/track/36lRSnUiM2e2pNqPOEhgZg) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/0SlOVlA86frJaQXSMi75YQ) | 2:25 | 2025-09-11 | 2025-11-07 |
 | [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-05 | 2025-01-25 |
-| [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-09 |  |
+| [Mira](https://open.spotify.com/track/3xbSexiVMsTaqlWW2tyt8s) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Mira](https://open.spotify.com/album/2OBxw92JrtGREndgAnWkCz) | 3:43 | 2025-10-09 | 2026-02-07 |
 | [Miste huet](https://open.spotify.com/track/2se3rw5jBytcnk2xDCW2Jb) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU), [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Miste huet](https://open.spotify.com/album/3XKZriJLIHInSAQQEW5Ut1) | 2:57 | 2025-07-17 | 2026-01-16 |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-17 | 2025-06-13 |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 | 2025-05-03 |

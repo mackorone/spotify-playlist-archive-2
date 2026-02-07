@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "13th Reason",
+        "url": "https://open.spotify.com/album/0wgOoQeuodDBhygSpr3uwQ"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137164,
+      "name": "13th Reason",
+      "url": "https://open.spotify.com/track/7roCU2sMUrCuK71CJVRCLG"
+    },
+    {
+      "album": {
         "name": "1448",
         "url": "https://open.spotify.com/album/4DuzTS8Esqg6Qf9TzeLWIE"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168766,
       "name": "2 Crash Outs (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2sQGacYminlTtshdBM81sx"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 126316,
       "name": "2 Sides To Every Story",
       "url": "https://open.spotify.com/track/41zfQ7zCfewpZqAtcGlfEa"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -5620,7 +5638,7 @@
       },
       "artists": [
         {
-          "name": "Bktherula",
+          "name": "BKTHERULA",
           "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
@@ -6860,7 +6878,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163636,
       "name": "Boat Remix",
       "url": "https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra"
@@ -7666,6 +7684,24 @@
       "duration_ms": 107586,
       "name": "BRB",
       "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
+    },
+    {
+      "album": {
+        "name": "Bread Winner",
+        "url": "https://open.spotify.com/album/72FpeH5et2YYWijIVEhdyo"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136717,
+      "name": "Bread Winner",
+      "url": "https://open.spotify.com/track/2An1ZbV77x5TA912KnLfO6"
     },
     {
       "album": {
@@ -9018,7 +9054,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 138668,
       "name": "CATCHYOUOUT",
       "url": "https://open.spotify.com/track/7B3mza0QyDuJkjvASsRxih"
@@ -12640,7 +12676,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 195789,
       "name": "Dirty Diana",
       "url": "https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT"
@@ -14102,6 +14138,24 @@
       "duration_ms": 138016,
       "name": "DUCKIN'",
       "url": "https://open.spotify.com/track/3RDm9iDnagNrWIoimEephO"
+    },
+    {
+      "album": {
+        "name": "Due To All",
+        "url": "https://open.spotify.com/album/2LOM0j6wHXiCUOcKZnh2iG"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "Due To All",
+      "url": "https://open.spotify.com/track/55sO8kSEqDtvRnebC4pXoA"
     },
     {
       "album": {
@@ -15722,6 +15776,42 @@
       "duration_ms": 192078,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/2aNdo4lf94W7YGaSIKuoKd"
+    },
+    {
+      "album": {
+        "name": "features",
+        "url": "https://open.spotify.com/album/1IaG6H6K5wrBN8bZ2JB8VV"
+      },
+      "artists": [
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103449,
+      "name": "features",
+      "url": "https://open.spotify.com/track/7GIPYRB6nhApPQwh8nUrXl"
+    },
+    {
+      "album": {
+        "name": "Fed Up",
+        "url": "https://open.spotify.com/album/1Mv3Yja7QDRWYDPL1NYIL5"
+      },
+      "artists": [
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85248,
+      "name": "Fed Up",
+      "url": "https://open.spotify.com/track/2GhrZWAyh1ovRU50h5tf6l"
     },
     {
       "album": {
@@ -19918,6 +20008,36 @@
       "duration_ms": 160824,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/61vp2Gh0Ggz9tWHqe8vEQQ"
+    },
+    {
+      "album": {
+        "name": "GUAPO",
+        "url": "https://open.spotify.com/album/6hnc9sPkRo0VvjFM7TNvoe"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        },
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        },
+        {
+          "name": "thickney",
+          "url": "https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186566,
+      "name": "GUAPO",
+      "url": "https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK"
     },
     {
       "album": {
@@ -24158,7 +24278,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 105999,
       "name": "Jagger",
       "url": "https://open.spotify.com/track/1Xo1xMK0kBA7W8KpoizQwf"
@@ -25322,6 +25442,24 @@
       "duration_ms": 190186,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc"
+    },
+    {
+      "album": {
+        "name": "Mrs.Key (Deluxe)",
+        "url": "https://open.spotify.com/album/6lKYq1KOa3lim180CDXNsq"
+      },
+      "artists": [
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164760,
+      "name": "KEY3VA",
+      "url": "https://open.spotify.com/track/0Ad4QbdDI0VrX5B653HLLX"
     },
     {
       "album": {
@@ -27962,7 +28100,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 93344,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/2neUZpYZok4WhZGOJdv94w"
@@ -31120,7 +31258,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 124235,
       "name": "My Life",
       "url": "https://open.spotify.com/track/5yZhRkybiHrVfcJP63Xbo6"
@@ -33002,7 +33140,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192000,
       "name": "no smoke",
       "url": "https://open.spotify.com/track/3UXPQ1XT2ZdFxfwgBPCAZ5"
@@ -33518,10 +33656,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER II",
+        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158357,
+      "name": "NOW OR NEVER II",
+      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
       "album": {
@@ -34098,6 +34258,24 @@
       "duration_ms": 142400,
       "name": "Ol\u00e9 Ol\u00e9",
       "url": "https://open.spotify.com/track/4flACQjRqzX5Q4Hdil5ehP"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
     },
     {
       "album": {
@@ -35519,6 +35697,24 @@
     },
     {
       "album": {
+        "name": "Over Now",
+        "url": "https://open.spotify.com/album/1bG9jHlgeUDv4D6Ld5PZ3s"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101204,
+      "name": "Over Now",
+      "url": "https://open.spotify.com/track/3zEGtcD7rSiT8OIHBsw1LF"
+    },
+    {
+      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1HOEz50Or66Kp1W4CE9c3C"
       },
@@ -36654,6 +36850,24 @@
       "duration_ms": 133182,
       "name": "Pickin\u2019 Sides (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/0uX7dGC07Dd8mpvnCcWzH0"
+    },
+    {
+      "album": {
+        "name": "PIERCING ON MY HAND",
+        "url": "https://open.spotify.com/album/61m68G4BXancb8MdOMKwZl"
+      },
+      "artists": [
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "PIERCING ON MY HAND",
+      "url": "https://open.spotify.com/track/6stU5s5y7HKBw9g1KGLgZf"
     },
     {
       "album": {
@@ -45171,6 +45385,28 @@
     },
     {
       "album": {
+        "name": "Not One Of Them",
+        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196378,
+      "name": "Stone Cold (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
+    },
+    {
+      "album": {
         "name": "Stonecrest",
         "url": "https://open.spotify.com/album/7lJ85CYzlQx2LIFtKZi4fx"
       },
@@ -49282,7 +49518,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 224512,
       "name": "twin towers",
       "url": "https://open.spotify.com/track/0Kyrgo5KTDVNx05iGkwz0Q"

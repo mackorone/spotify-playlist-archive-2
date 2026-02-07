@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 240978,
       "name": "Divine Soul",
       "url": "https://open.spotify.com/track/1bQtUX6upOjXYL31H0D0eh"
@@ -1978,6 +1978,24 @@
       "duration_ms": 264783,
       "name": "Find the day",
       "url": "https://open.spotify.com/track/4DqnsdycEP5kLYdvyhulDz"
+    },
+    {
+      "album": {
+        "name": "fireborn spirits",
+        "url": "https://open.spotify.com/album/1KDvoBNqkurSkzRIjRhvQB"
+      },
+      "artists": [
+        {
+          "name": "yamato",
+          "url": "https://open.spotify.com/artist/7kUjTRQK0xNhTKazBTHuGV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123966,
+      "name": "fireborn spirits",
+      "url": "https://open.spotify.com/track/6JIJ4UlZzSAEYSBR29g2F9"
     },
     {
       "album": {
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 117366,
       "name": "muse",
       "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
@@ -4038,7 +4056,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197616,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
@@ -4571,6 +4589,28 @@
     },
     {
       "album": {
+        "name": "Osaka & Kyoto",
+        "url": "https://open.spotify.com/album/6hINe6GkfIr33X4frUtnLd"
+      },
+      "artists": [
+        {
+          "name": "oxinym",
+          "url": "https://open.spotify.com/artist/2HzakzAFsbcNVwShi8AXL3"
+        },
+        {
+          "name": "Swik",
+          "url": "https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114424,
+      "name": "Osaka",
+      "url": "https://open.spotify.com/track/5043oZixtvqcPwbfpQnNo3"
+    },
+    {
+      "album": {
         "name": "Our Cinema #1 - Someone Special",
         "url": "https://open.spotify.com/album/1xn2D8pK6x33cOM8jXKlzS"
       },
@@ -4882,7 +4922,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 153141,
       "name": "Quand nos chemins se sont crois\u00e9s",
       "url": "https://open.spotify.com/track/70gd9WInVO95UR7WZZB6sl"
@@ -6026,6 +6066,24 @@
       "duration_ms": 196773,
       "name": "SuperMoon",
       "url": "https://open.spotify.com/track/25xBsASRnYwryM5Ftb7pZQ"
+    },
+    {
+      "album": {
+        "name": "SINWA",
+        "url": "https://open.spotify.com/album/7iUwBh0P1IeS0itRue2fuz"
+      },
+      "artists": [
+        {
+          "name": "Shirogarasu",
+          "url": "https://open.spotify.com/artist/6o1yTtJLXbHHJkAsqpmmka"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127875,
+      "name": "Susanoo",
+      "url": "https://open.spotify.com/track/7GXBC1a9SFF4KeZt9dYSfx"
     },
     {
       "album": {
@@ -7208,6 +7266,28 @@
       "duration_ms": 145054,
       "name": "Yugen",
       "url": "https://open.spotify.com/track/0StrXVWeTBblvc2gPTcHdR"
+    },
+    {
+      "album": {
+        "name": "yukiguni",
+        "url": "https://open.spotify.com/album/4WmBRzlD9e0QW1ne3fxLE3"
+      },
+      "artists": [
+        {
+          "name": "yamato",
+          "url": "https://open.spotify.com/artist/7kUjTRQK0xNhTKazBTHuGV"
+        },
+        {
+          "name": "Shirogarasu",
+          "url": "https://open.spotify.com/artist/6o1yTtJLXbHHJkAsqpmmka"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "yukiguni",
+      "url": "https://open.spotify.com/track/0Qq6xVsUCHbpuRGc7nfYlD"
     },
     {
       "album": {

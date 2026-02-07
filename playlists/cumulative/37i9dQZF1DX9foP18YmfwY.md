@@ -4,12 +4,12 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-229 songs - 18 hr 28 min
+230 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Casa é Sua](https://open.spotify.com/track/3vTzc50vz03dnmg9EC78FC) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [A Casa é Sua](https://open.spotify.com/album/52tDYBCzgTkXhwzuYZooAJ) | 4:32 | 2024-06-14 |  |
-| [A graça de Dialogar](https://open.spotify.com/track/1jxEMmBFnAOoBcYOEfUDX8) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Pe\. José Ronaldo Gouvêa scj](https://open.spotify.com/artist/71okCHZxvcKQY4qC7nIGws) | [Canções de Esperança e Diálogo](https://open.spotify.com/album/6p5eFtruheRvxVQTiINWW7) | 3:25 | 2025-12-15 |  |
+| [A graça de Dialogar](https://open.spotify.com/track/1jxEMmBFnAOoBcYOEfUDX8) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Pe\. José Ronaldo Gouvêa scj](https://open.spotify.com/artist/71okCHZxvcKQY4qC7nIGws) | [Canções de Esperança e Diálogo](https://open.spotify.com/album/6p5eFtruheRvxVQTiINWW7) | 3:25 | 2025-12-15 | 2026-02-07 |
 | [A Nossa Fé \- Ao Vivo](https://open.spotify.com/track/7LWmTcxqq9igT3mxJz6jQe) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [A Nossa Fé \(Ao Vivo\)](https://open.spotify.com/album/4DVTYxIR9KjmRnxPKthIpP) | 12:04 | 2024-10-25 |  |
 | [A Tua Ternura](https://open.spotify.com/track/4hvjddkw3ZP1Icx9D0wZOE) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A Tua Ternura](https://open.spotify.com/album/5QslSAQyAZKQXVjIeVtdjF) | 3:18 | 2023-11-24 | 2024-04-19 |
 | [A tua ternura](https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [A tua ternura](https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt) | 3:21 | 2022-09-02 |  |
@@ -205,6 +205,7 @@
 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 | 2024-09-27 |  |
 | [Servo por Amor](https://open.spotify.com/track/10kzewzYJdNpBUvWhSHl1Q) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Banda Dominus](https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV) | [Servo por Amor](https://open.spotify.com/album/6dvUhJyW2xoxhl2lWm9zhG) | 3:15 | 2024-08-30 | 2024-11-16 |
 | [Silêncio da Oração](https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Silêncio da Oração](https://open.spotify.com/album/1B4NE3b1ck5FJhxWNg2sEf) | 2:12 | 2023-03-24 | 2023-05-13 |
+| [Sim É Teu Meu Coração](https://open.spotify.com/track/5Z2CtDh4chrWbpBDhgPRoG) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Danúbia M.J](https://open.spotify.com/artist/762pk5Ca7DqG7Nf8IRaVYR) | [Sim É Teu Meu Coração](https://open.spotify.com/album/15RU1iiVt9YqZnCPz8Z3Hv) | 4:06 | 2026-02-06 |  |
 | [Sobe a Jerusalém](https://open.spotify.com/track/1KkG6Vnrux9RnnHzqaZS4I) | [Karen Keldani](https://open.spotify.com/artist/4lhB85LQ757J5BK17p94Jh), [Joanna](https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02) | [Sobe a Jerusalém](https://open.spotify.com/album/6soX1Gf0eYtrFoB4fJB3cr) | 2:25 | 2022-12-10 | 2023-01-14 |
 | [Sobre a Dúvida: In Concert \- Ao Vivo](https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q) | 5:03 | 2023-12-22 | 2024-07-19 |
 | [Sobre o Tempo e o Coração](https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Sobre o Tempo e o Coração](https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV) | 4:51 | 2022-11-25 | 2023-02-11 |

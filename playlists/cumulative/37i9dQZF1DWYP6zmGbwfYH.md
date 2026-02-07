@@ -4,7 +4,7 @@
 
 > El icuiricui, el matalacachimba y el ruletero.
 
-350 songs - 20 hr 38 min
+351 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 | 2024-03-15 | 2025-08-14 |
 | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby) | [Fany y sus Tropicales](https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393) | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh) | 3:11 | 2024-03-15 | 2024-11-07 |
 | [Nadie](https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Vida En Vida](https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t) | 3:41 | 2021-10-12 | 2024-01-27 |
-| [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 | 2025-08-13 |  |
+| [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 | 2025-08-13 | 2026-02-07 |
 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 | 2023-06-02 | 2023-11-10 |
 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 | 2026-01-21 |  |
 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 | 2021-10-12 | 2024-04-19 |
@@ -346,6 +346,7 @@
 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 | 2021-10-12 |  |
 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 | 2021-10-12 | 2024-04-19 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-06-20 |  |
+| [Y Si Te Quedas, Que?](https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak) | [Carlos D'Castro](https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE) | [Y Si Te Quedas, Que?](https://open.spotify.com/album/4dAkXsd5DLwTJjT0enyi2Q) | 4:22 | 2026-01-21 |  |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2023-06-02 | 2024-01-27 |
 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 | 2025-08-13 |  |
 | [Ya Borracho](https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Noches Sin Fin](https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM) | 2:38 | 2026-01-21 |  |

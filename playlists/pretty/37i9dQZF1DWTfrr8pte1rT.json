@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 347737,
+  "num_followers": 347768,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1355,18 +1355,22 @@
     {
       "added_at": "2025-12-19 05:00:31",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
       "artists": [
         {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 126129,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
     },
     {
       "added_at": "2025-12-19 05:00:31",
@@ -1391,22 +1395,18 @@
     {
       "added_at": "2025-12-19 05:00:31",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
       },
       "artists": [
         {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+      "duration_ms": 126129,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3"
     },
     {
       "added_at": "2025-12-19 05:00:31",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2025-12-19 05:00:31",
       "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:31",
-      "album": {
         "name": "Sugar, We're Goin Down",
         "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 209210,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+    },
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2025-12-19 05:00:31",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2025-12-19 05:00:31",
       "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
-    },
-    {
-      "added_at": "2025-12-19 05:00:31",
-      "album": {
         "name": "Lean Onto Me",
         "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 211200,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
+    },
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
     },
     {
       "added_at": "2025-12-19 05:00:31",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2025-12-19 05:00:31",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Echos",
+          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
+        }
+      ],
+      "duration_ms": 246193,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
         "name": "Warzone",
         "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
       },
@@ -2419,6 +2439,26 @@
       "duration_ms": 162916,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
+    },
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+        }
+      ],
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2025-12-19 05:00:31",
@@ -2443,46 +2483,6 @@
       "duration_ms": 236842,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
-    },
-    {
-      "added_at": "2025-12-19 05:00:31",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
-      },
-      "artists": [
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        },
-        {
-          "name": "Echos",
-          "url": "https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR"
-        }
-      ],
-      "duration_ms": 246193,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
-    },
-    {
-      "added_at": "2025-12-19 05:00:31",
-      "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
-        }
-      ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     }
   ],
   "unique_name": "Rocktronic",

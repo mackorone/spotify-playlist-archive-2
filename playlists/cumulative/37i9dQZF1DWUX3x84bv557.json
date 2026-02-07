@@ -16389,6 +16389,24 @@
     },
     {
       "album": {
+        "name": "Kleinkunst",
+        "url": "https://open.spotify.com/album/0dVJ6kqv5wj2qDUobhMdAe"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/2NhflROyhPgc2AtDjRo9bC"
+    },
+    {
+      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
       },
@@ -20370,7 +20388,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140625,
       "name": "Voor M'n Deur",
       "url": "https://open.spotify.com/track/4dolay7QGIGsqyp5uXEAAv"

@@ -1,6 +1,6 @@
 {
   "description": "The calming space of Japanese Ambient and Environmental music. ",
-  "num_followers": 158200,
+  "num_followers": 158266,
   "original_name": "Ambient Japan",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "eau",
-        "url": "https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o"
+        "name": "Resonance",
+        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
       },
       "artists": [
         {
-          "name": "aus",
-          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+          "name": "Yumiko Morioka",
+          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
         }
       ],
-      "duration_ms": 354000,
-      "name": "Variation I",
-      "url": "https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ"
+      "duration_ms": 235266,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Resonance",
-        "url": "https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk"
+        "name": "eau",
+        "url": "https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o"
       },
       "artists": [
         {
-          "name": "Yumiko Morioka",
-          "url": "https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o"
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/15Dz5HggGfcT8zJkYQCB71"
+      "duration_ms": 354000,
+      "name": "Variation I",
+      "url": "https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
-      },
-      "artists": [
-        {
-          "name": "Weatherson",
-          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Look At My Snowman",
-      "url": "https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "Dan Da Dan (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 176653,
       "name": "okarun's life",
       "url": "https://open.spotify.com/track/3H2YFr8ESaWSmNGMO8usXe"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Look At My Snowman",
+      "url": "https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "Mu",
         "url": "https://open.spotify.com/album/0cArAePIURFrsTkGfAF2FO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 182500,
       "name": "Jigyou",
       "url": "https://open.spotify.com/track/2gCpfY4G4JeRbpafYg727w"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/7BszHuPZtbiKu0z4nZoF07"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 97026,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 306700,
       "name": "\u30b6\u30fb\u30df\u30e9\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7BszHuPZtbiKu0z4nZoF07"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 97026,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
-      },
-      "artists": [
-        {
-          "name": "Weatherson",
-          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Her After Bath",
-      "url": "https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "\u6f02\u5931",
         "url": "https://open.spotify.com/album/6S0HAqS4jFeTbvwwS7AjCh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 345500,
       "name": "\u6f02\u5931",
       "url": "https://open.spotify.com/track/5Jc7G1wCxHexeZmiYiixle"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
+      },
+      "artists": [
+        {
+          "name": "Weatherson",
+          "url": "https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Her After Bath",
+      "url": "https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/0JpWn8pgEvjasxIXUbzqdX"
+        "name": "Elegance of Nature",
+        "url": "https://open.spotify.com/album/6z6JDeMbGyvNgBegDyb3wv"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
         }
       ],
-      "duration_ms": 258966,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/5yEQvG85ZcngJiU8w97mgl"
+      "duration_ms": 344690,
+      "name": "Elegance of Nature",
+      "url": "https://open.spotify.com/track/0ZnL1YP4Bc6BOGSqSNst1G"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
+        "name": "Hachirogata Lake",
+        "url": "https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 348373,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/7l8yPCXB66bLXVSBEjqWtO"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
         "name": "Hikari no kaikou",
         "url": "https://open.spotify.com/album/4wiqics4KOw3tjxMwH8ahU"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Hachirogata Lake",
-        "url": "https://open.spotify.com/album/2mWRW0iRCW4p5y4664IIky"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 348373,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/7l8yPCXB66bLXVSBEjqWtO"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "My Story, The Buraku Story (An Original Soundtrack)",
         "url": "https://open.spotify.com/album/3xPYYJCZLvg3LpjK2xWVrP"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Meditate Tree",
-        "url": "https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5"
+        "name": "ease",
+        "url": "https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL"
       },
       "artists": [
         {
-          "name": "KENJI KIHARA",
-          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Meditate Tree",
-      "url": "https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb"
+      "duration_ms": 170242,
+      "name": "ease",
+      "url": "https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "ease",
-        "url": "https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL"
+        "name": "Meditate Tree",
+        "url": "https://open.spotify.com/album/07dwyiZBrQmoaQvOolbHI5"
       },
       "artists": [
         {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
         }
       ],
-      "duration_ms": 170242,
-      "name": "ease",
-      "url": "https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb"
+      "duration_ms": 169411,
+      "name": "Meditate Tree",
+      "url": "https://open.spotify.com/track/3UrXhetqxfROItPT6URWHb"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "londonderry air",
-        "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
-      },
-      "artists": [
-        {
-          "name": "Shin Ichikawa",
-          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
-        }
-      ],
-      "duration_ms": 181829,
-      "name": "londonderry air",
-      "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "Plop",
         "url": "https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 204000,
       "name": "Plop",
       "url": "https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "londonderry air",
+        "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
+      },
+      "artists": [
+        {
+          "name": "Shin Ichikawa",
+          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "londonderry air",
+      "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Glow In The Dark",
-        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
-      },
-      "artists": [
-        {
-          "name": "Shuta Yasukochi",
-          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
-        }
-      ],
-      "duration_ms": 284775,
-      "name": "Cave",
-      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/0lbBP62BrruZ4TYc4NFetE"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
-        "url": "https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a"
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/4OBcGLdoX99h1hbXv8gMIl"
       },
       "artists": [
         {
-          "name": "cleaned",
-          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
+          "name": "Shuta Yasukochi",
+          "url": "https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui"
         }
       ],
-      "duration_ms": 692300,
-      "name": "\u30af\u30e9\u30e0\u30dc\u30f3\u306e\u7791\u60f3- Meditation of Clammbon",
-      "url": "https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8"
+      "duration_ms": 284775,
+      "name": "Cave",
+      "url": "https://open.spotify.com/track/6N0N4lB5i3X0vBrym9esAa"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1831,22 +1815,6 @@
       "duration_ms": 111428,
       "name": "splashes of ink",
       "url": "https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
-        "name": "\u30e1\u30f3\u30bf\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc\u304c\u3059\u3059\u3081\u308b\u4e0d\u5b89\u89e3\u6d88\u3001\u5b89\u7720\u30d2\u30fc\u30ea\u30f3\u30b0 \u301c\u81ea\u7136\u3068\u3064\u306a\u304c\u308b\u97f3\u697d\u301c",
-        "url": "https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17"
-      },
-      "artists": [
-        {
-          "name": "CROIX HEALING",
-          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
-        }
-      ],
-      "duration_ms": 312272,
-      "name": "\u68ee\u306e\u3056\u308f\u3081\u304d",
-      "url": "https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1875,6 +1843,54 @@
       "duration_ms": 324882,
       "name": "IQAMURAH",
       "url": "https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
+        "url": "https://open.spotify.com/album/1Z4lvGOqC5H6rDfkeJre8a"
+      },
+      "artists": [
+        {
+          "name": "cleaned",
+          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
+        }
+      ],
+      "duration_ms": 692300,
+      "name": "\u30af\u30e9\u30e0\u30dc\u30f3\u306e\u7791\u60f3- Meditation of Clammbon",
+      "url": "https://open.spotify.com/track/5pjPli1o6JBDVxtdvWi4j8"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "shade",
+        "url": "https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Teruyama",
+          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
+        }
+      ],
+      "duration_ms": 113213,
+      "name": "shade",
+      "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "\u30e1\u30f3\u30bf\u30eb\u30c8\u30ec\u30fc\u30ca\u30fc\u304c\u3059\u3059\u3081\u308b\u4e0d\u5b89\u89e3\u6d88\u3001\u5b89\u7720\u30d2\u30fc\u30ea\u30f3\u30b0 \u301c\u81ea\u7136\u3068\u3064\u306a\u304c\u308b\u97f3\u697d\u301c",
+        "url": "https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17"
+      },
+      "artists": [
+        {
+          "name": "CROIX HEALING",
+          "url": "https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "\u68ee\u306e\u3056\u308f\u3081\u304d",
+      "url": "https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -1911,38 +1927,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "shade",
-        "url": "https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc"
-      },
-      "artists": [
-        {
-          "name": "Masafumi Teruyama",
-          "url": "https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P"
-        }
-      ],
-      "duration_ms": 113213,
-      "name": "shade",
-      "url": "https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
-        "name": "Gallery window",
-        "url": "https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq"
-      },
-      "artists": [
-        {
-          "name": "iu takahashi",
-          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
-        }
-      ],
-      "duration_ms": 211625,
-      "name": "Gallery window",
-      "url": "https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "northern wind",
         "url": "https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD"
       },
@@ -1963,6 +1947,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
+        "name": "Gallery window",
+        "url": "https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq"
+      },
+      "artists": [
+        {
+          "name": "iu takahashi",
+          "url": "https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ"
+        }
+      ],
+      "duration_ms": 211625,
+      "name": "Gallery window",
+      "url": "https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
         "name": "Wash Away",
         "url": "https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq"
       },
@@ -1975,22 +1975,6 @@
       "duration_ms": 181132,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
-        "name": "June Love",
-        "url": "https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO"
-      },
-      "artists": [
-        {
-          "name": "\u677e\ufa11\u88d5\u5b50",
-          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
-        }
-      ],
-      "duration_ms": 165706,
-      "name": "June Love",
-      "url": "https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2011,6 +1995,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
+        "name": "June Love",
+        "url": "https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO"
+      },
+      "artists": [
+        {
+          "name": "\u677e\ufa11\u88d5\u5b50",
+          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
+        }
+      ],
+      "duration_ms": 165706,
+      "name": "June Love",
+      "url": "https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
         "name": "Planet",
         "url": "https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Best of Fumio: Music for Sleep",
-        "url": "https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V"
-      },
-      "artists": [
-        {
-          "name": "Fumio Miyashita",
-          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
-        }
-      ],
-      "duration_ms": 416266,
-      "name": "Hana",
-      "url": "https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "In The Mists of Time",
         "url": "https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 288000,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Best of Fumio: Music for Sleep",
+        "url": "https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V"
+      },
+      "artists": [
+        {
+          "name": "Fumio Miyashita",
+          "url": "https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr"
+        }
+      ],
+      "duration_ms": 416266,
+      "name": "Hana",
+      "url": "https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "hikari umi",
-        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+        "name": "727",
+        "url": "https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "katsuya mouri",
+          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
         }
       ],
-      "duration_ms": 194000,
-      "name": "light seeing 3-3",
-      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
+      "duration_ms": 209725,
+      "name": "727",
+      "url": "https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2131,6 +2131,38 @@
       "duration_ms": 128146,
       "name": "vein",
       "url": "https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Vein City",
+        "url": "https://open.spotify.com/album/4bbCNoen5ZyurPFxzvGeei"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Psychedelic Orchestra",
+          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Vein City",
+      "url": "https://open.spotify.com/track/7EXGCsLaZ7cpqZUd20OnQh"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "hikari umi",
+        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "light seeing 3-3",
+      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2155,18 +2187,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "727",
-        "url": "https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja"
+        "name": "Prepare",
+        "url": "https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ"
       },
       "artists": [
         {
-          "name": "katsuya mouri",
-          "url": "https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2"
+          "name": "Akisai",
+          "url": "https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5"
+        },
+        {
+          "name": "Tsunami Sounds",
+          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
         }
       ],
-      "duration_ms": 209725,
-      "name": "727",
-      "url": "https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5"
+      "duration_ms": 186368,
+      "name": "Prepare",
+      "url": "https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2183,26 +2219,6 @@
       "duration_ms": 271866,
       "name": "The Big Blue Star Impossible to Imagine",
       "url": "https://open.spotify.com/track/4yKd720PDsj6ZadrmJ9ESa"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
-        "name": "After the Thaw, We All Breath Again (aus Version)",
-        "url": "https://open.spotify.com/album/0eLhy4Im7QxnJmYqPwyaAV"
-      },
-      "artists": [
-        {
-          "name": "Cicada",
-          "url": "https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC"
-        },
-        {
-          "name": "aus",
-          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
-        }
-      ],
-      "duration_ms": 317533,
-      "name": "After the Thaw, We All Breathe Again - aus Version",
-      "url": "https://open.spotify.com/track/3hgxAPcAiVzMjF3i4DpFcy"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2227,38 +2243,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Prepare",
-        "url": "https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ"
+        "name": "After the Thaw, We All Breath Again (aus Version)",
+        "url": "https://open.spotify.com/album/0eLhy4Im7QxnJmYqPwyaAV"
       },
       "artists": [
         {
-          "name": "Akisai",
-          "url": "https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5"
+          "name": "Cicada",
+          "url": "https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC"
         },
         {
-          "name": "Tsunami Sounds",
-          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
         }
       ],
-      "duration_ms": 186368,
-      "name": "Prepare",
-      "url": "https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
-        "name": "Vein City",
-        "url": "https://open.spotify.com/album/4bbCNoen5ZyurPFxzvGeei"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Psychedelic Orchestra",
-          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Vein City",
-      "url": "https://open.spotify.com/track/7EXGCsLaZ7cpqZUd20OnQh"
+      "duration_ms": 317533,
+      "name": "After the Thaw, We All Breathe Again - aus Version",
+      "url": "https://open.spotify.com/track/3hgxAPcAiVzMjF3i4DpFcy"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Tribute to Ryuichi Sakamoto \"Micro Ambient Music\" Vol. 5",
-        "url": "https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo"
+        "name": "Moon Dance in Tokyo",
+        "url": "https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr"
       },
       "artists": [
         {
-          "name": "Tomoyoshi Date",
-          "url": "https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR"
+          "name": "Tokyo Psychedelic Orchestra",
+          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
         }
       ],
-      "duration_ms": 362000,
-      "name": "Placement Of The Drops",
-      "url": "https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC"
+      "duration_ms": 154128,
+      "name": "Moon Dance in Tokyo",
+      "url": "https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2327,18 +2327,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Moon Dance in Tokyo",
-        "url": "https://open.spotify.com/album/07BA8mB6Q7tC9uJ5ySSTPr"
+        "name": "Tribute to Ryuichi Sakamoto \"Micro Ambient Music\" Vol. 5",
+        "url": "https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo"
       },
       "artists": [
         {
-          "name": "Tokyo Psychedelic Orchestra",
-          "url": "https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI"
+          "name": "Tomoyoshi Date",
+          "url": "https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR"
         }
       ],
-      "duration_ms": 154128,
-      "name": "Moon Dance in Tokyo",
-      "url": "https://open.spotify.com/track/75gDBaEbluCQhtnEM8diCY"
+      "duration_ms": 362000,
+      "name": "Placement Of The Drops",
+      "url": "https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2375,26 +2375,6 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Whales",
-        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
-      },
-      "artists": [
-        {
-          "name": "Tsugi-Hagi",
-          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
-        },
-        {
-          "name": "Republyric",
-          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
-        }
-      ],
-      "duration_ms": 203389,
-      "name": "Whales",
-      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
-    },
-    {
-      "added_at": "2026-01-31 02:45:11",
-      "album": {
         "name": "\u7cbe\u970a\u306e\u8e0a\u308a (Dance of Spirits)",
         "url": "https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm"
       },
@@ -2411,18 +2391,22 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Air Dance",
-        "url": "https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819"
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
       },
       "artists": [
         {
-          "name": "Sachi Kobayashi",
-          "url": "https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT"
+          "name": "Tsugi-Hagi",
+          "url": "https://open.spotify.com/artist/0bEvPjEKvNenhsbb5G1Dsf"
+        },
+        {
+          "name": "Republyric",
+          "url": "https://open.spotify.com/artist/4t70vDHESh6Jdf6yi3JsOP"
         }
       ],
-      "duration_ms": 249133,
-      "name": "Communication",
-      "url": "https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN"
+      "duration_ms": 203389,
+      "name": "Whales",
+      "url": "https://open.spotify.com/track/4iZyoZ5YJtKtgOeDoU5HF0"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2459,18 +2443,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "Kernel",
-        "url": "https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq"
+        "name": "Air Dance",
+        "url": "https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819"
       },
       "artists": [
         {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+          "name": "Sachi Kobayashi",
+          "url": "https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT"
         }
       ],
-      "duration_ms": 116906,
-      "name": "Kernel",
-      "url": "https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK"
+      "duration_ms": 249133,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2491,18 +2475,18 @@
     {
       "added_at": "2026-01-31 02:45:11",
       "album": {
-        "name": "More Than Just A Dream",
-        "url": "https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ"
+        "name": "Kernel",
+        "url": "https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq"
       },
       "artists": [
         {
-          "name": "Sachi Kobayashi",
-          "url": "https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT"
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
         }
       ],
-      "duration_ms": 422284,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf"
+      "duration_ms": 116906,
+      "name": "Kernel",
+      "url": "https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK"
     },
     {
       "added_at": "2026-01-31 02:45:11",
@@ -2519,6 +2503,22 @@
       "duration_ms": 1800013,
       "name": "round-scape",
       "url": "https://open.spotify.com/track/2H86tYKKSQgoUE8NTY8tMb"
+    },
+    {
+      "added_at": "2026-01-31 02:45:11",
+      "album": {
+        "name": "Canadian Love Letters",
+        "url": "https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr"
+      },
+      "artists": [
+        {
+          "name": "Kaiteki",
+          "url": "https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "Bayou",
+      "url": "https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c"
     }
   ],
   "unique_name": "Ambient Japan",

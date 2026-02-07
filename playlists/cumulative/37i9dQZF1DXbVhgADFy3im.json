@@ -767,6 +767,36 @@
     },
     {
       "album": {
+        "name": "Dil Lagana Mana Tha",
+        "url": "https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd"
+      },
+      "artists": [
+        {
+          "name": "Krish Mondal",
+          "url": "https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt"
+        },
+        {
+          "name": "Kishore Mondal",
+          "url": "https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX"
+        },
+        {
+          "name": "Devv Sadaana",
+          "url": "https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198875,
+      "name": "Dil Lagana Mana Tha",
+      "url": "https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX"
+    },
+    {
+      "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
       },
@@ -1588,6 +1618,24 @@
       "duration_ms": 232568,
       "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
       "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
+    },
+    {
+      "album": {
+        "name": "Khat",
+        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296222,
+      "name": "Khat",
+      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
       "album": {
@@ -2810,7 +2858,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 175138,
       "name": "Shaky",
       "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
@@ -3294,7 +3342,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"

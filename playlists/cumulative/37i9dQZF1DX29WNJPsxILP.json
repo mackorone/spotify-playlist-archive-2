@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: OG Lucifer",
+  "description": "Best of Hindi Hip-Hop! Cover: Vichaar",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 474130,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/3SUgPgMap8duEsaG8i6lgI"
@@ -3642,6 +3642,24 @@
       "duration_ms": 191082,
       "name": "Lapata",
       "url": "https://open.spotify.com/track/3kSSWkrIMhhqBJem3DOjmr"
+    },
+    {
+      "album": {
+        "name": "Laying Low",
+        "url": "https://open.spotify.com/album/7nQrnBnkXx1BUTM5Qa4te7"
+      },
+      "artists": [
+        {
+          "name": "vichaar",
+          "url": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Laying Low",
+      "url": "https://open.spotify.com/track/1CADvUV2bCufzrTvjNadmF"
     },
     {
       "album": {

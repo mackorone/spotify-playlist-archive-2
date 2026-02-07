@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 50082,
+  "num_followers": 50091,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAAFahO5Si2B9C+r2sOII9W17MQI/5",
   "tracks": [
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "1000 Watts",
-        "url": "https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
-        }
-      ],
-      "duration_ms": 199077,
-      "name": "Chambac\u00fa",
-      "url": "https://open.spotify.com/track/5R2hXwoRB4gIgoNXoUuK51"
-    },
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
@@ -51,18 +31,38 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+        "name": "1000 Watts",
+        "url": "https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS"
       },
       "artists": [
         {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
+      "duration_ms": 199077,
+      "name": "Chambac\u00fa",
+      "url": "https://open.spotify.com/track/5R2hXwoRB4gIgoNXoUuK51"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sabor S\u00f3nico",
+        "url": "https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ"
+      },
+      "artists": [
+        {
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "Cumbia de la Monta\u00f1a",
+      "url": "https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -103,18 +103,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sabor S\u00f3nico",
-        "url": "https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ"
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
       },
       "artists": [
         {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
         }
       ],
-      "duration_ms": 386181,
-      "name": "Cumbia de la Monta\u00f1a",
-      "url": "https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf"
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Los Charapas de Oro",
+        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "La Danza del Petrolero",
+      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 162581,
       "name": "Vampiro Sabanero",
       "url": "https://open.spotify.com/track/4D4k64jUrH85Iy6liEuQsi"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Los Charapas de Oro",
-        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "La Danza del Petrolero",
-      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cumbia Disco Energy",
         "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 237674,
       "name": "Cumbia Disco Energy",
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Savage Love",
         "url": "https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 234812,
       "name": "Savage Love",
       "url": "https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "OVNI Cumbia",
-        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+        "name": "STYNDOUDOU",
+        "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "King Doudou",
+          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
+        },
+        {
+          "name": "Styn",
+          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
         }
       ],
-      "duration_ms": 226000,
-      "name": "OVNI Cumbia",
-      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+      "duration_ms": 173362,
+      "name": "BADINERIE",
+      "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "STYNDOUDOU",
-        "url": "https://open.spotify.com/album/6E5slF7509nncsVdbD2mnt"
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
       },
       "artists": [
         {
-          "name": "King Doudou",
-          "url": "https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ"
-        },
-        {
-          "name": "Styn",
-          "url": "https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd"
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
         }
       ],
-      "duration_ms": 173362,
-      "name": "BADINERIE",
-      "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 160067,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Cumbia Siglo XXI",
         "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 197066,
       "name": "Cumbia del Picham\u00e1n",
       "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
+      },
+      "artists": [
+        {
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
+        }
+      ],
+      "duration_ms": 160067,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+        "name": "Sonaja y Tambor",
+        "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
       },
       "artists": [
         {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+          "name": "Salterio Marsupial",
+          "url": "https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI"
+        },
+        {
+          "name": "L\u00edber Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+      "duration_ms": 237080,
+      "name": "Sonaja y Tambor",
+      "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonaja y Tambor",
-        "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
       },
       "artists": [
         {
-          "name": "Salterio Marsupial",
-          "url": "https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI"
-        },
-        {
-          "name": "L\u00edber Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
         }
       ],
-      "duration_ms": 237080,
-      "name": "Sonaja y Tambor",
-      "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 295552,
       "name": "Metamorfosis",
       "url": "https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",

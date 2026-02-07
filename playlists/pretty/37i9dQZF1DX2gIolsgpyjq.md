@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: SANDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,602 likes - 138 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,620 likes - 138 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 2 | [Be Mine](https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Be Mine](https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92) | 3:19 |
 | 3 | [Keeper](https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Keeper](https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP) | 3:45 |
 | 4 | [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 |
-| 5 | [Track 10](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Rewind](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:45 |
 | 6 | [Bye](https://open.spotify.com/track/4WCIyyzI3giJITyvfOh3gM) | [Emil Lewis](https://open.spotify.com/artist/01y4Bu7Sk1mqRpnW2oWVNo) | [Bye](https://open.spotify.com/album/7AUpi2QvmZXN4CPUd4kzW7) | 2:21 |
 | 7 | [My Friends](https://open.spotify.com/track/5aol6iiozhnF1K7XVG54tZ) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [My Friends](https://open.spotify.com/album/3uY7N4aGm4cXuKDey2JJHg) | 3:52 |
 | 8 | [Hotpants](https://open.spotify.com/track/6Nhbz2ZRAFjN8zj8MARpoL) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Hotpants](https://open.spotify.com/album/7GMrVNaYLuAmfvUS3munmN) | 2:39 |

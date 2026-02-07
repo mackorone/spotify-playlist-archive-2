@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-127 songs - 7 hr 28 min
+129 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Pale Shelter](https://open.spotify.com/track/1RLzufJY0HcUCJvyHcOk8V) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 4:12 | 2025-11-06 | 2025-11-24 |
 | [Rainbows](https://open.spotify.com/track/099QNnhccADj016aDyFnfK) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Rainbows](https://open.spotify.com/album/2SE9JJtLa3MXV9q0IyctMf) | 3:41 | 2025-08-20 |  |
 | [Scars](https://open.spotify.com/track/2S4GSWUinJljobVFHWZkYW) | [Salvation Fleet](https://open.spotify.com/artist/6dI7BLnHH5XfRqfPF56DNO) | [Scars](https://open.spotify.com/album/0618lWq0HfAh9R6nCi0q6s) | 4:59 | 2025-11-15 | 2025-12-17 |
+| [Shallow One](https://open.spotify.com/track/7oy9mEkLxR28XH0gzvL6Do) | [J.H.M](https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE) | [Gone](https://open.spotify.com/album/0KGf5lHR0tIYuN0FNE2rvo) | 3:18 | 2026-02-06 |  |
 | [Shortcomings](https://open.spotify.com/track/4K76QXncsxBqcXwz9I5sJm) | [Leopold Kroll](https://open.spotify.com/artist/7IQLre078p4JqLAq5wX2Lb) | [Shortcomings](https://open.spotify.com/album/6mtOm34OMbSzzvk4RipzI5) | 2:58 | 2025-04-02 |  |
 | [Slow Fade / R](https://open.spotify.com/track/61pOnOh9ei1L7w9IlUg1eb) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Nebulous Nights \- An Ambient Excursion into Profound Mysteries](https://open.spotify.com/album/11ZDuAqV3SoB9HopxTTmub) | 1:32 | 2024-12-18 | 2025-12-17 |
 | [Smartest Person](https://open.spotify.com/track/0SoGiDaTzJok5dNgawvdvS) | [Simon Reich](https://open.spotify.com/artist/3Uq55ANDuS6k1kuIHddeCi) | [Smartest Person](https://open.spotify.com/album/1BBnZe53EDJ9IoXw7R5ySU) | 3:35 | 2024-09-24 |  |
@@ -101,6 +102,7 @@
 | [Soulful Voices](https://open.spotify.com/track/1ona7GxXxe6QQbbiqXSjf7) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Soulful Voices](https://open.spotify.com/album/1qwVe0uGm8SW1j0YHI92lK) | 3:50 | 2025-12-16 | 2026-02-02 |
 | [Spring flow](https://open.spotify.com/track/6bfDxRfn9l0SakKPBu5nEq) | [Tropicalmonroe](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ) | [Spring flow](https://open.spotify.com/album/6YHSQHMf0xOBDgQK0pOl5c) | 2:33 | 2025-03-16 | 2025-12-17 |
 | [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 |  |
+| [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
 | [Superbloom](https://open.spotify.com/track/0LLLu9OpHI8woWnSJrWm72) | [Carolyn Barela](https://open.spotify.com/artist/07eQgknO4HhywtQGVoW50f), [Catty.L](https://open.spotify.com/artist/68FNAoroAsIuNLoecJRIZP) | [Superbloom](https://open.spotify.com/album/32P8hqUIsWNZn0gAZAfNkm) | 3:08 | 2024-06-02 |  |
 | [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 |  |
 | [Tara](https://open.spotify.com/track/3wbfNm0iqSoV4plNLUpL8M) | [Denise Glover](https://open.spotify.com/artist/28V15gh4m18DQnV04TEVXr), [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Tara](https://open.spotify.com/album/0a8Ah1nOni4As3myEW0weF) | 3:12 | 2024-05-16 |  |

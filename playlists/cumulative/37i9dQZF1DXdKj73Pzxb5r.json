@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "The Soil/The Soul",
+        "url": "https://open.spotify.com/album/2OJJHAySUwZHGBGkcPD3le"
+      },
+      "artists": [
+        {
+          "name": "Diniyah",
+          "url": "https://open.spotify.com/artist/3UEhZdHshd4Nq9ZHn00sVN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211542,
+      "name": "From The Children\u2019s Eye",
+      "url": "https://open.spotify.com/track/067o37QQDovPO0i9K50b5o"
+    },
+    {
+      "album": {
         "name": "Celebrate Salacca Zalacca",
         "url": "https://open.spotify.com/album/1SM1oOn6nfJVdLYtpkxrxp"
       },

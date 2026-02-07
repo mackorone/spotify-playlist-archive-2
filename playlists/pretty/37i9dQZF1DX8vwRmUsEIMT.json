@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: EsDeeKid",
-  "num_followers": 595730,
+  "num_followers": 596306,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrX4A4/ww5iKf0UULzuB0IZMg+e",
+  "snapshot_id": "AAAAANgbbja/ZGLhAorihMT2cnyUHTYX",
   "tracks": [
     {
       "added_at": "2026-02-06 00:00:04",
@@ -63,8 +63,8 @@
     {
       "added_at": "2026-02-06 00:00:04",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
       "artists": [
         {
@@ -167,6 +167,26 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-02-06 10:56:47",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "added_at": "2026-02-06 00:00:04",
@@ -335,8 +355,8 @@
     {
       "added_at": "2026-02-06 00:00:04",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {

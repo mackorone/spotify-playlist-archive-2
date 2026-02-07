@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Patrick Noel. Artwork: Isu Kim",
+  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SaltySalmon. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -748,6 +748,24 @@
       "duration_ms": 253972,
       "name": "Backstage (feat. thaimilktea)",
       "url": "https://open.spotify.com/track/18nMFKttL8hNZjYf0tmXTF"
+    },
+    {
+      "album": {
+        "name": "Bad Boy No \u2018DO\u2019",
+        "url": "https://open.spotify.com/album/79DSRae0xUKBrZ8IPCA0c6"
+      },
+      "artists": [
+        {
+          "name": "CLO'VER",
+          "url": "https://open.spotify.com/artist/6KINo3699mlyhzNc89bE7t"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189602,
+      "name": "Bad Boy No \u2018DO\u2019",
+      "url": "https://open.spotify.com/track/0zR3mw2bcJtlfXskyIIMm7"
     },
     {
       "album": {
@@ -6742,7 +6760,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197666,
       "name": "PERFORM (\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07)",
       "url": "https://open.spotify.com/track/5e6j0IX7JXRyxFqkT7jlcI"
@@ -7629,6 +7647,24 @@
     },
     {
       "album": {
+        "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+        "url": "https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Calling",
+          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269589,
+      "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+      "url": "https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy"
+    },
+    {
+      "album": {
         "name": "Sigma",
         "url": "https://open.spotify.com/album/0TfON3PSw9ScTOVdmuo6sl"
       },
@@ -8355,6 +8391,24 @@
     },
     {
       "album": {
+        "name": "T-RUK",
+        "url": "https://open.spotify.com/album/4wBAM2eGbOWMlhNa97Y5Bu"
+      },
+      "artists": [
+        {
+          "name": "Tattyxl",
+          "url": "https://open.spotify.com/artist/0ICk00SsBQSvzWZLoYZWfS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "T-RUK",
+      "url": "https://open.spotify.com/track/5wM2QjBx8tzxpT5ch0h8I4"
+    },
+    {
+      "album": {
         "name": "Tadaima!",
         "url": "https://open.spotify.com/album/09TAWKKFvHYoKYy1BXpqPT"
       },
@@ -8424,6 +8478,32 @@
       "duration_ms": 185000,
       "name": "Take it off",
       "url": "https://open.spotify.com/track/7w5Yu5iooOIMY595FQFTDH"
+    },
+    {
+      "album": {
+        "name": "Take Off",
+        "url": "https://open.spotify.com/album/4S9WYVnKWUWKdICwWm7wMK"
+      },
+      "artists": [
+        {
+          "name": "2001Active",
+          "url": "https://open.spotify.com/artist/3gJZEGKPPrRtLfSZWBHMNL"
+        },
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        },
+        {
+          "name": "VIPER",
+          "url": "https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/5o7LobYqqBHoIodMLIpyxR"
     },
     {
       "album": {
@@ -12244,7 +12324,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 251767,
       "name": "\u0e04\u0e07\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01 (Endless)",
       "url": "https://open.spotify.com/track/7rZQkTLTBHYpcenf427jQK"
@@ -15010,7 +15090,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204418,
       "name": "\u0e07\u0e2d\u0e41\u0e07 (CRY BABY)",
       "url": "https://open.spotify.com/track/2LlY5eozH3DcI75AwWuA2q"
@@ -20288,10 +20368,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 214545,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32 - Not Mine",
       "url": "https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e49\u0e32 (Pls.Out)",
+        "url": "https://open.spotify.com/album/55eAwsSu6G1XWxp3A4ifDR"
+      },
+      "artists": [
+        {
+          "name": "Fah Naritsa",
+          "url": "https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e40\u0e02\u0e49\u0e32 (Pls.Out)",
+      "url": "https://open.spotify.com/track/76mAxCVZZLW3ruv7lDpdM6"
     },
     {
       "album": {
@@ -20454,6 +20552,24 @@
       "duration_ms": 179000,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
       "url": "https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e19 (What If)",
+        "url": "https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe"
+      },
+      "artists": [
+        {
+          "name": "SaltySalmon",
+          "url": "https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e19 (What If)",
+      "url": "https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE"
     },
     {
       "album": {
@@ -21748,7 +21864,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 258187,
       "name": "\u0e17\u0e38\u0e01\u0e1b\u0e35",
       "url": "https://open.spotify.com/track/30niHUPzuPkMQEHFYiSqQd"
@@ -22422,7 +22538,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 269583,
       "name": "\u0e19\u0e34\u0e22\u0e32\u0e21\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/7jHM4wCOFUdXTBfOp8wIEV"
@@ -27819,6 +27935,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+        "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
+      },
+      "artists": [
+        {
+          "name": "La Moon",
+          "url": "https://open.spotify.com/artist/7J2qcWgTJLmRFdOdl9rn5g"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
+      "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e48\u0e32\u0e07\u0e04\u0e07\u0e17\u0e35\u0e48",
         "url": "https://open.spotify.com/album/0lULOI2ZdynbosTx3QW4Xq"
       },
@@ -28090,6 +28224,24 @@
       "duration_ms": 200666,
       "name": "\u0e23\u0e31\u0e01\u0e15\u0e2d\u0e1a (Love Signal)",
       "url": "https://open.spotify.com/track/3d8Y5IPoicSyxrng0zVTzJ"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/5dhtFldMHiNR5oerU1rRSs"
+      },
+      "artists": [
+        {
+          "name": "pawinpisit yokthaworn",
+          "url": "https://open.spotify.com/artist/4OW02AdyPNgbpPK7B0pgSm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/6Izdceh87hSlDPkpLBMEHy"
     },
     {
       "album": {
@@ -41107,6 +41259,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
+        "url": "https://open.spotify.com/album/2npqb6tPmZ7TUSFw8Scxoj"
+      },
+      "artists": [
+        {
+          "name": "iZ",
+          "url": "https://open.spotify.com/artist/4a78mQGkCDnMoX52tStqBD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188538,
+      "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
+      "url": "https://open.spotify.com/track/30tRVrapiqBpZhRJHKUcBG"
+    },
+    {
+      "album": {
         "name": "Sound from My Bedroom",
         "url": "https://open.spotify.com/album/3JowMxrvERXL2YQjZSLhzz"
       },
@@ -44151,6 +44321,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e01\u0e25\u0e49\u0e41\u0e04\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/7Jm8N5CNciCtSaujCdO7rs"
+      },
+      "artists": [
+        {
+          "name": "MIDYEAR",
+          "url": "https://open.spotify.com/artist/2sQckkrC9KJj0Ku6YVxs0D"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "\u0e43\u0e01\u0e25\u0e49\u0e41\u0e04\u0e48\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/1Sx39CUOOo9v5cvtziDRBN"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e01\u0e25\u0e49\u0e46",
         "url": "https://open.spotify.com/album/4sXs2iPRtH3uKb4t47yJQw"
       },
@@ -46886,6 +47074,24 @@
       "duration_ms": 258750,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e25\u0e32\u0e07",
       "url": "https://open.spotify.com/track/76X1AXp2RNRRxapTU18KzR"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 ? (PLAY WITH ME)",
+        "url": "https://open.spotify.com/album/1q7UxcOdCwHh0Cjn96DuBL"
+      },
+      "artists": [
+        {
+          "name": "AuAu",
+          "url": "https://open.spotify.com/artist/55Oq4jpvGbHxHQ2jrpFSZs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206737,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 ? (PLAY WITH ME)",
+      "url": "https://open.spotify.com/track/0tXadPfyJ8LdiGGfJV2ggr"
     },
     {
       "album": {

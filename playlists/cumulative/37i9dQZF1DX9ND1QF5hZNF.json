@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 201692,
       "name": "All I Want, All I Need",
       "url": "https://open.spotify.com/track/7qhsvyBkKidKY1p1ibktmE"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179000,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/3S3tXaY97971Cp4QV6B8cV"
@@ -934,6 +934,32 @@
       "duration_ms": 179428,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
+    },
+    {
+      "album": {
+        "name": "Bloom (ERIICE Remix)",
+        "url": "https://open.spotify.com/album/5WX4pPN3WmRjC4zfIJfSfp"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Bloom (ERIICE Remix)",
+      "url": "https://open.spotify.com/track/7yWmLo9KmwPYitqNPE4wyh"
     },
     {
       "album": {
@@ -1110,7 +1136,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 152380,
       "name": "Burn For You",
       "url": "https://open.spotify.com/track/5FGLK3pKWRtEo6ZUvpy6eP"
@@ -1362,6 +1388,28 @@
       "duration_ms": 179113,
       "name": "City of Love",
       "url": "https://open.spotify.com/track/3Cg22mWYpcDrCLWsgTaUwk"
+    },
+    {
+      "album": {
+        "name": "Climb",
+        "url": "https://open.spotify.com/album/07nrhJ5PlKOAi2mKIhYZsO"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "Climb",
+      "url": "https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl"
     },
     {
       "album": {
@@ -2452,6 +2500,32 @@
       "duration_ms": 174285,
       "name": "Hamacadame",
       "url": "https://open.spotify.com/track/6LRY3cFPXnM9WXKXrKPKJr"
+    },
+    {
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/5DGsLixvviLZirgF4N3l9u"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "LC Bay",
+          "url": "https://open.spotify.com/artist/4FYn9old9wruJfXRKWWXAr"
+        },
+        {
+          "name": "Elsie Bay",
+          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/6n4bnCklRNSw1pNh3KxrvD"
     },
     {
       "album": {
@@ -3619,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "love u",
+        "url": "https://open.spotify.com/album/6XihBoq4eeJdM1Hj18fDiO"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "Lily Denning",
+          "url": "https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "love u",
+      "url": "https://open.spotify.com/track/0rCtHcW3wmcZkflrMw73VT"
+    },
+    {
+      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/5GJ7UOeLP5BlV6mr3yTaLY"
       },
@@ -4396,7 +4492,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146065,
       "name": "Ngithwele",
       "url": "https://open.spotify.com/track/4HOZi2x0HoGBsCW15mckkQ"
@@ -6106,7 +6202,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 240944,
       "name": "something about u",
       "url": "https://open.spotify.com/track/1aUAakwecjFJIqwICjdKFn"
@@ -7104,6 +7200,24 @@
       "duration_ms": 287480,
       "name": "Upon Your Skin",
       "url": "https://open.spotify.com/track/6Igb5HZLFlC0Wla2Qgsivy"
+    },
+    {
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/23k3hfiNQlMSVb2j7vTBbA"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119671,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/1lfHkLvEgd8znrDVpZREkr"
     },
     {
       "album": {

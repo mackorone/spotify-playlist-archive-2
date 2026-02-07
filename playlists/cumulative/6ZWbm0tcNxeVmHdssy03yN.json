@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166384,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
@@ -4930,7 +4930,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 193013,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/5BFY1PDKOZuu75tx5iPpee"
@@ -6548,7 +6548,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 203305,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/6QcNMU1nz6qExqAdKegtuw"
@@ -8581,6 +8581,24 @@
     },
     {
       "album": {
+        "name": "back to you",
+        "url": "https://open.spotify.com/album/0MsQroKgqeDENmG4DQjTDs"
+      },
+      "artists": [
+        {
+          "name": "Tom River",
+          "url": "https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/1Os1NJKvfFe2cZY4MN5QBx"
+    },
+    {
+      "album": {
         "name": "Back Together",
         "url": "https://open.spotify.com/album/6iaVCIBueLAiv8kazjdHPD"
       },
@@ -9102,7 +9120,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 152072,
       "name": "BAD TRIP",
       "url": "https://open.spotify.com/track/7iwfHtx1NCRbBthKUnczhi"
@@ -10508,7 +10526,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 118042,
       "name": "BEEF W ME",
       "url": "https://open.spotify.com/track/1eO5SOiDSQhcTjNDZKiGTz"
@@ -13072,6 +13090,24 @@
       "duration_ms": 187240,
       "name": "Blues Will Go",
       "url": "https://open.spotify.com/track/4tT6g8Es1T0qzCPxmFMgCW"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6tqTzYwAbTe4LPZCepadVv"
+      },
+      "artists": [
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168176,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/2E3hzG5bQWqqGCncYrGt5r"
     },
     {
       "album": {
@@ -16450,7 +16486,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177122,
       "name": "Calypso Gene (feat. Silka & Cleo Reed)",
       "url": "https://open.spotify.com/track/5BcOXyysw5W8bUdXQvxdso"
@@ -18778,7 +18814,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 229288,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/527khbf7AlAlE163MuY8o6"
@@ -19182,6 +19218,24 @@
       "duration_ms": 213500,
       "name": "CIUDAD 0, CIUDAD 1",
       "url": "https://open.spotify.com/track/2KrOCHeg7aiu5o1j8tzWmF"
+    },
+    {
+      "album": {
+        "name": "CL",
+        "url": "https://open.spotify.com/album/0DW9MY0uqN8not6YeB8nh9"
+      },
+      "artists": [
+        {
+          "name": "Mornz",
+          "url": "https://open.spotify.com/artist/42OptYZy71aIMGuksh5VBM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147951,
+      "name": "CL",
+      "url": "https://open.spotify.com/track/6R5D6ZkMRqQWAZMqrTLpds"
     },
     {
       "album": {
@@ -20791,6 +20845,24 @@
     },
     {
       "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1h6xuNBytiovf1ekxJVcZf"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102408,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ"
+    },
+    {
+      "album": {
         "name": "Como aquel tipo que espera a que algo pase en un caf\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/4etwAqqZs3sLrkpZs3X1bf"
       },
@@ -20846,7 +20918,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 220536,
       "name": "Como Olvido A Una Bandida",
       "url": "https://open.spotify.com/track/3zyr39TlApZX1a6NbqcCHa"
@@ -21180,7 +21252,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 120000,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/7vQmu5FTPgnLeJDi14oJ9U"
@@ -28745,6 +28817,40 @@
     },
     {
       "album": {
+        "name": "Dub Box / Gangsta Ish",
+        "url": "https://open.spotify.com/album/1OaX10tUuTGbfXsoL9kph4"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Hurrian",
+          "url": "https://open.spotify.com/artist/1o4SiViM6NxklVjZP96KYE"
+        },
+        {
+          "name": "Kenny Ken",
+          "url": "https://open.spotify.com/artist/1TUBjNYgMN8tMLPWMe7gvL"
+        },
+        {
+          "name": "Eccleton Jarrett",
+          "url": "https://open.spotify.com/artist/6rbKHQlWQTaUl4IMYEy9ck"
+        },
+        {
+          "name": "Dan-I",
+          "url": "https://open.spotify.com/artist/03DmZYo60VeEiKLrETHIqf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212100,
+      "name": "Dub Box",
+      "url": "https://open.spotify.com/track/6WivDKWuPkpZ6cykfgRu6p"
+    },
+    {
+      "album": {
         "name": "Dubai",
         "url": "https://open.spotify.com/album/3Z8xJv9LJHJpMy7USRReed"
       },
@@ -29162,7 +29268,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197299,
       "name": "D\u00edmelo",
       "url": "https://open.spotify.com/track/2ZXgQ60Eorr0eIIUqAtEYr"
@@ -34358,7 +34464,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 171228,
       "name": "Fires (Acoustic)",
       "url": "https://open.spotify.com/track/5L27RNoEHA5SxNjru4ihHA"
@@ -35363,6 +35469,28 @@
     },
     {
       "album": {
+        "name": "Footnotes",
+        "url": "https://open.spotify.com/album/2tjP3GbGULjcsJdKx7WVZl"
+      },
+      "artists": [
+        {
+          "name": "MATHIAS",
+          "url": "https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK"
+        },
+        {
+          "name": "AR4",
+          "url": "https://open.spotify.com/artist/4tORd6VckUgLhiQkcX90Mq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199009,
+      "name": "Footnotes",
+      "url": "https://open.spotify.com/track/0eCMrXH1kSzLpc0BfOqBtw"
+    },
+    {
+      "album": {
         "name": "For a Living",
         "url": "https://open.spotify.com/album/28sdesXWL3pyNGxuPZ7ohs"
       },
@@ -36058,6 +36186,28 @@
       "duration_ms": 174352,
       "name": "FOUND",
       "url": "https://open.spotify.com/track/3LBN7zCmAIRjr6u54D4yM7"
+    },
+    {
+      "album": {
+        "name": "Found a Love",
+        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "The Voices of Epoch",
+          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235149,
+      "name": "Found a Love",
+      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
     },
     {
       "album": {
@@ -36964,7 +37114,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 248089,
       "name": "Fuego al cielo",
       "url": "https://open.spotify.com/track/7Ma65Rw2NITbTtYTwsbtWe"
@@ -37308,6 +37458,28 @@
       "duration_ms": 167777,
       "name": "Funeral for the World",
       "url": "https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym"
+    },
+    {
+      "album": {
+        "name": "Funny Games (feat. Fatboi Sharif)",
+        "url": "https://open.spotify.com/album/5NrPp0YrS4JskzPjIgnDzC"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Fatboi Sharif",
+          "url": "https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109416,
+      "name": "Funny Games (feat. Fatboi Sharif)",
+      "url": "https://open.spotify.com/track/1VaTncB4zOc2Pd9IC07xr8"
     },
     {
       "album": {
@@ -45072,7 +45244,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179130,
       "name": "Hot Chocolate",
       "url": "https://open.spotify.com/track/6jp6XV3Arj930rbrmMvDPb"
@@ -47090,7 +47262,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 226747,
       "name": "I Wanted This",
       "url": "https://open.spotify.com/track/4yZj4GvHjxCL6SOOcEvZMj"
@@ -47976,7 +48148,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 130135,
       "name": "if u knew me before i found myself, im so sorry",
       "url": "https://open.spotify.com/track/2FQqlPsPnLEXLUdjMGRaSk"
@@ -61359,6 +61531,24 @@
     },
     {
       "album": {
+        "name": "Marked Up",
+        "url": "https://open.spotify.com/album/1jD2FnIbaPmrwPdHWzTf33"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Marked Up",
+      "url": "https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy"
+    },
+    {
+      "album": {
         "name": "Marley Flow",
         "url": "https://open.spotify.com/album/1dMnuVDSbgwh6EHyJsfeqM"
       },
@@ -74382,7 +74572,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 241599,
       "name": "Panaginip",
       "url": "https://open.spotify.com/track/4jQtcvm2IiEjoFDsnbshCV"
@@ -83842,7 +84032,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 148958,
       "name": "SADDERN RETURN",
       "url": "https://open.spotify.com/track/54Gpi6bYNBcLTD2c48aTP7"
@@ -88506,6 +88696,24 @@
       "duration_ms": 165838,
       "name": "Slow",
       "url": "https://open.spotify.com/track/5fNbVMnWVg75szSuIGNlEF"
+    },
+    {
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4vx3Hs6nmbo9ZVkFEgOavR"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1HWN563dnwCo86mTiHNG3n"
     },
     {
       "album": {
@@ -95240,7 +95448,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 274921,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/0JdQlxDlul93B0YsVBK73b"
@@ -98212,6 +98420,24 @@
       "duration_ms": 292243,
       "name": "The Shock Of The Future",
       "url": "https://open.spotify.com/track/3N0Nxy8VOKDCkpKmwboOMK"
+    },
+    {
+      "album": {
+        "name": "A Night Not Alone",
+        "url": "https://open.spotify.com/album/5cHMZHGNoX7sLtX9Hynlof"
+      },
+      "artists": [
+        {
+          "name": "Hilts",
+          "url": "https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183553,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/171Muha9CXXMOePjbsDLcm"
     },
     {
       "album": {
@@ -105817,6 +106043,24 @@
     },
     {
       "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/2eZLX8uBStN3V5I3cTVxZa"
+      },
+      "artists": [
+        {
+          "name": "Rod Coote",
+          "url": "https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5QbQTPpv6WtcKpeo3vYd60"
+    },
+    {
+      "album": {
         "name": "Want It",
         "url": "https://open.spotify.com/album/2963I1C5BYQRA3ZEFBHVF8"
       },
@@ -110922,7 +111166,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 231631,
       "name": "You are Mine",
       "url": "https://open.spotify.com/track/5zZr2OnYMyB2ujSh8QLxde"
@@ -111168,6 +111412,24 @@
       "duration_ms": 196384,
       "name": "You Know It's Christmas",
       "url": "https://open.spotify.com/track/2zKDaapU2vZIwoUEqQ9PNn"
+    },
+    {
+      "album": {
+        "name": "You Said",
+        "url": "https://open.spotify.com/album/23j92NDKGgjQpM9vxw7FXC"
+      },
+      "artists": [
+        {
+          "name": "Telander",
+          "url": "https://open.spotify.com/artist/6Pe957QMENAWMZF7ityC81"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199357,
+      "name": "You Said",
+      "url": "https://open.spotify.com/track/4RgV1TGFWpquJkwJ39htlx"
     },
     {
       "album": {
@@ -111908,7 +112170,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 214000,
       "name": "\u00bfPara d\u00f3nde vamos?",
       "url": "https://open.spotify.com/track/51Eock8moiROVuwifuovBF"

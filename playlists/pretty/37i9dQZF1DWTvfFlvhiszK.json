@@ -1,12 +1,12 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 21077,
+  "num_followers": 21100,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH78sVroDnnRe+lIfEVIz70FzYWd",
+  "snapshot_id": "AAAAANPGZMC3yVgCrhCmE0g0DLIGXutP",
   "tracks": [
     {
       "added_at": "2026-01-29 09:03:42",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
-        "name": "Nyankonton",
-        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
-      },
-      "artists": [
-        {
-          "name": "Kontihene",
-          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
-        }
-      ],
-      "duration_ms": 311520,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
-    },
-    {
-      "added_at": "2026-01-29 09:03:42",
-      "album": {
         "name": "Waist & Power",
         "url": "https://open.spotify.com/album/2yoVgfL21I1DRDSFuoqjMn"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 305669,
       "name": "Waist & Power",
       "url": "https://open.spotify.com/track/6mtHjfaPzBND2HS2c0UsU3"
+    },
+    {
+      "added_at": "2026-01-29 09:03:42",
+      "album": {
+        "name": "Nyankonton",
+        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
+      },
+      "artists": [
+        {
+          "name": "Kontihene",
+          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
+        }
+      ],
+      "duration_ms": 311520,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
     },
     {
       "added_at": "2026-01-29 09:03:42",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
+        "name": "Aben Wa Ha",
+        "url": "https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 312706,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
+    },
+    {
+      "added_at": "2026-01-29 09:03:42",
+      "album": {
         "name": "Iron Boy",
         "url": "https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/0h9HOdisNz9nGybOMStt4g"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/4SD9udK8YGf5HBarLWikZi"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 387053,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/1cAYP34Yw3LJ8EsO9qoWA6"
+      "duration_ms": 375626,
+      "name": "Bribi Gyegye Wo",
+      "url": "https://open.spotify.com/track/7fN2FjaBQ1RYqIcvCWNWXq"
     },
     {
       "added_at": "2026-01-29 09:03:42",
@@ -795,6 +811,22 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/0h9HOdisNz9nGybOMStt4g"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 387053,
+      "name": "Tokrom",
+      "url": "https://open.spotify.com/track/1cAYP34Yw3LJ8EsO9qoWA6"
+    },
+    {
+      "added_at": "2026-01-29 09:03:42",
+      "album": {
         "name": "Best of Nana Boroo",
         "url": "https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd"
       },
@@ -815,22 +847,6 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
-        "name": "Aben Wa Ha",
-        "url": "https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 312706,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
-    },
-    {
-      "added_at": "2026-01-29 09:03:42",
-      "album": {
         "name": "Alkayida (Boy Abre)",
         "url": "https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 218032,
       "name": "Alkayida (Boy Abre)",
       "url": "https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2"
-    },
-    {
-      "added_at": "2026-01-29 09:03:42",
-      "album": {
-        "name": "Ghana Old School HipLife Essentials",
-        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
-      },
-      "artists": [
-        {
-          "name": "KK Fosu",
-          "url": "https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO"
-        }
-      ],
-      "duration_ms": 278308,
-      "name": "Anadwo Yede",
-      "url": "https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6"
     }
   ],
   "unique_name": "Ghana Throwback Party ",

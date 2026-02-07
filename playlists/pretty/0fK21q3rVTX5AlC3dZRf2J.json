@@ -6,8 +6,24 @@
     "name": "kittydogcrystal",
     "url": "https://open.spotify.com/user/kittydogcrystal"
   },
-  "snapshot_id": "AAAAsdS14BQMp4UgWSYf1i2Vj6E7Bc3p",
+  "snapshot_id": "AAAAswOUdO9wVsUg2ISG9uNAhElK9tRn",
   "tracks": [
+    {
+      "added_at": "2026-02-07 01:09:18",
+      "album": {
+        "name": "23 skidoo (My 23rd Birthday song)",
+        "url": "https://open.spotify.com/album/5YS75TyDzP63G8RyvBVXZe"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 109616,
+      "name": "23 skidoo (My 23rd Birthday song)",
+      "url": "https://open.spotify.com/track/2NwY0T1T7TeKORCA6WoBSu"
+    },
     {
       "added_at": "2025-10-03 16:36:56",
       "album": {

@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181711,
       "name": "do pogrzebu si\u0119 zagoi",
       "url": "https://open.spotify.com/track/74NMdk0cJG92YXH2SZ1Crh"
@@ -6270,7 +6270,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129687,
       "name": "Mieszany Mieszany",
       "url": "https://open.spotify.com/track/1pcQvECPomjRFKe2dzqRSa"
@@ -9283,6 +9283,24 @@
     },
     {
       "album": {
+        "name": "Pozw\u00f3l mi czu\u0107",
+        "url": "https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Pozw\u00f3l mi czu\u0107",
+      "url": "https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
       },
@@ -11034,7 +11052,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 109459,
       "name": "szept (czy czujesz to samo co ja?)",
       "url": "https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z"

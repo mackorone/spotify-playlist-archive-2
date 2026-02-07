@@ -17611,6 +17611,28 @@
     },
     {
       "album": {
+        "name": "FADE",
+        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178205,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+    },
+    {
+      "album": {
         "name": "Two Rooms",
         "url": "https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB"
       },
@@ -20482,7 +20504,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 64610,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/1nhKv7hjXzNBmraZNfWhLe"
@@ -24080,6 +24102,28 @@
       "duration_ms": 240304,
       "name": "Hungry For Heaven - Live",
       "url": "https://open.spotify.com/track/1xF1dRfgBJ01K9bDdTI9mV"
+    },
+    {
+      "album": {
+        "name": "No End",
+        "url": "https://open.spotify.com/album/5xPpOOXhOPknBhtolacnki"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68560,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/1DZwTo9w7OJ677WKeDlbPE"
     },
     {
       "album": {
@@ -33133,6 +33177,24 @@
     },
     {
       "album": {
+        "name": "Armada - An Orchestral Voyage",
+        "url": "https://open.spotify.com/album/2eHfRzQJWKguLwjVTKiHHA"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246766,
+      "name": "Magic of the Night - Orchestral Version",
+      "url": "https://open.spotify.com/track/1CXP4Vy6j2zMFFGpymBl2E"
+    },
+    {
+      "album": {
         "name": "Magical Mystery Tour",
         "url": "https://open.spotify.com/album/5VJWGEc9eVnU3NsAYvJdYk"
       },
@@ -35428,6 +35490,24 @@
       "duration_ms": 279452,
       "name": "My Curse Is My Redemption - Summer 80's Remix",
       "url": "https://open.spotify.com/track/53Y1vozzPxq8CBjIqQPtbI"
+    },
+    {
+      "album": {
+        "name": "My Earth Guide",
+        "url": "https://open.spotify.com/album/3YG1cFWQ8XROvX83v19gUG"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182049,
+      "name": "My Earth Guide",
+      "url": "https://open.spotify.com/track/1oXlZn9xxy5cgFboQaGXqy"
     },
     {
       "album": {
@@ -54708,6 +54788,32 @@
       "duration_ms": 210530,
       "name": "The Third Death",
       "url": "https://open.spotify.com/track/1qqy2dBh7oGSgaxy0M2WGj"
+    },
+    {
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
     },
     {
       "album": {

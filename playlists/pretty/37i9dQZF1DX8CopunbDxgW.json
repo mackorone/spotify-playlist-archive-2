@@ -1,44 +1,48 @@
 {
-  "description": "Lewis OfMan delivers more funky goodness \u26a1\ud83c\uddeb\ud83c\uddf7 metropolis is your home for all the best indie dance",
-  "num_followers": 875922,
+  "description": "dance music has rarely sounded... so joyful. thank you joy anonymous  \ud83d\ude0a metropolis is your home for the best indie dance",
+  "num_followers": 875882,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADoXyuWkJKAsGyzC3eghftRCmwSe",
+  "snapshot_id": "AAAAAN/9Ny2pb8w/ZMBNodmuV0Dl+rRp",
   "tracks": [
     {
-      "added_at": "2026-01-30 05:01:10",
+      "added_at": "2026-02-06 05:00:47",
       "album": {
-        "name": "Electronicity",
-        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+        "name": "JOY (Nobody Ever)",
+        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
       },
       "artists": [
         {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
         }
       ],
-      "duration_ms": 232373,
-      "name": "Electronicity",
-      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
+      "duration_ms": 212932,
+      "name": "JOY (Nobody Ever) 7\u201d mix",
+      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
     },
     {
-      "added_at": "2026-01-16 05:00:40",
+      "added_at": "2026-01-23 05:00:29",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+        "name": "Easy Flirt",
+        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
         }
       ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+      "duration_ms": 166153,
+      "name": "Easy Flirt",
+      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -57,6 +61,70 @@
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
+      "added_at": "2026-01-16 05:00:40",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 212909,
+      "name": "Hang",
+      "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
+    },
+    {
+      "added_at": "2026-01-09 05:00:42",
+      "album": {
+        "name": "Future Chic EP",
+        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
+      },
+      "artists": [
+        {
+          "name": "Davide Dev",
+          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
+    },
+    {
+      "added_at": "2026-01-30 05:01:10",
+      "album": {
+        "name": "Electronicity",
+        "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Electronicity",
+      "url": "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
+    },
+    {
       "added_at": "2026-01-23 05:00:29",
       "album": {
         "name": "Aperture",
@@ -71,6 +139,26 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Found a Love",
+        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "The Voices of Epoch",
+          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
+        }
+      ],
+      "duration_ms": 235149,
+      "name": "Found a Love",
+      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -93,20 +181,36 @@
       "url": "https://open.spotify.com/track/3JD0rRSzWRitWVnmHTHB5P"
     },
     {
-      "added_at": "2026-01-23 05:00:29",
+      "added_at": "2026-02-06 05:00:47",
       "album": {
-        "name": "Easy Flirt",
-        "url": "https://open.spotify.com/album/3ewRXH9xzkimqdIXc7hUnN"
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/5HOv3RzSiDLuCFeCygFzAK"
       },
       "artists": [
         {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+          "name": "Alex Frankel",
+          "url": "https://open.spotify.com/artist/7jBVVnSTb10YfTjrw1SjbL"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Easy Flirt",
-      "url": "https://open.spotify.com/track/0NCxUz8RdDtPcSwiLkDmhh"
+      "duration_ms": 200694,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/5YUeDOmrCNZ9XuVhuA6YRz"
+    },
+    {
+      "added_at": "2025-11-28 21:07:36",
+      "album": {
+        "name": "You Gimme Something",
+        "url": "https://open.spotify.com/album/0ULChTsCORw2tCmc0YBwak"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "You Gimme Something",
+      "url": "https://open.spotify.com/track/00s7KZVtYZN0f4Q7xk7jUB"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -123,26 +227,6 @@
       "duration_ms": 254620,
       "name": "Melchior\u2019s Dance",
       "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
-    },
-    {
-      "added_at": "2026-01-30 05:01:10",
-      "album": {
-        "name": "London Massive",
-        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        }
-      ],
-      "duration_ms": 125087,
-      "name": "London Massive",
-      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -165,6 +249,26 @@
       "url": "https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq"
     },
     {
+      "added_at": "2026-01-30 05:01:10",
+      "album": {
+        "name": "London Massive",
+        "url": "https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "duration_ms": 125087,
+      "name": "London Massive",
+      "url": "https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT"
+    },
+    {
       "added_at": "2026-01-23 05:00:29",
       "album": {
         "name": "HOT WIFE",
@@ -183,54 +287,6 @@
       "duration_ms": 190945,
       "name": "HOT WIFE",
       "url": "https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa"
-    },
-    {
-      "added_at": "2025-11-28 21:07:36",
-      "album": {
-        "name": "You Gimme Something",
-        "url": "https://open.spotify.com/album/0ULChTsCORw2tCmc0YBwak"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 169453,
-      "name": "You Gimme Something",
-      "url": "https://open.spotify.com/track/00s7KZVtYZN0f4Q7xk7jUB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:42",
-      "album": {
-        "name": "Future Chic EP",
-        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
-      },
-      "artists": [
-        {
-          "name": "Davide Dev",
-          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 137012,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -279,6 +335,26 @@
       "duration_ms": 184787,
       "name": "in this world",
       "url": "https://open.spotify.com/track/18SkZPigYCfd5Y37qNz2BM"
+    },
+    {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Fantasy Camera (feat. Forest Claudette)",
+        "url": "https://open.spotify.com/album/7LCKojbf1T8VJGaqm9eVHq"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        },
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Fantasy Camera (feat. Forest Claudette)",
+      "url": "https://open.spotify.com/track/5GrUr9jQJqRRvA6AuHiYYH"
     },
     {
       "added_at": "2026-01-16 05:00:40",
@@ -335,6 +411,22 @@
       "duration_ms": 272492,
       "name": "Feel So Good Around U",
       "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
+    },
+    {
+      "added_at": "2026-01-23 05:00:29",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 137012,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -411,22 +503,6 @@
       "duration_ms": 332000,
       "name": "angels",
       "url": "https://open.spotify.com/track/5aErTHmtbhPX6CJXh5MPgz"
-    },
-    {
-      "added_at": "2026-01-16 05:00:40",
-      "album": {
-        "name": "Good Night Baby",
-        "url": "https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 261884,
-      "name": "Good Night Baby",
-      "url": "https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB"
     },
     {
       "added_at": "2026-01-09 05:00:42",
@@ -897,42 +973,6 @@
       "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
-      "added_at": "2026-01-02 17:26:24",
-      "album": {
-        "name": "Don't Wanna Dance",
-        "url": "https://open.spotify.com/album/3epA9IPG0ZupK7xVBGK5dE"
-      },
-      "artists": [
-        {
-          "name": "Louis La Roche",
-          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
-        },
-        {
-          "name": "Mike Mago",
-          "url": "https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx"
-        }
-      ],
-      "duration_ms": 151068,
-      "name": "Don't Wanna Dance",
-      "url": "https://open.spotify.com/track/36npbjNjaozTvCR9LdbOz2"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
-        "name": "Chewing The Fat (Deluxe)",
-        "url": "https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183496,
-      "name": "Love Will Make You Do Strange Things",
-      "url": "https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj"
-    },
-    {
       "added_at": "2025-12-05 05:00:25",
       "album": {
         "name": "holding on",
@@ -975,22 +1015,6 @@
       "duration_ms": 147243,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
-    },
-    {
-      "added_at": "2025-12-05 05:00:25",
-      "album": {
-        "name": "are you real?",
-        "url": "https://open.spotify.com/album/40QQpj08A2FaydBjwiE0wa"
-      },
-      "artists": [
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 111633,
-      "name": "are you real?",
-      "url": "https://open.spotify.com/track/47OHDjvXButGSjlmb7zfyW"
     },
     {
       "added_at": "2025-11-14 05:00:40",
@@ -1115,26 +1139,6 @@
       "duration_ms": 193241,
       "name": "fake it",
       "url": "https://open.spotify.com/track/78yPzqR2Gyg9IcjRcdVLkz"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
-        "name": "Secular Music Vol. 1",
-        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Pinty",
-          "url": "https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV"
-        }
-      ],
-      "duration_ms": 186605,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/2J1efkpGsy1cygh7k80PVV"
     },
     {
       "added_at": "2025-08-11 18:49:11",

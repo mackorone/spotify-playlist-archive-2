@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 199330,
       "name": "Departure",
       "url": "https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp"
@@ -616,6 +616,28 @@
       "duration_ms": 201000,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
+    },
+    {
+      "album": {
+        "name": "DIG! (feat. Brian Jackson)",
+        "url": "https://open.spotify.com/album/6GiZ0tbtdGBq8XvkJNndWM"
+      },
+      "artists": [
+        {
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
+        },
+        {
+          "name": "Brian Jackson",
+          "url": "https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "DIG! (feat. Brian Jackson)",
+      "url": "https://open.spotify.com/track/58MkiOEe314jQ1MBUq3T49"
     },
     {
       "album": {
@@ -1839,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "MY CITY (Radio edit)",
+        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
+      },
+      "artists": [
+        {
+          "name": "Ty Darling",
+          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189349,
+      "name": "MY CITY - Radio edit",
+      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
+    },
+    {
+      "album": {
         "name": "My Favourite",
         "url": "https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA"
       },
@@ -1868,7 +1908,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181370,
       "name": "Mycose",
       "url": "https://open.spotify.com/track/4aZtYe0lgo5T46jX31CXhj"
@@ -2277,6 +2317,28 @@
     },
     {
       "album": {
+        "name": "Rent-free",
+        "url": "https://open.spotify.com/album/6tKyHjobjHjDMHPRSY4yjJ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        },
+        {
+          "name": "Nico Ducarme",
+          "url": "https://open.spotify.com/artist/4vTQywebkOhUaQGqiELXUT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198559,
+      "name": "Rent-free",
+      "url": "https://open.spotify.com/track/6wON1IkUQewJP6VuNJZUZU"
+    },
+    {
+      "album": {
         "name": "Repercussion (Alternate)",
         "url": "https://open.spotify.com/album/0k3RyZxuairEG1mlIVQoX4"
       },
@@ -2360,7 +2422,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194934,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0pD0ZDgjAMHLdFNov4sRta"
@@ -3010,7 +3072,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206171,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/5SBoHnZ0j3296tXHaKJs8R"
@@ -3296,6 +3358,24 @@
       "duration_ms": 238110,
       "name": "You'll Never Know",
       "url": "https://open.spotify.com/track/2SjQ0fVlquesb0b1G4xvKJ"
+    },
+    {
+      "album": {
+        "name": "You'll Never Know",
+        "url": "https://open.spotify.com/album/2y2qUwMUYN9t0j3vQVwZlI"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "You'll Never Know",
+      "url": "https://open.spotify.com/track/0YriJZjnapM8wks4KZsPix"
     },
     {
       "album": {

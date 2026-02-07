@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,691 likes - 124 songs - 7 hr 55 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,693 likes - 127 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 122 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 |
 | 123 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 |
 | 124 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 |
+| 125 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 |
+| 126 | [Stranger in the Doorway](https://open.spotify.com/track/513tmH4f4ObKLAzFrxpgDb) | [Massey's Cross](https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ) | [Memorial](https://open.spotify.com/album/2k8sdKIeYBSy6QTWZLPGWK) | 4:37 |
+| 127 | [PERFECT](https://open.spotify.com/track/6GK8NT1WSXxnxN0fGQrzo2) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [PERFECT](https://open.spotify.com/album/66qJyF1dyBFl0AEa3Oye7x) | 2:12 |
 
-Snapshot ID: `AAAKjsQSduuGUp5LMoUuk+2sWFpOipD6`
+Snapshot ID: `AAAKkfzFWYR+9AwJrbPfFROoR00sIO0b`

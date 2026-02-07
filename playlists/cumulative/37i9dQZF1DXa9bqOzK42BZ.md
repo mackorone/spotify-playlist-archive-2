@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Joel Lwaga
 
-312 songs - 1 day 3 hr 5 min
+313 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Jemedari](https://open.spotify.com/track/0vf9iDQU5ZPT6vxquVbnRK) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg), [Happy Mhae](https://open.spotify.com/artist/625oxVJqGmZtybnl9MdV1w) | [Jemedari](https://open.spotify.com/album/3LFKuACH1hToNOHIbN2XtO) | 14:16 | 2025-10-03 |  |
 | [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 | 2022-06-24 | 2023-05-21 |
 | [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 | 2022-06-24 | 2023-06-09 |
+| [Jina Takatifu](https://open.spotify.com/track/7tUw7l5NOyvzfLr6EFjjMf) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Jina Takatifu](https://open.spotify.com/album/4SWHBXpkt4ZWt9TfHpPITK) | 4:49 | 2026-02-06 |  |
 | [Kaa nami \- Live](https://open.spotify.com/track/1HvTdfzq7dLfaNcnyI59Wu) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Kaa nami \(Live\)](https://open.spotify.com/album/1MKs6gINHwZoh3mRAGxF4d) | 13:39 | 2024-10-11 |  |
 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 | 2024-04-12 |  |
 | [Kama Si Wewe](https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Kama Si Wewe](https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf) | 4:57 | 2022-06-24 |  |

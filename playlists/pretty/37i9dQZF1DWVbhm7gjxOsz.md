@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,458 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,525 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 63 | [Baby It's You](https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Will You Still Love Me Tomorrow](https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ) | 2:41 |
 | 64 | [I Want A Love I Can See](https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Meet The Temptations](https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt) | 2:32 |
 | 65 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 |
-| 66 | [Show and Tell](https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Show and Tell: The Best of Al Wilson](https://open.spotify.com/album/63NKHtOychyEccShIws1KA) | 3:27 |
-| 67 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
+| 66 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
+| 67 | [Show and Tell](https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Show and Tell: The Best of Al Wilson](https://open.spotify.com/album/63NKHtOychyEccShIws1KA) | 3:27 |
 | 68 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 | 69 | [Sabor A Mi](https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Revolución](https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus) | 3:17 |
 | 70 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 95 | [Smile Now, Cry Later](https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF) | [Sunny Ozuna And Sunliners](https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69) | [Cameo Parkway Pop And Soul Gems Of 1966 Vol\. 4](https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8) | 2:00 |
 | 96 | [Searching For My Love](https://open.spotify.com/track/0Q25xKgIaiT5JTDCT0qMea) | [Bobby Moore & The Rhythm Aces](https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz) | [Chess Soul: A Decade Of Chicago’s Finest](https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw) | 2:32 |
 | 97 | [Daddy's Home](https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Daddy's Home: The Very Best Of Shep & The Limelites](https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr) | 2:47 |
-| 98 | [Daddy's Home](https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [All the Hits and More](https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc) | 2:54 |
-| 99 | [The Bells](https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [The Complete Motown Singles Vol\. 10: 1970](https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe) | 2:52 |
+| 98 | [The Bells](https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [The Complete Motown Singles Vol\. 10: 1970](https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe) | 2:52 |
+| 99 | [Daddy's Home](https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI) | [Shep And The Limelites](https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf) | [All the Hits and More](https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc) | 2:54 |
 | 100 | [Tell It Like It Is](https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Frankie J.](https://open.spotify.com/artist/100CtDrmzVUZoaRxconKyH), [Edward "E\-Dub" Rios](https://open.spotify.com/artist/5aDKYokRScN1okHxSZDIVS) | [Dedicated to the Ones I Love, Vol\. 2](https://open.spotify.com/album/136641IlsqgJbCADEqlwqp) | 3:51 |
 | 101 | [Close Your Eyes](https://open.spotify.com/track/774ZoGBhlMSZd7nI2zojbc) | [Peaches & Herb](https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6) | [Let's Fall In Love](https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU) | 2:36 |
 | 102 | [The One Who Really Loves You \- Album Version / Mono](https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Smash Hits Of '62](https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh) | 2:23 |

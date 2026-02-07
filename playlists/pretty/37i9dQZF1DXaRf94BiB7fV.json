@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels in India. Cover - Shubham Mody",
-  "num_followers": 59920,
+  "num_followers": 59928,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
+        "name": "Mere Naina",
+        "url": "https://open.spotify.com/album/2jBjtvkQC3nX4qAwzrdr3h"
+      },
+      "artists": [
+        {
+          "name": "Tarun Batra",
+          "url": "https://open.spotify.com/artist/6p0YmfJSPs4RhVn1Qj5l5O"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Mere Naina",
+      "url": "https://open.spotify.com/track/0wuLwMOt86seeebb4SnpEF"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
         "name": "Fidaa",
         "url": "https://open.spotify.com/album/4LVYYC0kGPAlPQ91S7hZdf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 208285,
       "name": "Fidaa",
       "url": "https://open.spotify.com/track/0YdQ6qljvd2PgLi7Rb7r5z"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Mere Naina",
-        "url": "https://open.spotify.com/album/2jBjtvkQC3nX4qAwzrdr3h"
-      },
-      "artists": [
-        {
-          "name": "Tarun Batra",
-          "url": "https://open.spotify.com/artist/6p0YmfJSPs4RhVn1Qj5l5O"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Mere Naina",
-      "url": "https://open.spotify.com/track/0wuLwMOt86seeebb4SnpEF"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
+        "name": "Udd Chal Sang",
+        "url": "https://open.spotify.com/album/0k0b2mhe5z7CM8GdWwebSp"
+      },
+      "artists": [
+        {
+          "name": "Aryann",
+          "url": "https://open.spotify.com/artist/1uQoinWTp26FO8J3gTISPx"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Udd Chal Sang",
+      "url": "https://open.spotify.com/track/6NqKxrOpYx7C2cdcTSWQDn"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
         "name": "Rangreza",
         "url": "https://open.spotify.com/album/4rbYWxTxohQaNPh09o71hJ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 154630,
       "name": "Rangreza",
       "url": "https://open.spotify.com/track/2yqzP1gok7VS5TRwzFuPae"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Udd Chal Sang",
-        "url": "https://open.spotify.com/album/0k0b2mhe5z7CM8GdWwebSp"
-      },
-      "artists": [
-        {
-          "name": "Aryann",
-          "url": "https://open.spotify.com/artist/1uQoinWTp26FO8J3gTISPx"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Udd Chal Sang",
-      "url": "https://open.spotify.com/track/6NqKxrOpYx7C2cdcTSWQDn"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3g10SOyubtnVChkm1Rysyy"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1JpNxI6Ixk2TBX9ga2LFSb"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
         "name": "Jaaye Na Kahi",
         "url": "https://open.spotify.com/album/6CJsk9auFwfOcGR09XgurR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 198620,
       "name": "Jaaye Na Kahi",
       "url": "https://open.spotify.com/track/73jUIrEpNhJeKhXWhwVRy0"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3g10SOyubtnVChkm1Rysyy"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1JpNxI6Ixk2TBX9ga2LFSb"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "Hosh Faraar",
-        "url": "https://open.spotify.com/album/0ujHhH4wIuq7pEYomS7gOR"
-      },
-      "artists": [
-        {
-          "name": "Jay Thaker",
-          "url": "https://open.spotify.com/artist/0oJzAPEeq8GEbFG8lHg1S3"
-        }
-      ],
-      "duration_ms": 239994,
-      "name": "Hosh Faraar",
-      "url": "https://open.spotify.com/track/2YoUzPbP9AN6eHBi8L9eOR"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
         "name": "Khayaal Mein!",
         "url": "https://open.spotify.com/album/6HzF2s9jQEYepaaY3E1FqB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 369874,
       "name": "Khayaal Mein!",
       "url": "https://open.spotify.com/track/3ipbcu6MDLyrxsIbeLOxj9"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
+        "name": "naraaz",
+        "url": "https://open.spotify.com/album/3b9cn3tJXocGf4yCs2LhYi"
+      },
+      "artists": [
+        {
+          "name": "Srijjan",
+          "url": "https://open.spotify.com/artist/5dnjB8N4O4XUJipl8jpDf1"
+        }
+      ],
+      "duration_ms": 190684,
+      "name": "naraaz",
+      "url": "https://open.spotify.com/track/7nzBgjIP9pyiFg90sguIxz"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "naraaz",
-        "url": "https://open.spotify.com/album/3b9cn3tJXocGf4yCs2LhYi"
+        "name": "Hosh Faraar",
+        "url": "https://open.spotify.com/album/0ujHhH4wIuq7pEYomS7gOR"
       },
       "artists": [
         {
-          "name": "Srijjan",
-          "url": "https://open.spotify.com/artist/5dnjB8N4O4XUJipl8jpDf1"
+          "name": "Jay Thaker",
+          "url": "https://open.spotify.com/artist/0oJzAPEeq8GEbFG8lHg1S3"
         }
       ],
-      "duration_ms": 190684,
-      "name": "naraaz",
-      "url": "https://open.spotify.com/track/7nzBgjIP9pyiFg90sguIxz"
+      "duration_ms": 239994,
+      "name": "Hosh Faraar",
+      "url": "https://open.spotify.com/track/2YoUzPbP9AN6eHBi8L9eOR"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -775,6 +775,22 @@
       "duration_ms": 209999,
       "name": "Phir Milenge",
       "url": "https://open.spotify.com/track/0wXb8KhN6Ge2jUWyBMbYMN"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
+        "name": "Sari Ratiyaan",
+        "url": "https://open.spotify.com/album/3HL8TkcM8ftGVWv7JgONqC"
+      },
+      "artists": [
+        {
+          "name": "Ekta Jalotra",
+          "url": "https://open.spotify.com/artist/57OOvIH6xNVre7nFr2W0VJ"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Sari Ratiyaan",
+      "url": "https://open.spotify.com/track/2ti1af9ctwk1sWK7P2GXrF"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -939,6 +955,34 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
+        "name": "Na Meri Yaadon Mein Aao",
+        "url": "https://open.spotify.com/album/2N0xRU5GrYBFGDQHyRL7BC"
+      },
+      "artists": [
+        {
+          "name": "Ananya Wadkar",
+          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
+        },
+        {
+          "name": "Sunam Gyamtso Tenzin",
+          "url": "https://open.spotify.com/artist/6Ip4xmY0ridH2iIoiDqEOK"
+        },
+        {
+          "name": "Bhagwat Prasad Mishra",
+          "url": "https://open.spotify.com/artist/5DSl0lmJiSGLnHIgB6bHNk"
+        },
+        {
+          "name": "Saurav Ghimiray",
+          "url": "https://open.spotify.com/artist/52AXGP6HqOz9hqIeT4SWBZ"
+        }
+      ],
+      "duration_ms": 552659,
+      "name": "Na Meri Yaadon Mein Aao",
+      "url": "https://open.spotify.com/track/3O9aEom1XpQpG0goU2Uqij"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
         "name": "Agarbatti",
         "url": "https://open.spotify.com/album/4oqpywYzwgGO00TxaxkAgR"
       },
@@ -951,26 +995,6 @@
       "duration_ms": 184719,
       "name": "Agarbatti",
       "url": "https://open.spotify.com/track/5Pc4TbtL1u5tsAZhNlcNaE"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Dhaage Jud Gaye",
-        "url": "https://open.spotify.com/album/4oKIMeM0I0knrlUiB8Of9q"
-      },
-      "artists": [
-        {
-          "name": "Mukul Kureel",
-          "url": "https://open.spotify.com/artist/3YEGnrB1DFiYc3kRC4G1AL"
-        },
-        {
-          "name": "AG",
-          "url": "https://open.spotify.com/artist/730IuYVfvYCbRI1ODMvPCh"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Dhaage Jud Gaye",
-      "url": "https://open.spotify.com/track/1GdGYZuwbzRiFkBypLzdh2"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -999,30 +1023,22 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "Na Meri Yaadon Mein Aao",
-        "url": "https://open.spotify.com/album/2N0xRU5GrYBFGDQHyRL7BC"
+        "name": "Dhaage Jud Gaye",
+        "url": "https://open.spotify.com/album/4oKIMeM0I0knrlUiB8Of9q"
       },
       "artists": [
         {
-          "name": "Ananya Wadkar",
-          "url": "https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI"
+          "name": "Mukul Kureel",
+          "url": "https://open.spotify.com/artist/3YEGnrB1DFiYc3kRC4G1AL"
         },
         {
-          "name": "Sunam Gyamtso Tenzin",
-          "url": "https://open.spotify.com/artist/6Ip4xmY0ridH2iIoiDqEOK"
-        },
-        {
-          "name": "Bhagwat Prasad Mishra",
-          "url": "https://open.spotify.com/artist/5DSl0lmJiSGLnHIgB6bHNk"
-        },
-        {
-          "name": "Saurav Ghimiray",
-          "url": "https://open.spotify.com/artist/52AXGP6HqOz9hqIeT4SWBZ"
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/730IuYVfvYCbRI1ODMvPCh"
         }
       ],
-      "duration_ms": 552659,
-      "name": "Na Meri Yaadon Mein Aao",
-      "url": "https://open.spotify.com/track/3O9aEom1XpQpG0goU2Uqij"
+      "duration_ms": 194594,
+      "name": "Dhaage Jud Gaye",
+      "url": "https://open.spotify.com/track/1GdGYZuwbzRiFkBypLzdh2"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -1079,6 +1095,22 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
+        "name": "Ruan Ruan",
+        "url": "https://open.spotify.com/album/4Kvd45J5k4iTpelJAIMwzQ"
+      },
+      "artists": [
+        {
+          "name": "Tanay Patre",
+          "url": "https://open.spotify.com/artist/6mdKeyG12w5NnnZht62zOS"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "Ruan Ruan",
+      "url": "https://open.spotify.com/track/5gP3lGGlZY3431pQjM34JM"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
         "name": "Laazmi Nahi",
         "url": "https://open.spotify.com/album/7bPTyrFWucKyO1qGZMELfb"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 184960,
       "name": "Laazmi Nahi",
       "url": "https://open.spotify.com/track/2Ldztc3xl2TjHAxjQMCDHy"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Ruan Ruan",
-        "url": "https://open.spotify.com/album/4Kvd45J5k4iTpelJAIMwzQ"
-      },
-      "artists": [
-        {
-          "name": "Tanay Patre",
-          "url": "https://open.spotify.com/artist/6mdKeyG12w5NnnZht62zOS"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Ruan Ruan",
-      "url": "https://open.spotify.com/track/5gP3lGGlZY3431pQjM34JM"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "Zaruri",
-        "url": "https://open.spotify.com/album/32SyIHH30ROXaSwBVc3SQT"
-      },
-      "artists": [
-        {
-          "name": "Pushpita Misra",
-          "url": "https://open.spotify.com/artist/4arILsXRcm2nUzF4ACtOjI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Zaruri",
-      "url": "https://open.spotify.com/track/6nvrUMQfszLN0yzwTFxUJE"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
         "name": "Land of the Free",
         "url": "https://open.spotify.com/album/3f5lUfT3pMbQJmShZYgjW6"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 243760,
       "name": "Land of the Free",
       "url": "https://open.spotify.com/track/2dzNgYe04VjiEgDSrrudfA"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
+        "name": "Zaruri",
+        "url": "https://open.spotify.com/album/32SyIHH30ROXaSwBVc3SQT"
+      },
+      "artists": [
+        {
+          "name": "Pushpita Misra",
+          "url": "https://open.spotify.com/artist/4arILsXRcm2nUzF4ACtOjI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Zaruri",
+      "url": "https://open.spotify.com/track/6nvrUMQfszLN0yzwTFxUJE"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -1415,22 +1431,6 @@
       "duration_ms": 168118,
       "name": "Jaane Na",
       "url": "https://open.spotify.com/track/3LzM94pqmmbPnqMsCVOjm7"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Sari Ratiyaan",
-        "url": "https://open.spotify.com/album/3HL8TkcM8ftGVWv7JgONqC"
-      },
-      "artists": [
-        {
-          "name": "Ekta Jalotra",
-          "url": "https://open.spotify.com/artist/57OOvIH6xNVre7nFr2W0VJ"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Sari Ratiyaan",
-      "url": "https://open.spotify.com/track/2ti1af9ctwk1sWK7P2GXrF"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
+        "name": "Mera Ho Jaye",
+        "url": "https://open.spotify.com/album/5ioBBjFM8HgkUlCGsmJyRe"
+      },
+      "artists": [
+        {
+          "name": "Paras Chhaya",
+          "url": "https://open.spotify.com/artist/1lwvoa7cYVXSeXfJPD40ZN"
+        },
+        {
+          "name": "Christina Gurung",
+          "url": "https://open.spotify.com/artist/5F0oed2sGuf98wUU5vb2el"
+        }
+      ],
+      "duration_ms": 349995,
+      "name": "Mera Ho Jaye",
+      "url": "https://open.spotify.com/track/2HZIIRP3VbKb5haEljXuxL"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
         "name": "Kho Diya Hai",
         "url": "https://open.spotify.com/album/7MP3RovS1lt8PUbmV2m2Co"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 206655,
       "name": "Dil Mera",
       "url": "https://open.spotify.com/track/5ntLA896LcxIlbpQpeRU5P"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
-        "name": "Mera Ho Jaye",
-        "url": "https://open.spotify.com/album/5ioBBjFM8HgkUlCGsmJyRe"
-      },
-      "artists": [
-        {
-          "name": "Paras Chhaya",
-          "url": "https://open.spotify.com/artist/1lwvoa7cYVXSeXfJPD40ZN"
-        },
-        {
-          "name": "Christina Gurung",
-          "url": "https://open.spotify.com/artist/5F0oed2sGuf98wUU5vb2el"
-        }
-      ],
-      "duration_ms": 349995,
-      "name": "Mera Ho Jaye",
-      "url": "https://open.spotify.com/track/2HZIIRP3VbKb5haEljXuxL"
     },
     {
       "added_at": "2026-02-04 07:53:14",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-02-04 07:53:14",
       "album": {
-        "name": "Kyun?",
-        "url": "https://open.spotify.com/album/13fLdaasLzYSymQOgr6hYv"
-      },
-      "artists": [
-        {
-          "name": "Franco Bhalla",
-          "url": "https://open.spotify.com/artist/1xz3cw9ANBy1VWfXKapeRM"
-        },
-        {
-          "name": "Sameer's Tape",
-          "url": "https://open.spotify.com/artist/2PsHI9EHX3ZpQlq20fwoOM"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Kyun?",
-      "url": "https://open.spotify.com/track/10mulA2ZkI5P0T2FAQzfVy"
-    },
-    {
-      "added_at": "2026-02-04 07:53:14",
-      "album": {
         "name": "Payal Baaje",
         "url": "https://open.spotify.com/album/7HkVnpTWg5fHjekSq5XMhe"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 120000,
       "name": "Payal Baaje",
       "url": "https://open.spotify.com/track/3Feu58K1E5FblFP8U2aO0z"
+    },
+    {
+      "added_at": "2026-02-04 07:53:14",
+      "album": {
+        "name": "Kyun?",
+        "url": "https://open.spotify.com/album/13fLdaasLzYSymQOgr6hYv"
+      },
+      "artists": [
+        {
+          "name": "Franco Bhalla",
+          "url": "https://open.spotify.com/artist/1xz3cw9ANBy1VWfXKapeRM"
+        },
+        {
+          "name": "Sameer's Tape",
+          "url": "https://open.spotify.com/artist/2PsHI9EHX3ZpQlq20fwoOM"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Kyun?",
+      "url": "https://open.spotify.com/track/10mulA2ZkI5P0T2FAQzfVy"
     },
     {
       "added_at": "2026-02-04 07:53:14",

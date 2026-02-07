@@ -2787,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Domar el Caos, Vol. II",
+        "url": "https://open.spotify.com/album/0Kbf6uOhsRgnzBmQXrfjnk"
+      },
+      "artists": [
+        {
+          "name": "Barricada Sonora",
+          "url": "https://open.spotify.com/artist/4iINKZwQYV8fT3CbPevl2x"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177519,
+      "name": "Fincholona",
+      "url": "https://open.spotify.com/track/1bX21YT1ErbapEMYC5VnDw"
+    },
+    {
+      "album": {
         "name": "Flama",
         "url": "https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV"
       },
@@ -4406,7 +4424,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 182045,
       "name": "MAGMA",
       "url": "https://open.spotify.com/track/0bMc9QJk0k7Pir54IGuRVL"
@@ -4512,7 +4530,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 145116,
       "name": "Matando Moscas",
       "url": "https://open.spotify.com/track/40Shb6T0pxEwWGJ6GDXR9z"
@@ -4974,7 +4992,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 101200,
       "name": "MUA MUA",
       "url": "https://open.spotify.com/track/5NpbR1msaCHFLK4Ey9kszX"
@@ -5590,6 +5608,24 @@
       "duration_ms": 166870,
       "name": "OGT",
       "url": "https://open.spotify.com/track/0LMO5H12gYWwmRdosBPW26"
+    },
+    {
+      "album": {
+        "name": "OJO COL\u00d3N",
+        "url": "https://open.spotify.com/album/2QBa26ya1FAj82HZv58D0S"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "OJO COL\u00d3N",
+      "url": "https://open.spotify.com/track/520GA4LKriSTiFQUqoyqx9"
     },
     {
       "album": {
@@ -7044,6 +7080,24 @@
       "duration_ms": 211200,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/2MOq3MGljBBHaUWlM5ARsp"
+    },
+    {
+      "album": {
+        "name": "Sustancias",
+        "url": "https://open.spotify.com/album/5N3XpMgeyjfTB1mMylH8Pq"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Sustancias",
+      "url": "https://open.spotify.com/track/5AwmjqMMYU46Esqe72NBwH"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1056086,
+  "num_followers": 1056249,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACiJIfc94ATar+TBhlRM4LP",
+  "snapshot_id": "aYPdgAAAAAB1OJs1pcdfAbgM8tN+/Y4/",
   "tracks": [
     {
       "added_at": null,
@@ -432,7 +432,7 @@
       "added_at": null,
       "album": {
         "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 151733,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/19DXrs7rMsqiUdAFLmHGOs"
+      "duration_ms": 160266,
+      "name": "War?",
+      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 160266,
-      "name": "War?",
-      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
+      "duration_ms": 163800,
+      "name": "Suggestions",
+      "url": "https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Suggestions",
-      "url": "https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus"
+      "duration_ms": 151733,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/2TbPJCaI9Ti1Qz4w8as5up"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Slow J e Prodígio entram na zona.
 
-941 songs - 2 day 1 hr 39 min
+941 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [Não Volto](https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [100 Segredos](https://open.spotify.com/album/66GmwuRmnCeJAKGkZC2gMf) | 2:51 | 2023-12-08 | 2024-01-19 |
 | [O Amanhã](https://open.spotify.com/track/3EyBjDXxhTbmfenp19AZxd) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [O Amanhã](https://open.spotify.com/album/5vTycWeC0mRX4bTKaaEhWz) | 4:05 | 2026-01-30 |  |
 | [O Gueto Ainda Não Venceu](https://open.spotify.com/track/4yGWzS6eiK0qeDYMSTDoU6) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp) | [O Gueto Ainda Não Venceu](https://open.spotify.com/album/0UIeTT51Xbukd3llZXyGRM) | 2:30 | 2025-08-07 | 2025-08-09 |
+| [O Meu Lugar](https://open.spotify.com/track/5LUARBAcweeHJydX6RO70H) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [O Que Não Se Vê É Eterno](https://open.spotify.com/album/5svyI97pSCZmEBullM3czj) | 2:48 | 2026-02-06 |  |
 | [O Outro Lado Do Muro](https://open.spotify.com/track/6qfviK9gdL6uG4OvhBMzut) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Os Distúrbios Mentais De Um Monstro](https://open.spotify.com/album/4i7M7g1rfuaMOE7BxRp2Ye) | 3:38 | 2022-11-25 | 2023-01-06 |
 | [O Peixe Morre Pela Boca](https://open.spotify.com/track/3OxBtfWT4rEGBmVvSNybAP) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1) | [O Peixe Morre Pela Boca](https://open.spotify.com/album/4e4U4mk7rUxVkaRMpHtenJ) | 2:33 | 2024-03-08 | 2024-04-05 |
 | [O que é que tens feito?](https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [O que é que tens feito?](https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v) | 3:11 | 2022-07-16 | 2023-04-21 |
@@ -858,7 +859,6 @@
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-06-09 |
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
-| [Track 17](https://open.spotify.com/track/5LUARBAcweeHJydX6RO70H) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

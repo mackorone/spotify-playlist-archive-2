@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Zach Bryan",
-  "num_followers": 42645,
+  "num_followers": 42660,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Stay in Your Lane",
-        "url": "https://open.spotify.com/album/3ukNtDUlpfzDwFXiZFAGsh"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2HLqoccnVNqOfm7gpN1Svo"
       },
       "artists": [
         {
-          "name": "Bronson Diamond",
-          "url": "https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW"
-        },
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 209417,
-      "name": "Stay in Your Lane",
-      "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
+      "duration_ms": 164264,
+      "name": "Park",
+      "url": "https://open.spotify.com/track/119cU5gffLzRlsEGSshPNQ"
     }
   ],
   "unique_name": "Country Musiek",

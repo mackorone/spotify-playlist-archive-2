@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Philippe B",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Mort Rose",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 245000,
       "name": "Can't Find Your Way Out",
       "url": "https://open.spotify.com/track/2fTtf4EOutQ7p5Lddqfr9a"
@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "ergo sum",
+        "url": "https://open.spotify.com/album/0WoiaolqRVG7ET2WKgkUsK"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "ergo sum",
+      "url": "https://open.spotify.com/track/7wFGm3luIki5eSUOgWXYp4"
+    },
+    {
+      "album": {
         "name": "Et \u00e0 la fin",
         "url": "https://open.spotify.com/album/0fWRTFpznGYMGjymP7cMbU"
       },
@@ -2290,6 +2308,24 @@
       "duration_ms": 133721,
       "name": "I Lost My Baby",
       "url": "https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw"
+    },
+    {
+      "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "album": {
@@ -2868,6 +2904,24 @@
       "duration_ms": 296503,
       "name": "Kekpart",
       "url": "https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu"
+    },
+    {
+      "album": {
+        "name": "fant\u00f4mes",
+        "url": "https://open.spotify.com/album/4m3s4uTq3XyOVP8VydVTfB"
+      },
+      "artists": [
+        {
+          "name": "VALOIS",
+          "url": "https://open.spotify.com/artist/5OwfDkHCBRa3PV35XnA3lk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "l'aigle et la sir\u00e8ne",
+      "url": "https://open.spotify.com/track/7cX9f7u3IuKotSo00cydd7"
     },
     {
       "album": {
@@ -3542,7 +3596,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 231375,
       "name": "Le pied cass\u00e9 cassant",
       "url": "https://open.spotify.com/track/0J7TFGv0JKX5seWssUpltE"
@@ -3802,7 +3856,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 244083,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
@@ -4178,6 +4232,46 @@
       "duration_ms": 167506,
       "name": "Mauvais temps",
       "url": "https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA"
+    },
+    {
+      "album": {
+        "name": "Mont Rose",
+        "url": "https://open.spotify.com/album/1LXY5LilKrmt2zxsOQByxM"
+      },
+      "artists": [
+        {
+          "name": "Mort Rose",
+          "url": "https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Mens pas",
+      "url": "https://open.spotify.com/track/2wYC86oY3XekF4VEMTMS4p"
+    },
+    {
+      "album": {
+        "name": "REPRISES",
+        "url": "https://open.spotify.com/album/15JvasDJEX8HHFcTA9b3zT"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262828,
+      "name": "Mercy Street",
+      "url": "https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU"
     },
     {
       "album": {
@@ -5190,7 +5284,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206336,
       "name": "Reflets",
       "url": "https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ"
@@ -5360,6 +5454,24 @@
       "duration_ms": 166266,
       "name": "S'il te pla\u00eet, fais-moi danser",
       "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
+    },
+    {
+      "album": {
+        "name": "La distance n'est pas vraiment l\u00e0",
+        "url": "https://open.spotify.com/album/61rdaK73DERmnmRxf6PB3N"
+      },
+      "artists": [
+        {
+          "name": "oui merci",
+          "url": "https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/7rchRoGZyaW3cgULOqOjfy"
     },
     {
       "album": {
@@ -5594,7 +5706,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183208,
       "name": "South of the Border",
       "url": "https://open.spotify.com/track/0XX3pLPcGOeTmMPEPSr8ip"
@@ -5890,7 +6002,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 219533,
       "name": "That I could",
       "url": "https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY"

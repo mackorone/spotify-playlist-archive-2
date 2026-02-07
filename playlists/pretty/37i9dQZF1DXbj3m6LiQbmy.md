@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  SENZA CRI in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,235 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
 | 2 | [Tornado](https://open.spotify.com/track/2UdcbdDZQrQclwJTblATFa) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Anime Storte](https://open.spotify.com/album/4O8zCrvouHUXmHLoRUNZAo) | 3:29 |
-| 3 | [Miscel](https://open.spotify.com/track/2eS8fjO9rSSspY2EDorUly) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [SDREUSS](https://open.spotify.com/artist/58n2gUMUzz1GJg8Y9Cy9NW) | [](https://open.spotify.com/album/null) | 2:41 |
+| 3 | [Miscel](https://open.spotify.com/track/2eS8fjO9rSSspY2EDorUly) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [SDREUSS](https://open.spotify.com/artist/58n2gUMUzz1GJg8Y9Cy9NW) | [House of Protopapa](https://open.spotify.com/album/4N8WvMDRJzT9AZ5skfWQiN) | 2:41 |
 | 4 | [Cuore Rotto](https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Cuore Rotto](https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8) | 2:28 |
 | 5 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 6 | [trans](https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2) | 2:19 |

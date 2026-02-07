@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: RANCORE
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas
 
-592 songs - 1 day 9 hr 9 min
+597 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Abismo](https://open.spotify.com/track/1tn7xftRY7vRGqElMEJaE0) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Abismo](https://open.spotify.com/album/4slCnOvaFhfeo0Qy3AZEMt) | 4:40 | 2022-01-14 | 2023-11-11 |
 | [Abuso de Poder](https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6) | [Expressão Natural](https://open.spotify.com/artist/6juomSRQSBzAbY4zQARLcM) | [Abuso de Poder](https://open.spotify.com/album/2OaWVGoV0DUMOcvPLVy8V6) | 4:56 | 2022-01-14 | 2023-01-21 |
 | [Acaso](https://open.spotify.com/track/2wSLrkw84GBlAzyEGjnTih) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Acaso](https://open.spotify.com/album/4bjYx9mngwSOXVRNXpZzT9) | 3:58 | 2022-04-22 | 2022-10-29 |
+| [Aceleração](https://open.spotify.com/track/1ytWr2DLv9xdTxc1vJQsd1) | [Turno Noturno](https://open.spotify.com/artist/72qp9nLI5VFwopDeCQpLs1) | [Aceleração](https://open.spotify.com/album/49V35LbDrHrmGgqModSxwF) | 3:29 | 2026-02-06 |  |
 | [Admirável Chip Novo \- Ao Vivo](https://open.spotify.com/track/0xOLW52lNZdUssAMxgcTn5) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [ACNXX Ao Vivo em Salvador](https://open.spotify.com/album/6gNktSnoD3M0KFIecwOBeJ) | 3:43 | 2024-02-02 |  |
 | [Agora Deixa \(LIVE\)](https://open.spotify.com/track/67uSrT1Wf3IVgJtWj8kDXy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/0Mqi7qi7JaNWAVoVNemkyN) | 4:47 | 2023-11-03 | 2023-11-25 |
 | [Agora Deixa \- LIVE](https://open.spotify.com/track/0k6g7j1v203m615OkO0YmJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [VTQMV TOUR \(LIVE\)](https://open.spotify.com/album/1d3WrKOjcpnDXaVKjkmI8A) | 4:47 | 2023-11-03 | 2023-11-05 |
@@ -143,7 +144,9 @@
 | [Depois Que a Guerra Terminou](https://open.spotify.com/track/7HusYomLBNS718cT4jpDNG) | [Gustavo Kaly](https://open.spotify.com/artist/2APbW9Syz4fKotQHXryChK), [wander wildner](https://open.spotify.com/artist/3kkd2ywd7eR5uPocPzTwFE) | [Depois Que a Guerra Terminou](https://open.spotify.com/album/5ql0LSgUlMUCRAqxt6yLA7) | 2:04 | 2022-04-01 | 2022-04-09 |
 | [DESCANSA](https://open.spotify.com/track/3w0DZSyTT18YbE2UeneB7j) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [DESCANSA](https://open.spotify.com/album/3cXIRdtQDTqWNNWOQl0hvU) | 2:49 | 2022-03-04 | 2022-04-16 |
 | [Desculpa te Ligar](https://open.spotify.com/track/6GuDzz9fKErz0GknIFSzRP) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Todas pra você que me fez sofrer](https://open.spotify.com/album/3LSLhIdXsWmGosIm15nsMn) | 1:56 | 2023-04-14 | 2023-07-01 |
+| [Desde Que Eu Morri](https://open.spotify.com/track/485DVlRqkWddYmWvXW3HaS) | [Ludovic](https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU) | [Desde Que Eu Morri](https://open.spotify.com/album/7tCz7eqMGfd8tbf5f2JVVZ) | 3:35 | 2026-02-06 |  |
 | [Desejo](https://open.spotify.com/track/5IjSQc14BR9KzxweO7O35a) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Desejo](https://open.spotify.com/album/7uT19CUier39ATEs57DO7q) | 2:22 | 2025-09-19 |  |
+| [Desencanto](https://open.spotify.com/track/6p8QyFpYK21dEKbyE0OOmk) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Desencanto](https://open.spotify.com/album/6ZE6lZYEL9SKV1Dkeuefh2) | 3:18 | 2026-02-06 |  |
 | [Deserto](https://open.spotify.com/track/5tPDt8dTC8n95xxyDem6Lo) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Deserto](https://open.spotify.com/album/2YtWOLnRl8IebrFU50zQQF) | 3:03 | 2024-03-29 | 2024-05-11 |
 | [Desesperados](https://open.spotify.com/track/01xfGcRpynaiKzt8RjoEAb) | [Surr](https://open.spotify.com/artist/6ne9xIUEUyKEmhbhPbWFAZ) | [Desesperados](https://open.spotify.com/album/1WakbaY3UI4dyTMbFeLsfM) | 2:27 | 2023-01-27 | 2023-02-25 |
 | [Dia 14, Pt\. 2](https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx) | [Dia 14, Pt\. 2](https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp) | 3:28 | 2022-01-14 | 2023-03-03 |
@@ -367,6 +370,7 @@
 | [Não É Só Existir](https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Não É Só Existir](https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn) | 3:49 | 2022-01-14 | 2022-12-17 |
 | [Nó](https://open.spotify.com/track/2NsoozYK2yr62Y9HoN1Hfk) | [Versalle](https://open.spotify.com/artist/1Z5eMWseuXfjpB1qb0i7TH) | [Nó](https://open.spotify.com/album/4gKgBctqVjoHhBbI7BK83t) | 3:11 | 2022-05-20 | 2022-07-16 |
 | [Nóias Normais](https://open.spotify.com/track/152RBkawH7f1tYkMaHZ5Ac) | [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Nóias Normais](https://open.spotify.com/album/5LEpx272eqxABbGxbYDLxL) | 3:28 | 2022-01-14 | 2022-02-05 |
+| [Nós](https://open.spotify.com/track/7MxbNDAKn4S7JcooB23sdz) | [Drive](https://open.spotify.com/artist/2nYaKzPM2cPAb3W8CmtwHY) | [Nós](https://open.spotify.com/album/5DDhREXx5fMZqiw9gmKGD7) | 4:37 | 2026-02-06 |  |
 | [O Amor e Seus Desvios](https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Leoni](https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL) | [O Amor e Seus Desvios](https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65) | 3:54 | 2024-10-11 | 2025-07-26 |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2022-01-14 | 2023-04-01 |
 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 | 2022-11-25 | 2023-02-04 |
@@ -573,6 +577,7 @@
 | [Vagabundo](https://open.spotify.com/track/0E7v3buDNbZrb5oZiDYjnB) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Vacinado No Bum Bum](https://open.spotify.com/album/74fPxZjhefQfJJf4xod91T) | 3:25 | 2022-04-01 | 2022-05-07 |
 | [Vai Saber](https://open.spotify.com/track/3saLejtlN4SwXdMsgraD81) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Vai Saber](https://open.spotify.com/album/42ObjQ6VVIqs1NFSQ8vVeo) | 3:25 | 2022-09-09 | 2022-12-17 |
 | [Vai Vai](https://open.spotify.com/track/12XAtuI5NdUvOQhoLEnWLs) | [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Vai Vai](https://open.spotify.com/album/5exaN1f9dHKtVqdHNLMBoq) | 3:44 | 2022-04-01 | 2022-04-16 |
+| [Vampira](https://open.spotify.com/track/4Jxn2gmc5uWV18hwUzDzlB) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Vampira](https://open.spotify.com/album/5cQ3ATb7h1qkPhHu15jKhP) | 2:07 | 2026-02-06 |  |
 | [vc é msm tão melhor que eu?](https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [vc é msm tão melhor que eu?](https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk) | 3:29 | 2022-01-21 | 2022-05-14 |
 | [Velejar](https://open.spotify.com/track/1kCLQCj7BBTWkUFMoo05kL) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Velejar](https://open.spotify.com/album/7FqaxQGN5HmrZCk9auyK6e) | 3:59 | 2022-09-23 | 2023-06-07 |
 | [Velejar](https://open.spotify.com/track/7avsrffq8765coCB5WaLtk) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 3:59 | 2023-06-02 | 2023-07-15 |

@@ -2,9 +2,9 @@
 
 ### [Disney Sing\-Alongs](https://open.spotify.com/playlist/37i9dQZF1DX1okZ1ZeITst)
 
-> Discover Disney songs to sing along to, including “Zoo” from Zootopia 2!
+> Sing along with Angel to "Glitter Glide" and other Disney favorites!
 
-189 songs - 9 hr 43 min
+190 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Gaston](https://open.spotify.com/track/1v7HQKegIjcBAsAsHjnXZU) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 4:25 | 2024-01-08 | 2025-10-01 |
 | [Gaston](https://open.spotify.com/track/0zstgBrV1t1g6n4jHrUVBY) | [Richard White](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G), [Jesse Corti](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 3:40 | 2024-01-08 |  |
 | [Give Your Heart A Break](https://open.spotify.com/track/3YC0Pq7V472TbM1zFzUcOh) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/42AZNG47GCEkfsjp2hlN3M) | 3:25 | 2024-12-20 | 2025-10-01 |
+| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"](https://open.spotify.com/track/1S2wspqYMjUWEUsNkow23w) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"\)](https://open.spotify.com/album/5VT6DktVnly5XCedIRQPIZ) | 2:21 | 2026-02-06 |  |
 | [Go the Distance](https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 3:14 | 2024-01-08 |  |
 | [Go the Distance](https://open.spotify.com/track/6jyKO0f6AAXUPiZn2ts95e) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 3:08 | 2024-09-13 | 2025-10-01 |
 | [Grim Grinning Ghosts \(Dance Party\)](https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Haunted Mansion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7) | 1:32 | 2024-01-08 | 2025-03-26 |

@@ -4,11 +4,12 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover:  Irina Barros
 
-642 songs - 1 day 12 hr 52 min
+642 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
+| [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 |  |
 | [4 Horas](https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [4 Horas](https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne) | 3:14 | 2023-03-17 | 2023-07-14 |
@@ -570,7 +571,6 @@
 | [Tou Nem Aí](https://open.spotify.com/track/5i9rk1inbBQiTU112UoLcv) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Dreya](https://open.spotify.com/artist/4h2KoRtVUQKaWfa8E2dPPW) | [Tou Nem Aí](https://open.spotify.com/album/7CRh6bwRZjVeEnwcKXLwlG) | 3:39 | 2022-06-06 | 2022-06-17 |
 | [Toxic](https://open.spotify.com/track/5fnZWbuASOpMTDOdG59PZo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Afro Connexion](https://open.spotify.com/artist/0JruE4kOBZvm512ggXVwkD) | [Toxic](https://open.spotify.com/album/6So9yasFDpP0wc8pTHAX3d) | 3:33 | 2025-03-14 | 2025-06-11 |
 | [Toxic](https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID) | [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7) | [Toxic](https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h) | 3:26 | 2023-08-31 | 2023-09-15 |
-| [Track 7](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Tranca](https://open.spotify.com/track/6d7mrCi7yhVZ0OHAKbChFd) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Mozany Bué de Ahh](https://open.spotify.com/artist/4GQZbCW540R9R6D8giQUVd), [D'benilson](https://open.spotify.com/artist/2P056fpRLEwIhcLk3ELINn) | [Tranca](https://open.spotify.com/album/221dQ2hG0e9btdlRuFfIv2) | 2:53 | 2025-10-23 | 2025-11-28 |
 | [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 | 2023-07-21 |
 | [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 | 2023-07-13 | 2024-04-19 |

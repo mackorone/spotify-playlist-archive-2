@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Lizzie Morgan",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Tommee Profitt & Phil Wickham",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 568546,
       "name": "Consider Him",
       "url": "https://open.spotify.com/track/3jxmJxj1fGRmV9ZGyOdCvr"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 245036,
       "name": "Everything With Breath",
       "url": "https://open.spotify.com/track/2Xo6m4vkGZeMyEdUobqarl"
@@ -5950,7 +5950,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216567,
       "name": "Hallelujah In The Hard Things",
       "url": "https://open.spotify.com/track/0PxhROpedyP63Onnoeddk8"
@@ -6012,6 +6012,28 @@
       "duration_ms": 233129,
       "name": "Happily Hidden (with John Mark McMillan)",
       "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+    },
+    {
+      "album": {
+        "name": "He Arose",
+        "url": "https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289972,
+      "name": "He Arose",
+      "url": "https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9"
     },
     {
       "album": {
@@ -6346,6 +6368,24 @@
       "duration_ms": 274697,
       "name": "Help Me Live in Step - Live",
       "url": "https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM"
+    },
+    {
+      "album": {
+        "name": "Help My Unbelief",
+        "url": "https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206799,
+      "name": "Help My Unbelief - Acoustic",
+      "url": "https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt"
     },
     {
       "album": {
@@ -9062,7 +9102,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184669,
       "name": "Jesus Saves (with The Birmingham Youth & Young Adult Fellowship Choir)",
       "url": "https://open.spotify.com/track/3yJEDyVr6QptXTIwAZdLOD"
@@ -11109,6 +11149,32 @@
     },
     {
       "album": {
+        "name": "Morning Noon & Night",
+        "url": "https://open.spotify.com/album/5K4U5TwkhvPVaV92jm8KTX"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "Move Your Heart - Acoustic",
+      "url": "https://open.spotify.com/track/1KnBcws65ojuFGqc500do6"
+    },
+    {
+      "album": {
         "name": "Mountains Move",
         "url": "https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J"
       },
@@ -11200,6 +11266,24 @@
       "duration_ms": 366429,
       "name": "My Life Is Proof - Live",
       "url": "https://open.spotify.com/track/07Vx1j68TVTsxs0P0s3brN"
+    },
+    {
+      "album": {
+        "name": "My Refuge",
+        "url": "https://open.spotify.com/album/3VrxaNLEspb9PpdmCGz4jG"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290616,
+      "name": "My Refuge",
+      "url": "https://open.spotify.com/track/5GbMXLKsk86mfc4dMV9Zrx"
     },
     {
       "album": {

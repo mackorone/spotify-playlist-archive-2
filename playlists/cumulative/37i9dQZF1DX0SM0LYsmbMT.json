@@ -17098,7 +17098,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 116000,
       "name": "croissant",
       "url": "https://open.spotify.com/track/1cujdkrM2iOGIkbNqvwRx1"
@@ -22896,7 +22896,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 124235,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/2iq7cTcwCbPXwjQ969MZ63"
@@ -26782,7 +26782,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 115263,
       "name": "Fly Out",
       "url": "https://open.spotify.com/track/7x36vjH0FIl4W1cCKFcg91"
@@ -41604,6 +41604,28 @@
     {
       "album": {
         "name": "Lava Lamp",
+        "url": "https://open.spotify.com/album/4uaf1d87TUIuyo60wU09WK"
+      },
+      "artists": [
+        {
+          "name": "Lock",
+          "url": "https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A"
+        },
+        {
+          "name": "pepperonibeats",
+          "url": "https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125783,
+      "name": "Lava Lamp",
+      "url": "https://open.spotify.com/track/1Zk4cXeXgFzRZRFxj9xqqc"
+    },
+    {
+      "album": {
+        "name": "Lava Lamp",
         "url": "https://open.spotify.com/album/6tFg3g7AewEkijP03MP6ZP"
       },
       "artists": [
@@ -50968,7 +50990,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 156404,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/0h4FhO4anm49Y1RqOtJGr6"
@@ -58051,6 +58073,28 @@
     },
     {
       "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/0ENGBhziQutgkSMfkWYX3D"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/6VVNoJGSlZGrwpb4nrXDRB"
+    },
+    {
+      "album": {
         "name": "Overseas",
         "url": "https://open.spotify.com/album/0UyCM3qpNRKXN6GU7OZ3XJ"
       },
@@ -59476,7 +59520,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 123000,
       "name": "Peaches and Cream",
       "url": "https://open.spotify.com/track/3hI24Dpu2L2YZy3p5Lj1vX"
@@ -80000,6 +80044,28 @@
       "duration_ms": 131723,
       "name": "The One",
       "url": "https://open.spotify.com/track/1dJu56h6ggAwFqxMMWLMdY"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0ZDrtcnjPbn6ZfLtg7QeiY"
+      },
+      "artists": [
+        {
+          "name": "OMMI",
+          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
+        },
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141046,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4UAEwTU7titS9UlfyQCMZm"
     },
     {
       "album": {

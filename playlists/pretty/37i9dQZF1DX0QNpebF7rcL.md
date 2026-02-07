@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Robert Finley
+> The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,094 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,177 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Mississippi](https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [One Mississippi](https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH) | 3:38 |
-| 2 | [Too Broke](https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Labor Of Love](https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf) | 2:59 |
-| 3 | [Little By Little](https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Little By Little](https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm) | 5:08 |
-| 4 | [Flyin’ High \[Yesterday\]](https://open.spotify.com/track/2dl5oYgHph3A1HiNJI5nOS) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [How Did I Ever Get This Blue](https://open.spotify.com/album/5WqWzHGGF2pxly2Mcu4xfo) | 3:14 |
-| 5 | [Hell Or High Water](https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Or High Water](https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF) | 3:41 |
-| 6 | [Bad All By Myself](https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Bad All By Myself](https://open.spotify.com/album/0KqcosWr5cg8RED2aVMWdn) | 3:43 |
-| 7 | [Hell or High Water](https://open.spotify.com/track/7jrbzrew5vadFEnJfrwwvQ) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hell or High Water](https://open.spotify.com/album/1TxrD5ueL94W1e5pZeBzps) | 4:30 |
-| 8 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
-| 9 | [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 |
+| 1 | [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 |
+| 2 | [One Mississippi](https://open.spotify.com/track/5ZPcNZ30ErhH7d2WfLabi4) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [One Mississippi](https://open.spotify.com/album/3gkxsfKsBhUUsP3uhIEMGH) | 3:38 |
+| 3 | [Too Broke](https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Labor Of Love](https://open.spotify.com/album/3tM2BhfXRTk19q2aD2fLhf) | 2:59 |
+| 4 | [Hammer & Chisel](https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY) | 3:47 |
+| 5 | [Little By Little](https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Little By Little](https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm) | 5:08 |
+| 6 | [Flyin’ High \[Yesterday\]](https://open.spotify.com/track/2dl5oYgHph3A1HiNJI5nOS) | [Solomon Hicks](https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k) | [How Did I Ever Get This Blue](https://open.spotify.com/album/5WqWzHGGF2pxly2Mcu4xfo) | 3:14 |
+| 7 | [Hell Or High Water](https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Or High Water](https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF) | 3:41 |
+| 8 | [Bad All By Myself](https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [Bad All By Myself](https://open.spotify.com/album/0KqcosWr5cg8RED2aVMWdn) | 3:43 |
+| 9 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
 | 10 | [All Day, Everyday](https://open.spotify.com/track/2ghX9eUGJTvfbrkZhQk94N) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Ode To R.L.](https://open.spotify.com/album/0BCl4ENSu2og5YMnsGQ5T5) | 2:40 |
 | 11 | [Tougher Now](https://open.spotify.com/track/747VrxQK7vVawAP6EDdB9f) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Tougher Now](https://open.spotify.com/album/1IFqv7FgHOD8SPQTdycrbi) | 3:00 |
 | 12 | [Just One More Time](https://open.spotify.com/track/4dXyMNpMEEKs0ihnj6XnVE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Just One More Time](https://open.spotify.com/album/2b63qU8xnvBoRiYJGoLKFF) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Can't Fix The World](https://open.spotify.com/track/7ogGQUN9oT3rMX2Jd8VaeP) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [Can't Fix The World](https://open.spotify.com/album/4JeL7F0hiycVVfYfkMOKIB) | 4:15 |
 | 100 | [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 |
 
-Snapshot ID: `AAAAABrpU/17xZfT4QguphqJ3TN2NVS4`
+Snapshot ID: `AAAAAOx+kg8gUFqNaKVfaqtKN0eRL1No`

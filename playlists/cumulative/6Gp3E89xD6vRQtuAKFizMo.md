@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-536 songs - 1 day 1 hr 38 min
+538 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Beat Goes On \(feat\. Casey Cook\)](https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Beat Goes On \(feat\. Casey Cook\)](https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl) | 2:49 | 2025-05-23 |  |
 | [Beautiful](https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [Beautiful](https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh) | 3:26 | 2024-12-06 | 2025-04-27 |
 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 | 2023-05-06 | 2025-04-27 |
+| [Been Good](https://open.spotify.com/track/2ODKd2S4s1jHhoYnlqv9aF) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Been Good \(feat\. Kris Kiss\)](https://open.spotify.com/album/0ekN5r0VA4Fh4wdrXAyyMS) | 2:47 | 2026-02-06 |  |
 | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/track/1b5bA4rk56LmFBZCvi55tj) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0) | 2:59 | 2024-03-15 | 2025-04-27 |
 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 | 2023-05-26 | 2025-04-27 |
 | [Best Wishes](https://open.spotify.com/track/4GgeMUr8FVplRdm32QYiGA) | [GLASHER](https://open.spotify.com/artist/1RXHL363ZDGQRb5tHN54ea), [Dryker Stars](https://open.spotify.com/artist/7Fzn7nOcfnwzKaOCd5lxm8) | [Best Wishes](https://open.spotify.com/album/6r8s5c2SIou1gpA3SI5w16) | 3:01 | 2025-09-08 |  |
@@ -492,6 +493,7 @@
 | [Time](https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Time](https://open.spotify.com/album/6Q7CghzgduIYq5exyNO2Pv) | 2:36 | 2022-09-02 | 2023-04-09 |
 | [Timeless](https://open.spotify.com/track/0ck1M3hhAqPehHPryfEWlV) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Timeless](https://open.spotify.com/album/36ZqSNeu93bD52XjPwW4wY) | 2:35 | 2023-08-25 | 2025-04-27 |
 | [To The Beat](https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [To The Beat](https://open.spotify.com/album/2ytVZwLicJi3ZudO9FYPYJ) | 2:34 | 2024-01-12 | 2025-04-27 |
+| [Too Many Ghosts](https://open.spotify.com/track/0fWw2LjwciGDvHrAPZvskV) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Too Many Ghosts](https://open.spotify.com/album/5hRggb5loWJojxKSTh9HW5) | 2:24 | 2026-02-06 |  |
 | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\)](https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP) | 2:27 | 2022-11-04 | 2023-01-14 |
 | [Toxic Rain \(prod\. David Mugratsch\) \- VIP Mix](https://open.spotify.com/track/16VzFdHhJz6PkyFWMoEggi) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [David Mugratsch](https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud) | [Toxic Rain \(prod\. David Mugratsch\) \[VIP Mix\]](https://open.spotify.com/album/0YDquXUQDJ58JD6fp7XTzR) | 1:56 | 2022-11-28 | 2023-04-09 |
 | [Tra Tra](https://open.spotify.com/track/5W9zPAMdGvamICxgKyIyH4) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Tra Tra](https://open.spotify.com/album/2QIJPNVv7krYLoiOWG5Y4w) | 2:27 | 2023-11-22 | 2024-02-03 |

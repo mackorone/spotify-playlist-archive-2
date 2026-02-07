@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-463 songs - 1 day 4 hr 39 min
+464 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [EE PENMANE](https://open.spotify.com/track/4kXGXk1zBu9WYMTFYLQ1Eo) | [Jecin George](https://open.spotify.com/artist/5UcUhUt9RK09Wyy3twh7rN), [Nidhin Jo Jacob](https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ), [Dhanya Suresh Menon](https://open.spotify.com/artist/62zvb6JS6PPnQTHhH9s79a) | [EE PENMANE](https://open.spotify.com/album/45PH6yjW0fbCe8hekBoDWa) | 4:16 | 2025-05-30 | 2025-08-19 |
 | [Eerezhu Lokam](https://open.spotify.com/track/4pcDQb8DG551RbYB6jrw9i) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Eerezhu Lokam](https://open.spotify.com/album/1Nk19vcDcaQtdAfVSU1hl0) | 4:25 | 2025-10-12 |  |
 | [Ejjathi \- From "AYAKTIHIS"](https://open.spotify.com/track/0APH1Jj5zZCC75WxTpCzbr) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX) | [Ejjathi \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5lgPxMNps0pcGuuIQ0iX1T) | 4:46 | 2025-04-02 | 2025-07-05 |
+| [Elelam Kili](https://open.spotify.com/track/6K1piWP9RoIT6xi3NlZ7aD) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Elelam Kili](https://open.spotify.com/album/1oegkbqJNZrw6n3kAeOycs) | 5:43 | 2026-02-06 |  |
 | [ELELO](https://open.spotify.com/track/6pHfCAknAcqwPl1XiL2hq3) | [Amal Joseph](https://open.spotify.com/artist/6B00i8SePaASdF15tDKrTY), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Elelo](https://open.spotify.com/album/0JcmYTHMcITbUq8C0ibP2d) | 3:38 | 2025-04-29 | 2025-08-09 |
 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \(Live\)](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 | 2024-09-12 | 2025-06-30 |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 | 2024-04-04 |

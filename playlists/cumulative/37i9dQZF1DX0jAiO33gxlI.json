@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto:  Mc Luanna",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: NandaTsunami",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 173493,
       "name": "20 Milh\u00e3o",
       "url": "https://open.spotify.com/track/2B7tgPrueKpf4QQOfJrVB2"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 232562,
       "name": "33 noites",
       "url": "https://open.spotify.com/track/52FiqNji7PQIyh0zsAp4wK"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 210895,
       "name": "Amor e Sexo",
       "url": "https://open.spotify.com/track/0tSbjBuCaKDyzSnLo3bJeB"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 145655,
       "name": "Bem Mais F\u00e1cil",
       "url": "https://open.spotify.com/track/7s4GixBY7zystH43obvqhr"
@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213995,
       "name": "BOLA DE MEIA.",
       "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
@@ -4296,6 +4296,28 @@
       "duration_ms": 186352,
       "name": "BOTACARA",
       "url": "https://open.spotify.com/track/7vKHQPVSdeuNLxRfD9lSN9"
+    },
+    {
+      "album": {
+        "name": "BPP",
+        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Maff",
+          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153880,
+      "name": "BPP",
+      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
     },
     {
       "album": {
@@ -4930,6 +4952,28 @@
       "duration_ms": 106625,
       "name": "Cansei de Ouvir Trap",
       "url": "https://open.spotify.com/track/0O7sWK79TpnOYYkdd8l9GU"
+    },
+    {
+      "album": {
+        "name": "Cantar o que Sente",
+        "url": "https://open.spotify.com/album/5mrmS8UdNAhu6oT59lGd24"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/7Imm6565NTHfTlZbcHTvAq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200272,
+      "name": "Cantar o que Sente",
+      "url": "https://open.spotify.com/track/1iYmi7n9P8vEuIILGW9YDH"
     },
     {
       "album": {
@@ -9684,7 +9728,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216585,
       "name": "Era Uma Vez",
       "url": "https://open.spotify.com/track/1NnMahwv0o6uafmOxU3ygz"
@@ -10883,6 +10927,36 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7o Acontecer",
+        "url": "https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "C4rlinhxs",
+          "url": "https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp"
+        },
+        {
+          "name": "vvallace",
+          "url": "https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156899,
+      "name": "Fa\u00e7o Acontecer",
+      "url": "https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU"
+    },
+    {
+      "album": {
         "name": "Fa\u00e7o Chover no Deserto",
         "url": "https://open.spotify.com/album/5dFQf66hJyHekULcgA8UQ3"
       },
@@ -11286,7 +11360,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 125734,
       "name": "Fixa",
       "url": "https://open.spotify.com/track/7dOIyrHTBLk9mr2OaWazWF"
@@ -13576,6 +13650,50 @@
       "duration_ms": 133571,
       "name": "Interessante",
       "url": "https://open.spotify.com/track/1qiSpS4oBypK6f3va9CZd7"
+    },
+    {
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/5IBCUzV0aeeWtyDsyxvRY4"
+      },
+      "artists": [
+        {
+          "name": "MADVIBES",
+          "url": "https://open.spotify.com/artist/6PkIQjGt9qOnIJvH9HF77I"
+        },
+        {
+          "name": "nabru",
+          "url": "https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3"
+        },
+        {
+          "name": "danz00s",
+          "url": "https://open.spotify.com/artist/3crjZbP7PtAIWjf4V1bLHA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Interior",
+      "url": "https://open.spotify.com/track/7etxfczQZdTfMwJk5eeJgw"
+    },
+    {
+      "album": {
+        "name": "Interl\u00fadio",
+        "url": "https://open.spotify.com/album/4o2uH3Msls452ilcakpprn"
+      },
+      "artists": [
+        {
+          "name": "COLASNI",
+          "url": "https://open.spotify.com/artist/0guOyrCTXlSdhKScVTLEHl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Interl\u00fadio",
+      "url": "https://open.spotify.com/track/5n911o6UCpLOwLdiA8VIP2"
     },
     {
       "album": {
@@ -18792,7 +18910,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 186224,
       "name": "Nem sei mais amar",
       "url": "https://open.spotify.com/track/4pXEGTBofWNv7Art6ojwIL"
@@ -20434,7 +20552,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 139666,
       "name": "O Dono Desse Jogo",
       "url": "https://open.spotify.com/track/2omdNgzs9E6MxNCugLa5uq"
@@ -21358,6 +21476,32 @@
       "duration_ms": 248209,
       "name": "Os 100",
       "url": "https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV"
+    },
+    {
+      "album": {
+        "name": "Os\u00edris",
+        "url": "https://open.spotify.com/album/0j2Qhbcih00DcKVhfdgnKT"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Gioprod",
+          "url": "https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174631,
+      "name": "Os\u00edris",
+      "url": "https://open.spotify.com/track/5uIG9BeXJ31utWxbBc3rYz"
     },
     {
       "album": {
@@ -24376,6 +24520,32 @@
       "duration_ms": 123515,
       "name": "Primeiro Lugar do P\u00f3dio",
       "url": "https://open.spotify.com/track/2o3NKh8bYMKSkJmBTQo5B5"
+    },
+    {
+      "album": {
+        "name": "Problem\u00e1tico",
+        "url": "https://open.spotify.com/album/5sH4IY5fET6keTHOcaiPGF"
+      },
+      "artists": [
+        {
+          "name": "Pecaos",
+          "url": "https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG"
+        },
+        {
+          "name": "VIETN\u00c3",
+          "url": "https://open.spotify.com/artist/10KPCPEMWg7CyzMScMPXHo"
+        },
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/6qifs1iCuxLaiDd8jajHtd"
     },
     {
       "album": {
@@ -27656,6 +27826,28 @@
       "duration_ms": 237726,
       "name": "Serena & Venus",
       "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
+    },
+    {
+      "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/0rgqW8oX8JWf1KY393yFX1"
+      },
+      "artists": [
+        {
+          "name": "IFT",
+          "url": "https://open.spotify.com/artist/31h6ggShqrpgV5gPR9u5YJ"
+        },
+        {
+          "name": "shots!",
+          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/6s0vx3wDYy7KPLyF62x2gm"
     },
     {
       "album": {
@@ -31202,7 +31394,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 131200,
       "name": "Uma Palavra",
       "url": "https://open.spotify.com/track/6Xr7f68EcpVcBvSdsf6chq"

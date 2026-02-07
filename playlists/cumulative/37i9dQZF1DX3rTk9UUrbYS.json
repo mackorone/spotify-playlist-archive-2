@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Elysian Invocation / \"Pollen of the Earth\"",
+        "url": "https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ni\u00f1o & Friends",
+          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
+        },
+        {
+          "name": "Saul Williams",
+          "url": "https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 895627,
+      "name": "Elysian Invocation",
+      "url": "https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn"
+    },
+    {
+      "album": {
         "name": "On Common Ground",
         "url": "https://open.spotify.com/album/2gPZWzERRUKmwGeBajrigd"
       },
@@ -2292,7 +2314,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191080,
       "name": "Piece 4",
       "url": "https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX"

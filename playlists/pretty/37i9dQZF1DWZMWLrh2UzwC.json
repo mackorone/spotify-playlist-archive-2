@@ -1,12 +1,12 @@
 {
   "description": "New music from ZAYN, Nick Jonas, Joji, Misha Omar, Insomniacks, Yonnyboii, In-Team, Maher Zain  and more!",
-  "num_followers": 72465,
+  "num_followers": 72651,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIbrpCX782AU9J2Y4XQiazbfBOme",
+  "snapshot_id": "AAAAAD6DvER0r4iY1fvYHnrZykxQ3a1S",
   "tracks": [
     {
       "added_at": "2026-02-05 16:07:37",
@@ -43,8 +43,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
       },
       "artists": [
         {
@@ -59,8 +59,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
     },
     {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 168298,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
+    },
+    {
       "added_at": "2026-02-05 16:07:37",
       "album": {
         "name": "\u62dc\u5173\u4e8c\u54e5",
@@ -371,6 +387,22 @@
       "duration_ms": 222000,
       "name": "Yin and Yang (Feat. DEAN, PENOMECO) - FANXY CHILD Ver.",
       "url": "https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM"
+    },
+    {
+      "added_at": "2026-02-05 16:07:37",
+      "album": {
+        "name": "\u4f60\u8981\u5e78\u798f\u554a (\u300a\u98ce\u8fc7\u7559\u75d5\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7fzdWNyTmUaI1ltWll5Bjc"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "duration_ms": 310588,
+      "name": "\u4f60\u8981\u5e78\u798f\u554a (\u300a\u98ce\u8fc7\u7559\u75d5\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1mamLpkge19ydKzytZF8dj"
     },
     {
       "added_at": "2026-02-05 16:07:37",
@@ -495,6 +527,22 @@
       "duration_ms": 234229,
       "name": "Iqro'",
       "url": "https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq"
+    },
+    {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "GOLDEN HOUR : Part.4",
+        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
     },
     {
       "added_at": "2026-02-05 16:07:37",
@@ -733,6 +781,30 @@
       "url": "https://open.spotify.com/track/5sqjyJdjbMvXDy0qn6ePiG"
     },
     {
+      "added_at": "2026-02-06 08:48:42",
+      "album": {
+        "name": "Cerita Cinta Kita",
+        "url": "https://open.spotify.com/album/40VWIAIpgokqavIjdhjffv"
+      },
+      "artists": [
+        {
+          "name": "Ivan Tandyo",
+          "url": "https://open.spotify.com/artist/2qi45OSWJeq0lyAng2Lh5Y"
+        },
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        },
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Cerita Cinta Kita",
+      "url": "https://open.spotify.com/track/37czeVKj0aS5KjQQ6bXv56"
+    },
+    {
       "added_at": "2026-02-05 16:07:37",
       "album": {
         "name": "Plan",
@@ -751,8 +823,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/1WWrT0a4rjFqayXhqe5yDV"
       },
       "artists": [
         {
@@ -1105,6 +1177,22 @@
       "url": "https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9"
     },
     {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
+    },
+    {
       "added_at": "2026-02-05 16:07:37",
       "album": {
         "name": "If Only",
@@ -1139,8 +1227,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -1399,8 +1487,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
       "artists": [
         {
@@ -1515,8 +1603,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "rager",
+        "url": "https://open.spotify.com/album/50DZmSygoelBizezheVskd"
       },
       "artists": [
         {
@@ -1524,8 +1612,8 @@
           "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 168111,
+      "name": "rager",
       "url": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
     },
     {
@@ -1619,8 +1707,8 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "NEW DAY",
+        "url": "https://open.spotify.com/album/5wfScyz8fGpgAq8NDA5d60"
       },
       "artists": [
         {
@@ -1628,8 +1716,8 @@
           "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 171243,
+      "name": "BEAUTIFUL DAY",
       "url": "https://open.spotify.com/track/5KaJFjYLuamBPkviGDcwb3"
     },
     {
@@ -1699,17 +1787,21 @@
     {
       "added_at": "2026-02-05 16:07:37",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "TYPHOON",
+        "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
       },
       "artists": [
         {
           "name": "Luke Chiang",
           "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 180395,
+      "name": "me & u",
       "url": "https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h"
     },
     {
@@ -1727,6 +1819,22 @@
       "duration_ms": 234000,
       "name": "Other Houses",
       "url": "https://open.spotify.com/track/6sztWkNYW1GdL9ftuBjQ6t"
+    },
+    {
+      "added_at": "2026-02-05 16:07:37",
+      "album": {
+        "name": "A Character's Point of Hell",
+        "url": "https://open.spotify.com/album/7gUMQ6IfWKjaBE0Xbgs7Gd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Koh",
+          "url": "https://open.spotify.com/artist/378As4gO3FUB4jrN3mpGjq"
+        }
+      ],
+      "duration_ms": 286264,
+      "name": "A Character's Point of Hell",
+      "url": "https://open.spotify.com/track/2CrlsSg6Uk5CGtsMlJ4sW8"
     },
     {
       "added_at": "2026-02-05 16:07:37",

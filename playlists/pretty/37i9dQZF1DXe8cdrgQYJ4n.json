@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 20493,
+  "num_followers": 20507,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
-    },
-    {
-      "added_at": "2026-01-30 07:29:49",
-      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
+    },
+    {
+      "added_at": "2026-01-30 07:29:49",
+      "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
     },
     {
       "added_at": "2026-01-30 07:29:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-30 07:29:49",
       "album": {
-        "name": "Chaotic & Confused",
-        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 175619,
-      "name": "DELU",
-      "url": "https://open.spotify.com/track/44E0VvPJ7ITef2q6V9oqUd"
-    },
-    {
-      "added_at": "2026-01-30 07:29:49",
-      "album": {
         "name": "RIIZING",
         "url": "https://open.spotify.com/album/1eeN3nhiJ2qg8sRSrAc43n"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194090,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/2EfxJsXgoiilZGIXCGjKHI"
+    },
+    {
+      "added_at": "2026-01-30 07:29:49",
+      "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 175619,
+      "name": "DELU",
+      "url": "https://open.spotify.com/track/44E0VvPJ7ITef2q6V9oqUd"
     },
     {
       "added_at": "2026-01-30 07:29:49",

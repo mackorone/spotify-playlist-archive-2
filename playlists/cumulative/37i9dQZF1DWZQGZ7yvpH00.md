@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Kane Rodriguez en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Chuyin en portada.
 
-567 songs - 1 day 7 hr 14 min
+570 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [NO HAY AMOR](https://open.spotify.com/track/64XlRJwJ9cfmhpIrr1oGo5) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [NO HAY AMOR](https://open.spotify.com/album/28yrmTeEqYWhZ8OfFB43j0) | 3:42 | 2024-11-08 | 2025-02-01 |
 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 | 2023-06-09 | 2023-08-05 |
 | [NO HAY SEÑAL](https://open.spotify.com/track/7MhNUNjHVMjCK4kzY610Iu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [NO HAY SEÑAL](https://open.spotify.com/album/35LB7HQ4RWhvJnRdq8Coph) | 2:41 | 2024-01-26 | 2024-03-09 |
+| [No Me Compares](https://open.spotify.com/track/2HidEcnta7nkdKZkmiyC4q) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [No Me Compares](https://open.spotify.com/album/2bSUzObbvvrMDyxxc6e0PB) | 3:44 | 2026-02-06 |  |
 | [No Nos Tocaba](https://open.spotify.com/track/4ExNmJ5ng48ZIE5VG4Qdrk) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [No Nos Tocaba](https://open.spotify.com/album/6Oj9y1fLCIlSVRzNZjrFkE) | 3:28 | 2025-10-24 | 2026-01-24 |
 | [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 | 2025-10-31 |  |
 | [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-13 | 2024-11-16 |
@@ -437,6 +438,7 @@
 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 | 2023-01-13 | 2023-02-18 |
 | [Sigo Muerto](https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Sigo Muerto](https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX) | 2:29 | 2023-06-30 | 2023-07-29 |
 | [Sigues En Mi](https://open.spotify.com/track/3p99gd9d8MpluLFC0DLCM0) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Solo](https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx) | 2:59 | 2023-07-14 | 2023-09-30 |
+| [Sin Fin](https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Sin Fin](https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk) | 2:52 | 2026-02-06 |  |
 | [Sin Mentiras Ni Reclamos](https://open.spotify.com/track/56FNq9J9SR5GwOcJAc5CRL) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [alivio](https://open.spotify.com/album/2IDSJ1Xw2yNJPkHdWbUvTI) | 3:05 | 2023-06-30 | 2023-09-09 |
 | [Sin Mí](https://open.spotify.com/track/4CkpqTLPw14hlXxJB1r0Ba) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Sin Mí](https://open.spotify.com/album/3xN9ooUhk0pQs6wl3pjB5V) | 2:17 | 2025-10-03 | 2026-01-20 |
 | [Sin Pagar Renta](https://open.spotify.com/track/2NQZVzSRRatbbPWD5IfadH) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Sin Pagar Renta](https://open.spotify.com/album/6THFGUOwWMPRb6x58aVpDZ) | 3:13 | 2023-07-07 | 2025-03-22 |
@@ -518,6 +520,7 @@
 | [Tú Me Haces Falta](https://open.spotify.com/track/4M82qyr0QiKOJBZVUxUhdN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:43 | 2025-01-10 | 2025-03-15 |
 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/1RDVJCMNBL13V8eQ3XawIi) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tú Me Llevas a Un Espacio](https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8) | 3:13 | 2023-05-12 | 2023-10-14 |
 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 | 2023-09-22 | 2023-11-18 |
+| [Ultimo Cigarro](https://open.spotify.com/track/2288uM7VA7NKEgmy33T2Fa) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Ultimo Cigarro](https://open.spotify.com/album/7wcoIfwEIen743ftWpLHxK) | 2:44 | 2026-02-06 |  |
 | [UN DÍA ENTENDERÁS](https://open.spotify.com/track/1scPtwHT7gurkNhwyojAtx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [UN DÍA ENTENDERÁS](https://open.spotify.com/album/4zWFjr8O3VjrxRADoslrhB) | 3:26 | 2024-01-15 | 2024-04-19 |
 | [Un Millon De Primaveras](https://open.spotify.com/track/5DVQsaCX9HZdQeYRHmV1jE) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8) | [QSFCE](https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk) | 3:27 | 2025-01-10 | 2025-02-15 |
 | [Un Millón De Primaveras](https://open.spotify.com/track/2LYiiz3dKTGyV4v5K3TFjh) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Un Millón De Primaveras](https://open.spotify.com/album/26TiMKbz0xH4YNGO5h6uSV) | 2:39 | 2023-12-22 | 2024-02-17 |

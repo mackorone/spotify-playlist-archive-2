@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "6pm",
+        "url": "https://open.spotify.com/album/3PPf3xP52A0riQ1fQU1ubU"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "6pm",
+      "url": "https://open.spotify.com/track/6K0u6O2AuT5YDL19hwD7dj"
+    },
+    {
+      "album": {
         "name": "7 o'clock",
         "url": "https://open.spotify.com/album/4fof8WgryM4FgYnAXg3OSB"
       },
@@ -642,6 +660,28 @@
       "duration_ms": 136777,
       "name": "aesthetic",
       "url": "https://open.spotify.com/track/4dbgr13lzG2ITILW1T2EXr"
+    },
+    {
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/3xNPhzGaJHRy4fe0Uwj0Bb"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "herman.",
+          "url": "https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/2abf6NgWO1jIeixy0hqaXD"
     },
     {
       "album": {
@@ -4084,6 +4124,24 @@
       "duration_ms": 146250,
       "name": "Cooldown",
       "url": "https://open.spotify.com/track/7F1LFRHNnaAG14SxhRVJ9i"
+    },
+    {
+      "album": {
+        "name": "Coral",
+        "url": "https://open.spotify.com/album/1CtmsVkkERDvQVUEbDU7bQ"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Coral",
+      "url": "https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ"
     },
     {
       "album": {
@@ -12314,7 +12372,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146666,
       "name": "Lost in Dreams",
       "url": "https://open.spotify.com/track/5x1met9DVNVPW2RxxGPfcM"
@@ -18560,7 +18618,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159000,
       "name": "Sensations",
       "url": "https://open.spotify.com/track/3rXKDTaZe8U8RVeSL88eJ4"
@@ -20211,6 +20269,24 @@
     },
     {
       "album": {
+        "name": "Static Glow",
+        "url": "https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6"
+      },
+      "artists": [
+        {
+          "name": "drift\u00f8 blues",
+          "url": "https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117701,
+      "name": "Static Glow",
+      "url": "https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR"
+    },
+    {
+      "album": {
         "name": "Stellar Journey",
         "url": "https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW"
       },
@@ -20302,7 +20378,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 137000,
       "name": "Street Corner",
       "url": "https://open.spotify.com/track/520PlbPkPfid9BLZykHs0t"
@@ -21758,7 +21834,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 111739,
       "name": "Theres A Light",
       "url": "https://open.spotify.com/track/4hA14T1yvVbmeDLXzxJzB1"

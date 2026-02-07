@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/0sOVArr3z0hfXvRBZ0PEt8"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187889,
+      "name": "555",
+      "url": "https://open.spotify.com/track/3kdKikExAZGvLjuvgyJwQ3"
+    },
+    {
+      "album": {
         "name": "6am to Paris",
         "url": "https://open.spotify.com/album/1DtHbdjnqLild4y0PnlbF1"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159945,
       "name": "7th Floor",
       "url": "https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB"
@@ -670,6 +688,24 @@
       "duration_ms": 202626,
       "name": "All over me",
       "url": "https://open.spotify.com/track/08lwoqbPtnLRzBZW92dm0l"
+    },
+    {
+      "album": {
+        "name": "All That You Are",
+        "url": "https://open.spotify.com/album/5gZfNZ9khXzot7tNdubSya"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232871,
+      "name": "All That You Are",
+      "url": "https://open.spotify.com/track/6t2Jrmc4cbtdpma2lMCMHS"
     },
     {
       "album": {
@@ -3663,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Contemplating You",
+        "url": "https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca"
+      },
+      "artists": [
+        {
+          "name": "Jennarie",
+          "url": "https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Contemplating You",
+      "url": "https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1"
+    },
+    {
+      "album": {
         "name": "controlfreak69",
         "url": "https://open.spotify.com/album/60rNH4sNYwg1QI6YR8YL6H"
       },
@@ -4907,6 +4961,28 @@
     },
     {
       "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/39kt89fPRlFXxlNSGMbnIw"
       },
@@ -4958,6 +5034,28 @@
       "duration_ms": 181026,
       "name": "Dried Up",
       "url": "https://open.spotify.com/track/2whji197SjeEyLafUkEAbN"
+    },
+    {
+      "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "album": {
@@ -5105,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/6Hn4QxPR00cvSH8qEdN5CP"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97577,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/6N6ltUQNdGcfq9DyENmhaK"
+    },
+    {
+      "album": {
         "name": "The Start of Something Beautiful",
         "url": "https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ"
       },
@@ -5246,7 +5362,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 157080,
       "name": "ego of a man",
       "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
@@ -5268,6 +5384,24 @@
       "duration_ms": 196106,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/6kwXtdH3sbFfYOSmOe4NFS"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/35heuJm1eCpej08futixNm"
+      },
+      "artists": [
+        {
+          "name": "Holy Fuck",
+          "url": "https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283306,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/6rsQKBloYqdINGKv0dC9wP"
     },
     {
       "album": {
@@ -6632,7 +6766,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 124600,
       "name": "GF/BF",
       "url": "https://open.spotify.com/track/33yBSvTIXimldDsBvQ5X7p"
@@ -8414,7 +8548,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 232320,
       "name": "HOW WAS YOUR DAY?",
       "url": "https://open.spotify.com/track/7uUB3Ypgg4XRD1TIhGqsUE"
@@ -9204,6 +9338,24 @@
       "duration_ms": 139000,
       "name": "If I'm Being Honest...",
       "url": "https://open.spotify.com/track/4QJB0NTt4XbZJYOvL2Y3kg"
+    },
+    {
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/6aErilQDnoATfmDzaQUq5f"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/4v0e79DzMaKrahOxl4SdGG"
     },
     {
       "album": {
@@ -10110,7 +10262,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 165298,
       "name": "KILL YOU OFF",
       "url": "https://open.spotify.com/track/5bBNHXx42TKskc8xMBhssf"
@@ -11844,7 +11996,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159715,
       "name": "Menu",
       "url": "https://open.spotify.com/track/2NlbP6Fp5cI1GVGAeJKm1X"
@@ -11862,7 +12014,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179041,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/6Fl1GQkBJ3zxBvePZInxgR"
@@ -13904,7 +14056,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 211033,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1QEN3ujV5VZUBMv1WDnCAA"
@@ -18014,7 +18166,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 243817,
       "name": "The Language of Fishermen",
       "url": "https://open.spotify.com/track/6dhETCBdu71NZzbC8iQb3m"
@@ -18574,7 +18726,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179812,
       "name": "Time (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3"
@@ -19293,6 +19445,24 @@
     },
     {
       "album": {
+        "name": "Victim Of Luck",
+        "url": "https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Victim Of Luck",
+      "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
+    },
+    {
+      "album": {
         "name": "Victorious (feat. Tia Wood)",
         "url": "https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3"
       },
@@ -19528,6 +19698,24 @@
       "duration_ms": 129091,
       "name": "war",
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
+    },
+    {
+      "album": {
+        "name": "Warm on a Cold Night (10 Years)",
+        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318120,
+      "name": "Warm on a Cold Night (10 Years)",
+      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
     },
     {
       "album": {

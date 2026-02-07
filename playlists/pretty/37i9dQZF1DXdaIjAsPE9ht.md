@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down 🌧️ remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,361 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,317 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 99 | [Walking In The Rain](https://open.spotify.com/track/5A3tBqYy7BEI27Qzs3uLSB) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Walking In The Rain](https://open.spotify.com/album/7nflK97yM3om5kAC6hA5lf) | 2:34 |
 | 100 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 
-Snapshot ID: `AAAAALOMqmuPpD1M65xdONZ5OYqPG2kY`
+Snapshot ID: `AAAAAO3U1fo3o/ZZtI6s3HBut3iMjOVZ`

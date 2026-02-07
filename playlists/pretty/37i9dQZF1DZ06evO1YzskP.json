@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 64712,
+  "num_followers": 64735,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACNdtkn/6Vu/L7ugFhhRI8K",
+  "snapshot_id": "aYPdgAAAAABi+xdKp+ENoF0zj/6/zGGR",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo (En Vivo)",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 191680,
       "name": "LALA",
       "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Las Facetas de Arturo (En Vivo)",
+      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
     },
     {
       "added_at": null,

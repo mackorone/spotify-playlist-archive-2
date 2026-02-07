@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Macha Gharibian
 
-910 songs - 2 day 17 hr 7 min
+910 songs - 2 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -823,7 +823,6 @@
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 | 2026-02-06 |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
 | [Top of My Head \(Live\)](https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Roy Hargrove: Live at KNKX](https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC) | 6:37 | 2026-02-05 |  |
-| [Track 15](https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |
@@ -909,6 +908,7 @@
 | [You Are the Sunshine of My Life](https://open.spotify.com/track/5pHiptnSwesdvZJY4YFo5z) | [Sandro Roy](https://open.spotify.com/artist/2Nl3CpSqACmL37I5fJniPi), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [You Are the Sunshine of My Life](https://open.spotify.com/album/0x1649nNuN5Dk4Fc5i9FSb) | 6:09 | 2022-08-18 | 2022-10-28 |
 | [You Hit the Spot](https://open.spotify.com/track/5JqMhtvi3DRVe4lpLSFXTW) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [You Hit the Spot](https://open.spotify.com/album/3XKDNdOvXszqvlgxJFlVkC) | 3:07 | 2025-02-27 | 2025-05-16 |
 | [You Love Her](https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [PHENOMENAL WOMEN](https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn) | 4:28 | 2025-01-23 | 2025-05-23 |
+| [You Love Her \- Piano Version](https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [PHENOMENAL WOMEN \(DELUXE EDITION\)](https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD) | 4:23 | 2026-02-05 |  |
 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 | 2022-10-20 | 2023-02-10 |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/6Gr1sxmN6CrLbudpzx3ZHQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [You Stepped Out Of A Dream](https://open.spotify.com/album/0QsszdaLJgf0zN7K9ptuIw) | 4:35 | 2024-08-29 | 2024-11-15 |
 | [You're the Top](https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You're the Top](https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29) | 4:08 | 2024-01-11 | 2024-02-02 |

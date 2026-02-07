@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julia Vit\u00f3ria",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Marco Telles, Coletivo Candiero, Filipe da Guia, Ana Heloysa",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 474701,
       "name": "Abre os Selos - Ao Vivo",
       "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 243252,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
@@ -3179,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "IMPERFEITO",
+        "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
+      },
+      "artists": [
+        {
+          "name": "Seven Plus",
+          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
+        },
+        {
+          "name": "Rayssa Andreoli",
+          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314736,
+      "name": "IMPERFEITO",
+      "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+    },
+    {
+      "album": {
         "name": "Meia Noite (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa"
       },
@@ -3828,6 +3850,28 @@
       "duration_ms": 299746,
       "name": "Meu Abrigo - Ao Vivo",
       "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
+    },
+    {
+      "album": {
+        "name": "Meu Amigo",
+        "url": "https://open.spotify.com/album/4Tmh71KgXFnMlble0QwgJY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Meu Amigo",
+      "url": "https://open.spotify.com/track/1Y26XpiffIFDpF4uob5lj7"
     },
     {
       "album": {
@@ -4848,7 +4892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 381302,
       "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
       "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
@@ -5222,7 +5266,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
@@ -6249,6 +6293,32 @@
     },
     {
       "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "album": {
         "name": "30 Anos (Vol. I)",
         "url": "https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l"
       },
@@ -6828,6 +6898,36 @@
       "duration_ms": 256023,
       "name": "Um Refr\u00e3o Pra Sua Alma",
       "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
+    },
+    {
+      "album": {
+        "name": "Uma Carta Viva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
+      },
+      "artists": [
+        {
+          "name": "Get Worship",
+          "url": "https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp"
+        },
+        {
+          "name": "Vinicius Cruz",
+          "url": "https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Get Global",
+          "url": "https://open.spotify.com/artist/4KCvIoI7ZAoF3BiwEtueSM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Uma Carta Viva - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
     },
     {
       "album": {

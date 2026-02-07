@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Harry Styles hits the top spot 🧡
+> Dave & Tems are back on top 🌧️
 
 44 songs - 2 hr 33 min
 

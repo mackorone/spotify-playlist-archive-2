@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-729 songs - 1 day 11 hr 31 min
+730 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,8 @@
 | [Vontade De Terminar \- Ao Vivo](https://open.spotify.com/track/5a3usmwW7FYgzxPKf2jZlv) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos](https://open.spotify.com/album/3285qnjOrD9rF7SErvKa0y) | 3:05 | 2023-12-30 | 2025-11-14 |
 | [Vontadezinha](https://open.spotify.com/track/53SHolQrZOGAEAdlLIJBph) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Vontadezinha](https://open.spotify.com/album/1ZbOsEaXSBdSyQreVmq2IV) | 2:42 | 2025-06-15 |  |
 | [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1Kntuwz52WWE8g5YuUMpGa) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 2:46 | 2024-03-26 | 2025-03-15 |
-| [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq) | 2:46 | 2025-03-14 |  |
+| [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq) | 2:46 | 2025-03-14 | 2026-02-07 |
+| [Vou Rezar pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/5wWViE8aig0WIegS4blDiv) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/31rFe2XIZTQhjDfNwTMJXR) | 2:48 | 2026-02-06 |  |
 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 | 2024-03-21 |  |
 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 | 2023-12-30 |  |
 | [Zero Expectativa \- Ao Vivo](https://open.spotify.com/track/4Ep7iNCzIc57fbFpJFEhmH) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5) | [Ao Vivo em Goiânia, Ep\. 1](https://open.spotify.com/album/4IOnCuAqRmFJvfWZH3ZwLO) | 2:53 | 2023-12-30 |  |

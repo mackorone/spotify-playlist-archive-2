@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Rising voices, enduring roots\. Cover: Clover County
+> Rising voices, enduring roots\. Cover: Meels
 
-324 songs - 19 hr 48 min
+327 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 | 2023-11-10 | 2025-10-18 |
 | [Faeries](https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [I'm Not Around](https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId) | 3:25 | 2026-01-09 |  |
 | [False Gods](https://open.spotify.com/track/3yP5h28oeRzAphURxUruUt) | [Evan Bartels](https://open.spotify.com/artist/1Ylh9mfN4qqJMl2uDr6sUd) | [Lonesome](https://open.spotify.com/album/4Tb5K95mAHziwCorYbpFOt) | 3:42 | 2022-01-28 | 2023-05-20 |
+| [Familiar Faces](https://open.spotify.com/track/177z17gSwseB9cnzmlx9Qt) | [Trinity Jane](https://open.spotify.com/artist/3WkvvBMBUEzcLLGTBFTngT) | [Familiar Faces](https://open.spotify.com/album/7F12h2cJVHk7JPVOsgzY9S) | 3:19 | 2026-02-06 |  |
 | [Feelin' the Miles](https://open.spotify.com/track/6sBhfRlQWEGJ8QyEvZMX0v) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [Feelin' the Miles](https://open.spotify.com/album/1StvJe5JR5Sx96l4hAw0Xv) | 4:17 | 2022-01-28 | 2022-07-29 |
 | [Feelin' the Miles](https://open.spotify.com/track/4cwBUZPtZpS4RqUFUZdr96) | [The Wilder Blue](https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD) | [The Wilder Blue](https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg) | 4:17 | 2022-01-28 | 2023-06-10 |
 | [Fine](https://open.spotify.com/track/0SY3flnPwcC7Yda2JTFnGo) | [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Autonomy](https://open.spotify.com/album/5oqJVnJBdqG7JB0A8udWco) | 2:40 | 2022-01-28 | 2023-08-26 |
@@ -129,7 +130,7 @@
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 | 2024-11-16 |
 | [Higher Ground](https://open.spotify.com/track/3IPkN2bQT15rbDzw6nEdwY) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Higher Ground](https://open.spotify.com/album/5phrODBYV3rPkxO3qVB7oY) | 3:42 | 2023-09-15 | 2025-10-18 |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 | 2023-08-26 |
-| [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 | 2024-07-12 |  |
+| [Hold The Door](https://open.spotify.com/track/2DRuowrzKYz6tmTmGPf97X) | [Cassandra Lewis](https://open.spotify.com/artist/6L4uAq1cqOvoRIQrXST4nw) | [Lost in a Dream](https://open.spotify.com/album/0lG1BLwuidgVuiAHmQYmJq) | 4:47 | 2024-07-12 | 2026-02-07 |
 | [Home Right Here](https://open.spotify.com/track/1igYV6bfAibN26GqVNNOGt) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Good Buddy](https://open.spotify.com/album/2iIkOsqJ9gRP8oEM2NRvfQ) | 3:16 | 2025-12-12 |  |
 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
 | [Human](https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE) | [Alexa Rose](https://open.spotify.com/artist/7hVRBYGVXutdWChnzb92Jb) | [Headwaters](https://open.spotify.com/album/6u5YquFfQ1mmq2e4G9utZo) | 4:08 | 2022-01-28 | 2023-06-03 |
@@ -207,7 +208,7 @@
 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 | 2023-03-31 | 2024-08-31 |
 | [Nobody Has To Know Your Mind](https://open.spotify.com/track/6S9v6Dn7CQJTmYIUAi8aWy) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Nobody Has To Know Your Mind](https://open.spotify.com/album/1OwskRzsQ5nIKqkinA6VIW) | 4:53 | 2023-06-16 |  |
 | [Normal Man](https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Normal Man](https://open.spotify.com/album/1Zev3Kk02xxQDe5opXZKaI) | 4:13 | 2026-01-30 |  |
-| [Nothin' At All](https://open.spotify.com/track/0OPx3KJ24XdVgZSbAcrxLz) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Nothin' At All // Good These Days](https://open.spotify.com/album/4z8ST41if1eDX00HErdqhs) | 2:34 | 2025-03-21 |  |
+| [Nothin' At All](https://open.spotify.com/track/0OPx3KJ24XdVgZSbAcrxLz) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Nothin' At All // Good These Days](https://open.spotify.com/album/4z8ST41if1eDX00HErdqhs) | 2:34 | 2025-03-21 | 2026-02-07 |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 | 2023-01-14 |
 | [Oh Don't Tell Her](https://open.spotify.com/track/3RSgNrKX1pKr9IGXI8DJeb) | [Todd Day Wait](https://open.spotify.com/artist/6GAZhXqlPQdf3mzK6hvGM9) | [Letters From The Road](https://open.spotify.com/album/0JHImX2PUsNADoalvG2APK) | 3:17 | 2025-12-12 |  |
 | [Old Gods](https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Old Gods](https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk) | 3:46 | 2022-01-28 | 2025-10-18 |
@@ -215,6 +216,7 @@
 | [On My Way](https://open.spotify.com/track/066EK5seeF2Q2t7AGQbWy2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0VRthYeVxSlu8bbfpIbJVa) | 4:27 | 2023-04-07 | 2024-04-19 |
 | [On My Way](https://open.spotify.com/track/2jhrTGnlTPIT5cQJP2pukM) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [On My Way](https://open.spotify.com/album/0FOsrAxxpWXASoKYxSBWtp) | 4:27 | 2022-02-04 | 2025-03-01 |
 | [One Little Feeling](https://open.spotify.com/track/1ysYW8z0yPkhRlITrAHcsj) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [One Little Feeling](https://open.spotify.com/album/2Lrv7yl3r4gnVgEixUKv7n) | 3:33 | 2022-01-28 | 2023-07-01 |
+| [Out West](https://open.spotify.com/track/1mftpk7MAIdq89RRnICK26) | [Meels](https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq) | [Across The Raccoon Strait](https://open.spotify.com/album/4lTKnQKyXUCNEi4oOE2JCE) | 2:57 | 2026-02-06 |  |
 | [Outsider](https://open.spotify.com/track/4aHarT4TxQBK1nkP4xSCMe) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Outsider](https://open.spotify.com/album/4Qo4N56MAtVRkk2imTjrxX) | 2:58 | 2022-01-28 | 2022-07-29 |
 | [Outsider](https://open.spotify.com/track/6egThRcviPp9csxYAvGmYH) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Marsden & Richardson](https://open.spotify.com/album/3pouUib2dFAGk3pIiOYRbY) | 2:58 | 2022-01-28 | 2022-11-04 |
 | [Outsider](https://open.spotify.com/track/6l2D53BrdLxN6ZrSJrqMiN) | [Marsden & Richardson](https://open.spotify.com/artist/7uXUjL5FWFnkkZYz2nFbX1), [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Marsden & Richardson](https://open.spotify.com/album/0fPFXeKGFG1SKId5KeuTFp) | 2:58 | 2022-10-14 | 2023-08-26 |
@@ -240,7 +242,7 @@
 | [Saint Augustine](https://open.spotify.com/track/0MMyVtSevLzI9slpJVoatM) | [L.A\. Edwards](https://open.spotify.com/artist/29Hjc5nLGKpM1XFXxu9HHV) | [Saint Augustine](https://open.spotify.com/album/4LcBL38G18fEF4B2hYWDTb) | 3:23 | 2022-01-28 | 2023-04-01 |
 | [Saturday Night](https://open.spotify.com/track/4yUKyGGS3XfZykGg8iWc49) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [Saturday Night](https://open.spotify.com/album/5WYIVmNQXmB9jE9dXYdZ5F) | 4:37 | 2022-01-28 | 2023-07-01 |
 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 | 2025-12-12 |  |
-| [Seventeen](https://open.spotify.com/track/7uRchg3bAvFQldpXVlUyic) | [Case Oats](https://open.spotify.com/artist/5Ml0QbIoj7bneIUJDCoMx8) | [Seventeen](https://open.spotify.com/album/6sYDca140CurPW72frgPdi) | 3:05 | 2025-03-14 |  |
+| [Seventeen](https://open.spotify.com/track/7uRchg3bAvFQldpXVlUyic) | [Case Oats](https://open.spotify.com/artist/5Ml0QbIoj7bneIUJDCoMx8) | [Seventeen](https://open.spotify.com/album/6sYDca140CurPW72frgPdi) | 3:05 | 2025-03-14 | 2026-02-07 |
 | [Sexy After Dark](https://open.spotify.com/track/4bsmxYIlAsApRfvopNMFdb) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [See You Next Time](https://open.spotify.com/album/0k6hyzG6ntUuTVxiQIWpol) | 3:50 | 2023-05-05 | 2024-03-02 |
 | [Sexy After Dark](https://open.spotify.com/track/5hOuD8UufsA8K2tqAtNj0d) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Sexy After Dark](https://open.spotify.com/album/0m467Jz2jf5yXmK3gpxBzO) | 3:50 | 2022-01-28 | 2023-05-11 |
 | [Shaking Ground](https://open.spotify.com/track/5ioMTIu2WZElnijMufDNmk) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [Shaking Ground](https://open.spotify.com/album/10LZJuclyo0sQkmykTl4iT) | 3:02 | 2024-01-05 |  |
@@ -266,6 +268,7 @@
 | [Sugar](https://open.spotify.com/track/1xqp03XCarQB8AwBtlUdhK) | [Marfa](https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD) | [Sugar](https://open.spotify.com/album/1A6QXWXIqcSdC30XZwvHd3) | 2:43 | 2025-03-14 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-10-14 | 2024-03-02 |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2022-01-28 | 2022-10-23 |
+| [Suitcase](https://open.spotify.com/track/7yWUwranBTGBPpIkWaemdL) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Suitcase](https://open.spotify.com/album/2NnNFQpObfTQx8KB4XLIPD) | 2:52 | 2026-02-06 |  |
 | [Summer](https://open.spotify.com/track/3qbWCni1577NA2kQdQHHKR) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/7JcEn5RIPlyhPNUtbht9mc) | 3:56 | 2023-09-08 | 2025-12-13 |
 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2022-01-28 | 2022-10-15 |
 | [Sunk Like a Stone](https://open.spotify.com/track/0caJNYdZLdahG4qWza2QyT) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [Sunk Like a Stone](https://open.spotify.com/album/5LrYFi2TMwx50iLXddh2Eb) | 3:45 | 2022-01-28 | 2024-06-29 |

@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 139786,
       "name": "All those nights",
       "url": "https://open.spotify.com/track/4wHDPpI4nWoj3F20unVH8f"
@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/0EXqcHph73JMHfLSbsjeYY"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214624,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2UQZotlredQVNUFSzi3cWi"
+    },
+    {
+      "album": {
         "name": "Dream you're chasing",
         "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
       },
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 196801,
       "name": "Echoes Of You",
       "url": "https://open.spotify.com/track/6BG5Ve4XaMq8GjaIGpg9la"
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188000,
       "name": "Heartbreak Avenue",
       "url": "https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG"
@@ -15622,7 +15640,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 198711,
       "name": "Pearl-button",
       "url": "https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko"
@@ -19395,6 +19413,24 @@
     },
     {
       "album": {
+        "name": "The Forecast",
+        "url": "https://open.spotify.com/album/4FHbkipjO5cAab8Y7tPaY6"
+      },
+      "artists": [
+        {
+          "name": "Denzel Sachs",
+          "url": "https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200721,
+      "name": "The Forecast",
+      "url": "https://open.spotify.com/track/5nFvxGomhpHqLwDQCGM1Tb"
+    },
+    {
+      "album": {
         "name": "The Girl I Love",
         "url": "https://open.spotify.com/album/04hdHXa3bHugz4OFYlaP2D"
       },
@@ -21390,7 +21426,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213750,
       "name": "Up before the dawn",
       "url": "https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE"
@@ -21700,6 +21736,24 @@
       "duration_ms": 134488,
       "name": "Waltz For Ola",
       "url": "https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63"
+    },
+    {
+      "album": {
+        "name": "Waltz of the Low Moon",
+        "url": "https://open.spotify.com/album/41aoBVWa5iZkuYaZemG7Hq"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185999,
+      "name": "Waltz of the Low Moon",
+      "url": "https://open.spotify.com/track/4bWs8YrGz3ZHhjyP8VhuIN"
     },
     {
       "album": {
@@ -22701,6 +22755,24 @@
     },
     {
       "album": {
+        "name": "Windowseat waltz",
+        "url": "https://open.spotify.com/album/7j7RPDQov8ZjXRSvK6TS1D"
+      },
+      "artists": [
+        {
+          "name": "Tanner King Trio",
+          "url": "https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138163,
+      "name": "Windowseat waltz",
+      "url": "https://open.spotify.com/track/6IRRu5k4Tl2byR4YOjxjP2"
+    },
+    {
+      "album": {
         "name": "Wish You Saw Me Now",
         "url": "https://open.spotify.com/album/2wZmi9lDeK4jYz6cpeaZku"
       },
@@ -23022,6 +23094,24 @@
       "duration_ms": 190843,
       "name": "You Do Something To Me",
       "url": "https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0"
+    },
+    {
+      "album": {
+        "name": "You fooled me again",
+        "url": "https://open.spotify.com/album/3rFaWOts9gJVQgAhhYdgq2"
+      },
+      "artists": [
+        {
+          "name": "Benji Strings",
+          "url": "https://open.spotify.com/artist/69rJuPwfPst9467Mm44hHs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255974,
+      "name": "You fooled me again",
+      "url": "https://open.spotify.com/track/4jz9BaidSlNYDCONMt1T79"
     },
     {
       "album": {

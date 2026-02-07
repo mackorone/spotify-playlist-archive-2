@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,591 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,585 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 68 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 69 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 70 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
-| 71 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
-| 72 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 |
-| 73 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
+| 71 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
+| 72 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
+| 73 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 |
 | 74 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
 | 75 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 76 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |

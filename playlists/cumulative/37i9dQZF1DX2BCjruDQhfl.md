@@ -2,9 +2,9 @@
 
 ### [Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2BCjruDQhfl)
 
-> It's giving those vibes\. Cover: Yxng Le
+> It's giving vibes\. Cover: Jada Faith
 
-230 songs - 10 hr 33 min
+232 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-07-17 | 2025-09-10 |
 | [My Life](https://open.spotify.com/track/0B7kAhSMO9iR18kgy400F5) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg) | [My Life](https://open.spotify.com/album/4yqZcI4ZeX3utV8w5Cq4Xh) | 2:37 | 2026-01-22 |  |
 | [m’n type](https://open.spotify.com/track/4byfxBnrwirWzHHwAt58IB) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [deims deims deims](https://open.spotify.com/album/64zsgXDZSBYGtlJjeOkwNH) | 2:24 | 2025-10-30 |  |
+| [Nan Zetwal](https://open.spotify.com/track/2pj8Zu8Qe2osPJ7GjcEvDF) | [DJ OSIS](https://open.spotify.com/artist/4qRPgXJz2zYa4Rg5DDyjgO), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Nan Zetwal](https://open.spotify.com/album/3U8xmG2QiMzmgrJ3l5w8zZ) | 2:38 | 2026-02-06 |  |
 | [Nancy](https://open.spotify.com/track/19WlgAuWYFPrmTng8GXn4B) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Nancy](https://open.spotify.com/album/6R2ANqH5MSsYueMl6T2O0J) | 2:23 | 2025-09-26 | 2026-01-15 |
 | [Net Iets Meer](https://open.spotify.com/track/3pT7ovGitM5OW95DEM60oq) | [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV) | [Net Iets Meer](https://open.spotify.com/album/0PvWda2oSCYOJ6zSzwvrJg) | 2:46 | 2026-02-05 |  |
 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 | 2026-01-22 |  |
@@ -160,11 +161,12 @@
 | [PGLD \(Pretty Girls Love Dammie\)](https://open.spotify.com/track/34CRiWg4oKVmN5xAW8h9Xp) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [PGLD \(Pretty Girls Love Dammie\)](https://open.spotify.com/album/3vGTE5ICTRYcVn5aWbxfXy) | 2:24 | 2025-11-20 | 2026-01-30 |
 | [Pick Up](https://open.spotify.com/track/4sRXnH3B7eZzAvq70tP58O) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Pick Up](https://open.spotify.com/album/2yCU6e0wqZQoFtphtxT3KX) | 2:04 | 2026-01-22 |  |
 | [Piepen In Me Mind](https://open.spotify.com/track/2nZUxI5qcJms95xjtaSxS9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Piepen In Me Mind](https://open.spotify.com/album/4cIPBTeADtNTPKn5l8vcuQ) | 2:17 | 2025-10-02 |  |
-| [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 | 2025-08-26 |  |
+| [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 | 2025-08-26 | 2026-02-07 |
 | [Play Pretend](https://open.spotify.com/track/78yqcuHhYFVW5gxWBnAGqz) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Play Pretend](https://open.spotify.com/album/5NaPDvpeTuutTavpkRo5Ez) | 2:40 | 2025-08-07 | 2025-12-19 |
 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-02-03 |  |
 | [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 | 2025-07-17 | 2025-12-19 |
 | [Pressure](https://open.spotify.com/track/5cA5J7fzgU1U78ldDQ3UHn) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Chay](https://open.spotify.com/artist/2swT9y92QBNtQzSRTy8VDZ) | [Pressure](https://open.spotify.com/album/0Juevc2vKCvDyecLUFPCad) | 2:53 | 2026-01-08 |  |
+| [PRIVATE BNB](https://open.spotify.com/track/4wH8wVyLeCOkZK7AZ9VKYy) | [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Sinco](https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD) | [PRIVATE BNB](https://open.spotify.com/album/07J0LJLQ6idRlzSTQy33pW) | 1:36 | 2026-02-06 |  |
 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 | 2025-12-11 |  |
 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-07-17 | 2025-08-05 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-28 |  |
@@ -236,7 +238,7 @@
 | [You](https://open.spotify.com/track/4cVSNWNoKMkiq0gSB4x2SI) | [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [You](https://open.spotify.com/album/3fb8y9JTHn4uGvWpvx3Jb7) | 2:47 | 2025-11-20 |  |
 | [Yu Na Mi Lijn](https://open.spotify.com/track/0ffZnrxUIxQJBvXPOsxfw2) | [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Yu Na Mi Lijn](https://open.spotify.com/album/5wK6gSfgTF21AqQszhBQIX) | 3:00 | 2025-07-17 | 2025-10-03 |
 | [ZAAZAA \- Pearl Ramos & Janice Fierce Remix](https://open.spotify.com/track/5m4czfHsS163trYnoCGV7F) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [ZAAZAA \(REMIX PACK\)](https://open.spotify.com/album/0irrVpBU2ZWacOQjR0CbBr) | 2:34 | 2025-09-20 | 2025-10-03 |
-| [Zoek In Een Vrouw](https://open.spotify.com/track/7LlzLVhDEoVe39XnfFRj9v) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [Zoek In Een Vrouw](https://open.spotify.com/album/0l1cw0iIRxhrRFVJGXsE7o) | 2:54 | 2026-01-29 |  |
+| [Zoek In Een Vrouw](https://open.spotify.com/track/7LlzLVhDEoVe39XnfFRj9v) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [Zoek In Een Vrouw](https://open.spotify.com/album/0l1cw0iIRxhrRFVJGXsE7o) | 2:54 | 2026-01-29 | 2026-02-07 |
 | [Zonder Bedoeling](https://open.spotify.com/track/1TLmpC3FLXAxgP73mfUdJG) | [Nathan](https://open.spotify.com/artist/4BOkPqfWOHtk5TLVyILCg3) | [Zonder Bedoeling](https://open.spotify.com/album/0ZZp5SO2RUwSxNismoKVIl) | 2:12 | 2025-08-26 | 2026-01-23 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

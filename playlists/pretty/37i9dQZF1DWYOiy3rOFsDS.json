@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Josean Log y Marissa Mur en portada.",
-  "num_followers": 547417,
+  "num_followers": 547418,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2026-01-23 06:00:07",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": "2026-01-23 06:00:07",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2026-01-23 06:00:07",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Hola Perdido",
-        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
+        "name": "Quisiera Enamorarme",
+        "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
       "artists": [
         {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        },
+        {
+          "name": "Julia Amoroso",
+          "url": "https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF"
         }
       ],
-      "duration_ms": 185338,
-      "name": "Hola Perdido",
-      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
+      "duration_ms": 186200,
+      "name": "Quisiera Enamorarme",
+      "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
     },
     {
       "added_at": "2026-01-23 06:00:07",
@@ -875,22 +879,18 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Quisiera Enamorarme",
-        "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
+        "name": "Hola Perdido",
+        "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
       "artists": [
         {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        },
-        {
-          "name": "Julia Amoroso",
-          "url": "https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Quisiera Enamorarme",
-      "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
+      "duration_ms": 185338,
+      "name": "Hola Perdido",
+      "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
     },
     {
       "added_at": "2026-01-23 06:00:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Despertamos a los Vecinos",
-        "url": "https://open.spotify.com/album/2Ks9UudtAE0DsrxQySynpF"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 172873,
-      "name": "Despertamos a los Vecinos",
-      "url": "https://open.spotify.com/track/5NejwNnQ29h7sWMZoIRx3V"
-    },
-    {
-      "added_at": "2026-01-23 06:00:07",
-      "album": {
         "name": "Piel Canela",
         "url": "https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 178909,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
+    },
+    {
+      "added_at": "2026-01-23 06:00:07",
+      "album": {
+        "name": "Despertamos a los Vecinos",
+        "url": "https://open.spotify.com/album/2Ks9UudtAE0DsrxQySynpF"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 172873,
+      "name": "Despertamos a los Vecinos",
+      "url": "https://open.spotify.com/track/5NejwNnQ29h7sWMZoIRx3V"
     },
     {
       "added_at": "2026-01-23 06:00:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2026-01-23 06:00:07",
-      "album": {
         "name": "tu amor me da paz",
         "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 195413,
       "name": "tu amor me da paz",
       "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2026-01-23 06:00:07",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2026-01-23 06:00:07",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "L\u00e1grimas Negras",
-        "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        },
-        {
-          "name": "Reynier Limonta",
-          "url": "https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
-    },
-    {
-      "added_at": "2026-01-23 06:00:07",
-      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1755,6 +1735,26 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
+        "name": "L\u00e1grimas Negras",
+        "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        },
+        {
+          "name": "Reynier Limonta",
+          "url": "https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy"
+        }
+      ],
+      "duration_ms": 318893,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-01-23 06:00:07",
+      "album": {
         "name": "Enclave de Bolero",
         "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
       },
@@ -1771,18 +1771,26 @@
     {
       "added_at": "2026-01-23 06:00:07",
       "album": {
-        "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
-        "url": "https://open.spotify.com/album/2KKD5l6Ton7E2deqIdpPTe"
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
       "artists": [
         {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "SanJuan",
+          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
         }
       ],
-      "duration_ms": 182823,
-      "name": "Yo S\u00e9 Que Te Acordar\u00e1s",
-      "url": "https://open.spotify.com/track/2PLbWfR7PRGrT8qUfAR2qf"
+      "duration_ms": 193208,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
     }
   ],
   "unique_name": "Boleros Pop",

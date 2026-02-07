@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,802 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,843 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 48 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
 | 49 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 |
 | 50 | [Voel Je Dan Niet?](https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Voel Je Dan Niet?](https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK) | 3:00 |
-| 51 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |
-| 52 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
+| 51 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 |
+| 52 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |
 | 53 | [Mijn Stad](https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Danny de Munk](https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle) | 3:10 |
 | 54 | [Vrijgezel](https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Vlinders Van De Nacht](https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC) | 3:46 |
 | 55 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 74 | [Dolores](https://open.spotify.com/track/3qciiRD3GlL8KIq7DV8vd6) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Dolores](https://open.spotify.com/album/4fJaDTHsSwMFrGloawWO5T) | 3:31 |
 | 75 | [Want Jij](https://open.spotify.com/track/1uAwsciTUTnHRWzi1b0ylJ) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Want Jij](https://open.spotify.com/album/7ljEQvUEmPD7fKQGzwCPS7) | 3:02 |
 | 76 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
-| 77 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
-| 78 | [Jaren Komen Jaren Gaan](https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Jaren Komen Jaren Gaan](https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe) | 2:53 |
+| 77 | [Jaren Komen Jaren Gaan](https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Jaren Komen Jaren Gaan](https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe) | 2:53 |
+| 78 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
 | 79 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
 | 80 | [De Ring die jij draagt 2.0](https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Wimmie Bouma](https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7) | [De Ring die jij draagt 2.0](https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg) | 3:12 |
 | 81 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Zo Ben Ik Mezelf](https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q) | 3:39 |
-| 82 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
-| 83 | [Voel je dan niet](https://open.spotify.com/track/3ZKoKdBxP6vDbXh0D2rR6U) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Voel je dan niet](https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk) | 2:43 |
+| 82 | [Voel je dan niet](https://open.spotify.com/track/3ZKoKdBxP6vDbXh0D2rR6U) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Voel je dan niet](https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk) | 2:43 |
+| 83 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
 | 84 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 | 85 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
 | 86 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 |

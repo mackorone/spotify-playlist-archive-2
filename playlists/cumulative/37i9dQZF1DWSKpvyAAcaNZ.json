@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Antique Hearts: Revisited",
+        "url": "https://open.spotify.com/album/7tvR8LMz9Rkf4bCdGbbnfs"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219380,
+      "name": "Antique Hearts",
+      "url": "https://open.spotify.com/track/5NrIkSn8eXdXAc35EtvRt2"
+    },
+    {
+      "album": {
         "name": "Arkansas Kid",
         "url": "https://open.spotify.com/album/66Ak63dkqwIotTR8Fwt0vq"
       },
@@ -552,7 +570,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205532,
       "name": "Bring Down The Wall",
       "url": "https://open.spotify.com/track/790G9Ym8dqZfqHacKrIqWX"
@@ -570,7 +588,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179029,
       "name": "Brother",
       "url": "https://open.spotify.com/track/12KxulDULE8bgL0IczZfQn"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 438840,
       "name": "Heavy Load",
       "url": "https://open.spotify.com/track/10zwPTX4CiU3axwgy4LcXW"
@@ -2458,6 +2476,24 @@
       "duration_ms": 147985,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260311,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb"
     },
     {
       "album": {
@@ -3907,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/2DlQG7o1FSlgFKRuCBfAHL"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244626,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
+    },
+    {
+      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv"
       },
@@ -4637,6 +4691,28 @@
     },
     {
       "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242174,
+      "name": "Southern Man",
+      "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
+    },
+    {
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/0cQJAAGTwnKJCz4FKLmooz"
       },
@@ -4990,7 +5066,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 236440,
       "name": "The Perfect Parts",
       "url": "https://open.spotify.com/track/5qN5bEU3LL1LroOla5FkaE"

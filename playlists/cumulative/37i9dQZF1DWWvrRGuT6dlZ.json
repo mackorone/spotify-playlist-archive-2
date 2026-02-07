@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Calvert Tay. Artwork: Isu Kim",
+  "description": "Unearthing your new favourite artists. Cover: NAZU. Artwork: Isu Kim",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205813,
       "name": "Beautiful View",
       "url": "https://open.spotify.com/track/6Y9MTerTb1HltES53plFGs"
@@ -3384,6 +3384,24 @@
       "duration_ms": 200201,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/6USyqX1CunSU3vrQgkDCmd"
+    },
+    {
+      "album": {
+        "name": "PULAU TENANG",
+        "url": "https://open.spotify.com/album/5sYgEhTEOcQdmMsBz0bsHn"
+      },
+      "artists": [
+        {
+          "name": "ahmadjohnson69",
+          "url": "https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187979,
+      "name": "CAHAYA EY YA",
+      "url": "https://open.spotify.com/track/6m8OBnaMjhnfe5Ry6RRq6H"
     },
     {
       "album": {
@@ -6148,7 +6166,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 105091,
       "name": "Don't bother",
       "url": "https://open.spotify.com/track/7MxtRoOs9yEObkP9udWmBl"
@@ -8042,7 +8060,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 158000,
       "name": "Goal Pode",
       "url": "https://open.spotify.com/track/4kjnqRNmF9v0jQOYMApQDL"
@@ -11174,6 +11192,28 @@
       "duration_ms": 181546,
       "name": "Ivory",
       "url": "https://open.spotify.com/track/4jXvHTFGDPqfWml9bAhPYg"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Waiting For You",
+        "url": "https://open.spotify.com/album/6h6V5Lh7FYKlsveJOwKr1y"
+      },
+      "artists": [
+        {
+          "name": "Trae Jepsen",
+          "url": "https://open.spotify.com/artist/49cJghSUtmexjuExPaBXs1"
+        },
+        {
+          "name": "Brandnewxia",
+          "url": "https://open.spotify.com/artist/5qSeL4JZjGAo6f55vDBWtF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268387,
+      "name": "I\u2019m Waiting For You",
+      "url": "https://open.spotify.com/track/5FfH3MpU36mxToCTrB7QMO"
     },
     {
       "album": {
@@ -16247,6 +16287,24 @@
     },
     {
       "album": {
+        "name": "Other Houses",
+        "url": "https://open.spotify.com/album/4pBEH3IHbn98xVi5Bm1lFq"
+      },
+      "artists": [
+        {
+          "name": "Ahns",
+          "url": "https://open.spotify.com/artist/4YJjA4PeWSNLX3ioinQpNP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Other Houses",
+      "url": "https://open.spotify.com/track/6sztWkNYW1GdL9ftuBjQ6t"
+    },
+    {
+      "album": {
         "name": "Our Vows",
         "url": "https://open.spotify.com/album/3qQqpkKZDrnjIXe98mr68g"
       },
@@ -16609,6 +16667,24 @@
     },
     {
       "album": {
+        "name": "papers and plastic.",
+        "url": "https://open.spotify.com/album/1b9YYON0pZMwZ6LMSBbIVE"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/1MjQWhEmB9h2ASZcxKqx9m"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239271,
+      "name": "papers and plastic.",
+      "url": "https://open.spotify.com/track/0u8FdIqZXe2JpcFyYK4Xtc"
+    },
+    {
+      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/5lfQ0E4rLxPwhVaVN8Wr20"
       },
@@ -16620,7 +16696,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 274906,
       "name": "Parallel Lines",
       "url": "https://open.spotify.com/track/3yzXRjGEWLYzJIUkTP6HmV"
@@ -16956,7 +17032,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192890,
       "name": "Perjury",
       "url": "https://open.spotify.com/track/06LmLH2Dhpn4yXuyjeQmHX"
@@ -17250,7 +17326,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 199833,
       "name": "Polite (i really wanna hate you)",
       "url": "https://open.spotify.com/track/3QIFaI4lMoVivOmMWuatO4"
@@ -17650,6 +17726,24 @@
       "duration_ms": 210000,
       "name": "Punyamu",
       "url": "https://open.spotify.com/track/63qnJJnCAYqH72WESi0lHs"
+    },
+    {
+      "album": {
+        "name": "Pura Pura",
+        "url": "https://open.spotify.com/album/28ntnrIheVXIvYWr0C1ugl"
+      },
+      "artists": [
+        {
+          "name": "NAZU",
+          "url": "https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Pura Pura",
+      "url": "https://open.spotify.com/track/7I0Bxwe6h7tRO37yMVlmNE"
     },
     {
       "album": {
@@ -19063,6 +19157,24 @@
     },
     {
       "album": {
+        "name": "SCREENS",
+        "url": "https://open.spotify.com/album/1IXnUNIfVaEMLo9rGUgIRv"
+      },
+      "artists": [
+        {
+          "name": "Thy Howler",
+          "url": "https://open.spotify.com/artist/2Kr78QLQVRSpFReViapiXf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194756,
+      "name": "SCREENS",
+      "url": "https://open.spotify.com/track/0GnyoMhoi97JqyzoUJY1my"
+    },
+    {
+      "album": {
         "name": "lightbringer",
         "url": "https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC"
       },
@@ -20070,6 +20182,24 @@
       "duration_ms": 177101,
       "name": "somebody",
       "url": "https://open.spotify.com/track/5MWibCIyQwEV5PVyArF0KZ"
+    },
+    {
+      "album": {
+        "name": "Copium",
+        "url": "https://open.spotify.com/album/1v9lR0ETkAyIX3eFFwsmXw"
+      },
+      "artists": [
+        {
+          "name": "Maneloren",
+          "url": "https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240503,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2K5mXEFFi8hA1u0OGZcMaU"
     },
     {
       "album": {
@@ -24587,6 +24717,24 @@
     },
     {
       "album": {
+        "name": "what are we?",
+        "url": "https://open.spotify.com/album/3RqcDvllAhlsiOHQLR3mFw"
+      },
+      "artists": [
+        {
+          "name": "KAI.ZEN",
+          "url": "https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191181,
+      "name": "what are we?",
+      "url": "https://open.spotify.com/track/4YH54OFgGLwt8GTVB6cL6c"
+    },
+    {
+      "album": {
         "name": "what awaits?",
         "url": "https://open.spotify.com/album/5PVHIhHPGwjy7JjvvTeBdu"
       },
@@ -25680,6 +25828,24 @@
       "duration_ms": 120000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/2MFqiHPj4gomxKEF3ivGTK"
+    },
+    {
+      "album": {
+        "name": "You are enough",
+        "url": "https://open.spotify.com/album/62OpIWoMgmFftCnMjafuxT"
+      },
+      "artists": [
+        {
+          "name": "YQ Tan",
+          "url": "https://open.spotify.com/artist/65G2qO6LLXUzOkFzXax2nm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "You are enough",
+      "url": "https://open.spotify.com/track/6KCza9evPvhldl9G66MAZ7"
     },
     {
       "album": {

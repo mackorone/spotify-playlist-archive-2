@@ -1291,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "De Ahora En M\u00e1s",
+        "url": "https://open.spotify.com/album/4NNns3geVfYRgO4x7F2VYm"
+      },
+      "artists": [
+        {
+          "name": "Pone La Premier",
+          "url": "https://open.spotify.com/artist/7qv20bMXHsjob4r3uxV6PB"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "De Ahora En M\u00e1s",
+      "url": "https://open.spotify.com/track/0Uf1l3jEA8Cpudla9wTnDj"
+    },
+    {
+      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S"
       },
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 277466,
       "name": "El Precio de Tu Enga\u00f1o",
       "url": "https://open.spotify.com/track/2CtlBOoT43DM4CzsfvyyLc"

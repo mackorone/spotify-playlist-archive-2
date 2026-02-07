@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10287,
+  "num_followers": 10288,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACeuQVLjOmrke4Gp/ePTd+L",
+  "snapshot_id": "aYPdgAAAAACMWmqWqc5ln6eXXsX8Pl8h",
   "tracks": [
     {
       "added_at": null,
@@ -743,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Arrepi\u00e9ntete",
+        "url": "https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf"
       },
       "artists": [
+        {
+          "name": "Rojo Tabaco",
+          "url": "https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN"
+        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
+      "duration_ms": 175752,
+      "name": "Arrepi\u00e9ntete",
+      "url": "https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs"
     },
     {
       "added_at": null,
@@ -791,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrepi\u00e9ntete",
-        "url": "https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf"
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
       "artists": [
-        {
-          "name": "Rojo Tabaco",
-          "url": "https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN"
-        },
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 175752,
-      "name": "Arrepi\u00e9ntete",
-      "url": "https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs"
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,

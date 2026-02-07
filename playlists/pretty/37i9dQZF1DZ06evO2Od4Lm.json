@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 130641,
+  "num_followers": 130654,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACarHlSAuiy2biiR2Qk15jY",
+  "snapshot_id": "aYPdgAAAAACRN8PdD9vQWbc+6eL+8L6f",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compass Rosa",
-        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 187302,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compass Rosa",
+        "url": "https://open.spotify.com/album/5FSBw9r6XSmbVzZGjhveDh"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4ryTbqZx61oRvsmJ5oWmx1"
     },
     {
       "added_at": null,

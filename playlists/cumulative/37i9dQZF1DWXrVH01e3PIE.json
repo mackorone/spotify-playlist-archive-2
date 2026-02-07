@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Koki LS & Lucho SSJ en la casa del Trap Argentino.",
+  "description": "Mike Southside & Corona en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -2862,7 +2862,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 230425,
       "name": "DALE NINO",
       "url": "https://open.spotify.com/track/4bBU0rQFzMxhn6Y7zZCCaH"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140906,
       "name": "DON\u00b4T SAY THAT",
       "url": "https://open.spotify.com/track/6TcXyWakzd8t9q9QjJu8Cu"
@@ -4754,6 +4754,28 @@
       "duration_ms": 135555,
       "name": "G-Class",
       "url": "https://open.spotify.com/track/6NyMkv98F7Em4dDkhmMPXm"
+    },
+    {
+      "album": {
+        "name": "GANGSTER PARAISO",
+        "url": "https://open.spotify.com/album/5ktfa7e2ZS8YxDBefMQL4R"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139349,
+      "name": "GANGSTER PARAISO",
+      "url": "https://open.spotify.com/track/5PL2d0Cfx3kWy6MJvNq6Yz"
     },
     {
       "album": {
@@ -9220,6 +9242,28 @@
       "duration_ms": 233650,
       "name": "QUE PASO?",
       "url": "https://open.spotify.com/track/4cHSkta5T7QLkMpFMVTCxy"
+    },
+    {
+      "album": {
+        "name": "QUIEN MAS",
+        "url": "https://open.spotify.com/album/73qSBPnDBntB2ovkPtrbi9"
+      },
+      "artists": [
+        {
+          "name": "Mike Southside",
+          "url": "https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960"
+        },
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "QUIEN MAS",
+      "url": "https://open.spotify.com/track/4F9MC0MFJoKXRIjV3mPhzO"
     },
     {
       "album": {

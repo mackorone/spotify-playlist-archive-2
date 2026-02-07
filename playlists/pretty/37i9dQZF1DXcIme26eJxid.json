@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 126427,
+  "num_followers": 126473,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Daddy Lumba Essentials",
+        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 337606,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M"
     }
   ],
   "unique_name": "Classic Afropop",

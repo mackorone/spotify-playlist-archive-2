@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-117 songs - 7 hr 52 min
+118 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 | 2023-06-23 |  |
 | [Eu Quero Ser Grato](https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Eu Quero Ser Grato](https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0) | 3:12 | 2024-11-22 | 2025-02-22 |
 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 | 2023-06-23 | 2024-07-19 |
-| [Faz Valer](https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Origens](https://open.spotify.com/album/06hxAgBVwsGsDBqnfWyovt) | 2:22 | 2025-05-30 |  |
+| [Faz Valer](https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1) | [Origens](https://open.spotify.com/album/06hxAgBVwsGsDBqnfWyovt) | 2:22 | 2025-05-30 | 2026-02-07 |
 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 | 2023-06-23 | 2025-10-04 |
 | [Fora do Normal \(Majestade\) \- Ao Vivo](https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Fora do Normal \(Majestade\) \[Ao Vivo\]](https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK) | 3:45 | 2025-10-03 |  |
 | [Guerreiro Adorador](https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw) | [Ismael Junior](https://open.spotify.com/artist/0vAXrZLvWdBJL1cxdL7JBy), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Guerreiro Adorador](https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9) | 5:52 | 2025-08-29 |  |
@@ -119,6 +119,7 @@
 | [Valeu a Pena](https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Valeu a Pena](https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD) | 3:04 | 2025-02-14 |  |
 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 | 2023-06-23 | 2025-02-15 |
 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 | 2025-04-14 |  |
+| [Você Vai Cantar](https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo) | [Samuel Vieira](https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Você Vai Cantar](https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua) | 5:10 | 2026-02-06 |  |
 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 | 2025-08-01 |  |
 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 | 2025-05-23 |  |
 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 | 2023-06-23 | 2025-08-30 |

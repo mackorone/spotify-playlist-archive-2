@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
-  "num_followers": 22492,
+  "num_followers": 22496,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
         },
         {
-          "name": "Katarina",
-          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 169787,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -391,22 +391,22 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
       },
       "artists": [
         {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         },
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
         }
       ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+      "duration_ms": 169787,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
     },
     {
       "added_at": "2026-01-15 22:00:28",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-01-15 22:00:28",
       "album": {
-        "name": "Asta-i \u021aara Mea",
-        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Vasile Advahov",
-          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
-        }
-      ],
-      "duration_ms": 169711,
-      "name": "Asta-i \u021aara Mea",
-      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2026-01-15 22:00:28",
-      "album": {
         "name": "Deliric X Silent Strike III",
         "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 257259,
       "name": "Adam",
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
+    },
+    {
+      "added_at": "2026-01-15 22:00:28",
+      "album": {
+        "name": "Asta-i \u021aara Mea",
+        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Vasile Advahov",
+          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
+        }
+      ],
+      "duration_ms": 169711,
+      "name": "Asta-i \u021aara Mea",
+      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
     },
     {
       "added_at": "2026-01-15 22:00:28",

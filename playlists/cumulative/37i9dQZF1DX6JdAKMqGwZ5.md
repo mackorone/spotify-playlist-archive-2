@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Rebe & Amore.
 
-708 songs - 1 day 12 hr 41 min
+709 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [No me dejes caer](https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Las burbujas del cajón](https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM) | 3:13 | 2024-07-25 | 2025-02-21 |
 | [No Me Digas La Verdad](https://open.spotify.com/track/3S9GbQOX6DzHpRKQLBII0F) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4), [Noni Meyers](https://open.spotify.com/artist/1KmaOhEgiG0WHh3ie3F3HF) | [No Me Digas La Verdad](https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c) | 3:15 | 2024-12-05 |  |
 | [no me queda energía](https://open.spotify.com/track/1X8bOg3XDK38V0rN9sbKxY) | [Carmen Lancho](https://open.spotify.com/artist/4Axkq7hPn8hlKLQSBE3rd4) | [no me queda energía](https://open.spotify.com/album/5jxnCejWk26GOqYxq4HG7D) | 1:05 | 2025-12-29 |  |
+| [No me saco e' la cabeza](https://open.spotify.com/track/2eoouHNmqle7D8OX6Rkcyz) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [No me saco e' la cabeza](https://open.spotify.com/album/4WPGx3aPJBBZa2wk2HXNtU) | 2:14 | 2026-02-06 |  |
 | [NO PUEDES ROMPER MI CORAZON](https://open.spotify.com/track/3jkcXV8iBUfFhLvvHFvpeP) | [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [NO PUEDES ROMPER MI CORAZON](https://open.spotify.com/album/0snF13OX85Stt0v6FZWoG5) | 2:15 | 2025-10-16 | 2025-11-14 |
 | [No Puedo Más](https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [No Puedo Más](https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj) | 3:04 | 2024-07-11 | 2024-08-09 |
 | [No Quiero Envejecer](https://open.spotify.com/track/0n49GQNvH8NcMz17WB0p1x) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [No Quiero Envejecer](https://open.spotify.com/album/2GFwBwGvrs8l6K3dgJ1FER) | 2:25 | 2025-12-29 | 2026-01-23 |
@@ -470,7 +471,7 @@
 | [Nuevas melodías \(feat\. Mario Diaz\)](https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh) | [Nuevas melodías \(feat\. Mario Diaz\)](https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP) | 3:26 | 2025-04-03 | 2025-09-12 |
 | [nuevo aroma](https://open.spotify.com/track/4XCVIL4ATB2quOR5aGLSX4) | [Maifrén](https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI) | [luz abismal](https://open.spotify.com/album/4bXE0qu3AfShoBdBQAAtNK) | 2:25 | 2025-02-27 | 2025-03-14 |
 | [Nuevo Romántico](https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Contenido Sensible](https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm) | 2:38 | 2024-10-17 | 2024-12-13 |
-| [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 | 2025-10-09 |  |
+| [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 | 2025-10-09 | 2026-02-07 |
 | [Nunca Digo No](https://open.spotify.com/track/2ZJQQhp6LjUXyJ2r2sQ7oJ) | [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Presto y con Toda la Fuerza](https://open.spotify.com/album/64kT7gO2TXr4Mzgg255ZoY) | 2:29 | 2025-05-01 | 2025-05-16 |
 | [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-08-15 | 2024-09-29 |
 | [Nunca Estuviste Tan Lejos](https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3) | [Ultralágrima](https://open.spotify.com/artist/1Wmv9SIc5k9ipk457eaFFV) | [Nunca Estuviste Tan Lejos](https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj) | 4:01 | 2024-06-27 | 2024-12-13 |

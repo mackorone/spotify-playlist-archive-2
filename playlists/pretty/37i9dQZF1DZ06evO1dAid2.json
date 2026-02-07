@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133719,
+  "num_followers": 133715,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAADWx/gQEwDPFR8fuWzhIpG5",
+  "snapshot_id": "aYPdgAAAAACARm2VgmcLJXZz0h8h0ydH",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hail! Hail! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 314133,
       "name": "Wee Wee Hours",
       "url": "https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
     },
     {
       "added_at": null,

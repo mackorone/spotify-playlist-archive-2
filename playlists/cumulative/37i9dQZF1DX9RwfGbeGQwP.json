@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 121643,
       "name": "Bianco d'artista",
       "url": "https://open.spotify.com/track/7bkPzA3XGV8boGQI4GdkDX"
@@ -9317,6 +9317,24 @@
     },
     {
       "album": {
+        "name": "fruit bowl",
+        "url": "https://open.spotify.com/album/5RXlIQhdGHKas1A8wcJK2L"
+      },
+      "artists": [
+        {
+          "name": "Camden Clown",
+          "url": "https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167601,
+      "name": "fruit bowl",
+      "url": "https://open.spotify.com/track/4pHb38yzbV4ZgI3z8j2cdZ"
+    },
+    {
+      "album": {
         "name": "fruitful",
         "url": "https://open.spotify.com/album/54Aa9l1DxkwKe73vq424cr"
       },
@@ -15909,6 +15927,24 @@
     },
     {
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6bLBGvsxl6cg72pEQfytI4"
+      },
+      "artists": [
+        {
+          "name": "Modulus",
+          "url": "https://open.spotify.com/artist/5V0QPPvoC4xK0m9aNYfXbb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123133,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/5rrLLg7hNgVhWmpfOoOBpf"
+    },
+    {
+      "album": {
         "name": "Melancholy Day",
         "url": "https://open.spotify.com/album/1aQVcBW6FOpE6X6OGbg1wS"
       },
@@ -19130,6 +19166,24 @@
       "duration_ms": 109147,
       "name": "One Note Funk",
       "url": "https://open.spotify.com/track/1V6buaeWQxZf2Zutvnu7yx"
+    },
+    {
+      "album": {
+        "name": "One of Us",
+        "url": "https://open.spotify.com/album/1DMCKJsIdaR0lD7O8Xz6aQ"
+      },
+      "artists": [
+        {
+          "name": "lowfields",
+          "url": "https://open.spotify.com/artist/5YbdihWkGaHADS0Iaf5A6I"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "One of Us",
+      "url": "https://open.spotify.com/track/69EG2KaRCzVYme6fjLapPY"
     },
     {
       "album": {
@@ -25272,7 +25326,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 120176,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7cyRcqDorziVOShnNrypwU"
@@ -25532,7 +25586,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 142784,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8"
@@ -28821,6 +28875,24 @@
     },
     {
       "album": {
+        "name": "warm hands, cold air",
+        "url": "https://open.spotify.com/album/0bHYCqUGeLbJlz5lnSUraO"
+      },
+      "artists": [
+        {
+          "name": "very noise person",
+          "url": "https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "warm hands, cold air",
+      "url": "https://open.spotify.com/track/39I5c7yp1BrboSCjYYQ7o7"
+    },
+    {
+      "album": {
         "name": "short days",
         "url": "https://open.spotify.com/album/3tHHoFc584OWBCEY1qlj9t"
       },
@@ -30134,7 +30206,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 171275,
       "name": "You Look Pretty",
       "url": "https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and"

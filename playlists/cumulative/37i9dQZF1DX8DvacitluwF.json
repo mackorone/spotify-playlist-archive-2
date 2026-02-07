@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Dave, Tems",
+  "description": "The best in South African and international R&B. Cover: Ella Mai",
   "name": "R&Beats",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Aweh",
       "url": "https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 161610,
       "name": "Cards on the table",
       "url": "https://open.spotify.com/track/6bOuVvo4LiQmxPyIlhmDpd"
@@ -3688,7 +3688,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 196923,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3mSuIt3oLeHuXvT0j43rDW"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207762,
       "name": "He's Not Me",
       "url": "https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE"
@@ -4300,6 +4300,24 @@
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "album": {
@@ -6862,6 +6880,24 @@
       "duration_ms": 189000,
       "name": "MICELLAR WATER",
       "url": "https://open.spotify.com/track/1bGO5aoFzejQLjjAs2A02D"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223509,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
     },
     {
       "album": {

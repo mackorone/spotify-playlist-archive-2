@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Yumi Zouma
+> Explore all things indie rock right now\. Featuring music from Broken Social Scene
 
-2,098 songs - 4 day 22 hr 40 min
+2,104 songs - 4 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 | 2022-11-12 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-30 | 2023-03-11 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-05-24 |
+| [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 | 2026-02-06 |  |
 | [Bitch Heart](https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Bitch Heart](https://open.spotify.com/album/4OR108JUFbFuyjdTNVuYIG) | 2:24 | 2025-05-09 | 2025-07-12 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-07-29 | 2022-10-22 |
 | [biteback](https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [biteback](https://open.spotify.com/album/5SXLdiWht4MwICTqA9QwNP) | 2:02 | 2022-12-02 | 2022-12-08 |
@@ -662,7 +663,7 @@
 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 | 2022-04-08 | 2022-10-08 |
 | [Failed at Math\(s\)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 2:40 | 2023-05-05 | 2023-07-29 |
 | [Failed at Math\(s\)](https://open.spotify.com/track/6W1wt10FubiQQVXychFAKp) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/1TyXRjcjSnDLmewsTjr6id) | 2:40 | 2023-05-05 | 2023-05-12 |
-| [Falling on my Sword](https://open.spotify.com/track/3t6xrRUy8FmhH7XH86RO1O) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Falling on my Sword](https://open.spotify.com/album/6hNodCtj6sGpBT3a0VxF6c) | 2:27 | 2025-06-27 |  |
+| [Falling on my Sword](https://open.spotify.com/track/3t6xrRUy8FmhH7XH86RO1O) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Falling on my Sword](https://open.spotify.com/album/6hNodCtj6sGpBT3a0VxF6c) | 2:27 | 2025-06-27 | 2026-02-07 |
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-04 | 2023-04-15 |
 | [False Idols](https://open.spotify.com/track/6oofSlzxDnFothYfq2jfCi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [False Idols](https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE) | 2:53 | 2021-07-23 | 2022-01-31 |
 | [Family of Six](https://open.spotify.com/track/0a71EDvDZpjJosNHz1a15P) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [USA](https://open.spotify.com/album/3xyWW80QH0O51iZDT3MLMM) | 4:59 | 2023-09-22 | 2024-01-20 |
@@ -1009,6 +1010,7 @@
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-06-07 | 2022-06-11 |
 | [it's your film, i'm just playing the part](https://open.spotify.com/track/6s9WMApmrO549X59MV0pr3) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [it's your film, i'm just playing the part](https://open.spotify.com/album/17rtBZTsO48fhqft3sSGMz) | 3:13 | 2022-10-14 | 2022-11-19 |
 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 | 2024-06-28 | 2024-10-05 |
+| [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-06 |  |
 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 | 2024-09-27 | 2025-02-15 |
 | [I’d Like You To Leave](https://open.spotify.com/track/2ufyUEytXZQvltIJsxEDwO) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [I’d Like You To Leave](https://open.spotify.com/album/07fLys1nAwfqubZ5q927iW) | 2:46 | 2023-08-11 | 2023-10-21 |
 | [I’m A Fool](https://open.spotify.com/track/4cWO14OwuDqi2Bq9ox3TJH) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place \(Deluxe Edition\)](https://open.spotify.com/album/31bGqyJu3AtpzlFzNoE1aM) | 3:04 | 2025-02-28 | 2025-05-17 |
@@ -1262,6 +1264,7 @@
 | [Ms\. Dramatic](https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:01 | 2022-07-29 | 2022-08-17 |
 | [Muck](https://open.spotify.com/track/4ImTjh1dGi8ZloxmfAfp5K) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Muck](https://open.spotify.com/album/5VoHyvkJc7GyFQQM9fSIEN) | 3:10 | 2025-11-18 |  |
 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2024-06-15 |
+| [Multizeal](https://open.spotify.com/track/5eYJZqdfGF6bdBli2ynooi) | [Dirt Buyer](https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp) | [Dirt Buyer III](https://open.spotify.com/album/34ukh7YS8utUHcsp32VjIZ) | 2:13 | 2026-02-06 |  |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-23 | 2024-04-06 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-06-09 |
 | [mutt](https://open.spotify.com/track/44Q2fSohgPmMQsNm0sec1P) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [mutt](https://open.spotify.com/album/2iErg9h34FvtYdPZanxwcR) | 2:49 | 2021-11-19 | 2022-02-02 |
@@ -1321,6 +1324,7 @@
 | [No Worries Yes Worries](https://open.spotify.com/track/23QugSUc9zbCAZ1OprFZqw) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN C](https://open.spotify.com/album/5TIxUI10Vo3SLKDDgkB9kT) | 2:52 | 2022-07-01 | 2022-07-30 |
 | [Nobody More](https://open.spotify.com/track/2H921QdeSvA1bBLVTA5ljH) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [Nobody More](https://open.spotify.com/album/1vXsXI0kvOtyJ1DZQeqZf1) | 2:55 | 2021-08-13 | 2022-02-05 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 | 2024-11-23 |
+| [Not Around Anymore](https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Not Around Anymore](https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl) | 3:52 | 2026-02-06 |  |
 | [Not Enough](https://open.spotify.com/track/1RiLntZOALVZfwFnsC3JlF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [ABSOLUTE HEARTBREAK](https://open.spotify.com/album/11Ax1twWIvL2xltYzbH3Up) | 2:44 | 2023-01-27 | 2023-04-09 |
 | [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 | 2025-11-14 |  |
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-30 | 2024-04-13 |
@@ -1507,11 +1511,13 @@
 | [Right Back](https://open.spotify.com/track/00g9FpnPpWq9D6pSlazJy3) | [Poolhouse](https://open.spotify.com/artist/39xTxKuPXu1TfS06onbNVK) | [Right Back](https://open.spotify.com/album/0xlZcUNifMX35nyyfkC4ta) | 3:05 | 2025-07-04 |  |
 | [Right Here, For Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 | 2023-08-18 | 2023-09-09 |
 | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/track/3SOBxGdnsGLRtFSAg5kbYa) | [FRogers](https://open.spotify.com/artist/7EdXsk95xxUzYbed3oC2b8) | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/album/2q73TKq2sU5pjyavXJGpu7) | 3:01 | 2021-06-07 | 2022-04-08 |
+| [Ring Of Fire](https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Ring Of Fire](https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ) | 3:52 | 2026-02-06 |  |
 | [RIP](https://open.spotify.com/track/2qeRnFb42RVzv2NP6s8vG9) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [RIP](https://open.spotify.com/album/49IpmVlrsOt5Pw0whYZKhI) | 3:45 | 2025-02-21 | 2025-04-12 |
 | [Risk to my Reward](https://open.spotify.com/track/1JblypDgd1ha2p2BlFvu3s) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Risk to my Reward](https://open.spotify.com/album/3FnkCJPLPKEKp11cWNmRjw) | 2:51 | 2023-02-22 | 2023-03-18 |
 | [River](https://open.spotify.com/track/3MdfiTYyZLFxWHwHf4gDsu) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [River](https://open.spotify.com/album/1l2tLGBVpMvwnZ8TV5sC4l) | 4:01 | 2023-11-03 | 2024-03-30 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-13 | 2025-02-01 |
 | [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2022-11-04 | 2022-12-07 |
+| [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 | 2026-02-06 |  |
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-01-20 | 2023-04-01 |
 | [Rocket Chair](https://open.spotify.com/track/4VM9YbaB5OOp2tFryJ4Mw6) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Rocket Chair](https://open.spotify.com/album/2gobaSL3mx2Y80jRHiKugs) | 4:10 | 2025-04-04 | 2025-04-19 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-14 | 2023-07-01 |

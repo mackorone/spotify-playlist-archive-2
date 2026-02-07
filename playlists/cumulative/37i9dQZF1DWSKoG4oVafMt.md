@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
 
-### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
+### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 

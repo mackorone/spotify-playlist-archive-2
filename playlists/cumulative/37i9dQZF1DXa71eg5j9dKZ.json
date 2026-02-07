@@ -10411,8 +10411,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
       },
       "artists": [
         {
@@ -13189,6 +13189,28 @@
     },
     {
       "album": {
+        "name": "JOY (Nobody Ever)",
+        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212932,
+      "name": "JOY (Nobody Ever) 7\u201d mix",
+      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
+    },
+    {
+      "album": {
         "name": "JOY (Push The Button)",
         "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
@@ -14734,7 +14756,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 309552,
       "name": "love has come again",
       "url": "https://open.spotify.com/track/3kbZzQlb5eGnbvVGRwEdC6"

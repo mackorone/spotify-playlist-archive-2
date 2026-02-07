@@ -1,6 +1,6 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: Kweku Smoke",
-  "num_followers": 30058,
+  "num_followers": 30089,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,30 @@
       "duration_ms": 151496,
       "name": "Wave",
       "url": "https://open.spotify.com/track/6IZwuyo05ATsWw801kUO8W"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs"
+      },
+      "artists": [
+        {
+          "name": "Thywill",
+          "url": "https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 214524,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq"
     },
     {
       "added_at": "2026-01-30 00:01:20",

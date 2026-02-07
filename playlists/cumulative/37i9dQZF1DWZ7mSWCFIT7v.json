@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 274285,
       "name": "Circadian Rhythm - BOP Remix",
       "url": "https://open.spotify.com/track/151JobcMNpyBbA47MR0z5T"
@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Wagenmuzik 2",
+        "url": "https://open.spotify.com/album/4112se9p86vUJXzn2Z7ckn"
+      },
+      "artists": [
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246938,
+      "name": "Love Languages",
+      "url": "https://open.spotify.com/track/3ZgNp3Eu8Qx8UmSdnJILtK"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -5746,6 +5764,24 @@
       "duration_ms": 244251,
       "name": "Need U",
       "url": "https://open.spotify.com/track/6W9OSgRWeBqulK20rvWqDp"
+    },
+    {
+      "album": {
+        "name": "Neon Pulse (Midnight Version)",
+        "url": "https://open.spotify.com/album/77BiuGLt07HNvRABCmVZ3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156139,
+      "name": "Neon Pulse - Midnight Version",
+      "url": "https://open.spotify.com/track/6gOutDxUYEjRfzvUVonM3f"
     },
     {
       "album": {
@@ -9812,7 +9848,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 417390,
       "name": "Well, We Can't Go Back Now",
       "url": "https://open.spotify.com/track/3TKelAeks16VAqc9CIoUBk"

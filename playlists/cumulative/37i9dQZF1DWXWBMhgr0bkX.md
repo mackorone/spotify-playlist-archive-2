@@ -4,7 +4,7 @@
 
 > Homegrown emerging pop! Cover: Freya Skye
 
-997 songs - 2 day 3 hr 10 min
+997 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Brother](https://open.spotify.com/track/597EdJCBnLDgObC5LfyOYF) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [The Way I Remember It](https://open.spotify.com/album/26tS32DhP6r7qofRhE4bgZ) | 3:48 | 2025-11-21 | 2026-01-16 |
 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 | 2024-06-04 | 2024-08-17 |
 | [BT45](https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [BT45](https://open.spotify.com/album/0dGIB22t8fU4RGRewEQcyi) | 4:12 | 2024-08-16 | 2024-10-25 |
+| [bubble](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [bubble](https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9) | 3:01 | 2026-02-06 |  |
 | [burna](https://open.spotify.com/track/0kTySUGoZCotqHZEMMzgdP) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [burna](https://open.spotify.com/album/0v3K7kgN0glEIer3v2PQom) | 2:56 | 2025-06-12 | 2025-07-25 |
 | [Burner Phone](https://open.spotify.com/track/6MU6OaIdhMadqMNk0CFH91) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [Burner Phone](https://open.spotify.com/album/6WKDYwXWzqDQkQQrHPaBqP) | 2:45 | 2025-02-28 | 2025-03-21 |
 | [Burning Up](https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Burning Up](https://open.spotify.com/album/2ree99pgw7rfKASXNnx08q) | 2:06 | 2025-08-21 | 2025-09-26 |
@@ -937,7 +938,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 |  |
 | [Troy](https://open.spotify.com/track/2KVj7oGzV2LFjxO72z1FX1) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [The Songs We Wrote In Norfolk](https://open.spotify.com/album/6MEFQmsSR3YOQXzYnDMw6T) | 2:05 | 2026-01-23 |  |

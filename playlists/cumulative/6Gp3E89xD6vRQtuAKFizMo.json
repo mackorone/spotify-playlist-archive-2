@@ -1005,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Been Good (feat. Kris Kiss)",
+        "url": "https://open.spotify.com/album/0ekN5r0VA4Fh4wdrXAyyMS"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Been Good",
+      "url": "https://open.spotify.com/track/2ODKd2S4s1jHhoYnlqv9aF"
+    },
+    {
+      "album": {
         "name": "Beg For It (feat. Britt Lari)",
         "url": "https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0"
       },
@@ -10358,6 +10380,28 @@
       "duration_ms": 154672,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1VdJthDXiTGmex8NA0SUtX"
+    },
+    {
+      "album": {
+        "name": "Too Many Ghosts",
+        "url": "https://open.spotify.com/album/5hRggb5loWJojxKSTh9HW5"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "Too Many Ghosts",
+      "url": "https://open.spotify.com/track/0fWw2LjwciGDvHrAPZvskV"
     },
     {
       "album": {

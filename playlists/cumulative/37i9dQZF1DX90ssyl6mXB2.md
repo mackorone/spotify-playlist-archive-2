@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Tommy Richman
+> late night vibes – notifications off\. cover: Jaymin
 
-309 songs - 14 hr 14 min
+313 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [40 Days n 40 Nights \(feat\. Vory\)](https://open.spotify.com/track/3XYpgHhQs7Q3LsY3ALzWHr) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:16 | 2024-02-02 | 2025-09-20 |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-21 |  |
 | [90s FINE \(ISSA II\)](https://open.spotify.com/track/1K4OY5NTaAnosn7wkvtaO9) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [90s FINE \(ISSA II\)](https://open.spotify.com/album/2uR6QNl657cLkgKFN0Lrca) | 2:04 | 2025-06-06 |  |
+| [96 Camry](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [PRAY FOR ME](https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs) | 3:15 | 2026-02-06 |  |
 | [A Minute](https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DUMBCRAZYSTUPID](https://open.spotify.com/album/1qkNLazBzKTGxkWC2XsuQ3) | 2:58 | 2025-12-12 |  |
 | [act i: stickerz "99"](https://open.spotify.com/track/24A1MxM364lveyyDomwIYq) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act i: stickerz "99"](https://open.spotify.com/album/7zvLQaWpLG4rZSXgpTsfi9) | 1:44 | 2024-02-02 | 2025-11-08 |
 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 | 2024-02-02 | 2024-03-09 |
@@ -28,6 +29,7 @@
 | [AGAIN](https://open.spotify.com/track/0ABnKfR4XX3D0xTUViIvcL) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [AGAIN](https://open.spotify.com/album/056sNwOFfYIzgkouMydSgn) | 2:31 | 2025-12-05 |  |
 | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB) | [PxRRY](https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE), [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ) | [Ain't Mine \(feat\. Aaron Page\)](https://open.spotify.com/album/3MvMF1icYkiH7fdpXHpOBa) | 2:53 | 2025-11-14 |  |
 | [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 | 2025-10-18 |
+| [All The Signs \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:20 | 2026-02-06 |  |
 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 | 2024-12-06 | 2025-09-20 |
 | [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 | 2025-08-15 | 2025-09-20 |
 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 | 2025-09-20 |
@@ -113,6 +115,7 @@
 | [FOCUS ON ME](https://open.spotify.com/track/0L5LVmGVowzOHxXg3mm238) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 2:34 | 2025-02-07 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 | 2025-02-08 |
 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 | 2025-03-07 |  |
+| [Fragments \(with Don Toliver\)](https://open.spotify.com/track/3YklYihQWWUR2UoeupRp6H) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 1:59 | 2026-02-06 |  |
 | [friends?](https://open.spotify.com/track/6Khr46hLHRgAWvnShNLhu7) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [friends?](https://open.spotify.com/album/0KVZzlpo3RKmFGdedVJfbs) | 1:59 | 2024-03-01 | 2025-06-07 |
 | [From A Woman](https://open.spotify.com/track/5YVmVthPhqjBUrqB2Rp5di) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:02 | 2024-02-02 |  |
 | [FWM](https://open.spotify.com/track/1Pfc9dT3gduTVoqzRYXITy) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [FWM](https://open.spotify.com/album/76T6f7E3ZovruteP4vnK10) | 2:10 | 2024-02-20 |  |
@@ -172,6 +175,7 @@
 | [Love This Pain Away](https://open.spotify.com/track/4eKLPRValz4g6ys9HIJe72) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Love This Pain Away](https://open.spotify.com/album/4i4OSrF8Fp7i3J0pllAJ9c) | 3:10 | 2025-06-20 | 2025-10-18 |
 | [LUST I LEARNT](https://open.spotify.com/track/5OaL5ip2IqMKFRlw1Dl2ly) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h) | [LUST I LEARNT](https://open.spotify.com/album/0j68peYgjsbCOYaKWdXjZF) | 1:25 | 2025-10-31 |  |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-10-18 |  |
+| [Mach 10](https://open.spotify.com/track/4RDzloEPT85MUPnxSdIu69) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Sweet Nothings](https://open.spotify.com/album/2fyeGCncCmMTDjbjxWOag9) | 2:51 | 2026-02-06 |  |
 | [Make You Mine](https://open.spotify.com/track/7BFxrSduKzrgkZP8Sg0r5i) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [MYM / Fantasies](https://open.spotify.com/album/4UkUdp6JTJfURZKQIUOapL) | 2:30 | 2025-03-21 | 2025-11-08 |
 | [Marni Problems](https://open.spotify.com/track/4c6JSOjeHcGfkKXOVlvTVi) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 2:36 | 2025-08-08 |  |
 | [Maybe](https://open.spotify.com/track/0wQgERNEc2XoxpZSf3o2OK) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Maybe](https://open.spotify.com/album/5yquxQivgSO3WYJAQWP4bn) | 2:59 | 2025-04-04 |  |

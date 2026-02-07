@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 449404,
+  "num_followers": 449459,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "George Reddy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
@@ -515,22 +531,6 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "George Reddy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-12-16 12:46:43",
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
+      },
+      "artists": [
+        {
+          "name": "Mangli",
+          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        }
+      ],
+      "duration_ms": 230048,
+      "name": "Saranga Dariya",
+      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
         "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 221000,
       "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1"
-      },
-      "artists": [
-        {
-          "name": "Mangli",
-          "url": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
-        }
-      ],
-      "duration_ms": 230048,
-      "name": "Saranga Dariya",
-      "url": "https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -857,30 +857,6 @@
       "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
     },
     {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Dasara (Telugu)",
-        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Chamkeela Angeelesi",
-      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Acharya",
@@ -903,6 +879,30 @@
       "duration_ms": 247660,
       "name": "Laahe Laahe",
       "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
+    },
+    {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Dasara (Telugu)",
+        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Chamkeela Angeelesi",
+      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
       "added_at": "2022-11-28 04:35:07",
@@ -949,6 +949,26 @@
       "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Bengal Tiger",
+        "url": "https://open.spotify.com/album/6CaNSmTfjpECxwCDAkvmNu"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 236512,
+      "name": "Chupulatho Deepala",
+      "url": "https://open.spotify.com/track/2PlHPw8TVj7EqGE64ylc1i"
+    },
+    {
       "added_at": "2025-01-20 06:56:34",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -975,26 +995,6 @@
       "duration_ms": 282000,
       "name": "Ullaasam",
       "url": "https://open.spotify.com/track/00AfDW29vK3ZR3rVeSENpO"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Bengal Tiger",
-        "url": "https://open.spotify.com/album/6CaNSmTfjpECxwCDAkvmNu"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 236512,
-      "name": "Chupulatho Deepala",
-      "url": "https://open.spotify.com/track/2PlHPw8TVj7EqGE64ylc1i"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1137,6 +1137,30 @@
       "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
     },
     {
+      "added_at": "2022-04-20 12:49:50",
+      "album": {
+        "name": "Acharya",
+        "url": "https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Rahul Sipligunj",
+          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Bhale Bhale Banjara",
+      "url": "https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA"
+    },
+    {
       "added_at": "2025-06-17 05:15:49",
       "album": {
         "name": "Oh Sita Hey Rama [From \"Sita Ramam (Telugu)\"]",
@@ -1163,30 +1187,6 @@
       "duration_ms": 246412,
       "name": "Oh Sita Hey Rama (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/1hYaQRlsuEW4kMjjmjyow3"
-    },
-    {
-      "added_at": "2022-04-20 12:49:50",
-      "album": {
-        "name": "Acharya",
-        "url": "https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Bhale Bhale Banjara",
-      "url": "https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA"
     },
     {
       "added_at": "2022-06-15 10:15:33",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/18rdJauTStd04N56UetMmZ"
     },
     {
+      "added_at": "2023-12-12 05:49:47",
+      "album": {
+        "name": "Kushi (Telugu)",
+        "url": "https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve",
+      "url": "https://open.spotify.com/track/5ReOjb2X6TCkMfYoHuVW1b"
+    },
+    {
       "added_at": "2022-08-16 07:40:21",
       "album": {
         "name": "Kaanunna Kalyanam [From \"Sita Ramam (Telugu)\"]",
@@ -1283,22 +1299,6 @@
       "duration_ms": 232513,
       "name": "Kaanunna Kalyanam (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
-    },
-    {
-      "added_at": "2023-12-12 05:49:47",
-      "album": {
-        "name": "Kushi (Telugu)",
-        "url": "https://open.spotify.com/album/78bohc0Dzw7AoPpqVn9rsl"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Na Roja Nuvve",
-      "url": "https://open.spotify.com/track/5ReOjb2X6TCkMfYoHuVW1b"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -1357,30 +1357,6 @@
       "url": "https://open.spotify.com/track/1hzaaPxtBKyTTnOiz0zALA"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Ashoka Vanamlo Arjuna Kalyanam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le"
-      },
-      "artists": [
-        {
-          "name": "Jay Krish",
-          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 297391,
-      "name": "Oo Aadapilla",
-      "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
-    },
-    {
       "added_at": "2023-12-12 05:49:47",
       "album": {
         "name": "Kushi (Telugu)",
@@ -1403,6 +1379,30 @@
       "duration_ms": 282222,
       "name": "Aradhya",
       "url": "https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Ashoka Vanamlo Arjuna Kalyanam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le"
+      },
+      "artists": [
+        {
+          "name": "Jay Krish",
+          "url": "https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "duration_ms": 297391,
+      "name": "Oo Aadapilla",
+      "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
     },
     {
       "added_at": "2024-04-18 09:26:24",

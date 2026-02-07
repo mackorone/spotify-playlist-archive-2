@@ -6423,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "PROJECTILE LAUNCH",
+        "url": "https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ"
+      },
+      "artists": [
+        {
+          "name": "Mors_Music",
+          "url": "https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103846,
+      "name": "PROJECTILE LAUNCH",
+      "url": "https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat"
+    },
+    {
+      "album": {
         "name": "INTERNET PROTOGEN",
         "url": "https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw"
       },

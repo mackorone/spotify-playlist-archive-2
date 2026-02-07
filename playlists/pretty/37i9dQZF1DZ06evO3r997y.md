@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,350 likes - 45 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 45 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 18 | [Blue Velvet \- from CrosSing](https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- from CrosSing](https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh) | 3:54 |
 | 19 | [深夜センチメンタル](https://open.spotify.com/track/1VFiqzQ8xiq7fdbM9q4kxN) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 3:31 |
 | 20 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 |
-| 21 | [From Fate](https://open.spotify.com/track/2WYzjKXWdWVaYEihavKdlS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:20 |
-| 22 | [Swinging Heart](https://open.spotify.com/track/0KgXRqAH0a98D9P9JCEXzN) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Swinging Heart](https://open.spotify.com/album/3qNDzkJQhvwgREDPtioUee) | 3:29 |
+| 21 | [Swinging Heart](https://open.spotify.com/track/0KgXRqAH0a98D9P9JCEXzN) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Swinging Heart](https://open.spotify.com/album/3qNDzkJQhvwgREDPtioUee) | 3:29 |
+| 22 | [From Fate](https://open.spotify.com/track/2WYzjKXWdWVaYEihavKdlS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0Mx3Z30Xbr44Miw4QkmyLh) | 3:20 |
 | 23 | [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 |
 | 24 | [キャンバス](https://open.spotify.com/track/5cS4vaHvpDIfpaspWapnVV) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:58 |
 | 25 | [INNOCENT](https://open.spotify.com/track/3feBsvcacgOruGJDwV2Ev6) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:01 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r997y.md) - [plain]
 | 38 | [illminate](https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 4:13 |
 | 39 | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY) | 4:55 |
 | 40 | [Swinging Heart Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2RjE7zHY0etIifDYKVOGyL) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:26 |
-| 41 | [FLAMES](https://open.spotify.com/track/1cHSVGrKm9sHjOlARY6l7Q) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/0jY5AnyprRBeYUabUXOSUH) | 3:29 |
+| 41 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 |
 | 42 | [晴れ待ちノオト](https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [みちくさ](https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS) | 4:37 |
 | 43 | [明日へ鳴らすリフレイン \- P's GR∞VE Ver.](https://open.spotify.com/track/14mDs8AcPxuMhXuFVPzq9l) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S), [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS), [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL), [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi), [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0), [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt), [稗田寧々 from DIALOGUE+](https://open.spotify.com/artist/1elIH0yJTLlee5ntfYLFDg), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [守屋亨香 from DIALOGUE+](https://open.spotify.com/artist/0cerIM0Rbng5biYTcSQh83) | [明日へ鳴らすリフレイン \-P's GR∞VE Ver.\-](https://open.spotify.com/album/4JEzrS41phkvXxruUjZKDx) | 4:19 |
 | 44 | [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 |
 | 45 | [Desire Again Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 3:58 |
 
-Snapshot ID: `aYKMAAAAAABp6SbHrE1OWGnIhOdERhQ2`
+Snapshot ID: `aYPdgAAAAAAvirXO/4jpJw04m3QuyQe7`

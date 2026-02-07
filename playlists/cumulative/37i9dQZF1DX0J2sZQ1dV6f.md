@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Jimmy Guzman, Alan Arrieta
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Rivs, Sahir Montoya
 
-538 songs - 1 day 3 hr 30 min
+539 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 | 2022-03-21 | 2022-07-09 |
 | [Cuaderno](https://open.spotify.com/track/7anSoGdgtmJTAPZBzcPhO6) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 4:46 | 2022-04-19 | 2022-07-09 |
 | [Cuanto Quieres](https://open.spotify.com/track/1JcjFen7sEpyDBUsxVHRio) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cuanto Quieres](https://open.spotify.com/album/6uywOpoOam8zLawTZtWQHJ) | 3:30 | 2023-05-25 | 2023-12-07 |
+| [Cuernito](https://open.spotify.com/track/5RmTxl5kMLw8QRgyPZiaRd) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Cuernito](https://open.spotify.com/album/2Fe9k9hGh0yXUeIMOI9mIc) | 2:17 | 2026-02-06 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-05-25 | 2023-12-07 |
 | [Culichi Vibes](https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Culichi Vibes](https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS) | 3:09 | 2024-10-11 |  |
 | [Culo](https://open.spotify.com/track/7A7hQYnll4bWw4uw8mR4rl) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [Nirvana](https://open.spotify.com/album/5YGkxBye5c4FTIuDnWAkcH) | 2:38 | 2022-03-21 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20060,
+  "num_followers": 20063,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAB/SZeiMrNK95dyXTYVr5u0",
+  "snapshot_id": "aYPdgAAAAACP4GLznmNoqFKIzpWVHZeC",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PEPPER",
-        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "PEPPER",
-      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LETHAL",
         "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 111733,
       "name": "SON OF A GUN",
       "url": "https://open.spotify.com/track/0WEttQnuVB3wntMV6HvXV4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PEPPER",
+        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "PEPPER",
+      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL-ER",
-        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 120964,
       "name": "OHFR?",
       "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "STUNNA",
+      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL-ER",
-        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+        "name": "IPHONE",
+        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 110146,
-      "name": "SAY WE DID",
-      "url": "https://open.spotify.com/track/5PC2Udh5gEmWE0c43XItro"
+      "duration_ms": 158663,
+      "name": "IPHONE",
+      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 176026,
       "name": "EAT ME!",
       "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IPHONE",
-        "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "IPHONE",
-      "url": "https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL"
     },
     {
       "added_at": null,
@@ -804,7 +788,7 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "Bktherula",
+          "name": "BKTHERULA",
           "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
@@ -887,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         }
       ],
-      "duration_ms": 140346,
-      "name": "Hatin",
-      "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
+      "duration_ms": 163373,
+      "name": "YOU COULD NEVER",
+      "url": "https://open.spotify.com/track/1h31TRX64PcICmCFNjwlGj"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 181796,
       "name": "Key Lime OG",
       "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        }
+      ],
+      "duration_ms": 140346,
+      "name": "Hatin",
+      "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
     },
     {
       "added_at": null,

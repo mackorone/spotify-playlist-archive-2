@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  L.A.X",
-  "num_followers": 260857,
+  "num_followers": 260877,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -291,17 +291,21 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "HYBRID",
+        "url": "https://open.spotify.com/album/0Bu9rJJqHVmHgK7Y9LXOSa"
       },
       "artists": [
         {
           "name": "Shoday",
           "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 176326,
+      "name": "Bad and Bouje (feat. taves)",
       "url": "https://open.spotify.com/track/3OYArVdWEQpQMB49FiTAUd"
     },
     {
@@ -559,26 +563,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
-      },
-      "artists": [
-        {
-          "name": "EMO Grae",
-          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -599,6 +583,26 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
+      },
+      "artists": [
+        {
+          "name": "EMO Grae",
+          "url": "https://open.spotify.com/artist/706g3hauVcGV8Ops9uNzMv"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -867,26 +871,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "On A Low",
-        "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "On A Low",
-      "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -923,6 +907,26 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "On A Low",
+        "url": "https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "On A Low",
+      "url": "https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1107,22 +1111,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Black Girl Magic",
-      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -1139,6 +1127,22 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Black Girl Magic",
+      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1199,22 +1203,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Ifineme X Upstandin",
-        "url": "https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk"
-      },
-      "artists": [
-        {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        }
-      ],
-      "duration_ms": 179070,
-      "name": "Ifineme",
-      "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "A1 (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
       },
@@ -1231,6 +1219,22 @@
       "duration_ms": 131526,
       "name": "A1 (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Ifineme X Upstandin",
+        "url": "https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "duration_ms": 179070,
+      "name": "Ifineme",
+      "url": "https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1403,22 +1407,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "TO CRY A FLOOD",
-        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "DROWN",
-      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Ouu wee (brown)",
         "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
@@ -1431,6 +1419,22 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "TO CRY A FLOOD",
+        "url": "https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "DROWN",
+      "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
     },
     {
       "added_at": "2026-02-06 00:01:18",

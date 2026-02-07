@@ -5171,6 +5171,32 @@
     },
     {
       "album": {
+        "name": "Yeux de Foule",
+        "url": "https://open.spotify.com/album/2On9qaBkgHOn6TZW6703X3"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        },
+        {
+          "name": "Tripa Gninnin",
+          "url": "https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221638,
+      "name": "Yeux de Foule",
+      "url": "https://open.spotify.com/track/5YjawURFOkam2wXSlx6lGD"
+    },
+    {
+      "album": {
         "name": "YPM",
         "url": "https://open.spotify.com/album/7n3iaSiyFvU172FHDEYCjM"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Ifan Seventeen",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: LNGSHOT",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146086,
       "name": "08brp?",
       "url": "https://open.spotify.com/track/7FnHyctpAO039nX2d1O8iB"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -9722,7 +9722,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 167583,
       "name": "her (feat. Annika Wells)",
       "url": "https://open.spotify.com/track/2Kc8MeW8prVwHEREYM3wCG"
@@ -10773,6 +10773,24 @@
     },
     {
       "album": {
+        "name": "Ibu Ibu Ibu",
+        "url": "https://open.spotify.com/album/0Ji7XEeFrU1AS3CkGnbK7d"
+      },
+      "artists": [
+        {
+          "name": "Pidi Baiq",
+          "url": "https://open.spotify.com/artist/6QR072SvyOLDQYYlplI4Ll"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199018,
+      "name": "Ibu Ibu Ibu",
+      "url": "https://open.spotify.com/track/1icbiL8PJZR6XQHraig9ML"
+    },
+    {
+      "album": {
         "name": "GOLDEN HOUR : Part.2",
         "url": "https://open.spotify.com/album/2FLo3lAhEQpvHAtRN0HEUP"
       },
@@ -11227,6 +11245,28 @@
     },
     {
       "album": {
+        "name": "Ini Rayuku",
+        "url": "https://open.spotify.com/album/3nB2cBT7uURE6EQxsSlrbv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jacob",
+          "url": "https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9"
+        },
+        {
+          "name": "Mirriam Eka",
+          "url": "https://open.spotify.com/artist/245kyQmT6Bi2pNLiOSewiW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Ini Rayuku",
+      "url": "https://open.spotify.com/track/5X1QcFV9xIYPf7Pve9PeYk"
+    },
+    {
+      "album": {
         "name": "Ini Rindu",
         "url": "https://open.spotify.com/album/52RnczKYgUD0Yfj6K1QuTz"
       },
@@ -11620,6 +11660,28 @@
       "duration_ms": 278219,
       "name": "Jiwa Yang Bersedih",
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
+    },
+    {
+      "album": {
+        "name": "Jogja Lantai Dua",
+        "url": "https://open.spotify.com/album/2B5fBlYQhu8qVs8cmiaaet"
+      },
+      "artists": [
+        {
+          "name": "Fanny Soegi",
+          "url": "https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE"
+        },
+        {
+          "name": "Heruwa",
+          "url": "https://open.spotify.com/artist/4njMybOphuw7MdDGv2KhA3"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241116,
+      "name": "Jogja Lantai Dua",
+      "url": "https://open.spotify.com/track/1vnRDHIGegvoQcS3xcmaLd"
     },
     {
       "album": {
@@ -12050,7 +12112,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 234293,
       "name": "Kasih Putih",
       "url": "https://open.spotify.com/track/2sjA4DTYveWwXo9aC62vWd"
@@ -13298,7 +13360,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 291334,
       "name": "Lebih Dari",
       "url": "https://open.spotify.com/track/6bgnRv0S4pMyukpOr4LFkG"
@@ -14950,7 +15012,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 294525,
       "name": "Masih",
       "url": "https://open.spotify.com/track/1apmMbIpbaeljS0j6dmEeC"
@@ -14972,6 +15034,28 @@
       "duration_ms": 261617,
       "name": "Masih Ada",
       "url": "https://open.spotify.com/track/6cUZcDFEMH31IGfaSDiTwj"
+    },
+    {
+      "album": {
+        "name": "masih baru",
+        "url": "https://open.spotify.com/album/5d5L7NpLjlqXY8KRAiijiI"
+      },
+      "artists": [
+        {
+          "name": "Josua Natanael",
+          "url": "https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp"
+        },
+        {
+          "name": "dera",
+          "url": "https://open.spotify.com/artist/58FbhhHdEYrGkSwQY4MCV7"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "masih baru",
+      "url": "https://open.spotify.com/track/1CRQPijzdpP3KNPFkskNJx"
     },
     {
       "album": {
@@ -16015,6 +16099,24 @@
     },
     {
       "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208495,
+      "name": "Moonwalkin'",
+      "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+    },
+    {
+      "album": {
         "name": "MORE THAN JUST A FRIEND",
         "url": "https://open.spotify.com/album/53DyhydHhPqkIBfhgrNzJr"
       },
@@ -16528,6 +16630,24 @@
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193620,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/37xebnhvUyM8VyyDDeo65d"
     },
     {
       "album": {
@@ -19034,7 +19154,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 160036,
       "name": "Pretty nona",
       "url": "https://open.spotify.com/track/3K9SR5MDuCw2hpWytqlANe"
@@ -24646,7 +24766,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 244982,
       "name": "Terbatas Malam - From \"Pernikahan Dini Gen Z\"",
       "url": "https://open.spotify.com/track/6JCdIyJzD0nTWG5YsO2Joo"
@@ -25388,6 +25508,28 @@
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
+    },
+    {
+      "album": {
+        "name": "4SHOBOIZ MIXTAPE",
+        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
+      },
+      "artists": [
+        {
+          "name": "RYUL of LNGSHOT",
+          "url": "https://open.spotify.com/artist/3fuWHcDaJIqCYoFWh29pCk"
+        },
+        {
+          "name": "LOUIS of LNGSHOT",
+          "url": "https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Thinking",
+      "url": "https://open.spotify.com/track/50kTEFEUSOLV3gQD9Y1Kim"
     },
     {
       "album": {
@@ -26706,6 +26848,24 @@
       "duration_ms": 132762,
       "name": "Walking Back Home",
       "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
+    },
+    {
+      "album": {
+        "name": "Can This Love Be Translated? (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd"
+      },
+      "artists": [
+        {
+          "name": "Hodge",
+          "url": "https://open.spotify.com/artist/6kCDM3taYbKQFVrodiSUK7"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239825,
+      "name": "Waltz for Moon",
+      "url": "https://open.spotify.com/track/3XOwTnHD3WuPKA2sYlfWAl"
     },
     {
       "album": {

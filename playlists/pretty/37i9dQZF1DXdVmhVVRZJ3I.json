@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 342538,
+  "num_followers": 342641,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,22 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Never Be Alone (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
         }
       ],
-      "duration_ms": 178670,
-      "name": "Never Be Alone (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -615,22 +611,26 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+        "name": "Never Be Alone (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+      "duration_ms": 178670,
+      "name": "Never Be Alone (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
         "name": "Believe (Sevenn Remix)",
         "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 217920,
       "name": "Believe - Sevenn Remix",
       "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
         "name": "My City (feat. Katy Tiz)",
         "url": "https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
         "name": "Tomorrow (feat. 433)",
         "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 177692,
       "name": "Over Here",
       "url": "https://open.spotify.com/track/6MXz4WkjXAW2Wmk3neFtpg"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2025-12-12 03:03:06",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-12-12 03:03:06",
       "album": {
-        "name": "Strobe Lights",
-        "url": "https://open.spotify.com/album/188xhKRQE9SGzshNT9kU7L"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Strobe Lights",
-      "url": "https://open.spotify.com/track/5p2e47MQVn2YjUz8QbHJhe"
-    },
-    {
-      "added_at": "2025-12-12 03:03:06",
-      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -1067,6 +1051,26 @@
       "duration_ms": 189561,
       "name": "The Age of Love 2022",
       "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
+    },
+    {
+      "added_at": "2025-12-12 03:03:06",
+      "album": {
+        "name": "Adrenalina (Minha Gasolina)",
+        "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 180845,
+      "name": "Adrenalina (Minha Gasolina)",
+      "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

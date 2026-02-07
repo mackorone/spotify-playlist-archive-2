@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "A collection of best Prog Rock tracks. Cover: Dream Theater",
+  "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
   "name": "Prog Rock",
   "tracks": [
     {
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/1mNzX96PW7vyEyjFG1Dd5q"
+      },
+      "artists": [
+        {
+          "name": "Crown Lands",
+          "url": "https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1141052,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/06xDTekrUDTMBRda73UEKI"
+    },
+    {
+      "album": {
         "name": "Aqualung (Live from Baloise Session Basel 15/11/2008)",
         "url": "https://open.spotify.com/album/7CRJ8hQPOt9aTtRkJgBmBf"
       },
@@ -724,6 +742,42 @@
       "duration_ms": 404480,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu"
+    },
+    {
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/7CQlDmBxDZeDW0RSP9dTP7"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222195,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx"
+    },
+    {
+      "album": {
+        "name": "Normal Isn't",
+        "url": "https://open.spotify.com/album/4iFytIyjG6Irorn84cgsKa"
+      },
+      "artists": [
+        {
+          "name": "Puscifer",
+          "url": "https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291520,
+      "name": "Bad Wolf",
+      "url": "https://open.spotify.com/track/2QXQk39jiS0zHGVMCMemef"
     },
     {
       "album": {
@@ -1042,7 +1096,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207306,
       "name": "Book of Complaints",
       "url": "https://open.spotify.com/track/2XvxfYow792n2EL5xSnfCd"
@@ -4239,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/0ShKfxTD8QC1y5vGRFfgss"
+      },
+      "artists": [
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7tgn9OrcohjNnwtkxAdSQa"
+    },
+    {
+      "album": {
         "name": "Lost (I Miss You) [Remaster 2024]",
         "url": "https://open.spotify.com/album/5uABfZV7NMfIGlfXsuRcJg"
       },
@@ -4486,7 +4558,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 218546,
       "name": "Men In Bed",
       "url": "https://open.spotify.com/track/2lCJJDcd8HMSpeK4EKXBTd"
@@ -4890,7 +4962,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 391160,
       "name": "Objects Outlive Us: Objects: Meanwhile",
       "url": "https://open.spotify.com/track/22qwKZ1DzJgZRRnb6kYUGI"
@@ -5296,7 +5368,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 481647,
       "name": "Panic Attack - Live \u00e0 Paris 2024",
       "url": "https://open.spotify.com/track/298CJWDZNExaLgz4FIxjDA"
@@ -5987,6 +6059,24 @@
     },
     {
       "album": {
+        "name": "Ritual (Nous Sommes Du Soliel) [Single Edit 2] [2026 Remaster]",
+        "url": "https://open.spotify.com/album/2C1Jetr8bBINOg18Jt704k"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Ritual (Nous Sommes Du Soleil) [Single Edit 2] - 2026 Remaster",
+      "url": "https://open.spotify.com/track/6lIehyNvILQkiqhDY9b5M4"
+    },
+    {
+      "album": {
         "name": "Roses from the Deep",
         "url": "https://open.spotify.com/album/7a6GERsb9QWlRKSmcB0JiD"
       },
@@ -6234,7 +6324,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213400,
       "name": "Searching for Tomorrow",
       "url": "https://open.spotify.com/track/1enkflmap9UUDfXwklKaR8"
@@ -7368,7 +7458,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 310815,
       "name": "The Apathy of Kings",
       "url": "https://open.spotify.com/track/730Xzc1CfAjN3HEAMWgAVh"
@@ -7588,7 +7678,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 399240,
       "name": "The Following",
       "url": "https://open.spotify.com/track/18xlI9lZFKfQIk4JZdQRj0"
@@ -8695,6 +8785,24 @@
     },
     {
       "album": {
+        "name": "Woodcut",
+        "url": "https://open.spotify.com/album/5eq5JyiAM04EogZGDqBxr1"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Warp and Weft",
+      "url": "https://open.spotify.com/track/0HMoLmZqEm8PJJCBt4Tqyq"
+    },
+    {
+      "album": {
         "name": "World Through My Eyes (Revisited)",
         "url": "https://open.spotify.com/album/501d5Kkd3NB6pZYbXXlUcA"
       },
@@ -8866,6 +8974,24 @@
       "duration_ms": 346453,
       "name": "Whalefall",
       "url": "https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT"
+    },
+    {
+      "album": {
+        "name": "Whalewatching",
+        "url": "https://open.spotify.com/album/52Wc0vooEijaAFslLw1cnr"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325360,
+      "name": "Whalewatching",
+      "url": "https://open.spotify.com/track/5spLBLQ2hTTU4C7CsDqqCl"
     },
     {
       "album": {

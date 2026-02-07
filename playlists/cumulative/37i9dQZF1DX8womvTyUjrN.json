@@ -13089,6 +13089,24 @@
     },
     {
       "album": {
+        "name": "N U E V A S A M I G A S",
+        "url": "https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "N U E V A S A M I G A S",
+      "url": "https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u"
+    },
+    {
+      "album": {
         "name": "nada conmigo",
         "url": "https://open.spotify.com/album/6sc1iSuIHONslSqcsJTylx"
       },

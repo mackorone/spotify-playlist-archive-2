@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,969 likes - 90 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,114 likes - 90 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [Getting Lost](https://open.spotify.com/track/5ASKK5XFM4GNSvJD2fMq9C) | [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX) | [Getting Lost](https://open.spotify.com/album/6g2RJ5s2yX3qbVLi6sKWoC) | 3:22 |
 | 11 | [Sad Makes Me Happy \- Kotiēr Remix](https://open.spotify.com/track/6apx3BiHVGXSsvMCb89Xq0) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Sad Makes Me Happy \(Kotiēr Remix\)](https://open.spotify.com/album/3ZkMzWXDMz5ErwPPlbSjFf) | 5:27 |
 | 12 | [Super High](https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Super High](https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv) | 3:14 |
-| 13 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [](https://open.spotify.com/album/null) | 3:32 |
+| 13 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:32 |
 | 14 | [Flying Away With You \- andhim Remix](https://open.spotify.com/track/4q8UvHlqTqrnFLdYhZfEK2) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Flying Away With You \(andhim Remix\)](https://open.spotify.com/album/5PjAFRVzQixkIj2yzSOklb) | 4:19 |
 | 15 | [the fall \- Sam Shure Remix](https://open.spotify.com/track/1Tq3B3Rh1JJ2FOzKylUqiv) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [the fall \(Sam Shure Remix\)](https://open.spotify.com/album/1aG4WltC5ZOOJwDuKlv9zP) | 4:58 |
 | 16 | [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 |
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 |
 | 22 | [XTC](https://open.spotify.com/track/35ZlIKY2Idi6N3WdqLpCKQ) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [XTC](https://open.spotify.com/album/6gPbpt2pGcy83ClMhhixrp) | 3:02 |
 | 23 | [Showtime](https://open.spotify.com/track/1B88MVDi03Q8GxfiZG5GfF) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Showtime / Mañana](https://open.spotify.com/album/5IsAjLjUpwE5xZP4iSvDfO) | 3:50 |
-| 24 | [Track 1](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
 | 25 | [Whole Lotta Love](https://open.spotify.com/track/72tHgbG3mWV9YHNXeSpteK) | [Bad Boombox](https://open.spotify.com/artist/6ZisvOKQY2LDItOkbsy2qd) | [Whole Lotta Love](https://open.spotify.com/album/4yqoGH077cGrY4VVnwfcKS) | 3:18 |
 | 26 | [My Way](https://open.spotify.com/track/0BAh8nxaOXF82OujZKrDmz) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [My Way](https://open.spotify.com/album/6ZYyBv3otJGUR4LUF77ef8) | 5:49 |
 | 27 | [What We're Gonna Do](https://open.spotify.com/track/4rePmKTCl65gmCSlCAPuQH) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [What We're Gonna Do](https://open.spotify.com/album/2dz1PSbsa8poYFw1OtPAtw) | 3:02 |
 | 28 | [Last Dance](https://open.spotify.com/track/30IGzT46wrvmTwcLMfijdP) | [Gizmo & Mac](https://open.spotify.com/artist/7mnoyEA7pGl5D9QmJtNP7L) | [Last Dance](https://open.spotify.com/album/5GDCwVfY2XgNR91x49qS28) | 6:10 |
-| 29 | [Requiem](https://open.spotify.com/track/2lXU30lFDEfFQE52s1E0Ld) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [YES TO ALL](https://open.spotify.com/artist/40lMWHuG3a2SlrdeAYEhOf) | [](https://open.spotify.com/album/null) | 3:54 |
+| 29 | [Requiem](https://open.spotify.com/track/2lXU30lFDEfFQE52s1E0Ld) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [YES TO ALL](https://open.spotify.com/artist/40lMWHuG3a2SlrdeAYEhOf) | [Requiem](https://open.spotify.com/album/38CvsgqbFCRuOXnoIy3UO4) | 3:54 |
 | 30 | [Red Thunder](https://open.spotify.com/track/09K9GFYPrWdkBZ5nfSe0Mj) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Red Thunder](https://open.spotify.com/album/4di0yJgnqrkD2Vur3Z6aoP) | 3:45 |
 | 31 | [Code X](https://open.spotify.com/track/6UTyg3jif9i1jbG0qsoI7S) | [Tomy Wahl](https://open.spotify.com/artist/3Q92036hpjn7sxc79pUXvz), [Dennis Lee \(DE\)](https://open.spotify.com/artist/2rqLrvnto1LKLXbFllo287) | [Code X](https://open.spotify.com/album/2cRtzm6PfU1XqALX5DjJ3R) | 6:01 |
 | 32 | [Wild Girl](https://open.spotify.com/track/7h1SXvmfqpyY6MHCU0FeCi) | [Nakadia](https://open.spotify.com/artist/1nOdOuoOkOkQ2PaWFxVkLH) | [Wild Girl](https://open.spotify.com/album/6WBHq0tPt76fRI5RN60gC9) | 5:23 |

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-272 songs - 13 hr 36 min
+273 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Till It's Done](https://open.spotify.com/track/6cb3jTr1QzN9dEmSkwMtdL) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [CHRONICLES \(The First Supper\)](https://open.spotify.com/album/11gE9lxKNWiAB9AmfLQ3pQ) | 2:41 | 2025-05-09 |  |
 | [Till We Die](https://open.spotify.com/track/6cRQPMi6eZTtP7VvKmc4Rw) | [Phaize](https://open.spotify.com/artist/4S0ZEMWDccpMd5ybPA6A9n), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Till We Die](https://open.spotify.com/album/7fLZKILabFwc8BJ3GIYYcU) | 3:57 | 2025-04-04 | 2025-04-18 |
 | [Time](https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Time](https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk) | 2:45 | 2022-11-04 | 2023-02-11 |
+| [TNT](https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [TNT](https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs) | 3:34 | 2026-02-06 |  |
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |

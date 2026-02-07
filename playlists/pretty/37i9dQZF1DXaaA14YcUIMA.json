@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 640809,
+  "num_followers": 641082,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Serie 32: Yndio",
         "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Siempre Te Amar\u00e9",
         "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 174293,
       "name": "Ni El Primero Ni El \u00daltimo",
       "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "No Tengo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Pero No Me Dejes",
         "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186026,
       "name": "T\u00edtere",
       "url": "https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "No Tengo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "21 Black Jack",
         "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177133,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Me Quede Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 240133,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Quede Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Antolog\u00eda...Los Baby's",
         "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 163906,
       "name": "Mi loca pasi\u00f3n",
       "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 203560,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 206913,
-      "name": "Del Signo Libra",
-      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 207666,
       "name": "Me Duele Estar Solo",
       "url": "https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Bendito Cielo",
+        "url": "https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 206913,
+      "name": "Del Signo Libra",
+      "url": "https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 189213,
       "name": "C\u00f3mo Me Duele Amor",
       "url": "https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Te Quiero Todav\u00eda",
-        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
-        }
-      ],
-      "duration_ms": 221648,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 203253,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Te Quiero Todav\u00eda",
+        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221648,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
     },
     {
       "added_at": "2024-08-28 00:51:57",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-30 | 2025-11-12 |
+| [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-30 |  |
 | [A Series of Unfortunate Events](https://open.spotify.com/track/2HNjm4tIEuvBenfsqlfXVG) | [a!ka](https://open.spotify.com/artist/6joZG8wmwfEVAxWSEhezJA) | [A Series of Unfortunate Events](https://open.spotify.com/album/2l9ZNGlbuDNgehXIfnF9yw) | 4:01 | 2025-11-13 | 2025-11-25 |
 | [Abot Langit \- Ricovered](https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [Maris Racal](https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n) | [Abot Langit \(Ricovered\)](https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak) | 2:57 | 2024-02-27 | 2025-02-19 |
 | [Addicted](https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg) | [Khai El](https://open.spotify.com/artist/0c6ILfKzO0L3Fz7BmnNurr) | [Addicted](https://open.spotify.com/album/6NKoexYP723EZpwzwLsCXG) | 3:44 | 2025-12-08 | 2026-01-20 |
@@ -123,7 +123,7 @@
 | [OSA](https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW) | [LILY](https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u) | [OSA](https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr) | 3:35 | 2025-11-24 | 2025-12-09 |
 | [Owshi](https://open.spotify.com/track/0NMaaPbphbwWwC46u1L8c3) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Owshi](https://open.spotify.com/album/4nMZ5cOSMwMUFrEMFIczpT) | 3:20 | 2023-10-20 | 2023-10-26 |
 | [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 | 2025-09-12 | 2025-11-08 |
-| [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 | 2023-10-20 |  |
+| [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 | 2023-10-20 | 2026-02-07 |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-02-26 | 2025-05-01 |
 | [Pagtingin](https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Pagtingin](https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz) | 3:47 | 2024-02-27 | 2025-02-13 |
 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-08 |  |

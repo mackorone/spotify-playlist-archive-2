@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Amrit Ramnath
 
-97 songs - 6 hr 13 min
+98 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2023-04-28 |  |
 | [Mittai Kannu Baby](https://open.spotify.com/track/4PsMQdLUKAUSuE63c9ZLXg) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Mittai Kannu Baby](https://open.spotify.com/album/0fW3IVR2KG97oz7gtrwmv0) | 3:01 | 2023-06-23 | 2023-09-30 |
 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 | 2022-07-05 |  |
+| [NEERODA](https://open.spotify.com/track/5g1bOJVsi8SbCy7aNMTlip) | [Sathyan Ilanko](https://open.spotify.com/artist/0GbNmLZKI7PpYKVkw26wnN) | [NEERODA](https://open.spotify.com/album/4dsujoKlVZUFNllqWr5FNe) | 2:59 | 2026-02-06 |  |
 | [Neethaney](https://open.spotify.com/track/4nBLO0QAckCUSVaT24xjAV) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Priya Jerson](https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2) | [Neethaney](https://open.spotify.com/album/2dO7hYYYZUaoGIQvAmtDnK) | 4:13 | 2024-02-21 |  |
 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 | 2021-12-01 |  |
 | [Nenjinile Rebirth](https://open.spotify.com/track/0pM7PCxuclmb1qsjTqt6WX) | [Chris G.](https://open.spotify.com/artist/0UuXsNfPKHnsxqO6ReEUS3), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Nenjinile Rebirth](https://open.spotify.com/album/5ofUC9Rbhk7rknQbDp4GIG) | 3:35 | 2021-12-01 |  |

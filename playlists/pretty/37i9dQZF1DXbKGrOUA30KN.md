@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Esther Graf, NESS
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,233 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,207 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 11 | [Deine Liebe](https://open.spotify.com/track/6Rj6N6sYzWjERndS9O0NSB) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Deine Liebe](https://open.spotify.com/album/6MqQFB7MUOSOYg86UOFfCT) | 2:34 |
 | 12 | [1000 Mal](https://open.spotify.com/track/6L25piLdJ2vrxugmPis0V7) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [1000 Mal](https://open.spotify.com/album/1tZX5gd6HW2ueFVr7ACFPN) | 2:50 |
 | 13 | [Wehe du gibst auf](https://open.spotify.com/track/5PSZB2T72UZLm2kX8N7VIO) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Wehe du gibst auf](https://open.spotify.com/album/75SPCTe3ftEG8Lp7WGwbpF) | 3:16 |
-| 14 | [Track 12](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Gut genug](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Durch die Blume](https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH) | 2:49 |
 | 15 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 16 | [NICHT VERÄNDERT](https://open.spotify.com/track/0aUp8SRoWJ0xadMqEbcKeJ) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [NICHT VERÄNDERT](https://open.spotify.com/album/14Uyv9xZYUwokRyGIKPcEL) | 2:00 |
-| 17 | [Völlig normal](https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [](https://open.spotify.com/album/null) | 2:25 |
+| 17 | [Völlig normal](https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Blumendisko](https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO) | 2:25 |
 | 18 | [Nokia](https://open.spotify.com/track/2ukYEXUL7LGPPb8T6tEqgF) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Nokia](https://open.spotify.com/album/4RsvpOMmsoydZCknHCdpDS) | 3:29 |
 | 19 | [Elefantastisch](https://open.spotify.com/track/0VwQrqWfGbuUjSjTaWB7Ac) | [Basti Stein](https://open.spotify.com/artist/5srjoLQYI0dv9Fyf0JkXRG) | [Elefantastisch](https://open.spotify.com/album/5MWACh8onVSHkNQbEjRlSL) | 2:17 |
 | 20 | [An dir kaputt](https://open.spotify.com/track/1r6hywW4RWViBdF9PWXPj7) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [An dir kaputt](https://open.spotify.com/album/34bqmL9XrC7g3qMHTXTdKW) | 2:25 |
 | 21 | [KALTE HAUT](https://open.spotify.com/track/3kQVOpI5ilACyGlzx4ch1w) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6), [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [KALTE HAUT](https://open.spotify.com/album/3DdizX3exRtgw8iQWtqS2S) | 2:33 |
 | 22 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 23 | [spür dich nicht](https://open.spotify.com/track/6ogOeP39FvJXi92FtcTAAu) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [spür dich nicht](https://open.spotify.com/album/3sK7SB5RiSbBnqnYwIggeE) | 2:18 |
-| 24 | [Track 6](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 |
 | 25 | [WIE LIEBE GEHT](https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [WIE LIEBE GEHT](https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k) | 2:26 |
 | 26 | [GROSSE WORTE](https://open.spotify.com/track/5MluGZSQSkblJesI4CnqDE) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GROSSE WORTE](https://open.spotify.com/album/5DlO8YR0dwLXOI8upesqVY) | 2:07 |
 | 27 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 |

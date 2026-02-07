@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
-  "num_followers": 33838,
+  "num_followers": 33845,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
       "artists": [
         {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -555,22 +559,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "WadiruM",
         "url": "https://open.spotify.com/album/0qawFDai3sHHcNF8E6woJO"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219853,
       "name": "ILLUSIONI E ASTRATTISMI (feat. Paolo Fresu)",
       "url": "https://open.spotify.com/track/0m4TP7FtjVY7G4PJ45aAKk"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Correspondence",
-        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        },
-        {
-          "name": "Pasquale Mirra",
-          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
-        },
-        {
-          "name": "Danilo Mineo",
-          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
-        },
-        {
-          "name": "Giulietta Passera",
-          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
-        },
-        {
-          "name": "Primo Zanasi",
-          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
-        }
-      ],
-      "duration_ms": 342447,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Correspondence",
+        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Pasquale Mirra",
+          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
+        },
+        {
+          "name": "Danilo Mineo",
+          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
+        },
+        {
+          "name": "Giulietta Passera",
+          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
+        },
+        {
+          "name": "Primo Zanasi",
+          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
+        }
+      ],
+      "duration_ms": 342447,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
       "artists": [
         {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
         }
       ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
       "artists": [
         {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
         }
       ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Arise I",
-        "url": "https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 196240,
-      "name": "Arise I",
-      "url": "https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 269139,
       "name": "How Far Can You Fly? (Ladder) - Original Version",
       "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Arise I",
+        "url": "https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Arise I",
+      "url": "https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1920,9 +1920,9 @@
           "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
         }
       ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
+      "duration_ms": 279570,
+      "name": "Bajone",
+      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
     },
     {
       "added_at": "2026-02-05 23:01:01",

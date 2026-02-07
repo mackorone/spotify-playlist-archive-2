@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Chinese Garden
 
-3,987 songs - 9 day 16 hr 52 min
+3,991 songs - 9 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [Bompton](https://open.spotify.com/track/4N5U2IvTpTdVfwk69WDwyp) | [Manzy Ferrari](https://open.spotify.com/artist/2Gk3RL9xnwRtmXxJKipyMA) | [Bompton](https://open.spotify.com/album/0ivz6cpixGytFLiuG62MDC) | 3:59 | 2025-08-14 | 2025-10-25 |
 | [Bonjour](https://open.spotify.com/track/5NhWMZscJ5cL3KOLsTTEMR) | [Vaval](https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA) | [Bonjour](https://open.spotify.com/album/10bmIn9CV3HBGHj35PpSMQ) | 1:50 | 2024-02-29 | 2024-03-29 |
 | [Bonjour](https://open.spotify.com/track/7fD12aJwG47KkQAoIHEuDG) | [Vaval](https://open.spotify.com/artist/6tfoIXtJ9CeJEIS5RqgJhA) | [Bonjour](https://open.spotify.com/album/1WxFJb3Xg2tas9JWDesoWl) | 1:53 | 2024-02-29 | 2024-03-16 |
+| [Bonnie & Clyde](https://open.spotify.com/track/1iOMFkpGCq0JlkA8eYg5db) | [FRNC$](https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K) | [Bonnie & Clyde](https://open.spotify.com/album/6H5njj0ywQ18x4lNE080Yp) | 2:01 | 2026-02-05 |  |
 | [BOO](https://open.spotify.com/track/7u0zSyFJa5zEPKJRp6Qa15) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [BOO](https://open.spotify.com/album/2M4YwPXnpddtv9HYw1t6JI) | 2:50 | 2023-02-09 | 2023-02-24 |
 | [Booty Work](https://open.spotify.com/track/0xweoAVY4fMVXxtwSR7b1n) | [Nayr Sivch](https://open.spotify.com/artist/6k1WLdf3kqzRLuaNKSWNlR), [Chevy](https://open.spotify.com/artist/3ELFgLrtj6hgW4WwNuhqgB), [High Dreamers](https://open.spotify.com/artist/7g1khkaY35KeezliqT7DZk) | [Booty Work](https://open.spotify.com/album/4Iv0i7B9syp8OvHB86Ztzc) | 2:43 | 2025-09-04 | 2025-11-21 |
 | [bored.](https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl) | [Beatsilog](https://open.spotify.com/artist/6TZouLjmWgL00bVKZcxUM6) | [bored.](https://open.spotify.com/album/38DShZ2neHNkCopeUtr7a8) | 3:42 | 2022-01-13 | 2023-01-13 |
@@ -1248,10 +1249,12 @@
 | [Good Dreams](https://open.spotify.com/track/7mVnAupheuzDuzKDogAf7g) | [Deep Ending Records](https://open.spotify.com/artist/2lJ8yGtqFedgwsD3nUJlzC), [Kirby World](https://open.spotify.com/artist/7H42yDBBYaqefooHLzukH9), [DEVIANT](https://open.spotify.com/artist/7MpMvu0JegvSvEsO7WcDcF), [BKG](https://open.spotify.com/artist/6Z2pzgPp4tZAc86YIlG8YF), [Jamaar](https://open.spotify.com/artist/6JQTFewOsFjDaDLkQ0gJ7J), [Gussy Sauce](https://open.spotify.com/artist/4lleUeDi1pOArbd748i6cG) | [Good Dreams](https://open.spotify.com/album/4RLZyNNR5aaaeYPbqSaP56) | 3:09 | 2023-06-08 | 2023-06-23 |
 | [Good Thangs \(Fine\)](https://open.spotify.com/track/7akkS3Gd7Efxz2Mmq25nNh) | [kirko wip](https://open.spotify.com/artist/3NROsMbidZWr6aE34HpFSp) | [Good Thangs \(Fine\)](https://open.spotify.com/album/171SNhK9WbGJLuFuLW6pwf) | 2:13 | 2024-02-29 | 2024-03-29 |
 | [Good Things Take Time \(feat\. Wez Atlas & bbgriri\)](https://open.spotify.com/track/1bA4flAsjqOZm723VbG9ah) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [bbgriri](https://open.spotify.com/artist/0lGato6Ajg6Eu0RMEXbJHK) | [Good Things Take Time \(feat\. Wez Atlas & bbgriri\)](https://open.spotify.com/album/1tlzbwcDxNp7HRpWdZG6l9) | 2:57 | 2025-08-07 | 2025-10-25 |
+| [good times](https://open.spotify.com/track/0wFDt4H0ttyXaTE6ogPnFH) | [Wagon Boy](https://open.spotify.com/artist/4aMAqUx3bdh00JATkU0NR0) | [good times](https://open.spotify.com/album/2lTdiToquY6jKyOLlqYdmR) | 3:05 | 2026-02-05 |  |
 | [Goodbye For Now](https://open.spotify.com/track/4Vf5EtLbuSRyPvgsymRhU6) | [Derick](https://open.spotify.com/artist/0aH10DZAbSd9EO5aa93obF) | [Goodbye For Now](https://open.spotify.com/album/2cnC6EVlQutk7dCyAzqURt) | 3:46 | 2023-10-26 | 2023-12-09 |
 | [Goodbyes \(I Don't Wish To Make\)](https://open.spotify.com/track/70GWhyOzsDSPEODM6pKv8T) | [COALESCENCE](https://open.spotify.com/artist/7gFPsP8ANUEc7cKwKt2olp) | [Goodbyes \(I Don't Wish To Make\)](https://open.spotify.com/album/1x0Y0fRzvCsFQKpGoRDU6t) | 5:00 | 2025-06-12 | 2025-08-01 |
 | [GOODFELLAS](https://open.spotify.com/track/6bf1b2KaFyD9NIRlDXEemG) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [GOODFELLAS](https://open.spotify.com/album/4acRyU3DxxrKUJGReglFAx) | 2:42 | 2023-09-14 | 2023-10-06 |
 | [goodnight](https://open.spotify.com/track/4s3EypXmXq52Pc7oSlMz9F) | [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [goodnight](https://open.spotify.com/album/1uMexDz0Jmm0fHyZneXurV) | 3:31 | 2023-06-01 | 2023-06-16 |
+| [Got it Better](https://open.spotify.com/track/4ftNrTXgi1rexVoQs66udU) | [2fine](https://open.spotify.com/artist/6fZeyVveYpnkwXb0Dl866H) | [Got it Better](https://open.spotify.com/album/3aSk7elLwNrBpPddKLTe3f) | 1:54 | 2026-02-05 |  |
 | [GRABI](https://open.spotify.com/track/1qew8scRp322JMgdZKoQbe) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq) | [GRABI](https://open.spotify.com/album/3w7RNBn7t8YFawFj5qi52L) | 2:05 | 2024-07-18 | 2024-08-23 |
 | [Graduation](https://open.spotify.com/track/2JCEg12xjWxoqpb5ezREFU) | [YUZON](https://open.spotify.com/artist/2vVmdFWujk0ZF5H2f39xY6) | [Graduation](https://open.spotify.com/album/0i9tM3DhPmwv4y4GGafqAH) | 2:34 | 2024-09-26 | 2024-10-25 |
 | [Green](https://open.spotify.com/track/1LCdBn1kyMHqmZem7THoec) | [Erin Galadriel](https://open.spotify.com/artist/2Vdh38tMMIVNRhnOFO2BGt) | [Green](https://open.spotify.com/album/0yyfM5OpLTqufjhW8uRX1o) | 4:07 | 2025-03-13 | 2025-05-02 |
@@ -2159,6 +2162,7 @@
 | [Makasalanan](https://open.spotify.com/track/2pJ1CbCiLOcX8t7aFAfmS6) | [Verus](https://open.spotify.com/artist/35FAbujoP3K9xkRfCBrEjd) | [Makasalanan](https://open.spotify.com/album/7fE4dYsejJFN731jTRN2ln) | 2:52 | 2024-06-13 | 2024-07-05 |
 | [Makating Palabas](https://open.spotify.com/track/11rrSniAp6j00MyN4xPcWU) | [sanopoppa](https://open.spotify.com/artist/3qhcJVDhrlWf6K0r5UA6qd) | [Makating Palabas](https://open.spotify.com/album/0mOIE74KtuBsmLSRA3R25X) | 4:05 | 2025-11-20 |  |
 | [Make It Right](https://open.spotify.com/track/4vgPbSywNaBklfFiM13joz) | [Vince Amores](https://open.spotify.com/artist/5d2OjrH05f4PH1te5pYKKy) | [Make It Right](https://open.spotify.com/album/7yEBuN11gE57DxOfCcXHMR) | 3:58 | 2025-11-20 | 2026-02-06 |
+| [Make out](https://open.spotify.com/track/0tINJCezQm4iD3pbz8pwdO) | [JRRD](https://open.spotify.com/artist/3mUcoBlYLrA6rnxhhy0KIa) | [Make out](https://open.spotify.com/album/6Gthz7UPnSFRlrPsR28fay) | 2:50 | 2026-02-05 |  |
 | [MAKE THAT SHI B!](https://open.spotify.com/track/610FpoCW6j3tkNUxGV4OUo) | [kobe](https://open.spotify.com/artist/4pTuASmixC1srhJ58jfkF2) | [MAKE THAT SHI B!](https://open.spotify.com/album/75KN5cgoUnefBbjMOonosj) | 2:11 | 2024-08-29 | 2024-09-27 |
 | [Make You Feel Better](https://open.spotify.com/track/1JzWVJoYH2B8mZtyI6dkvH) | [MI MI](https://open.spotify.com/artist/33zZ2KDzkPeAYMjFtRwo9x) | [Make You Feel Better](https://open.spotify.com/album/3MLmVB2tKswFRdi85q140M) | 4:03 | 2023-10-19 | 2023-11-11 |
 | [Make You Pay](https://open.spotify.com/track/3jmzOVFxuluF1uKMQ6IFAU) | [Imbue No Kudos](https://open.spotify.com/artist/2TrlETzhvrdBbrZBzwnaHE) | [Make You Pay](https://open.spotify.com/album/4zZndcB1AkEJO7FKltemq7) | 3:24 | 2025-05-22 | 2025-06-27 |

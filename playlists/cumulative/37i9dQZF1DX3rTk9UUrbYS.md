@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-145 songs - 19 hr 53 min
+146 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dub Ting](https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg) | [AKU!](https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM) | [Blind Fury](https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a) | 6:09 | 2020-11-06 | 2024-04-19 |
 | [Dub Ting](https://open.spotify.com/track/3gUPTbCLSLW2kIi5SP6hf4) | [AKU!](https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM) | [Blind Fury](https://open.spotify.com/album/6SPMb5CgJ0vAxS3hUCUcaS) | 6:09 | 2020-11-06 |  |
 | [EICNSCS para 6 músicos](https://open.spotify.com/track/22AcQY05lWhnW85VXoAkrn) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Christiano Lemgruber](https://open.spotify.com/artist/14ILd6QBfP5q0CE7ncyDR8), [Regis Damasceno](https://open.spotify.com/artist/2ogn0YEfeS21uvSrIwLNGu), [Andre Édipo](https://open.spotify.com/artist/41JRPt1CSTWaIkZZ7VUBxu), [Missionário José](https://open.spotify.com/artist/5GDpjPajWynDqA6NqjunGj) | [EICNSCS \(Experiência de Improvisação Coletiva Não Sincrônica Cumulativa Sequencial\)](https://open.spotify.com/album/6K0Vy8CuicDPa5uck0XPUU) | 8:03 | 2023-03-17 |  |
+| [Elysian Invocation](https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Elysian Invocation / "Pollen of the Earth"](https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2) | 14:55 | 2026-02-06 |  |
 | [Equation](https://open.spotify.com/track/1lUdRUZLWhNqadh3KY0h5N) | [Mike Sopko](https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [On Common Ground](https://open.spotify.com/album/2gPZWzERRUKmwGeBajrigd) | 7:56 | 2021-06-04 | 2024-04-19 |
 | [Equation](https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7) | [Mike Sopko](https://open.spotify.com/artist/3XaoZGbtL3SZZALrWzPyed), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [On Common Ground](https://open.spotify.com/album/3lIn198oIMwWzFw87l3eWK) | 7:56 | 2020-10-02 |  |
 | [Equidistant Between](https://open.spotify.com/track/69g1WfQZwIeyZQxBxdPOVg) | [Huw V Williams](https://open.spotify.com/artist/6hRVe9j6YVlUtqN3csCB6u) | [Equidistant Between](https://open.spotify.com/album/5ysRzSXZhth8Bx5Iv1Gzdm) | 5:53 | 2020-08-25 |  |
@@ -110,7 +111,7 @@
 | [One Tree Found](https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY) | [Alexander Hawkins](https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r) | [Alexander Hawkins Trio](https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq) | 5:29 | 2020-08-25 |  |
 | [Paternoster](https://open.spotify.com/track/1L1ZKH2hcdCIOSKbEWZBII) | [OVERSÁEZ](https://open.spotify.com/artist/5rUZUacnS7ZE0IXustbxyN), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P), [Nathan Ott](https://open.spotify.com/artist/76wzsAW48HynNLEf180nGg) | [Paternoster](https://open.spotify.com/album/36cQ4dqTtfptZC4seRp7MZ) | 8:55 | 2025-05-23 |  |
 | [Piano Equation](https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [The Piano Equation](https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3) | 5:14 | 2020-08-25 |  |
-| [Piece 4](https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Piece 4](https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi) | 3:11 | 2022-11-18 |  |
+| [Piece 4](https://open.spotify.com/track/0g7O7ZwmmFbaaUT2Yo0peX) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Piece 4](https://open.spotify.com/album/5A0TLsTh2v72lCiqGrZIxi) | 3:11 | 2022-11-18 | 2026-02-07 |
 | [Playing Retention](https://open.spotify.com/track/3B7x4nNGP3BLOTXPMBtVg8) | [Daniel Carter](https://open.spotify.com/artist/23tRCWesY5L5e2IAU5swFN), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/7yOSuZzNbBVAtyvyiq4QDp) | 7:38 | 2021-12-03 | 2024-04-19 |
 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/23tRCWesY5L5e2IAU5swFN), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 | 2021-11-19 |  |
 | [Prometheus](https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj) | [Dejan Terzic](https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065) | [Prometheus](https://open.spotify.com/album/0uXNve1oLJ71HWO9ouz8FG) | 5:34 | 2020-08-25 |  |

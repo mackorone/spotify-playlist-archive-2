@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: GERD 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,327 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,190 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [Disco\-Tech](https://open.spotify.com/track/2pbc9HOxka0qUSE2oIW5Tc) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Disco\-Tech](https://open.spotify.com/album/0gcIvBjFvumZy9ecqGUA3x) | 3:19 |
 | 28 | [Lonely is the Muse](https://open.spotify.com/track/0V9sq5IPNBuIle9jxB78RA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 4:00 |
 | 29 | [Ma3 El Salama \| مع السلامه](https://open.spotify.com/track/1v7cH9Sb3zsC4tUgMTo1hd) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [Ma3 El Salama \| مع السلامه](https://open.spotify.com/album/34egkxkmaT2grMXkw7Kkkv) | 3:30 |
-| 30 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 |
-| 31 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
+| 30 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
+| 31 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 |
 | 32 | [Backie](https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Backie](https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz) | 2:08 |
 | 33 | [RAGE GIRL \(Remix\)](https://open.spotify.com/track/3Lry62qNJ7Kgxtwq2Fh1jV) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [RAGE GIRL \(Remix\)](https://open.spotify.com/album/3ztsnfBbpSB67hYnJGJMwm) | 3:28 |
 | 34 | [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Asteromata](https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:55 |
 | 41 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 |
 | 42 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
-| 43 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
-| 44 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
+| 43 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
+| 44 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 | 45 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 46 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
 | 47 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 56 | [Not Enough](https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav) | 3:37 |
 | 57 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
 | 58 | [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 |
-| 59 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
-| 60 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
+| 59 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
+| 60 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
 | 61 | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp) | 4:54 |
 | 62 | [Only One Laughing](https://open.spotify.com/track/3Du13F2WwqWucRqFRspWq9) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Liquorice](https://open.spotify.com/album/0dtHFmAZG3WuxrpxxGoXlV) | 4:09 |
 | 63 | [Maravilhosamente Bem](https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi) | 3:46 |

@@ -2,9 +2,9 @@
 
 ### [Soul Coffee](https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5)
 
-> The soulful tunes to ease you into your day\. Cover: Lekan
+> The soulful tunes to ease you into your day\. Cover: Camper
 
-922 songs - 2 day 6 hr 57 min
+923 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-05-17 |
 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 | 2026-01-09 | 2026-01-24 |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2022-03-11 | 2023-04-01 |
-| [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 |  |
+| [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 | 2026-02-07 |
 | [Happiness](https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Night Shift](https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An) | 3:32 | 2025-05-23 | 2025-09-16 |
 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 | 2025-08-22 |  |
 | [Harmonize](https://open.spotify.com/track/0aYqmfDlNla4etWY6Y2K53) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Micki Miller](https://open.spotify.com/artist/17fq0HBKiEsU35rfzS5mSA) | [Harmonize](https://open.spotify.com/album/4DgK6ef6t2vzaAcoFlcdVb) | 3:12 | 2025-10-17 |  |
@@ -690,6 +690,7 @@
 | [Saturday Night \(Need You Now\)](https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Saturday Night \(Need You Now\)](https://open.spotify.com/album/22ZdsViHpBmUCQqxzQxPov) | 4:13 | 2024-01-19 | 2024-05-08 |
 | [say it](https://open.spotify.com/track/4mCpUSgTVm8v9ZlFgtEF2j) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [separate from the noise](https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ) | 4:18 | 2025-12-12 |  |
 | [Say That](https://open.spotify.com/track/0WMr60ITPZdLH3wrIbs85p) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [WE NEED TO TALK: LOVE](https://open.spotify.com/album/2mX5bnPllHCjS0GdXTUi6W) | 2:56 | 2025-04-18 | 2025-07-06 |
+| [Say Yes](https://open.spotify.com/track/5nSaqg4dZcy4FwwGYSH65h) | [Marques Anthony](https://open.spotify.com/artist/2jrrL6b7otRi8NSuB3oCvi) | [Say Yes](https://open.spotify.com/album/2CCX41Vg8e2WR8mUDDULPg) | 2:50 | 2026-02-06 |  |
 | [Say Yes](https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Say Yes](https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7) | 3:45 | 2024-10-25 | 2025-01-21 |
 | [Say You Love Me](https://open.spotify.com/track/0WLkriErnHl4N4AnPiMn0h) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Say You Love Me](https://open.spotify.com/album/5NdNmpf1iRQU5NgAitpoqW) | 4:45 | 2024-02-16 | 2024-04-27 |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-06-04 |

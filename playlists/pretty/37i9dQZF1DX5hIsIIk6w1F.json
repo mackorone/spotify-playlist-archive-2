@@ -1,15 +1,35 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: Katteyes & SINAKA",
-  "num_followers": 554612,
+  "num_followers": 554670,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACeEeBFIyrX8FZEAYzDuj9cZz2zT",
+  "snapshot_id": "AAAAAA6MEDf/wMoc7rAXr05Y0WtK3v5u",
   "tracks": [
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "ALO",
+        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 145882,
+      "name": "ALO",
+      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "MUJERES SOLTERAS (feat. Brray)",
         "url": "https://open.spotify.com/album/2c7g9fZZnzyGtGNbn7Fbkp"
@@ -37,47 +57,27 @@
       "url": "https://open.spotify.com/track/1nqvJkdckocptU9eI9cqnk"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "CU\u00c9NTAME",
-        "url": "https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh"
+        "name": "Troka",
+        "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Reelian",
-          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
         }
       ],
-      "duration_ms": 162500,
-      "name": "CU\u00c9NTAME",
-      "url": "https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP"
+      "duration_ms": 169622,
+      "name": "Troka",
+      "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "ALO",
-        "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "ALO",
-      "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Baila Para Mi",
         "url": "https://open.spotify.com/album/2Vbiy5ukQXDLRLxVbEjHpU"
@@ -97,7 +97,191 @@
       "url": "https://open.spotify.com/track/2a2RrAoCSL0kj1145MHGVE"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1SzHncQOuLZMkbehKORuAa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Tony El Golden Boy",
+          "url": "https://open.spotify.com/artist/4wxWSbH2lE1GDEtaBvykBM"
+        },
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "JhonAlex",
+          "url": "https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI"
+        },
+        {
+          "name": "Germanini",
+          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+        },
+        {
+          "name": "Renaglock",
+          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        },
+        {
+          "name": "IGNACIO ON THE BEAT",
+          "url": "https://open.spotify.com/artist/6toXJN7YZeYxC2ZNjFoDiG"
+        }
+      ],
+      "duration_ms": 246732,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/7piIoom78DuFKQARwLrWoe"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Adi\u00f3s (feat. Lleflight, Sacra Mr Melody, AlexFer, Javiielo, Best, Agdaddy)",
+        "url": "https://open.spotify.com/album/0ZYyDScWwVmnP464hHp1GF"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "BNJA KING",
+          "url": "https://open.spotify.com/artist/0UApOzMWy5APrqjhtL1QyD"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Sacra Mr Melody",
+          "url": "https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y"
+        },
+        {
+          "name": "Alex Fer",
+          "url": "https://open.spotify.com/artist/6NnQvCLkrl07c3GOimOKHV"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        },
+        {
+          "name": "Ag Daddy",
+          "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        }
+      ],
+      "duration_ms": 472000,
+      "name": "Adi\u00f3s (feat. Lleflight, Sacra Mr Melody, AlexFer, Javiielo, Best, Agdaddy) - Remix",
+      "url": "https://open.spotify.com/track/6JyRkKGIDdizXLShftdmLc"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "TRATO DE PRINCESA",
+        "url": "https://open.spotify.com/album/0dL0Djmi2j1DJqFauqWrbK"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 143756,
+      "name": "Trato De Princesa",
+      "url": "https://open.spotify.com/track/15gmgzBfflBMnUGpr6a7K2"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/1RcSWRxcv6q5kCIYPnvLJU"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/2KMKIoy6QKkpolyXBnasHz"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "CU\u00c9NTAME",
+        "url": "https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Reelian",
+          "url": "https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "CU\u00c9NTAME",
+      "url": "https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "over-time lover",
+        "url": "https://open.spotify.com/album/2kksgA0dtaCL7KDazztW9G"
+      },
+      "artists": [
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Baby Jey",
+          "url": "https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk"
+        }
+      ],
+      "duration_ms": 130481,
+      "name": "martes 13",
+      "url": "https://open.spotify.com/track/2kdv0TOGOYLpqX6ISPXzUU"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Con La Mini (Remix)",
         "url": "https://open.spotify.com/album/16ZIWHX2Qlvrmo3PgViLVH"
@@ -137,47 +321,23 @@
       "url": "https://open.spotify.com/track/4NXvS5k38k8ePfze3ubIvH"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "TRATO DE PRINCESA",
-        "url": "https://open.spotify.com/album/0dL0Djmi2j1DJqFauqWrbK"
+        "name": "TRISTE Y LINDA 2",
+        "url": "https://open.spotify.com/album/2j5Q0CUDWpuzmJawqWXeJl"
       },
       "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
         {
           "name": "Loyaltty",
           "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
         }
       ],
-      "duration_ms": 143756,
-      "name": "Trato De Princesa",
-      "url": "https://open.spotify.com/track/15gmgzBfflBMnUGpr6a7K2"
+      "duration_ms": 169200,
+      "name": "TRISTE Y LINDA 2",
+      "url": "https://open.spotify.com/track/4UQdBlc6ntx5W8OhhcX8l3"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Troka",
-        "url": "https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        }
-      ],
-      "duration_ms": 169622,
-      "name": "Troka",
-      "url": "https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "VAMOS AL PARTY",
         "url": "https://open.spotify.com/album/0gJajBGn5jTrnenN5N5Vi5"
@@ -205,43 +365,7 @@
       "url": "https://open.spotify.com/track/00bnHZ6vxzJTMyeqQQUCOV"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "GALAXIA",
-        "url": "https://open.spotify.com/album/73LvwBjzn43dc4LHqYbVVI"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        }
-      ],
-      "duration_ms": 156108,
-      "name": "GALAXIA",
-      "url": "https://open.spotify.com/track/5ctcBFR5eCxAxLfeBVv7xH"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "EN LA DISCO",
-        "url": "https://open.spotify.com/album/4j0DGrHAvPDzEwOLn4oddC"
-      },
-      "artists": [
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Adan La Amenaza",
-          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "EN LA DISCO",
-      "url": "https://open.spotify.com/track/4avL7ImjHKmAu1KoEZu65j"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "No Pa La Tele",
         "url": "https://open.spotify.com/album/4LFk3wjYbBQC8UIo9oEZB3"
@@ -265,7 +389,31 @@
       "url": "https://open.spotify.com/track/2eEkKJCR24ixf0fuzOLGtY"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "QUE CASUALIDAD",
+        "url": "https://open.spotify.com/album/5Hga8CiHfLfNIO7l2EdfJX"
+      },
+      "artists": [
+        {
+          "name": "Nasty8ei",
+          "url": "https://open.spotify.com/artist/3CgZBCZgsDN34azMJdtgV5"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "QUE CASUALIDAD",
+      "url": "https://open.spotify.com/track/4yC79VGeTkB5zVMKODWgXz"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/0zIVCVPhluii2owRVJn9Nm"
@@ -289,27 +437,67 @@
       "url": "https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "PERVERSA",
-        "url": "https://open.spotify.com/album/1leogKtflW5HxhrEaNGhYS"
+        "name": "Ponte Perra",
+        "url": "https://open.spotify.com/album/7pgmxtpt0l7logu5f6d9Ee"
       },
       "artists": [
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+          "name": "Mattei",
+          "url": "https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw"
         },
         {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+          "name": "DJ Urba",
+          "url": "https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z"
         }
       ],
-      "duration_ms": 159600,
-      "name": "PERVERSA",
-      "url": "https://open.spotify.com/track/645bl0c9hBtlDKA4vgDpCU"
+      "duration_ms": 174106,
+      "name": "Ponte Perra",
+      "url": "https://open.spotify.com/track/1DbT2COwAovcubwNvYIAg6"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "GALAXIA",
+        "url": "https://open.spotify.com/album/73LvwBjzn43dc4LHqYbVVI"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "GALAXIA",
+      "url": "https://open.spotify.com/track/5ctcBFR5eCxAxLfeBVv7xH"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Noche Loca",
+        "url": "https://open.spotify.com/album/5r8ZUrXhLKCpAKr5Jh5e33"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Gold Music",
+          "url": "https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/6T4c5fGW3bizy8fxog3KcH"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "QUIERE IRSE CON LOS YGRIEGA",
         "url": "https://open.spotify.com/album/4zizl1JrnVNMMl9BGdAdHL"
@@ -333,7 +521,83 @@
       "url": "https://open.spotify.com/track/4XTJaWt6SRr2rjZOhocq9m"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "PERVERSA",
+        "url": "https://open.spotify.com/album/1leogKtflW5HxhrEaNGhYS"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "PERVERSA",
+      "url": "https://open.spotify.com/track/645bl0c9hBtlDKA4vgDpCU"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Qu\u00e9 Ser\u00e1",
+        "url": "https://open.spotify.com/album/50z9qlI7EkD3HqIXVyI2Vq"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "duration_ms": 142437,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/1Ms2WIZyWzz1Z3RhX7WZRO"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Tu Boca Me Provoca",
+        "url": "https://open.spotify.com/album/394QJY8xaopyw4JePhuWzl"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "duration_ms": 137602,
+      "name": "Tu Boca Me Provoca",
+      "url": "https://open.spotify.com/track/0dv9RH6XCGbRaoyiKz9U8z"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Sentimiento M\u00e1gico",
+        "url": "https://open.spotify.com/album/3KLs4d5dia53jBDIIuk7PR"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Sentimiento M\u00e1gico",
+      "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
@@ -361,143 +625,27 @@
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Noche Loca",
-        "url": "https://open.spotify.com/album/5r8ZUrXhLKCpAKr5Jh5e33"
+        "name": "EN LA DISCO",
+        "url": "https://open.spotify.com/album/4j0DGrHAvPDzEwOLn4oddC"
       },
       "artists": [
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
         },
         {
-          "name": "Lyon la f",
-          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
-        },
-        {
-          "name": "Gold Music",
-          "url": "https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze"
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
         }
       ],
-      "duration_ms": 210910,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/6T4c5fGW3bizy8fxog3KcH"
+      "duration_ms": 162624,
+      "name": "EN LA DISCO",
+      "url": "https://open.spotify.com/track/4avL7ImjHKmAu1KoEZu65j"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Sentimiento M\u00e1gico",
-        "url": "https://open.spotify.com/album/3KLs4d5dia53jBDIIuk7PR"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Sentimiento M\u00e1gico",
-      "url": "https://open.spotify.com/track/2jakPYMHBWLubIQEeceVoL"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Qu\u00e9 Ser\u00e1",
-        "url": "https://open.spotify.com/album/50z9qlI7EkD3HqIXVyI2Vq"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Big Cvyu",
-          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
-        }
-      ],
-      "duration_ms": 142437,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/1Ms2WIZyWzz1Z3RhX7WZRO"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Tu Boca Me Provoca",
-        "url": "https://open.spotify.com/album/394QJY8xaopyw4JePhuWzl"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        }
-      ],
-      "duration_ms": 137602,
-      "name": "Tu Boca Me Provoca",
-      "url": "https://open.spotify.com/track/0dv9RH6XCGbRaoyiKz9U8z"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "La Merecedora",
-        "url": "https://open.spotify.com/album/1dwrDDkFSQWcLZ7avjuLHY"
-      },
-      "artists": [
-        {
-          "name": "Lyon la f",
-          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
-        },
-        {
-          "name": "Nacho G Flow",
-          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "La Merecedora",
-      "url": "https://open.spotify.com/track/3bI8dowY3t33xxIB85GGUd"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Te vas",
-        "url": "https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Te vas",
-      "url": "https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "En que topamo?",
-        "url": "https://open.spotify.com/album/2MKYspfeR8EM9lW7NAXgR6"
-      },
-      "artists": [
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        },
-        {
-          "name": "l3tter",
-          "url": "https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "En que topamo?",
-      "url": "https://open.spotify.com/track/66yq3d8qMMhYzi9h53wQ5B"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "30 Mil Pies",
         "url": "https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU"
@@ -513,111 +661,7 @@
       "url": "https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/3dPb6v1OMvV0OcSSHYwPfn"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        }
-      ],
-      "duration_ms": 161443,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/35NTHnL0y4xr5JEmnnxsoj"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "VEN AC\u00c1",
-        "url": "https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "VEN AC\u00c1",
-      "url": "https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "OTRA NOCHE",
-        "url": "https://open.spotify.com/album/1VsrRWen9nTKxOTRAmcD3B"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        }
-      ],
-      "duration_ms": 157755,
-      "name": "OTRA NOCHE",
-      "url": "https://open.spotify.com/track/1vjAzo3w0SZyKrHg5lwEvq"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Missing",
-        "url": "https://open.spotify.com/album/6UzGSfJroStQGBJq0tFV6b"
-      },
-      "artists": [
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Missing",
-      "url": "https://open.spotify.com/track/5XBdsOe2SVDbVqz6tCfAJD"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "DEMONIAKA",
-        "url": "https://open.spotify.com/album/3LHCghQnbYIYKZfSneZRHQ"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "DEMONIAKA",
-      "url": "https://open.spotify.com/track/1wymfAgWxIHWuLI8gJdNO9"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "BAJEN PA KA",
-        "url": "https://open.spotify.com/album/04Yy86mlcz6fg7APdtnnI0"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 170702,
-      "name": "BAJEN PA KA",
-      "url": "https://open.spotify.com/track/4H8I32VgK5PZ49inPukUhT"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Me Desconoces",
         "url": "https://open.spotify.com/album/50LCfYX5Hcc9Pt9R65vVAe"
@@ -641,7 +685,143 @@
       "url": "https://open.spotify.com/track/60S9PoyWb2MbRP0xNk4U2E"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "DEMONIAKA",
+        "url": "https://open.spotify.com/album/3LHCghQnbYIYKZfSneZRHQ"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "DEMONIAKA",
+      "url": "https://open.spotify.com/track/1wymfAgWxIHWuLI8gJdNO9"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "VEN AC\u00c1",
+        "url": "https://open.spotify.com/album/28opQKCs6mjHJ7egVgMj60"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "VEN AC\u00c1",
+      "url": "https://open.spotify.com/track/67VOcsWPZ38BXFL2NnJWs6"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/3dPb6v1OMvV0OcSSHYwPfn"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "duration_ms": 161443,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/35NTHnL0y4xr5JEmnnxsoj"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "En que topamo?",
+        "url": "https://open.spotify.com/album/2MKYspfeR8EM9lW7NAXgR6"
+      },
+      "artists": [
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        },
+        {
+          "name": "l3tter",
+          "url": "https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "En que topamo?",
+      "url": "https://open.spotify.com/track/66yq3d8qMMhYzi9h53wQ5B"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Me Mareo",
+        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Conmigo Se Escapa",
+        "url": "https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "Conmigo Se Escapa",
+      "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Pensando Que (feat. Fran C)",
+        "url": "https://open.spotify.com/album/3MoFMwixzoBiJguPRXUhDn"
+      },
+      "artists": [
+        {
+          "name": "En La Nota Records",
+          "url": "https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2"
+        },
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 197121,
+      "name": "Pensando Que (feat. Fran C)",
+      "url": "https://open.spotify.com/track/5WR8CilKvYzG1sweZPqQw9"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Amor de Bandolero (Remix)",
         "url": "https://open.spotify.com/album/3HvRj8S3Qd7PCA51N9iyNG"
@@ -681,239 +861,71 @@
       "url": "https://open.spotify.com/track/775tpDzWKaeaasoe74xpW4"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Pensando Que (feat. Fran C)",
-        "url": "https://open.spotify.com/album/3MoFMwixzoBiJguPRXUhDn"
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6UzGSfJroStQGBJq0tFV6b"
       },
       "artists": [
         {
-          "name": "En La Nota Records",
-          "url": "https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2"
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
         },
-        {
-          "name": "benjitalkapone",
-          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 197121,
-      "name": "Pensando Que (feat. Fran C)",
-      "url": "https://open.spotify.com/track/5WR8CilKvYzG1sweZPqQw9"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Conmigo Se Escapa",
-        "url": "https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "Conmigo Se Escapa",
-      "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "El Reggaet\u00f3n del Disco",
-      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Me Mareo",
-        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Me Mareo",
-      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "LOS GAL\u00c1CTICOS",
-        "url": "https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma"
-      },
-      "artists": [
         {
           "name": "Jere Klein",
           "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Valdi",
-          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
         }
       ],
-      "duration_ms": 195683,
-      "name": "2x1",
-      "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
+      "duration_ms": 201818,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/5XBdsOe2SVDbVqz6tCfAJD"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "YTSQS",
-        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
+        "name": "La Merecedora",
+        "url": "https://open.spotify.com/album/1dwrDDkFSQWcLZ7avjuLHY"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "CHICA ATRACTIVA",
-      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "TODO KE VER",
-        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "TODO KE VER",
-      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Apocalipsis",
-        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 160394,
-      "name": "Vamo a Bailotear",
-      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Zona",
-        "url": "https://open.spotify.com/album/5mRlWuw2hyef5f7DHwwXfK"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
         },
         {
           "name": "Nacho G Flow",
           "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Zona",
-      "url": "https://open.spotify.com/track/40ITk1Q3t8QTGgtzK8KPZE"
+      "duration_ms": 190000,
+      "name": "La Merecedora",
+      "url": "https://open.spotify.com/track/3bI8dowY3t33xxIB85GGUd"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ"
+        "name": "BAILAME ASI",
+        "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
       },
       "artists": [
         {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 204571,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "DESPUES DE PRENDER",
-        "url": "https://open.spotify.com/album/4kfrJzIsHQZrR5hTF1VIVE"
-      },
-      "artists": [
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
         {
-          "name": "El Joan",
-          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
         }
       ],
-      "duration_ms": 165333,
-      "name": "DESPUES DE PRENDER",
-      "url": "https://open.spotify.com/track/0cySo4Dov3eiEGxQASQy3H"
+      "duration_ms": 144705,
+      "name": "BAILAME ASI",
+      "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
@@ -937,127 +949,103 @@
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/4eAvdv0NnEDQj34dvOb1Ma"
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ"
       },
       "artists": [
         {
-          "name": "Benjaki",
-          "url": "https://open.spotify.com/artist/1Gx4WkTOlNiI8GEY2n5FVW"
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "Kennat",
-          "url": "https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 188312,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/19tcB1ILXTJvvHxvzr2zZa"
+      "duration_ms": 204571,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/1tPzr0Njg0RzwkCg0wEnJ9"
+        "name": "YTSQS",
+        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
       },
       "artists": [
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Corredor",
-          "url": "https://open.spotify.com/artist/1YPxccz4sOCJoVRExWRSsZ"
-        }
-      ],
-      "duration_ms": 118720,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/58b42JiczBQZ6d3ulCVTYe"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Pelirroja",
-        "url": "https://open.spotify.com/album/1ymBOTWiTxsftQcTwpG2fT"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
           "name": "Lewis Somes",
           "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Pelirroja",
-      "url": "https://open.spotify.com/track/2lb7h169BHaAUdXSP0VJkZ"
+      "duration_ms": 165600,
+      "name": "CHICA ATRACTIVA",
+      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Mal Porta",
-        "url": "https://open.spotify.com/album/2S9BuMgtF3Rj82GRAYbE8h"
+        "name": "BAJEN PA KA",
+        "url": "https://open.spotify.com/album/04Yy86mlcz6fg7APdtnnI0"
       },
       "artists": [
         {
-          "name": "benjitalkapone",
-          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
         }
       ],
-      "duration_ms": 169263,
-      "name": "Mal Porta",
-      "url": "https://open.spotify.com/track/4wRxXwau4cArhovmRcG7Jp"
+      "duration_ms": 170702,
+      "name": "BAJEN PA KA",
+      "url": "https://open.spotify.com/track/4H8I32VgK5PZ49inPukUhT"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Somos Diferentes",
-        "url": "https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J"
+        "name": "Te vas",
+        "url": "https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho"
       },
       "artists": [
         {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 176780,
-      "name": "EXTRA\u00d1O TUS BESOS",
-      "url": "https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX"
+      "duration_ms": 161500,
+      "name": "Te vas",
+      "url": "https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Corte Alpacino",
-        "url": "https://open.spotify.com/album/1MVjYv25LJ9jq0DcRLix85"
+        "name": "Tiene",
+        "url": "https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt"
       },
       "artists": [
         {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
         },
         {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
         },
         {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
         }
       ],
-      "duration_ms": 161719,
-      "name": "Corte Alpacino",
-      "url": "https://open.spotify.com/track/7f9LWgHBwe6zsE2DuV5e3N"
+      "duration_ms": 225000,
+      "name": "Tiene",
+      "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Mala M\u00eda (Remix)",
         "url": "https://open.spotify.com/album/0HPBGB5V5vzpsf8OdUXbiX"
@@ -1093,242 +1081,50 @@
       "url": "https://open.spotify.com/track/0twbaxCeF1KWY40AMMEVsT"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "BYONCE",
-        "url": "https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp"
+        "name": "Somos Diferentes",
+        "url": "https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
         }
       ],
-      "duration_ms": 139200,
-      "name": "BYONCE",
-      "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
+      "duration_ms": 176780,
+      "name": "EXTRA\u00d1O TUS BESOS",
+      "url": "https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Tiene",
-        "url": "https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt"
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/4eAvdv0NnEDQj34dvOb1Ma"
       },
       "artists": [
         {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+          "name": "Benjaki",
+          "url": "https://open.spotify.com/artist/1Gx4WkTOlNiI8GEY2n5FVW"
         },
         {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         },
         {
-          "name": "Nacho G Flow",
-          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+          "name": "Kennat",
+          "url": "https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Tiene",
-      "url": "https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl"
+      "duration_ms": 188312,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/19tcB1ILXTJvvHxvzr2zZa"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "BAILAME ASI",
-        "url": "https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "BAILAME ASI",
-      "url": "https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Que Pasar\u00eda?",
-        "url": "https://open.spotify.com/album/6QpYLtwes9phqqhrbQLVkO"
-      },
-      "artists": [
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        },
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        },
-        {
-          "name": "Nacho G Flow",
-          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Que Pasar\u00eda?",
-      "url": "https://open.spotify.com/track/1Qi2so8D0aguBeznAUaWGv"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Pichea",
-        "url": "https://open.spotify.com/album/5mdv4bxC1XTBjnGawK9jMd"
-      },
-      "artists": [
-        {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        },
-        {
-          "name": "Nacho G Flow",
-          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "Pichea",
-      "url": "https://open.spotify.com/track/5SqLfBDwcFRoptIGyN38w5"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5cJq8RkupJXKJxtHfowz9a"
-      },
-      "artists": [
-        {
-          "name": "Balbi El Chamako",
-          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
-        },
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        }
-      ],
-      "duration_ms": 153048,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/0wfxVhK6hS5ywcSotERiBs"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/7qTtLuxsER5uRlwPvuWhHb"
-      },
-      "artists": [
-        {
-          "name": "Benja Valencia",
-          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
-        }
-      ],
-      "duration_ms": 145102,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/1AEygvMRexkwBPuJsbzxs2"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Bmw",
-        "url": "https://open.spotify.com/album/4mXG7OGLNodiDWftqgoc4s"
-      },
-      "artists": [
-        {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
-        },
-        {
-          "name": "carlitos music",
-          "url": "https://open.spotify.com/artist/7lbz0j8HG98mTjUgeEwS0H"
-        }
-      ],
-      "duration_ms": 169436,
-      "name": "Bmw",
-      "url": "https://open.spotify.com/track/5v4OgFxhCat9uXE75CdfF5"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Misionar",
-        "url": "https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Lidanza",
-          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
-        }
-      ],
-      "duration_ms": 259437,
-      "name": "Misionar",
-      "url": "https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "A Poca Luz",
-        "url": "https://open.spotify.com/album/3hv0T6uuRTCfuV7U3xvnSw"
-      },
-      "artists": [
-        {
-          "name": "Felipelblessed",
-          "url": "https://open.spotify.com/artist/1tpfOvCgQzYscixwwKlZbx"
-        },
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "A Poca Luz",
-      "url": "https://open.spotify.com/track/2LtJeieAYcKYusnMIued5z"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Cuentale",
-        "url": "https://open.spotify.com/album/1nOfYqhVVSPJVSCJO9FzLU"
+        "name": "DESPUES DE PRENDER",
+        "url": "https://open.spotify.com/album/4kfrJzIsHQZrR5hTF1VIVE"
       },
       "artists": [
         {
@@ -1336,244 +1132,136 @@
           "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
         }
       ],
-      "duration_ms": 168247,
-      "name": "Cuentale",
-      "url": "https://open.spotify.com/track/0R6WFm2Zj7FuQ23QHt34jJ"
+      "duration_ms": 165333,
+      "name": "DESPUES DE PRENDER",
+      "url": "https://open.spotify.com/track/0cySo4Dov3eiEGxQASQy3H"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "VENTE CONMIGO",
-        "url": "https://open.spotify.com/album/51omn3WMPZxtFwvK0UMQl2"
+        "name": "Apocalipsis",
+        "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
       },
       "artists": [
         {
-          "name": "Piromano El Del Flow Gitano",
-          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 171176,
-      "name": "VENTE CONMIGO",
-      "url": "https://open.spotify.com/track/78dcaF6ZYb01TzEMKd0bXE"
+      "duration_ms": 160394,
+      "name": "Vamo a Bailotear",
+      "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Minnie 2",
-        "url": "https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ"
+        "name": "TODO KE VER",
+        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "TODO KE VER",
+      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "LOS GAL\u00c1CTICOS",
+        "url": "https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "2x1",
+      "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
           "name": "Cris MJ",
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 263030,
-      "name": "Minnie 2",
-      "url": "https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl"
+      "duration_ms": 203750,
+      "name": "El Reggaet\u00f3n del Disco",
+      "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Chica Exclusiva",
-        "url": "https://open.spotify.com/album/541iKoAM76cvRKavbIFMAL"
+        "name": "milloNES",
+        "url": "https://open.spotify.com/album/269wIlKyRNI5tV0ahfQpqe"
       },
       "artists": [
         {
-          "name": "Germanini",
-          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
         },
         {
-          "name": "Tobal Mj",
-          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
-        },
-        {
-          "name": "Nacho G Flow",
-          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
         }
       ],
-      "duration_ms": 223936,
-      "name": "Chica Exclusiva",
-      "url": "https://open.spotify.com/track/7wVDAJoJ6nd5i4NafVPBPZ"
+      "duration_ms": 205862,
+      "name": "Ella Es La M\u00eda",
+      "url": "https://open.spotify.com/track/2FlLSE725G8coEIW4hMTKp"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Satirolog\u00eda, Vol. 3",
-        "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 227383,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Yo la Rescate",
-        "url": "https://open.spotify.com/album/0QVJ5qPjEBoYlQWvtM5YAS"
-      },
-      "artists": [
-        {
-          "name": "Z Jocker",
-          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
-        },
-        {
-          "name": "Malito Malozo",
-          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
-        },
-        {
-          "name": "Lamelodiadelhampa",
-          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
-        },
-        {
-          "name": "Renaglock",
-          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
-        }
-      ],
-      "duration_ms": 215510,
-      "name": "Yo la Rescate",
-      "url": "https://open.spotify.com/track/35eYaPXb3b5FZ40wP8qW6K"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Como T\u00fa",
-        "url": "https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC"
+        "name": "Hac\u00e9rtelo",
+        "url": "https://open.spotify.com/album/1mamVFhR1szWRrP1cDdYNC"
       },
       "artists": [
         {
           "name": "Jairo Vera",
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN"
+      "duration_ms": 148806,
+      "name": "Hac\u00e9rtelo",
+      "url": "https://open.spotify.com/track/3dhsaygO9ncj98ZvDNauvU"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Polarizado",
-        "url": "https://open.spotify.com/album/1Cg2KYOeeAsTxLONsm6qI7"
-      },
-      "artists": [
-        {
-          "name": "Fran Maira",
-          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Best",
-          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
-        }
-      ],
-      "duration_ms": 160824,
-      "name": "Polarizado",
-      "url": "https://open.spotify.com/track/3d2WrfpTd1tWFulRyLVTmu"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "TU + YO = :)",
-        "url": "https://open.spotify.com/album/5BDBKgazkX6EHEzrCN5MFv"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        }
-      ],
-      "duration_ms": 161460,
-      "name": "TU + YO = :)",
-      "url": "https://open.spotify.com/track/551aDFvMIURi5ZWL2zbWWy"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/71K2Cj945j5pOPD2INlE9j"
-      },
-      "artists": [
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 151224,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4FW9ismActoDC8B2wBwRgd"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "PONTE LOKITA",
-        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
-      },
-      "artists": [
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Swift 047",
-          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "PONTE LOKITA",
-      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "MUE LO DE ATRA",
-        "url": "https://open.spotify.com/album/3zVU0tMM2XawnM6SbobbNn"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 156969,
-      "name": "MUE LO DE ATRA",
-      "url": "https://open.spotify.com/track/1OcRSebUAMAPfnvo5kLpXV"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Enfasis",
         "url": "https://open.spotify.com/album/547zwR98nHz7hhpgv2xaIP"
@@ -1601,10 +1289,298 @@
       "url": "https://open.spotify.com/track/6dz7JNnHCM8t9BGDZeQqgP"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Hac\u00e9rtelo",
-        "url": "https://open.spotify.com/album/1mamVFhR1szWRrP1cDdYNC"
+        "name": "MUE LO DE ATRA",
+        "url": "https://open.spotify.com/album/3zVU0tMM2XawnM6SbobbNn"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 156969,
+      "name": "MUE LO DE ATRA",
+      "url": "https://open.spotify.com/track/1OcRSebUAMAPfnvo5kLpXV"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "PONTE LOKITA",
+        "url": "https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "PONTE LOKITA",
+      "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Minnie 2",
+        "url": "https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 263030,
+      "name": "Minnie 2",
+      "url": "https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "VENTE CONMIGO",
+        "url": "https://open.spotify.com/album/51omn3WMPZxtFwvK0UMQl2"
+      },
+      "artists": [
+        {
+          "name": "Piromano El Del Flow Gitano",
+          "url": "https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "VENTE CONMIGO",
+      "url": "https://open.spotify.com/track/78dcaF6ZYb01TzEMKd0bXE"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Misionar",
+        "url": "https://open.spotify.com/album/3OzpYS3uCXPpbDx2ABYsKj"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Lidanza",
+          "url": "https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y"
+        }
+      ],
+      "duration_ms": 259437,
+      "name": "Misionar",
+      "url": "https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Pichea",
+        "url": "https://open.spotify.com/album/5mdv4bxC1XTBjnGawK9jMd"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "duration_ms": 202710,
+      "name": "Pichea",
+      "url": "https://open.spotify.com/track/5SqLfBDwcFRoptIGyN38w5"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Que Pasar\u00eda?",
+        "url": "https://open.spotify.com/album/6QpYLtwes9phqqhrbQLVkO"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Que Pasar\u00eda?",
+      "url": "https://open.spotify.com/track/1Qi2so8D0aguBeznAUaWGv"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Corte Alpacino",
+        "url": "https://open.spotify.com/album/1MVjYv25LJ9jq0DcRLix85"
+      },
+      "artists": [
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 161719,
+      "name": "Corte Alpacino",
+      "url": "https://open.spotify.com/track/7f9LWgHBwe6zsE2DuV5e3N"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Mal Porta",
+        "url": "https://open.spotify.com/album/2S9BuMgtF3Rj82GRAYbE8h"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Mal Porta",
+      "url": "https://open.spotify.com/track/4wRxXwau4cArhovmRcG7Jp"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Pelirroja",
+        "url": "https://open.spotify.com/album/1ymBOTWiTxsftQcTwpG2fT"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Pelirroja",
+      "url": "https://open.spotify.com/track/2lb7h169BHaAUdXSP0VJkZ"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/1tPzr0Njg0RzwkCg0wEnJ9"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Corredor",
+          "url": "https://open.spotify.com/artist/1YPxccz4sOCJoVRExWRSsZ"
+        }
+      ],
+      "duration_ms": 118720,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/58b42JiczBQZ6d3ulCVTYe"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Zona",
+        "url": "https://open.spotify.com/album/5mRlWuw2hyef5f7DHwwXfK"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Zona",
+      "url": "https://open.spotify.com/track/40ITk1Q3t8QTGgtzK8KPZE"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "OTRA NOCHE",
+        "url": "https://open.spotify.com/album/1VsrRWen9nTKxOTRAmcD3B"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        }
+      ],
+      "duration_ms": 157755,
+      "name": "OTRA NOCHE",
+      "url": "https://open.spotify.com/track/1vjAzo3w0SZyKrHg5lwEvq"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "PA LA DISCO",
+        "url": "https://open.spotify.com/album/5hWIEoo0tSjTwLPJaugGd7"
+      },
+      "artists": [
+        {
+          "name": "Menor",
+          "url": "https://open.spotify.com/artist/4irmOndMUq2Q9w1rJD3gVD"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 182842,
+      "name": "PA LA DISCO",
+      "url": "https://open.spotify.com/track/2M83lvvb4knAyXgyEqhXUl"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "D\u00f3nde Estar\u00e1",
+        "url": "https://open.spotify.com/album/5JTdL3DmMpIOCt0rBKDOzG"
       },
       "artists": [
         {
@@ -1612,12 +1588,72 @@
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         }
       ],
-      "duration_ms": 148806,
-      "name": "Hac\u00e9rtelo",
-      "url": "https://open.spotify.com/track/3dhsaygO9ncj98ZvDNauvU"
+      "duration_ms": 198716,
+      "name": "D\u00f3nde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0TiOhaTwBRJEZeln0zfdti"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Ah\u00ed noma",
+        "url": "https://open.spotify.com/album/2IXKl1l7ZALKxxjo4SvVTX"
+      },
+      "artists": [
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 130360,
+      "name": "Ah\u00ed noma",
+      "url": "https://open.spotify.com/track/6I6Fhu8S71kn7n40TlPT9R"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Volvemos",
+        "url": "https://open.spotify.com/album/1rLqqV7JcLH332PPfPP1DU"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        }
+      ],
+      "duration_ms": 134687,
+      "name": "Volvemos",
+      "url": "https://open.spotify.com/track/3JQiQMASBkPyQlOpJDZeg2"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Adictiva",
+        "url": "https://open.spotify.com/album/4sih7G5JC8sXKgIbdGhVvy"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Rossy",
+          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 185097,
+      "name": "Adictiva",
+      "url": "https://open.spotify.com/track/2CMsAgWjxN4WqmBXoiea2Z"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "shorty (feat. Gino Mella, King Savagge & Remers)",
         "url": "https://open.spotify.com/album/49X71H5E7la7TC6Xp1bKrN"
@@ -1653,238 +1689,178 @@
       "url": "https://open.spotify.com/track/2EuUGHZ1y79n8etZnEC6WG"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "ARDE",
-        "url": "https://open.spotify.com/album/6rQjLHGsuyKoVU1sZxcmjs"
+        "name": "TU + YO = :)",
+        "url": "https://open.spotify.com/album/5BDBKgazkX6EHEzrCN5MFv"
       },
       "artists": [
         {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "En La Nota Records",
-          "url": "https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "ARDE",
-      "url": "https://open.spotify.com/track/1UDwa81cEqm673BgpNTWjp"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Adictiva",
-        "url": "https://open.spotify.com/album/4sih7G5JC8sXKgIbdGhVvy"
-      },
-      "artists": [
-        {
-          "name": "Carlitos Rossy",
-          "url": "https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED"
-        },
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 185097,
-      "name": "Adictiva",
-      "url": "https://open.spotify.com/track/2CMsAgWjxN4WqmBXoiea2Z"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "La Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/5ShQIZZFiJUxh8fN7RiUlQ"
-      },
-      "artists": [
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "La Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/1URiznQTUNhYNKOrKqT2vv"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Vienes o Te Vas?",
-        "url": "https://open.spotify.com/album/0fOnaWHKzE4MRF1nL80sdD"
-      },
-      "artists": [
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        },
-        {
-          "name": "ScreamChill\u2019s",
-          "url": "https://open.spotify.com/artist/1kGUT05sknGU4kMzhxp5DI"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Vienes o Te Vas?",
-      "url": "https://open.spotify.com/track/7nqStEJJgagvm17rNuJ6ky"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Volvemos",
-        "url": "https://open.spotify.com/album/1rLqqV7JcLH332PPfPP1DU"
-      },
-      "artists": [
-        {
-          "name": "Santi Valencia",
-          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
-        }
-      ],
-      "duration_ms": 134687,
-      "name": "Volvemos",
-      "url": "https://open.spotify.com/track/3JQiQMASBkPyQlOpJDZeg2"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "no somos iguales",
-        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 149149,
-      "name": "meteoro",
-      "url": "https://open.spotify.com/track/51B1Ud21Dqhx1l6xgjlnDR"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "BUENOS VALORES MALOS MODALES",
-        "url": "https://open.spotify.com/album/6tUILrPjOM4zx0TCK8xwwY"
-      },
-      "artists": [
-        {
-          "name": "KUINA",
-          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
         {
           "name": "Katteyes",
           "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
         }
       ],
-      "duration_ms": 160812,
-      "name": "LA FAVORITA",
-      "url": "https://open.spotify.com/track/1RxCl3AaF0HtNiEbpRklpA"
+      "duration_ms": 161460,
+      "name": "TU + YO = :)",
+      "url": "https://open.spotify.com/track/551aDFvMIURi5ZWL2zbWWy"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Veinti4K",
-        "url": "https://open.spotify.com/album/6q7TxlT6l5MW1pCdv5X9Ai"
-      },
-      "artists": [
-        {
-          "name": "Carlitos Junior",
-          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
-        },
-        {
-          "name": "El BAI",
-          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
-        }
-      ],
-      "duration_ms": 172768,
-      "name": "Veinti4K",
-      "url": "https://open.spotify.com/track/3BHTt0cEXYzahDo7U6jsTD"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "de to'",
-        "url": "https://open.spotify.com/album/6KjuMxwW1RNpakmADDsFPF"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        }
-      ],
-      "duration_ms": 191752,
-      "name": "de to'",
-      "url": "https://open.spotify.com/track/5L0TexBudGI26x882Z8kgn"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "arreglo floral",
-        "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 147168,
-      "name": "arreglo floral",
-      "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Beba",
-        "url": "https://open.spotify.com/album/6dY2qzmegITQ0qa0Nxx8zz"
-      },
-      "artists": [
-        {
-          "name": "Kiddbrevis",
-          "url": "https://open.spotify.com/artist/2uc2B4TbqCMitU3eCBGp5U"
-        }
-      ],
-      "duration_ms": 142942,
-      "name": "Beba",
-      "url": "https://open.spotify.com/track/770aw6BFuQymlFxnsFSEbr"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Quiero Acariciarte",
-        "url": "https://open.spotify.com/album/1sqcURWVfHYrtgDWjDrFCi"
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC"
       },
       "artists": [
         {
           "name": "Jairo Vera",
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
         }
       ],
-      "duration_ms": 171039,
-      "name": "Quiero Acariciarte",
-      "url": "https://open.spotify.com/track/2BASRBUHbisBaVco4szwFz"
+      "duration_ms": 172800,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "D\u00e9jalo Volar",
-        "url": "https://open.spotify.com/album/6HAItJpbpyZ5XNUxVm0axT"
+        "name": "Yo la Rescate",
+        "url": "https://open.spotify.com/album/0QVJ5qPjEBoYlQWvtM5YAS"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "Lamelodiadelhampa",
+          "url": "https://open.spotify.com/artist/0IcAUt0uzTyDfvKSpW0hrr"
+        },
+        {
+          "name": "Renaglock",
+          "url": "https://open.spotify.com/artist/14SlnqKt21OL7zHU6TGnJB"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Yo la Rescate",
+      "url": "https://open.spotify.com/track/35eYaPXb3b5FZ40wP8qW6K"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Satirolog\u00eda, Vol. 3",
+        "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 227383,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Chica Exclusiva",
+        "url": "https://open.spotify.com/album/541iKoAM76cvRKavbIFMAL"
+      },
+      "artists": [
+        {
+          "name": "Germanini",
+          "url": "https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "duration_ms": 223936,
+      "name": "Chica Exclusiva",
+      "url": "https://open.spotify.com/track/7wVDAJoJ6nd5i4NafVPBPZ"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/1nOfYqhVVSPJVSCJO9FzLU"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Cuentale",
+      "url": "https://open.spotify.com/track/0R6WFm2Zj7FuQ23QHt34jJ"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Bmw",
+        "url": "https://open.spotify.com/album/4mXG7OGLNodiDWftqgoc4s"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "carlitos music",
+          "url": "https://open.spotify.com/artist/7lbz0j8HG98mTjUgeEwS0H"
+        }
+      ],
+      "duration_ms": 169436,
+      "name": "Bmw",
+      "url": "https://open.spotify.com/track/5v4OgFxhCat9uXE75CdfF5"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/7qTtLuxsER5uRlwPvuWhHb"
+      },
+      "artists": [
+        {
+          "name": "Benja Valencia",
+          "url": "https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP"
+        }
+      ],
+      "duration_ms": 145102,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/1AEygvMRexkwBPuJsbzxs2"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5cJq8RkupJXKJxtHfowz9a"
       },
       "artists": [
         {
@@ -1892,184 +1868,52 @@
           "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
         },
         {
-          "name": "La Exce",
-          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+          "name": "Arte Elegante",
+          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
         }
       ],
-      "duration_ms": 226595,
-      "name": "D\u00e9jalo Volar",
-      "url": "https://open.spotify.com/track/6SVFaKGZVXsQ5hcRQdJHoI"
+      "duration_ms": 153048,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/0wfxVhK6hS5ywcSotERiBs"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Ah\u00ed noma",
-        "url": "https://open.spotify.com/album/2IXKl1l7ZALKxxjo4SvVTX"
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
       },
       "artists": [
         {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         },
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
-      "duration_ms": 130360,
-      "name": "Ah\u00ed noma",
-      "url": "https://open.spotify.com/track/6I6Fhu8S71kn7n40TlPT9R"
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Lagunas Mentales",
-        "url": "https://open.spotify.com/album/29OfIlrOCYUfdIRpbJHcNp"
+        "name": "BYONCE",
+        "url": "https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp"
       },
       "artists": [
         {
-          "name": "Jas Marty",
-          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         }
       ],
-      "duration_ms": 136807,
-      "name": "Lagunas Mentales",
-      "url": "https://open.spotify.com/track/2AKUXVAk7f3lHC5qmG77kL"
+      "duration_ms": 139200,
+      "name": "BYONCE",
+      "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "KERE BELLAKEAR",
-        "url": "https://open.spotify.com/album/4Yhg3EQ7cj1bhWtLasl8UX"
-      },
-      "artists": [
-        {
-          "name": "Kramps",
-          "url": "https://open.spotify.com/artist/3PfQ6I9p5qZKQv4WptY9mB"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "KERE BELLAKEAR",
-      "url": "https://open.spotify.com/track/0c1V9KsleQ0idtrex2La1S"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Tres Polvos",
-        "url": "https://open.spotify.com/album/3xgoHpI0MGYZ9NEGaYfke4"
-      },
-      "artists": [
-        {
-          "name": "J Hits",
-          "url": "https://open.spotify.com/artist/6wYgiJbGSjB9WrjDo7A2WW"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 134489,
-      "name": "Tres Polvos",
-      "url": "https://open.spotify.com/track/55q64UntmDvl01QGnTHbdT"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "D\u00f3nde Estar\u00e1",
-        "url": "https://open.spotify.com/album/5JTdL3DmMpIOCt0rBKDOzG"
-      },
-      "artists": [
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "D\u00f3nde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0TiOhaTwBRJEZeln0zfdti"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "milloNES",
-        "url": "https://open.spotify.com/album/269wIlKyRNI5tV0ahfQpqe"
-      },
-      "artists": [
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
-        },
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Ella Es La M\u00eda",
-      "url": "https://open.spotify.com/track/2FlLSE725G8coEIW4hMTKp"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "PA LA DISCO",
-        "url": "https://open.spotify.com/album/5hWIEoo0tSjTwLPJaugGd7"
-      },
-      "artists": [
-        {
-          "name": "Menor",
-          "url": "https://open.spotify.com/artist/4irmOndMUq2Q9w1rJD3gVD"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 182842,
-      "name": "PA LA DISCO",
-      "url": "https://open.spotify.com/track/2M83lvvb4knAyXgyEqhXUl"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "Chandal Prada",
-        "url": "https://open.spotify.com/album/3RW9uj5tTtOShw45hBvFAr"
-      },
-      "artists": [
-        {
-          "name": "BEA PELEA",
-          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 139850,
-      "name": "Chandal Prada",
-      "url": "https://open.spotify.com/track/70Ff5osUyDJbG6SaErDtI6"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
-      "album": {
-        "name": "IM\u00c0N",
-        "url": "https://open.spotify.com/album/7psy2jsESZEG1D0doBtxjZ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        }
-      ],
-      "duration_ms": 132974,
-      "name": "IM\u00c0N",
-      "url": "https://open.spotify.com/track/30SrNtQuG3TPgbRbLZwZ0V"
-    },
-    {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
         "name": "Altura",
         "url": "https://open.spotify.com/album/3UNCTzv3cVaYFfyunciTo8"
@@ -2093,32 +1937,248 @@
       "url": "https://open.spotify.com/track/7I8CB2XXWs9RIWcCM475m0"
     },
     {
-      "added_at": "2026-01-30 03:00:14",
+      "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "LA NAVE",
-        "url": "https://open.spotify.com/album/1D3erwmxT7L5v7yFqqsC9x"
+        "name": "IM\u00c0N",
+        "url": "https://open.spotify.com/album/7psy2jsESZEG1D0doBtxjZ"
       },
       "artists": [
         {
-          "name": "Pa Las Baby Pa La Calle",
-          "url": "https://open.spotify.com/artist/57FUr34l0KCNRtJ4gCwryT"
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "duration_ms": 132974,
+      "name": "IM\u00c0N",
+      "url": "https://open.spotify.com/track/30SrNtQuG3TPgbRbLZwZ0V"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Chandal Prada",
+        "url": "https://open.spotify.com/album/3RW9uj5tTtOShw45hBvFAr"
+      },
+      "artists": [
+        {
+          "name": "BEA PELEA",
+          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
         },
         {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 139850,
+      "name": "Chandal Prada",
+      "url": "https://open.spotify.com/track/70Ff5osUyDJbG6SaErDtI6"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Tres Polvos",
+        "url": "https://open.spotify.com/album/3xgoHpI0MGYZ9NEGaYfke4"
+      },
+      "artists": [
         {
           "name": "J Hits",
           "url": "https://open.spotify.com/artist/6wYgiJbGSjB9WrjDo7A2WW"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
         }
       ],
-      "duration_ms": 175216,
-      "name": "LA NAVE",
-      "url": "https://open.spotify.com/track/3l1CehnqCY0FEI2QIdnvMc"
+      "duration_ms": 134489,
+      "name": "Tres Polvos",
+      "url": "https://open.spotify.com/track/55q64UntmDvl01QGnTHbdT"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "KERE BELLAKEAR",
+        "url": "https://open.spotify.com/album/4Yhg3EQ7cj1bhWtLasl8UX"
+      },
+      "artists": [
+        {
+          "name": "Kramps",
+          "url": "https://open.spotify.com/artist/3PfQ6I9p5qZKQv4WptY9mB"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "KERE BELLAKEAR",
+      "url": "https://open.spotify.com/track/0c1V9KsleQ0idtrex2La1S"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Lagunas Mentales",
+        "url": "https://open.spotify.com/album/29OfIlrOCYUfdIRpbJHcNp"
+      },
+      "artists": [
+        {
+          "name": "Jas Marty",
+          "url": "https://open.spotify.com/artist/5TEGj13rqwwEDuuCCECNWE"
+        }
+      ],
+      "duration_ms": 136807,
+      "name": "Lagunas Mentales",
+      "url": "https://open.spotify.com/track/2AKUXVAk7f3lHC5qmG77kL"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "D\u00e9jalo Volar",
+        "url": "https://open.spotify.com/album/6HAItJpbpyZ5XNUxVm0axT"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "duration_ms": 226595,
+      "name": "D\u00e9jalo Volar",
+      "url": "https://open.spotify.com/track/6SVFaKGZVXsQ5hcRQdJHoI"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Quiero Acariciarte",
+        "url": "https://open.spotify.com/album/1sqcURWVfHYrtgDWjDrFCi"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 171039,
+      "name": "Quiero Acariciarte",
+      "url": "https://open.spotify.com/track/2BASRBUHbisBaVco4szwFz"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Beba",
+        "url": "https://open.spotify.com/album/6dY2qzmegITQ0qa0Nxx8zz"
+      },
+      "artists": [
+        {
+          "name": "Kiddbrevis",
+          "url": "https://open.spotify.com/artist/2uc2B4TbqCMitU3eCBGp5U"
+        }
+      ],
+      "duration_ms": 142942,
+      "name": "Beba",
+      "url": "https://open.spotify.com/track/770aw6BFuQymlFxnsFSEbr"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "arreglo floral",
+        "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 147168,
+      "name": "arreglo floral",
+      "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "de to'",
+        "url": "https://open.spotify.com/album/6KjuMxwW1RNpakmADDsFPF"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        }
+      ],
+      "duration_ms": 191752,
+      "name": "de to'",
+      "url": "https://open.spotify.com/track/5L0TexBudGI26x882Z8kgn"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Veinti4K",
+        "url": "https://open.spotify.com/album/6q7TxlT6l5MW1pCdv5X9Ai"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "duration_ms": 172768,
+      "name": "Veinti4K",
+      "url": "https://open.spotify.com/track/3BHTt0cEXYzahDo7U6jsTD"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "BUENOS VALORES MALOS MODALES",
+        "url": "https://open.spotify.com/album/6tUILrPjOM4zx0TCK8xwwY"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "duration_ms": 160812,
+      "name": "LA FAVORITA",
+      "url": "https://open.spotify.com/track/1RxCl3AaF0HtNiEbpRklpA"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "no somos iguales",
+        "url": "https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 149149,
+      "name": "meteoro",
+      "url": "https://open.spotify.com/track/51B1Ud21Dqhx1l6xgjlnDR"
     }
   ],
   "unique_name": "Reggaet\u00f3n Chileno",

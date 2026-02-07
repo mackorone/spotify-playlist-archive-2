@@ -378,7 +378,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140266,
       "name": "Alyssa Greene",
       "url": "https://open.spotify.com/track/57Bd0IGmgkDMoEMGrAg6bx"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 107852,
       "name": "Crushing Me - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
       "url": "https://open.spotify.com/track/0RNBDMSTGssQIRsWjnANt7"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192521,
       "name": "Fall - from \"Witness Uganda - An American Musical\"",
       "url": "https://open.spotify.com/track/09KncKX0D2yrqAgkNTcQ9g"
@@ -2034,6 +2034,24 @@
       "duration_ms": 244089,
       "name": "If I Ain't Got You (Tank's Version)",
       "url": "https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597"
+    },
+    {
+      "album": {
+        "name": "If I Can't Love Her",
+        "url": "https://open.spotify.com/album/0WdGsS12zJSHjb5KuSnG8u"
+      },
+      "artists": [
+        {
+          "name": "Ramin Karimloo",
+          "url": "https://open.spotify.com/artist/2caaCPRmsp0wFF9utMxeMP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255636,
+      "name": "If I Can't Love Her",
+      "url": "https://open.spotify.com/track/2WZFoYwF9A4PO9lkqSiE5y"
     },
     {
       "album": {
@@ -4777,6 +4795,24 @@
     },
     {
       "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/6WTgu7X04fokQLpO334jVg"
+      },
+      "artists": [
+        {
+          "name": "Michael Ball",
+          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/0J8kyNP5Mve0EaYEVeriIO"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -5046,7 +5082,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 292604,
       "name": "Woman Is - 2022 Sessions",
       "url": "https://open.spotify.com/track/7tLpL9Ja10DDoY7LWGUgO5"

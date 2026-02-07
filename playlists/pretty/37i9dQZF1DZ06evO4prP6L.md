@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,969 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,972 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 12 | [Flying with the King](https://open.spotify.com/track/0Yxgs1oL6uUAIthO962wzm) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Beautiful Noise](https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw) | 3:25 |
 | 13 | [Hat Town \- Remastered 2017](https://open.spotify.com/track/7hj30PZf5FUdjfspqbwrjd) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Hat Town](https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u) | 4:16 |
 | 14 | [Australian Boy \- Remastered 2017](https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:11 |
-| 15 | [Who I Am](https://open.spotify.com/track/6G5tFKEf5pcWwV4frnavIQ) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [Who I Am](https://open.spotify.com/album/2ArOZ03jowNHxbbnmkwc4A) | 3:24 |
-| 16 | [Leave Him in the Longyard \- Remastered 2017](https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:16 |
+| 15 | [Leave Him in the Longyard \- Remastered 2017](https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:16 |
+| 16 | [Who I Am](https://open.spotify.com/track/6G5tFKEf5pcWwV4frnavIQ) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [Who I Am](https://open.spotify.com/album/2ArOZ03jowNHxbbnmkwc4A) | 3:24 |
 | 17 | [Where I Wanna Be](https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Robby X](https://open.spotify.com/artist/3sITW1EBX02neQWVyDV1EA) | [Backroad Nation](https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F) | 3:05 |
 | 18 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 |
 | 19 | [Texas Qld 4385 \- Remastered 2017](https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Electric Rodeo](https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
 | 50 | [Dirt \- Remastered 2017](https://open.spotify.com/track/6OOSAy1vCO08b3m5MjfHxo) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Planet Country](https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW) | 3:20 |
 
-Snapshot ID: `aYKMAAAAAACcmPtqoWvAhXyzw65cB8hx`
+Snapshot ID: `aYPdgAAAAAAFWyxVyB2yuC3pw/hDdCxp`

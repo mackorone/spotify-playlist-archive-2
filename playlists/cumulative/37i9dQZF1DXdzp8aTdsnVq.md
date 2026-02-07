@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
+> Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond
 
-198 songs - 13 hr 51 min
+199 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Estoy Como un Quiquí](https://open.spotify.com/track/3mMEqtvJBjjaeDFefTgUgA) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG) | [Estoy Como un Quiquí](https://open.spotify.com/album/1un0c85dgcDajCPIAD9rwm) | 4:40 | 2023-04-05 | 2023-04-15 |
 | [Fanático](https://open.spotify.com/track/4FYukPeQ6S9IxNaWXS9BRm) | [Cayito Dangond](https://open.spotify.com/artist/2MxGUuafZLk4Hgrlk88wbC), [chide garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [Fanático](https://open.spotify.com/album/71Ve79IkSzUSXtbTWDVSFR) | 3:25 | 2023-04-05 | 2023-06-03 |
 | [Feliz Aniversario](https://open.spotify.com/track/5OTmOskSgLB3ZfH6mBL9gE) | [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Ronal Urbina](https://open.spotify.com/artist/75YwXrUh0D6hDWh5xFpZEK) | [Feliz Aniversario](https://open.spotify.com/album/0fNd8Ovv5AUxan1p6rgs12) | 4:20 | 2022-09-02 | 2022-12-17 |
+| [Ganas De Tenerla](https://open.spotify.com/track/4IiZh49rYj1hJgBZRlCCXQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ganas De Tenerla](https://open.spotify.com/album/76GQ6FedYkpmjjZgM9fsML) | 3:06 | 2026-02-06 |  |
 | [Ganas Locas](https://open.spotify.com/track/5bqpj6yxZ9OZepBkml8QGP) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Ganas Locas](https://open.spotify.com/album/4ajpy9aMHgw26P5E0AYpWf) | 3:55 | 2022-09-02 | 2025-03-08 |
 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 | 2022-09-02 |  |
 | [Imborrable](https://open.spotify.com/track/1X0RfkzkHU9AetJrOpUigO) | [Mono Zabaleta](https://open.spotify.com/artist/2Q6L4B0awar0BWcQOWsAvu), [Daniel Maestre](https://open.spotify.com/artist/3Kyp9mcwSXZmeXPld7I202) | [Imborrable](https://open.spotify.com/album/1Ncdq0jK1D4HVp85ikBBP5) | 4:00 | 2025-04-30 | 2025-05-06 |

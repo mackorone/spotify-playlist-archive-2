@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-571 songs - 1 day 8 hr 8 min
+572 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Contigo](https://open.spotify.com/track/1vIJPZWmytDolCVxXU9SyE) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Contigo](https://open.spotify.com/album/5sd9B32isq2fTuFqoKGr6X) | 3:41 | 2023-06-02 | 2023-06-10 |
 | [Contigo Me Gusta](https://open.spotify.com/track/3mxpUjy8KSwr3vytfwQUze) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Contigo Me Gusta](https://open.spotify.com/album/4GdKJYanzi1SUXgGZxOULs) | 2:11 | 2024-10-18 | 2024-10-26 |
 | [Corazon Destrozado](https://open.spotify.com/track/68h0m0tEi2xhR4fBFN7vtH) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Corazon Destrozado](https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr) | 3:16 | 2022-01-21 | 2022-07-05 |
+| [Corazón](https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL) | [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Corazón](https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG) | 2:53 | 2025-11-21 |  |
 | [Corazón Blindado](https://open.spotify.com/track/4of1mv2a6W8NO39ihoCcUW) | [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Corazón Blindado](https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 | 2024-09-27 |  |
 | [Corazón Mágico](https://open.spotify.com/track/3D7rbDpHX6xbvYxKs3vzBw) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Corazón Mágico](https://open.spotify.com/album/15Kdx8AF6fkQp6o94Vsbvv) | 2:51 | 2024-10-11 | 2024-12-21 |
@@ -356,7 +357,7 @@
 | [No Te Creas Tan Importante](https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [No Te Creas Tan Importante](https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj) | 3:46 | 2024-10-18 | 2024-10-26 |
 | [No Te Olvidare](https://open.spotify.com/track/446WLzUW7xxRSeRuWYAudn) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [No Te Olvidare](https://open.spotify.com/album/0KJYWPNO23a2BuBUR9lOD9) | 3:01 | 2022-03-11 | 2022-06-07 |
 | [No Te Voy a Perdonar](https://open.spotify.com/track/0QyGJpwW61fesHxFFv2zBr) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [No Te Voy a Perdonar](https://open.spotify.com/album/4Qnm2AoEO534SATuTqElux) | 2:46 | 2023-06-30 | 2024-05-03 |
-| [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 | 2024-05-03 |  |
+| [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 | 2024-05-03 | 2026-02-07 |
 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2022-01-14 | 2023-03-12 |
 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2023-03-10 | 2024-04-19 |
 | [Nunca volveras](https://open.spotify.com/track/1OIWkgEPj4QiZykulYMSYD) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:50 | 2022-02-04 | 2022-07-22 |

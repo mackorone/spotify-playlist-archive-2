@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits  🎶 Cover: HAVI
+> Apne mulk ki homegrown hits 🎶 Cover: HAVI
 
 285 songs - 19 hr 14 min
 

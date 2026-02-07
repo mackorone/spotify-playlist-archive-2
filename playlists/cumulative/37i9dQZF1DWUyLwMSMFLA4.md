@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-356 songs - 20 hr 41 min
+357 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2023-05-05 |  |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2025-06-27 | 2025-10-25 |
 | [Darte Un Beso](https://open.spotify.com/track/2wYBn7U28mMYaW6VGXCagH) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Darte Un Beso](https://open.spotify.com/album/44VJAIvfoh1CV4vVMujqmI) | 2:58 | 2024-08-16 | 2025-04-12 |
+| [De Ahora En Más](https://open.spotify.com/track/0Uf1l3jEA8Cpudla9wTnDj) | [Pone La Premier](https://open.spotify.com/artist/7qv20bMXHsjob4r3uxV6PB), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [De Ahora En Más](https://open.spotify.com/album/4NNns3geVfYRgO4x7F2VYm) | 3:36 | 2026-02-06 |  |
 | [De Regreso al Penal](https://open.spotify.com/track/4pc9OASQNxBkBrC521AeNE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S) | 4:03 | 2025-07-04 | 2025-09-02 |
 | [Deja de Llorar](https://open.spotify.com/track/5wFoT4T2XT4bGnDDP8s61K) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Deja de Llorar](https://open.spotify.com/album/454hfJ2elt2NW7PkPwu44U) | 3:27 | 2025-06-27 | 2025-10-25 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-05-05 |  |
@@ -91,7 +92,7 @@
 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 | 2024-05-24 | 2025-06-28 |
 | [El Marginal](https://open.spotify.com/track/1mfzK8pSUvMHgj7MWAAqEv) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [El Marginal](https://open.spotify.com/album/4Nvo6ic0h2uYm5X9RQoqgu) | 3:27 | 2025-06-27 | 2025-07-05 |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2023-05-05 |  |
-| [El Precio de Tu Engaño](https://open.spotify.com/track/2CtlBOoT43DM4CzsfvyyLc) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [0385 \(STGO\)](https://open.spotify.com/album/1s0NDo4qRLwqcnigsFF9Ux) | 4:37 | 2023-09-26 |  |
+| [El Precio de Tu Engaño](https://open.spotify.com/track/2CtlBOoT43DM4CzsfvyyLc) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [0385 \(STGO\)](https://open.spotify.com/album/1s0NDo4qRLwqcnigsFF9Ux) | 4:37 | 2023-09-26 | 2026-02-07 |
 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 | 2025-06-10 |  |
 | [El Telefono](https://open.spotify.com/track/1fAwaxPzUBxeX7rbdlm2Zr) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [El Teléfono](https://open.spotify.com/album/7zlhllBlDW5aQEbBACgRtu) | 2:26 | 2025-06-27 | 2025-07-05 |
 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 | 2025-06-10 | 2025-10-25 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8cSyKaPiCGQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8cSyKaPiCGQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8cSyKaPiCGQ)
 
-### [Spicy Cowboy Romance](https://open.spotify.com/playlist/37i9dQZF1DX8cSyKaPiCGQ)
+### [Cowboy Romance](https://open.spotify.com/playlist/37i9dQZF1DX8cSyKaPiCGQ)
 
 > 
 

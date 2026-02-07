@@ -1,13 +1,45 @@
 {
   "description": "The home of Canadian country music. Cover: Josh Ross",
-  "num_followers": 83627,
+  "num_followers": 83631,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvP3+XZGzhytAy0Ri/ZSon95Do2",
+  "snapshot_id": "AAAAABBvlPdPfTi4KbdvfztK3kF6/Rck",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Choked Up",
+        "url": "https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps"
+      },
+      "artists": [
+        {
+          "name": "Carson Janik",
+          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+        }
+      ],
+      "duration_ms": 185283,
+      "name": "Choked Up",
+      "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "duration_ms": 188296,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb"
+    },
     {
       "added_at": "2026-01-30 10:00:36",
       "album": {
@@ -23,6 +55,102 @@
       "duration_ms": 194744,
       "name": "Bar And Back",
       "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "SHE'S SO SWEET",
+        "url": "https://open.spotify.com/album/0qIyfB9B1cLpjKhnDtPmuC"
+      },
+      "artists": [
+        {
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+        }
+      ],
+      "duration_ms": 173690,
+      "name": "SHE'S SO SWEET",
+      "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Lonely For You",
+        "url": "https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "Lonely For You",
+      "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Thought About You",
+        "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        }
+      ],
+      "duration_ms": 204922,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
+    },
+    {
+      "added_at": "2026-01-23 05:01:13",
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 180102,
+      "name": "Paradise & Hurricanes",
+      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
+    },
+    {
+      "added_at": "2026-02-06 05:01:26",
+      "album": {
+        "name": "Foraine",
+        "url": "https://open.spotify.com/album/1CqNbhG9hvthcQ5bw3UQG7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Foraine",
+      "url": "https://open.spotify.com/track/1tBoPHs23Y9lYSpikSj3dq"
+    },
+    {
+      "added_at": "2026-01-09 05:01:23",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 211991,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
     },
     {
       "added_at": "2026-01-30 10:00:36",
@@ -41,22 +169,6 @@
       "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
     },
     {
-      "added_at": "2026-01-30 10:00:36",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/28hp5P612w60qm0xso66nO"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 180352,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/4Q2qcWDlvVnnxkGevD7n2H"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Cowboy Crazy",
@@ -71,22 +183,6 @@
       "duration_ms": 183813,
       "name": "Cowboy Crazy",
       "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
-    },
-    {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "Thought About You",
-        "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
-      },
-      "artists": [
-        {
-          "name": "Nate Haller",
-          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
-        }
-      ],
-      "duration_ms": 204922,
-      "name": "Thought About You",
-      "url": "https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD"
     },
     {
       "added_at": "2026-01-30 10:00:36",
@@ -109,20 +205,20 @@
       "url": "https://open.spotify.com/track/634Cq5adWVq0fLbyurn4E4"
     },
     {
-      "added_at": "2026-01-23 05:01:13",
+      "added_at": "2026-01-16 05:01:18",
       "album": {
-        "name": "Paradise & Hurricanes",
-        "url": "https://open.spotify.com/album/4lQm9HsGgLRuqNHiZavkj8"
+        "name": "I Don't Shine",
+        "url": "https://open.spotify.com/album/7xBSkVO3JfVGDatf8oimDy"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
         }
       ],
-      "duration_ms": 180102,
-      "name": "Paradise & Hurricanes",
-      "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
+      "duration_ms": 188313,
+      "name": "I Don't Shine",
+      "url": "https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2"
     },
     {
       "added_at": "2026-01-23 05:01:13",
@@ -139,6 +235,22 @@
       "duration_ms": 189102,
       "name": "When We Die",
       "url": "https://open.spotify.com/track/56NwNT9HF8iUCbFAUMe8T2"
+    },
+    {
+      "added_at": "2026-01-30 10:00:36",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/28hp5P612w60qm0xso66nO"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 180352,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/4Q2qcWDlvVnnxkGevD7n2H"
     },
     {
       "added_at": "2026-01-16 05:01:18",
@@ -173,22 +285,6 @@
       "url": "https://open.spotify.com/track/6e9QzC16F6Lq2dXtpbf5ml"
     },
     {
-      "added_at": "2026-01-09 05:01:23",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 211991,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Quittin' You",
@@ -219,22 +315,6 @@
       "duration_ms": 232718,
       "name": "Safe Place To Break",
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
-    },
-    {
-      "added_at": "2026-01-16 05:01:18",
-      "album": {
-        "name": "I Don't Shine",
-        "url": "https://open.spotify.com/album/7xBSkVO3JfVGDatf8oimDy"
-      },
-      "artists": [
-        {
-          "name": "Antonio Larosa",
-          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
-        }
-      ],
-      "duration_ms": 188313,
-      "name": "I Don't Shine",
-      "url": "https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2"
     },
     {
       "added_at": "2026-01-23 05:01:13",
@@ -307,22 +387,6 @@
     {
       "added_at": "2026-01-16 05:01:18",
       "album": {
-        "name": "Veranda",
-        "url": "https://open.spotify.com/album/7wSjVv9yL9i0zawF72j9Qe"
-      },
-      "artists": [
-        {
-          "name": "Veranda",
-          "url": "https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M"
-        }
-      ],
-      "duration_ms": 196472,
-      "name": "Si demain",
-      "url": "https://open.spotify.com/track/7uYXdlu7yyD3nQ1xnObsah"
-    },
-    {
-      "added_at": "2026-01-16 05:01:18",
-      "album": {
         "name": "Strangers Don't",
         "url": "https://open.spotify.com/album/3W9cAiV2dBJ1zxLi7vkChY"
       },
@@ -369,6 +433,22 @@
       "url": "https://open.spotify.com/track/5wGPCeEUzGXYWJ1RlNVRZD"
     },
     {
+      "added_at": "2025-10-24 04:25:20",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
+    },
+    {
       "added_at": "2026-01-16 05:01:18",
       "album": {
         "name": "She Stole My Truck",
@@ -383,6 +463,22 @@
       "duration_ms": 172295,
       "name": "She Stole My Truck",
       "url": "https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL"
+    },
+    {
+      "added_at": "2026-01-09 05:01:23",
+      "album": {
+        "name": "When Do We Stop Talking",
+        "url": "https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "duration_ms": 186959,
+      "name": "When Do We Stop Talking",
+      "url": "https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV"
     },
     {
       "added_at": "2026-01-09 05:01:23",
@@ -433,20 +529,20 @@
       "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
     },
     {
-      "added_at": "2026-01-09 05:01:23",
+      "added_at": "2026-01-16 05:01:18",
       "album": {
-        "name": "When Do We Stop Talking",
-        "url": "https://open.spotify.com/album/0Aw1GSjpqOgct55qda6dNH"
+        "name": "Veranda",
+        "url": "https://open.spotify.com/album/7wSjVv9yL9i0zawF72j9Qe"
       },
       "artists": [
         {
-          "name": "Parker Graye",
-          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+          "name": "Veranda",
+          "url": "https://open.spotify.com/artist/2uVYPi9uHm3LCyamNqiz1M"
         }
       ],
-      "duration_ms": 186959,
-      "name": "When Do We Stop Talking",
-      "url": "https://open.spotify.com/track/2dlTZcFwslAbXKufGp3zXV"
+      "duration_ms": 196472,
+      "name": "Si demain",
+      "url": "https://open.spotify.com/track/7uYXdlu7yyD3nQ1xnObsah"
     },
     {
       "added_at": "2026-01-09 05:01:23",
@@ -499,22 +595,6 @@
       "duration_ms": 190480,
       "name": "Farmer",
       "url": "https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV"
-    },
-    {
-      "added_at": "2025-10-24 04:25:20",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6xyq20lV14UZxDcqBrl464"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/7ABu9tAiv5hMGiyJgOqe8I"
     },
     {
       "added_at": "2026-01-09 05:01:23",
@@ -599,22 +679,6 @@
       "duration_ms": 173388,
       "name": "Must Be Listening",
       "url": "https://open.spotify.com/track/4Q7460eF0zC7PZN2voDMvy"
-    },
-    {
-      "added_at": "2025-11-28 05:01:04",
-      "album": {
-        "name": "Crumble",
-        "url": "https://open.spotify.com/album/5mblQYNXeC9Ob7bYSgNNh7"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
     },
     {
       "added_at": "2025-11-14 12:09:53",
@@ -735,6 +799,22 @@
       "duration_ms": 289803,
       "name": "Find My Bones",
       "url": "https://open.spotify.com/track/5yCrBKZUjHzPhux3HxZ74s"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Cross Your Mind",
+        "url": "https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ryan",
+          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
+        }
+      ],
+      "duration_ms": 179438,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh"
     },
     {
       "added_at": "2025-11-14 12:09:53",
@@ -953,22 +1033,6 @@
       "url": "https://open.spotify.com/track/3HidZA7UD6dsFkXipUyntd"
     },
     {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Cross Your Mind",
-        "url": "https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ryan",
-          "url": "https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK"
-        }
-      ],
-      "duration_ms": 179438,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/1TrQ7icC0ep5h1QqRx0nyh"
-    },
-    {
       "added_at": "2025-10-31 00:01:28",
       "album": {
         "name": "Sometimes It Don't",
@@ -1001,20 +1065,20 @@
       "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
-      "added_at": "2025-11-21 05:02:28",
+      "added_at": "2025-10-10 00:01:13",
       "album": {
-        "name": "the only one",
-        "url": "https://open.spotify.com/album/5YrdkUAvuxMATLXx4E14yJ"
+        "name": "Life's Waiting On Me",
+        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
       },
       "artists": [
         {
-          "name": "Adrian Mitchell",
-          "url": "https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y"
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
         }
       ],
-      "duration_ms": 157586,
-      "name": "the only one",
-      "url": "https://open.spotify.com/track/7ehTjU5A752Gff7YuRZ69r"
+      "duration_ms": 189224,
+      "name": "Life's Waiting On Me",
+      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
     },
     {
       "added_at": "2025-11-14 12:09:53",
@@ -1151,6 +1215,22 @@
       "duration_ms": 193621,
       "name": "RENT FREE",
       "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Oh to Be Young",
+        "url": "https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
+        }
+      ],
+      "duration_ms": 190208,
+      "name": "Oh to Be Young",
+      "url": "https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT"
     },
     {
       "added_at": "2025-11-07 00:01:45",
@@ -1481,22 +1561,6 @@
       "url": "https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb"
     },
     {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Life's Waiting On Me",
-        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
-      },
-      "artists": [
-        {
-          "name": "Brittany Kennell",
-          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
-        }
-      ],
-      "duration_ms": 189224,
-      "name": "Life's Waiting On Me",
-      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
-    },
-    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Everybody Loves My Little Darling",
@@ -1527,58 +1591,6 @@
       "duration_ms": 204985,
       "name": "Background Noise",
       "url": "https://open.spotify.com/track/7qq5kTdIWO25k1ZhRUKqwY"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Control Me",
-        "url": "https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy"
-      },
-      "artists": [
-        {
-          "name": "TANAEYA",
-          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
-        }
-      ],
-      "duration_ms": 191227,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "All Kinds of Country",
-        "url": "https://open.spotify.com/album/6zKoItMQrDhbqjN5FqG0aj"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        },
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        }
-      ],
-      "duration_ms": 145869,
-      "name": "All Kinds of Country",
-      "url": "https://open.spotify.com/track/51qhktrdUqMlGd16YNps7I"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Oh to Be Young",
-        "url": "https://open.spotify.com/album/1xWpOO7XFM0JblWC8RtsCP"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
-        }
-      ],
-      "duration_ms": 190208,
-      "name": "Oh to Be Young",
-      "url": "https://open.spotify.com/track/4W8uc8C5xJvSaP3uM1UYNT"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1615,22 +1627,6 @@
       "duration_ms": 165797,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/17X7LnnLPlLYcqkUzxozjp"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Thief",
-        "url": "https://open.spotify.com/album/4HmzrdHG1BUShS9cUgSDgG"
-      },
-      "artists": [
-        {
-          "name": "Bree Taylor",
-          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
-        }
-      ],
-      "duration_ms": 201585,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/7tOxqHzZIUK0Ob1QtXIulA"
     },
     {
       "added_at": "2025-10-06 15:31:33",

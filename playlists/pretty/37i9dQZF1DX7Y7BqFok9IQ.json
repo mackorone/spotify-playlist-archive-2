@@ -1,13 +1,45 @@
 {
   "description": "The best of modern blues rock. Cover: Robert Randolph",
-  "num_followers": 257942,
+  "num_followers": 257984,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEl03T2sPsi6U09wt4mLcKJzR/HI",
+  "snapshot_id": "AAAAAABL7p6K3qv1CLsPPcYQ4dM+YpKJ",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:25",
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+    },
+    {
+      "added_at": "2026-02-06 05:00:25",
+      "album": {
+        "name": "Deeper You Dig",
+        "url": "https://open.spotify.com/album/7JglLOummYjaW25xghkaOJ"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "Deeper You Dig",
+      "url": "https://open.spotify.com/track/6KLxIfgjQrPdChwd0d3WDF"
+    },
     {
       "added_at": "2025-06-27 04:00:26",
       "album": {
@@ -39,22 +71,6 @@
       "duration_ms": 165248,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/0MMBjSzV3ZqCWLEuJdVqvK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:30",
-      "album": {
-        "name": "Nowhere to Go",
-        "url": "https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 196827,
-      "name": "Nowhere to Go",
-      "url": "https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW"
     },
     {
       "added_at": "2025-12-12 05:00:30",
@@ -987,22 +1003,6 @@
       "duration_ms": 203000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
-        "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 257532,
-      "name": "No Lovin\u2019",
-      "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
     },
     {
       "added_at": "2021-09-03 04:01:00",

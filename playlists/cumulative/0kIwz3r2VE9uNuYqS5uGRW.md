@@ -4,7 +4,7 @@
 
 > 
 
-147 songs - 7 hr 39 min
+150 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [classic](https://open.spotify.com/track/02PTfaYBAzhskrltCoQKPN) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 3:07 | 2026-01-18 |  |
 | [CLOWN SH!T](https://open.spotify.com/track/5cJvmKkG9T2zDDYdpSoQq9) | [JAY DA LEGEND](https://open.spotify.com/artist/2Y4q60ShSZU925Xr6kY0Kf) | [CLOWN SH!T](https://open.spotify.com/album/79OjlrUvPkV5NvdUmSpD1p) | 2:53 | 2025-11-03 |  |
 | [Codependent](https://open.spotify.com/track/05917ao89O61nldOfgehAR) | [Jo Anna Van Thuyne](https://open.spotify.com/artist/6l2mMcQpYvxwUGJuPtUXbk) | [Codependent](https://open.spotify.com/album/6LnEjyTnyrc8n6M0mmChOD) | 4:18 | 2025-07-06 |  |
+| [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 | 2026-02-06 |  |
 | [Comin'](https://open.spotify.com/track/1sMc22zOorFtyglxQm1MBn) | [21Gatz](https://open.spotify.com/artist/0r0zw7gjmVZamJs9uY72Eb) | [Comin'](https://open.spotify.com/album/3NoLzPNXKprTlGRMDUlvHP) | 3:14 | 2025-04-10 |  |
 | [Como De La Rose](https://open.spotify.com/track/7iiP6jVAweqnI1ldaeSgNS) | [Adam Oyola](https://open.spotify.com/artist/24VmBb43LrEmkEwg3h3sT2) | [Como De La Rose](https://open.spotify.com/album/7iKUccDnDpYjQKdvdIHhYO) | 2:35 | 2025-09-08 |  |
 | [Comozuna](https://open.spotify.com/track/7vRnDHhrIddkQT96Nlda0t) | [Cesar Mar](https://open.spotify.com/artist/5x2wtFnzOEdrM1fH8UomaP), [RubzzZ](https://open.spotify.com/artist/6ALeydrfOfyJcwoRL75Evg) | [Comozuna](https://open.spotify.com/album/7csdKgaN0n4DVZO7TONXX9) | 2:51 | 2025-07-27 |  |
@@ -76,6 +77,7 @@
 | [INFIELES](https://open.spotify.com/track/4t4zAOM15bYaNXESRnKAs4) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [INFIELES](https://open.spotify.com/album/0qkpwj0NB9u4GQu07pRPi2) | 3:21 | 2025-08-19 |  |
 | [Instagram Stories](https://open.spotify.com/track/0MnJb4nl8EWezKG1htOAQb) | [Jo Anna Van Thuyne](https://open.spotify.com/artist/6l2mMcQpYvxwUGJuPtUXbk) | [Instagram Stories](https://open.spotify.com/album/1KUuEigtCbEDAd7adSBYMF) | 3:04 | 2025-07-06 |  |
 | [IRS](https://open.spotify.com/track/3IC6BEliAIbqt6cv9yzxWD) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [IRS](https://open.spotify.com/album/3JYd80QtqjS7fw0nZrXBHs) | 4:01 | 2026-01-07 |  |
+| [jack of all trades](https://open.spotify.com/track/2NiFKEDeAhGeJdbjtQVQH6) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC), [music ZerO](https://open.spotify.com/artist/6YRV4XG1UsZxRsaC194vAY) | [jack of all trades](https://open.spotify.com/album/5R9GLxQ237gIqXUZRXzyzz) | 2:37 | 2026-02-06 |  |
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
@@ -130,6 +132,7 @@
 | [Stay Out Of The Basement](https://open.spotify.com/track/6QvxKCNitDSTfYR2wOWJOR) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [Stay Out Of The Basement](https://open.spotify.com/album/1O9lrL87I7MP6pEwibbAVj) | 2:59 | 2025-08-19 |  |
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-03 |  |
 | [Streets](https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:56 | 2025-03-12 |  |
+| [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 | 2026-02-06 |  |
 | [Switch Up](https://open.spotify.com/track/5Aqeo1MvtayIqoanDfFOAQ) | [Tonez](https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P) | [Switch Up](https://open.spotify.com/album/5L94iYncA1of7RQSXO6brj) | 3:16 | 2025-06-30 |  |
 | [System](https://open.spotify.com/track/3ZheEm7LyyHT14Dw9RZxPH) | [Lucío](https://open.spotify.com/artist/1ekLFJV2uRyWkP1j5BIAGu) | [System](https://open.spotify.com/album/0siaSZy3DK0G7Oy19ze8rC) | 3:28 | 2026-01-06 |  |
 | [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |

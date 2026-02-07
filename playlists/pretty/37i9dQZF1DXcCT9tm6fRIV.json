@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 246591,
+  "num_followers": 246585,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
+        "name": "Bien de Arriba",
+        "url": "https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw"
+      },
+      "artists": [
+        {
+          "name": "Nestor Marconi Trio",
+          "url": "https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus"
+        },
+        {
+          "name": "Jorge \"Portugues\" Da Silva",
+          "url": "https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj"
+        }
+      ],
+      "duration_ms": 339213,
+      "name": "Loca bohemia",
+      "url": "https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
         "name": "El Mundo De La Fantas\u00eda",
         "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 231520,
       "name": "La Bicicleta Blanca",
       "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "Bien de Arriba",
-        "url": "https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw"
-      },
-      "artists": [
-        {
-          "name": "Nestor Marconi Trio",
-          "url": "https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus"
-        },
-        {
-          "name": "Jorge \"Portugues\" Da Silva",
-          "url": "https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj"
-        }
-      ],
-      "duration_ms": 339213,
-      "name": "Loca bohemia",
-      "url": "https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq"
     },
     {
       "added_at": "2025-12-05 15:53:48",

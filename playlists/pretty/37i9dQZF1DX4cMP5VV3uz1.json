@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166020,
+  "num_followers": 166031,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7"
+      },
+      "artists": [
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "move ting",
         "url": "https://open.spotify.com/album/19QzUNqmaVUAokyW4TZ0dV"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 174186,
       "name": "move ting",
       "url": "https://open.spotify.com/track/035MWW56Wl7Wqzc0zk7HzR"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7"
-      },
-      "artists": [
-        {
-          "name": "Born On Road",
-          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
-        },
-        {
-          "name": "Brodie",
-          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Feel The Pulse",
-        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 200028,
-      "name": "Feel The Pulse",
-      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Stab Parade",
         "url": "https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3"
       },
@@ -899,6 +883,58 @@
       "duration_ms": 165900,
       "name": "Stab Parade",
       "url": "https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Feel The Pulse",
+        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "Feel The Pulse",
+      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Different Style",
+        "url": "https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve"
+      },
+      "artists": [
+        {
+          "name": "SKALA",
+          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 158069,
+      "name": "Different Style",
+      "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -935,42 +971,6 @@
       "duration_ms": 216214,
       "name": "Count That",
       "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Different Style",
-        "url": "https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve"
-      },
-      "artists": [
-        {
-          "name": "SKALA",
-          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Different Style",
-      "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Back 2 Back",
-        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Simulation",
-        "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
-      },
-      "artists": [
-        {
-          "name": "T95",
-          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Simulation",
-      "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1327,6 +1307,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Simulation",
+        "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
+      },
+      "artists": [
+        {
+          "name": "T95",
+          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Simulation",
+      "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 198857,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Yard Shop",
+        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Lady Ice",
+          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Yard Shop",
+      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1363,26 +1383,6 @@
       "duration_ms": 182068,
       "name": "TEK (feat.Killa P)",
       "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Yard Shop",
-        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Yard Shop",
-      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Bad Like We",
-        "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        },
-        {
-          "name": "Killa Benz",
-          "url": "https://open.spotify.com/artist/4Ddv3wbXyjkQRuflGXy7xM"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Bad Like We",
-      "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "On Your Feet",
         "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 279069,
       "name": "On Your Feet",
       "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Bad Like We",
+        "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        {
+          "name": "Killa Benz",
+          "url": "https://open.spotify.com/artist/4Ddv3wbXyjkQRuflGXy7xM"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Bad Like We",
+      "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Foreshadow / Third Kit",
         "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 224914,
       "name": "Foreshadow",
       "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1803,18 +1819,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx"
+        "name": "The Samurai",
+        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
       },
       "artists": [
         {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
         }
       ],
-      "duration_ms": 191724,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu"
+      "duration_ms": 231586,
+      "name": "The Samurai",
+      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1839,42 +1859,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "The Samurai",
-        "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        },
-        {
-          "name": "Purple Velvet Curtains",
-          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "The Samurai",
-      "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Romance EP",
-        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Mudcrab",
-      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "RUDEBOI",
         "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 204342,
       "name": "RUDEBOI",
       "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
     },
     {
       "added_at": "2026-02-06 00:00:07",

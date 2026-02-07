@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-775 songs - 1 day 12 hr 59 min
+776 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,7 +651,7 @@
 | [SHUTDOWN](https://open.spotify.com/track/34gGYbEJ8CxAZ4oy4t3FwE) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [GRAVITY](https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ) | 1:47 | 2025-07-10 | 2025-07-29 |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-20 | 2025-01-24 |
 | [Silicone](https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/7o8vQPQ3JQVz3g2hjvmC2u) | 3:26 | 2023-06-30 | 2024-04-19 |
-| [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 | 2025-11-14 |  |
+| [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 | 2025-11-14 | 2026-02-07 |
 | [Sira Sira](https://open.spotify.com/track/2FXdd5VFHwUvGrFTDY1sID) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:39 | 2023-07-11 | 2023-10-21 |
 | [Sirphire](https://open.spotify.com/track/2Nn5nBwVzEJuXS1GfgjDRC) | [Jot Ladhar](https://open.spotify.com/artist/6uB5Rk4rcsvBH3XFjeoBDR), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Sirphire](https://open.spotify.com/album/6nmn5fSpj5fPFHfpeMkylv) | 2:53 | 2025-07-14 | 2025-08-05 |
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-03-29 | 2024-08-27 |
@@ -762,6 +762,7 @@
 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-17 | 2023-10-24 |
 | [Whatcha Doin'](https://open.spotify.com/track/4qQnXwD4XtiWq4PfjQoTbo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:17 | 2023-10-26 | 2023-11-17 |
 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 | 2023-10-06 | 2025-04-18 |
+| [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 | 2026-02-06 |  |
 | [Whip](https://open.spotify.com/track/7J3etpiNIaZvwvuRC9A74B) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Whip](https://open.spotify.com/album/6GaaBurWUFqaEGBqm3ph6h) | 2:57 | 2025-11-03 | 2025-12-05 |
 | [WHIPZ](https://open.spotify.com/track/6iXe41VKKp4qhUHkck3PLn) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [WHIPZ](https://open.spotify.com/album/5wHzhNd4mvCJDLElJ4863a) | 2:15 | 2023-06-23 | 2024-08-13 |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2023-06-19 | 2024-03-05 |

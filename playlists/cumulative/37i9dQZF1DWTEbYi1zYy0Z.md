@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-527 songs - 1 day 13 hr 17 min
+528 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 | 2025-11-08 |
 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 | 2023-02-24 | 2023-08-26 |
 | [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 | 2025-07-05 |
-| [Let's Talk](https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Let's Talk](https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE) | 4:08 | 2025-01-10 |  |
+| [Let's Talk](https://open.spotify.com/track/2FIlTiEB1evMojZoQICzkP) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Let's Talk](https://open.spotify.com/album/2fsA3q4Cdx3wfpEVmruBrE) | 4:08 | 2025-01-10 | 2026-02-07 |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2020-10-30 | 2022-03-18 |
 | [Let’s Take A Ride](https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:14 | 2023-05-12 | 2024-04-19 |
 | [Levante](https://open.spotify.com/track/0cAJLGx79bybrE8ix7hOpC) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Levante](https://open.spotify.com/album/3es4r2kxay6xjDFi20KRMG) | 4:33 | 2024-06-07 |  |
@@ -297,6 +297,7 @@
 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 | 2023-11-10 |  |
 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 | 2023-07-21 | 2024-03-23 |
 | [Magnetic](https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Magnetic](https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc) | 4:03 | 2021-04-23 | 2022-03-15 |
+| [Make It Happen \- Radio Edit](https://open.spotify.com/track/0eiZgUgyPywLSOVITCpgMk) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Make It Happen \(Radio Edit\)](https://open.spotify.com/album/047GAcv3m7UVTKnsdLRO02) | 3:41 | 2026-02-06 |  |
 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 | 2023-10-20 |  |
 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 | 2022-06-17 | 2023-04-29 |
 | [Making Love To You](https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ), [Andrea Razzauti](https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1) | [Making Love To You](https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7) | 4:45 | 2022-07-01 | 2024-01-27 |

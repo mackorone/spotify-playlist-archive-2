@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 3 min
+78 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-02-01 |  |
 | [América Vibra](https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Yalitza Aparicio](https://open.spotify.com/artist/3Spa8nHPVqwproM33tHfE8) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 4:21 | 2024-02-01 |  |
 | [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2024-02-01 |  |
-| [Black Cat](https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 2:41 | 2024-02-01 |  |
+| [Black Cat](https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 2:41 | 2024-02-01 | 2026-02-07 |
 | [Butterflies](https://open.spotify.com/track/4AK6gKiw1nnJDEyAQYRR7j) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf) | 3:39 | 2024-02-01 | 2024-05-21 |
 | [Circle of Peace](https://open.spotify.com/track/4pzVIJSMJC3Aji2rjpyzuT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:21 | 2024-02-01 | 2025-01-31 |
 | [Circle Of Peace](https://open.spotify.com/track/6xqnSKk0vyzp8KhkeKj9oG) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:21 | 2025-01-11 |  |
@@ -45,6 +45,7 @@
 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 | 2024-02-01 |  |
 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 | 2024-02-01 |  |
 | [Make Some Music](https://open.spotify.com/track/6hI7r4AXANVQU8cGe1HOnq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 4:14 | 2025-11-30 | 2025-12-16 |
+| [Many Mourn For Bob \- Brightside \- New Vinyl Album out 4/18 on Record Store Day](https://open.spotify.com/track/5WwmgkK6N4NY5CSGKk93Po) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/0Dq4skfj3ndef7urknPx48) | 3:52 | 2026-02-07 |  |
 | [Melancholy Mood](https://open.spotify.com/track/7nY59uK9jauHVfeppS65Ho) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:30 | 2024-09-17 | 2024-09-25 |
 | [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 | 2024-03-09 |  |
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 | 2024-03-10 |

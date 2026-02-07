@@ -4,10 +4,11 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-242 songs - 13 hr 48 min
+242 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 0:00 | 2026-01-30 |  |
 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 | 2024-03-29 |  |
 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 | 2022-08-18 | 2024-04-19 |
 | [10 Razones para Amarte](https://open.spotify.com/track/7BJ9MUFtFAVs7hC0xkCemM) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Vallenatos de Oro, Vol\. 35](https://open.spotify.com/album/09Q1sDpTG4dz9fOadnkLkg) | 5:15 | 2022-10-14 | 2022-11-14 |
@@ -224,7 +225,6 @@
 | [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 | 2024-06-14 |  |
 | [Tequila Con Cerveza](https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Tequila Con Cerveza](https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg) | 2:23 | 2024-11-29 | 2025-03-22 |
 | [TQM](https://open.spotify.com/track/4zzq1AGYtBKQusGF2RJRot) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [TQM](https://open.spotify.com/album/4pwaSmWEjeC59CQnOIW1dv) | 2:46 | 2022-12-19 | 2023-02-04 |
-| [triston](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 3:36 | 2026-01-30 |  |
 | [Tu \- En Vivo](https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 4:06 | 2023-08-04 | 2024-04-19 |
 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 | 2022-08-18 | 2023-08-09 |
 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 | 2025-08-22 |  |

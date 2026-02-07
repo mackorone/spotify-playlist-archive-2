@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-369 songs - 1 day 0 hr 26 min
+371 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [I Wanna Get Better](https://open.spotify.com/track/4WPcZxkaJJxAZcbuIVWbhK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Happiness Forever](https://open.spotify.com/album/0jVGdTKQ0pValbbtxv5h5O) | 3:24 | 2023-10-16 | 2024-05-24 |
 | [I Wrote You A Song \(with Lainey Wilson\)](https://open.spotify.com/track/4NfzPsD8owLf1tdIDbLb7c) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/2eWMDbh3Igz3si1aX4a7Wv) | 3:25 | 2025-10-24 |  |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 |  |
+| [I'm Black And I'm Proud \- Say It Loud](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 | 2026-02-06 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/5zZfzpC2QrGfnWuDBMsZTq) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas in the City](https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s) | 2:27 | 2025-10-24 |  |
 | [I've Just Seen A Face \(Take 3\)](https://open.spotify.com/track/1pALw3PPekVbFBpsFPQPGk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [I've Just Seen A Face \(Take 3\)](https://open.spotify.com/album/5WgaJBVMBn5oXoE9th8iTv) | 2:26 | 2025-10-24 |  |
 | [If You Love Somebody Set Them Free \- Dance Mix](https://open.spotify.com/track/6ncimfAitdQLlbzhi9oR5J) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Dream Of The Blue Turtles \(Expanded Edition\)](https://open.spotify.com/album/6pXvubRAkSW8G3LUhFdxqn) | 7:58 | 2025-07-11 |  |
@@ -240,6 +241,7 @@
 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 | 2023-10-16 | 2024-05-24 |
 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/6c8CdiWueTEQAXCPhcR6mq) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Pretty Little Baby \(International Versions\)](https://open.spotify.com/album/2DKvJzWgA3I5Np9872Iozh) | 2:22 | 2025-05-23 |  |
 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/5iSEsR6NKjlC9SrIJkyL3k) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day](https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0) | 4:55 | 2023-10-16 | 2024-05-24 |
+| [Put the Bucket Down \- Bright\-Side Mix](https://open.spotify.com/track/47XBPbDssZEbThD2ZeGmkk) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Put the Bucket Down \(Bright\-Side Mix\)](https://open.spotify.com/album/73pTDzPdfoStoUAATSYMZB) | 6:47 | 2026-02-06 |  |
 | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/track/6g2a2Vyba3fz4T4C3xNIj0) | [Paul Heaton](https://open.spotify.com/artist/1aIozCeQrpKipbEdkGtr0j), [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Quicksand \(feat\. Rianne Downey\)](https://open.spotify.com/album/04b1OC73C5JBNZ9zI4uqAa) | 3:01 | 2024-08-30 |  |
 | [Radioactive](https://open.spotify.com/track/62yJjFtgkhUrXktIoSjgP2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:06 | 2023-10-16 | 2024-05-24 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 | 2024-05-23 |  |

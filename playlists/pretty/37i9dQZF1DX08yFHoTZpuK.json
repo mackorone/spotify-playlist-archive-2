@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 22558,
+  "num_followers": 22604,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-01-23 10:07:20",
       "album": {
+        "name": "RESONATE",
+        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
+      },
+      "artists": [
+        {
+          "name": "Surya Hearts",
+          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "RESONATE",
+      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
+    },
+    {
+      "added_at": "2026-01-23 10:07:20",
+      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
-    },
-    {
-      "added_at": "2026-01-23 10:07:20",
-      "album": {
-        "name": "RESONATE",
-        "url": "https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR"
-      },
-      "artists": [
-        {
-          "name": "Surya Hearts",
-          "url": "https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "RESONATE",
-      "url": "https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5"
     },
     {
       "added_at": "2026-01-23 10:07:20",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-01-23 10:07:20",
       "album": {
-        "name": "okay, okay",
-        "url": "https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI"
-      },
-      "artists": [
-        {
-          "name": "flip-flops",
-          "url": "https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "okay, okay",
-      "url": "https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3"
-    },
-    {
-      "added_at": "2026-01-23 10:07:20",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2026-01-23 10:07:20",
+      "album": {
+        "name": "okay, okay",
+        "url": "https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI"
+      },
+      "artists": [
+        {
+          "name": "flip-flops",
+          "url": "https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "okay, okay",
+      "url": "https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3"
     }
   ],
   "unique_name": "Tokyo Club Beat",

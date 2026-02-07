@@ -8995,6 +8995,28 @@
     },
     {
       "album": {
+        "name": "T.B.C (Reloaded)",
+        "url": "https://open.spotify.com/album/1JTuVcbEH3gnHMDWcalZAr"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Co Cash",
+          "url": "https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164746,
+      "name": "KOBE & SHAQ (feat. Co Cash)",
+      "url": "https://open.spotify.com/track/71sbRkNNACDmzdl4G3dfuZ"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -9474,7 +9496,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191053,
       "name": "LETTER TO MY YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
@@ -11600,6 +11622,24 @@
       "duration_ms": 143640,
       "name": "Ole Ass Kendrick",
       "url": "https://open.spotify.com/track/2qApuf4yp1c6sTMj9BJ8bo"
+    },
+    {
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
     },
     {
       "album": {
@@ -17362,7 +17402,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 112207,
       "name": "Violation",
       "url": "https://open.spotify.com/track/55wb8ATRTYY3pjPX3RWDXi"

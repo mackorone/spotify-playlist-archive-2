@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-190 songs - 9 hr 23 min
+191 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2023-08-07 | 2024-04-19 |
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-02-23 |  |
 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 | 2023-08-07 |  |
-| [Therapy](https://open.spotify.com/track/0XABI8auwTM81wyVovqNBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Therapy](https://open.spotify.com/album/2F9CbCdyMJ7vjEJyXtxi1z) | 2:56 | 2024-12-13 |  |
+| [Therapy](https://open.spotify.com/track/0XABI8auwTM81wyVovqNBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Therapy](https://open.spotify.com/album/2F9CbCdyMJ7vjEJyXtxi1z) | 2:56 | 2024-12-13 | 2026-02-07 |
 | [They Ain't You](https://open.spotify.com/track/3tfxO1TvXXQ7HymM15lGt1) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Heart Full of Rage](https://open.spotify.com/album/37m9KwQ4yNWbsThepwDvAK) | 2:47 | 2024-02-23 |  |
 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:49 | 2026-01-09 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2023-08-07 | 2025-11-08 |
@@ -191,6 +191,7 @@
 | [Walk Away](https://open.spotify.com/track/6mhMFztI38c0CZr8CEnPrD) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Natsukashii](https://open.spotify.com/album/2OWpkUitUjxj93YBZZBrAt) | 2:00 | 2024-02-23 |  |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2023-08-18 | 2025-11-08 |
 | [WHAT ABOUT US?](https://open.spotify.com/track/7p1jlGjvB0VoccZTGbU4E3) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHAT ABOUT US?](https://open.spotify.com/album/5pYTWqCjELvvHccO2HgueV) | 2:33 | 2024-07-08 |  |
+| [WHERE DID MY FRIENDS GO?](https://open.spotify.com/track/0sGQwLaypeVMCD0QALBx69) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [WHERE DID MY FRIENDS GO?](https://open.spotify.com/album/6h584sHbvJlAKv7APleME2) | 1:27 | 2026-02-06 |  |
 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 | 2025-05-30 | 2026-01-15 |
 | [Who Needs Love](https://open.spotify.com/track/2ktxr00GpTtbMNeBjNeY8D) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 2:38 | 2024-02-23 |  |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2026-01-15 |

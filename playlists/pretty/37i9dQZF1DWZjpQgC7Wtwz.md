@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,578 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,629 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 79 | [No Logre Olvidarte \(En Vivo\)](https://open.spotify.com/track/6DJFym2WCg9C7ToueJR7SS) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Julio Chaides en Vivo Con Chirrines](https://open.spotify.com/album/1bum07mGmZ8hW9evwv1YCF) | 3:20 |
 | 80 | [EL BO](https://open.spotify.com/track/3WR4YxkDZlKLiBSlg7oNxD) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 3:27 |
 
-Snapshot ID: `AAAAAKqN9lygZnm5cE1o4Vq5AW3Ikodq`
+Snapshot ID: `AAAAAK1SzMAsKNojgXMIl28WqnXKSCq4`

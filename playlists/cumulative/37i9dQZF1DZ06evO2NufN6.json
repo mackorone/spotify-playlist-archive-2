@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 222119,
       "name": "5 Dollar Pony Rides",
       "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
@@ -916,6 +916,24 @@
       "duration_ms": 287040,
       "name": "Ladders",
       "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4PIsExpUeEzF6qJcKc95Yb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/3QCO2C8SougLIlfSGqvnHD"
     },
     {
       "album": {

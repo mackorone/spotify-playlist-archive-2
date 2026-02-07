@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 272836,
       "name": "The Flight",
       "url": "https://open.spotify.com/track/65kC8vDdZ1zIZP9CRNiRxJ"
@@ -290,6 +290,24 @@
       "duration_ms": 219543,
       "name": "\ub2c8\uac00 \uc624\ub294 \uc2dc\uac04",
       "url": "https://open.spotify.com/track/61qYmnIejrHmcFfhfqkfVg"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261278,
+      "name": "\ube44\uc0c1",
+      "url": "https://open.spotify.com/track/424hhpwdrLq2avq6oFFPGQ"
     },
     {
       "album": {

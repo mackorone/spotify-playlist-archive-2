@@ -6749,6 +6749,28 @@
     },
     {
       "album": {
+        "name": "El Doce",
+        "url": "https://open.spotify.com/album/1AOm5WaGzELE1D8HDYxlTq"
+      },
+      "artists": [
+        {
+          "name": "El Pai",
+          "url": "https://open.spotify.com/artist/3cZddMqt0ETcO4lsccvRDd"
+        },
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175127,
+      "name": "El Doce",
+      "url": "https://open.spotify.com/track/277Bjmwdwx1Buu6wsDTctf"
+    },
+    {
+      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -7968,6 +7990,32 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
+    },
+    {
+      "album": {
+        "name": "Favorita del Ghetto | CROSSOVER #12",
+        "url": "https://open.spotify.com/album/5h66DxQNQGntf7Z2CCeDrv"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143571,
+      "name": "Favorita del Ghetto | CROSSOVER #12",
+      "url": "https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb"
     },
     {
       "album": {
@@ -9616,7 +9664,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159600,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/6KL4xXon9FzxM3cCm9GyK3"
@@ -17864,7 +17912,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146285,
       "name": "PPCP",
       "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
@@ -22746,7 +22794,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188325,
       "name": "T\u00da ME CALIENTAS",
       "url": "https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ"
@@ -23910,6 +23958,28 @@
       "duration_ms": 234947,
       "name": "XQTECE?",
       "url": "https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN"
+    },
+    {
+      "album": {
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
     },
     {
       "album": {

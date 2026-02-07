@@ -1559,6 +1559,36 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Let Me Be Misunderstood",
+        "url": "https://open.spotify.com/album/5j0VQMnEWUlIV2Xowno00i"
+      },
+      "artists": [
+        {
+          "name": "Bennie Benjamin",
+          "url": "https://open.spotify.com/artist/7ERDtbmv3l9goJ4dHzn715"
+        },
+        {
+          "name": "Sol Marcus",
+          "url": "https://open.spotify.com/artist/4ZhtwsXB88HB2F2geIgt3N"
+        },
+        {
+          "name": "Gloria Caldwell",
+          "url": "https://open.spotify.com/artist/7rKdx0Qj3ZwMSOJiNPBpaL"
+        },
+        {
+          "name": "Ashley Jackson",
+          "url": "https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Don\u2019t Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6pw5t0h16zgr2Tymgzyvac"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Look Back in Anger (Symphony Orchestra Version)",
         "url": "https://open.spotify.com/album/373zux9SQ2TIPmYbbtjQj2"
       },
@@ -2284,10 +2314,28 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216213,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe! (Arr. String Quartet) [Inspired by Bridgerton]",
+        "url": "https://open.spotify.com/album/07vOcbw7eODhv6P6B8WAmC"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190971,
+      "name": "Good Luck, Babe! (Arr. String Quartet) - Inspired by Bridgerton",
+      "url": "https://open.spotify.com/track/3hXLz8QmyU822ze5c9uoT9"
     },
     {
       "album": {
@@ -4766,7 +4814,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 158634,
       "name": "Thank Goodness (Arr. Piano) - From \"Wicked\"",
       "url": "https://open.spotify.com/track/7qHpns5r1iBI2EnLmojr0X"

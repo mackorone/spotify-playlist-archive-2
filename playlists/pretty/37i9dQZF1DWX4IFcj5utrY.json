@@ -1,6 +1,6 @@
 {
   "description": "The best dance hits in Africa. Cover: Dwson",
-  "num_followers": 109825,
+  "num_followers": 109875,
   "original_name": "mint Africa",
   "owner": {
     "name": "Spotify",
@@ -43,17 +43,21 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM"
       },
       "artists": [
         {
           "name": "Dwson",
           "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 339320,
+      "name": "Sense",
       "url": "https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD"
     },
     {

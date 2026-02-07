@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SEUNGHOO\(승후\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: muhpy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,487 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,496 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Stay in the rain](https://open.spotify.com/track/1JgdUQfckERI9wlInwJSWq) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Stay in the rain \(A+B X Urban City\)](https://open.spotify.com/album/7uzZfSDNqfjqsvvqCQyUco) | 3:00 |
 | 50 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 |
 
-Snapshot ID: `AAAAACf291QZgBZJDnaTkQ8dsEdjQJQ9`
+Snapshot ID: `AAAAAH+eN0CBHjKS9x5HQOrSH1Rs5KWv`

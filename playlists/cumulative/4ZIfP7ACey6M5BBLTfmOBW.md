@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-883 songs - 1 day 17 hr 9 min
+884 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Butterflies](https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 1:43 | 2024-11-22 | 2025-02-15 |
 | [Butterfly](https://open.spotify.com/track/7tXWqfgpbnPBAaR58shTn6) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Butterfly](https://open.spotify.com/album/7fUaYVubaNeP8Vxis6yBBy) | 3:05 | 2025-04-25 | 2025-06-07 |
 | [Butterfly Tat \(feat\. Savage Ga$p\)](https://open.spotify.com/track/0g1WQiNHGazs7SR0LtVB3w) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [Butterfly Tat \(feat\. Savage Ga$p\)](https://open.spotify.com/album/1d87JXQ4I4LYLA1AlsuoCj) | 3:03 | 2025-08-01 | 2025-09-20 |
+| [Buy What U Want](https://open.spotify.com/track/22MWO0QdJEMWczcO6lRQ50) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Road To Osshland III](https://open.spotify.com/album/6RsgC4wIqmE9mrknhbvw5r) | 3:47 | 2026-02-06 |  |
 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/5bcb7UnSeKIfGNeNmxOG2L) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:22 | 2023-12-08 | 2023-12-16 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-31 | 2024-08-24 |
 | [CALL DROP](https://open.spotify.com/track/5nkgKRjX0GSsKctFjFm8N7) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [CALL DROP](https://open.spotify.com/album/1Q20iRbA3GYItaEax9KLuW) | 2:58 | 2024-08-02 | 2024-09-07 |
@@ -619,7 +620,7 @@
 | [Petite Dose](https://open.spotify.com/track/5sJYv4k2LCN2JFytafATyv) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Petite Dose](https://open.spotify.com/album/4GZOqf9NfaYlwZxA9viP33) | 2:10 | 2024-11-29 | 2025-01-18 |
 | [petty](https://open.spotify.com/track/29MLR2NLLgklE3jtjVZPa7) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [petty](https://open.spotify.com/album/6weS9JZ5fOI3ZuhERlRUL2) | 2:31 | 2025-03-21 | 2025-04-26 |
 | [Pink Dreads](https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ) | 2:00 | 2025-01-10 | 2025-03-15 |
-| [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 | 2025-09-12 |  |
+| [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 | 2025-09-12 |  |
 | [Piss Me Off](https://open.spotify.com/track/3I1Mn6RzwUcijoJWyyLPmF) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Here to Stay](https://open.spotify.com/album/2a77t1VrX4BW3NTdqY345t) | 2:00 | 2025-04-04 | 2025-05-10 |
 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 | 2024-10-13 | 2024-12-14 |
 | [PISSED OFF](https://open.spotify.com/track/5iB7DuZkjVDALevcDbeCh9) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/2KprY5iIAZnhqRomAWaDUX) | 2:41 | 2024-09-27 | 2024-10-05 |

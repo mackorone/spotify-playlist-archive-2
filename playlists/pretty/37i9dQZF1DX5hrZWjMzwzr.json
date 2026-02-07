@@ -455,6 +455,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "Na ostatni\u0105 chwil\u0119",
         "url": "https://open.spotify.com/album/4E6AW29gNzNYwPph1O7HnH"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 166250,
       "name": "Na ostatni\u0105 chwil\u0119",
       "url": "https://open.spotify.com/track/2VT0v5EcOEdWMb8JsFewLF"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "STRZELAM PETEM",
-        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "STRZELAM PETEM",
-      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
     },
     {
       "added_at": "2025-04-24 21:35:46",

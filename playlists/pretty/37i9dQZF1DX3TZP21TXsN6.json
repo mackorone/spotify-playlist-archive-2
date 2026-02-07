@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Brasco & NAVI, Sam J\u2019taime, TYCH & IJSLAND (Abel & Sef) en meer...",
-  "num_followers": 159432,
+  "num_followers": 159429,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
@@ -31,8 +31,8 @@
     {
       "added_at": "2026-02-05 23:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Herinneringen",
+        "url": "https://open.spotify.com/album/17VcnF6vT6OqZ59WUR2twn"
       },
       "artists": [
         {
@@ -40,8 +40,8 @@
           "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 179076,
+      "name": "Herinneringen",
       "url": "https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw"
     },
     {
@@ -283,17 +283,25 @@
     {
       "added_at": "2026-02-05 23:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "DETROIT TYPE BEAT",
+        "url": "https://open.spotify.com/album/6Nu8cwOXT6TsbmrK4rHgQT"
       },
       "artists": [
         {
           "name": "Rockywhereyoubeen",
           "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Orco",
+          "url": "https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 148821,
+      "name": "5",
       "url": "https://open.spotify.com/track/1dwPP3aarCe53wuSZk7jnC"
     },
     {
@@ -473,7 +481,7 @@
         },
         {
           "name": "GS",
-          "url": "https://open.spotify.com/artist/4pUDa9MISMuaJlt149AOl9"
+          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
         }
       ],
       "duration_ms": 130285,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Gabriela Bee",
+  "description": "Sit back and relax to the chillest pop.  Cover: Nick Jonas",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -3872,7 +3872,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159400,
       "name": "Before",
       "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
@@ -5301,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Bootstraps",
+        "url": "https://open.spotify.com/album/3J6um8Yq96K0KHbIiYVE1N"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188910,
+      "name": "Bootstraps",
+      "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
+    },
+    {
+      "album": {
         "name": "borderline",
         "url": "https://open.spotify.com/album/0G2chJn3DFh0FSjdDG9iyT"
       },
@@ -5652,6 +5670,24 @@
       "duration_ms": 183490,
       "name": "Brutal",
       "url": "https://open.spotify.com/track/5bRYA6MVHD4uioMc402Mow"
+    },
+    {
+      "album": {
+        "name": "bubble",
+        "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "bubble",
+      "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
     },
     {
       "album": {
@@ -6888,7 +6924,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184133,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
@@ -8223,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1h6xuNBytiovf1ekxJVcZf"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102408,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ"
+    },
+    {
+      "album": {
         "name": "Nobody's Born With A Broken Heart",
         "url": "https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj"
       },
@@ -8892,6 +8946,28 @@
       "duration_ms": 150537,
       "name": "crutches",
       "url": "https://open.spotify.com/track/5Hf6nME2UxqODXQj9pP1qw"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/2AGIiRCZ9q5cYOfQ8LmU3B"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
     },
     {
       "album": {
@@ -9862,7 +9938,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163315,
       "name": "deja vu (feat. Joe la panic)",
       "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
@@ -10724,6 +10800,24 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193012,
+      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
     },
     {
       "album": {
@@ -25533,6 +25627,28 @@
     },
     {
       "album": {
+        "name": "TYPHOON",
+        "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180395,
+      "name": "me & u",
+      "url": "https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h"
+    },
+    {
+      "album": {
         "name": "Me Again",
         "url": "https://open.spotify.com/album/7FxtSVqKixyRA2jNje12ZP"
       },
@@ -25884,7 +26000,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166556,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4m0DUFZIHDZljTX3A9viUJ"
@@ -28475,6 +28591,24 @@
     },
     {
       "album": {
+        "name": "Normal Feelings",
+        "url": "https://open.spotify.com/album/5iXuIAOSa7ywKEmsSyQeYa"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Normal Feelings",
+      "url": "https://open.spotify.com/track/6sMPcbrBEdc8ZxSmidIkzy"
+    },
+    {
+      "album": {
         "name": "NOSEBLEED",
         "url": "https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I"
       },
@@ -28710,7 +28844,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 174751,
       "name": "Not What\u2019s Going On",
       "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
@@ -31250,7 +31384,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168573,
       "name": "Pindrop",
       "url": "https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI"
@@ -35131,6 +35265,24 @@
     },
     {
       "album": {
+        "name": "Would You Go Down On A Girl? (Deluxe)",
+        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221152,
+      "name": "Silverlake Baby",
+      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
+    },
+    {
+      "album": {
         "name": "Silvia",
         "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
       },
@@ -36774,7 +36926,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 199078,
       "name": "Something You Do",
       "url": "https://open.spotify.com/track/61G7t6N3nAgdUSCHaKMXSt"
@@ -38060,7 +38212,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
@@ -38804,6 +38956,24 @@
       "duration_ms": 188496,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
+    },
+    {
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "Sweet To Me",
+      "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
     },
     {
       "album": {
@@ -45978,7 +46148,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"

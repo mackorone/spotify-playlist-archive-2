@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,798 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,799 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 41 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 |
 | 42 | [Intro \(Solemait\)](https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 2:49 |
 | 43 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 |
-| 44 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 |
-| 45 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 |
+| 44 | [Reign](https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Han Litz](https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD), [Myles Bigelow](https://open.spotify.com/artist/2fiJOoNyHAwl0lHoDcXCP5) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:18 |
+| 45 | [Serenade](https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 |
 | 46 | [Walkin' in Paris](https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 5:04 |
 | 47 | [We Call Love](https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [We Call Love](https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv) | 6:18 |
-| 48 | [Luv](https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Inner Garden](https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa) | 7:09 |
-| 49 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 |
+| 48 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 |
+| 49 | [Luv](https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Inner Garden](https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa) | 7:09 |
 | 50 | [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 |
 
-Snapshot ID: `aYKMAAAAAADLdRwwGapRY7EpOqyrutVz`
+Snapshot ID: `aYPdgAAAAAAj6+I0NJoTLbMHStW1ZEIT`

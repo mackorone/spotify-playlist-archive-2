@@ -315,6 +315,32 @@
     },
     {
       "album": {
+        "name": "DETROIT TYPE BEAT",
+        "url": "https://open.spotify.com/album/6Nu8cwOXT6TsbmrK4rHgQT"
+      },
+      "artists": [
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Orco",
+          "url": "https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148821,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1dwPP3aarCe53wuSZk7jnC"
+    },
+    {
+      "album": {
         "name": "64 Barz",
         "url": "https://open.spotify.com/album/68idpzgNus0f4NcI28tUO2"
       },
@@ -3267,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Herinneringen",
+        "url": "https://open.spotify.com/album/17VcnF6vT6OqZ59WUR2twn"
+      },
+      "artists": [
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Herinneringen",
+      "url": "https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw"
+    },
+    {
+      "album": {
         "name": "Hetzelfde Feestje",
         "url": "https://open.spotify.com/album/46RtKKTGTJk3PWRcu0yRN2"
       },
@@ -5173,7 +5217,7 @@
         },
         {
           "name": "GS",
-          "url": "https://open.spotify.com/artist/4pUDa9MISMuaJlt149AOl9"
+          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
         }
       ],
       "date_added": "2026-02-05",
@@ -7376,42 +7420,6 @@
       "duration_ms": 163265,
       "name": "TOXIC FIGHT",
       "url": "https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sam J'taime",
-          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Rockywhereyoubeen",
-          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1dwPP3aarCe53wuSZk7jnC"
     },
     {
       "album": {

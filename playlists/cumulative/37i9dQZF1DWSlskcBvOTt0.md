@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,059 songs - 3 day 15 hr 48 min
+1,060 songs - 3 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [111](https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [111](https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1) | 3:52 | 2025-08-22 |  |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-06 | 2025-08-16 |
 | [3 Sense](https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [3 Sense](https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ) | 2:43 | 2023-10-13 | 2024-05-11 |
+| [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/track/50xyYrPZV6rs5pmAIozDMt) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx), [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [A Feeling I Miss \(SAMA \(US\) Remix\)](https://open.spotify.com/album/1bWqcGWKy1C7yQ5XFbZ4OP) | 3:30 | 2026-02-06 |  |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
 | [A Hero](https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [A Hero EP](https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27) | 7:38 | 2021-04-21 | 2022-07-05 |
 | [A Time To](https://open.spotify.com/track/4UiwDnk0riQvDpoNJFAfME) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [A Time To](https://open.spotify.com/album/3BQgR0hDgi4uPaQ31siV83) | 3:51 | 2022-04-22 | 2023-09-30 |
@@ -126,7 +127,7 @@
 | [Ben Suliman](https://open.spotify.com/track/61K2ojT7cOXHEX6sPa0RTP) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i) | [Ben Suliman](https://open.spotify.com/album/3pGaHYcyYR5AK0dR5LzqET) | 7:47 | 2021-04-21 | 2022-07-24 |
 | [Beso \(Fruta Fresca\)](https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Beso \(Fruta Fresca\)](https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV) | 3:17 | 2023-12-15 | 2024-11-09 |
 | [Better](https://open.spotify.com/track/5DCGNVSejDMG0xsh3Y6lqm) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Better](https://open.spotify.com/album/3vw4GXfOE9tyK3sr5Tm4ye) | 3:00 | 2024-11-08 | 2025-03-15 |
-| [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 | 2025-08-08 |  |
+| [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 | 2025-08-08 | 2026-02-07 |
 | [Better Days](https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Better Days](https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR) | 4:08 | 2024-05-24 | 2025-03-01 |
 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 | 2023-09-29 | 2023-10-05 |
 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 | 2024-01-05 | 2024-10-26 |

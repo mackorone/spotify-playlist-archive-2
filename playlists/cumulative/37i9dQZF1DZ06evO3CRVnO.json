@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Mansion Musick",
+        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166855,
+      "name": "Uh Uh - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
+    },
+    {
+      "album": {
         "name": "OMW2 REXDALE",
         "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },

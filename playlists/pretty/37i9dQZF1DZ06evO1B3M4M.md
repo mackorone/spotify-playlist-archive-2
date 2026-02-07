@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 > This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,108 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,109 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 21 | [The Old Therebefore / Singing at Snakes \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/6Mbgtn1ZjgS1upiV2ghB9y) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:48 |
 | 22 | [Aurora in Faerieland](https://open.spotify.com/track/3G4oEYQPiRQE5O4ahs7OC8) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 4:41 |
 | 23 | [Solomon Vandy](https://open.spotify.com/track/2bx0bDhlf5i70c2NYjtahs) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Blood Diamond \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X) | 2:11 |
-| 24 | [Inner Sanctum / The Nesting Grounds \- From "Dinosaur"/Score](https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 2:57 |
-| 25 | [Vespertilio](https://open.spotify.com/track/5s1vSkSpX2N9VqMkt0uWls) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 2:52 |
-| 26 | [Central Park \- From King Kong Original Motion Picture Soundtrack](https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [King Kong](https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a) | 4:36 |
-| 27 | [Rue's Farewell](https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 4:59 |
+| 24 | [Rue's Farewell](https://open.spotify.com/track/4nrwfhN2Wq68HsxkBdRrqR) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 4:59 |
+| 25 | [Inner Sanctum / The Nesting Grounds \- From "Dinosaur"/Score](https://open.spotify.com/track/5JbuKh2rpieicj3ld8Yy2L) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Dinosaur](https://open.spotify.com/album/364YR5hc3wDSLIJfgrrqHi) | 2:57 |
+| 26 | [Vespertilio](https://open.spotify.com/track/5s1vSkSpX2N9VqMkt0uWls) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 2:52 |
+| 27 | [Central Park \- From King Kong Original Motion Picture Soundtrack](https://open.spotify.com/track/38bOgEEJoYMGjdVX2GDDjK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [King Kong](https://open.spotify.com/album/1Skgydum2XQAOurr30tw0a) | 4:36 |
 | 28 | [Flying](https://open.spotify.com/track/2DS7nXQfAFmLzTicXi3riM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 3:32 |
 | 29 | [The Mockingjay](https://open.spotify.com/track/46EmDxrxAXfkplyXDQKTJJ) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay Pt\. 1 \(Original Motion Picture Score\)](https://open.spotify.com/album/44qAUS0siEj2plisdS25xw) | 2:39 |
 | 30 | [Leta's Theme \- Solo Piano](https://open.spotify.com/track/35bsGWSmSTeaTHK4iy8roD) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [In the Cells](https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:10 |
 | 50 | [And I Thought My Jokes Were Bad](https://open.spotify.com/track/3QRK9jOyP2qQ9ZaYdO3QCn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 2:28 |
 
-Snapshot ID: `aYKMAAAAAABKs5K7n0H8QsL6w6pgKQZQ`
+Snapshot ID: `aYPdgAAAAACEMCnITQdkNtseCQPVmO2o`

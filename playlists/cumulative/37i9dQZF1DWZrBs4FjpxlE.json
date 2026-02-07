@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 176384,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/0XABI8auwTM81wyVovqNBK"
@@ -3500,6 +3500,24 @@
       "duration_ms": 153484,
       "name": "WHAT ABOUT US?",
       "url": "https://open.spotify.com/track/7p1jlGjvB0VoccZTGbU4E3"
+    },
+    {
+      "album": {
+        "name": "WHERE DID MY FRIENDS GO?",
+        "url": "https://open.spotify.com/album/6h584sHbvJlAKv7APleME2"
+      },
+      "artists": [
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87365,
+      "name": "WHERE DID MY FRIENDS GO?",
+      "url": "https://open.spotify.com/track/0sGQwLaypeVMCD0QALBx69"
     },
     {
       "album": {

@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 165613,
       "name": "DIE LIKE THIS",
       "url": "https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth"
@@ -1412,6 +1412,24 @@
       "duration_ms": 233794,
       "name": "how u feel?",
       "url": "https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5"
+    },
+    {
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2p7RhIT6IKHsHiJOIxgMB9"
+      },
+      "artists": [
+        {
+          "name": "Robb Bank$",
+          "url": "https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170702,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/0tWhCPNjhc9t64S17gE0hw"
     },
     {
       "album": {
@@ -2835,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Pwned",
+        "url": "https://open.spotify.com/album/0grZYBy7nQIG8G9XDGkf9o"
+      },
+      "artists": [
+        {
+          "name": "Protect",
+          "url": "https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109745,
+      "name": "Pwned",
+      "url": "https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD"
+    },
+    {
+      "album": {
         "name": "PYRAMIDZ",
         "url": "https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab"
       },
@@ -3614,7 +3650,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 117191,
       "name": "Whitney",
       "url": "https://open.spotify.com/track/2vdAs3WHThXVp9ESCiQH9f"

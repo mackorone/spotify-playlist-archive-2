@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Daphni
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,555 likes - 99 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,551 likes - 99 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [](https://open.spotify.com/album/null) | 3:32 |
+| 1 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:32 |
 | 2 | [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 |
 | 3 | [Braid Runner \- JOMMY Remix](https://open.spotify.com/track/6aGf2FCf3i0R1KCwqzbTiC) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10), [KENTACATS](https://open.spotify.com/artist/0bmFxuu38S0esyG6Dwqeik) | [Braid Runner \(JOMMY Remix\)](https://open.spotify.com/album/4tDiGnAIFm1RVWnlR3ZHsE) | 3:46 |
 | 4 | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2) | 2:42 |

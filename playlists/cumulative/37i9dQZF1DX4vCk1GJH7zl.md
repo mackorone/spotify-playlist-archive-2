@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-220 songs - 13 hr 6 min
+221 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [PARE](https://open.spotify.com/track/0unKJAgcw9on0XVhyCjo7X) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [PARE](https://open.spotify.com/album/5lc6heeVnZxxa0Trm6I188) | 3:40 | 2024-09-13 | 2024-09-28 |
 | [Partida](https://open.spotify.com/track/48nzMbyU9MoeRWu28riJoi) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Partida](https://open.spotify.com/album/33wHpnNbVOa32uMESWgg0u) | 3:46 | 2023-07-21 | 2023-09-22 |
 | [Partida](https://open.spotify.com/track/6wj81ht6mZln7wIuR49pHj) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [Partida](https://open.spotify.com/album/1rC2ZUzqZDZmxt4jBAf8YQ) | 3:46 | 2023-09-15 | 2023-09-30 |
+| [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 | 2026-02-06 |  |
 | [Pensando Bem](https://open.spotify.com/track/2hzv2fq86gwMSR3ppsvyJ5) | [Drenna](https://open.spotify.com/artist/7Km2oqSGqY9nTSnyY4QVyf) | [Cisne Negro](https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n) | 3:25 | 2023-08-25 | 2023-11-11 |
 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 | 2023-09-29 | 2024-06-29 |
 | [Perdido em Pensamentos \- Ao Vivo](https://open.spotify.com/track/2RR0hIgmyepYrhbvrLHMBz) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi \(Ao Vivo\)](https://open.spotify.com/album/0P4l2RFeCHWe5F27joSY2r) | 2:53 | 2025-09-26 | 2025-12-19 |
@@ -215,7 +216,7 @@
 | [vale nada](https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY) | [Tupi & Os Crocodilos de Marte](https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [vale nada](https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B) | 3:02 | 2025-12-12 |  |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 | 2025-01-11 |
 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 | 2024-09-02 |  |
-| [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |
+| [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 | 2026-02-07 |
 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 | 2023-07-21 |  |
 | [vc n é o john mayer \(rlx\)](https://open.spotify.com/track/24SPEfSSe9B2F4Nj4KKI8u) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [vc n é o john mayer \(rlx\)](https://open.spotify.com/album/7q4WiIKtDXeRvM49ADVaeW) | 2:27 | 2023-07-21 | 2023-09-09 |
 | [Vendaval](https://open.spotify.com/track/4RfG59SGuZSvE2yUxQHwzv) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh) | [Vendaval](https://open.spotify.com/album/50RosNb33uXibjhV94GjpN) | 2:45 | 2024-08-30 | 2025-12-19 |

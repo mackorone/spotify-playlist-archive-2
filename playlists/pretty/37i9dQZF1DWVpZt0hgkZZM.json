@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 44114,
+  "num_followers": 44119,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
-        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Las Cale\u00f1as",
-      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Nosotros",
         "url": "https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 410070,
       "name": "Nuestro Amor Ser\u00e1",
       "url": "https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 1",
+        "url": "https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Las Cale\u00f1as",
+      "url": "https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -995,22 +995,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Para Bailar... Sin Parar!!",
+        "url": "https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 286531,
-      "name": "La Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
+      "duration_ms": 137533,
+      "name": "Del Tingo al Tango",
+      "url": "https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Para Bailar... Sin Parar!!",
-        "url": "https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj"
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
         }
       ],
-      "duration_ms": 137533,
-      "name": "Del Tingo al Tango",
-      "url": "https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg"
+      "duration_ms": 286531,
+      "name": "La Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+        "name": "Homenaje a Victor Pi\u00f1ero",
+        "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
       },
       "artists": [
         {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Mu\u00f1eca Linda",
-      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
+      "duration_ms": 169026,
+      "name": "Cayetano Baila",
+      "url": "https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Homenaje a Victor Pi\u00f1ero",
-        "url": "https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd"
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Cayetano Baila",
-      "url": "https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf"
+      "duration_ms": 212821,
+      "name": "Mu\u00f1eca Linda",
+      "url": "https://open.spotify.com/track/3tMOxV5YBp4Z9F7f8YOpPI"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
-      },
-      "artists": [
-        {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        },
-        {
-          "name": "\u00c9der Ortega",
-          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Si Me Dejaras (Te Necesito)",
-      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -1203,22 +1183,6 @@
       "duration_ms": 241720,
       "name": "La Muy Indigna",
       "url": "https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
-        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
-      },
-      "artists": [
-        {
-          "name": "Anibal Velasquez",
-          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Cachita",
-      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1239,6 +1203,42 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        },
+        {
+          "name": "\u00c9der Ortega",
+          "url": "https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Si Me Dejaras (Te Necesito)",
+      "url": "https://open.spotify.com/track/2p6nkFtOHOgpGYkYejAIlY"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de An\u00edbal Vel\u00e1squez",
+        "url": "https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk"
+      },
+      "artists": [
+        {
+          "name": "Anibal Velasquez",
+          "url": "https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Cachita",
+      "url": "https://open.spotify.com/track/4xi5Gq7tF6tB59pLttDAzN"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de el Tropicombo",
         "url": "https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 234231,
       "name": "Qu\u00e9 Lindo Es Quererte",
       "url": "https://open.spotify.com/track/5dhPGn3nfPomL90UgEbq5n"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de los Ocho de Colombia",
-        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
-      },
-      "artists": [
-        {
-          "name": "Los Ocho De Colombia",
-          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
-        }
-      ],
-      "duration_ms": 247409,
-      "name": "Dame Tu Querer",
-      "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1303,6 +1287,22 @@
       "duration_ms": 139813,
       "name": "Los Camarones",
       "url": "https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Ocho de Colombia",
+        "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
+      },
+      "artists": [
+        {
+          "name": "Los Ocho De Colombia",
+          "url": "https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO"
+        }
+      ],
+      "duration_ms": 247409,
+      "name": "Dame Tu Querer",
+      "url": "https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 266410,
+      "name": "Usted Es la Culpable",
+      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical de los Ocho de Colombia",
         "url": "https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 268811,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5ZHyXVoIkQsZcBQERMvyiB"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 266410,
-      "name": "Usted Es la Culpable",
-      "url": "https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63"
     },
     {
       "added_at": "2024-07-12 23:11:55",

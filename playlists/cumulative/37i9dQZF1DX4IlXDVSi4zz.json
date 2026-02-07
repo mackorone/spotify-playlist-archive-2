@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
+    },
+    {
+      "album": {
         "name": "Because You Move Me",
         "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
       },
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163019,
       "name": "Let's Go (Magalenha)",
       "url": "https://open.spotify.com/track/30Ca9XElifcBjngQrmg0yl"
@@ -4142,6 +4160,24 @@
       "duration_ms": 162100,
       "name": "No Bad Vibes",
       "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "album": {
+        "name": "No Hesitating",
+        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163890,
+      "name": "No Hesitating",
+      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
     },
     {
       "album": {
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 198515,
       "name": "Si ma\u00f1ana me muero",
       "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Robert Randolph
 
-388 songs - 1 day 1 hr 7 min
+390 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 | 2023-08-04 |  |
 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 | 2025-10-10 |  |
 | [Death by Misadventure](https://open.spotify.com/track/1rHGpxJKJZb5QzcKUlhfb1) | [The Infamists](https://open.spotify.com/artist/5rqXUA24KUryMCNvNTqR6B) | [Live Evil](https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB) | 3:26 | 2023-04-07 |  |
+| [Deeper You Dig](https://open.spotify.com/track/6KLxIfgjQrPdChwd0d3WDF) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Deeper You Dig](https://open.spotify.com/album/7JglLOummYjaW25xghkaOJ) | 3:30 | 2026-02-06 |  |
 | [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 | 2023-04-22 |
 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 | 2023-11-17 | 2024-07-13 |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
@@ -234,14 +235,14 @@
 | [Never Made It To Memphis](https://open.spotify.com/track/3grlrtWpHXHPtyLu6kWawn) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Never Made It To Memphis](https://open.spotify.com/album/1SDFJ44buRab1oJZiN1UOv) | 4:20 | 2024-07-12 | 2024-08-17 |
 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 | 2022-02-25 | 2022-08-14 |
 | [No Good](https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM) | [Chase Walker Band](https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB) | [No Good](https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M) | 2:35 | 2023-09-15 |  |
-| [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 | 2023-08-18 |  |
+| [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 | 2023-08-18 | 2026-02-07 |
 | [No More Fire](https://open.spotify.com/track/2yTZSzl6XflxCRU7NnnW8M) | [The Gravel Project](https://open.spotify.com/artist/1aM51hYWVvC9a4piqQcqD4) | [Many Miles Ahead](https://open.spotify.com/album/20KjNLIRKH70voeLo5ohqv) | 4:48 | 2022-03-04 |  |
 | [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 | 2021-04-09 | 2023-05-06 |
 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 | 2021-07-23 | 2022-11-13 |
 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 | 2023-08-04 |
 | [Nothing But The Blues](https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 3:21 | 2022-09-02 | 2023-09-16 |
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
-| [Nowhere to Go](https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nowhere to Go](https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI) | 3:16 | 2026-01-16 |  |
+| [Nowhere to Go](https://open.spotify.com/track/0c5eEKZW45gQyBNipU01yW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nowhere to Go](https://open.spotify.com/album/0Z8hvkNrqwuvZoKxbkNFKI) | 3:16 | 2026-01-16 | 2026-02-07 |
 | [Nowheresville](https://open.spotify.com/track/5ge6Um0eo4aQ9CmgYRCS3B) | [RMB](https://open.spotify.com/artist/6VkGjMJuoZnn4Yz1xXBouh) | [Nowheresville](https://open.spotify.com/album/3bu3QdzH2FgrNTFrmjy3UE) | 4:30 | 2025-05-30 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 | 2025-11-22 |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 | 2025-02-08 |
@@ -394,6 +395,7 @@
 | [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 | 2023-05-06 |
 | [You Give Me Something](https://open.spotify.com/track/3rPv5WnpW2rfiNubXzjBXn) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out Of My Head](https://open.spotify.com/album/4XNh7oEb8RuzjV18HnILR4) | 3:52 | 2020-10-16 | 2024-04-19 |
 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 | 2020-10-16 | 2025-03-29 |
+| [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 | 2026-02-06 |  |
 | [You Pushed Me](https://open.spotify.com/track/01tmrXbE6UPvMLpxMBlmiY) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [You Pushed Me](https://open.spotify.com/album/4N20MOAxyJDC6LIlbySax6) | 3:21 | 2023-06-02 |  |
 | [YOUNG BLOOD](https://open.spotify.com/track/5wMtnzKuIyhPFD8VvGpAyN) | [True Strays](https://open.spotify.com/artist/2arsJQ0bB5uQyDJoR3MbOq) | [YOUNG BLOOD](https://open.spotify.com/album/1PjUSENItjT102cQZDZYer) | 3:22 | 2025-10-24 |  |
 

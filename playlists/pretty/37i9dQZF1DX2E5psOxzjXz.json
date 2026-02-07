@@ -1,12 +1,12 @@
 {
   "description": "Explore Pakistan's thriving independent scene \ud83d\udd25 Cover: Neha Karim Ullah",
-  "num_followers": 36847,
+  "num_followers": 36860,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKd7hrUOfbtuB4lDkZDUYYsnNh6X",
+  "snapshot_id": "AAAAAEivj1EpSjpEf2f71F8dk1UhKpJ2",
   "tracks": [
     {
       "added_at": "2026-01-30 04:00:12",
@@ -23,6 +23,62 @@
       "duration_ms": 147840,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/5HauOf3Whq4F7IZruk9Kbn"
+    },
+    {
+      "added_at": "2026-02-06 04:00:16",
+      "album": {
+        "name": "tanha sahi",
+        "url": "https://open.spotify.com/album/7f0Wx9dQPe6D3wctYlGWIi"
+      },
+      "artists": [
+        {
+          "name": "Maliha J. Khan",
+          "url": "https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl"
+        },
+        {
+          "name": "Daniyal Abid",
+          "url": "https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "tanha sahi",
+      "url": "https://open.spotify.com/track/6w47A15XIxRHnBiljATzUa"
+    },
+    {
+      "added_at": "2026-02-06 04:00:16",
+      "album": {
+        "name": "VOLUME",
+        "url": "https://open.spotify.com/album/49S4SqXG39GxNHHe34tZ6d"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "dotxb",
+          "url": "https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk"
+        }
+      ],
+      "duration_ms": 180082,
+      "name": "VOLUME",
+      "url": "https://open.spotify.com/track/1krjlFmoBcc5KsomLbegP7"
+    },
+    {
+      "added_at": "2026-02-06 04:00:16",
+      "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/4FL3VXSb1RtRJ9Qmd559WP"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "duration_ms": 200439,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/1ll5dcFvWK8w2quGqjgxe6"
     },
     {
       "added_at": "2026-01-30 04:00:12",
@@ -43,58 +99,6 @@
     {
       "added_at": "2026-01-23 06:47:42",
       "album": {
-        "name": "Keh Diya",
-        "url": "https://open.spotify.com/album/3hExwvMIq8njfR2CPTbjlw"
-      },
-      "artists": [
-        {
-          "name": "Zoha Zuberi",
-          "url": "https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK"
-        },
-        {
-          "name": "Ammad Khan",
-          "url": "https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Keh Diya",
-      "url": "https://open.spotify.com/track/4lSaV0o7ldXV2NnF54xNhT"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Na Kahoun",
-        "url": "https://open.spotify.com/album/6dzV4cJuWogegsloHWgXV4"
-      },
-      "artists": [
-        {
-          "name": "Arsalan",
-          "url": "https://open.spotify.com/artist/7vm7OcGXicjT8jn92Be4sd"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Na Kahoun",
-      "url": "https://open.spotify.com/track/27J2cFpgYNsoabz77Cssgl"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Kahani",
-        "url": "https://open.spotify.com/album/2KaQsHtuID8cd3aG2CBF31"
-      },
-      "artists": [
-        {
-          "name": "Enarsii",
-          "url": "https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "Kahani",
-      "url": "https://open.spotify.com/track/3TF5QEUU9lVrYALuWdz8Xc"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
         "name": "Khuwaab Si",
         "url": "https://open.spotify.com/album/7u8QXXiU4newYYpuhYfCQj"
       },
@@ -107,26 +111,6 @@
       "duration_ms": 212400,
       "name": "Khuwaab Si",
       "url": "https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Jeena Chahta Hon",
-        "url": "https://open.spotify.com/album/2kESbO1uWTz6fSzFOvtUfg"
-      },
-      "artists": [
-        {
-          "name": "Khawar Jawad",
-          "url": "https://open.spotify.com/artist/1Yn6sVYDKokQTn0wjZ90Xx"
-        },
-        {
-          "name": "Joy",
-          "url": "https://open.spotify.com/artist/6YuMjwTtVP5OZEZQkNQCwz"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Jeena Chahta Hon",
-      "url": "https://open.spotify.com/track/4K7QQzJVhtJSNsQx4q0aHd"
     },
     {
       "added_at": "2026-01-23 06:47:42",
@@ -699,26 +683,6 @@
     {
       "added_at": "2026-01-23 06:47:42",
       "album": {
-        "name": "SIXER",
-        "url": "https://open.spotify.com/album/2a3XGSWu6eSquIaKlz3FRb"
-      },
-      "artists": [
-        {
-          "name": "Hassan & Roshaan",
-          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
-        },
-        {
-          "name": "Amna Riaz",
-          "url": "https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl"
-        }
-      ],
-      "duration_ms": 309701,
-      "name": "Ajnabi",
-      "url": "https://open.spotify.com/track/7BFWKCDCb0Y4jWTxz7Hv5q"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
         "name": "ROCKSTAR WITHOUT A GUITAR",
         "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
       },
@@ -875,26 +839,6 @@
       "duration_ms": 187200,
       "name": "Saza",
       "url": "https://open.spotify.com/track/10woFQBx2lLrHTvh8rLBHG"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Zindagi Phir Mile",
-        "url": "https://open.spotify.com/album/6TAtb8Sul4h4TUAoXSIPSd"
-      },
-      "artists": [
-        {
-          "name": "Taha G",
-          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
-        },
-        {
-          "name": "Abdullah Kasumbi",
-          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
-        }
-      ],
-      "duration_ms": 147836,
-      "name": "Zindagi Phir Mile",
-      "url": "https://open.spotify.com/track/3ZqvgBqpYFM86WIwENUkbZ"
     },
     {
       "added_at": "2026-01-23 06:47:42",
@@ -1491,26 +1435,6 @@
     {
       "added_at": "2026-01-23 06:47:42",
       "album": {
-        "name": "Forsaken",
-        "url": "https://open.spotify.com/album/5xXF2bLicp4kuAgJAMMhEu"
-      },
-      "artists": [
-        {
-          "name": "Hamzay",
-          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
-        },
-        {
-          "name": "Sajjal Zee",
-          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "Forsaken",
-      "url": "https://open.spotify.com/track/1L35yralAqLq0nw74wpVTY"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/7Gqhzo0GJ4QhGq6tBspAgQ"
       },
@@ -1739,22 +1663,6 @@
       "duration_ms": 210400,
       "name": "Umeed 2.0",
       "url": "https://open.spotify.com/track/0diSYhxKlWksc1CtaU74S7"
-    },
-    {
-      "added_at": "2026-01-23 06:47:42",
-      "album": {
-        "name": "Tu hai kahan",
-        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
-      },
-      "artists": [
-        {
-          "name": "AUR",
-          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
-        }
-      ],
-      "duration_ms": 263184,
-      "name": "Tu hai kahan",
-      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
     },
     {
       "added_at": "2026-01-23 06:47:42",

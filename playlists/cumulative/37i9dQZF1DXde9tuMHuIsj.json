@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Circulo Vicioso",
+        "url": "https://open.spotify.com/album/614APbaiiDiexsASLTlR8B"
+      },
+      "artists": [
+        {
+          "name": "Young Fatty",
+          "url": "https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Circulo Vicioso",
+      "url": "https://open.spotify.com/track/7uwwQW7rkEGerKkg9rhZlX"
+    },
+    {
+      "album": {
         "name": "CLIMA (with Foreign Teck)",
         "url": "https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP"
       },
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169411,
       "name": "JA MORANT",
       "url": "https://open.spotify.com/track/1SxOZg8hIxeEck104rwnCI"
@@ -6398,6 +6416,28 @@
       "duration_ms": 157117,
       "name": "Khunsa",
       "url": "https://open.spotify.com/track/71DpCBjf6bmggtSNmXWjIE"
+    },
+    {
+      "album": {
+        "name": "Kileros",
+        "url": "https://open.spotify.com/album/0Wbq8ySv9eu4uKCvpIRNhL"
+      },
+      "artists": [
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Kileros",
+      "url": "https://open.spotify.com/track/1wigcF8smPqZxhZ2nvanjd"
     },
     {
       "album": {
@@ -6882,6 +6922,28 @@
       "duration_ms": 249280,
       "name": "Las Leyendas Nunca Mueren (feat. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/5EQdno4273dP9myMTtEiDN"
+    },
+    {
+      "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
     },
     {
       "album": {
@@ -7410,7 +7472,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 582192,
       "name": "LUCIFER",
       "url": "https://open.spotify.com/track/5je8fJ6efwRi7o15TGhBQF"
@@ -7572,6 +7634,24 @@
       "duration_ms": 130961,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp"
+    },
+    {
+      "album": {
+        "name": "Manhattan II",
+        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135019,
+      "name": "Manhattan II",
+      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
     },
     {
       "album": {
@@ -9893,6 +9973,24 @@
     },
     {
       "album": {
+        "name": "RIHANA",
+        "url": "https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq"
+      },
+      "artists": [
+        {
+          "name": "Tony Monta",
+          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "RIHANA",
+      "url": "https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan"
+    },
+    {
+      "album": {
         "name": "TRAP KITTY",
         "url": "https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV"
       },
@@ -9944,7 +10042,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162608,
       "name": "Rito",
       "url": "https://open.spotify.com/track/3n7pryFOcA61ZvPegaYidv"
@@ -9962,7 +10060,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 106666,
       "name": "RKO",
       "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
@@ -11504,7 +11602,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"

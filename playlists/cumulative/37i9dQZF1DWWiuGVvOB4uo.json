@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162352,
       "name": "A Long December",
       "url": "https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
@@ -4044,6 +4044,24 @@
       "duration_ms": 141115,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/4x1HyRlBRnjTdsOz6osq1c"
+    },
+    {
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
     },
     {
       "album": {
@@ -6144,6 +6162,24 @@
       "duration_ms": 200153,
       "name": "You're Losing Me",
       "url": "https://open.spotify.com/track/5ScpcdugUeOQTbVxYCBiuy"
+    },
+    {
+      "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214477,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
     },
     {
       "album": {

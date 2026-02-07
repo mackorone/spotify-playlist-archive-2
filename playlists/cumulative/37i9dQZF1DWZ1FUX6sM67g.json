@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: FARIANA",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Carlos Vives",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -4628,6 +4628,24 @@
       "duration_ms": 174874,
       "name": "Tal para cual",
       "url": "https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF"
+    },
+    {
+      "album": {
+        "name": "Te Dedico",
+        "url": "https://open.spotify.com/album/6hG7Y2YydErFBY0jsg3sY1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Te Dedico",
+      "url": "https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6"
     },
     {
       "album": {

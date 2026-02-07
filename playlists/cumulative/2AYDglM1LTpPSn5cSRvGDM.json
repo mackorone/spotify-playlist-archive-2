@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 232437,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/1D2KxqvSvixHkRs3yaHkmT"
@@ -1876,6 +1876,24 @@
       "duration_ms": 290625,
       "name": "Illithid's March",
       "url": "https://open.spotify.com/track/7vsrgJA2nB9x0jM0SlHX9D"
+    },
+    {
+      "album": {
+        "name": "In Every Life",
+        "url": "https://open.spotify.com/album/60lgL9FkLYX2qHC6WQWTJq"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204312,
+      "name": "In Every Life",
+      "url": "https://open.spotify.com/track/4FyCcBkN2pVvw0ZZZV2rjY"
     },
     {
       "album": {
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159750,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/6SLMk4Kd9FdzFh0uRLuBWP"
@@ -4172,6 +4190,36 @@
       "duration_ms": 286252,
       "name": "Via Infinita - Marsh Remix",
       "url": "https://open.spotify.com/track/3UkQIp7rWtfxk10DJ3s5Mo"
+    },
+    {
+      "album": {
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/7dPjBbQd8m3ZIHzjiJdY2T"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cricket",
+          "url": "https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr"
+        },
+        {
+          "name": "Talking Body",
+          "url": "https://open.spotify.com/artist/0dppHiwuTHFpGBai4IrWp3"
+        },
+        {
+          "name": "Julien Fade",
+          "url": "https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg"
+        },
+        {
+          "name": "Rue More",
+          "url": "https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176159,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/6XJg2WxvsU0GvBcuhL5jY0"
     },
     {
       "album": {

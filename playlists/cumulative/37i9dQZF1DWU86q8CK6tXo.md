@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Samara Cyn
 
-2,119 songs - 4 day 18 hr 26 min
+2,120 songs - 4 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [11\-11 \- SOHMI Remix](https://open.spotify.com/track/6hrs2SW6BxtO56d6b4ZnbC) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [I Hope It Lasts Forever \(Remixed\)](https://open.spotify.com/album/7LUcKHfSgHNXXFK32Z8cA0) | 4:10 | 2022-05-04 | 2022-06-01 |
 | [1111](https://open.spotify.com/track/4MsZ2HwRZyyFSEhIgYxjCB) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [1111](https://open.spotify.com/album/6CHFEOsW7ihi1DlOrWHKKJ) | 3:00 | 2022-02-02 | 2022-04-07 |
 | [11th Hour](https://open.spotify.com/track/63E8fk3JnHd5kEpL29tA8w) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [11th Hour](https://open.spotify.com/album/0hZoP4o7c995gK0cEIssHK) | 2:45 | 2024-04-01 | 2024-05-02 |
-| [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 | 2025-12-05 |  |
+| [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 | 2025-12-05 | 2026-02-07 |
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-12-01 | 2022-01-06 |
 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 | 2024-05-01 | 2024-06-01 |
 | [20 Questions](https://open.spotify.com/track/07HsI0gNBfgju3MnxBcsOn) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:59 | 2023-02-01 | 2023-03-02 |
@@ -55,6 +55,7 @@
 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2022-05-04 | 2022-06-01 |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2022-11-02 | 2022-12-01 |
 | [Addicted](https://open.spotify.com/track/1LefN4ngQU0F49QKq1GEe5) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Addicted](https://open.spotify.com/album/5mIOx6pq7N7kX5Nyl3WLqi) | 3:06 | 2022-01-05 | 2022-02-03 |
+| [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-02-06 |  |
 | [Addicted](https://open.spotify.com/track/7BkqGhv7Al11dEg582Vfu1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Maltman and Effie](https://open.spotify.com/album/3fMhlibIYwYG32CifC7DOq) | 4:21 | 2022-07-06 | 2022-07-29 |
 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 | 2024-11-01 | 2024-12-05 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-05-01 | 2025-01-18 |

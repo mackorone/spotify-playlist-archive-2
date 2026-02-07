@@ -1,12 +1,12 @@
 {
   "description": "Unmask your true love. Listen to the music from Bridgerton.",
-  "num_followers": 1649813,
+  "num_followers": 1653569,
   "original_name": "Bridgerton Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGu5OQWJRNeqZBAlLcfQ2mhslTym",
+  "snapshot_id": "AAAAAEbClHwFgB7K/rwhyVMovxGK/uJj",
   "tracks": [
     {
       "added_at": "2026-01-29 14:00:26",
@@ -467,42 +467,6 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
-        "name": "All I Want (from the Netflix Series \"Bridgerton\")",
-        "url": "https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "All I Want (from the Netflix Series \"Bridgerton\")",
-      "url": "https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Caleb Chan",
-          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
-        },
-        {
-          "name": "Brian Chan",
-          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -535,6 +499,22 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
+        "name": "All I Want (from the Netflix Series \"Bridgerton\")",
+        "url": "https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "All I Want (from the Netflix Series \"Bridgerton\")",
+      "url": "https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 226433,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2qmWh0uDidLJ8yAlPOtq0g"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Chan",
+          "url": "https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS"
+        },
+        {
+          "name": "Brian Chan",
+          "url": "https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -587,22 +587,18 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
-        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Orchestral - from Queen Charlotte: A Bridgerton Story [Covers from the Netflix Series]]",
-        "url": "https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE"
+        "name": "Bridgerton (Covers from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Queen Charlotte's Global Orchestra",
-          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 294250,
-      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Orchestral",
-      "url": "https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD"
+      "duration_ms": 193226,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/1qOsHMitiWT4Zhx9ICzmjW"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -631,6 +627,26 @@
       "duration_ms": 151506,
       "name": "Spring 1 - 2012",
       "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Orchestral - from Queen Charlotte: A Bridgerton Story [Covers from the Netflix Series]]",
+        "url": "https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Queen Charlotte's Global Orchestra",
+          "url": "https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) - Orchestral",
+      "url": "https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -671,42 +687,6 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
-        "name": "Bridgerton (Covers from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/1qOsHMitiWT4Zhx9ICzmjW"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Mike Froudarakis",
-          "url": "https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg"
-        },
-        {
-          "name": "Alexander Leeming Froudakis",
-          "url": "https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8"
-        }
-      ],
-      "duration_ms": 140846,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
         "name": "Bridgerton (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 206185,
       "name": "Meet Dr. Monro",
       "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
+      },
+      "artists": [
+        {
+          "name": "Mike Froudarakis",
+          "url": "https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg"
+        },
+        {
+          "name": "Alexander Leeming Froudakis",
+          "url": "https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8"
+        }
+      ],
+      "duration_ms": 140846,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 99260,
+      "name": "The Real Work Begins - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6gfCyskGqMGvw4lei4cxhJ"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
         "name": "Bridgerton (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
       },
@@ -1124,6 +1140,22 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
+      "duration_ms": 79364,
+      "name": "A Country Visit - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/17dg6Kx2lGJCPmcrwdTTrk"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
       "duration_ms": 77970,
       "name": "Nothing Could Keep Me Away - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/5ek7tr9sYv9X2xbZMPgS1E"
@@ -1175,6 +1207,22 @@
       "duration_ms": 82002,
       "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/4ibFnVHag07dErldkPF7uh"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 83301,
+      "name": "Almost Kiss",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1295,8 +1343,8 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
       },
       "artists": [
         {
@@ -1304,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 176627,
-      "name": "Princess Royal Is Dead",
-      "url": "https://open.spotify.com/track/4P4dSt0h0ktL8h5XCKHSXj"
+      "duration_ms": 231825,
+      "name": "It's My Fault - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/2Yu1t33vjxWFbZTynPk1by"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1320,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 77292,
-      "name": "Rest of Our Lives Together",
-      "url": "https://open.spotify.com/track/0t43ICMyAzfB1sITOLb9pY"
+      "duration_ms": 201303,
+      "name": "He's Not Fine",
+      "url": "https://open.spotify.com/track/4d4caey9TqqMHvs71IbLpM"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1352,9 +1400,97 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 151819,
-      "name": "George Charlotte Montage",
-      "url": "https://open.spotify.com/track/3dV83tzJcZ0gNTJ5nfj7JS"
+      "duration_ms": 97606,
+      "name": "Almost Break Down",
+      "url": "https://open.spotify.com/track/6LD9JOG2mCfJkFdBqoAf4Z"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Saint-Georges: Orchestral Works",
+        "url": "https://open.spotify.com/album/6SKSqIKNlfjUrZiykcEP0W"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boulogne Chevalier de Saint-Georges",
+          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Symphony in G Major, Op. 11 No. 1: I. Allegro",
+      "url": "https://open.spotify.com/track/6wV5Nhsr9Mihm5GLgCsLIV"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Bridgerton (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "What Women Do Best",
+      "url": "https://open.spotify.com/track/5ED4YtbD9MhpbuU25wa0iE"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 176627,
+      "name": "Princess Royal Is Dead",
+      "url": "https://open.spotify.com/track/4P4dSt0h0ktL8h5XCKHSXj"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 132829,
+      "name": "Not Far Enough - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/2EOo0FImBkDqX2c7Ntv5AN"
+    },
+    {
+      "added_at": "2026-01-29 14:00:26",
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 77292,
+      "name": "Rest of Our Lives Together",
+      "url": "https://open.spotify.com/track/0t43ICMyAzfB1sITOLb9pY"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1400,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 151819,
+      "name": "George Charlotte Montage",
+      "url": "https://open.spotify.com/track/3dV83tzJcZ0gNTJ5nfj7JS"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1419,38 +1555,6 @@
       "duration_ms": 164080,
       "name": "Together We Are Whole",
       "url": "https://open.spotify.com/track/2hFPvRHCTeuF3V91avsmHf"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 97606,
-      "name": "Almost Break Down",
-      "url": "https://open.spotify.com/track/6LD9JOG2mCfJkFdBqoAf4Z"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 201303,
-      "name": "He's Not Fine",
-      "url": "https://open.spotify.com/track/4d4caey9TqqMHvs71IbLpM"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1480,41 +1584,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 79364,
-      "name": "A Country Visit - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/17dg6Kx2lGJCPmcrwdTTrk"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
       "duration_ms": 74885,
       "name": "Game Over - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/3AMTM7zr4iQTGG4Zj3eDWq"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 132829,
-      "name": "Not Far Enough - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/2EOo0FImBkDqX2c7Ntv5AN"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1567,30 +1639,6 @@
     {
       "added_at": "2026-01-29 14:00:26",
       "album": {
-        "name": "Saint-Georges: Orchestral Works",
-        "url": "https://open.spotify.com/album/6SKSqIKNlfjUrZiykcEP0W"
-      },
-      "artists": [
-        {
-          "name": "Joseph Boulogne Chevalier de Saint-Georges",
-          "url": "https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU"
-        },
-        {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Symphony in G Major, Op. 11 No. 1: I. Allegro",
-      "url": "https://open.spotify.com/track/6wV5Nhsr9Mihm5GLgCsLIV"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
         "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
       },
@@ -1616,41 +1664,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 99260,
-      "name": "The Real Work Begins - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6gfCyskGqMGvw4lei4cxhJ"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
       "duration_ms": 161405,
       "name": "Choices - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/5NPvjxh3HXBFT64sUr8kWb"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Bridgerton Season Two (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1jhHQPn3EjtdCuKgVTg6Bb"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 231825,
-      "name": "It's My Fault - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/2Yu1t33vjxWFbZTynPk1by"
     },
     {
       "added_at": "2026-01-29 14:00:26",
@@ -1811,22 +1827,6 @@
       "duration_ms": 94520,
       "name": "The Latest Whistledown",
       "url": "https://open.spotify.com/track/5CPrUBHBeR3RnDNtFe5kLP"
-    },
-    {
-      "added_at": "2026-01-29 14:00:26",
-      "album": {
-        "name": "Bridgerton (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/53xXNZwyOsZj68zU023oce"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "What Women Do Best",
-      "url": "https://open.spotify.com/track/5ED4YtbD9MhpbuU25wa0iE"
     },
     {
       "added_at": "2026-01-29 14:00:26",

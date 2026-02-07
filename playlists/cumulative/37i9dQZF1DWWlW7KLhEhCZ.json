@@ -101,6 +101,36 @@
     },
     {
       "album": {
+        "name": "#2 MIB",
+        "url": "https://open.spotify.com/album/5093J278NwHR0osJmg50Tj"
+      },
+      "artists": [
+        {
+          "name": "KARMA SAUCE",
+          "url": "https://open.spotify.com/artist/5siqGFN5LGzXxRDaqNqOGR"
+        },
+        {
+          "name": "Lenco",
+          "url": "https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif"
+        },
+        {
+          "name": "Suke",
+          "url": "https://open.spotify.com/artist/1fVf1HVHHcMdf7mfB32tXg"
+        },
+        {
+          "name": "FELIX",
+          "url": "https://open.spotify.com/artist/1teYp3F6QcqrqvI9PDiCTY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "#2 MIB",
+      "url": "https://open.spotify.com/track/61YavG304c7MmpUwtfiONX"
+    },
+    {
+      "album": {
         "name": "#Fodaseaspritelimpa",
         "url": "https://open.spotify.com/album/6WrfGdoDoCrikxYKtBkwGX"
       },
@@ -4945,6 +4975,32 @@
     },
     {
       "album": {
+        "name": "BBS",
+        "url": "https://open.spotify.com/album/1n7cu43pOVA1AS6yVvv3eI"
+      },
+      "artists": [
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Yrpedro",
+          "url": "https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q"
+        },
+        {
+          "name": "vvallace",
+          "url": "https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241540,
+      "name": "BBS",
+      "url": "https://open.spotify.com/track/0c0TzxScH4B2vxO6LqCNGC"
+    },
+    {
+      "album": {
         "name": "DROP 01: GR6 TRAP\ud83d\udd25",
         "url": "https://open.spotify.com/album/2tgMnCLaAg8A80IX29uDTm"
       },
@@ -5798,6 +5854,28 @@
       "duration_ms": 123485,
       "name": "Borrachinha",
       "url": "https://open.spotify.com/track/5cUAuwzF3woiG1dAsYYdwi"
+    },
+    {
+      "album": {
+        "name": "BOSS BITCH",
+        "url": "https://open.spotify.com/album/1rVEEGfUIxIkIH5ZlOBIGc"
+      },
+      "artists": [
+        {
+          "name": "Emilly Guedes",
+          "url": "https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr"
+        },
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/2OJMqf5cRB8DJwnmyw4UQb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "BOSS BITCH",
+      "url": "https://open.spotify.com/track/4n8f8PthdHxN1EOKFSrlpS"
     },
     {
       "album": {
@@ -14841,6 +14919,28 @@
     },
     {
       "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/6AU8jYEc5Q31wApFiFZArH"
+      },
+      "artists": [
+        {
+          "name": "Lamar",
+          "url": "https://open.spotify.com/artist/7nhonYMPyCNw05h1NBAuLx"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156941,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/20pzteRHEMzVfaNfItDcta"
+    },
+    {
+      "album": {
         "name": "Exibido",
         "url": "https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs"
       },
@@ -15520,6 +15620,24 @@
       "duration_ms": 142901,
       "name": "Feita no Dende (feat. Manboy & Gree Cassua)",
       "url": "https://open.spotify.com/track/3LCQhSPM6ghssdGkE24iKb"
+    },
+    {
+      "album": {
+        "name": "feliznosimples/lowlife",
+        "url": "https://open.spotify.com/album/3V7hPwLuzHHKC4mpWeW4dX"
+      },
+      "artists": [
+        {
+          "name": "costabilekidd",
+          "url": "https://open.spotify.com/artist/4aF4nfq8Pm1Hf6lR5yXqis"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "feliznosimples",
+      "url": "https://open.spotify.com/track/6Us4NOLu1gC1jsmU5kMcnb"
     },
     {
       "album": {
@@ -17432,7 +17550,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 136000,
       "name": "GANA",
       "url": "https://open.spotify.com/track/3RZGqZDuEBMQWbIjCnuB62"
@@ -22874,7 +22992,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 165482,
       "name": "Mateus",
       "url": "https://open.spotify.com/track/6LtWq7rM3IONd50BsahTMg"
@@ -25047,6 +25165,32 @@
     },
     {
       "album": {
+        "name": "Movimentos no Bairro",
+        "url": "https://open.spotify.com/album/6493fyoCgpdXBSFGaGsXkr"
+      },
+      "artists": [
+        {
+          "name": "S7ares",
+          "url": "https://open.spotify.com/artist/2zo20bHF4f9Jzuu3Da6YsU"
+        },
+        {
+          "name": "Yugih",
+          "url": "https://open.spotify.com/artist/1jkeosaV6i2iCWI3oUEzSz"
+        },
+        {
+          "name": "Dreey",
+          "url": "https://open.spotify.com/artist/0o5ExKejzq5LNmUnE4gokW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159687,
+      "name": "Movimentos no Bairro",
+      "url": "https://open.spotify.com/track/5ft4VuHPQHgPNboZQ3F45K"
+    },
+    {
+      "album": {
         "name": "Mr. Lupa Freestyle",
         "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
       },
@@ -25336,7 +25480,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 124137,
       "name": "M\u00edssil",
       "url": "https://open.spotify.com/track/5PtYu94sTpowFHLFUfAqzF"
@@ -25726,6 +25870,28 @@
       "duration_ms": 237500,
       "name": "Nem Tudo S\u00e3o Notas",
       "url": "https://open.spotify.com/track/5QtUv40uaswgFGdURVJ3fG"
+    },
+    {
+      "album": {
+        "name": "Nessas Ruas O Amor N\u00e3o Existe",
+        "url": "https://open.spotify.com/album/0m5H8kja6DSKrvk97mvOjW"
+      },
+      "artists": [
+        {
+          "name": "L300",
+          "url": "https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "Nessas Ruas O Amor N\u00e3o Existe",
+      "url": "https://open.spotify.com/track/2DlD6vQ6y2yTBVcDyPvu90"
     },
     {
       "album": {
@@ -27798,7 +27964,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 137142,
       "name": "OPP",
       "url": "https://open.spotify.com/track/6RFPd0Z5zQFQbj9ySKs5w9"
@@ -32412,7 +32578,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 127058,
       "name": "RAMON DINO",
       "url": "https://open.spotify.com/track/7y8kq0UP9xbRyLrGID6kkl"
@@ -33196,6 +33362,28 @@
       "duration_ms": 166538,
       "name": "Retrato #7 - At\u00e9 Ontem",
       "url": "https://open.spotify.com/track/2SX9UqgDeNlBMWAllmH0bD"
+    },
+    {
+      "album": {
+        "name": "REVANCHE",
+        "url": "https://open.spotify.com/album/41kbRxbZHwd8uKWashR4oP"
+      },
+      "artists": [
+        {
+          "name": "Guap508",
+          "url": "https://open.spotify.com/artist/5RLGW3TPNQOI6EVqRZ7Etc"
+        },
+        {
+          "name": "okie",
+          "url": "https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87272,
+      "name": "REVANCHE",
+      "url": "https://open.spotify.com/track/349GRj9dQjZ8w0DNUu2lrh"
     },
     {
       "album": {
@@ -35218,7 +35406,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 147108,
       "name": "Sexto Sentido",
       "url": "https://open.spotify.com/track/5veV7jAdNnL6VljOD1tZnL"
@@ -39904,7 +40092,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 240205,
       "name": "VELOCIRAPTOR / 15 NO BANGAL\u00d4",
       "url": "https://open.spotify.com/track/7ILmiD2CXgYW6kHYu40AB3"

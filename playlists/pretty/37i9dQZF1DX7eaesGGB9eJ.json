@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 287309,
+  "num_followers": 287435,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
       },
       "artists": [
         {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
         }
       ],
-      "duration_ms": 195520,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -459,22 +463,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+        "name": "33",
+        "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
       },
       "artists": [
         {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
         }
       ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
+      "duration_ms": 195520,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
     },
     {
       "added_at": "2024-07-12 18:14:48",

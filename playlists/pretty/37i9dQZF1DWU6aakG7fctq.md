@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Nina del Río
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,914 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,945 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [cohete](https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [cohete](https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh) | 3:03 |
 | 50 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
 
-Snapshot ID: `AAAAAPjIlDIHJchmNTUEiQ9Fekea2/g8`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

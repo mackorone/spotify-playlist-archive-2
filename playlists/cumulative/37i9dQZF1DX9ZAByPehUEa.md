@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-728 songs - 1 day 19 hr 44 min
+729 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Can't Break Free \- Edit](https://open.spotify.com/track/3VtCXwElp4xqxjDhGAcQHE) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Can't Break Free](https://open.spotify.com/album/6rvAPUSlf34tA7GgVpJJr8) | 2:33 | 2025-03-28 |  |
 | [Can't Stop](https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Can't Stop](https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6) | 2:34 | 2024-03-01 | 2026-01-17 |
 | [Can’t Stop](https://open.spotify.com/track/2PHTL1d8V2UmnVcIDebjQY) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Can’t Stop](https://open.spotify.com/album/2mrrDlJa961xfvs24sF2rC) | 3:39 | 2026-01-23 |  |
+| [Carry Us Away](https://open.spotify.com/track/00BaSQxpdHClflBBUcLNYE) | [DJ Fudge](https://open.spotify.com/artist/5SDOrz6Zieh0kqMhQHjxF0) | [Carry Us Away](https://open.spotify.com/album/6vfUMBcZjcIWTM2Ze0pHYH) | 4:08 | 2026-02-06 |  |
 | [Casablanca \(PRX003\)](https://open.spotify.com/track/4Gv7YLqaBz55e9vtrsJsrA) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Casablanca \(PRX003\)](https://open.spotify.com/album/1G35maESkpGKInECEfA8KC) | 2:36 | 2025-04-25 | 2025-08-23 |
 | [Catch My Love](https://open.spotify.com/track/4Ybsh8xzPmk5Fy8e91hPnW) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Catch My Love](https://open.spotify.com/album/7beVj3EbkwJRhrVklBmb60) | 2:40 | 2025-10-03 |  |
 | [Catching feelings](https://open.spotify.com/track/5WZL03aLF9GVNaa5Q6ATNe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Catching feelings](https://open.spotify.com/album/2lUIfpdrW8OuEgpvPjMhWg) | 3:22 | 2025-05-23 | 2025-06-28 |
@@ -217,7 +218,7 @@
 | [For: Richard](https://open.spotify.com/track/4TEilXinpmvpMD9HS6GvCf) | [Monty Kiddo](https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy) | [Are You Ready?](https://open.spotify.com/album/6mOKg5ED3Y5WHaI9bkFlYI) | 2:28 | 2025-11-28 |  |
 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-09-05 | 2024-01-06 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/17QrcVC1RSKFJ9fg2oMN7H) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\) \[Bklava Remix\]](https://open.spotify.com/album/05v6YXgPWPRIJv884rYtfQ) | 3:33 | 2024-01-05 | 2025-08-17 |
-| [Free Yourself](https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:54 | 2024-01-05 |  |
+| [Free Yourself](https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:54 | 2024-01-05 | 2026-02-07 |
 | [Freedom \(Never Let You Go\)](https://open.spotify.com/track/0AobTeawzXgsGlVnmFtIR7) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [Freedom \(Never Let You Go\)](https://open.spotify.com/album/0ds4tb0fPCO9cCR58qpuEQ) | 3:37 | 2022-01-14 | 2022-07-29 |
 | [Funk Forever](https://open.spotify.com/track/2Rae0A8tJrGO9sWQ2p2213) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Funk Forever](https://open.spotify.com/album/6ckX6Ms2262m9qs4C3dk9e) | 3:49 | 2025-07-23 |  |
 | [Funky And You Know It \- Myd Remix](https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Funky And You Know It \(Myd Remix\)](https://open.spotify.com/album/2vtx99PYX49EtS6WPu9kxX) | 3:03 | 2024-04-12 | 2025-02-04 |

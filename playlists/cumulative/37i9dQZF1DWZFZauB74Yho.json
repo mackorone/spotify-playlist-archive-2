@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Della Mae",
+  "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Steep Canyon Rangers",
   "name": "New Grass",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 196440,
       "name": "Adaline",
       "url": "https://open.spotify.com/track/7k26M5gQBzggbDRQrf9qSc"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/0PckBvGjOx8bmhStEXo1jo"
+      },
+      "artists": [
+        {
+          "name": "Big Richard",
+          "url": "https://open.spotify.com/artist/6eFN4r6XUT4l9Dh2iHK5Rt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236734,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6XqFLODoL2Kjaq5Lgxifwj"
     },
     {
       "album": {
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 220640,
       "name": "Broken Angels",
       "url": "https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ"
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 187506,
       "name": "Gone, Baby, Gone",
       "url": "https://open.spotify.com/track/2hHO4NjtBhriKCtP8thPqr"
@@ -3172,6 +3190,28 @@
       "duration_ms": 192885,
       "name": "Heart Shaped Locket - Audiotree Live Version",
       "url": "https://open.spotify.com/track/0xtPw399HQvRWJ2ZUCM9kn"
+    },
+    {
+      "album": {
+        "name": "Heart's the Only Compass",
+        "url": "https://open.spotify.com/album/6dcY7Wqqq4MI7mhg6FuH3p"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Heart's the Only Compass",
+      "url": "https://open.spotify.com/track/0LZ8bMSHptpRE2JVuxfgLH"
     },
     {
       "album": {
@@ -4886,7 +4926,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 156089,
       "name": "Lunar Window",
       "url": "https://open.spotify.com/track/6Ee0SELbAmrFs99SITTKdz"
@@ -6993,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/1iYJFhjnTCcLfY2FMpe6Q1"
+      },
+      "artists": [
+        {
+          "name": "Pert Near Sandstone",
+          "url": "https://open.spotify.com/artist/5EKtYMQpAdMk23Or1eHCvW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0bacoKwJaea0CRiiUkUTud"
+    },
+    {
+      "album": {
         "name": "Shredder",
         "url": "https://open.spotify.com/album/2CsquCXnLFDkiIRSYOCVxk"
       },
@@ -9004,6 +9062,24 @@
       "duration_ms": 215206,
       "name": "Wild and Clear and Blue",
       "url": "https://open.spotify.com/track/6OIvQ2YzNJ2tckkVkUqieI"
+    },
+    {
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/7lB4oTxnRpz8Nu0zuvzUvx"
+      },
+      "artists": [
+        {
+          "name": "Jackson Hollow",
+          "url": "https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182362,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/5ldhayGF3ARyIxwa5JvIUN"
     },
     {
       "album": {

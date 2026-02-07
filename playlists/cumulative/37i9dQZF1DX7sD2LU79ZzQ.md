@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Shabrina Leanor
 
-1,370 songs - 3 day 15 hr 36 min
+1,371 songs - 3 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Cerah](https://open.spotify.com/track/0i0Yv9X7PiYQ2koVWruJ6K) | [Hyndia](https://open.spotify.com/artist/6rz8KB9pctNbwzJVvRb4sK) | [Cerah](https://open.spotify.com/album/6I38L8dsQN18LrIQlTVpCr) | 4:13 | 2024-05-02 | 2024-05-24 |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-07-25 | 2024-09-06 |
 | [Cerita Besar](https://open.spotify.com/track/4jAaFlFrYtqFB65JxM9M1K) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Cerita Besar](https://open.spotify.com/album/0ZvokaDpFyUvUX68TalBtf) | 3:57 | 2025-03-20 | 2025-05-09 |
+| [Cerita Cinta Kita](https://open.spotify.com/track/37czeVKj0aS5KjQQ6bXv56) | [Ivan Tandyo](https://open.spotify.com/artist/2qi45OSWJeq0lyAng2Lh5Y), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cerita Cinta Kita](https://open.spotify.com/album/40VWIAIpgokqavIjdhjffv) | 4:16 | 2026-02-06 |  |
 | [Cerita Di Senayan](https://open.spotify.com/track/0uw6SFaV6PDNHICo5kEdNe) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du), [J\. Alfredo](https://open.spotify.com/artist/3pGS4Bk97JrMMxiNFzU8jW) | [Cerita Di Senayan](https://open.spotify.com/album/100B9jJV6bEp4H5U7GrWrn) | 4:16 | 2025-01-23 | 2025-03-07 |
 | [Cerita Kesukaan](https://open.spotify.com/track/4IIDpuAwz4Z09um3WO8w72) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Cerita Kesukaan](https://open.spotify.com/album/7J2a6GtijKo90K8sq2YaJJ) | 3:30 | 2025-10-16 | 2025-11-28 |
 | [Cerita Rindu](https://open.spotify.com/track/4RHmDOf8MPQWLNOp8PxVjZ) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Cerita Rindu](https://open.spotify.com/album/1xG4SXxhcwqsL8DEZH9Zbo) | 4:01 | 2024-12-19 | 2025-02-07 |

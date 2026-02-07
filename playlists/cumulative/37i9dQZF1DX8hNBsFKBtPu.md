@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-791 songs - 1 day 16 hr 30 min
+792 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Everything Everywhere at Once](https://open.spotify.com/track/5qXxXEoDQvkGc0aw4DTEmJ) | [Kleo](https://open.spotify.com/artist/3UvjfeWjJTe7E88iz1dWbc) | [Everything Everywhere at Once](https://open.spotify.com/album/4ySnolM6OMKtRVbCs3FFXf) | 2:44 | 2025-05-08 | 2025-07-11 |
 | [Everything Once](https://open.spotify.com/track/22hGKB6H8np9tHazn84qLe) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0) | [Everything Once](https://open.spotify.com/album/7io8ZiO5AkjCYwkuXjuN6o) | 4:11 | 2025-11-21 |  |
 | [Eyes On You \(feat\. Ida & Annika\)](https://open.spotify.com/track/7zrpsIDtsWPzrMAW2zZeYz) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr), [Ida & Annika](https://open.spotify.com/artist/6f49Y3mRQ68px4jpR4x4ew) | [Ages](https://open.spotify.com/album/2p0BnYrZIL8fWLZ3GUaJ5z) | 3:06 | 2025-10-16 | 2025-11-22 |
+| [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-05 |  |
 | [Fall In Love With Your Life](https://open.spotify.com/track/5xdYMxd96DeE35dmrs1Oi6) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Fall In Love With Your Life](https://open.spotify.com/album/5Wd25sRzDtlh1AjPjqAHKf) | 3:24 | 2026-01-19 |  |
 | [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-23 | 2026-01-15 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-17 |
@@ -661,7 +662,7 @@
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-03-28 |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-18 | 2025-04-18 |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-10 | 2025-10-24 |
-| [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [](https://open.spotify.com/album/null) | 4:17 | 2026-02-05 |  |
+| [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 4:17 | 2026-02-05 |  |
 | [Syg af følelser](https://open.spotify.com/track/26xQNPL2NfgQEzwezhcOml) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Sikkert syg af følelser](https://open.spotify.com/album/20fZqsijpjF3PbufuepQbD) | 2:51 | 2025-10-23 | 2025-11-22 |
 | [Syg Tid](https://open.spotify.com/track/3HHHBXCzRDYpTVzqHkVOZ4) | [Shaka Loveless](https://open.spotify.com/artist/1g0jeVx0irpIIjoOEflsHj) | [Syg Tid](https://open.spotify.com/album/7tHCDFKsLQUpMZQJwy3Wzp) | 2:46 | 2024-08-15 | 2024-10-04 |
 | [Sygeplejerske på nattevagt \(feat\. Molly Sandén & Delara\)](https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:59 | 2025-09-18 | 2025-10-31 |

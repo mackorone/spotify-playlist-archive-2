@@ -1,13 +1,101 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Thundercat",
-  "num_followers": 1328577,
+  "description": "Genre-less. Quality first always. Cover: Charlotte Day Wilson",
+  "num_followers": 1328549,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvRVZ/Hp/NWsauuqtp3FOExuYcj",
+  "snapshot_id": "AAAAAG5nFtRrGOgkGnIhWf3A955QCX1O",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
+    },
+    {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "JOY (Nobody Ever)",
+        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "JOY (Nobody Ever) 7\u201d mix",
+      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
+    },
+    {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "Flood / Glow",
+        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Flood (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
+    },
+    {
+      "added_at": "2026-01-23 05:00:28",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 227423,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
+    },
+    {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
     {
       "added_at": "2026-01-30 05:01:11",
       "album": {
@@ -33,6 +121,26 @@
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
     },
     {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "A Thousand Steps",
+      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
+    },
+    {
       "added_at": "2026-01-30 05:01:11",
       "album": {
         "name": "Fara",
@@ -47,6 +155,22 @@
       "duration_ms": 182472,
       "name": "Fara",
       "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+    },
+    {
+      "added_at": "2026-02-06 05:00:41",
+      "album": {
+        "name": "AQUA-VISION",
+        "url": "https://open.spotify.com/album/6W7047CNWGgWmHHCNe6hh0"
+      },
+      "artists": [
+        {
+          "name": "Kuomo",
+          "url": "https://open.spotify.com/artist/3ETRyR7jFwyWfRT18A3qm4"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "BLINDED",
+      "url": "https://open.spotify.com/track/4BjZJvjU8KAvOKlhjT0d3Q"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -65,22 +189,6 @@
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 227423,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
-    },
-    {
       "added_at": "2026-01-30 05:01:11",
       "album": {
         "name": "5words",
@@ -95,26 +203,6 @@
       "duration_ms": 317613,
       "name": "5words",
       "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "Lean",
-        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 233486,
-      "name": "Lean",
-      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
     },
     {
       "added_at": "2026-01-23 05:00:28",
@@ -147,6 +235,26 @@
       "duration_ms": 190760,
       "name": "Walking Dead",
       "url": "https://open.spotify.com/track/7oIRCIarI1IXl3DXjLeYRy"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
     },
     {
       "added_at": "2026-01-30 05:01:11",
@@ -1461,38 +1569,6 @@
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "A BUG'S LIFE",
-        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "A BUG'S LIFE",
-      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "Debt",
-        "url": "https://open.spotify.com/album/6GxqLal7BQhOxYXGOIQADk"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 242794,
-      "name": "Chop Chop Movie Boy",
-      "url": "https://open.spotify.com/track/6loGPmZjW30h6JEyJ4wdmd"
-    },
-    {
       "added_at": "2025-10-24 04:00:24",
       "album": {
         "name": "Tropical Storm",
@@ -1531,26 +1607,6 @@
       "duration_ms": 288450,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6fgGUaT6f1hmfLSSsAjuKM"
-    },
-    {
-      "added_at": "2025-10-17 04:00:51",
-      "album": {
-        "name": "SMOKIN POTNA",
-        "url": "https://open.spotify.com/album/5qpj22OHmpSXlT6eG9OfYP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 153145,
-      "name": "SMOKIN POTNA",
-      "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
       "added_at": "2025-10-10 04:00:40",
@@ -1685,22 +1741,6 @@
       "url": "https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l"
     },
     {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "BEASTIE",
-        "url": "https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "bleach",
-      "url": "https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89"
-    },
-    {
       "added_at": "2025-10-03 00:00:34",
       "album": {
         "name": "The Coward Forgets His Nightmare",
@@ -1751,42 +1791,6 @@
       "duration_ms": 187185,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
-    },
-    {
-      "added_at": "2025-09-26 04:00:09",
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
-    },
-    {
-      "added_at": "2025-09-19 04:00:40",
-      "album": {
-        "name": "The Last Great American Summer",
-        "url": "https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 205495,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/2TtD1mFpD1PKaCPGJvONRV"
     }
   ],
   "unique_name": "POLLEN",

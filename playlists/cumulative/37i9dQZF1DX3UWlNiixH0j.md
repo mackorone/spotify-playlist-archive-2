@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: KID FRESINO
 
-2,981 songs - 7 day 18 hr 51 min
+2,982 songs - 7 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [GPS](https://open.spotify.com/track/07p84hBZV8ViWuSLXtCvfF) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [GPS](https://open.spotify.com/album/4HNInw0g44IblsgpOAXZVm) | 4:01 | 2023-01-24 | 2023-02-15 |
 | [Graduate?](https://open.spotify.com/track/3WpSjOiEzXGH6uhXGiPf5P) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [IN NEUTRAL](https://open.spotify.com/album/3DuyCMdGyXiNFVveVfgten) | 4:00 | 2023-01-12 | 2023-01-25 |
 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 | 2025-08-12 | 2025-12-03 |
+| [grue](https://open.spotify.com/track/75pLsdloo6CR6zsCOfYZmp) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk), [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [情操の空き地](https://open.spotify.com/album/4DZNVejri3dFbIP5qmfGr1) | 2:54 | 2026-02-03 |  |
 | [HALF MOON](https://open.spotify.com/track/1X5NWoZGa3lAkEXc3X0ePz) | [CLW](https://open.spotify.com/artist/3AdT56nR7XhsCrmkb21sPv) | [HALF MOON](https://open.spotify.com/album/7L87A5UTLNtjaGr9ydxAKs) | 4:57 | 2025-09-16 | 2025-10-01 |
 | [HALL\-ROLL](https://open.spotify.com/track/7hynAayzA6HbcRMQmjcv5n) | [KENT VALLEY](https://open.spotify.com/artist/16TsqZdOE4NBhgUe0d3up7) | [HALL\-ROLL](https://open.spotify.com/album/4ZhZ61OsyegB5P42LjcvPu) | 3:11 | 2023-01-12 | 2023-02-22 |
 | [Hallucination](https://open.spotify.com/track/0It2SQ2MHPHB3vCBWCD0DD) | [Khamai Leon](https://open.spotify.com/artist/0XR6pwgaNullwNSqnmnhHb) | [Hallucination](https://open.spotify.com/album/3xwLYkLHbMoqYyvQnVf00M) | 4:09 | 2025-12-09 | 2025-12-17 |
@@ -2909,7 +2910,7 @@
 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 | 2025-08-05 | 2026-01-15 |
 | [赤と青](https://open.spotify.com/track/2udGq9U6BVzKk2UqTpji45) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [HOWL](https://open.spotify.com/album/4zkYI1CfV3vD2r40Cpe4iT) | 3:13 | 2023-03-30 | 2024-03-08 |
 | [走れ、ロマンス1号](https://open.spotify.com/track/6b97xQBSCinGFNJ5PpXDam) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [走れ、ロマンス1号](https://open.spotify.com/album/4b7gnsLniYOtUe509iovFS) | 3:25 | 2025-03-04 | 2025-03-12 |
-| [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 | 2025-09-23 |  |
+| [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 | 2025-09-23 | 2026-02-07 |
 | [足りない](https://open.spotify.com/track/2byIhLkN8lTEODx3CvfSpK) | [しんきろうのまち](https://open.spotify.com/artist/4fbq9ZbNik4Qze3IgCtHBR) | [足りない](https://open.spotify.com/album/1ajJa4aeoC6B8sDzLyp93f) | 3:53 | 2025-06-17 | 2025-06-25 |
 | [迎](https://open.spotify.com/track/40B8VGHyDQEa4JlrI6LatP) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [音のする部屋](https://open.spotify.com/album/4yagD5QweRyEZWvnMB59RX) | 3:02 | 2025-03-04 | 2025-06-18 |
 | [近い夜明け](https://open.spotify.com/track/2a8183S8N1XtyHBbBOoFYy) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [近い夜明け](https://open.spotify.com/album/5cmjQoKSSl3HdQphqKpLvo) | 4:05 | 2023-05-02 | 2023-06-14 |

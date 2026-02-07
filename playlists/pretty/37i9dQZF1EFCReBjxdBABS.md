@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 127 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 127 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 67 | [Greatest Show On Dirt](https://open.spotify.com/track/6FWY4E5i2nK96uenNx0yfV) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Greatest Show On Dirt](https://open.spotify.com/album/1QILqfKPa0NhK08YD6a79q) | 3:14 |
 | 68 | [Granted](https://open.spotify.com/track/3SoRJ8T5ttium7FSUfrBF8) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Granted](https://open.spotify.com/album/0aqiLiJHhzqbLZispCNATc) | 3:09 |
 | 69 | [Right Things Right](https://open.spotify.com/track/0KZaJHCvCIQahrENs4Wyaj) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Into The Neon](https://open.spotify.com/album/4x2LrG46EWrM6jkCie0YuU) | 3:39 |
-| 70 | [Shovel](https://open.spotify.com/track/5ao3rMEaYM0I6GjhNe7ZX5) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Shovel](https://open.spotify.com/album/2KbjBBp1XuxhY5UZUke66S) | 2:47 |
-| 71 | [Phones And Radios](https://open.spotify.com/track/22R9NMqZeOjb3AvOhRgaDZ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:46 |
+| 70 | [Phones And Radios](https://open.spotify.com/track/22R9NMqZeOjb3AvOhRgaDZ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:46 |
+| 71 | [Shovel](https://open.spotify.com/track/5ao3rMEaYM0I6GjhNe7ZX5) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Shovel](https://open.spotify.com/album/2KbjBBp1XuxhY5UZUke66S) | 2:47 |
 | 72 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 |
 | 73 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 |
 | 74 | [Slip on Back](https://open.spotify.com/track/5YHCNCgU0qXXf33yKlkBM9) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Jaden Hamilton](https://open.spotify.com/album/0wGXb4LwelW4nLNeJ5jWm3) | 2:53 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 89 | [Girls Like Me](https://open.spotify.com/track/5cSHji0JXin8rAkuOQ6CPi) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/27v62mfeYDZhOX2fXoIVcK) | 2:51 |
 | 90 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 |
 | 91 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
-| 92 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
-| 93 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 92 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
+| 93 | [Same Kind of Crazy](https://open.spotify.com/track/0kBSNUDkV3UjlO7Y1kZ1xQ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [36/86 EP](https://open.spotify.com/album/0cfbDWwjQ3FORWD1RhwDEW) | 2:31 |
 | 94 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
 | 95 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
 | 96 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 126 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 127 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcI4zAAAAACanik8USRr6bpJDZgWXFo9`
+Snapshot ID: `AcI+bAAAAABu70LOnS12xrrNnJEgejCH`

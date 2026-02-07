@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-192 songs - 8 hr 8 min
+194 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2024-12-06 | 2025-05-24 |
 | [DEMON HOME](https://open.spotify.com/track/6IoVm0ggNarpZNAGZz8mtc) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [DEMON HOME](https://open.spotify.com/album/1o9z5t0xuvOcOp3VZ4ElXH) | 1:31 | 2025-06-20 | 2025-09-20 |
-| [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 | 2025-06-06 |  |
+| [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 | 2025-06-06 | 2026-02-07 |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 | 2025-06-21 |
@@ -79,6 +79,7 @@
 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 | 2023-12-01 | 2024-09-21 |
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-06-01 |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
+| [Hurting](https://open.spotify.com/track/0tWhCPNjhc9t64S17gE0hw) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [Hurting](https://open.spotify.com/album/2p7RhIT6IKHsHiJOIxgMB9) | 2:50 | 2026-02-06 |  |
 | [i need meds](https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i need meds](https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL) | 1:35 | 2025-08-08 | 2025-11-22 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
 | [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 | 2024-09-03 | 2024-12-07 |
@@ -153,6 +154,7 @@
 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 | 2024-07-31 | 2025-10-18 |
 | [President \(feat\. Ken Carson\)](https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [President \(feat\. Ken Carson\)](https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8) | 3:07 | 2024-04-26 |  |
 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 | 2025-08-01 |  |
+| [Pwned](https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Pwned](https://open.spotify.com/album/0grZYBy7nQIG8G9XDGkf9o) | 1:49 | 2026-02-06 |  |
 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-23 |  |
 | [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 | 2025-08-09 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 | 2025-07-12 |
@@ -193,7 +195,7 @@
 | [Way Up!](https://open.spotify.com/track/7mj1prKBTEisjBlahW1PSK) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Way Up!](https://open.spotify.com/album/6c36BqvLIyeL5NEGt4o0EP) | 2:26 | 2023-12-01 | 2024-02-03 |
 | [What It Is?!](https://open.spotify.com/track/4NgMDPV2mIh6MUkqkyNmP3) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [What It Is?!](https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ) | 3:13 | 2023-12-01 | 2025-08-02 |
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-12-01 | 2024-03-16 |
-| [Whitney](https://open.spotify.com/track/2vdAs3WHThXVp9ESCiQH9f) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Whitney](https://open.spotify.com/album/1qPsMc4JMJ0AiwZQ9YU0lH) | 1:57 | 2025-12-12 |  |
+| [Whitney](https://open.spotify.com/track/2vdAs3WHThXVp9ESCiQH9f) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Whitney](https://open.spotify.com/album/1qPsMc4JMJ0AiwZQ9YU0lH) | 1:57 | 2025-12-12 | 2026-02-07 |
 | [WISH I COULD TELL YOU](https://open.spotify.com/track/7mAIh2cjeAXId5k6j74mCj) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:56 | 2023-12-01 | 2024-06-01 |
 | [WITH THE MAFIA](https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [WITH THE MAFIA](https://open.spotify.com/album/1ptHy3DR2LDt747iEh54eH) | 2:23 | 2025-10-17 |  |
 | [Wokeup](https://open.spotify.com/track/3jM9VzF2d1AMUyTD8sTmPu) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Wokeup](https://open.spotify.com/album/3hi8gSzAJT4KGaJrylnccp) | 1:55 | 2024-03-15 | 2024-08-21 |

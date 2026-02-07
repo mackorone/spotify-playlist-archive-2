@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Tedashii",
+  "description": "The best of Christian Hip Hop today.  Cover: Lecrae",
   "name": "The Flow",
   "tracks": [
     {
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 171515,
       "name": "ALL STAR CAST",
       "url": "https://open.spotify.com/track/1kV2Es0TXayxxFI22Ctesi"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 152307,
       "name": "ALLRIGHTYTHEN",
       "url": "https://open.spotify.com/track/3mzsBxurkkBrfEVVMR3S8Y"
@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "Black Sheep II",
+        "url": "https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154169,
+      "name": "Black Sheep II",
+      "url": "https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu"
+    },
+    {
+      "album": {
         "name": "Love What You Do",
         "url": "https://open.spotify.com/album/4JeXKwggFxLU9TaOZJSvfG"
       },
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 139711,
       "name": "BRING HEAVEN DOWN",
       "url": "https://open.spotify.com/track/73HaBYHGkb2uYTvRmKaf4u"
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 159962,
       "name": "BROOKLYN JAZZ MAN",
       "url": "https://open.spotify.com/track/6UGGJPrVDivoej6suZVdtG"
@@ -5434,7 +5456,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 141818,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3mthWuWDzGqEmgved1EmTx"
@@ -8380,7 +8402,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 147882,
       "name": "GANGSTA - Remix",
       "url": "https://open.spotify.com/track/32HQbR1EwBceJWeKoHnkqi"
@@ -9037,6 +9059,28 @@
     },
     {
       "album": {
+        "name": "THE PROPER TAPE",
+        "url": "https://open.spotify.com/album/6a2jWSXGIYiTxC7QkTohkK"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        },
+        {
+          "name": "ROBO2K",
+          "url": "https://open.spotify.com/artist/3iWvLiWzCAG92y63itEmtx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115250,
+      "name": "GOD IS NEVER LATE",
+      "url": "https://open.spotify.com/track/4qRWI5I9my6qx8fo0kwRaH"
+    },
+    {
+      "album": {
         "name": "GOD IS THE BEST",
         "url": "https://open.spotify.com/album/3mLwour0Ztv8lWH3lf0YNy"
       },
@@ -9172,7 +9216,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 160040,
       "name": "GOD'S TIMING",
       "url": "https://open.spotify.com/track/6nJNDk1ieuZ8cvlYJ1gMtz"
@@ -12550,7 +12594,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 111110,
       "name": "JESUS IS LORD",
       "url": "https://open.spotify.com/track/2YYWFVVEKQbn74uifc6gLh"
@@ -14239,6 +14283,46 @@
     },
     {
       "album": {
+        "name": "Live For The Culture",
+        "url": "https://open.spotify.com/album/5XmPzBDoaT1PxbFOpvhlgo"
+      },
+      "artists": [
+        {
+          "name": "Cory Ard",
+          "url": "https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb"
+        },
+        {
+          "name": "Konata Small",
+          "url": "https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Live For The Culture",
+      "url": "https://open.spotify.com/track/4UdtxGQYQIpcVIqPoqSndJ"
+    },
+    {
+      "album": {
+        "name": "Reconstruction: Second Story",
+        "url": "https://open.spotify.com/album/2DhoiwGl6jcbrMhCSwP44c"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129535,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/7yYf4UIKpToCCggs40VZeu"
+    },
+    {
+      "album": {
         "name": "lo-feels",
         "url": "https://open.spotify.com/album/2HefUKJd2VaKXK79An5Ss2"
       },
@@ -14412,6 +14496,36 @@
       "duration_ms": 173522,
       "name": "Look Up to the Sky",
       "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+    },
+    {
+      "album": {
+        "name": "LORD JESUS",
+        "url": "https://open.spotify.com/album/49xq5t53YZm4bKkPqaQ9B7"
+      },
+      "artists": [
+        {
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162082,
+      "name": "LORD JESUS",
+      "url": "https://open.spotify.com/track/3fhJOOW5qVGpdUWbogQZOx"
     },
     {
       "album": {
@@ -15081,6 +15195,24 @@
     },
     {
       "album": {
+        "name": "mental health. (heaven's remix)",
+        "url": "https://open.spotify.com/album/6ajcTfDhyKJagjVulGqiAf"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152404,
+      "name": "mental health. - heaven's remix",
+      "url": "https://open.spotify.com/track/3VMJQzCWSUZce4pfql0Pp1"
+    },
+    {
+      "album": {
         "name": "MERCY",
         "url": "https://open.spotify.com/album/2VSNUZDfBWRtqQYRu6Tp9E"
       },
@@ -15586,7 +15718,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 174673,
       "name": "MOVE IT!",
       "url": "https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ"
@@ -19620,7 +19752,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 132666,
       "name": "RAIN ON ME",
       "url": "https://open.spotify.com/track/2MYo9BI8aO2884Y0GrgLj3"
@@ -19660,6 +19792,28 @@
       "duration_ms": 148754,
       "name": "Ram in the Bush",
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+    },
+    {
+      "album": {
+        "name": "RAP SUPERSTAR",
+        "url": "https://open.spotify.com/album/2BMupHnTTd7zINab0Dapra"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "RAP SUPERSTAR",
+      "url": "https://open.spotify.com/track/1ide4NVTIqkpOfzLW3Yqjq"
     },
     {
       "album": {
@@ -20707,6 +20861,28 @@
     },
     {
       "album": {
+        "name": "ROOFTOP",
+        "url": "https://open.spotify.com/album/0SQLNgnjNrV2smyLTgjW4L"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202691,
+      "name": "ROOFTOP",
+      "url": "https://open.spotify.com/track/6WTEUiCwTxEqbw8o1dqLBn"
+    },
+    {
+      "album": {
         "name": "Rooftop Freestyle",
         "url": "https://open.spotify.com/album/3zgi7I0YyzMLqkpj6kxlYJ"
       },
@@ -20832,6 +21008,24 @@
       "duration_ms": 139593,
       "name": "Run It",
       "url": "https://open.spotify.com/track/3Nfwi4mUJORfeYNR9dx36x"
+    },
+    {
+      "album": {
+        "name": "RUN IT!",
+        "url": "https://open.spotify.com/album/1Ym3lnaWWzzErwS4COZAOB"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127721,
+      "name": "RUN IT!",
+      "url": "https://open.spotify.com/track/3QQ3OhsdcR5JhZdYOh9zPw"
     },
     {
       "album": {
@@ -24139,6 +24333,28 @@
     },
     {
       "album": {
+        "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
+        "url": "https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186478,
+      "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
+      "url": "https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/6tIQf2QfWUrQXEAIPONkhc"
       },
@@ -24246,7 +24462,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 195957,
       "name": "The Way You Love (feat. Jon Keith)",
       "url": "https://open.spotify.com/track/1QvsH4JWdJSiskgvVnE7Zt"
@@ -26679,6 +26895,28 @@
     },
     {
       "album": {
+        "name": "WHO BIGGER",
+        "url": "https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "FrankRilla",
+          "url": "https://open.spotify.com/artist/56WmbdbjnfVJLhl8xuWytm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144300,
+      "name": "WHO BIGGER",
+      "url": "https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU"
+    },
+    {
+      "album": {
         "name": "Who Is Y'all",
         "url": "https://open.spotify.com/album/6OsltyWcbH0oJtEIBFZMat"
       },
@@ -26720,6 +26958,36 @@
       "duration_ms": 144533,
       "name": "Who That Is",
       "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
+    },
+    {
+      "album": {
+        "name": "WHO THE ONE",
+        "url": "https://open.spotify.com/album/270jt5TwoQjShURlLh7MK1"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206156,
+      "name": "WHO THE ONE",
+      "url": "https://open.spotify.com/track/0FUcvwNOsAwybzjXRkog4o"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "you met me at a very indie twang time in my life... Snocaps on the cover",
+  "description": "you met me at a very indie twang time in my life... Ratboys on the cover",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 245640,
       "name": "Cattails",
       "url": "https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 305121,
       "name": "Cowgirl Giving",
       "url": "https://open.spotify.com/track/5iByVlZlOmIVTPbF34VSTM"
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 283536,
       "name": "Do You Understand (What Has Happened to You)",
       "url": "https://open.spotify.com/track/16bB8g67GwAhSBewSTP00a"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 457344,
       "name": "Foggy",
       "url": "https://open.spotify.com/track/6uIrr2sILRAiSlU8DX6IW3"
@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Penny in the Lake",
+        "url": "https://open.spotify.com/album/0S0JTdP9qAROyrjNOXe35Q"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231957,
+      "name": "Penny in the Lake",
+      "url": "https://open.spotify.com/track/5evrRclzNI40NmyRNIjr79"
+    },
+    {
+      "album": {
         "name": "Pieces of Gold",
         "url": "https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3"
       },
@@ -4293,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Ring Of Fire",
+        "url": "https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232138,
+      "name": "Ring Of Fire",
+      "url": "https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT"
+    },
+    {
+      "album": {
         "name": "Rivers That You Cannot See",
         "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
@@ -4358,7 +4394,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 284266,
       "name": "Run It Again",
       "url": "https://open.spotify.com/track/3ol4NqkJz0zRGSZ4mgDVIC"
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 320548,
       "name": "Solar Pilgrim",
       "url": "https://open.spotify.com/track/2diIDjwlKc20RCAZbduELu"
@@ -5380,7 +5416,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 190597,
       "name": "The World, So Madly",
       "url": "https://open.spotify.com/track/7jlL5ZEAtOd6V3WHXvBeGs"
@@ -5705,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "Twisters",
+        "url": "https://open.spotify.com/album/44vVFtmIcnMp3pfezhbaup"
+      },
+      "artists": [
+        {
+          "name": "Brown Horse",
+          "url": "https://open.spotify.com/artist/5jYoMTS97gumYysL3iAwLI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260010,
+      "name": "Twisters",
+      "url": "https://open.spotify.com/track/2kmhvD9LVLIQNodiU6LB9E"
+    },
+    {
+      "album": {
         "name": "Underdressed at the Symphony",
         "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
@@ -5734,7 +5788,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 301578,
       "name": "Ur Name on a Grain of Rice",
       "url": "https://open.spotify.com/track/6RmefriEmuqmToFqMlvwlF"

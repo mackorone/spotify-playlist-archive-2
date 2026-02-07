@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578719,
+  "num_followers": 578695,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-02 13:42:46",
       "album": {
-        "name": "Sumpa",
-        "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
-      },
-      "artists": [
-        {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Sumpa",
-      "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
-    },
-    {
-      "added_at": "2026-02-02 13:42:46",
-      "album": {
         "name": "Lihim",
         "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
+    },
+    {
+      "added_at": "2026-02-02 13:42:46",
+      "album": {
+        "name": "Sumpa",
+        "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Sumpa",
+      "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
     },
     {
       "added_at": "2026-02-02 13:42:46",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-02-02 13:42:46",
       "album": {
-        "name": "Pag-Ibig (Meron Ba?)",
-        "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
+        "name": "SWABE",
+        "url": "https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L"
       },
       "artists": [
         {
-          "name": "Ace Banzuelo",
-          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
         }
       ],
-      "duration_ms": 262840,
-      "name": "Pag-Ibig (Meron Ba?)",
-      "url": "https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m"
+      "duration_ms": 277145,
+      "name": "A Little Bit",
+      "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
     }
   ],
   "unique_name": "Relax Tayo",

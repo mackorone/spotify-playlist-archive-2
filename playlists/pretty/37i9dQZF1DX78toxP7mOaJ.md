@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: The Sophs
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,370 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,382 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 75 | [Future Spring](https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33) | [Gladie](https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6) | [Future Spring](https://open.spotify.com/album/2z8jMCHWLiETTJAsHRIMId) | 2:45 |
 | 76 | [Come Around](https://open.spotify.com/track/07ZhZzinKGgtw8ZqgTFfKt) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [No One's Listening](https://open.spotify.com/album/0hwp57xaRsrTakM4HkZzTn) | 3:13 |
 | 77 | [After You](https://open.spotify.com/track/5o5icO4z7IE5I8Qpwwh2T0) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Lust for Life, Or: 'How To Thread The Needle And Come Out The Other Side To Tell The Story'](https://open.spotify.com/album/7m3pnC0KsBgoLlkTkiaId6) | 2:28 |
-| 78 | [Darker Side](https://open.spotify.com/track/429VidHS7P089fU0srRiW0) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7) | [Darker Side](https://open.spotify.com/album/2vzcU1L1fjapBH1ihTPOP8) | 3:01 |
+| 78 | [Darker Side](https://open.spotify.com/track/429VidHS7P089fU0srRiW0) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Darker Side](https://open.spotify.com/album/2vzcU1L1fjapBH1ihTPOP8) | 3:01 |
 | 79 | [Changes](https://open.spotify.com/track/2VjI9YVlSxVDPzth59lMAb) | [Alien Boy](https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j) | [You Wanna Fade?](https://open.spotify.com/album/5U51CwRUXkYgYjeIaWUaGb) | 3:50 |
 | 80 | [Unbelonging](https://open.spotify.com/track/6tB3uZRuELVlxc5XyTr8uE) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Last Leg of the Human Table](https://open.spotify.com/album/71Hy1xx5UXkMPZ6QAZ4SG8) | 3:30 |
 | 81 | [Four](https://open.spotify.com/track/0IIyQPGHIHj3PChgUd1ilE) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Never Exhale](https://open.spotify.com/album/6FLTTZUT3zqFapjxxLd3mi) | 3:00 |

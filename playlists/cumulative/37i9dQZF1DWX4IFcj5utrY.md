@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: Dwson
 
-1,445 songs - 5 day 8 hr 10 min
+1,445 songs - 5 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [Senake \- Radio Edit](https://open.spotify.com/track/4gmKpWRZydgXOMqhhMNEGU) | [Manyelo Dafro](https://open.spotify.com/artist/6QdNEtg0uYiaC4zmgjHbIk) | [Senake](https://open.spotify.com/album/46CfT3q6cqJ0f5DilFkDiV) | 3:10 | 2023-10-16 | 2023-12-02 |
 | [Send Me \- Doug Gomez Remix](https://open.spotify.com/track/0ohYSVz0ASuPOJETQZdEmO) | [Danyel Irsina](https://open.spotify.com/artist/7mBymFgUnzjX7m6Zt6RE1d), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Doug Gomez](https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc) | [Send Me \(Doug Gomez Remix\)](https://open.spotify.com/album/77aajLlLL3GaEnyM4r9BUv) | 3:36 | 2024-10-24 | 2025-02-21 |
 | [Sensational](https://open.spotify.com/track/35DzYSdOBggQOkMWAc99i1) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Sensational](https://open.spotify.com/album/4IvxCQ4Lsg3yCEqo40ic2F) | 2:50 | 2026-01-08 |  |
+| [Sense](https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Nothing To Lose](https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM) | 5:39 | 2026-02-05 |  |
 | [Sentir Le Rhythme \- Original Mix](https://open.spotify.com/track/2nLhP17Nur3rLWup9SEdWe) | [Master A](https://open.spotify.com/artist/2rF7w74yNMrFXlu8hChz1W) | [Sentir Le Rhythme \(Original Mix\)](https://open.spotify.com/album/4DukStzhipZkEhFCc1trAg) | 6:16 | 2022-03-17 | 2022-03-25 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-01-19 | 2023-02-03 |
 | [Sesh](https://open.spotify.com/track/0WTo0BMrGPJJqWGFtJc8pS) | [Dave Andres](https://open.spotify.com/artist/5D1kwXytpeArjN7iCH6yJZ), [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa) | [Sesh](https://open.spotify.com/album/7g1nXwxGyriWPR5z86X6qY) | 3:28 | 2025-05-09 | 2025-05-16 |
@@ -1256,7 +1257,6 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
-| [Track 5](https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

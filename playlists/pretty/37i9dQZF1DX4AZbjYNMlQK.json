@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 279596,
+  "num_followers": 279560,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "25 de Diciembre",
-        "url": "https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "25 de Diciembre",
-      "url": "https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 181093,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "25 de Diciembre",
+        "url": "https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "25 de Diciembre",
+      "url": "https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "voy a pedirte a ti (esta navidad)",
+        "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 162709,
+      "name": "voy a pedirte a ti (esta navidad)",
+      "url": "https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Navidad Melanc\u00f3lica",
         "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 197697,
       "name": "Naci\u00f3 la Luz",
       "url": "https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "voy a pedirte a ti (esta navidad)",
-        "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 162709,
-      "name": "voy a pedirte a ti (esta navidad)",
-      "url": "https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "este diciembre.",
-        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "este diciembre.",
-      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Al Ni\u00f1o Dios",
         "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 153182,
       "name": "Al Ni\u00f1o Dios",
       "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "este diciembre.",
+        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "este diciembre.",
+      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "El Mix-Tape De Santa",
-        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 145876,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 233337,
       "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "El Mix-Tape De Santa",
+        "url": "https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 145876,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -851,6 +851,22 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -899,22 +915,6 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Somos Navidad",
-        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1115,6 +1115,34 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Se Acerca Navidad",
+        "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Se Acerca Navidad",
+      "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "La Navidad Comenz\u00f3",
         "url": "https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2"
       },
@@ -1159,34 +1187,6 @@
       "duration_ms": 206814,
       "name": "Ven a cantar - Pau Laggies Versi\u00f3n",
       "url": "https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Se Acerca Navidad",
-        "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Se Acerca Navidad",
-      "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
         "url": "https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     }
   ],
   "unique_name": "Feliz Navidad",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,896 likes - 130 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,022 likes - 130 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

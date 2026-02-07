@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,772 likes - 579 songs - 1 day 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,777 likes - 579 songs - 1 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 295 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 296 | [Perfection](https://open.spotify.com/track/0C5QSBH1wHLfP1cAKQIK4i) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:29 |
 | 297 | [Body to Body, Heart to Heart](https://open.spotify.com/track/4DKnzfWjpSw77g9hW82qXx) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 3:58 |
-| 298 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 |
-| 299 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
+| 298 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
+| 299 | [Better Me](https://open.spotify.com/track/0Q0cmtyVIj6rzDRMsRbkkx) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Calling All Hearts \(Deluxe\)](https://open.spotify.com/album/78lzpyeBeywyc6h9SCFrAO) | 3:55 |
 | 300 | [Moonlight \- DJ THT Edit](https://open.spotify.com/track/50m1SoDGafprzaJkqV3dtr) | [Jens O.](https://open.spotify.com/artist/1DDMrVXQt53FwOcxBQvjwh), [Ti\-Mo](https://open.spotify.com/artist/73JwGHDxXzf3LpzZTqz2GG) | [Moonlight](https://open.spotify.com/album/3HSV7iYeObvpqCWJCzCA2V) | 3:20 |
 | 301 | [Don't Make Me Live Without You](https://open.spotify.com/track/4QamiGJ7vPuJvBCeCQgRMx) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:00 |
 | 302 | [Cruel Nights](https://open.spotify.com/track/7oUxPHvb894AdTQTxIUGZm) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 4:04 |
@@ -330,8 +330,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 320 | [Moi sì \(Io sì\)](https://open.spotify.com/track/3cvUjacGM8nuxGdVK6dWDg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
 | 321 | [Desire](https://open.spotify.com/track/1Zhs2crzqQVST3j60dCKhu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:52 |
 | 322 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
-| 323 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
-| 324 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
+| 323 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
+| 324 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
 | 325 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
 | 326 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
 | 327 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
@@ -453,8 +453,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 443 | [Quitte\-moi](https://open.spotify.com/track/0KSuovcivqc10FWHWFUURH) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 4:03 |
 | 444 | [To Get Here](https://open.spotify.com/track/549Sv1sewmEpAai5QaZCTd) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Last Movie Star Original Motion Picture Soundtrack](https://open.spotify.com/album/0jmKUjTFXhaf7Eialk8efy) | 3:38 |
 | 445 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
-| 446 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
-| 447 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
+| 446 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
+| 447 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
 | 448 | [Fatal Distraction](https://open.spotify.com/track/74mzeu6A1lTjgYRZEW8kcG) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [IF YOU DARE VOL\. 1](https://open.spotify.com/album/4bqo5KzYrGTaiehKdyRJ3S) | 3:22 |
 | 449 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
 | 450 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 |
@@ -548,8 +548,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 538 | [Can't Get You out of My Heart](https://open.spotify.com/track/48OlQtp5Xlq0e76r4ZoG57) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Pure Attraction](https://open.spotify.com/album/7h3SdzikWQl9rvM4N86lLi) | 4:23 |
 | 539 | [No Known Cure](https://open.spotify.com/track/7ahbAPouPlckdehl0ilTy4) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Yours Fatally](https://open.spotify.com/album/7dQkn95399PE46yHU2f0Nv) | 3:32 |
 | 540 | [Busco Señales Divinas](https://open.spotify.com/track/0431RfAmQ22MgBoKxfzgAJ) | [Ainhoa](https://open.spotify.com/artist/1dhhcNPTwfTrCjfUsrGK3C) | [Esencia Natural](https://open.spotify.com/album/5REUSLyEftpbSsyynmr6H0) | 4:04 |
-| 541 | [I Will Be Right Here](https://open.spotify.com/track/76JprlRBaE43v9XjMgrY5h) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex) | [Eu Olho A Ti](https://open.spotify.com/album/2Dhke3MAY6Xp9dmU2eYuIG) | 4:27 |
-| 542 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
+| 541 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
+| 542 | [I Will Be Right Here](https://open.spotify.com/track/76JprlRBaE43v9XjMgrY5h) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex) | [Eu Olho A Ti](https://open.spotify.com/album/2Dhke3MAY6Xp9dmU2eYuIG) | 4:27 |
 | 543 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 |
 | 544 | [Good Things Take Time](https://open.spotify.com/track/6WcCdbV8I4vkJS3513w1U8) | [Tyler Collins](https://open.spotify.com/artist/5huMtuPNUReK11RrCYwP0p), [Keith "Kc" Cohen](https://open.spotify.com/artist/1044NKEAaGJ76ULKFyrO9u), [Dave Aron](https://open.spotify.com/artist/62nl0bGlq1JumMss6EFzFh), [Airiq Anest](https://open.spotify.com/artist/5Jj4Rq9vB3MACoRzle0nb2) | [Tyler](https://open.spotify.com/album/4H6ClSkkeWUXdiM7w2my93) | 5:02 |
 | 545 | [Never Gonna Tame You](https://open.spotify.com/track/1IUKwL6P40tVxnrn18Zx5Q) | [Nyasia Chane'l](https://open.spotify.com/artist/73axMD27fgWTP6aCtGWqW7) | [Never Gonna Tame You](https://open.spotify.com/album/4F6z0E504Uqy9pF3YQAA7P) | 3:42 |
@@ -588,4 +588,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 578 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 
-Snapshot ID: `AcI49AAAAAANXWuR6bwCUq3wtdw4bltk`
+Snapshot ID: `AcI+lAAAAAD5jey8BWM+8WV6IwUOw3J3`

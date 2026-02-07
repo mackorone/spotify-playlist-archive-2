@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 223500,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/2a78JDp7YVCyEydtRiHOn7"
@@ -6256,7 +6256,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -15448,7 +15448,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -21063,6 +21063,28 @@
     },
     {
       "album": {
+        "name": "DEEPMIND",
+        "url": "https://open.spotify.com/album/6E2hWewCYErAbNZjz8eiCF"
+      },
+      "artists": [
+        {
+          "name": "ASIA7",
+          "url": "https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz"
+        },
+        {
+          "name": "\u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23",
+          "url": "https://open.spotify.com/artist/5UtsnPxhjHtOM6cyv8iqVN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "\u0e2a\u0e32\u0e18\u0e38 (Sathu) [feat. \u0e1b\u0e25\u0e32\u0e22 \u0e01\u0e19\u0e01\u0e1e\u0e23]",
+      "url": "https://open.spotify.com/track/0pa70WIyVyI3DY4bcL2vZo"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes don't lie)",
         "url": "https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI"
       },
@@ -21168,7 +21190,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 314117,
       "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG"
@@ -23556,7 +23578,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 273493,
       "name": "\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/07ZIrtR00m3t9AcmeRZ7vQ"

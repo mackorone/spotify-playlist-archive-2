@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-153 songs - 11 hr 39 min
+154 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Every Piece Matters](https://open.spotify.com/track/1kuUcD74m4Pqmu3LYjNvMo) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 3:40 | 2021-05-04 | 2024-04-19 |
 | [Every Piece Matters](https://open.spotify.com/track/25RDHbzKzGSUefENv5uz9M) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/36vGWMFViWBpBB4npwmusv) | 3:40 | 2021-05-04 |  |
 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 | 2021-05-04 |  |
+| [Fan Boy](https://open.spotify.com/track/3GKYGyMThFGPpjnYmiNcFa) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Henrik Linder](https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt), [Aron Mellergård](https://open.spotify.com/artist/7EEisBA2uPcpabPlTY0kRQ) | [Fan Boy](https://open.spotify.com/album/31uc0WmKlLjCnc120eahuK) | 4:11 | 2026-02-06 |  |
 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 | 2022-04-08 |  |
 | [firebird](https://open.spotify.com/track/4aVjtxZglv9VpHiOvb2F6m) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [firebird](https://open.spotify.com/album/16p01UoGeKCDn0r4E9zrok) | 4:40 | 2023-02-24 |  |
 | [Five Fourths Will Get You Six](https://open.spotify.com/track/59Arv6QbBfhA5RenhE9kpT) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 6:30 | 2021-05-04 | 2023-05-13 |
@@ -125,7 +126,7 @@
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |
 | [Shimmy Tiger](https://open.spotify.com/track/3GVaH55Ht7d04QGkoLOZfl) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Shimmy Tiger](https://open.spotify.com/album/1FbxQdbUSMY0p1dI7RyMJ1) | 6:27 | 2024-06-21 | 2024-07-19 |
 | [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 | 2023-07-21 | 2024-07-27 |
-| [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 |  |
+| [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 | 2026-02-07 |
 | [Slam](https://open.spotify.com/track/2z54PSmczfteELFLbzo52H) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/5egVrnO8AjlG56mdm1GEtg) | 4:37 | 2021-05-04 | 2024-04-19 |
 | [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 | 2021-05-04 |  |
 | [Soundtrack Life](https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Soundtrack Life / Yesterday Meets Today](https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx) | 4:19 | 2022-07-29 |  |

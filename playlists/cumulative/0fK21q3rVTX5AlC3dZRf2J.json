@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "23 skidoo (My 23rd Birthday song)",
+        "url": "https://open.spotify.com/album/5YS75TyDzP63G8RyvBVXZe"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109616,
+      "name": "23 skidoo (My 23rd Birthday song)",
+      "url": "https://open.spotify.com/track/2NwY0T1T7TeKORCA6WoBSu"
+    },
+    {
+      "album": {
         "name": "a little silly :3",
         "url": "https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK"
       },

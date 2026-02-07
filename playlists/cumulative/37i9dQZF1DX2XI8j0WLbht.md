@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-256 songs - 16 hr 35 min
+257 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2025-05-30 |  |
 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 | 2025-05-30 |  |
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2022-03-04 | 2025-05-31 |
+| [Mal de Amores](https://open.spotify.com/track/7aXpSB3zDZG2mPYowpEPNJ) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Mal de Amores](https://open.spotify.com/album/2ETyqCocQb3rLg5ik39Ya7) | 4:24 | 2026-02-06 |  |
 | [Mapas en Blanco](https://open.spotify.com/track/2w2noxTEg9IUZv9kCdt3Y2) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0), [Ximena Carstensen](https://open.spotify.com/artist/4pELcIPO8XT2tszzk7d6cu) | [Mapas en Blanco](https://open.spotify.com/album/0oCZZwDGaiqjbzHy0T5Opc) | 3:54 | 2026-01-16 |  |
 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 | 2025-05-30 |  |
 | [Mariquita, María](https://open.spotify.com/track/19vFUwhgotqh80npE8xFKO) | [Tonana](https://open.spotify.com/artist/6174y8dXW0u3e5i5Y1xo9g) | [Tonana](https://open.spotify.com/album/5oCRFr4Jio2bFZoRfpRtD7) | 3:49 | 2022-03-04 | 2024-06-01 |
@@ -233,7 +234,7 @@
 | [Te Volví a Soñar](https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [Te Volví a Soñar](https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv) | 3:31 | 2025-11-21 |  |
 | [Ten Piedad](https://open.spotify.com/track/10fqqFfUrTBEU30hKOzPsf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Ten Piedad](https://open.spotify.com/album/3kQDJHv4VVNoQkTBzwlQPK) | 4:17 | 2025-11-07 |  |
 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 | 2025-05-30 |  |
-| [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 | 2025-11-14 |  |
+| [TIENES QUE ENTENDER](https://open.spotify.com/track/7KRHqiqqXru6uNC9Z63rFX) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2) | [TIENES QUE ENTENDER](https://open.spotify.com/album/4SIaxOd1X4CyPCEPQKtuUb) | 2:51 | 2025-11-14 | 2026-02-07 |
 | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/track/6Jv5QIyxHtBLvKB8U84Ae2) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Triste Pero No Cobarde \(Versión Acústica\)](https://open.spotify.com/album/3qqiuCVd7j8bLEICEmycNC) | 3:11 | 2022-03-04 | 2025-05-31 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/3snlRAr38hQef8sz0hJbmy) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:45 | 2022-04-20 | 2024-04-19 |
 | [Tristeza \- Spotify Singles](https://open.spotify.com/track/4uZ5XgrjuomsVXOABMRaVW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:45 | 2022-04-20 | 2025-05-31 |

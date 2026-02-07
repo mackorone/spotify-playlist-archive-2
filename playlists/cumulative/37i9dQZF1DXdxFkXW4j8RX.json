@@ -839,6 +839,32 @@
     },
     {
       "album": {
+        "name": "CHILL OUT",
+        "url": "https://open.spotify.com/album/34xG9RzPKJ1BPDBbkatBfd"
+      },
+      "artists": [
+        {
+          "name": "DJ TEE",
+          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+        },
+        {
+          "name": "Douglass",
+          "url": "https://open.spotify.com/artist/5WR2RuBXuzsOzfFW8D8Ji6"
+        },
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177446,
+      "name": "CHILL OUT",
+      "url": "https://open.spotify.com/track/7EqL0DQWfFjefKOa0hXcCE"
+    },
+    {
+      "album": {
         "name": "Fuero interno",
         "url": "https://open.spotify.com/album/1YJaB1qUlNdUwEnWsJEcXJ"
       },
@@ -3164,6 +3190,40 @@
       "duration_ms": 235171,
       "name": "Maip\u00fa",
       "url": "https://open.spotify.com/track/19npwu2RWXCgiwB3WRF2K8"
+    },
+    {
+      "album": {
+        "name": "Mala Palabra",
+        "url": "https://open.spotify.com/album/1tGX9bN6bNP2qhmF5OyI7Y"
+      },
+      "artists": [
+        {
+          "name": "Z Jocker",
+          "url": "https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5"
+        },
+        {
+          "name": "Vishoko",
+          "url": "https://open.spotify.com/artist/19C1rDlK587MsGNU8wctkG"
+        },
+        {
+          "name": "Benjita Montana",
+          "url": "https://open.spotify.com/artist/5kCFeFCLAVkTvLXtUX821X"
+        },
+        {
+          "name": "Benji.Black",
+          "url": "https://open.spotify.com/artist/1FmJxbcqt1PGFJS5O1BMBq"
+        },
+        {
+          "name": "BastyGlock",
+          "url": "https://open.spotify.com/artist/7Dee0F9DRb69WojgoTfugl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Mala Palabra",
+      "url": "https://open.spotify.com/track/5iwE8HJhMYd5xPWez6kqZ7"
     },
     {
       "album": {

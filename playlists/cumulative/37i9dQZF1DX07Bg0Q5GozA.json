@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: LUKAS OSCAR",
+  "description": "New music off the beaten track. Cover: Arlo Parks",
   "name": "OFF POP",
   "tracks": [
     {
@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+    },
+    {
+      "album": {
         "name": "6 Foot",
         "url": "https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q"
       },
@@ -414,6 +432,24 @@
       "duration_ms": 197733,
       "name": "<3 beat",
       "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+    },
+    {
+      "album": {
+        "name": "A Death in London",
+        "url": "https://open.spotify.com/album/2wLuuSHCd5UINJ5LODxQ7E"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284062,
+      "name": "A Death in London",
+      "url": "https://open.spotify.com/track/7lDH5eRbDco78UOaXsMH6p"
     },
     {
       "album": {
@@ -5587,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "discoth\u00e8que",
+        "url": "https://open.spotify.com/album/6kiQUj0UYQWuj58ONAxkU8"
+      },
+      "artists": [
+        {
+          "name": "Siamese Elephants",
+          "url": "https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151249,
+      "name": "discoth\u00e8que",
+      "url": "https://open.spotify.com/track/07lkvwpAqrNCexNaw0fnMr"
+    },
+    {
+      "album": {
         "name": "DNA \u221e",
         "url": "https://open.spotify.com/album/4LqWy1CjGmMs83GLG6qfMW"
       },
@@ -5646,7 +5700,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 355021,
       "name": "Do It Again - Joplyn Remix",
       "url": "https://open.spotify.com/track/4QCc8Xdf206DvaXBgUzGuf"
@@ -6618,7 +6672,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192780,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0iG78AvLjAQm6ejFyZhwWz"
@@ -8254,6 +8308,28 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
+    },
+    {
+      "album": {
+        "name": "Flood / Glow",
+        "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "Flood (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
     },
     {
       "album": {
@@ -9946,6 +10022,24 @@
       "duration_ms": 219648,
       "name": "heatwave",
       "url": "https://open.spotify.com/track/6wtbNTxsxH8CrZ9Whp8oBh"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "album": {
@@ -12220,7 +12314,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 208264,
       "name": "In My Place - Edit",
       "url": "https://open.spotify.com/track/0AaeFlBxNLeaQelNSP9CTb"
@@ -13482,7 +13576,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 286596,
       "name": "Kingdom Undersea",
       "url": "https://open.spotify.com/track/506R8xsRBHIsPc2N1l1Qed"
@@ -21141,6 +21235,28 @@
     },
     {
       "album": {
+        "name": "Sexistential (Arca\u2019s Take)",
+        "url": "https://open.spotify.com/album/0CghpJDNKhaaPU9Pw20Og6"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224300,
+      "name": "Sexistential - Arca\u2019s Take",
+      "url": "https://open.spotify.com/track/6EqCdqx5oY3J9PUsq54AMp"
+    },
+    {
+      "album": {
         "name": "Sexy in my Bodyyy",
         "url": "https://open.spotify.com/album/0S5qfn8RR4zvWl2aW9qXRl"
       },
@@ -22904,7 +23020,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184857,
       "name": "Strange People",
       "url": "https://open.spotify.com/track/52pJ8X8qEmVfzn6VCBUe9n"
@@ -23782,7 +23898,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 199561,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv"
@@ -24212,7 +24328,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 223824,
       "name": "The Bay - Purple Disco Machine Edit",
       "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
@@ -25044,6 +25160,24 @@
       "duration_ms": 238746,
       "name": "TNB - Day Version",
       "url": "https://open.spotify.com/track/7cTU2aAs6TMUIwvIfIfTKy"
+    },
+    {
+      "album": {
+        "name": "VVVVV",
+        "url": "https://open.spotify.com/album/7zESjH8qFitNP2iwatrIO1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dreams",
+          "url": "https://open.spotify.com/artist/7x8nHczUKxMXrHv2iYTRJT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222161,
+      "name": "To Ava",
+      "url": "https://open.spotify.com/track/3EtVsKmkQOEpmqwg7zyf22"
     },
     {
       "album": {

@@ -8432,7 +8432,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129231,
       "name": "Jujupiano",
       "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
@@ -14108,6 +14108,24 @@
       "duration_ms": 78666,
       "name": "SHE LIKE IGBO",
       "url": "https://open.spotify.com/track/6Dleq7tjYht5tF4Ki2r5Mk"
+    },
+    {
+      "album": {
+        "name": "Shina Rampe",
+        "url": "https://open.spotify.com/album/5pnDeSZS2hR0fF0NS9CeoX"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "Shina Rampe",
+      "url": "https://open.spotify.com/track/2wUBujNySRbtpsv39Wy0lc"
     },
     {
       "album": {

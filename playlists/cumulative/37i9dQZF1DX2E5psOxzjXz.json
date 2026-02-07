@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 309701,
       "name": "Ajnabi",
       "url": "https://open.spotify.com/track/7BFWKCDCb0Y4jWTxz7Hv5q"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 246315,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/1L35yralAqLq0nw74wpVTY"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166779,
       "name": "Jeena Chahta Hon",
       "url": "https://open.spotify.com/track/4K7QQzJVhtJSNsQx4q0aHd"
@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 161592,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/3TF5QEUU9lVrYALuWdz8Xc"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168000,
       "name": "Keh Diya",
       "url": "https://open.spotify.com/track/4lSaV0o7ldXV2NnF54xNhT"
@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 174000,
       "name": "Na Kahoun",
       "url": "https://open.spotify.com/track/27J2cFpgYNsoabz77Cssgl"
@@ -7163,6 +7163,24 @@
     },
     {
       "album": {
+        "name": "Savera",
+        "url": "https://open.spotify.com/album/4FL3VXSb1RtRJ9Qmd559WP"
+      },
+      "artists": [
+        {
+          "name": "Ali Tariq",
+          "url": "https://open.spotify.com/artist/4wHEgQRX5aQHzAtXoGuiVk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200439,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/1ll5dcFvWK8w2quGqjgxe6"
+    },
+    {
+      "album": {
         "name": "Sawalon Mein",
         "url": "https://open.spotify.com/album/1kwewG05B40C9ceBR1zKfe"
       },
@@ -8069,6 +8087,28 @@
     },
     {
       "album": {
+        "name": "tanha sahi",
+        "url": "https://open.spotify.com/album/7f0Wx9dQPe6D3wctYlGWIi"
+      },
+      "artists": [
+        {
+          "name": "Maliha J. Khan",
+          "url": "https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl"
+        },
+        {
+          "name": "Daniyal Abid",
+          "url": "https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153882,
+      "name": "tanha sahi",
+      "url": "https://open.spotify.com/track/6w47A15XIxRHnBiljATzUa"
+    },
+    {
+      "album": {
         "name": "Taranay",
         "url": "https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V"
       },
@@ -8418,7 +8458,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
@@ -8622,6 +8662,28 @@
       "duration_ms": 175617,
       "name": "Until We Meet",
       "url": "https://open.spotify.com/track/7j0YOebrohxBaXp0bCFbnK"
+    },
+    {
+      "album": {
+        "name": "VOLUME",
+        "url": "https://open.spotify.com/album/49S4SqXG39GxNHHe34tZ6d"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        },
+        {
+          "name": "dotxb",
+          "url": "https://open.spotify.com/artist/5hZRffJ4faH94fVKwG4Kzk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "VOLUME",
+      "url": "https://open.spotify.com/track/1krjlFmoBcc5KsomLbegP7"
     },
     {
       "album": {
@@ -9146,7 +9208,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 147836,
       "name": "Zindagi Phir Mile",
       "url": "https://open.spotify.com/track/3ZqvgBqpYFM86WIwENUkbZ"

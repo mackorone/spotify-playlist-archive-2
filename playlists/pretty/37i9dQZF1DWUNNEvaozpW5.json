@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
-  "num_followers": 612520,
+  "num_followers": 612552,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -535,18 +535,22 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "Besos de Perro",
-        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
         }
       ],
-      "duration_ms": 267186,
-      "name": "La luna me sabe a poco",
-      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+      "duration_ms": 234800,
+      "name": "Mucho mejor (feat. Coque Malla)",
+      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -567,22 +571,18 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "Besos de Perro",
+        "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        },
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Mucho mejor (feat. Coque Malla)",
-      "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+      "duration_ms": 267186,
+      "name": "La luna me sabe a poco",
+      "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
+        "name": "Hasta que me quede sin voz",
+        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Hasta que me quede sin voz",
+      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
         "name": "Tragas o Escupes",
         "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 218781,
-      "name": "Cuarenta Mil",
-      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "Hasta que me quede sin voz",
-        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Hasta que me quede sin voz",
-      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205846,
       "name": "Como una rata",
       "url": "https://open.spotify.com/track/3UTUDsyEvHsl9whFbbvjxG"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 218781,
+      "name": "Cuarenta Mil",
+      "url": "https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 236413,
       "name": "Cigarrito",
       "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
+        "name": "Hecho En Tiempos De Paz",
+        "url": "https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "duration_ms": 163316,
+      "name": "Fuimos Felices Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "Hecho En Tiempos De Paz",
-        "url": "https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo"
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
       "artists": [
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 163316,
-      "name": "Fuimos Felices Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7"
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -1119,22 +1135,6 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
-        "name": "Un Brindis al Sol",
-        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 251408,
-      "name": "Un Brindis al Sol",
-      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
         "name": "Corre Corre",
         "url": "https://open.spotify.com/album/7ymYtcn91u3FY8P07QKO53"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 231000,
       "name": "Corazon de Tango",
       "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
-        "name": "La Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
     },
     {
       "added_at": "2026-02-05 23:01:06",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
+        "name": "Cowboys de la A3",
+        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Cowboys de la A3",
+      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
         "name": "1.9.82.",
         "url": "https://open.spotify.com/album/2d7pP3kHwVYLJR3mmMgXWe"
       },
@@ -1759,38 +1775,6 @@
     {
       "added_at": "2026-02-05 23:01:06",
       "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
-        "name": "Cowboys de la A3",
-        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 276005,
-      "name": "Cowboys de la A3",
-      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
-    },
-    {
-      "added_at": "2026-02-05 23:01:06",
-      "album": {
         "name": "Otra noche sin dormir",
         "url": "https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
+    },
+    {
+      "added_at": "2026-02-05 23:01:06",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-02-05 23:01:06",

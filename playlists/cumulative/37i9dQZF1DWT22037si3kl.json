@@ -4352,7 +4352,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177774,
       "name": "Forte Abra\u00e7o",
       "url": "https://open.spotify.com/track/3wk5GFIx6s3GdN4WbgCuh7"
@@ -10538,6 +10538,40 @@
       "duration_ms": 210526,
       "name": "SO SLATT",
       "url": "https://open.spotify.com/track/7mqCIDoL5pB6sIGSpwayuT"
+    },
+    {
+      "album": {
+        "name": "SP",
+        "url": "https://open.spotify.com/album/7rEaFJDwmU1ThmYoheDUfX"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "SP",
+      "url": "https://open.spotify.com/track/3FGySXuYYgAco8XpOYaxhf"
     },
     {
       "album": {

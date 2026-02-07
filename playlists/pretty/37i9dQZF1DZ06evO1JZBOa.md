@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,035 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,038 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 14 | [Ewondo ou Bami](https://open.spotify.com/track/2wnX3u67dAAXZ2N2IU26VK) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:06 |
 | 15 | [New Bell](https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 6:48 |
 | 16 | [African Pop Session](https://open.spotify.com/track/4jQdcGiKQhSzwUeocjo0A1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:52 |
-| 17 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 |
-| 18 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
+| 17 | [Ceddo End Title](https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [World Psychedelic Classics: Love's A Real Thing](https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR) | 5:09 |
+| 18 | [Ekedi](https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anbessa](https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4) | 2:52 |
 | 19 | [Goro City](https://open.spotify.com/track/0tY0DSIGsYHHKHFbQ0ZJwS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 8:34 |
 | 20 | [Funk Makossa \(feat\. Manu Dibango\)](https://open.spotify.com/track/1ZYuJnAIKw6tAM2F4XEwoe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro](https://open.spotify.com/album/2S5svej55Av0CGFxcy3573) | 3:19 |
 | 21 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Kwele](https://open.spotify.com/track/4PYyBVUmrP9Rs7i0ire14N) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa Part \(1/2\)](https://open.spotify.com/album/0S7d8pQYnM3UL5NS5d9vKY) | 3:21 |
 | 50 | [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 |
 
-Snapshot ID: `aYKMAAAAAAB9dqnIOkD3KtxRh8UiU0EX`
+Snapshot ID: `aYPdgAAAAABvdpvKems+jIT2TB7Ds3VF`

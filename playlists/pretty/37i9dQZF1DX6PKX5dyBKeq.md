@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: EsDeeKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,224 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,249 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 3 | [LEFT OUT \(feat\. M Huncho\)](https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:31 |
 | 4 | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [ERA](https://open.spotify.com/artist/4Aefs4DWkn6zjggzBiK7Gj) | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/album/07DLX06IuDYwIdrbu0K1bq) | 2:27 |
 | 5 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
-| 6 | [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [](https://open.spotify.com/album/null) | 3:05 |
+| 6 | [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Yaqeen](https://open.spotify.com/album/6Dfh1h3bNM26MVj9Ou3ekB) | 3:05 |
 | 7 | [Straight Drop X6](https://open.spotify.com/track/1glsTkHUf9IOL3XwlVCtLv) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Straight Drop X6](https://open.spotify.com/album/0DF8xP8yf2e8qkp28LdWjM) | 3:00 |
 | 8 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
 | 9 | [Bellingham](https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Bellingham](https://open.spotify.com/album/2sYhWXdK36j3u3BCiGD7sD) | 2:39 |

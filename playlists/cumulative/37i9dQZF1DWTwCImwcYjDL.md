@@ -4,7 +4,7 @@
 
 > De beste dance hits\. Cover: Sunnery James & Ryan Marciano
 
-152 songs - 7 hr 39 min
+152 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Push The Feeling On](https://open.spotify.com/track/71DWKk9tztZ26PXw8vLx9K) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Push The Feeling On](https://open.spotify.com/album/6LXVOle0tNclBMZ4LWW5ki) | 2:17 | 2025-09-04 |  |
 | [Put Your Bassline](https://open.spotify.com/track/3IwC6rhjOfEdswlSV6RvzX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Put Your Bassline](https://open.spotify.com/album/4NOx87J66hA6p5l2t8iyin) | 2:31 | 2025-10-31 |  |
 | [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-09-04 | 2026-02-06 |
+| [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 | 2026-02-05 |  |
 | [Rivers](https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Rivers](https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8) | 3:22 | 2026-01-05 |  |
 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 | 2025-07-17 | 2025-10-10 |
 | [Rumors](https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF) | [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS) | [Rumors](https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP) | 2:42 | 2026-01-19 |  |
@@ -145,7 +146,6 @@
 | [Time To Move](https://open.spotify.com/track/77a1NpI0XMHdJFQU50i5EV) | [LAMMER](https://open.spotify.com/artist/5XCMynHbftLKbZ0Mp6iHdc) | [Highly Rogue](https://open.spotify.com/album/13GBaRgu5EYW0MslqoJUrd) | 3:58 | 2025-11-12 |  |
 | [Time to Party](https://open.spotify.com/track/08lKWR8JNqZdlNOvyE7O1s) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [club slash 006 \- Time to Party](https://open.spotify.com/album/0plQH92WSIv5QjX0ooqNmV) | 4:10 | 2025-08-07 | 2025-11-01 |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-11-28 |
-| [Track 1](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 | 2025-11-27 |  |
 | [Unfaithful](https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Unfaithful](https://open.spotify.com/album/2orEzHWfrAyY4u2SthixnV) | 3:51 | 2026-01-19 |  |
 | [Unstoppable](https://open.spotify.com/track/0CVZr5MMrL7WFr74pK515Z) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Unstoppable](https://open.spotify.com/album/4HZaAOSGWyXf54eYhJ9VZf) | 2:46 | 2025-09-22 | 2026-02-06 |

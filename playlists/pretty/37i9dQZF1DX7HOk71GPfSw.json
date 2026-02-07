@@ -1,12 +1,12 @@
 {
   "description": "The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law",
-  "num_followers": 491059,
+  "num_followers": 491172,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOYT+Jw7R465y/7iW6S2Ztm5mekB",
+  "snapshot_id": "AAAAADJU78hMUgfLR02cz5X/qxIkeJBY",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:36",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
     },
     {
+      "added_at": "2026-02-06 05:00:33",
+      "album": {
+        "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
+        "url": "https://open.spotify.com/album/6ZpNl0ucqdp0rRFn3AZdYq"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
+      "url": "https://open.spotify.com/track/5WX0xRJtM4Hyt1HQGx2sgU"
+    },
+    {
       "added_at": "2025-11-21 05:00:35",
       "album": {
         "name": "Fuck My Computer (Frost Children Remix)",
@@ -65,22 +81,6 @@
       "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
-      "album": {
-        "name": "Suck My MP3",
-        "url": "https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9"
-      },
-      "artists": [
-        {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        }
-      ],
-      "duration_ms": 138329,
-      "name": "Suck My MP3",
-      "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "SERVE IT HOT",
@@ -95,6 +95,38 @@
       "duration_ms": 138897,
       "name": "MAIN QUEST GIRL",
       "url": "https://open.spotify.com/track/3izfXttfacD09wumtm92Bj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Sucker Punch",
+        "url": "https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "Sucker Punch",
+      "url": "https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb"
+    },
+    {
+      "added_at": "2026-02-06 05:00:33",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT"
     },
     {
       "added_at": "2026-01-16 05:00:36",
@@ -129,36 +161,24 @@
       "url": "https://open.spotify.com/track/5H2Y0X0FN3vMt4lRvdi5dJ"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2026-02-06 05:00:33",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX"
+        "name": "French Fries",
+        "url": "https://open.spotify.com/album/7Gab9S9hVVNW59Yl9rmDne"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
-    },
-    {
-      "added_at": "2026-01-02 17:13:15",
-      "album": {
-        "name": "POSE!",
-        "url": "https://open.spotify.com/album/0w4Ani4loJimE9QnWqv6yB"
-      },
-      "artists": [
+          "name": "Obsimo",
+          "url": "https://open.spotify.com/artist/3zHiZOMFJFL3GjWwsmYEJy"
+        },
         {
-          "name": "aidn.",
-          "url": "https://open.spotify.com/artist/4omuqQ7ohlcuOto359qQsn"
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
         }
       ],
-      "duration_ms": 145655,
-      "name": "POSE!",
-      "url": "https://open.spotify.com/track/5s35aAgXqaJZ4TJfqJw70r"
+      "duration_ms": 159998,
+      "name": "French Fries",
+      "url": "https://open.spotify.com/track/4EJxwAyPDEmHoJr7YYoiw5"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -179,6 +199,42 @@
       "duration_ms": 162321,
       "name": "Enjoy Yourself - very cool tutorials Remix",
       "url": "https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6"
+    },
+    {
+      "added_at": "2026-01-02 17:13:15",
+      "album": {
+        "name": "POSE!",
+        "url": "https://open.spotify.com/album/0w4Ani4loJimE9QnWqv6yB"
+      },
+      "artists": [
+        {
+          "name": "aidn.",
+          "url": "https://open.spotify.com/artist/4omuqQ7ohlcuOto359qQsn"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "POSE!",
+      "url": "https://open.spotify.com/track/5s35aAgXqaJZ4TJfqJw70r"
+    },
+    {
+      "added_at": "2026-02-06 05:00:33",
+      "album": {
+        "name": "TABLOID TALK (feat. underscores)",
+        "url": "https://open.spotify.com/album/0iAWf17B2FahFgAIMrZ72j"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 129200,
+      "name": "TABLOID TALK (feat. underscores)",
+      "url": "https://open.spotify.com/track/54cndId4zaTpxiheavHpVR"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -203,6 +259,22 @@
     {
       "added_at": "2026-01-30 05:00:51",
       "album": {
+        "name": "Suck My MP3",
+        "url": "https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        }
+      ],
+      "duration_ms": 138329,
+      "name": "Suck My MP3",
+      "url": "https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw"
+    },
+    {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
         "name": "Dumb 4 All",
         "url": "https://open.spotify.com/album/23EhezrM0GbLhh5uioneHO"
       },
@@ -217,20 +289,24 @@
       "url": "https://open.spotify.com/track/1Xl85gEdEgn98GQGZGquIF"
     },
     {
-      "added_at": "2026-01-16 05:00:36",
+      "added_at": "2026-02-06 05:00:33",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/6CQJoYJFq04SX9OOmlgrG7"
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/0cEE8k0glyG6lBlU5RsIgR"
       },
       "artists": [
         {
-          "name": "Yvnlazy",
-          "url": "https://open.spotify.com/artist/4wUL3pWLsoJRFQghAcnWlM"
+          "name": "Tera",
+          "url": "https://open.spotify.com/artist/0Ug6t4XJseFiO4kb2434ai"
+        },
+        {
+          "name": "seph",
+          "url": "https://open.spotify.com/artist/4NT5xuBdAcT3yuyiu3Wk5U"
         }
       ],
-      "duration_ms": 106031,
-      "name": "Ouroboros",
-      "url": "https://open.spotify.com/track/63boTXkmnOSIOSQnjp0FRO"
+      "duration_ms": 127433,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/6Ha3WmevKwHMFHm5ipovIk"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -247,6 +323,22 @@
       "duration_ms": 136974,
       "name": "with u",
       "url": "https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b"
+    },
+    {
+      "added_at": "2026-01-16 05:00:36",
+      "album": {
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/6CQJoYJFq04SX9OOmlgrG7"
+      },
+      "artists": [
+        {
+          "name": "Yvnlazy",
+          "url": "https://open.spotify.com/artist/4wUL3pWLsoJRFQghAcnWlM"
+        }
+      ],
+      "duration_ms": 106031,
+      "name": "Ouroboros",
+      "url": "https://open.spotify.com/track/63boTXkmnOSIOSQnjp0FRO"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -343,6 +435,22 @@
       "duration_ms": 179612,
       "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
       "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
+    },
+    {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/7zxKbImjdH3iLRwAT1XWoX"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -519,22 +627,6 @@
       "duration_ms": 135103,
       "name": "SiiMP",
       "url": "https://open.spotify.com/track/67QBCvKf89W0L84beo3beo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
-        "name": "Sucker Punch",
-        "url": "https://open.spotify.com/album/04JKtveNe9qWZ2f9sUaA8w"
-      },
-      "artists": [
-        {
-          "name": "Debbie Sings",
-          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "Sucker Punch",
-      "url": "https://open.spotify.com/track/1VvVql8oUrOLpZTw1X62sb"
     },
     {
       "added_at": "2025-11-18 21:18:20",
@@ -931,26 +1023,6 @@
       "duration_ms": 175686,
       "name": "Espiral despiadada",
       "url": "https://open.spotify.com/track/2qiPJbBfWc1RzClmRvM284"
-    },
-    {
-      "added_at": "2025-11-28 20:55:54",
-      "album": {
-        "name": "BIG ONE (Arca Remix)",
-        "url": "https://open.spotify.com/album/7jNDKWMBl005x9VcBZibed"
-      },
-      "artists": [
-        {
-          "name": "Ian Isiah",
-          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
-        },
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "BIG ONE (Arca Remix)",
-      "url": "https://open.spotify.com/track/5vbESxbJBFlFYqKlwHbfni"
     },
     {
       "added_at": "2026-01-09 05:00:40",
@@ -1797,26 +1869,6 @@
       "url": "https://open.spotify.com/track/46cdEl9gJxePB1IHT0ng1p"
     },
     {
-      "added_at": "2025-09-26 04:00:15",
-      "album": {
-        "name": "BLACK BOOK",
-        "url": "https://open.spotify.com/album/6FdYwB0ZwNIZhbZFbDaLh5"
-      },
-      "artists": [
-        {
-          "name": "LEGZDINA",
-          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
-        },
-        {
-          "name": "Wolf Cutt",
-          "url": "https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA"
-        }
-      ],
-      "duration_ms": 192774,
-      "name": "BLACK BOOK",
-      "url": "https://open.spotify.com/track/1TOS4IewluiIsDcSTBo74J"
-    },
-    {
       "added_at": "2025-09-12 04:00:15",
       "album": {
         "name": "Jump (m-flo Remix)",
@@ -1855,22 +1907,6 @@
       "duration_ms": 236026,
       "name": "NOSEBLEED MELODY",
       "url": "https://open.spotify.com/track/4NFIyVd9WKQrNuzIw5OAzh"
-    },
-    {
-      "added_at": "2025-09-19 04:00:38",
-      "album": {
-        "name": "razor blade",
-        "url": "https://open.spotify.com/album/6WhBtBgkSweb0YjTYoLQ2P"
-      },
-      "artists": [
-        {
-          "name": "moreofthem",
-          "url": "https://open.spotify.com/artist/0lhOg9ZmFtoVxJLTVzIY6B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "razor blade",
-      "url": "https://open.spotify.com/track/2pd7Z1HXDsCFR2JoIbbg0l"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -2087,22 +2123,6 @@
       "duration_ms": 221100,
       "name": "dance criteria",
       "url": "https://open.spotify.com/track/61O9bBlR1osCoN9UJzntcg"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "BURST <3",
-        "url": "https://open.spotify.com/album/1fYqSbROUNRZPKBWj8ZiE8"
-      },
-      "artists": [
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        }
-      ],
-      "duration_ms": 118393,
-      "name": "BURST <3",
-      "url": "https://open.spotify.com/track/0BVok2Uwo0mFcXb4AK8udy"
     },
     {
       "added_at": "2025-09-12 04:00:15",
@@ -2327,22 +2347,6 @@
       "duration_ms": 194260,
       "name": "Hot Fun",
       "url": "https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "Aired out",
-        "url": "https://open.spotify.com/album/06R6LROCs7sicD9RmUzHAv"
-      },
-      "artists": [
-        {
-          "name": "kmoe",
-          "url": "https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz"
-        }
-      ],
-      "duration_ms": 188962,
-      "name": "Aired out",
-      "url": "https://open.spotify.com/track/4Up5MhH38mjJmfQOsT7lMN"
     },
     {
       "added_at": "2025-09-12 04:00:15",

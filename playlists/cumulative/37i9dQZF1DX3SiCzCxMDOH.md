@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,006 songs - 2 day 10 hr 56 min
+1,009 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-05-31 | 2024-08-20 |
 | [Life In The Deepest Blue](https://open.spotify.com/track/7xVV4ujd2zDDJeyxcBR4i0) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Life In The Deepest Blue](https://open.spotify.com/album/4a30lMOexLL1l9Y8n9AzR7) | 2:53 | 2022-08-17 | 2024-05-11 |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-06-22 | 2025-08-20 |
-| [Lighten Up Dreams](https://open.spotify.com/track/6g63N2FQjWnQWFK7hSXK6e) | [Diminished Fusion](https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso) | [Lighten Up Dreams](https://open.spotify.com/album/2tgjTC0KIed5hz9Qrhrmp4) | 3:56 | 2024-10-08 |  |
+| [Lighten Up Dreams](https://open.spotify.com/track/6g63N2FQjWnQWFK7hSXK6e) | [Diminished Fusion](https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso) | [Lighten Up Dreams](https://open.spotify.com/album/2tgjTC0KIed5hz9Qrhrmp4) | 3:56 | 2024-10-08 | 2026-02-07 |
 | [Like Jazz or Something](https://open.spotify.com/track/3DQ9gWQyeGFpQeURdSEXik) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:25 | 2022-09-29 | 2024-07-16 |
 | [Like Naomi](https://open.spotify.com/track/4iSBCmDWlP2Pp30uDg34vZ) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Like Naomi](https://open.spotify.com/album/3HqJKYNSlszttPwKtghxFC) | 3:52 | 2023-01-12 | 2025-09-24 |
 | [Lily\-white](https://open.spotify.com/track/68Pfz62lgw8iaV4r9rAiC5) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Lily\-white](https://open.spotify.com/album/7kvJgDGsdssa8n3Rv5HFNI) | 2:22 | 2023-08-24 | 2025-05-20 |
@@ -537,7 +537,7 @@
 | [Make no mistake](https://open.spotify.com/track/4Lz8YjsVI7uYJArEBOivY1) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Make no mistake](https://open.spotify.com/album/5zYQt4uSW8X8spFvvfyYNs) | 3:24 | 2024-05-10 | 2025-01-08 |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2022-09-29 | 2024-05-24 |
 | [Margot In May](https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Margot In May](https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su) | 3:46 | 2024-04-23 | 2024-06-25 |
-| [Mark My Words](https://open.spotify.com/track/2p2p9uRPlLZBgT11V0b3x8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Mark My Words](https://open.spotify.com/album/1UVNOCxsPSeyohRPDpGArV) | 3:37 | 2023-11-17 |  |
+| [Mark My Words](https://open.spotify.com/track/2p2p9uRPlLZBgT11V0b3x8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Mark My Words](https://open.spotify.com/album/1UVNOCxsPSeyohRPDpGArV) | 3:37 | 2023-11-17 | 2026-02-07 |
 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 | 2025-08-29 |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 | 2026-01-15 |
@@ -704,7 +704,7 @@
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-04-20 | 2025-07-24 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 | 2025-07-24 |
 | [Sage](https://open.spotify.com/track/08nsgVrERoxnt6gLsecK62) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Sage](https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z) | 2:47 | 2024-02-02 | 2025-11-15 |
-| [Sailing Stones](https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Sailing Stones](https://open.spotify.com/album/5be5TnG6tg6gRfx09QinvK) | 3:20 | 2024-05-10 |  |
+| [Sailing Stones](https://open.spotify.com/track/73JetyewsVF0A1e2wEBzU6) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Sailing Stones](https://open.spotify.com/album/5be5TnG6tg6gRfx09QinvK) | 3:20 | 2024-05-10 | 2026-02-07 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-04-11 | 2025-07-24 |
 | [Same Old Song](https://open.spotify.com/track/5wHPfGY0NUNQO7VgAiBrAQ) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Same Old Song](https://open.spotify.com/album/0QlXotFZ7pRMWBealCA9Rl) | 3:58 | 2025-06-05 | 2025-07-02 |
 | [Send In the Clowns](https://open.spotify.com/track/2kdj6VfxCgDCC5Uemxwj6E) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Send In the Clowns](https://open.spotify.com/album/7EqrUNHWxGu3cxftUQzCWe) | 3:25 | 2022-06-08 | 2022-12-09 |
@@ -737,6 +737,7 @@
 | [Skyline](https://open.spotify.com/track/6SEIavTe9Sqpa542YTPyG3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Skyline](https://open.spotify.com/album/547qScC6yIOQlT9pAdk9S4) | 3:16 | 2024-11-11 | 2025-06-06 |
 | [Slippers and Cocoa](https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Slippers and Cocoa](https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF) | 3:27 | 2022-04-11 | 2022-09-30 |
 | [Slow fox](https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03) | [The Stilltones](https://open.spotify.com/artist/4ggqOcGiYxjjAaKhYzXUzR) | [Slow fox](https://open.spotify.com/album/7IUSsZavpXkMkTx19eJaiA) | 3:35 | 2023-09-22 | 2024-06-25 |
+| [Slow Motion Sky](https://open.spotify.com/track/4C9Fa3M34QQRbQkNf1dFlH) | [Orbit Trio](https://open.spotify.com/artist/0UrAU253yLOb2eBXIiyXNq) | [Slow Motion Sky](https://open.spotify.com/album/18CW0df2dA0xS4Gdwm4bJw) | 2:30 | 2026-02-06 |  |
 | [Slow Walk](https://open.spotify.com/track/6Dt4OkMHGhugPLCnaTh6Ji) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Slow Walk](https://open.spotify.com/album/31dAe3s3z2hkGQ32buTf8r) | 4:26 | 2022-04-11 | 2022-06-23 |
 | [Smile in Your Eyes](https://open.spotify.com/track/6Ok5ubn2agXdrd8UrFfrrR) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Smile in Your Eyes](https://open.spotify.com/album/3eOVnkbDiW3OClAQLuOjLV) | 6:58 | 2024-07-22 | 2024-11-26 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 | 2025-07-24 |
@@ -967,6 +968,7 @@
 | [Where Are You?](https://open.spotify.com/track/1G9aTMIOFrVvsxthH1c20e) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Where Are You?](https://open.spotify.com/album/2VPB60I319VrZoxrSwEOX0) | 3:05 | 2024-05-23 | 2026-01-24 |
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 | 2025-07-24 |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 | 2025-11-15 |
+| [Where you were](https://open.spotify.com/track/4FFDBh3RHBTr5wXskfLilK) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Where you were](https://open.spotify.com/album/1aGelYnFIpi5P282jEmPKG) | 2:58 | 2026-02-06 |  |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 |  |
 | [Whispering Skies](https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Whispering Skies](https://open.spotify.com/album/2y9gWuPjoSrvNrWDOFb3aH) | 3:26 | 2023-08-24 | 2024-09-10 |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-05-25 | 2025-03-04 |
@@ -974,6 +976,7 @@
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-11-24 | 2025-09-24 |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-04-11 | 2024-06-12 |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 | 2025-02-21 |
+| [Windowseat waltz](https://open.spotify.com/track/6IRRu5k4Tl2byR4YOjxjP2) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Windowseat waltz](https://open.spotify.com/album/7j7RPDQov8ZjXRSvK6TS1D) | 2:18 | 2026-02-06 |  |
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2025-07-24 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 | 2025-09-24 |
 | [Woodland](https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Woodland](https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR) | 3:24 | 2024-07-01 | 2025-06-06 |

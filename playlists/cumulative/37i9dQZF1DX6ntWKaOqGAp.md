@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Enfants
 
-2,939 songs - 7 day 15 hr 22 min
+2,940 songs - 7 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2440,6 +2440,7 @@
 | [天国街道](https://open.spotify.com/track/6svY2OYpwFRP7UJwfzlaof) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [天国街道](https://open.spotify.com/album/0HHHwZbYgXRYx31UKTkiPN) | 3:42 | 2024-01-09 | 2024-01-11 |
 | [天獄と地極](https://open.spotify.com/track/3tXioXt3yhKNV7VvfVbOM0) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY), [yowa](https://open.spotify.com/artist/3pvgM0smJsNjVrtkDmHuNN) | [天獄と地極](https://open.spotify.com/album/0wX9Udu8VBsVftcmRj0nAB) | 3:51 | 2025-12-09 | 2026-01-15 |
 | [天職](https://open.spotify.com/track/2uHNkEJPAuaepBpr6NfQnE) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [天職](https://open.spotify.com/album/3SDXPdj35eW5AhdOltCCpY) | 3:15 | 2025-08-07 | 2025-08-14 |
+| [天誅 & Mercy](https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:45 | 2026-02-05 |  |
 | [天誅 \- 雫 Solo Ver.](https://open.spotify.com/track/4niTdJjxV9I1VVgvespSlj) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [天誅 \(雫 Solo Ver.\)](https://open.spotify.com/album/7id6IiB550ml0ZlbjPUBNU) | 4:05 | 2023-11-07 | 2024-01-17 |
 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 | 2024-03-15 | 2024-06-19 |
 | [太陽とイカロス](https://open.spotify.com/track/41uHvpM5mLrsotiYx53He8) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [太陽とイカロス](https://open.spotify.com/album/5rfhHPlQ4oRCHr83LuScPP) | 4:30 | 2023-03-07 | 2023-03-09 |

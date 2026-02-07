@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: SANDY",
-  "num_followers": 29602,
+  "num_followers": 29620,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
@@ -75,8 +75,8 @@
     {
       "added_at": "2026-02-05 22:59:25",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb"
       },
       "artists": [
         {
@@ -84,8 +84,8 @@
           "url": "https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 165144,
+      "name": "Rewind",
       "url": "https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7"
     },
     {

@@ -2,9 +2,9 @@
 
 ### [Norteño\-Banda](https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg)
 
-> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Punto Final & Julio Preciado en portada.
+> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Francisco el Gallo Elizalde en portada.
 
-70 songs - 3 hr 53 min
+72 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Del Negociante](https://open.spotify.com/track/7kDBoiWN02IUeXqeXHfEKL) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I) | [Los Amos del Terror](https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq) | 3:07 | 2023-02-24 |  |
 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 | 2023-02-24 |  |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-02-24 |  |
-| [El Cuestionario](https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 | 2023-02-24 |  |
+| [Ebrio de amor](https://open.spotify.com/track/53x72ql3pw8h0hJ8PsEIdm) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ebrio de amor](https://open.spotify.com/album/31zVbGJNkPAY8uV862ffUL) | 3:05 | 2026-02-06 |  |
+| [El Cuestionario](https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 | 2023-02-24 | 2026-02-07 |
 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2023-12-01 |  |
 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 | 2023-02-24 | 2024-04-19 |
 | [El Llamado del 19](https://open.spotify.com/track/0U5Ginendem0WgqN4WdAMi) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Hombres de Honor](https://open.spotify.com/album/3ovOIwg4sOP0ElTa9yg8Wz) | 2:16 | 2023-02-24 |  |
@@ -73,7 +74,8 @@
 | [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 | 2023-02-24 | 2025-09-20 |
 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/3PVrycV05knnR92Lgyqwrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:45 | 2023-02-24 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2023-02-24 |  |
-| [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2023-02-24 |  |
+| [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2023-02-24 | 2026-02-07 |
+| [Y de Repente](https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS) | [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Y de Repente](https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD) | 3:09 | 2026-02-06 |  |
 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 | 2023-02-24 |  |
 | [Ya Que Metí La Pata](https://open.spotify.com/track/0q4zxIzggN5NWF9TNW6fpV) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 2:47 | 2023-02-24 |  |
 | [¿Y Tú Qué Harías?](https://open.spotify.com/track/4xxDywBunbTG9U1yTCtIht) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Me Muero De Las Ganas](https://open.spotify.com/album/2JVEKM2PT5m1BR2VB8nHxA) | 3:16 | 2023-02-24 | 2024-04-19 |

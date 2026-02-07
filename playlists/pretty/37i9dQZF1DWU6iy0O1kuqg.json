@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Lo mejor de dos mundos! Qu\u00e9 retumbe la tuba y arremangue el acorde\u00f3n. Punto Final & Julio Preciado en portada.",
-  "num_followers": 219615,
+  "description": "\u00a1Lo mejor de dos mundos! Qu\u00e9 retumbe la tuba y arremangue el acorde\u00f3n. Francisco el Gallo Elizalde en portada.",
+  "num_followers": 219659,
   "original_name": "Norte\u00f1o-Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnsOCN5/jUwvtkS+BQebLxbSrmi",
+  "snapshot_id": "AAAAADMLPMkbRm4CoEgFcK01c+g/ozE8",
   "tracks": [
+    {
+      "added_at": "2026-02-06 19:01:35",
+      "album": {
+        "name": "Y de Repente",
+        "url": "https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD"
+      },
+      "artists": [
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "duration_ms": 189544,
+      "name": "Y de Repente",
+      "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
+    },
     {
       "added_at": "2025-09-19 06:00:27",
       "album": {
@@ -123,6 +139,22 @@
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+    },
+    {
+      "added_at": "2026-02-06 19:01:35",
+      "album": {
+        "name": "Ebrio de amor",
+        "url": "https://open.spotify.com/album/31zVbGJNkPAY8uV862ffUL"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 185131,
+      "name": "Ebrio de amor",
+      "url": "https://open.spotify.com/track/53x72ql3pw8h0hJ8PsEIdm"
     },
     {
       "added_at": "2025-09-19 06:00:27",
@@ -531,22 +563,6 @@
     {
       "added_at": "2025-09-19 06:00:27",
       "album": {
-        "name": "Volv\u00ed a Creer",
-        "url": "https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC"
-      },
-      "artists": [
-        {
-          "name": "Los Caliz",
-          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "Volv\u00ed a Creer",
-      "url": "https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI"
-    },
-    {
-      "added_at": "2025-09-19 06:00:27",
-      "album": {
         "name": "Los Amos del Terror",
         "url": "https://open.spotify.com/album/4mMSrnCY36DJpb92fbEGpq"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 200493,
       "name": "Empujando la L\u00ednea",
       "url": "https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5"
-    },
-    {
-      "added_at": "2025-09-19 06:00:27",
-      "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/0BbBubEZhUbsJwpKJhMBgd"
     },
     {
       "added_at": "2025-09-19 06:00:27",

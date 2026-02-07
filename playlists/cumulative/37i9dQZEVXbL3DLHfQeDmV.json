@@ -330,7 +330,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -1119,7 +1119,7 @@
     },
     {
       "album": {
-        "name": "Cool for the Summer (Hardstyle - Agartha)",
+        "name": "Cool for the Summer (Hardstyle)",
         "url": "https://open.spotify.com/album/0eIIm7D03UDFjG7GDx9RYP"
       },
       "artists": [
@@ -1128,15 +1128,15 @@
           "url": "https://open.spotify.com/artist/3Vtn4tPlT2mTkh8WvgBLOJ"
         },
         {
-          "name": "Six Dior",
-          "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
+          "name": "Asentrix",
+          "url": "https://open.spotify.com/artist/6B6L5NF8BSmY76RUdtZmu2"
         }
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 173786,
-      "name": "Cool for the Summer - Hardstyle - Agartha",
+      "name": "Cool for the Summer - Hardstyle",
       "url": "https://open.spotify.com/track/7qe4U5w24EnDIMao2uLZnc"
     },
     {
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 145000,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/3SHtAxsiCxhCGyXDpxl1MI"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
@@ -4492,7 +4492,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -7893,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "We Do What We Want (Edit)",
+        "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188095,
+      "name": "We Do What We Want - Edit",
+      "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
+    },
+    {
+      "album": {
         "name": "West End Girl",
         "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
       },
@@ -8360,7 +8378,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 123750,
       "name": "Work To Tha Beat",
       "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"

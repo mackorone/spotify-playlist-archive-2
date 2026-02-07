@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Odeal",
+  "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Kehlani",
   "name": "Channel-X",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216266,
       "name": "Allegedly (with Teddy Swims)",
       "url": "https://open.spotify.com/track/6X6O1AbGQqs7Dewftjpoz7"
@@ -2202,6 +2202,24 @@
       "duration_ms": 187275,
       "name": "Been Thinking",
       "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "album": {
+        "name": "Ratchet & Blues",
+        "url": "https://open.spotify.com/album/7dYcz9wetA8fYJn7CmGVRd"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194705,
+      "name": "Before We Get In Here!",
+      "url": "https://open.spotify.com/track/2fF0gafyalVC79QziHA3f2"
     },
     {
       "album": {
@@ -13279,6 +13297,24 @@
     },
     {
       "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223509,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
       },
@@ -13498,7 +13534,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 243846,
       "name": "MIXED EMOTIONS (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q"
@@ -16463,6 +16499,28 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "Piece of You (with Giveon)",
+      "url": "https://open.spotify.com/track/5e4cPfjt4pEeNvik5Ld3df"
+    },
+    {
+      "album": {
         "name": "PILLOW",
         "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
       },
@@ -18179,6 +18237,24 @@
     },
     {
       "album": {
+        "name": "PRAY FOR ME",
+        "url": "https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197748,
+      "name": "SAVE A MOMENT",
+      "url": "https://open.spotify.com/track/7xdzaWzq4IO5LGky4JKBol"
+    },
+    {
+      "album": {
         "name": "Save Your Tears",
         "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
       },
@@ -19388,7 +19464,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 224498,
       "name": "Sofa Joy",
       "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
@@ -22994,7 +23070,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 173440,
       "name": "Wake Up (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"

@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Algernon Cadwallader",
-  "num_followers": 79405,
+  "num_followers": 79421,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,22 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
+        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
       "artists": [
         {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Bad Luck.",
+          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
         }
       ],
-      "duration_ms": 138679,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD"
+      "duration_ms": 214800,
+      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
+      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -503,22 +507,18 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-        "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
       },
       "artists": [
         {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Bad Luck.",
-          "url": "https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9"
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
-      "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
+      "duration_ms": 138679,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Lullabies for Dogs",
-        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
-      },
-      "artists": [
-        {
-          "name": "Chase Petra",
-          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
-        }
-      ],
-      "duration_ms": 223756,
-      "name": "Because I Am My Own Dog",
-      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
         "name": "Foxing",
         "url": "https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 253013,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
+        "name": "Lullabies for Dogs",
+        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
+      },
+      "artists": [
+        {
+          "name": "Chase Petra",
+          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
+        }
+      ],
+      "duration_ms": 223756,
+      "name": "Because I Am My Own Dog",
+      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
     },
     {
       "added_at": "2025-09-12 16:23:44",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Liz Loyo",
-  "num_followers": 580555,
+  "num_followers": 580550,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "En Vivo Vol. 4",
-        "url": "https://open.spotify.com/album/3lONYpxIuoizLReJU0KGTb"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 424292,
-      "name": "Popurr\u00ed Selena 2 - En Vivo",
-      "url": "https://open.spotify.com/track/455yI1Lky2PYjGC2DYl1mC"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 188466,
       "name": "Luna Azul",
       "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "En Vivo Vol. 4",
+        "url": "https://open.spotify.com/album/3lONYpxIuoizLReJU0KGTb"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 424292,
+      "name": "Popurr\u00ed Selena 2 - En Vivo",
+      "url": "https://open.spotify.com/track/455yI1Lky2PYjGC2DYl1mC"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Hombre Malvado",
+        "url": "https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 163137,
+      "name": "Hombre Malvado",
+      "url": "https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "Tengo Ganas de Llorar",
         "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 173538,
       "name": "Tengo Ganas de Llorar",
       "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Hombre Malvado",
-        "url": "https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 163137,
-      "name": "Hombre Malvado",
-      "url": "https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "somos peligro",
         "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 179569,
       "name": "somos peligro",
       "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
+        "name": "Retumbando En El Cora",
+        "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 130833,
+      "name": "Retumbando En El Cora",
+      "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
         "name": "no tenerte duele m\u00e1s",
         "url": "https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 174552,
       "name": "Cuanto Te Amo",
       "url": "https://open.spotify.com/track/3H0TN0PotVH0SZVuxq34Gz"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
-        "name": "Retumbando En El Cora",
-        "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 130833,
-      "name": "Retumbando En El Cora",
-      "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Osa Mayor",
-        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164124,
-      "name": "Contigo Me Clav\u00e9",
-      "url": "https://open.spotify.com/track/77OMMe0pVx4B7adPMkmRpW"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "El Ojeroso",
         "url": "https://open.spotify.com/album/31jbzeLIeq8yEob26RkTjP"
       },
@@ -1591,18 +1571,22 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Mor\u00ed",
-        "url": "https://open.spotify.com/album/5hfajor7a8h94UvEeIsbQd"
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
       },
       "artists": [
         {
-          "name": "Mildred Feuchter",
-          "url": "https://open.spotify.com/artist/2IvVdu1hyp120X5TIzNeKP"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 213701,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
+      "duration_ms": 164124,
+      "name": "Contigo Me Clav\u00e9",
+      "url": "https://open.spotify.com/track/77OMMe0pVx4B7adPMkmRpW"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1639,6 +1623,22 @@
       "duration_ms": 177200,
       "name": "La Del Proceso",
       "url": "https://open.spotify.com/track/6Uvpogq0rwi7oan9JokAKe"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Mor\u00ed",
+        "url": "https://open.spotify.com/album/5hfajor7a8h94UvEeIsbQd"
+      },
+      "artists": [
+        {
+          "name": "Mildred Feuchter",
+          "url": "https://open.spotify.com/artist/2IvVdu1hyp120X5TIzNeKP"
+        }
+      ],
+      "duration_ms": 213701,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Donde Todo Comenzo",
-        "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Maldita Billetera",
-      "url": "https://open.spotify.com/track/316Loe0Jln9D2bujbVSxvr"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 216346,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Donde Todo Comenzo",
+        "url": "https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Maldita Billetera",
+      "url": "https://open.spotify.com/track/316Loe0Jln9D2bujbVSxvr"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "T\u00fa, Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "T\u00fa, Solamente T\u00fa",
-      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Blank Space (Hoja en Blanco)",
         "url": "https://open.spotify.com/album/3Rz0gBoMnPXqDDZNSEXZpK"
       },
@@ -1787,22 +1771,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "La Hembra Que Soy",
-        "url": "https://open.spotify.com/album/74a3rxJUXhLXHiMzBPvdYi"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 210065,
-      "name": "La Hembra Que Soy",
-      "url": "https://open.spotify.com/track/6ZZhzA0fE9eqLr5MJ5ASV5"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Regalame una Noche",
         "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
       },
@@ -1815,6 +1783,38 @@
       "duration_ms": 219273,
       "name": "Regalame una Noche",
       "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "T\u00fa, Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "T\u00fa, Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "La Hembra Que Soy",
+        "url": "https://open.spotify.com/album/74a3rxJUXhLXHiMzBPvdYi"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 210065,
+      "name": "La Hembra Que Soy",
+      "url": "https://open.spotify.com/track/6ZZhzA0fE9eqLr5MJ5ASV5"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Que Te Cambie La Suerte",
-        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
-      },
-      "artists": [
-        {
-          "name": "Briseyda Solis",
-          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
-        }
-      ],
-      "duration_ms": 207614,
-      "name": "Que Te Cambie La Suerte",
-      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Te Di",
         "url": "https://open.spotify.com/album/5MKsupkTGHJjOVlwd4JsaN"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 219500,
       "name": "Te Di",
       "url": "https://open.spotify.com/track/3wgRvw10lImDHMLGnm956d"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Que Te Cambie La Suerte",
+        "url": "https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ"
+      },
+      "artists": [
+        {
+          "name": "Briseyda Solis",
+          "url": "https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi"
+        }
+      ],
+      "duration_ms": 207614,
+      "name": "Que Te Cambie La Suerte",
+      "url": "https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Soltera Y Feliz",
-        "url": "https://open.spotify.com/album/3yHeioC8KTfFDQjMOempwP"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Soltera Y Feliz",
-      "url": "https://open.spotify.com/track/34uYkzHOB1btTUOHqk1PpR"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Canci\u00f3n Mixteca",
         "url": "https://open.spotify.com/album/0a1E8N0bliZhY5BRsrSNcx"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 182815,
       "name": "Canci\u00f3n Mixteca",
       "url": "https://open.spotify.com/track/3bHiyULgixfvtCVi6uOWcs"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Soltera Y Feliz",
+        "url": "https://open.spotify.com/album/3yHeioC8KTfFDQjMOempwP"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Soltera Y Feliz",
+      "url": "https://open.spotify.com/track/34uYkzHOB1btTUOHqk1PpR"
     },
     {
       "added_at": "2026-01-24 00:44:05",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-01-24 00:44:05",
       "album": {
-        "name": "Diosas en Texas",
-        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
-    },
-    {
-      "added_at": "2026-01-24 00:44:05",
-      "album": {
         "name": "Me Muero",
         "url": "https://open.spotify.com/album/5ceGaznF4sphWSn24yDxJ2"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 165685,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/5e5s4gLXUUv67QQlZEPROA"
+    },
+    {
+      "added_at": "2026-01-24 00:44:05",
+      "album": {
+        "name": "Diosas en Texas",
+        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
     },
     {
       "added_at": "2026-01-24 00:44:05",

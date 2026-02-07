@@ -1,13 +1,77 @@
 {
   "description": "Jazz voices of today. Cover: Ledisi",
-  "num_followers": 164809,
+  "num_followers": 164832,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAANicY8tALOiR2RyzjhrpJZI0SL9J",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
+    },
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Darkness, my old friend.",
+        "url": "https://open.spotify.com/album/0LKJuasVlaxeVGAaabhIXr"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "duration_ms": 219822,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/6BxloZErdEYBf5ZzmqVeWF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "La plus belle saison",
+        "url": "https://open.spotify.com/album/7KX6yVZvEDnEJPLrsn2Qgq"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "Les deux printemps",
+      "url": "https://open.spotify.com/track/52vBcU6dYSpbra7lar3BYF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 235633,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
+    },
     {
       "added_at": "2026-01-23 05:00:15",
       "album": {
@@ -115,22 +179,6 @@
       "duration_ms": 250237,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Dans les rues de Qu\u00e9bec",
-        "url": "https://open.spotify.com/album/5mIAWf2Ba7Lk8LxuBVt3TL"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 153369,
-      "name": "Dans les rues de Qu\u00e9bec",
-      "url": "https://open.spotify.com/track/4JWc2mhiHfdLkcqBKS6dqs"
     },
     {
       "added_at": "2025-11-14 05:00:20",
@@ -543,22 +591,6 @@
     {
       "added_at": "2025-07-25 04:00:42",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
-    },
-    {
-      "added_at": "2025-07-25 04:00:42",
-      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq"
       },
@@ -643,22 +675,6 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
-      "added_at": "2025-06-20 04:00:29",
-      "album": {
-        "name": "You'll Learn",
-        "url": "https://open.spotify.com/album/54LKTmr6ZGJr9dz4dB3HC8"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "You'll Learn",
-      "url": "https://open.spotify.com/track/3cI5JVAk4elOMjt4QzQUno"
     },
     {
       "added_at": "2025-06-06 04:00:06",
@@ -1787,22 +1803,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Could We Be Whole",
-        "url": "https://open.spotify.com/album/0Zs5zKQsW2FFjfXtoyGmjk"
-      },
-      "artists": [
-        {
-          "name": "Afra Kane",
-          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
-        }
-      ],
-      "duration_ms": 242222,
-      "name": "Death in My Dreams",
-      "url": "https://open.spotify.com/track/0PvE4WhqyDQ3yNbG5moaZR"
     },
     {
       "added_at": "2024-03-15 04:01:00",

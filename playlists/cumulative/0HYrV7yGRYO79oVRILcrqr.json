@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Why Not Take A Chance",
+        "url": "https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey"
+      },
+      "artists": [
+        {
+          "name": "Mary Wiles",
+          "url": "https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Moonlight In Her Eyes",
+      "url": "https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO"
+    },
+    {
+      "album": {
         "name": "MORE IS MORE",
         "url": "https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG"
       },
@@ -3644,6 +3662,24 @@
       "duration_ms": 159570,
       "name": "Paralisia Do Sono",
       "url": "https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU"
+    },
+    {
+      "album": {
+        "name": "PERFECT",
+        "url": "https://open.spotify.com/album/66qJyF1dyBFl0AEa3Oye7x"
+      },
+      "artists": [
+        {
+          "name": "Luke Buwalda",
+          "url": "https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "PERFECT",
+      "url": "https://open.spotify.com/track/6GK8NT1WSXxnxN0fGQrzo2"
     },
     {
       "album": {
@@ -4502,6 +4538,24 @@
       "duration_ms": 313210,
       "name": "Strange Illusions",
       "url": "https://open.spotify.com/track/6PRXQVA4RhM1sNXzDcbxWF"
+    },
+    {
+      "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/2k8sdKIeYBSy6QTWZLPGWK"
+      },
+      "artists": [
+        {
+          "name": "Massey's Cross",
+          "url": "https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277266,
+      "name": "Stranger in the Doorway",
+      "url": "https://open.spotify.com/track/513tmH4f4ObKLAzFrxpgDb"
     },
     {
       "album": {

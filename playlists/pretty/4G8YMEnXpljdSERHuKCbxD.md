@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,086 likes - 69 songs - 3 hr 39 min
+[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,083 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 | 20 | [Lost](https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:19 |
 | 21 | [american jesus](https://open.spotify.com/track/5X8zY1onsayfX8so8oXtMz) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 2:48 |
 | 22 | [Heart Racing](https://open.spotify.com/track/2cnpu7cp18EHe9kASx1C2W) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [exiit](https://open.spotify.com/album/5VAWrWrATNYTgUojcJtn8g) | 2:36 |
-| 23 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 |
+| 23 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 |
 | 24 | [CHAMPIONS](https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CHAMPIONS](https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn) | 4:02 |
 | 25 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 |
 | 26 | [Don't Let Me Down](https://open.spotify.com/track/14uA8SPeP5sioxmCPIeXt0) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Henge](https://open.spotify.com/album/0B9BY82cIWo4DjRMkUOeeW) | 3:55 |

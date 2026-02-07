@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 413514,
+  "num_followers": 413530,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Santacruz",
-        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
-      },
-      "artists": [
-        {
-          "name": "Supersubmarina",
-          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "De las Dudas Infinitas",
-      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182786,
       "name": "Tijuana Sound Machine",
       "url": "https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Santacruz",
+        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
+      },
+      "artists": [
+        {
+          "name": "Supersubmarina",
+          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "De las Dudas Infinitas",
+      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Prender un Fuego",
+        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 196072,
+      "name": "La Casa de A",
+      "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Prender un Fuego",
-        "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 196072,
-      "name": "La Casa de A",
-      "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
     },
     {
       "added_at": "2024-06-14 04:59:00",

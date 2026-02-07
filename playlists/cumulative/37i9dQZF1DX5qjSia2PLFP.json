@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:3TvL95zdOZWkMbkvfJ8cCk\">H3adband</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:7hjNO6RQeqZIBZpZQdstUO\">Taffy</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 167596,
       "name": "100%",
       "url": "https://open.spotify.com/track/4WTyf59axnEUGKjy3NJxtU"
@@ -10056,7 +10056,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 106056,
       "name": "GOIN ON",
       "url": "https://open.spotify.com/track/6051w7Fs5675HEW2Tn1eb0"
@@ -10479,6 +10479,36 @@
     },
     {
       "album": {
+        "name": "GUAPO",
+        "url": "https://open.spotify.com/album/6hnc9sPkRo0VvjFM7TNvoe"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        },
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        },
+        {
+          "name": "thickney",
+          "url": "https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186566,
+      "name": "GUAPO",
+      "url": "https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK"
+    },
+    {
+      "album": {
         "name": "Gyatt",
         "url": "https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs"
       },
@@ -10720,6 +10750,24 @@
       "duration_ms": 155000,
       "name": "Havin Freestyle",
       "url": "https://open.spotify.com/track/7DZT6oK0DaHqIgmPji8bGL"
+    },
+    {
+      "album": {
+        "name": "Rich Off Picks",
+        "url": "https://open.spotify.com/album/3qSbBl4C1czJ7IiguBo9D5"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Havin That",
+      "url": "https://open.spotify.com/track/2tGZImnTGIb8BJe8VLaveu"
     },
     {
       "album": {
@@ -14532,7 +14580,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179156,
       "name": "Making My Ends",
       "url": "https://open.spotify.com/track/2wd6HWWAcxVxALMl5PvMU4"
@@ -14648,7 +14696,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 214474,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag"
@@ -16664,10 +16712,32 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/3GGr8LqNNe0pntDKrwsqjh"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER II",
+        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158357,
+      "name": "NOW OR NEVER II",
+      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
       "album": {
@@ -25675,6 +25745,28 @@
     },
     {
       "album": {
+        "name": "What Do You Like",
+        "url": "https://open.spotify.com/album/4BS6ymE5V0gi6bQXr1D3XP"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "What Do You Like",
+      "url": "https://open.spotify.com/track/3kQfwrH3xDoC8G24CvcFMm"
+    },
+    {
+      "album": {
         "name": "What You Done",
         "url": "https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL"
       },
@@ -25964,6 +26056,24 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
+    },
+    {
+      "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196510,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
     },
     {
       "album": {

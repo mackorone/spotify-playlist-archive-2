@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Light Behind The Moon (Acoustic)",
+        "url": "https://open.spotify.com/album/4e649j0uvHqgGCv6AedN7h"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181543,
+      "name": "Light Behind The Moon - Acoustic",
+      "url": "https://open.spotify.com/track/58n5ZJQGKanPeD9cj8oLTE"
+    },
+    {
+      "album": {
         "name": "Hell's Kitchen Angel",
         "url": "https://open.spotify.com/album/1fVVnWHdCvIas2Rdmc25Oc"
       },
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 198206,
       "name": "Twilight - Acoustic",
       "url": "https://open.spotify.com/track/4th4jbIThqfYRY1x3U5zAw"

@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 24574,
+  "num_followers": 24599,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAABA2bOpfFw7TtVZK5mfnQrJ",
+  "snapshot_id": "aYPdgAAAAADMXcQ+XmoTY3FiORBu+mcx",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 227137,
-      "name": "Neighborhood (with Krayzie Bone & Prof)",
-      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -399,22 +395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
       "artists": [
         {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
         },
         {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
+      "duration_ms": 227137,
+      "name": "Neighborhood (with Krayzie Bone & Prof)",
+      "url": "https://open.spotify.com/track/6cLk7MbP2eN80S0wbwbyl6"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 211453,
-      "name": "Pookie Baby",
-      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
+      "duration_ms": 216306,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 216306,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
+      "duration_ms": 211453,
+      "name": "Pookie Baby",
+      "url": "https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK"
     },
     {
       "added_at": null,

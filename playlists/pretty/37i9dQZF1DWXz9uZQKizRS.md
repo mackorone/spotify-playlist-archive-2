@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Matylda/Łukasiewicz
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,684 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,708 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Myszka](https://open.spotify.com/track/42tSLWm0AG7BeZXatYb2uY) | [Matylda](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Myszka](https://open.spotify.com/album/5F1jA9xr0WAIlbC6vFlViQ) | 4:28 |
+| 1 | [Myszka](https://open.spotify.com/track/42tSLWm0AG7BeZXatYb2uY) | [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Matylda](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Myszka](https://open.spotify.com/album/5F1jA9xr0WAIlbC6vFlViQ) | 4:28 |
 | 2 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
 | 3 | [14 piętro](https://open.spotify.com/track/38xCd2vSbCnAmms9SVTujz) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [14 piętro](https://open.spotify.com/album/7fIKzLXygci6nWsFvQ3JPd) | 6:01 |
 | 4 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |

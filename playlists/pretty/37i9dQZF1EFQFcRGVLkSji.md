@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 162 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 162 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 75 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0dE6bo63eqDDfIr8XZhZpN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 2:41 |
 | 76 | [Disclosure](https://open.spotify.com/track/7nLhXCZc7aR1Bc3rREHC3m) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Disclosure](https://open.spotify.com/album/4nbJddRiMv9TKreAvK9Oel) | 3:00 |
 | 77 | [Dazed](https://open.spotify.com/track/0yvzGLzdyJIJ294lbt5ESc) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [Dazed](https://open.spotify.com/album/7bjaG4ZyFG9VaAlQLr9xBj) | 2:08 |
-| 78 | [Sex Talk](https://open.spotify.com/track/4yzrCEkv9pO6hrpWARyi0V) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Sex Talk](https://open.spotify.com/album/1xEdPfKwLNWJlWaYxcaNWB) | 2:03 |
-| 79 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
+| 78 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
+| 79 | [Sex Talk](https://open.spotify.com/track/4yzrCEkv9pO6hrpWARyi0V) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Sex Talk](https://open.spotify.com/album/1xEdPfKwLNWJlWaYxcaNWB) | 2:03 |
 | 80 | [feel like home](https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:40 |
 | 81 | [BNYX Da Reaper](https://open.spotify.com/track/1EDUzgblPIrZpUipr95S5u) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BNYX Da Reaper](https://open.spotify.com/album/1kSBFgU4PeCxLDYbK4xGwM) | 3:24 |
 | 82 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 161 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 162 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcI4zAAAAADd8/HkhjcKobJXNtn8YpUY`
+Snapshot ID: `AcI+lAAAAADontfTkJZWTe7a0GtwyiOI`

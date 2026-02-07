@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 759119,
+  "num_followers": 759159,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -47,8 +47,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 238706,
-      "name": "La Carretera",
-      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
+      "duration_ms": 223200,
+      "name": "Rechazame",
+      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -127,8 +127,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Rechazame",
-      "url": "https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK"
+      "duration_ms": 238706,
+      "name": "La Carretera",
+      "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Cuando Se Quiere Se Puede",
-        "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 262586,
-      "name": "Qui\u00e9n Eres Tu",
-      "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Cojelo Ah\u00ed",
         "url": "https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 359773,
       "name": "Coraz\u00f3n Culpable",
       "url": "https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Cuando Se Quiere Se Puede",
+        "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 262586,
+      "name": "Qui\u00e9n Eres Tu",
+      "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 185333,
       "name": "Ad\u00f3nde Se Fue ?",
       "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
     },
     {
       "added_at": "2024-06-04 19:13:44",

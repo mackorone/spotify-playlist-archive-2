@@ -4,7 +4,7 @@
 
 > Representantes de la rima Charrúa\. Foto: Zeballos.
 
-107 songs - 5 hr 35 min
+108 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Como Antes](https://open.spotify.com/track/3CPYBS37oDYRgvhNnDuTPH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Gula](https://open.spotify.com/artist/0z6vMOXncHabKtz4zNC7dB), [Dubchizza](https://open.spotify.com/artist/04i3ncIq7vjYE2N5Wl7q52) | [Como Antes](https://open.spotify.com/album/0Lhe5G2dSzIVnJoddVSSg7) | 2:56 | 2023-06-16 |  |
 | [Corré](https://open.spotify.com/track/76mWA6k30UXGVO8DVcK1yo) | [latejapride\*](https://open.spotify.com/artist/0te4j9deAol1V0ENp08xal) | [Corré](https://open.spotify.com/album/43NInFZt1eNRTMxusbcRN3) | 4:02 | 2023-06-16 |  |
 | [Crème Sessions Ep\. 5 T3](https://open.spotify.com/track/4fPpZ0yPnu6TmKT3BOc7Mf) | [Zalo Solo](https://open.spotify.com/artist/1ENCqEAeCXbL7fXwxJspod), [Clipper](https://open.spotify.com/artist/4PhnJWDcUEUsW8Q2kZ8JZO), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Tejo Mattioli](https://open.spotify.com/artist/6FqgjgxyRfdfsLMRbTsa2o), [Farath](https://open.spotify.com/artist/4mV2dArq3SRfmew2u6QXhH) | [Crème Sessions Ep\. 5 T3](https://open.spotify.com/album/0BoL3b5V6dgkepN0XzkCbB) | 2:44 | 2023-06-16 |  |
+| [CUANDO ESCRIBÍA ASIMETRÍA](https://open.spotify.com/track/54Yqi4VYecMQ7Mol0KTyX3) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [CUANDO ESCRIBÍA ASIMETRÍA](https://open.spotify.com/album/4QCM6aNuH8D1eBm1qp07Jg) | 3:56 | 2026-02-06 |  |
 | [Cypher Sevilla](https://open.spotify.com/track/08Xsn9vCKIL7HRql1v0s9Y) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN), [Trafik Traff](https://open.spotify.com/artist/6O00JiolmPe1RanWZf6w2S), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE), [Halberto El Cheff](https://open.spotify.com/artist/3ilksdfWiZYs3k1nJcWwWN) | [Cypher Sevilla](https://open.spotify.com/album/1dHS3sYm6YY124WTkV3Q5I) | 3:45 | 2023-06-16 |  |
 | [Dando Vueltas](https://open.spotify.com/track/314FEi04GJLNc89wCZVanH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Dando Vueltas](https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe) | 2:01 | 2023-06-16 |  |
 | [De Vuelta al Soundsystem](https://open.spotify.com/track/25zSzR3cufwZGV5ZsTpMeI) | [Groove Retórica](https://open.spotify.com/artist/0ceTE8laxMER6ROtEWX6CO) | [De Vuelta al Soundsystem](https://open.spotify.com/album/6jwEpbSl7gngD9t5AELIn1) | 3:17 | 2023-10-27 |  |

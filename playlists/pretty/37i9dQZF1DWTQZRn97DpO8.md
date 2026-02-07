@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Iris Aeria
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,715 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,743 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [20S](https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [20S](https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9) | 3:04 |
 | 2 | [Godbless](https://open.spotify.com/track/3Q11WlnGGnEmnbgtzVDWMF) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [La vie me va si bien](https://open.spotify.com/album/06YzVe7kmSRlUAld9lEPGL) | 3:39 |
 | 3 | [Pièce manquante](https://open.spotify.com/track/1vHJXlDR2BfMZ03LKPBk2T) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Pièce manquante](https://open.spotify.com/album/7kIDfBCTUUbJOoUSZJt7RC) | 2:57 |
-| 4 | [La paix](https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a), [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan) | [La paix](https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe) | 3:12 |
+| 4 | [Peacetrack](https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP) | [Tuerie](https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a), [PeaceMaker](https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan) | [Peacetrack](https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe) | 3:12 |
 | 5 | [MERCI](https://open.spotify.com/track/7nU2oIi1GfppgOWFiIhGY5) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [MERCI](https://open.spotify.com/album/05qGA2iRX4Bo406SSvoGmO) | 3:39 |
 | 6 | [Toxique](https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/046Gl25POXsyC1oVLFZofO) | 2:44 |
 | 7 | [En corps](https://open.spotify.com/track/2xZt4HhUoqog3riccMdQXM) | [Lykuin](https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM) | [En corps](https://open.spotify.com/album/1muVywGqeT5bmdMQ3VViwj) | 2:02 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 41 | [T'aimes ça](https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 2:58 |
 | 42 | [EN ITALIQUE](https://open.spotify.com/track/3j7xrIlhCH26p0VDT7XGgl) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl) | [EN ITALIQUE](https://open.spotify.com/album/0dmZvJ04fKttjKXJlvfMOi) | 2:55 |
 | 43 | [FLOU](https://open.spotify.com/track/01czP9FzVqljP6GfZFkahU) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [FLOU](https://open.spotify.com/album/2QkXoGwgxzcWssBE0Udg96) | 3:20 |
-| 44 | [PRINCE](https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn), [KZW](https://open.spotify.com/artist/4UPVZWDYFLFLIkPO40v5ci) | [PRINCE](https://open.spotify.com/album/0ozBxUQ0LfouBBCuAHCDNT) | 3:29 |
+| 44 | [PRINCE](https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE) | [Siyé](https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn), [KZW](https://open.spotify.com/artist/6gwjBErFF43XpzuE1qB35r) | [PRINCE](https://open.spotify.com/album/0ozBxUQ0LfouBBCuAHCDNT) | 3:29 |
 | 45 | [Altare](https://open.spotify.com/track/3wHeHgTnHKHvq7p68TzJjU) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Altare](https://open.spotify.com/album/6SlTrCCbIhwul7Ot6rdz1U) | 2:34 |
 | 46 | [Plus mon problème](https://open.spotify.com/track/2u6uOYmVVOrI0CMMxTp48T) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Plus mon problème](https://open.spotify.com/album/537g9sEVIbgJ2ACwIukunY) | 2:16 |
 | 47 | [HUMANITY](https://open.spotify.com/track/6Ey1ZKYeCDvyezMd0Zad8U) | [Mocaris](https://open.spotify.com/artist/5DpA6iFia7WBNhmj2M7q2j) | [HUMANITY](https://open.spotify.com/album/2STIppPlQL1kRXybxMOoKX) | 3:26 |

@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Cad\u00ea Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o e Gian",
+          "url": "https://open.spotify.com/artist/3fDm3CSdnifWUIUAG3N0kZ"
+        },
+        {
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150822,
+      "name": "Cad\u00ea Voc\u00ea?",
+      "url": "https://open.spotify.com/track/2XjtqFgZx18W8Mq9pdH60n"
+    },
+    {
+      "album": {
         "name": "Caipira Perdeu",
         "url": "https://open.spotify.com/album/7D8mfc4HZVN6PSafP3Dr7r"
       },
@@ -2431,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "Esquec\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
+      },
+      "artists": [
+        {
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198794,
+      "name": "Esquec\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
+    },
+    {
+      "album": {
         "name": "Encontro, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7zc32T4pEa1YRtGtiBX04W"
       },
@@ -3398,7 +3442,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 155969,
       "name": "J\u00e1 Era",
       "url": "https://open.spotify.com/track/139GP8jhf8QyVBKm6EIw8k"
@@ -5446,7 +5490,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 165280,
       "name": "Pulando Cal\u00e7ada",
       "url": "https://open.spotify.com/track/00d9W8AdEcljDyr2On5Ggn"

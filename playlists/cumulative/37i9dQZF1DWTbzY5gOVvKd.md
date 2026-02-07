@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-221 songs - 15 hr 14 min
+222 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [My Baby Just Cares For Me](https://open.spotify.com/track/1b8AEwsyE0NTgvySRi6SFz) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Sophie Milman](https://open.spotify.com/album/3E7VyuP30Il3LCV46isqH5) | 3:34 | 2022-05-02 | 2022-12-01 |
 | [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 | 2023-02-15 | 2023-08-25 |
 | [My Funny Valentine](https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:32 | 2019-05-26\* |  |
+| [My Funny Valentine](https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [My Funny Valentine](https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8) | 3:55 | 2026-02-06 |  |
 | [My One and Only Love](https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ain't No Sunshine / My One and Only Love](https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC) | 4:40 | 2019-05-26\* |  |
 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2019-05-26\* | 2022-05-03 |
 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 | 2022-05-02 |  |
@@ -171,7 +172,7 @@
 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 | 2022-09-13 | 2023-12-23 |
 | [Prelude To A Kiss](https://open.spotify.com/track/5gsuqMi0o2UFbZJQpCThZ2) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/1vCxmcWBVeYwoBPZAD1zjc) | 4:36 | 2023-12-19 | 2024-04-19 |
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-05-02 |  |
-| [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 | 2025-07-25 |  |
+| [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 | 2025-07-25 | 2026-02-07 |
 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-06-22 | 2023-01-18 |
 | [Smile](https://open.spotify.com/track/3CPhIqN93yTKFdAKSo3FXh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Smile](https://open.spotify.com/album/4knZD1tqBLuQv3VkT8JCLP) | 4:17 | 2019-05-26\* | 2022-07-29 |
 | [So In Love](https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:31 | 2021-10-01 | 2023-08-25 |

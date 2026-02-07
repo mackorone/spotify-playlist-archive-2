@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
+  "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
   "name": "Country Live",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 409900,
       "name": "'Til Summer Comes Around - Live from the HIGH AND ALIVE WORLD TOUR",
       "url": "https://open.spotify.com/track/0kLHY89ffK21WimdpkvDwc"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 292533,
       "name": "Desperate Man - Live At The Pinnacle, Nashville, TN / May 24, 2025",
       "url": "https://open.spotify.com/track/1TjDu4qBQa4korUP1PK4eA"
@@ -2060,6 +2060,24 @@
       "duration_ms": 311273,
       "name": "Jack Daniels - Live At Pepsi Center, Denver, CO / April 5, 2017",
       "url": "https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz"
+    },
+    {
+      "album": {
+        "name": "Johnny (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/3JeDwRiR07UuONRsAbWkCS"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285626,
+      "name": "Johnny - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/4bhWLpeEEjriIwQAVNiD3Z"
     },
     {
       "album": {
@@ -3108,7 +3126,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 423605,
       "name": "Simple Man - Live",
       "url": "https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp"

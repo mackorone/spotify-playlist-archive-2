@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,912 likes - 86 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,041 likes - 86 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 85 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 |
 | 86 | [Baila Como Trompo](https://open.spotify.com/track/5OQlRaEmlLBZprwGStV2se) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT) | [Baila Como Trompo](https://open.spotify.com/album/6BKCmDCh1qHYM4Jlz9BgrZ) | 1:45 |
 
-Snapshot ID: `AAAAAHVpZEuObmMR9cVR2QauUp3we5WF`
+Snapshot ID: `AAAAABd+zWyaIlFcI8kHJmVwQa2BF5P4`

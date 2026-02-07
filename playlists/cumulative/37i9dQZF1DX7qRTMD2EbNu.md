@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Smoke
 
-860 songs - 1 day 19 hr 27 min
+861 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [Time To Love Again](https://open.spotify.com/track/0LaCgmzJqzWymrvuXrimkd) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Time To Love Again](https://open.spotify.com/album/4DkV7VjFbEg0n4AsHVLtz9) | 2:35 | 2024-02-09 | 2024-03-08 |
 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 | 2024-02-23 | 2025-03-07 |
 | [TLP](https://open.spotify.com/track/5akungzMg2qpZKZ4EDEFrJ) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz) | [TLP](https://open.spotify.com/album/4k1QJXa6dFejkqpLT4T52C) | 2:56 | 2023-03-02 | 2023-03-11 |
+| [TNT](https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [TNT](https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs) | 3:34 | 2026-02-06 |  |
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-26 |
 | [Tonic No Lime \- Remix](https://open.spotify.com/track/44iABFwPsdM9jVxKojQrw5) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [Tonic No Lime \(Remix\)](https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5) | 3:03 | 2024-06-07 | 2024-07-06 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-04-19 |

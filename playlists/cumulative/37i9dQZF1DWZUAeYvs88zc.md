@@ -4,7 +4,7 @@
 
 > I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
 
-608 songs - 1 day 10 hr 3 min
+609 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [i feel 2 much](https://open.spotify.com/track/3Q7bVgmFnAoUmVngIZnE4k) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [i feel 2 much](https://open.spotify.com/album/4e1DvsaLzjXFnnihyHpSwd) | 4:00 | 2020-07-21 | 2022-07-29 |
 | [I feel 2 much](https://open.spotify.com/track/6p19vVjC4Lge9VANZlG8gi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 4:00 | 2022-07-28 | 2022-09-06 |
 | [I Hate This Part](https://open.spotify.com/track/4mYd9FQyU5eekDJyVeIRgS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Doll Domination](https://open.spotify.com/album/74b3KUT96bmPSN0nlX6YnV) | 3:38 | 2019-06-23 | 2019-08-10 |
+| [I Hope You Don't Remember Me](https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH) | 3:25 | 2026-02-06 |  |
 | [I Love You's](https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [I Love You’s](https://open.spotify.com/album/7poPqCs2rGkF1hzZHuzzCv) | 3:36 | 2020-03-29 | 2022-07-28 |
 | [I Love You's](https://open.spotify.com/track/60todhJq1ScRkVxFvXTuZF) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 3:36 | 2022-07-28 | 2024-03-30 |
 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 | 2019-05-26\* | 2021-10-02 |
@@ -572,7 +573,7 @@
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2023-09-15 | 2024-08-24 |
 | [Vertigo](https://open.spotify.com/track/2Aqg6jGRbrpyX3Pms61Q9o) | [Kisnou](https://open.spotify.com/artist/3Co4gT2U5SSLRcqcaArvBF), [Amethyst](https://open.spotify.com/artist/4rWVnoVdnBxs0C1o9RNIhg) | [Glow to Last](https://open.spotify.com/album/6uF3BZA5Hi002BbTERqshy) | 4:17 | 2019-05-26\* | 2021-05-27 |
 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 | 2022-07-01 |  |
-| [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 |  |
+| [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 | 2026-02-07 |
 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 | 2019-05-26\* | 2021-05-28 |
 | [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 | 2025-09-12 |  |
 | [waiting on nothing](https://open.spotify.com/track/1KQy9bivMyVPi4LRW9xbAd) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [waiting on nothing \(bye\)](https://open.spotify.com/album/69AGCvDt5nAEIyXFEyTuxy) | 4:07 | 2021-08-07 | 2021-10-23 |

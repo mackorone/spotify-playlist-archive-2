@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Zach Bryan
+> Fearless sounds at the crossroads of country and folk\. Cover: John Shambles
 
-661 songs - 1 day 16 hr 4 min
+663 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 | 2023-04-28 | 2024-01-31 |
 | [Baby, You're a Gun](https://open.spotify.com/track/6yk3E2nQ2VNEJynMzQTEgg) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Baby, You're a Gun](https://open.spotify.com/album/56VpDmshdg2w7BQhWnCwTk) | 3:29 | 2022-05-13 | 2023-04-22 |
 | [Back In The Blue](https://open.spotify.com/track/1PQrDN2COuMeQGQnj7Npiu) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn), [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Back In The Blue](https://open.spotify.com/album/7iOzxAUo7u7QQD0VXX19u8) | 2:53 | 2024-12-13 | 2025-01-16 |
+| [Back On The Gas](https://open.spotify.com/track/2QC0ghem0k3a6ACILZEJ3N) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Back On The Gas](https://open.spotify.com/album/7qQJvQr6iuQ5kzTzclsSrS) | 2:50 | 2026-02-06 |  |
 | [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 | 2025-10-17 |  |
 | [Back to You](https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Back to You](https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe) | 2:57 | 2024-06-28 | 2025-02-21 |
 | [Bad Behavior](https://open.spotify.com/track/2POwhNddOSl96QZ6TUSz7m) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Take It Like A Man](https://open.spotify.com/album/1Ls9XDOYzEHqZp4dViQQtY) | 3:37 | 2022-07-29 | 2022-09-25 |
@@ -481,6 +482,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Rattlesnake](https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Rattlesnake](https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif) | 3:33 | 2024-03-15 | 2024-06-02 |
+| [Rearview](https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Rearview](https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS) | 3:08 | 2026-02-06 |  |
 | [Reckless Heart](https://open.spotify.com/track/5qTFeB7tqd8az9XUmjhJyI) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Way Through Time](https://open.spotify.com/album/62CmXYKJosz1Bs2MuHvAvD) | 3:24 | 2024-03-15 | 2024-04-06 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
 | [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 | 2023-04-09 |
@@ -534,7 +536,7 @@
 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 | 2023-09-08 | 2024-05-27 |
 | [So Many Ways To Say I Love You](https://open.spotify.com/track/6LJRs5OvIe58iCbdE6dDK4) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/1iun8WXEf4ppNr0JY3xEqY) | 2:46 | 2024-10-11 | 2024-11-06 |
 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 | 2024-10-04 | 2025-04-06 |
-| [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 | 2024-12-06 |  |
+| [Some Things Never Change](https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx) | 3:20 | 2024-12-06 | 2026-02-07 |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 | 2023-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 | 2025-10-18 |

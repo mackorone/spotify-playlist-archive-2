@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Jamie Rust, Evil Level Live and more",
+  "description": "With Evil Level Live, JUST LIZZY, Die Oberherren and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 200640,
       "name": "(Just Like) Arcadia",
       "url": "https://open.spotify.com/track/52GaMDUrRxzTpd1r7VYqCl"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 209536,
       "name": "A song for the broken",
       "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 219000,
       "name": "Burning Coal",
       "url": "https://open.spotify.com/track/5sI8xsJng5LgS4Q73Ao21c"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 223855,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/4GDJIXNXvOycf2iMkyfE9h"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191500,
       "name": "Coming Back To Life",
       "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
@@ -1176,10 +1176,28 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168000,
       "name": "Cycle Breaker",
       "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
+    },
+    {
+      "album": {
+        "name": "Noise Therapy",
+        "url": "https://open.spotify.com/album/5z4srMqQdf9wGGy01F6Irk"
+      },
+      "artists": [
+        {
+          "name": "Color Of Noise",
+          "url": "https://open.spotify.com/artist/4EmMp4Clcpv3acsPlfA5FL"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Dafeet",
+      "url": "https://open.spotify.com/track/13zUeUMiC1CfU6Nn3HmpWH"
     },
     {
       "album": {
@@ -1259,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/64Hubj31lado0iFnbpAEi4"
+      },
+      "artists": [
+        {
+          "name": "Slave To Sin",
+          "url": "https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247296,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/0YKEjExveJD2pUxe4S5vyz"
+    },
+    {
+      "album": {
         "name": "Within Cells Interlinked Pt. 2",
         "url": "https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu"
       },
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 192000,
       "name": "Discipline",
       "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 229573,
       "name": "Galactic Tides",
       "url": "https://open.spotify.com/track/4iR5tmTE8GsxaH0PjYsJIN"
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -2474,6 +2510,24 @@
       "duration_ms": 190093,
       "name": "I Love to Hate You",
       "url": "https://open.spotify.com/track/3YfGhW4ljKzQyPkWPMEFzK"
+    },
+    {
+      "album": {
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/7bkNPHOMe3mYzMm5eDZx7C"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267391,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
     },
     {
       "album": {
@@ -2560,7 +2614,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -2690,6 +2744,24 @@
       "duration_ms": 180800,
       "name": "Innocent Smile - Radio Edit",
       "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/1Ge7getscmMNA5qKKoxWEb"
+      },
+      "artists": [
+        {
+          "name": "46 Forty Six Band",
+          "url": "https://open.spotify.com/artist/5fJnLVbADl2FofliSn6EbS"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6xFjDwRy50q7CoWgXLWvDV"
     },
     {
       "album": {
@@ -2888,7 +2960,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 285133,
       "name": "Justified",
       "url": "https://open.spotify.com/track/4JpphtwmpyMqv3tsx4Emff"
@@ -3004,7 +3076,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 215666,
       "name": "Koru Mindset",
       "url": "https://open.spotify.com/track/2NZK6ruSrACvOr4gZDUTah"
@@ -3470,7 +3542,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 183857,
       "name": "Mission",
       "url": "https://open.spotify.com/track/1UdxSFCeCAoKrJ98280uma"
@@ -3712,7 +3784,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
@@ -3860,7 +3932,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 226250,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/7C4z139quGQZOqcYx81SsS"
@@ -4074,7 +4146,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 206462,
       "name": "POV",
       "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
@@ -4360,7 +4432,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 328195,
       "name": "Ride the Night",
       "url": "https://open.spotify.com/track/65CLz2CF0QVhogC2nTz0A6"
@@ -4396,7 +4468,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
@@ -4472,7 +4544,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 270031,
       "name": "Salem For The Solstice",
       "url": "https://open.spotify.com/track/1KBhJLAxDTqA4Q71L4GAKz"
@@ -4526,7 +4598,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 284000,
       "name": "Scorpion Ride",
       "url": "https://open.spotify.com/track/2IvxVcuioQZIBJhQIMdB1o"
@@ -4548,6 +4620,24 @@
       "duration_ms": 264662,
       "name": "Screens",
       "url": "https://open.spotify.com/track/2Ic49nqCcxn8bKvnA0fcQU"
+    },
+    {
+      "album": {
+        "name": "Lich Tree / Sei\u00f0r",
+        "url": "https://open.spotify.com/album/5ie4eSVK4zoyGFIyHOhtC7"
+      },
+      "artists": [
+        {
+          "name": "Sparkling Cyanide",
+          "url": "https://open.spotify.com/artist/5Bo0RERjwt6aG13ny1d6dY"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273353,
+      "name": "Sei\u00f0r",
+      "url": "https://open.spotify.com/track/1IRQJ2cJZlxRa79zVIWqoU"
     },
     {
       "album": {
@@ -4700,7 +4790,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 278763,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/3nXGsb5LFOils9DwLbSJEf"
@@ -4780,6 +4870,24 @@
       "duration_ms": 259988,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5F0HBndUVzTErtZJCI9qEG"
+    },
+    {
+      "album": {
+        "name": "Naked Rat Dance",
+        "url": "https://open.spotify.com/album/4tUzffWuxTYlapD7EgFJhU"
+      },
+      "artists": [
+        {
+          "name": "The Guilt",
+          "url": "https://open.spotify.com/artist/5UlgkihcxCXPOqnkcSpdPH"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
     },
     {
       "album": {
@@ -5439,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/625gLSaOlAcfJ0mWt6zITJ"
+    },
+    {
+      "album": {
         "name": "My Dreams Are Calling You",
         "url": "https://open.spotify.com/album/7jM1rGOqa4vHhm3eT9vXns"
       },
@@ -5580,7 +5706,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/0LmikJOYvaLdWcQCZWNHUU"
@@ -5775,6 +5901,24 @@
     },
     {
       "album": {
+        "name": "Truth Behind The Lies",
+        "url": "https://open.spotify.com/album/1iCfPzIOgxd4SwWudJq3E4"
+      },
+      "artists": [
+        {
+          "name": "Fyre Insyde",
+          "url": "https://open.spotify.com/artist/4l7eikbYJX8fI70wwl5gtk"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142785,
+      "name": "Truth Behind The Lies",
+      "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
+    },
+    {
+      "album": {
         "name": "Tr\u00e4nen Aus Blut",
         "url": "https://open.spotify.com/album/0zFVdgK5mbB94Fdu8U4u03"
       },
@@ -5786,7 +5930,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
@@ -5960,7 +6104,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 266853,
       "name": "Wait for a Day",
       "url": "https://open.spotify.com/track/16BAb39sC5QuFyS1mVIBEM"
@@ -6246,7 +6390,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -6282,7 +6426,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 300187,
       "name": "Will i rise to breathe again?",
       "url": "https://open.spotify.com/track/0We2Xmni2KwxmJ3m4EYww4"
@@ -6390,7 +6534,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 221000,
       "name": "Your Disaster",
       "url": "https://open.spotify.com/track/4j1TVTWe33H1CRNsCdhcgK"

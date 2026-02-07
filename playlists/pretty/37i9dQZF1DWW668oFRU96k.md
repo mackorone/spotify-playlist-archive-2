@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Calvin Harris x Kasabian
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,713 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,740 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [COOK](https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COOK](https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP) | 2:50 |
 | 3 | [Upside Down](https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Upside Down](https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro) | 2:05 |
 | 4 | [Stay With Me](https://open.spotify.com/track/17ktgEcO9ujiINJy7wnhr4) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [COLDKIDS](https://open.spotify.com/artist/0annmahwZLMPzszAw2OnMv), [Elyna彭译萱](https://open.spotify.com/artist/7wNvGQDbmBoiL1v9uV2jHM) | [Stay With Me](https://open.spotify.com/album/3FDDeaMSdBuwBiEjwFceCn) | 2:56 |
-| 5 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [](https://open.spotify.com/album/null) | 3:12 |
+| 5 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
 | 6 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 |
 | 7 | [Veins](https://open.spotify.com/track/2YWM5VD6467jKZR67ffnLJ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:33 |
 | 8 | [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 151 songs - 7 hr 52 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 526 likes - 154 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,5 +159,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 149 | [so...............................?](https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg) | [ArfHudson](https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU) | [cute practice](https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6) | 1:33 |
 | 150 | [Молочный улун](https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i) | [К Поездам](https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV) | [Бозкараган](https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ) | 2:07 |
 | 151 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 |
+| 152 | [jack of all trades](https://open.spotify.com/track/2NiFKEDeAhGeJdbjtQVQH6) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC), [music ZerO](https://open.spotify.com/artist/6YRV4XG1UsZxRsaC194vAY) | [jack of all trades](https://open.spotify.com/album/5R9GLxQ237gIqXUZRXzyzz) | 2:37 |
+| 153 | [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 |
+| 154 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 |
 
-Snapshot ID: `AAAVnTPZJWDxVpEflMi2AX8Vy/cZkdFU`
+Snapshot ID: `AAAVoGCwSGhW87bPCK9BQlwVqEilYX3k`

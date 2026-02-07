@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
@@ -2307,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "MUCHO CON DEMASIAO'",
+        "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139049,
+      "name": "MUCHO CON DEMASIAO'",
+      "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
+    },
+    {
+      "album": {
         "name": "MUXAXA",
         "url": "https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ"
       },
@@ -2650,6 +2672,28 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "album": {
+        "name": "OK!",
+        "url": "https://open.spotify.com/album/2x8x5ge6RfH5fbWFrdq3hb"
+      },
+      "artists": [
+        {
+          "name": "Melodie",
+          "url": "https://open.spotify.com/artist/6K3X0fSM6k6voRuMjmOwJH"
+        },
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "OK!",
+      "url": "https://open.spotify.com/track/2JfLUnzIy19ArqhjjtNP2n"
     },
     {
       "album": {
@@ -3326,7 +3370,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 179072,
       "name": "Sucia",
       "url": "https://open.spotify.com/track/1KbCxoe5kxoILsvoSfKDN7"
@@ -3722,10 +3766,32 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 104117,
       "name": "XXX",
       "url": "https://open.spotify.com/track/4rdZF2QUmZIP6BobyzNhwm"
+    },
+    {
+      "album": {
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
     },
     {
       "album": {

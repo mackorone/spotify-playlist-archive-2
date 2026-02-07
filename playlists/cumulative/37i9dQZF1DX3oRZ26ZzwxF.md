@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : Black K
 
-260 songs - 11 hr 59 min
+261 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [WOLOLO](https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [WOLOLO](https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI) | 3:10 | 2025-08-21 | 2025-12-19 |
 | [Yako](https://open.spotify.com/track/6G43nkxTAkhPDTema2kixZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Yako](https://open.spotify.com/album/3KWBg8J1bmuwDKg3gzCs4G) | 2:52 | 2025-05-29 | 2025-09-05 |
 | [Ye Wanda](https://open.spotify.com/track/4uQMxL1rGFNzprVxIBF8TW) | [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [Ye Wanda](https://open.spotify.com/album/6fOpiq1geGRailuT7OPCrA) | 2:16 | 2026-01-22 | 2026-02-06 |
+| [Yeux de Foule](https://open.spotify.com/track/5YjawURFOkam2wXSlx6lGD) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV), [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ) | [Yeux de Foule](https://open.spotify.com/album/2On9qaBkgHOn6TZW6703X3) | 3:41 | 2026-02-06 |  |
 | [YPM](https://open.spotify.com/track/4wgHqq6QkVdAC9ElkBegdC) | [Drino](https://open.spotify.com/artist/2zQfW0dSrpcyuJZTQMeRgC), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [YPM](https://open.spotify.com/album/7n3iaSiyFvU172FHDEYCjM) | 2:35 | 2025-06-19 | 2025-07-11 |
 | [Zigi Zaga \(feat\. Bolémvn\)](https://open.spotify.com/track/4ULxqd5Fbx3LszKJLBgPCG) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [De Kabo à Brazza](https://open.spotify.com/album/2MpliIz6SCEjmX8CH4xHmH) | 3:12 | 2026-01-22 |  |
 | [ZÉRO](https://open.spotify.com/track/1rCpRaidop0h75ng6VpIDd) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [CONCRÉTISATION](https://open.spotify.com/album/6EMsKH0Ul0A2OgKE3ybDcm) | 2:46 | 2025-12-18 | 2026-01-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Varese & Folgar",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Peces Raros",
   "name": "(AR)",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 221720,
       "name": "Alone In My Head",
       "url": "https://open.spotify.com/track/1pKI0whqx8O2ldphgcWhoa"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 465990,
       "name": "anemoia",
       "url": "https://open.spotify.com/track/5d8mMKyfcwAfveKsdOcX4k"
@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Peces Raros - Spotify Sessions",
+        "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256965,
+      "name": "Cicuta - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3CV9QpKGJJxtimW0jDOODi"
+    },
+    {
+      "album": {
         "name": "Ciudad de Cristal",
         "url": "https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 478125,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1Rzw586y9PG1kH7Wafy3mk"
@@ -2166,6 +2184,24 @@
       "duration_ms": 483902,
       "name": "Ethereal Pulse - Hernan Cattaneo & Mercurio Remix",
       "url": "https://open.spotify.com/track/3rz57bviUeYsuL8Vv5aEbX"
+    },
+    {
+      "album": {
+        "name": "Everlong / Lies",
+        "url": "https://open.spotify.com/album/34Drpugegb65VUOcNCjvFj"
+      },
+      "artists": [
+        {
+          "name": "Emi Galvan",
+          "url": "https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433782,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/7ybOmTVLV4I6ZwzyabBjZq"
     },
     {
       "album": {
@@ -2600,6 +2636,24 @@
       "duration_ms": 261532,
       "name": "Fuck el Police - Remix",
       "url": "https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk"
+    },
+    {
+      "album": {
+        "name": "Funcional",
+        "url": "https://open.spotify.com/album/0XGol7LdMpg4SLJp3DaaTn"
+      },
+      "artists": [
+        {
+          "name": "Franzizca",
+          "url": "https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238274,
+      "name": "Funcional",
+      "url": "https://open.spotify.com/track/6NveqzdAR0CGGHF0HyjYA2"
     },
     {
       "album": {
@@ -4391,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Peces Raros - Spotify Sessions",
+        "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303886,
+      "name": "Nada para siempre - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD"
+    },
+    {
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/0YGbmIwItg1guMnn7RkBqK"
       },
@@ -5069,6 +5141,28 @@
     },
     {
       "album": {
+        "name": "Quiero irme con vos (rework)",
+        "url": "https://open.spotify.com/album/1ncGeBbZiKPYyhyGuT3pGh"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363840,
+      "name": "Quiero irme con vos - rework",
+      "url": "https://open.spotify.com/track/7hfUSBbZ4GTXrbUWGGTA1c"
+    },
+    {
+      "album": {
         "name": "Quilaquina",
         "url": "https://open.spotify.com/album/1rEZAzJZyhbrbjFGjY3jZD"
       },
@@ -5578,7 +5672,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 301714,
       "name": "Servicio Planetario",
       "url": "https://open.spotify.com/track/3t9to5xFG16hzI2yvKr4EG"
@@ -6342,7 +6436,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 469411,
       "name": "Tidings - Nick Warren & Nicolas Rada Remix",
       "url": "https://open.spotify.com/track/3Qt5tX6EaDNb5oIJQInOyQ"
@@ -6514,6 +6608,32 @@
       "duration_ms": 202652,
       "name": "Trabalho - Radio Mix",
       "url": "https://open.spotify.com/track/4k9od1orgSdqKzHr3W8YzT"
+    },
+    {
+      "album": {
+        "name": "Trama EP - THE REMIXES",
+        "url": "https://open.spotify.com/album/7cWjiUDF1ELTigFjBcMoJX"
+      },
+      "artists": [
+        {
+          "name": "Closed I",
+          "url": "https://open.spotify.com/artist/7IKZu4j5vGyS3nKWVj3qoy"
+        },
+        {
+          "name": "VICTORIA WHYNOT",
+          "url": "https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1"
+        },
+        {
+          "name": "MAUFONK",
+          "url": "https://open.spotify.com/artist/1kq71DoWxjCGR4FZu8JGEo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339375,
+      "name": "Trama - MAUFONK Remix",
+      "url": "https://open.spotify.com/track/66rwtF0BTlbh1qQjbmlP0Q"
     },
     {
       "album": {
@@ -6874,7 +6994,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 296194,
       "name": "Volver - Mixed",
       "url": "https://open.spotify.com/track/6B96cwbgKr7LcnTVdcubJf"

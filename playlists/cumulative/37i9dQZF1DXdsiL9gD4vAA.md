@@ -2,7 +2,7 @@
 
 ### [Golden Ghazals](https://open.spotify.com/playlist/37i9dQZF1DXdsiL9gD4vAA)
 
-> Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
+> Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
 222 songs - 19 hr 46 min
 

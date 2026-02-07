@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55543,
+  "num_followers": 55540,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAACCjhADUfK4X1hCqU/YCIsk",
+  "snapshot_id": "aYPdgAAAAACLecZv6UwRfNnsEXdyCxWp",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast Slow Disco",
+        "url": "https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 197005,
+      "name": "Fast Slow Disco",
+      "url": "https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Slow Disco",
-        "url": "https://open.spotify.com/album/1uuB4aCSbe5h5ga0wKUi3q"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 197005,
-      "name": "Fast Slow Disco",
-      "url": "https://open.spotify.com/track/6Xk5AaN4n4SnW71473GI7A"
     },
     {
       "added_at": null,

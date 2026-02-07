@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFFNsuSPMFRwX\">INK</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFHdCJiQTW4YT\">Stephen Wrabel</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 209515,
       "name": "1-800",
       "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
+    },
+    {
+      "album": {
+        "name": "11 Blocks",
+        "url": "https://open.spotify.com/album/57rHDJLhLfj9IrMxzaj8UX"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "11 Blocks",
+      "url": "https://open.spotify.com/track/7nZBRPj89rgeZ5eBLp2J7P"
     },
     {
       "album": {
@@ -752,7 +770,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 196021,
       "name": "Chama",
       "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168000,
       "name": "if jesus saw what we did last night",
       "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 151800,
       "name": "MEET YOUR MAKER",
       "url": "https://open.spotify.com/track/7Fa0E1nYx3ITMQvV63BMQT"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y"
@@ -2757,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "shape of my heart / sugar",
+        "url": "https://open.spotify.com/album/4BQ2iuwNMyPLNros0Vo7I7"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262413,
+      "name": "shape of my heart",
+      "url": "https://open.spotify.com/track/5jsCh0ups4J9HiKGs8OZ1a"
+    },
+    {
+      "album": {
         "name": "Original Songwriter Demos",
         "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
       },
@@ -2878,6 +2914,24 @@
       "duration_ms": 222798,
       "name": "Sun Goes Down - Edit",
       "url": "https://open.spotify.com/track/4o3fupxrJRng5gol1Fe5cZ"
+    },
+    {
+      "album": {
+        "name": "surrender",
+        "url": "https://open.spotify.com/album/5CCSNp3sHWjiVVkdHQJlQs"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "surrender",
+      "url": "https://open.spotify.com/track/6Iw8RkhQMg0CWBXsOGy1Ls"
     },
     {
       "album": {
@@ -3052,13 +3106,13 @@
       },
       "artists": [
         {
-          "name": "Wrabel",
+          "name": "WRABEL",
           "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 230293,
       "name": "The Village",
       "url": "https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj"
@@ -3226,7 +3280,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 170769,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
@@ -3520,6 +3574,24 @@
       "duration_ms": 147100,
       "name": "WISER",
       "url": "https://open.spotify.com/track/55DPGJMa4VTqeJxlopg3eO"
+    },
+    {
+      "album": {
+        "name": "these words are all for you",
+        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
+      },
+      "artists": [
+        {
+          "name": "WRABEL",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182187,
+      "name": "wish you well",
+      "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
     },
     {
       "album": {

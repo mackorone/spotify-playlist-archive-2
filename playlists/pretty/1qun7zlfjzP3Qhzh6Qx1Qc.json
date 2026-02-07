@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.",
-  "num_followers": 33914,
+  "num_followers": 33912,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAANxpaQ0tSYsa9VsQjc+8KRRxAcflGq",
+  "snapshot_id": "AAAN1JZtTKkArQXYgH9kEflmOQas7roh",
   "tracks": [
     {
       "added_at": "2026-01-30 17:49:40",
@@ -23,6 +23,22 @@
       "duration_ms": 240946,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+    },
+    {
+      "added_at": "2026-02-06 20:07:41",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
     },
     {
       "added_at": "2026-01-30 17:49:40",
@@ -93,6 +109,26 @@
       "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
     {
+      "added_at": "2026-02-06 20:06:49",
+      "album": {
+        "name": "Ride, Ride, Ride (feat. Luke Bryan)",
+        "url": "https://open.spotify.com/album/4FYwE5UJ4EhDsa1rNn463N"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 200172,
+      "name": "Ride, Ride, Ride (feat. Luke Bryan)",
+      "url": "https://open.spotify.com/track/6hAXIcDTm9aYv2nUV9zqjV"
+    },
+    {
       "added_at": "2026-01-30 17:49:40",
       "album": {
         "name": "I Don't Care",
@@ -141,6 +177,22 @@
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
+      "added_at": "2026-02-06 20:07:03",
+      "album": {
+        "name": "Time Goes On",
+        "url": "https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 175273,
+      "name": "Time Goes On",
+      "url": "https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE"
+    },
+    {
       "added_at": "2026-01-30 17:49:40",
       "album": {
         "name": "Hold On Me",
@@ -171,6 +223,54 @@
       "duration_ms": 211451,
       "name": "Hidden Away",
       "url": "https://open.spotify.com/track/0INnW3DzfPaDpDAbL8Rin9"
+    },
+    {
+      "added_at": "2026-02-06 20:10:10",
+      "album": {
+        "name": "Midwest Memoir",
+        "url": "https://open.spotify.com/album/6LQg0Xn5JIhQckcX8nTGBZ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Midwest Memoir",
+      "url": "https://open.spotify.com/track/0NMaxcAI0Yp8P55RjhnIuS"
+    },
+    {
+      "added_at": "2026-02-06 20:10:27",
+      "album": {
+        "name": "Get To Drinkin'",
+        "url": "https://open.spotify.com/album/7kL6TzLQdBZjsIvASzipIB"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "duration_ms": 168178,
+      "name": "Get To Drinkin'",
+      "url": "https://open.spotify.com/track/61fEaMHDhvx2kKBYkuUWD1"
+    },
+    {
+      "added_at": "2026-02-06 20:27:21",
+      "album": {
+        "name": "The Roses",
+        "url": "https://open.spotify.com/album/1WXuZBri7W4fJIX2rEpIeg"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 182056,
+      "name": "The Roses",
+      "url": "https://open.spotify.com/track/63L1CWuxDQhNNKvV4YXkeA"
     },
     {
       "added_at": "2026-01-30 17:49:40",
@@ -243,6 +343,22 @@
       "duration_ms": 178892,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/79EiT5ppYLOYZX2CDWuqFX"
+    },
+    {
+      "added_at": "2026-02-06 20:27:46",
+      "album": {
+        "name": "Weapons of Beauty",
+        "url": "https://open.spotify.com/album/7v1JoKe98icEWCTqFT1ipJ"
+      },
+      "artists": [
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+        }
+      ],
+      "duration_ms": 262777,
+      "name": "Deep Swimming",
+      "url": "https://open.spotify.com/track/5DZ30YqFTpuPjsyF2oKf2c"
     },
     {
       "added_at": "2026-01-30 17:49:40",

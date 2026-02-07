@@ -2,9 +2,9 @@
 
 ### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
 
-> The best in blues right now\. Cover: Robert Finley
+> The best in blues right now\. Cover: Joe Bonamassa
 
-538 songs - 1 day 12 hr 5 min
+540 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Grown Now](https://open.spotify.com/track/1G4QXkxFkadwNDEJSDWnfl) | [D.K\. Harrell](https://open.spotify.com/artist/33YoCLWWu9T6IdrXxCHsyx) | [Grown Now](https://open.spotify.com/album/0WU81ML0nzuJwgxRTgSdBk) | 3:52 | 2025-05-02 | 2025-06-21 |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-12 | 2022-09-17 |
 | [Halfway There](https://open.spotify.com/track/627qRPE4twOD1Ag58smmc6) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Liberation \(Deluxe Edition\)](https://open.spotify.com/album/1NDbJpeEHpn98FldLiroO3) | 3:06 | 2025-09-19 |  |
+| [Hammer & Chisel](https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hammer & Chisel](https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY) | 3:47 | 2026-02-06 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2021-06-04 | 2023-01-06 |
 | [Hard Times](https://open.spotify.com/track/0iwCmwNw208SJPWr2ffvfn) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Noah East](https://open.spotify.com/artist/0vAR5oDr4QsiUWm8aTFuB6), [Billy Valentine](https://open.spotify.com/artist/4AYoCwXHaaxeaM8DtzP3zg), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [FATHER SON](https://open.spotify.com/album/4eLAsdyOfNsiuczW6Iyc24) | 4:04 | 2025-05-16 |  |
 | [Hard To Be A Human](https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Hard To Be A Human](https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U) | 4:40 | 2023-05-19 | 2023-09-16 |
@@ -188,7 +189,7 @@
 | [Heartbreak City](https://open.spotify.com/track/5EXQSCQgwPjMKYB9aG5AQm) | [Larry McCray](https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc) | [Heartbreak City](https://open.spotify.com/album/6069Q408vtPl0pcne5egPX) | 7:23 | 2025-06-13 |  |
 | [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 | 2023-11-10 | 2025-06-21 |
 | [Heavy Soul](https://open.spotify.com/track/3aZtRvQ7PvcquxVGjNYJDZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/3ErX87cvZzUDipGiJsoepu) | 5:08 | 2024-02-16 | 2024-04-13 |
-| [Hell or High Water](https://open.spotify.com/track/7jrbzrew5vadFEnJfrwwvQ) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hell or High Water](https://open.spotify.com/album/1TxrD5ueL94W1e5pZeBzps) | 4:30 | 2026-01-23 |  |
+| [Hell or High Water](https://open.spotify.com/track/7jrbzrew5vadFEnJfrwwvQ) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Hell or High Water](https://open.spotify.com/album/1TxrD5ueL94W1e5pZeBzps) | 4:30 | 2026-01-23 | 2026-02-07 |
 | [Hell Or High Water](https://open.spotify.com/track/5CVi1Y4FCzWAi9cY1gHl8K) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hell Or High Water](https://open.spotify.com/album/5iBCXTVY0QnvyAhpiNONTF) | 3:41 | 2026-01-23 |  |
 | [Hello, it's the Blues](https://open.spotify.com/track/4l4ds95dBXqtgkRw05FHes) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [Hello, it's the Blues](https://open.spotify.com/album/63AimE0DtK9RSDDm8ylU2H) | 6:46 | 2022-12-02 | 2023-01-14 |
 | [Help Me](https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Help Me](https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL) | 3:30 | 2023-10-06 | 2025-09-20 |
@@ -434,7 +435,7 @@
 | [Sunshine City](https://open.spotify.com/track/4PpF9xvXBP5kH7IOBPkwBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Sunshine City](https://open.spotify.com/album/1MxTTpJSDtNjni0SF5zIMt) | 4:17 | 2021-10-15 | 2022-02-26 |
 | [Sweet 'Lil Lies](https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Sweet 'Lil Lies](https://open.spotify.com/album/6UCqBQAXge2aQLiZa6HrLu) | 5:17 | 2023-09-15 | 2023-10-14 |
 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 | 2023-10-06 | 2025-09-20 |
-| [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-11-14 |  |
+| [Sweet Little Angel](https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Sweet Little Angel](https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA) | 4:44 | 2025-11-14 | 2026-02-07 |
 | [Take Me Back](https://open.spotify.com/track/5Ft33jkZFk4vtCURt4BaHX) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S) | [New Morning](https://open.spotify.com/album/2TTXWDSbuk0LDVDEUNnsCh) | 5:36 | 2021-04-23 | 2022-04-23 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 | 2025-07-19 |
 | [Talkin' To Myself](https://open.spotify.com/track/3EaXr0cXcIDgjjzXNGt7Bs) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Broken](https://open.spotify.com/album/3XXt7jo30yi07AseATCdby) | 4:15 | 2024-03-01 | 2025-06-07 |
@@ -456,6 +457,7 @@
 | [The Question](https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Question](https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd) | 7:27 | 2022-11-04 | 2025-01-18 |
 | [The Razor's Edge](https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [The Razor's Edge](https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn) | 3:02 | 2022-03-25 | 2022-05-28 |
 | [The Squirrel Juice Blues](https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Soft Spot \(Deluxe\)](https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5) | 3:38 | 2023-06-16 | 2025-06-14 |
+| [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 | 2026-02-06 |  |
 | [The Weight of the World](https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [The Weight of the World](https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9) | 4:25 | 2022-10-21 | 2023-02-11 |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-12-14 | 2022-02-26 |
 | [These Eyes](https://open.spotify.com/track/0OmQOtewFFJX5Mmnu3siNk) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Life Is Hard](https://open.spotify.com/album/3fmvPlosqu7RMW0GkVx3KO) | 5:09 | 2024-02-23 | 2024-04-19 |

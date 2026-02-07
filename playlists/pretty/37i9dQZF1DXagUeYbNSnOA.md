@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Thomás Heredia\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,993 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,996 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [RUBÍ](https://open.spotify.com/track/5w7scYhoiAQoNRQena4efI) | [Olivia Herdt](https://open.spotify.com/artist/11IWeKauRXQykXxQtkHBGE) | [RUBÍ](https://open.spotify.com/album/4iCbI8EYdJP7CpYgGShxTy) | 1:48 |
 | 50 | [Romeo Y Julieta](https://open.spotify.com/track/0oVs3RGf73hjydSqRn4xu3) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [Romeo Y Julieta](https://open.spotify.com/album/0YeOUCFIiOsnhXndnsINzV) | 2:06 |
 
-Snapshot ID: `AAAAAIWmlDphGHKKrHQQ7FnLxhGKKVtT`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

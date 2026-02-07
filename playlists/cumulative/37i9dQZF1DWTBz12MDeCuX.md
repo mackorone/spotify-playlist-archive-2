@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-3,222 songs - 6 day 6 hr 8 min
+3,223 songs - 6 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2348,6 +2348,7 @@
 | [S0MM@ \(zürich\)](https://open.spotify.com/track/3RcuRltC75liq5Ev3Up2Lk) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [S0MM@ \(zürich\)](https://open.spotify.com/album/0qPrYbvdykq3HcFIyjFeic) | 1:47 | 2025-05-08 | 2025-06-20 |
 | [S1](https://open.spotify.com/track/5M9h1FePRQwKlOOFdt9OSF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [S1](https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ) | 3:12 | 2023-08-24 | 2023-10-27 |
 | [s2](https://open.spotify.com/track/4GdBOEwLdKVZSrXIPxYR24) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [sms](https://open.spotify.com/album/1out4sjRLrZyugnlMqnPyi) | 1:41 | 2022-08-25 | 2022-09-16 |
+| [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 | 2026-02-05 |  |
 | [Sad Girl Era](https://open.spotify.com/track/1xgBezvfQi39j9KWhg9lya) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Sad Girl Era](https://open.spotify.com/album/2FHLOAMBVJ1AuHZYWERM6K) | 2:58 | 2024-09-19 | 2024-09-27 |
 | [sad girl summer](https://open.spotify.com/track/5BAUuSQU1ayv233qRIKFOv) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:27 | 2025-07-24 | 2025-08-15 |
 | [sad sad delulu](https://open.spotify.com/track/7pMd0mivyeCH6neuS3uiYw) | [LGoony](https://open.spotify.com/artist/0aZu9zUfF2EgTHyBbZlW1C) | [sad sad delulu](https://open.spotify.com/album/3fRxDiSYk4g0F6FDMMe2LT) | 1:56 | 2025-07-03 | 2025-07-11 |
@@ -2440,6 +2441,7 @@
 | [Seven Minutes in Heaven](https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [MSI B\-SIDES vol.1](https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS) | 2:13 | 2025-08-28 | 2025-11-07 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-13 | 2023-10-07 |
 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 | 2022-09-01 | 2022-09-16 |
+| [Shake](https://open.spotify.com/track/5dMnARA9qb0aXnOQHwf1C6) | [Kø:lab](https://open.spotify.com/artist/14HsByUX40hG0DvFDVT8pa), [Anuuk](https://open.spotify.com/artist/6lULQJpvALVdy8p35hnHXv) | [Shake](https://open.spotify.com/album/3Le92yIYhH4EepJyqfOpcX) | 2:16 | 2026-02-06 |  |
 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 | 2024-12-09 | 2025-01-21 |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2024-02-22 | 2024-04-09 |
 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-28 | 2025-09-19 |
@@ -2484,7 +2486,7 @@
 | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2023-12-21 | 2023-12-30 |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-25 | 2024-03-08 |
 | [Skin Care](https://open.spotify.com/track/0xL2E5H2ND3lI63rAsUGBb) | [Search Yiu](https://open.spotify.com/artist/0jl1GB62whNLQlOh2cZjL7) | [Nevada Tapes](https://open.spotify.com/album/2tJvy3nSH5iuT43sTlWDiQ) | 2:07 | 2022-12-08 | 2022-12-24 |
-| [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 | 2026-01-15 |  |
+| [skinny jeans](https://open.spotify.com/track/049a3k8MqT26Ei5I76eD0U) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [skinny jeans](https://open.spotify.com/album/5Xhxo6ilvZsnTWMGBuczGC) | 2:22 | 2026-01-15 | 2026-02-07 |
 | [Skipping Class](https://open.spotify.com/track/5SNupzAgfh6SyAFIqFxijU) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO) | 2:13 | 2024-12-09 | 2024-12-13 |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2022-10-20 | 2022-11-04 |
 | [sLay QuEen\*](https://open.spotify.com/track/405OtCs8ISBKklXtSeQhTd) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q) | [sLay QuEen\*](https://open.spotify.com/album/26gChMUDSPGiCqdbC1ganH) | 2:07 | 2023-08-17 | 2023-08-25 |
@@ -2781,7 +2783,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 6](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

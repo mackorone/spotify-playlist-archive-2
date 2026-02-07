@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Dwson
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,825 likes - 55 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,875 likes - 55 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Da Lee LS](https://open.spotify.com/artist/0ZQmMzhIBnlt5OVEZ1Vdhj), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [AIBOO \(feat\. Thukuthela\)](https://open.spotify.com/album/2wcwX6B4KH6gotP7mrvs3a) | 5:33 |
-| 2 | [Track 5](https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Sense](https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Nothing To Lose](https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM) | 5:39 |
 | 3 | [Dark Place \(feat\. D.General\)](https://open.spotify.com/track/2ei3SqR4TH0Jd2jc6XA0Ij) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l) | [Lwandle](https://open.spotify.com/album/5I1rwDxIFpLBvoJtuyKlOr) | 7:55 |
 | 4 | [Baddi Ah](https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Mega EJ](https://open.spotify.com/artist/0sac58AQB9s0LOKuzxZ4LO), [P.M.F](https://open.spotify.com/artist/4Q3f5yoExJeuxMn9ahhXDX) | [Baddi Ah](https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV) | 3:48 |
 | 5 | [SNOKONOKO](https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [SNOKONOKO](https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp) | 6:39 |

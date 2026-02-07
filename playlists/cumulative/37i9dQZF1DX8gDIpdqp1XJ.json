@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 226770,
       "name": "Chang\u2019e",
       "url": "https://open.spotify.com/track/3yyagteXLaWUhXcyLWQNGY"
@@ -5424,7 +5424,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
@@ -5884,7 +5884,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 202746,
       "name": "Get Down Tonight",
       "url": "https://open.spotify.com/track/00Q20ZhL0FwSJh2Ryaei0h"
@@ -8050,7 +8050,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184996,
       "name": "It's Ok (it's Not Ok)",
       "url": "https://open.spotify.com/track/4InJf4lGFizBLNnmAd2dzq"
@@ -10198,7 +10198,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 209347,
       "name": "Minor Setback",
       "url": "https://open.spotify.com/track/0X20NKGsApgQ09YXfr4O4C"
@@ -12274,7 +12274,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 165413,
       "name": "Pet Rock",
       "url": "https://open.spotify.com/track/5nvAWyXQfFexcvnbmdcgBg"
@@ -13196,7 +13196,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 220188,
       "name": "Sad Dream",
       "url": "https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j"
@@ -13254,7 +13254,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 208448,
       "name": "San Pedro",
       "url": "https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d"
@@ -13774,6 +13774,24 @@
       "duration_ms": 190680,
       "name": "Shelter Song",
       "url": "https://open.spotify.com/track/35cLqDLNb6mN7NhBEhqYhZ"
+    },
+    {
+      "album": {
+        "name": "Vol.1",
+        "url": "https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343190,
+      "name": "Sherpa",
+      "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
     },
     {
       "album": {
@@ -15832,7 +15850,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 136697,
       "name": "The Great American Picnic",
       "url": "https://open.spotify.com/track/48AgoVXugpMSwRm9eAiKEj"
@@ -16660,7 +16678,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 229672,
       "name": "Trip to Mars",
       "url": "https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT"
@@ -17466,7 +17484,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 167050,
       "name": "Was It The Wandering Chestnut Prince",
       "url": "https://open.spotify.com/track/1U0WWy2wLJdvN7WvyFzmoG"

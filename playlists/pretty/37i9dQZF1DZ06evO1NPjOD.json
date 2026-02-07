@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39601,
+  "num_followers": 39612,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAADGbEwn1Xbwm8zmoE+IO2Go",
+  "snapshot_id": "aYPdgAAAAACJNDkV8X+8MkaDqC3qXpD7",
   "tracks": [
     {
       "added_at": null,
@@ -323,30 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
-        "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
       "artists": [
         {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 255180,
-      "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
-      "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -383,6 +371,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+        "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 255180,
+      "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+      "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 232787,
       "name": "Good Love (feat. Usher)",
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDER8ED",
-        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
+        "name": "Trying To Find My Next Thrill",
+        "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
       },
       "artists": [
         {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 171253,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7"
+      "duration_ms": 199266,
+      "name": "Perfect (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
     },
     {
       "added_at": null,
@@ -615,22 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trying To Find My Next Thrill",
-        "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
       },
       "artists": [
         {
-          "name": "Cousin Stizz",
-          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Perfect (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
+      "duration_ms": 171253,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 170560,
       "name": "Yung and Bhad (feat. City Girls)",
       "url": "https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
       "duration_ms": 187679,
       "name": "JT First Day Out",
       "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 114766,
-      "name": "Panties An Bra",
-      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Period (We Live)",
-      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,017 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,018 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 19 | [Way Out West](https://open.spotify.com/track/24c3i7eM7aSQnUlcnTFPcS) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [TANIA KERNAGHAN](https://open.spotify.com/artist/1ebUo23AWCxBfiXQgWSr8e), [Brewn](https://open.spotify.com/artist/19ulwp3gtl233K8WVCegeP), [Bec Lavelle](https://open.spotify.com/artist/4zRwzsHNKXXMaOELVbfEIX), [Ben Ransom](https://open.spotify.com/artist/2SNFDfoQucCJ9PqJKgNuy5), [Paul Costa](https://open.spotify.com/artist/3bewnvoOe0gd88OyFziiFQ) | [Way Out West](https://open.spotify.com/album/2RbC672tpulMdA4fG5zLNh) | 3:58 |
 | 20 | [All or Nothing](https://open.spotify.com/track/0BBysM0n9aupJTpYrDhtCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:27 |
 | 21 | [Beating Around The Bush](https://open.spotify.com/track/1bAGDBXqTpEiw1xv335cG8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz) | 3:19 |
-| 22 | [Number 34](https://open.spotify.com/track/06KtoiOxJgda07fHxV5IjZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 2:54 |
-| 23 | [Blame It On Eve](https://open.spotify.com/track/4Px9ClC3i18jlc2bABbXp8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:43 |
+| 22 | [Blame It On Eve](https://open.spotify.com/track/4Px9ClC3i18jlc2bABbXp8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 3:43 |
+| 23 | [Number 34](https://open.spotify.com/track/06KtoiOxJgda07fHxV5IjZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 2:54 |
 | 24 | [Every Time She Walks By](https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 3:16 |
 | 25 | [Milestones](https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj) | 3:36 |
-| 26 | [It's Five O'clock Somewhere](https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:36 |
-| 27 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/5lotEi7KPbW8VYwyKhV8bW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 4:13 |
+| 26 | [Comin' From / Khe Sanh \- Medley](https://open.spotify.com/track/5lotEi7KPbW8VYwyKhV8bW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu) | 4:13 |
+| 27 | [It's Five O'clock Somewhere](https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:36 |
 | 28 | [Ready For Love](https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD) | 3:55 |
 | 29 | [I'm Coming Home](https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:11 |
 | 30 | [This Time Of Year](https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mwFQ6.md) - [plain]
 | 49 | [Someday](https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22) | 2:28 |
 | 50 | [Just Drive](https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 4:41 |
 
-Snapshot ID: `aYKMAAAAAABHxCvbL5HjTW+jyhddH6MG`
+Snapshot ID: `aYPdgAAAAACOtjKGHKjUrhZ6V4hEqfSm`

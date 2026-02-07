@@ -4601,28 +4601,6 @@
     },
     {
       "album": {
-        "name": "La paix",
-        "url": "https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe"
-      },
-      "artists": [
-        {
-          "name": "Tuerie",
-          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
-        },
-        {
-          "name": "PeaceMaker",
-          "url": "https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192704,
-      "name": "La paix",
-      "url": "https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP"
-    },
-    {
-      "album": {
         "name": "Laisse-la devenir",
         "url": "https://open.spotify.com/album/63Vu1RAGy74s3LtyR8zVue"
       },
@@ -6685,6 +6663,28 @@
     },
     {
       "album": {
+        "name": "Peacetrack",
+        "url": "https://open.spotify.com/album/0TMRiVloNPywwX3CznkzQe"
+      },
+      "artists": [
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        },
+        {
+          "name": "PeaceMaker",
+          "url": "https://open.spotify.com/artist/08QOPvdFu8Z6gY8b1r3zan"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192704,
+      "name": "Peacetrack",
+      "url": "https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP"
+    },
+    {
+      "album": {
         "name": "Peine perdue",
         "url": "https://open.spotify.com/album/5dkcZ1YCd6sdiluFPM8nMJ"
       },
@@ -7213,7 +7213,7 @@
         },
         {
           "name": "KZW",
-          "url": "https://open.spotify.com/artist/4UPVZWDYFLFLIkPO40v5ci"
+          "url": "https://open.spotify.com/artist/6gwjBErFF43XpzuE1qB35r"
         }
       ],
       "date_added": "2026-01-29",

@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "13th Reason",
+        "url": "https://open.spotify.com/album/0wgOoQeuodDBhygSpr3uwQ"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137164,
+      "name": "13th Reason",
+      "url": "https://open.spotify.com/track/7roCU2sMUrCuK71CJVRCLG"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr"
       },
@@ -1130,6 +1148,24 @@
       "duration_ms": 215757,
       "name": "ABK",
       "url": "https://open.spotify.com/track/6LYvchB2ylOESS7YzYDPbq"
+    },
+    {
+      "album": {
+        "name": "Above All Else",
+        "url": "https://open.spotify.com/album/5hgsYQnKz2tIXTUX6BqRNI"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Above All Else",
+      "url": "https://open.spotify.com/track/6oxqMM4kKSYSHeyTHluVSf"
     },
     {
       "album": {
@@ -9596,7 +9632,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 133333,
       "name": "Do A Trick",
       "url": "https://open.spotify.com/track/37Gw1TDsf01EfANqfvn4M5"
@@ -14736,7 +14772,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 141221,
       "name": "Goer",
       "url": "https://open.spotify.com/track/1TDspUEbSqz5GgTlQjRItI"
@@ -17313,6 +17349,32 @@
     },
     {
       "album": {
+        "name": "I O U",
+        "url": "https://open.spotify.com/album/27uDlPPSUS7Qu8z0R2rHgD"
+      },
+      "artists": [
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "CJ Fly",
+          "url": "https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241650,
+      "name": "I O U",
+      "url": "https://open.spotify.com/track/1BtGKxdvvRPy1MdR2X3QDR"
+    },
+    {
+      "album": {
         "name": "I Should've Known (feat. Kyle Richh)",
         "url": "https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ"
       },
@@ -19549,6 +19611,24 @@
     },
     {
       "album": {
+        "name": "Lasagna",
+        "url": "https://open.spotify.com/album/17UFLnKSALSwQF20X3JpJo"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173479,
+      "name": "Lasagna",
+      "url": "https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc"
+    },
+    {
+      "album": {
         "name": "Last Drink",
         "url": "https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu"
       },
@@ -19560,7 +19640,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 156734,
       "name": "Last Drink",
       "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
@@ -20118,7 +20198,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194065,
       "name": "Letter To My Block",
       "url": "https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads"
@@ -31109,6 +31189,28 @@
     },
     {
       "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/2iNpdtiK5gwYXCyhGRMfsw"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/1GM8xRGBedLMwKZOQkZQxW"
+    },
+    {
+      "album": {
         "name": "College Park",
         "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
       },
@@ -31624,7 +31726,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 201075,
       "name": "SHOT O'CLOCK",
       "url": "https://open.spotify.com/track/1kL6AAomGbnxALWj7JRmiM"
@@ -32328,7 +32430,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194866,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0xaQ86cGRgcF8wwP1SkXsb"
@@ -33576,7 +33678,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206389,
       "name": "Suicide",
       "url": "https://open.spotify.com/track/0SXMOXwsp9EnwsF6XvEcNK"
@@ -38996,7 +39098,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 101485,
       "name": "Woke Up On Money",
       "url": "https://open.spotify.com/track/67swoPL4IWlZ0otiVGTHee"

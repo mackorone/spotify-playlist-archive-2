@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown emerging pop! Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,326 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,619 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 19 | [Somebody You Regret](https://open.spotify.com/track/179aUITNwolULE3s6vxhMb) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Somebody You Regret](https://open.spotify.com/album/7nvLSQKqApzxELyVibpSa3) | 3:51 |
 | 20 | [Wreck](https://open.spotify.com/track/14Y0C1J0ngoAkhRmdx216b) | [Blossom Caldarone](https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0) | [Wreck](https://open.spotify.com/album/157joLVcvRQGLHel5LiE4P) | 4:21 |
 | 21 | [Cathedrals](https://open.spotify.com/track/5ojrfwZOtKhvoGPoXBZ3Sg) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Cathedrals](https://open.spotify.com/album/6ew6nmFkqOLV69IIBXaXCm) | 4:01 |
-| 22 | [Track 1](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [bubble](https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [bubble](https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9) | 3:01 |
 | 23 | [To Feel Is To Be](https://open.spotify.com/track/50aiw9k7XNOoCb3k70iwRE) | [Bee Bran](https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ) | [To Feel Is To Be](https://open.spotify.com/album/00Zx7Wp8wcSV51lXOc8n5o) | 3:52 |
 | 24 | [Right Here](https://open.spotify.com/track/6GGGEbj4uAslHYUyjxVyBR) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Right Here](https://open.spotify.com/album/1kpSftsDEXk4MP9xhAumxZ) | 2:29 |
 | 25 | [3AM](https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [3AM](https://open.spotify.com/album/3UezsvZOCyGkCzZrJ4OAUb) | 3:12 |

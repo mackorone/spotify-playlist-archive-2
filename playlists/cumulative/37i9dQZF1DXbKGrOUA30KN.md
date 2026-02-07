@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Esther Graf, NESS
 
-279 songs - 12 hr 30 min
+279 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Girl](https://open.spotify.com/track/5VmnnC5gKgtrjTjB4hJXcE) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Girl](https://open.spotify.com/album/1hqU4llzuDodj3Dc7tQceA) | 2:00 | 2026-01-29 |  |
 | [Glücklich](https://open.spotify.com/track/1QCtEF7Gq6JwvyQp4sibdM) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Glücklich](https://open.spotify.com/album/2Ur8s1MKlthmU3PC2r4Tgd) | 2:28 | 2025-10-24 | 2025-10-31 |
 | [GROSSE WORTE](https://open.spotify.com/track/5MluGZSQSkblJesI4CnqDE) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GROSSE WORTE](https://open.spotify.com/album/5DlO8YR0dwLXOI8upesqVY) | 2:07 | 2026-02-05 |  |
+| [Gut genug](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Durch die Blume](https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH) | 2:49 | 2026-02-05 |  |
 | [Gut mit dir](https://open.spotify.com/track/1OJH6kImbewsfgL7sOhFtd) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Gut mit dir](https://open.spotify.com/album/2xipWmCGI2F7pNuKjpWDUb) | 3:06 | 2026-01-08 | 2026-01-30 |
 | [Gänsehaut](https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tagebuch](https://open.spotify.com/album/2W2W5TRADkqW39u9eppWtE) | 2:27 | 2025-11-06 | 2025-12-12 |
 | [Halb So Schön Wie Du](https://open.spotify.com/track/0aFDcdFXQDju2mUpcZGFhQ) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Halb So Schön Wie Du](https://open.spotify.com/album/4RVp5nMug7J4xhvUVSP6kS) | 3:25 | 2026-01-15 | 2026-01-30 |
@@ -215,6 +216,7 @@
 | [RON WEASLEY](https://open.spotify.com/track/1rYxxzFReauwApjU8byOKw) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [RON WEASLEY](https://open.spotify.com/album/025u3cE67Md9ANQAzEejuI) | 2:46 | 2025-10-24 | 2025-11-21 |
 | [ROTER KNOPF](https://open.spotify.com/track/3X3EJVWi2XSTRwxpMn374S) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [ROTER KNOPF](https://open.spotify.com/album/50VsggAMhFPZgYsg3Za3G0) | 2:00 | 2025-10-24 | 2025-11-14 |
 | [Russisch Roulette](https://open.spotify.com/track/4dl2chQiBfJdYqRtSYtQjj) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Russisch Roulette](https://open.spotify.com/album/7f5CCT665VoRN0cqagPqJs) | 2:50 | 2025-11-20 | 2026-01-15 |
+| [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 | 2026-02-05 |  |
 | [Scherben](https://open.spotify.com/track/4nlGk2Eg1rjXhU4wXcIO0Z) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Scherben](https://open.spotify.com/album/1uKhs1Xn1h7iLDUdZ8D3D5) | 2:23 | 2025-10-24 | 2026-01-15 |
 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 | 2026-01-29 |  |
 | [SEEPFERDCHEN](https://open.spotify.com/track/0BLfV6baATssbWPe2Pfe1Q) | [COSTA](https://open.spotify.com/artist/0KW88WbljA61xuGltoU6Ss) | [SEEPFERDCHEN](https://open.spotify.com/album/5jWtGnf5VSbVsXfDRayQ5M) | 3:05 | 2026-01-29 |  |
@@ -233,8 +235,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 |  |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 |  |
-| [Track 12](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
-| [Track 6](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 | 2025-11-28 |
@@ -251,7 +251,7 @@
 | [Versprechen](https://open.spotify.com/track/5KswjIWT5BL9qaNyKMUZgL) | [LEA x LINDA](https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro) | [Versprechen](https://open.spotify.com/album/4sKPaOA5U8BLNtnyizYvLe) | 2:49 | 2025-10-24 | 2025-12-12 |
 | [Verzeihen](https://open.spotify.com/track/3EA3zsD9l9kaW3Fl4Jmk85) | [SEELEMANN](https://open.spotify.com/artist/045asKAyJ8bk2wKJt7j5YE) | [Verzeihen](https://open.spotify.com/album/66ilz0N5Quvj3gK3EIompF) | 3:08 | 2026-01-08 | 2026-01-30 |
 | [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 | 2025-10-24 | 2025-11-21 |
-| [Völlig normal](https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [](https://open.spotify.com/album/null) | 2:25 | 2026-02-05 |  |
+| [Völlig normal](https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Blumendisko](https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO) | 2:25 | 2026-02-05 |  |
 | [Wahrheit oder Pflicht](https://open.spotify.com/track/1j8QY4LZEjrs2B9xhZ772d) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Wahrheit oder Pflicht](https://open.spotify.com/album/2L8feE6pLdkErUCdmhHnX5) | 2:42 | 2026-01-08 | 2026-02-06 |
 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 | 2025-10-30 | 2025-11-14 |
 | [Wann trennt ihr euch](https://open.spotify.com/track/4SIWTBspOcTt71kRYA87td) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wann trennt ihr euch](https://open.spotify.com/album/3DgfEGL7UW6cJZEwYZV2Qc) | 3:06 | 2025-11-06 | 2025-12-05 |

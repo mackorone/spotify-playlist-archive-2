@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-458 songs - 1 day 3 hr 18 min
+459 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Eva](https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 5:46 | 2022-10-30 | 2025-02-07 |
 | [Everything For You](https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Everything For You](https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM) | 2:47 | 2025-11-20 |  |
 | [Face Me](https://open.spotify.com/track/2w0iO1KhpyaFL1dhwot8Ac) | [Tim Wes](https://open.spotify.com/artist/3a4fZr4yelBfPivBYeM73T) | [Pink Dolls Blue Trucks](https://open.spotify.com/album/1GW4Z3JSzV8xATOvm4n3tr) | 2:20 | 2022-09-09 | 2024-11-22 |
+| [Fantasy Camera \(feat\. Forest Claudette\)](https://open.spotify.com/track/5GrUr9jQJqRRvA6AuHiYYH) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Fantasy Camera \(feat\. Forest Claudette\)](https://open.spotify.com/album/7LCKojbf1T8VJGaqm9eVHq) | 3:04 | 2026-02-06 |  |
 | [Fascination \- La Felix Remix](https://open.spotify.com/track/101rfMOaDybX3vBEBCu7BG) | [Reggie Got Beats](https://open.spotify.com/artist/23tus21ldeakyJwF2NMRhQ), [Vebjørn Mamen](https://open.spotify.com/artist/1DrjCiWLznLFQnsPie6fBX), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Fascination \(La Felix Remix\)](https://open.spotify.com/album/1WAH4gGgj4C9hJ5qbssEcE) | 4:07 | 2022-09-09 | 2022-10-15 |
 | [Fearless](https://open.spotify.com/track/4gwDxpAtGNezq7u3BXdMmS) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Fearless](https://open.spotify.com/album/6F62edIK4IsvQ2k0ttPCC4) | 4:58 | 2022-09-15 | 2025-02-08 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-08-30 | 2025-03-14 |
@@ -289,7 +290,7 @@
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-15 | 2025-03-14 |
 | [On the Clouds](https://open.spotify.com/track/5j7H9imYIJriwyfnYOzP3a) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [On the Clouds](https://open.spotify.com/album/6cmzCN4gujE9G6F5nlvWKp) | 3:35 | 2022-09-09 | 2023-12-15 |
 | [Onto Something](https://open.spotify.com/track/6x5RE5nzcVFbHSvnUzI6tX) | [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Onto Something](https://open.spotify.com/album/33dBJKFbqZWNwsXTUXnAcA) | 4:00 | 2023-08-24 | 2025-01-17 |
-| [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-29 |  |
+| [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-29 | 2026-02-07 |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2022-09-09 | 2024-02-02 |
 | [Or Is It?](https://open.spotify.com/track/1LQobjggg6QY8iXA8PNFIS) | [MANOLO](https://open.spotify.com/artist/007E3ZGctU4aLHEtxO0lTy) | [Or Is It?](https://open.spotify.com/album/3D7UKoqrqBr4uuzk4KSecK) | 5:10 | 2023-09-28 | 2025-05-20 |
 | [Orange Wine](https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Lynden](https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv) | [Orange Wine](https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1) | 3:10 | 2026-01-22 |  |

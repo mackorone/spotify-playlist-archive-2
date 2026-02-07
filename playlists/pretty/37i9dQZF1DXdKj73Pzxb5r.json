@@ -1,12 +1,12 @@
 {
   "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Elephant Kind",
-  "num_followers": 34265,
+  "num_followers": 34266,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1HD01jufmW8tTAnEXe2/4cn4jc",
+  "snapshot_id": "AAAAAPcYUTROCOWV/AmyAr3j0n/wSpDc",
   "tracks": [
     {
       "added_at": "2026-02-05 23:19:27",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-02-05 23:19:27",
       "album": {
-        "name": "Monopolar",
-        "url": "https://open.spotify.com/album/2xIr4lTHFOX24DssyuvO0R"
-      },
-      "artists": [
-        {
-          "name": "Strange Fruit",
-          "url": "https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Monopolar",
-      "url": "https://open.spotify.com/track/7FsylnthYpfFkOnFj8xBT5"
-    },
-    {
-      "added_at": "2026-02-05 23:19:27",
-      "album": {
         "name": "Malari 74",
         "url": "https://open.spotify.com/album/2VTxekOCy6zKDOGr1fg8qU"
       },
@@ -123,6 +107,38 @@
       "duration_ms": 216190,
       "name": "IYAA",
       "url": "https://open.spotify.com/track/4XfW8WDKYzgNC2G5xMHQUk"
+    },
+    {
+      "added_at": "2026-02-06 03:52:53",
+      "album": {
+        "name": "The Soil/The Soul",
+        "url": "https://open.spotify.com/album/2OJJHAySUwZHGBGkcPD3le"
+      },
+      "artists": [
+        {
+          "name": "Diniyah",
+          "url": "https://open.spotify.com/artist/3UEhZdHshd4Nq9ZHn00sVN"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "From The Children\u2019s Eye",
+      "url": "https://open.spotify.com/track/067o37QQDovPO0i9K50b5o"
+    },
+    {
+      "added_at": "2026-02-05 23:19:27",
+      "album": {
+        "name": "Monopolar",
+        "url": "https://open.spotify.com/album/2xIr4lTHFOX24DssyuvO0R"
+      },
+      "artists": [
+        {
+          "name": "Strange Fruit",
+          "url": "https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Monopolar",
+      "url": "https://open.spotify.com/track/7FsylnthYpfFkOnFj8xBT5"
     },
     {
       "added_at": "2026-01-30 03:11:26",

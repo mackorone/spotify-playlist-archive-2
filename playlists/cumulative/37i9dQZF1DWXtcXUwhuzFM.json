@@ -35261,8 +35261,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
       "artists": [
         {
@@ -43322,6 +43322,24 @@
       "duration_ms": 161196,
       "name": "Face Like Yours",
       "url": "https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt"
+    },
+    {
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
     },
     {
       "album": {
@@ -52550,13 +52568,17 @@
         {
           "name": "T\u00f6\u00f6l\u00f6n Ketter\u00e4",
           "url": "https://open.spotify.com/artist/33ncZPx0ToD6WQaiZaTggr"
+        },
+        {
+          "name": "Jodarok",
+          "url": "https://open.spotify.com/artist/4gRm2OKgju1aPSjO0ykD43"
         }
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183529,
-      "name": "Godmode",
+      "name": "Godmode (feat. Jodarok)",
       "url": "https://open.spotify.com/track/3jwWBtjexFpxFlkR1zEYO4"
     },
     {
@@ -57085,8 +57107,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
       "artists": [
         {
@@ -62367,6 +62389,24 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
+      "album": {
         "name": "Hotel Rock Bottom (Deluxe)",
         "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
       },
@@ -66209,6 +66249,28 @@
     },
     {
       "album": {
+        "name": "I had a dream...",
+        "url": "https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "I had a dream...",
+      "url": "https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC"
+    },
+    {
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/33Rc6auD02iv0n1rKFjTBd"
       },
@@ -67147,8 +67209,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
       },
       "artists": [
         {
@@ -80850,6 +80912,24 @@
       "duration_ms": 199572,
       "name": "KID AGAIN",
       "url": "https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg"
+    },
+    {
+      "album": {
+        "name": "K\u00c4TK\u00d6 - EP",
+        "url": "https://open.spotify.com/album/3wGmx8pi6LhwjEpXpExmxF"
+      },
+      "artists": [
+        {
+          "name": "Cozie",
+          "url": "https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198579,
+      "name": "KIELIMUURI",
+      "url": "https://open.spotify.com/track/2fOyMAvZgfQkyDMTBlhNAM"
     },
     {
       "album": {
@@ -99691,8 +99771,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "High School Drama",
+        "url": "https://open.spotify.com/album/5Cl0C9tNhVM9R6H9QtGCcp"
       },
       "artists": [
         {
@@ -103063,8 +103143,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -109459,8 +109539,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "My System",
+        "url": "https://open.spotify.com/album/55lBliVODsfCzFU4eNHACy"
       },
       "artists": [
         {
@@ -123218,7 +123298,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv"
@@ -128743,8 +128823,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Tyt\u00f6t pit\u00e4\u00e4 hauskaa",
+        "url": "https://open.spotify.com/album/6gkf9i81oCiJu3twlGfQJo"
       },
       "artists": [
         {
@@ -154715,8 +154795,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
       },
       "artists": [
         {
@@ -158127,8 +158207,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "High School Drama",
+        "url": "https://open.spotify.com/album/5Cl0C9tNhVM9R6H9QtGCcp"
       },
       "artists": [
         {
@@ -164844,6 +164924,24 @@
     {
       "album": {
         "name": "Time After Time",
+        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168298,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
         "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
       },
       "artists": [
@@ -167696,24 +167794,6 @@
       "duration_ms": 246516,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Cozie",
-          "url": "https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2fOyMAvZgfQkyDMTBlhNAM"
     },
     {
       "album": {

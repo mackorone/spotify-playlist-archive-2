@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Levarei a Minha Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5PFQ5bt8Gd5nuFnaW9NQRk"
+      },
+      "artists": [
+        {
+          "name": "Mayara Karolaine",
+          "url": "https://open.spotify.com/artist/2CQGSc7wDD1TMHJvRO5P75"
+        },
+        {
+          "name": "Vivace Music",
+          "url": "https://open.spotify.com/artist/2MTfVdhunAi8kbjOVZrmQs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Levarei a Minha Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/30TlkbKuy9weD2wqss6owW"
+    },
+    {
+      "album": {
         "name": "Le\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7KnlkcRioCEETEpOjrPTKO"
       },
@@ -5500,7 +5522,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 270512,
       "name": "Vai Ter Vida A\u00ed",
       "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"

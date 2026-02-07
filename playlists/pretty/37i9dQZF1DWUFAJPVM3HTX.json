@@ -1,13 +1,361 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys?si=32wOcvKtTpumuP3vH6vqIA\">Chuka, The Destroyer</a>. Updates every Wednesday.",
-  "num_followers": 276883,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=syubry5nQIGXmrIMz5HRQA\">JEDSOUL</a>. Updates every Wednesday.",
+  "num_followers": 276910,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMClA+DkQPaviao6ym2f2Qo05bil",
+  "snapshot_id": "AAAAADLm3CNTFoIr4aC5oPDf7TYHD3Wp",
   "tracks": [
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "COME AROUND",
+        "url": "https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ"
+      },
+      "artists": [
+        {
+          "name": "JEDSOUL",
+          "url": "https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO"
+        }
+      ],
+      "duration_ms": 165589,
+      "name": "COME AROUND",
+      "url": "https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/11e6AxJFSNRsLIhI1lwslr"
+      },
+      "artists": [
+        {
+          "name": "JAWAN.mp3",
+          "url": "https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7"
+        }
+      ],
+      "duration_ms": 221625,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/40vt5T2TTYHO9Vw2uZBj2S"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Ordinary Feelings",
+        "url": "https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Ordinary Feelings",
+      "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Who's Better",
+        "url": "https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "Who\u2019s Better",
+      "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "We Still Dance",
+        "url": "https://open.spotify.com/album/0C1NgDAaddxmVOwzjB3CDd"
+      },
+      "artists": [
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        },
+        {
+          "name": "DJ Miss Milan",
+          "url": "https://open.spotify.com/artist/6vdVHUNanrgzpPj5po5l7K"
+        }
+      ],
+      "duration_ms": 163464,
+      "name": "We Still Dance",
+      "url": "https://open.spotify.com/track/1k5T9ZVGQi56OFeDP0YWHV"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK"
+      },
+      "artists": [
+        {
+          "name": "Zach Zoya",
+          "url": "https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH"
+        },
+        {
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+        },
+        {
+          "name": "G\u00e4elle",
+          "url": "https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/5UgHlwJ8cit6qptE7QdpR5"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        }
+      ],
+      "duration_ms": 226284,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/2KTbF9GqcwxV4B7OEqPlpw"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/3F2aN1rTBdLu66J0BHKwI3"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/6mJeeFiVrazHWZYeiDx0hv"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Bait",
+        "url": "https://open.spotify.com/album/5kT01KkSNI2cklznfS1AIb"
+      },
+      "artists": [
+        {
+          "name": "N'shai Iman",
+          "url": "https://open.spotify.com/artist/2AZ9f5iFR5YiuZFOFFR8BI"
+        }
+      ],
+      "duration_ms": 138608,
+      "name": "Bait",
+      "url": "https://open.spotify.com/track/3fmem7uZqvqcVSo70GhmpT"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/7MjKeqKVTb6MU0TG4YaOng"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Dowsson",
+          "url": "https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy"
+        }
+      ],
+      "duration_ms": 177915,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/5paAVu6xnigUiRzIGNNEWN"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1C37jOWT71kupkGGwD3vNP"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/1Ov9z9LmB3wa5CN2lfE8M9"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "EMPTY PROMISES",
+        "url": "https://open.spotify.com/album/0RRSio2K7cVh4xxU6LjkUN"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 216085,
+      "name": "EMPTY PROMISES",
+      "url": "https://open.spotify.com/track/1ZvUDHSNBGaIhGY1jXOfMM"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3oLeu179N3E3sdbFUDvbP2"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        }
+      ],
+      "duration_ms": 133140,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/302sFIfqX0xpRwTcGL7CLC"
+      },
+      "artists": [
+        {
+          "name": "Carrie Baxter",
+          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/0ONMN6pFYuEsTuJWuyx9XW"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/7GzTEdafHXyfaBhbP2zu5A"
+      },
+      "artists": [
+        {
+          "name": "CANDIACE",
+          "url": "https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/2R2bGeqJV67cJMjKshERbY"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "22 Questions",
+        "url": "https://open.spotify.com/album/40bISD7OHEUghI2RHwsVHZ"
+      },
+      "artists": [
+        {
+          "name": "JaeyBxrd",
+          "url": "https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "22 Questions",
+      "url": "https://open.spotify.com/track/6e5Be1wEQX5SvfGTquUMPf"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "BNS",
+        "url": "https://open.spotify.com/album/29tjSkipUYtsGMQGnbI8eE"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Harris",
+          "url": "https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "BNS",
+      "url": "https://open.spotify.com/track/3LJiLax7rDkCLyN70QdrZc"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Make Things Right",
+        "url": "https://open.spotify.com/album/1DTXb7Yjp6WsFlo0ydLFHz"
+      },
+      "artists": [
+        {
+          "name": "Tym",
+          "url": "https://open.spotify.com/artist/6euhw751kKuUXujM9UHmdP"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Make Things Right",
+      "url": "https://open.spotify.com/track/0ouSkl1lkDe2Y3ZzFEQbsx"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "MIAMI GODDESS",
+        "url": "https://open.spotify.com/album/2PfLOqmdvVf25CCoRzPvd3"
+      },
+      "artists": [
+        {
+          "name": "kili",
+          "url": "https://open.spotify.com/artist/2VBXSPRE2S0cljz94I1EeP"
+        }
+      ],
+      "duration_ms": 189551,
+      "name": "MIAMI GODDESS",
+      "url": "https://open.spotify.com/track/4otVG9irtgsHj21f2F8eOT"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "iSCREAM Scoop 2",
+        "url": "https://open.spotify.com/album/2kNXR7iXNkIgoBvbgKohGn"
+      },
+      "artists": [
+        {
+          "name": "Joelle James",
+          "url": "https://open.spotify.com/artist/64AYolfOQ1AShrgPOB2EiD"
+        }
+      ],
+      "duration_ms": 202168,
+      "name": "2nd Chances",
+      "url": "https://open.spotify.com/track/67WTpfiJKgUGVysKVQppED"
+    },
+    {
+      "added_at": "2026-02-06 21:04:31",
+      "album": {
+        "name": "Return To Brazil",
+        "url": "https://open.spotify.com/album/2XdQuTxsAq8v8jhUfOXKnh"
+      },
+      "artists": [
+        {
+          "name": "Rashad",
+          "url": "https://open.spotify.com/artist/2ArflDzdsIvn33h04y8X0x"
+        }
+      ],
+      "duration_ms": 170282,
+      "name": "Return To Brazil",
+      "url": "https://open.spotify.com/track/7nidjlmDMiqegybpfuAQPv"
+    },
     {
       "added_at": "2026-01-23 07:24:53",
       "album": {

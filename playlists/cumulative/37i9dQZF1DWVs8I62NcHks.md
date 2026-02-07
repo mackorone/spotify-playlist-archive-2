@@ -4,7 +4,7 @@
 
 > Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
-216 songs - 11 hr 9 min
+217 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Gaston](https://open.spotify.com/track/1xfW7zqJPRR5Jr9b1zWXJ3) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Luke Evans](https://open.spotify.com/artist/2F9N9zhJE5npMz9Cej6ynJ), [Ensemble \- Beauty and the Beast](https://open.spotify.com/artist/530a0roPLtawMxdCfI2zrR) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3yHqth7pPn4juBh8gxbyjb) | 4:25 | 2021-11-19 | 2022-07-29 |
 | [Gaston](https://open.spotify.com/track/494qL09gtrLyndmhLg4yYX) | [Richard White](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G), [Jesse Corti](https://open.spotify.com/artist/53vhGhGRoi9ARM7kr3jrz5), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 3:40 | 2023-05-15 |  |
 | [Give a Little Whistle](https://open.spotify.com/track/16Ekkvg5dxPVdDo5Ys30j8) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Dickie Jones](https://open.spotify.com/artist/0bGGvfpbJAFYj1rX6ScbbJ) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 1:37 | 2023-05-15 |  |
+| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"](https://open.spotify.com/track/1S2wspqYMjUWEUsNkow23w) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"\)](https://open.spotify.com/album/5VT6DktVnly5XCedIRQPIZ) | 2:21 | 2026-02-06 |  |
 | [Go the Distance](https://open.spotify.com/track/2rm72l5pjfby1cWvPMUojI) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 3:14 | 2021-11-19 | 2022-07-29 |
 | [Go the Distance](https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 3:14 | 2022-02-25 |  |
 | [Go the Distance \- From "Hercules" / Soundtrack Version](https://open.spotify.com/track/3F4SrzdNtviMetb8oSYZog) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [NOW That's What I Call Disney](https://open.spotify.com/album/2q1CZCUv9MxonuzgFkC8hS) | 3:15 | 2022-11-05 | 2022-11-13 |

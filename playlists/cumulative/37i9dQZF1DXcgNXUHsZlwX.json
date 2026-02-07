@@ -3096,7 +3096,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
@@ -3251,6 +3251,42 @@
     },
     {
       "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
+    },
+    {
+      "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "album": {
         "name": "If Life Were a Movie",
         "url": "https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti"
       },
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194699,
       "name": "Islands in the Stream",
       "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
@@ -3866,7 +3902,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
@@ -6035,6 +6071,28 @@
     },
     {
       "album": {
+        "name": "REPRISES",
+        "url": "https://open.spotify.com/album/15JvasDJEX8HHFcTA9b3zT"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262828,
+      "name": "Mercy Street",
+      "url": "https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU"
+    },
+    {
+      "album": {
         "name": "Pourchasser l'aube",
         "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
       },
@@ -8016,7 +8074,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 197996,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8"
@@ -9954,6 +10012,24 @@
       "duration_ms": 279417,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
+    },
+    {
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy"
+      },
+      "artists": [
+        {
+          "name": "a-ron songs",
+          "url": "https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225139,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE"
     },
     {
       "album": {

@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195716,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj"
       },
@@ -17070,24 +17088,6 @@
       "duration_ms": 168549,
       "name": "Touch (feat. Franky)",
       "url": "https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
     },
     {
       "album": {

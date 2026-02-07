@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Ghea Indrawari
 
-806 songs - 2 day 4 hr 40 min
+807 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Kepada Nya](https://open.spotify.com/track/7bM8Eb8TQUFJGk6tDmkA4K) | [Novia Bachmid](https://open.spotify.com/artist/6eK6JN4xhNFMfe2QHLwrx9) | [Kepada Nya](https://open.spotify.com/album/6J5KkAeZCQAniRBAHVn8vj) | 3:56 | 2025-03-06 | 2025-05-09 |
 | [Kepada Yang Teristimewa](https://open.spotify.com/track/3nwbFx4JoOHflWwYQgrvoJ) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kepada Yang Teristimewa](https://open.spotify.com/album/5RlOi0Tjr7IWd61fSKwOGK) | 4:00 | 2025-01-23 | 2025-03-07 |
 | [Kesalahan Ini Indah \(Terlambat Bertemu\)](https://open.spotify.com/track/0yZOzhD2J0yICYdnVtodwZ) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Kesalahan Ini Indah \(Terlambat Bertemu\)](https://open.spotify.com/album/1Eaf3gYiUQgND5P9qoSO0p) | 3:37 | 2025-11-27 | 2026-01-15 |
+| [Ketika Tangan Dan Kaki Berkata](https://open.spotify.com/track/14UEeMIQWbef1gfEYwu7NL) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps), [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Ketika Tangan Dan Kaki Berkata](https://open.spotify.com/album/29UEABjDj0LF1LkftWKc0f) | 3:48 | 2026-02-06 |  |
 | [Kias](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 | 2025-09-11 | 2025-10-31 |
 | [Kini](https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini](https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB) | 3:37 | 2024-06-27 | 2024-07-27 |
 | [Kini \(sudut pandang Grace\)](https://open.spotify.com/track/6oyxsovvQWOSanJA9YWXmc) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI), [Grace Kaitlin](https://open.spotify.com/artist/2aZrqM2hPUmc2dIJgLhfSd) | [Kini \(sudut pandang Grace\)](https://open.spotify.com/album/3CRjRZVpInbfCaV7wf46vA) | 3:53 | 2025-07-31 | 2025-09-26 |

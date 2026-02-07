@@ -47107,8 +47107,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
       },
       "artists": [
         {
@@ -91829,8 +91829,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/38CvsgqbFCRuOXnoIy3UO4"
       },
       "artists": [
         {
@@ -100608,6 +100608,24 @@
       "duration_ms": 322526,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA"
+    },
+    {
+      "album": {
+        "name": "Picture: Volkoder",
+        "url": "https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191803,
+      "name": "So Am I",
+      "url": "https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9"
     },
     {
       "album": {
@@ -116086,24 +116104,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9"
     },
     {
       "album": {

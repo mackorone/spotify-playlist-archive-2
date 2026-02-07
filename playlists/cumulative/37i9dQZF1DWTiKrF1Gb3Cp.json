@@ -107,6 +107,36 @@
     },
     {
       "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288671,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
       },
@@ -874,7 +904,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 125161,
       "name": "Batall\u00f3n 2-4",
       "url": "https://open.spotify.com/track/7qm88EbyBRDEkPURrqrv3m"
@@ -1324,6 +1354,28 @@
       "duration_ms": 171221,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/3wpukX8pJ6wNLECrQlhUq5"
+    },
+    {
+      "album": {
+        "name": "Contando",
+        "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "Julian Leyva",
+          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191515,
+      "name": "Contando",
+      "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
     },
     {
       "album": {
@@ -2196,7 +2248,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207743,
       "name": "El Momo",
       "url": "https://open.spotify.com/track/0GaTCeRK7HWpu61fl5tRf9"
@@ -2218,7 +2270,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 146398,
       "name": "El Ni\u00f1o",
       "url": "https://open.spotify.com/track/51qy6tN1n8EQKOuB0mexii"
@@ -3113,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Kamikases",
+        "url": "https://open.spotify.com/album/6Pz47dQeF6LSCk0h4XAhOJ"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92571,
+      "name": "Kamikases",
+      "url": "https://open.spotify.com/track/367AQ4EEMftrm0oesRkhPx"
+    },
+    {
+      "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
       },
@@ -3904,7 +3974,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 119880,
       "name": "M-1 Atacando",
       "url": "https://open.spotify.com/track/0lnBIiLB1hTrapssAlLyUq"
@@ -4855,6 +4925,36 @@
     },
     {
       "album": {
+        "name": "PATRULLANDO",
+        "url": "https://open.spotify.com/album/2jvInFAsVBwneGKRQ8Wjzu"
+      },
+      "artists": [
+        {
+          "name": "Luno",
+          "url": "https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "LOBO66",
+          "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "PATRULLANDO",
+      "url": "https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3"
+    },
+    {
+      "album": {
         "name": "Payaso",
         "url": "https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi"
       },
@@ -5660,7 +5760,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 219478,
       "name": "Soldado Blanco",
       "url": "https://open.spotify.com/track/0Ef6Mx806J6n0cUmT6hz9o"
@@ -6156,6 +6256,24 @@
       "duration_ms": 200116,
       "name": "T\u00edo Rico",
       "url": "https://open.spotify.com/track/34tjVFScQh1ppmiAYGGq32"
+    },
+    {
+      "album": {
+        "name": "Un Antes y un Despu\u00e9s",
+        "url": "https://open.spotify.com/album/4f86mPhD4aW8wsymxEGzAn"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148522,
+      "name": "Un Antes y Un Despu\u00e9s",
+      "url": "https://open.spotify.com/track/6B6qzSyFwkF1xV8t2zHpOP"
     },
     {
       "album": {

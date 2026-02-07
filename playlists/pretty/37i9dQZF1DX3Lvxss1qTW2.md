@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > NXT presents..\. Ones to Watch 2026: Toxic Lyrikali
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,218 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,229 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 49 | [Yule Yule](https://open.spotify.com/track/0TvaZ5T7OAmpSn0NBrJdFa) | [Kipronoh](https://open.spotify.com/artist/0zSgMomfNpmXyCoMmvFZcT), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [Yule Yule](https://open.spotify.com/album/4b5UV68kWlRliWE0uGQ4Ey) | 2:55 |
 | 50 | [YUBUBU](https://open.spotify.com/track/52wQShnTIjxZfs41wtGvhy) | [KidFromKigali](https://open.spotify.com/artist/7tFO8gqP6I9nFJtxQrUty4), [Mike Kayihura](https://open.spotify.com/artist/7H6D1dNdzJt8NHOsTTTTNL) | [Stories From the Kid](https://open.spotify.com/album/50Jp88sHOb1MEbHyQx8CH7) | 3:39 |
 
-Snapshot ID: `AAAAANucvrGGRIkBd/Mg8zMI3464neZt`
+Snapshot ID: `AAAAAHkqNub4wiwXNW7401JUFcc8zsjA`

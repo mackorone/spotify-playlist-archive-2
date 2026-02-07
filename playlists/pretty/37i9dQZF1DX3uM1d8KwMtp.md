@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,449 likes - 49 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,461 likes - 49 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 48 | [TAKATA](https://open.spotify.com/track/2833VcMQqSI073PVVHiktW) | [HUMANS](https://open.spotify.com/artist/3WKzQPHWEN9Q5tc38sdX24) | [TAKATA](https://open.spotify.com/album/4OPtppAadpC1yzidzCptk6) | 3:14 |
 | 49 | [Sigi Sigildan \- Radio Mix](https://open.spotify.com/track/1ZRZMUokROuCEGYoqccEZn) | [Matizze](https://open.spotify.com/artist/1Zg3q9kpPoO57T5aWLlVhR) | [Sigi Sigildan \(Radio Mix\)](https://open.spotify.com/album/6lBMwvyYLTIHXD6xH7G3FA) | 2:56 |
 
-Snapshot ID: `AAAAAKiUcqSnyr+iY/IUwvGr9pv8XInN`
+Snapshot ID: `AAAAAKG8vcfxqyf59bhi6GxIj+2YmnQc`

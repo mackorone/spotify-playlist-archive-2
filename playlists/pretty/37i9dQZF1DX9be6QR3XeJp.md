@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Maddie Ashman
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,547 likes - 266 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,548 likes - 266 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [](https://open.spotify.com/album/null) | 5:04 |
+| 1 | [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Her Side](https://open.spotify.com/album/7EJGHAulmFdXaeECghFNmw) | 5:04 |
 | 2 | [Golden Daze](https://open.spotify.com/track/2VU9L06tLFb39gip8TuEbV) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Sunlight Echoes](https://open.spotify.com/album/6yVCF80M7T1NZtLIjkVVkU) | 3:07 |
 | 3 | [fall in love with the dj](https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj](https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ) | 3:00 |
 | 4 | [Barbed Wire](https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Barbed Wire](https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp) | 3:04 |

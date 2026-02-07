@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,884 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,886 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 48 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 |
 | 49 | [\(Die Man Is\) Verliefd \- Bonte Carlo \- Holiday Remix](https://open.spotify.com/track/21zH6hBqyOu64HWOLkOPqx) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Jeffrey Parmentier](https://open.spotify.com/artist/0nGVFnSCZQDPf0hflywur0), [Bonte Carlo](https://open.spotify.com/artist/3mnbX3HtlkbxMRIhSDLa1M) | [\(Die Man Is\) Verliefd \[Bonte Carlo \- Holiday Remix\]](https://open.spotify.com/album/4qAk37jJHhAD1mFtJT3kgN) | 3:25 |
 | 50 | [Eiland](https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Eiland](https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV) | 2:06 |
-| 51 | [Blijven Slapen](https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijven Slapen](https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL) | 2:50 |
-| 52 | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz) | 3:01 |
+| 51 | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz) | 3:01 |
+| 52 | [Blijven Slapen](https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijven Slapen](https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL) | 2:50 |
 | 53 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 |
 | 54 | [Leven](https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9) | 2:14 |
 | 55 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |

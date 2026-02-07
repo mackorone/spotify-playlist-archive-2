@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Iman Fandi
 
-1,223 songs - 2 day 18 hr 43 min
+1,224 songs - 2 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [5 hours](https://open.spotify.com/track/1gY5VH4HFlKWIPr0zzlEmA) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN) | [5 hours](https://open.spotify.com/album/3LenCDjkPXVdtDomaAcFkl) | 2:12 | 2025-08-21 | 2025-10-31 |
 | [98' Beauty Queen](https://open.spotify.com/track/5C3oheoyRnG0BofBaqjmTV) | [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Our Summer Soundtrack](https://open.spotify.com/album/1WYH2lJzToRe983YQb4NdY) | 2:55 | 2024-10-24 | 2024-12-20 |
 | [A Better Way](https://open.spotify.com/track/0xokXIFTMCizdQMRUHEKNk) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Skunga Kong](https://open.spotify.com/artist/1KYK8Ll0fkwofWiJEJUm1g) | [A Better Way](https://open.spotify.com/album/6UUH80Mdcc8uhXdwiiolG7) | 3:51 | 2025-01-09 | 2025-02-21 |
+| [A Character's Point of Hell](https://open.spotify.com/track/2CrlsSg6Uk5CGtsMlJ4sW8) | [Celeste Koh](https://open.spotify.com/artist/378As4gO3FUB4jrN3mpGjq) | [A Character's Point of Hell](https://open.spotify.com/album/7gUMQ6IfWKjaBE0Xbgs7Gd) | 4:46 | 2026-02-05 |  |
 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 | 2025-11-13 | 2026-01-31 |
 | [Achamillai](https://open.spotify.com/track/5iJ2j00266Z92MOxPS9pLI) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Achamillai](https://open.spotify.com/album/1xr5Y9wUb6Xw5VxpTIGZrF) | 3:15 | 2024-12-12 | 2025-01-03 |
 | [Ada Apa Di Sana](https://open.spotify.com/track/5PHdC78MpFHGP0ixttW9oR) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Ada Apa Di Sana](https://open.spotify.com/album/2e9aNGjqDllWqy3LNSmMFm) | 3:16 | 2025-11-13 | 2026-01-31 |

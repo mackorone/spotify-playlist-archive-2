@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33858,
+  "num_followers": 33859,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "A Beautiful Life",
         "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 196304,
       "name": "A Beautiful Life",
       "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "Can't Take My Story Away",
-        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 251566,
-      "name": "Can't Take My Story Away",
-      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "Can't Take My Story Away",
+        "url": "https://open.spotify.com/album/54HjJF318NtJtvz7FIwmLI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 251566,
+      "name": "Can't Take My Story Away",
+      "url": "https://open.spotify.com/track/6q55IN85ubuUeVu1tFEFWM"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "All Behind",
-        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
+        "name": "BP Love",
+        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Jessica Allossery",
+          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
+        },
+        {
+          "name": "The Butterfly Room",
+          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
         }
       ],
-      "duration_ms": 245567,
-      "name": "All Behind",
-      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
+      "duration_ms": 126750,
+      "name": "BP Love",
+      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -703,22 +707,6 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "Let's Get This Over With",
-        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
-      },
-      "artists": [
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Let's Get This Over With",
-      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/23UG1n839vfkWKbciCBIyA"
       },
@@ -735,6 +723,38 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
+        "name": "All Behind",
+        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 245567,
+      "name": "All Behind",
+      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
+        "name": "Let's Get This Over With",
+        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Let's Get This Over With",
+      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
         "name": "Buckle Down",
         "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 166957,
       "name": "Buckle Down",
       "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
-        "name": "BP Love",
-        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
-      },
-      "artists": [
-        {
-          "name": "Jessica Allossery",
-          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
-        },
-        {
-          "name": "The Butterfly Room",
-          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "BP Love",
-      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
     },
     {
       "added_at": "2026-01-29 23:00:30",

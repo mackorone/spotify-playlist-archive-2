@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 215983,
       "name": "BOKeTE",
       "url": "https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4"
@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/6tNGSjIgbSp3B2LOWumkJ0"
@@ -5760,7 +5760,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216470,
       "name": "CUPIDOxX",
       "url": "https://open.spotify.com/track/3vYFpgpkQF0EY5E9h9BF1r"
@@ -8058,7 +8058,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 232645,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA"
@@ -9886,7 +9886,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140773,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
@@ -10514,7 +10514,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 143180,
       "name": "GRECOFERNANDA",
       "url": "https://open.spotify.com/track/0mguL4pFDCe6BqSHHFQUpB"
@@ -13932,7 +13932,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
@@ -15010,7 +15010,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 150000,
       "name": "LOQUITA",
       "url": "https://open.spotify.com/track/3zkGK0pIRra9Mql8fKmROf"
@@ -20150,7 +20150,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 151146,
       "name": "Por un Pendejo no se llora - Salud mi Reina",
       "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
@@ -20638,7 +20638,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 139578,
       "name": "Pu\u00f1aladas",
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
@@ -24126,7 +24126,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 167764,
       "name": "SORT DE TU",
       "url": "https://open.spotify.com/track/7KhWQDShPj2MTLY6zTELKY"
@@ -24602,7 +24602,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
@@ -27202,7 +27202,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 206250,
       "name": "Un beso",
       "url": "https://open.spotify.com/track/17VuTw9YBQOjemKtWZy0xb"
@@ -27962,6 +27962,24 @@
       "duration_ms": 228099,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4"
+    },
+    {
+      "album": {
+        "name": "125 Km",
+        "url": "https://open.spotify.com/album/1CbFObw3TaQZVUX21jTWFf"
+      },
+      "artists": [
+        {
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213882,
+      "name": "Ventol\u00e0 (125 Km)",
+      "url": "https://open.spotify.com/track/2uWr6jccYSjmHyuCZYRKpF"
     },
     {
       "album": {

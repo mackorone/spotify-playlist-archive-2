@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3182882,
+  "num_followers": 3183269,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1188,22 +1188,6 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Queen Majesty (aka Minstrel and Queen)",
-      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
           "name": "The Upsetters",
           "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
         },
@@ -1215,6 +1199,22 @@
       "duration_ms": 155240,
       "name": "People Funny Boy",
       "url": "https://open.spotify.com/track/1pTu7NhYatmXHmGxJjVw4w"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Queen Majesty (aka Minstrel and Queen)",
+      "url": "https://open.spotify.com/track/7eArTFXshH2FuzC6ZptVlD"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1272,13 +1272,13 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+          "name": "Rudy Mills",
+          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
         }
       ],
-      "duration_ms": 153786,
-      "name": "You Don't Care (aka You'll Want Me Back)",
-      "url": "https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB"
+      "duration_ms": 191560,
+      "name": "Long Story",
+      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1288,13 +1288,13 @@
       },
       "artists": [
         {
-          "name": "Rudy Mills",
-          "url": "https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3"
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Long Story",
-      "url": "https://open.spotify.com/track/33rdVmEEjh3wYWBWoFWvwi"
+      "duration_ms": 153786,
+      "name": "You Don't Care (aka You'll Want Me Back)",
+      "url": "https://open.spotify.com/track/2Q5lnX5AiN6P9TPbfYtsBB"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1352,13 +1352,13 @@
       },
       "artists": [
         {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+          "name": "The Melodians",
+          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Travelling Man - Version 1",
-      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
+      "duration_ms": 156973,
+      "name": "It Comes And Goes",
+      "url": "https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1368,13 +1368,13 @@
       },
       "artists": [
         {
-          "name": "The Melodians",
-          "url": "https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI"
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
         }
       ],
-      "duration_ms": 156973,
-      "name": "It Comes And Goes",
-      "url": "https://open.spotify.com/track/4no5L40P5kscy5YwVlf3s3"
+      "duration_ms": 152613,
+      "name": "Travelling Man - Version 1",
+      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Jah Victory",
-        "url": "https://open.spotify.com/album/4sE0upD1pABIbeTg4ZXT1Q"
-      },
-      "artists": [
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        }
-      ],
-      "duration_ms": 264773,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/0oxnbj3KvvMl5khReTSn59"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "The Story Of Trojan Records",
         "url": "https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Song Book: Chapter a Day",
-        "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
+        "name": "Jah Victory",
+        "url": "https://open.spotify.com/album/4sE0upD1pABIbeTg4ZXT1Q"
       },
       "artists": [
         {
-          "name": "Jacob Miller",
-          "url": "https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio"
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
         }
       ],
-      "duration_ms": 154333,
-      "name": "Tenement Yard",
-      "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
+      "duration_ms": 264773,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0oxnbj3KvvMl5khReTSn59"
     }
   ],
   "unique_name": "Reggae Classics",

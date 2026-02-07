@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 윤하 \(Younha\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,120 songs - 2 day 20 hr 6 min
+1,122 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-05-09 |  |
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-08 | 2022-07-22 |
 | [DUNE](https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [DUNE](https://open.spotify.com/album/2nCVtbXGN7bJleieRr0i49) | 4:15 | 2023-11-03 | 2023-11-24 |
+| [dust](https://open.spotify.com/track/7lZe7HIcIWwYNThkh9ywaG) | [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [dust](https://open.spotify.com/album/3DCKxiaNTnsy2HLiTwgehB) | 3:14 | 2026-02-06 |  |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-12 | 2025-10-07 |
 | [Echoes of You](https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [IDOL I Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0) | 3:20 | 2025-12-16 | 2026-01-06 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2022-04-12 |  |
@@ -346,6 +347,7 @@
 | [Gonna Die](https://open.spotify.com/track/3LTk2U4sgSXS87douZ8ENT) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Gonna Die](https://open.spotify.com/album/5nLQcMLitti1JYX805cCoO) | 3:24 | 2025-02-28 | 2025-05-15 |
 | [GOOD BAM](https://open.spotify.com/track/2iODlZgbroRzdfuxmFfPiH) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 3:30 | 2022-04-22 | 2022-07-20 |
 | [Good Bones](https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:40 | 2024-05-09 | 2024-11-07 |
+| [Good Boy](https://open.spotify.com/track/4V38s6GgpCkwXx8vZm4sxw) | [THE SSYNDROME](https://open.spotify.com/artist/5an4wQx5rnfeMsGY4nfjZw) | [Good Boy](https://open.spotify.com/album/7DPMkyoQ7fk3wf5JruGHoW) | 3:23 | 2026-02-06 |  |
 | [Good enough](https://open.spotify.com/track/3tXTu7hcpy4clOR2VBVNUk) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:57 | 2024-05-09 | 2024-11-07 |
 | [Good for you](https://open.spotify.com/track/3AkesXd1KP7jPnoaY5Zkk6) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Good for you](https://open.spotify.com/album/1yG6xal9h8FZD9n0yD91Do) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [good memories \(Feat\. ADORA\)](https://open.spotify.com/track/213w7ByCEFekKf7zHN3wM4) | [Millionboy](https://open.spotify.com/artist/0Wuo8gMMrvWCgOgIG6zToT), [ADORA](https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r) | [BROKEN](https://open.spotify.com/album/3xX3GaWNCoQ6HihmaWCxFg) | 3:15 | 2025-02-10 | 2025-03-18 |
@@ -475,7 +477,7 @@
 | [Invisibles](https://open.spotify.com/track/7bJcyukFHTgXuQ31Cl7LZ9) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Square One](https://open.spotify.com/album/3sQvmhUTKE0SY7piBVlinX) | 3:49 | 2022-04-12 | 2022-07-25 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2022-04-22 | 2022-07-28 |
 | [It Rains](https://open.spotify.com/track/6gRKUHkcccyZi7442aPme9) | [Seoul Electric Band](https://open.spotify.com/artist/2rdg9jLI2WN0bAsrPWdRo1) | [It Rains](https://open.spotify.com/album/59W9Ohv3Y6hlenBBk5whDn) | 5:22 | 2025-02-04 | 2025-03-18 |
-| [It Was Love](https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD) | [LATENCY](https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U) | [It Was Love](https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5) | 3:04 | 2026-01-22 |  |
+| [It Was Love](https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD) | [LATENCY](https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U) | [It Was Love](https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5) | 3:04 | 2026-01-22 | 2026-02-07 |
 | [It's Complicated](https://open.spotify.com/track/60BgjgIQKhVO4mA6HnL2jT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [It's Complicated \- The 6th Mini Album](https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w) | 3:39 | 2024-11-06 | 2024-12-24 |
 | [It's time to go up high](https://open.spotify.com/track/2MxODxp6GgBuQnsmEx1GLq) | [강혜인](https://open.spotify.com/artist/3ZlJiWl3KRGDPuf9XGhhTp) | [Music Collaboration \- It's time to go up high](https://open.spotify.com/album/02NPzT6rw8yy7xvr8HEkkw) | 2:59 | 2024-11-06 | 2024-12-06 |
 | [ITSOKAYTOHURTME](https://open.spotify.com/track/75EugLnA9fzgIezUZ1Z453) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [ITSOKAYTOHURTME](https://open.spotify.com/album/1Moilyy5O3OgauO35DtD5H) | 5:40 | 2024-12-23 | 2025-03-07 |
@@ -1023,7 +1025,7 @@
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |
 | [We're destined to meet someday](https://open.spotify.com/track/6YgVmvaDpMIIeBCYog2wkx) | [BLVN](https://open.spotify.com/artist/5YpY8ifnZKsV99rZqwYMGF) | [B\-SIDE](https://open.spotify.com/album/2xfhZvZmpCsTmS3vyT8Pdu) | 4:40 | 2022-05-11 | 2022-06-04 |
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-18 |  |
-| [We′re Never Going Back](https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [OVER//DRIVE](https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd) | 3:00 | 2026-01-21 |  |
+| [We′re Never Going Back](https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [OVER//DRIVE](https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd) | 3:00 | 2026-01-21 | 2026-02-07 |
 | [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 | 2023-08-28 |
 | [What I Want To Say](https://open.spotify.com/track/7uJTJ5dlGhPeQ9IS8VReF6) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [What I Want To Say \(Police University OST Part.6\)](https://open.spotify.com/album/0i1PtAZNjiF9IIxm4i0N2m) | 3:18 | 2022-06-13 | 2022-06-15 |
 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 | 2022-04-21 | 2022-06-23 |

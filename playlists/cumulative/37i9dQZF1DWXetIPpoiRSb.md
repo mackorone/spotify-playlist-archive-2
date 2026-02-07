@@ -4,7 +4,7 @@
 
 > develop into a better, more complex state 🧪 cover: lolo zouaï
 
-2,113 songs - 4 day 9 hr 46 min
+2,114 songs - 4 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1526,6 +1526,7 @@
 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 | 2025-09-11 | 2025-09-20 |
 | [Raft In The Sea](https://open.spotify.com/track/35pNS21PF8hmRPXwQHxyJ1) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Raft In The Sea](https://open.spotify.com/album/3bPDiTVEsqTk0aInxUKvPE) | 3:35 | 2026-01-16 |  |
 | [Ragdoll](https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Ragdoll](https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw) | 3:03 | 2024-08-16 | 2025-02-01 |
+| [rager](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [rager](https://open.spotify.com/album/50DZmSygoelBizezheVskd) | 2:48 | 2026-02-06 |  |
 | [Rain](https://open.spotify.com/track/2BjzKoaIS9QkdTdUgbAMao) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More Is More](https://open.spotify.com/album/4Bm655AzTU4i95l2cb1hle) | 2:52 | 2025-09-11 | 2025-09-20 |
 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 | 2021-04-24 | 2021-05-22 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-10 | 2022-03-26 |
@@ -1912,6 +1913,7 @@
 | [TICK TOCK](https://open.spotify.com/track/6J4VcQgLGDRV8kbgTMhwly) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TICK TOCK](https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo) | 2:25 | 2022-09-23 | 2022-10-29 |
 | [TickTickBoom](https://open.spotify.com/track/2fifcgrC2McRDrABuG743H) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [TickTickBoom](https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw) | 2:25 | 2025-09-11 | 2025-09-20 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2021-05-08 |
+| [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-06 |  |
 | [Time's Up](https://open.spotify.com/track/1agRMOn2ZhZc01GTsRbVE6) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp) | [Time's Up](https://open.spotify.com/album/5Xn7wcujKfgcAAI9rWOUDL) | 2:58 | 2020-10-13\* | 2020-11-14 |
 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-10-07 | 2023-03-04 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 | 2025-09-25 | 2025-12-05 |
@@ -1934,7 +1936,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 1](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

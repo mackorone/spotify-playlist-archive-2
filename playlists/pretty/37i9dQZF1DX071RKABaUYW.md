@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Maddie Ashman
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,186 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,187 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [](https://open.spotify.com/album/null) | 5:04 |
+| 1 | [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Her Side](https://open.spotify.com/album/7EJGHAulmFdXaeECghFNmw) | 5:04 |
 | 2 | [The Ugly Ones](https://open.spotify.com/track/1SzccjdRk1HEybmMgEgvwK) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [The Ugly Ones](https://open.spotify.com/album/6Psf2S5Naahv5ebwRb5B42) | 3:22 |
 | 3 | [When england comes](https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [When england comes](https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX) | 2:52 |
 | 4 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 14 | [Jessica Mable](https://open.spotify.com/track/30DfcS756EjuOGTCYx1l71) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [George Cilverfox : Hymn of The Floating Palace](https://open.spotify.com/album/1oHDTvzlGtWaqIqxqmRcDv) | 2:31 |
 | 15 | [Angles Mortz](https://open.spotify.com/track/4CFGeqMhzAPy48XAh0ttAm) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Angles Mortz](https://open.spotify.com/album/6UM5wrJbAOW1eHz62V8yIg) | 4:18 |
 | 16 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 |
-| 17 | [Track 9](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [](https://open.spotify.com/album/null) | 0:00 |
+| 17 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
 | 18 | [Sleepwalker's Pendulum](https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 |
 | 19 | [Trash TV](https://open.spotify.com/track/4qM7Iig1Uw8XesVVZr4yt6) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [Trash TV](https://open.spotify.com/album/1CPV9kx5Kyh2nRHmv45Qlh) | 2:42 |
-| 20 | [Track 9](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 |
 | 21 | [Between Dreams](https://open.spotify.com/track/38z26PUg63ewXSY7yQV1oi) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Between Dreams](https://open.spotify.com/album/4CeCvMBu8oQteG3NNtaYYs) | 3:34 |
 | 22 | [Eyes](https://open.spotify.com/track/66mge0rOG9i1gUCnHOHKN5) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Eyes](https://open.spotify.com/album/2ovFFMm3HNWjLwfusZOCrC) | 3:16 |
 | 23 | [Tormentor](https://open.spotify.com/track/61K6XZE3e4Myl89Xgd57YS) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [The Flowers I See You In](https://open.spotify.com/album/0Xe00l36xtM6l0gRUcGuXu) | 2:40 |

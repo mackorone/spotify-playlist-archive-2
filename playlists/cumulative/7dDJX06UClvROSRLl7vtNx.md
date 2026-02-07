@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,175 songs - 2 day 2 hr 51 min
+1,176 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [sorry](https://open.spotify.com/track/2ZQSWCZ0xs0JQiGiHr9Zg6) | [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [sorry](https://open.spotify.com/album/3sUjlov6HHpznUA1pwNguA) | 2:17 | 2026-01-09 |  |
 | [Sound of Your Summer \- SUPER\-Hi Remix](https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr) | [Quarry](https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Sound of Your Summer](https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti) | 3:08 | 2023-09-22 | 2024-10-09 |
 | [Space + Time](https://open.spotify.com/track/4uOIIMZEldmHsFatxB7Qjw) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Space + Time](https://open.spotify.com/album/2LdvbeRRIYjEykM9P1o9t1) | 2:35 | 2025-05-11 | 2025-05-25 |
+| [Start Today](https://open.spotify.com/track/0nVVyZQDvNX303LqKibo8i) | [Baked Moon](https://open.spotify.com/artist/1EakYdOq1DNS0vJEC9Gy8K), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Start Today](https://open.spotify.com/album/6tQx6ggWUu7F4e9IWsAsrS) | 2:21 | 2026-02-06 |  |
 | [Starting With Something](https://open.spotify.com/track/5yUThZ4ah6PXeaILOky27t) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Starting With Something](https://open.spotify.com/album/1XtrJDG6T3JY6T6BLkOLGT) | 2:20 | 2024-06-07 | 2024-07-05 |
 | [State Of Mind](https://open.spotify.com/track/2ebnQEpk6lDZ5ujBHE3S0b) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob) | [State Of Mind](https://open.spotify.com/album/2GGa56amfOVGeyg44Ryuz4) | 2:27 | 2024-07-08 | 2024-08-12 |
 | [Stay](https://open.spotify.com/track/2fu99s2A2GK4hJfPpMPKtB) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [Saga Sneitz](https://open.spotify.com/artist/7vru8i2Y5YhFlZo20sVZRa) | [Stay](https://open.spotify.com/album/75bYL0wuQokPfUREObORgf) | 2:54 | 2024-02-16 | 2024-04-16 |

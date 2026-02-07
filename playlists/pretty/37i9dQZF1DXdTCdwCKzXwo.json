@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1270011,
+  "num_followers": 1270032,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "The Hurting",
-        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "The Cars",
         "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "The Hurting",
+        "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
     },
     {
       "added_at": "2025-01-14 03:34:33",

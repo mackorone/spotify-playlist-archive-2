@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 153369,
       "name": "Dans les rues de Qu\u00e9bec",
       "url": "https://open.spotify.com/track/4JWc2mhiHfdLkcqBKS6dqs"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 242222,
       "name": "Death in My Dreams",
       "url": "https://open.spotify.com/track/0PvE4WhqyDQ3yNbG5moaZR"
@@ -9025,6 +9025,24 @@
     },
     {
       "album": {
+        "name": "La plus belle saison",
+        "url": "https://open.spotify.com/album/7KX6yVZvEDnEJPLrsn2Qgq"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219014,
+      "name": "Les deux printemps",
+      "url": "https://open.spotify.com/track/52vBcU6dYSpbra7lar3BYF"
+    },
+    {
+      "album": {
         "name": "Songs From Other Places",
         "url": "https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP"
       },
@@ -9332,6 +9350,24 @@
       "duration_ms": 299506,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
+    },
+    {
+      "album": {
+        "name": "Loads of Love",
+        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162912,
+      "name": "Loads of Love",
+      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
     },
     {
       "album": {
@@ -10123,6 +10159,24 @@
     },
     {
       "album": {
+        "name": "Darkness, my old friend.",
+        "url": "https://open.spotify.com/album/0LKJuasVlaxeVGAaabhIXr"
+      },
+      "artists": [
+        {
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219822,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/6BxloZErdEYBf5ZzmqVeWF"
+    },
+    {
+      "album": {
         "name": "Meet Me in New Orleans",
         "url": "https://open.spotify.com/album/6DdzTqDYGItjmDFtEKD1GG"
       },
@@ -10668,6 +10722,24 @@
       "duration_ms": 457813,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl"
+    },
+    {
+      "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235633,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
     },
     {
       "album": {
@@ -12748,7 +12820,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 258866,
       "name": "Say It",
       "url": "https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv"
@@ -18330,7 +18402,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 227213,
       "name": "You'll Learn",
       "url": "https://open.spotify.com/track/3cI5JVAk4elOMjt4QzQUno"

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Lost in Hollywood
 
-817 songs - 1 day 22 hr 28 min
+818 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 | 2024-07-04 | 2024-07-12 |
 | [Love Is A Bitch](https://open.spotify.com/track/7drNu9ZOy7mAyrmsdw48NG) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Love Is A Bitch](https://open.spotify.com/album/3LD7s8xmRhUJxAm29WLwHL) | 2:47 | 2025-07-10 | 2025-07-18 |
 | [Love Is War](https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Shapeshifter](https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7) | 3:40 | 2025-03-27 | 2025-06-13 |
+| [Love Myself](https://open.spotify.com/track/1eog9TZ7UNY1gtP7UC6h0l) | [No Soul Society](https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS) | [Love Myself](https://open.spotify.com/album/2D6NZrDN8qBCQdZqU8T53y) | 2:53 | 2026-02-05 |  |
 | [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 | 2026-02-05 |  |
 | [Love You Sober](https://open.spotify.com/track/56ssS3GqM5xJ6NTXTNEH4o) | [Off Lights](https://open.spotify.com/artist/486c1jVbf27GPO8FeXZODk) | [Love You Sober](https://open.spotify.com/album/0aIfggprj1fqu0rbEdhcXF) | 3:20 | 2024-11-14 | 2024-11-22 |
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-24 |  |
@@ -596,6 +597,7 @@
 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-08-29 | 2025-10-05 |
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:32 | 2025-02-06 | 2025-03-28 |
 | [Row She Said](https://open.spotify.com/track/2lyAT3F7xraaydmQKAj0et) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Row She Said](https://open.spotify.com/album/4XDTrOgQIfPj15VW1zECNq) | 3:31 | 2025-05-22 | 2025-05-30 |
+| [Ruins](https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Ruins](https://open.spotify.com/album/5p7SfFy0yWn0bA5vUWKjcw) | 3:05 | 2026-02-05 |  |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-07-04 | 2024-07-17 |
 | [Rusty Rose](https://open.spotify.com/track/0kILLfeKtwUP8WXlTEzYHd) | [Gotthard](https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ) | [Rusty Rose](https://open.spotify.com/album/7gc8LyWN2uKaalRobm9cgI) | 4:14 | 2025-02-20 | 2025-02-28 |
 | [S!CK](https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [S!CK](https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs) | 3:12 | 2024-06-27 | 2025-01-31 |
@@ -743,7 +745,6 @@
 | [too far gone](https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [too far gone](https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro) | 3:04 | 2026-01-09 | 2026-01-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-12-05 |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 1](https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-12-12 |

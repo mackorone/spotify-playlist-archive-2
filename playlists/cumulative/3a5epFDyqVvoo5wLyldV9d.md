@@ -4,7 +4,7 @@
 
 > 
 
-904 songs - 2 day 23 hr 0 min
+905 songs - 2 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Ondo Anda a Meu Amor](https://open.spotify.com/track/5TjvCcwV1zdiG3K201yOgR) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [Brazilian Beats 1 \(Mr Bongo presents\)](https://open.spotify.com/album/0DixhgMePDELhPARuUVc6B) | 3:42 | 2021-01-21 |  |
 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 | 2024-07-11 |  |
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2021-07-13 |  |
+| [Orisa](https://open.spotify.com/track/35casNAhTwSC3ofq9KeNAw) | [Gilles Peterson's Havana Cultura Band](https://open.spotify.com/artist/4SoWhz7qApVfHCY5sy6Uq9), [Dreiser](https://open.spotify.com/artist/6datBM56vD9gN05Ve0iAMb), [Sexto Sentido](https://open.spotify.com/artist/5u1LT7zbz6DciTtGoO5lhj) | [Orisa \(Remixes\)](https://open.spotify.com/album/2WOhVsQtc1y8fZb25U8JKv) | 4:46 | 2026-02-06 |  |
 | [Otan Hunu](https://open.spotify.com/track/14HaQ8iuZTQRIYj9wuZLG3) | [Slim Young](https://open.spotify.com/artist/6eekW9l4YjoKmhYK9hNhs8) | [Straight from the Decks \(Guts Finest Selection from His Famous DJ Sets\)](https://open.spotify.com/album/33ZIG2aSnfDw4PsjvINRAs) | 4:45 | 2021-04-06 |  |
 | [Otoma da Naba](https://open.spotify.com/track/1AcOGhAEfX0I0dMTteCU8y) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Uh\-Ah Song](https://open.spotify.com/album/08KvvIPCWmHh0cAIHMzKfv) | 4:04 | 2024-09-30 |  |
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2022-08-20 |  |

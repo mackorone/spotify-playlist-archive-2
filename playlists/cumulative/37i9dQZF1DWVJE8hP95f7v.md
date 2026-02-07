@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-109 songs - 6 hr 33 min
+110 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [As Dores Do Mundo](https://open.spotify.com/track/6xXU23b32Z0L5HSZhBuYl0) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Na Rua, Na Chuva, Na Fazenda](https://open.spotify.com/album/5RyGjTmlcwDBaVbFeZrTld) | 3:43 | 2023-12-08 |  |
 | [Atenção!](https://open.spotify.com/track/4b6MEmZBgjEqevMEiIO0BI) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Davi Horta](https://open.spotify.com/artist/2ia6PDZ2wzFoPyCxuPnCaD), [Daniel Souza](https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B), [Fernanda Valadares](https://open.spotify.com/artist/0IDYkdjDp0TiqVBiresBOR), [LUAR](https://open.spotify.com/artist/1Xx7ZBh8sm7gy8db7xUGy3) | [Atenção!](https://open.spotify.com/album/5336HasldqLfPAwj2Pp8Et) | 3:35 | 2024-10-11 |  |
 | [Bala Doce](https://open.spotify.com/track/6740tFiff0CZAL5TZNZFT0) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/5n1z0veQcZg6s7dTxQ7hKo) | 2:53 | 2023-12-08 | 2024-04-19 |
-| [Bala Doce](https://open.spotify.com/track/6lpUGFfa0XzqsnqbKNa4rC) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/7eNtMTiMyJOc0tRoYXyBwE) | 2:53 | 2024-03-29 |  |
+| [Bala Doce](https://open.spotify.com/track/6lpUGFfa0XzqsnqbKNa4rC) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/7eNtMTiMyJOc0tRoYXyBwE) | 2:53 | 2024-03-29 | 2026-02-07 |
 | [Banho de Folhas \- Ao vivo](https://open.spotify.com/track/69E6OySGJuNR0TuWKIHY3S) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'água \(Ao vivo\)](https://open.spotify.com/album/6kzIGJqI6cwDiWcegkFpDo) | 5:53 | 2025-02-07 |  |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-15 |  |
 | [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 | 2024-12-07 |
@@ -31,6 +31,7 @@
 | [Carinha de Neném](https://open.spotify.com/track/4pXx9IvFpTNxtFNMY30N88) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [Carinha de Neném](https://open.spotify.com/album/3zmFaFpnPoshBu1JL3PQXI) | 2:18 | 2023-12-08 |  |
 | [Certificar](https://open.spotify.com/track/39iKqBJvPwW3HspCErgLSc) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Certificar](https://open.spotify.com/album/4OOrg2MvhCdEoAbsvyg6yp) | 2:50 | 2023-12-08 |  |
 | [Chama](https://open.spotify.com/track/099d5oFdwiB3e4cmxwF2FP) | [LUZZ](https://open.spotify.com/artist/4Jj4gaLmrar61DtXEUWDMq) | [Lado B](https://open.spotify.com/album/2gKXYtJkFssfX70IvhKB2Y) | 2:37 | 2023-12-08 |  |
+| [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 | 2026-02-06 |  |
 | [Dance Baby](https://open.spotify.com/track/6AUlBVrlbfMLa4X7e3bsNp) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:41 | 2023-12-08 |  |
 | [Dance, Dance, Dance](https://open.spotify.com/track/4MX4AmbGwHeHIIlX1ysJ6X) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Don Pixote](https://open.spotify.com/artist/4SihecP0Ar3ekh29FLZ4w1), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:27 | 2023-12-08 |  |
 | [Decolagem](https://open.spotify.com/track/1rEBQsE7emJv5MINSUFKMU) | [Dieguito Reis](https://open.spotify.com/artist/2wC2SRJcX3NRpD5MhqYHnX), [Lau e Eu](https://open.spotify.com/artist/2gh3qTCBKZ5LwVj5zQha9e), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Gui Almeida](https://open.spotify.com/artist/14E70kIDtg9NC9tchwjZGw) | [Verão na Cidade Sem Mar](https://open.spotify.com/album/3P9KkOD6yj389jGJe50mbj) | 3:41 | 2023-12-08 |  |

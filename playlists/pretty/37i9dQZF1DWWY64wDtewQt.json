@@ -1,13 +1,33 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11314896,
+  "num_followers": 11319102,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKr+eS3vNz0Stdz/LA+lpgn3k2/n",
+  "snapshot_id": "AAAAAGKDp1EGollehSwPrkLq6kzWa990",
   "tracks": [
+    {
+      "added_at": "2025-11-17 15:48:56",
+      "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
     {
       "added_at": "2025-05-30 16:13:27",
       "album": {
@@ -33,50 +53,6 @@
       "url": "https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A"
     },
     {
-      "added_at": "2025-11-17 15:48:56",
-      "album": {
-        "name": "NO BATID\u00c3O",
-        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
-      },
-      "artists": [
-        {
-          "name": "ZXKAI",
-          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
-        },
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 107933,
-      "name": "NO BATID\u00c3O - Slowed",
-      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
-    },
-    {
-      "added_at": "2026-01-07 15:55:13",
-      "album": {
-        "name": "Fendi 2",
-        "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
-      },
-      "artists": [
-        {
-          "name": "Rakhim",
-          "url": "https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0"
-        },
-        {
-          "name": "Khim",
-          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
-        },
-        {
-          "name": "ayv1o",
-          "url": "https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv"
-        }
-      ],
-      "duration_ms": 90526,
-      "name": "Fendi 2",
-      "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
-    },
-    {
       "added_at": "2025-08-29 15:35:59",
       "album": {
         "name": "NO ERA AMOR",
@@ -91,6 +67,22 @@
       "duration_ms": 93066,
       "name": "NO ERA AMOR - Slowed",
       "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
       "added_at": "2025-08-22 16:56:16",
@@ -179,6 +171,30 @@
       "duration_ms": 73480,
       "name": "MONTAGEM COMA",
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
+    },
+    {
+      "added_at": "2026-01-07 15:55:13",
+      "album": {
+        "name": "Fendi 2",
+        "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
+      },
+      "artists": [
+        {
+          "name": "Rakhim",
+          "url": "https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0"
+        },
+        {
+          "name": "Khim",
+          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
+        },
+        {
+          "name": "ayv1o",
+          "url": "https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv"
+        }
+      ],
+      "duration_ms": 90526,
+      "name": "Fendi 2",
+      "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
     },
     {
       "added_at": "2025-07-14 17:03:16",
@@ -285,22 +301,6 @@
       "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
-      "added_at": "2025-09-12 17:40:09",
-      "album": {
-        "name": "SEMPERO",
-        "url": "https://open.spotify.com/album/5zw0PxWKfHqKvnsVW3CvtF"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "SEMPERO - Slowed",
-      "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
-    },
-    {
       "added_at": "2025-07-25 18:46:04",
       "album": {
         "name": "FUNK SIGILO",
@@ -371,30 +371,6 @@
       "duration_ms": 109333,
       "name": "CANTO DE LUNA - SUPER SLOWED",
       "url": "https://open.spotify.com/track/0Bb3JNNt7wi7PnsAyOD7v6"
-    },
-    {
-      "added_at": "2025-02-28 15:27:21",
-      "album": {
-        "name": "Funk de Beleza",
-        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
-      },
-      "artists": [
-        {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        },
-        {
-          "name": "MC MAYAH",
-          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "Funk de Beleza - Slowed",
-      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
     },
     {
       "added_at": "2024-10-04 13:19:49",
@@ -477,6 +453,50 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
+      "added_at": "2025-02-28 15:27:21",
+      "album": {
+        "name": "Funk de Beleza",
+        "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
+      },
+      "artists": [
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "MC MAYAH",
+          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "Funk de Beleza - Slowed",
+      "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "REVENGE !",
+        "url": "https://open.spotify.com/album/1N1ScAffPK3WNEQrHPOzAf"
+      },
+      "artists": [
+        {
+          "name": "1HXSX",
+          "url": "https://open.spotify.com/artist/11pkkllIaYm8iO0W9cUTJY"
+        },
+        {
+          "name": "wnorg17",
+          "url": "https://open.spotify.com/artist/65cjg9X9Ie37SCH9Gz5ddq"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "REVENGE - Super Slowed",
+      "url": "https://open.spotify.com/track/3ZEUbnmVPwGRhLm28QzXkI"
+    },
+    {
       "added_at": "2025-09-26 14:24:18",
       "album": {
         "name": "envy",
@@ -491,42 +511,6 @@
       "duration_ms": 126401,
       "name": "envy - slowed",
       "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
-    },
-    {
-      "added_at": "2026-01-07 15:55:13",
-      "album": {
-        "name": "MONTAGEM BUDA",
-        "url": "https://open.spotify.com/album/5VmGJK8WmpR0R6Lnirtj4I"
-      },
-      "artists": [
-        {
-          "name": "DYGO",
-          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
-        }
-      ],
-      "duration_ms": 96545,
-      "name": "MONTAGEM BUDA - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/5Ls7xSu1mqG13LRrXBHD8q"
-    },
-    {
-      "added_at": "2025-09-26 14:24:18",
-      "album": {
-        "name": "DYSTOPIA",
-        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
-      },
-      "artists": [
-        {
-          "name": "DudePlaya",
-          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
-        },
-        {
-          "name": "N!GHTvisi\u00f8n",
-          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "DYSTOPIA - SLOWED",
-      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
     },
     {
       "added_at": "2024-03-29 15:57:27",
@@ -635,6 +619,42 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2026-01-07 15:55:13",
+      "album": {
+        "name": "MONTAGEM BUDA",
+        "url": "https://open.spotify.com/album/5VmGJK8WmpR0R6Lnirtj4I"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        }
+      ],
+      "duration_ms": 96545,
+      "name": "MONTAGEM BUDA - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5Ls7xSu1mqG13LRrXBHD8q"
+    },
+    {
+      "added_at": "2025-09-26 14:24:18",
+      "album": {
+        "name": "DYSTOPIA",
+        "url": "https://open.spotify.com/album/7q0apDCjqhsTvu0i3zbmhJ"
+      },
+      "artists": [
+        {
+          "name": "DudePlaya",
+          "url": "https://open.spotify.com/artist/0ypzv0AG6k3yZjNxdhpnJF"
+        },
+        {
+          "name": "N!GHTvisi\u00f8n",
+          "url": "https://open.spotify.com/artist/069iCiM0s1UEgnn7jJorJ4"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "DYSTOPIA - SLOWED",
+      "url": "https://open.spotify.com/track/5fqKGpnhBVKy2ymIkqS6k0"
     },
     {
       "added_at": "2025-03-21 14:02:34",
@@ -769,6 +789,26 @@
       "url": "https://open.spotify.com/track/4bRgPiewooIntAQfPx4sCG"
     },
     {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "ACIDO III",
+        "url": "https://open.spotify.com/album/5xKDwnwKEgP3tvBAjq581C"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        },
+        {
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "duration_ms": 93918,
+      "name": "ACIDO III - Slowed",
+      "url": "https://open.spotify.com/track/0GecnrwlbhYKU0occvdJPs"
+    },
+    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "MASHA ULTRAFUNK",
@@ -815,6 +855,22 @@
       "duration_ms": 128047,
       "name": "NO REPLY",
       "url": "https://open.spotify.com/track/7oVgRICO5xflAGdRc8UIp9"
+    },
+    {
+      "added_at": "2026-02-06 17:42:53",
+      "album": {
+        "name": "GOZALO",
+        "url": "https://open.spotify.com/album/2b5kmUGgnWXyh4Y0ohWW2b"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 120263,
+      "name": "GOZALO - Slowed",
+      "url": "https://open.spotify.com/track/35egmKvIZbJjbirRX7OFGe"
     },
     {
       "added_at": "2024-11-15 15:00:00",
@@ -1629,22 +1685,6 @@
       "url": "https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF"
     },
     {
-      "added_at": "2022-04-13 07:53:17",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "DNA",
@@ -1979,42 +2019,6 @@
       "duration_ms": 96254,
       "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
       "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
-    },
-    {
-      "added_at": "2024-05-17 14:03:55",
-      "album": {
-        "name": "DRESS!",
-        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "DRESS!",
-      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
-    },
-    {
-      "added_at": "2024-05-24 15:16:43",
-      "album": {
-        "name": "AUTOMOTIVO PA PA PAPAI",
-        "url": "https://open.spotify.com/album/6jQlknQwPszOU2pYBkNmO5"
-      },
-      "artists": [
-        {
-          "name": "DJ RIO",
-          "url": "https://open.spotify.com/artist/0ayuHZiwRQ5jXBaGGSEjBv"
-        },
-        {
-          "name": "0to8",
-          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
-        }
-      ],
-      "duration_ms": 70704,
-      "name": "AUTOMOTIVO PA PA PAPAI - Slowed",
-      "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
     },
     {
       "added_at": "2025-02-14 15:00:38",

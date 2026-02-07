@@ -16983,6 +16983,28 @@
     },
     {
       "album": {
+        "name": "DISASTERPIECE",
+        "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "\u5929\u8a85 & Mercy",
+      "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
+    },
+    {
+      "album": {
         "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
         "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
       },

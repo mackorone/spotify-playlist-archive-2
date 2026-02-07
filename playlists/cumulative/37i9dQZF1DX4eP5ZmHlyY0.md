@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: Stray Kids
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ATEEZ
 
-881 songs - 2 day 0 hr 14 min
+884 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [7](https://open.spotify.com/track/4mC89qjoyPrT39oRKNX9Lt) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [7](https://open.spotify.com/album/6kvndxfdqrM13ConnAR0ve) | 3:13 | 2024-10-16 | 2024-11-06 |
 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 | 2025-03-09 | 2025-06-13 |
 | [A CHA CHA CHA](https://open.spotify.com/track/4VfYNekUuUOTSWxzgcKe47) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [A CHA CHA CHA](https://open.spotify.com/album/1sF53NG5jvmshU1GgMEv28) | 3:10 | 2025-08-10 | 2025-09-03 |
+| [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 | 2026-02-06 |  |
 | [A2Z](https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [A2Z](https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN) | 2:39 | 2024-02-13 | 2024-04-17 |
 | [Ace In The Hole](https://open.spotify.com/track/4p6xTqUf2JWIfKYqsSArxi) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Ace In The Hole](https://open.spotify.com/album/05rxFaDkVxQgQpAQrhbKQg) | 3:30 | 2024-03-05 | 2024-03-13 |
 | [Add Love Song](https://open.spotify.com/track/3Zux43tmJ0IhNonmOGsxqO) | [CUBERS](https://open.spotify.com/artist/5b0vNm8SlsmAMchGD7akjQ) | [Add Love Song](https://open.spotify.com/album/02aaaAxq4hIMsoOJb2V4e2) | 5:27 | 2024-03-12 | 2024-04-10 |
+| [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 | 2026-02-06 |  |
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-03 | 2025-04-21 |
 | [aigre\-doux](https://open.spotify.com/track/7MQRzWGNbrsbbJxlxFJ6MR) | [長妻怜央 & 安井謙太郎 from 7ORDER](https://open.spotify.com/artist/24p9nQZKkZpT2kI4eRwmjN) | [aigre\-doux](https://open.spotify.com/album/1Wom06jbs8fva9g4mZfB6N) | 3:17 | 2024-02-06 | 2024-02-14 |
 | [Align](https://open.spotify.com/track/2c7kYyXCrgfeKK8dET009i) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [MAGenter](https://open.spotify.com/album/5hIqFmBFKmakk5UdnhgWJe) | 3:15 | 2025-12-15 |  |
@@ -141,7 +143,7 @@
 | [Changer \- feat\. PKCZ\(R\)](https://open.spotify.com/track/7muBQV3cIVoqcFscncy9JY) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Changer \[feat\. PKCZ\(R\)\]](https://open.spotify.com/album/3wQzZu4efdAd0fiWNZkgKE) | 3:03 | 2025-06-28 | 2025-07-08 |
 | [CHEAT](https://open.spotify.com/track/2Ih1mUbJmdMXf0lxMxZ2TO) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [MAGFACT](https://open.spotify.com/album/2V7gt6rsTNyQedRSK1HPk2) | 3:29 | 2025-06-13 | 2025-06-18 |
 | [Cheek to Cheek](https://open.spotify.com/track/1IAWO5M6TLqnWEIeNrL30F) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [Cheek to Cheek](https://open.spotify.com/album/4yqMcO0ifNRrGi7lBWn6a4) | 2:37 | 2025-04-07 | 2025-05-26 |
-| [Choose](https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Choose](https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec) | 3:06 | 2025-11-17 |  |
+| [Choose](https://open.spotify.com/track/1zweSaoWJ0N7wSwMIxFFQN) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Choose](https://open.spotify.com/album/66vRe3MmrT37PtgQP2sIec) | 3:06 | 2025-11-17 | 2026-02-07 |
 | [Cinderella](https://open.spotify.com/track/6JwtjfXL7HWpdTOZPdDrMW) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [PHENOMENON](https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB) | 3:30 | 2025-01-21 | 2025-03-07 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-11-23 | 2024-10-02 |
 | [Cloud\_Six](https://open.spotify.com/track/0DbDZcemoeTvVEOaQh6U75) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Cloud\_Six \(Essential\)](https://open.spotify.com/album/1HlQYDo4FI63sc6SCj0myu) | 2:57 | 2025-05-02 | 2025-05-05 |
@@ -293,6 +295,7 @@
 | [Grenade](https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [原](https://open.spotify.com/album/4qTTzaU30PLhLJmD6lLzFm) | 3:19 | 2026-01-30 |  |
 | [GRIT](https://open.spotify.com/track/11FABIv3ns0K7lHEPi62LU) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [GRIT](https://open.spotify.com/album/0caAMH2CVBEEN3X1up9bKh) | 2:39 | 2025-05-26 | 2025-06-29 |
 | [Grounds](https://open.spotify.com/track/5RhSILGZCxUuoy8MTSiRWO) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8), [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Grounds](https://open.spotify.com/album/6a2KAwCsBvtqe7iXzsl71P) | 3:16 | 2025-09-08 | 2025-11-25 |
+| [growing pains](https://open.spotify.com/track/6zl7XKVQYzfSbNEMSfPpi3) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [growing pains](https://open.spotify.com/album/6eH7d6D70X0IbAGHBFP9yj) | 3:06 | 2026-02-06 |  |
 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 | 2024-05-21 | 2024-11-08 |
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [Handle](https://open.spotify.com/track/3ywU2ND7YU0AZms6fqMNnJ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Level Up](https://open.spotify.com/album/6QrhDMZ1B8cmLFyMKaruYW) | 3:22 | 2024-12-03 | 2025-01-22 |
@@ -596,7 +599,7 @@
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
 | [SAVIOR](https://open.spotify.com/track/3GujwZryUismW6xKOn309M) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [SAVIOR](https://open.spotify.com/album/3iXdmJU9Ya628gLjlgoWZr) | 2:59 | 2025-01-14 | 2025-02-10 |
-| [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 | 2025-11-09 |  |
+| [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 | 2025-11-09 | 2026-02-07 |
 | [Say I do](https://open.spotify.com/track/5XKjC9HCdGdGyltKvsqNdb) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Say I do](https://open.spotify.com/album/31CPmLdGSzZ6MHRCIOVhsO) | 4:02 | 2025-03-06 | 2025-04-16 |
 | [Say Something](https://open.spotify.com/track/1lI76Tz7WvjaXdcINJP1Um) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [Let's Dance](https://open.spotify.com/album/0RjG9ZNP4eZ0h4uC9q2GtN) | 3:12 | 2025-11-18 | 2026-01-20 |
 | [SBY](https://open.spotify.com/track/2O9EGN7oPpO1culiuzwAev) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [THE BEST 2020 \- 2025](https://open.spotify.com/album/4aAwZdP0gcG0WXPoFH5Tpp) | 3:11 | 2025-04-07 | 2025-08-20 |

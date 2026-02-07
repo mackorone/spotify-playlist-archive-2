@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "New music from Dwson, Ella Mai, Royal MusiQ, Sasha Keable, and more.",
+  "description": "New music from Dwson, J. Cole, Ella Mai, Royal MusiQ and more.",
   "name": "New Music Friday South Africa",
   "tracks": [
     {
@@ -35165,6 +35165,24 @@
     },
     {
       "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/2oGGX3I53HIRIQ9gxKeLIS"
+      },
+      "artists": [
+        {
+          "name": "Josh Klynsmith",
+          "url": "https://open.spotify.com/artist/6PcQovCjGnPEKrAwcbUf0b"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/3hEyMBtAB8RQ3PKhKR0ECW"
+    },
+    {
+      "album": {
         "name": "Mix It Up, Vol. 3",
         "url": "https://open.spotify.com/album/2cE1RskVBcMiIhrsGQgV5P"
       },
@@ -38988,6 +39006,28 @@
       "duration_ms": 147230,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/5hG8jimxTIM6R7OLHPgLig"
+    },
+    {
+      "album": {
+        "name": "SSG'98",
+        "url": "https://open.spotify.com/album/2alAQlh3hMEIRtBSoP8GZT"
+      },
+      "artists": [
+        {
+          "name": "Herc Cut The Lights",
+          "url": "https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "DANCE4ME",
+      "url": "https://open.spotify.com/track/7dD1SoOq0dpFyxE6DwGU3K"
     },
     {
       "album": {
@@ -44701,6 +44741,28 @@
     },
     {
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -46068,6 +46130,10 @@
         {
           "name": "Loony Q",
           "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Tremic Dah Rockstar",
+          "url": "https://open.spotify.com/artist/4VtOECNs4Hcl3xzVST8Odx"
         }
       ],
       "date_added": "2026-02-05",
@@ -52644,6 +52710,24 @@
       "duration_ms": 202000,
       "name": "Facade",
       "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
+    },
+    {
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
     },
     {
       "album": {
@@ -68109,8 +68193,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
       "artists": [
         {
@@ -73487,6 +73571,24 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -74704,6 +74806,24 @@
       "duration_ms": 228066,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
+    },
+    {
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/0oYdOY7ZhmNDODu4WI7kLy"
+      },
+      "artists": [
+        {
+          "name": "Morgan Visser",
+          "url": "https://open.spotify.com/artist/3sV1zoBgtTfGN8Y3PaWAKt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6mtr3n3If2PI2ekWyyxjm8"
     },
     {
       "album": {
@@ -76652,6 +76772,24 @@
       "duration_ms": 177672,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2KBKgHyAZGEaz35kI8nF1J"
+    },
+    {
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "album": {
@@ -81132,6 +81270,24 @@
       "duration_ms": 142030,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/29QaOkFHNTo6ftbcEGGrwe"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/7rOTGnpCCwKzjiiTmCzdfz"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180822,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/004zKSPmuxH1XFk0yFcxAv"
     },
     {
       "album": {
@@ -112856,7 +113012,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 259000,
       "name": "masala tea (with Matt Ngesa)",
       "url": "https://open.spotify.com/track/2AOoQZUFENNf5c663stU20"
@@ -116101,8 +116257,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
       },
       "artists": [
         {
@@ -122658,6 +122814,28 @@
       "duration_ms": 154821,
       "name": "My Name Is Violence",
       "url": "https://open.spotify.com/track/5BlYPjgV5PBKg7tfwUpLSk"
+    },
+    {
+      "album": {
+        "name": "My Oh My (Wichi1080 Remix)",
+        "url": "https://open.spotify.com/album/2qWhVVa4j5yYSwoPNxLZWF"
+      },
+      "artists": [
+        {
+          "name": "Matt Gardiner",
+          "url": "https://open.spotify.com/artist/1LBEtmJ1MsBzkFl5kV9pR6"
+        },
+        {
+          "name": "Wichi 1080",
+          "url": "https://open.spotify.com/artist/3rn1wbokxElPOUi3UE4f97"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226926,
+      "name": "My Oh My - Wichi1080 Remix",
+      "url": "https://open.spotify.com/track/4PeLS4TqpPTvnq6hzlWu0p"
     },
     {
       "album": {
@@ -142633,6 +142811,36 @@
     },
     {
       "album": {
+        "name": "Backroom Music",
+        "url": "https://open.spotify.com/album/68WrhRQZbiXnyEJW6zD9mi"
+      },
+      "artists": [
+        {
+          "name": "TribeSoul",
+          "url": "https://open.spotify.com/artist/3ZttTHziIfgNs3LUsFuPXA"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/2IijrkLRKW1STSjy1lWsfu"
+        },
+        {
+          "name": "Toby Franco",
+          "url": "https://open.spotify.com/artist/4TIry72leguyMNcNYc6bqR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382118,
+      "name": "Phathaphatha (feat. Divine & Toby Franco)",
+      "url": "https://open.spotify.com/track/3XA8IAe4X3yNHY6nijp8sp"
+    },
+    {
+      "album": {
         "name": "Phela Ingasuka",
         "url": "https://open.spotify.com/album/2ZB4pgEJPiOr2hBKl1M3J7"
       },
@@ -153849,6 +154057,24 @@
     },
     {
       "album": {
+        "name": "Savage Love",
+        "url": "https://open.spotify.com/album/6eZRE2YJAr0YiigCfIcpam"
+      },
+      "artists": [
+        {
+          "name": "RAYNE",
+          "url": "https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Savage Love",
+      "url": "https://open.spotify.com/track/7lA8eruobxFJXfOUY0xGmM"
+    },
+    {
+      "album": {
         "name": "Save 'Em",
         "url": "https://open.spotify.com/album/5KQ9GR72k3dFz1FdKzgFlP"
       },
@@ -156060,6 +156286,28 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/0X4VSasL7jR0Pr3qnVdhvM"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339320,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD"
     },
     {
       "album": {
@@ -171123,8 +171371,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
       },
       "artists": [
         {
@@ -182575,42 +182823,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Herc Cut The Lights",
-          "url": "https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7dD1SoOq0dpFyxE6DwGU3K"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        }
-      ],
-      "date_added": "2026-02-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/37JqKJnCVvvYugc8CoSgmD"
-    },
-    {
-      "album": {
         "name": "train/of_thought",
         "url": "https://open.spotify.com/album/0KL8llJgdU16AT0rOFehrZ"
       },
@@ -184920,6 +185132,24 @@
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/57ENogEkvFsU7Wmt3lvQMG"
     },
     {
       "album": {
@@ -204941,6 +205171,28 @@
     },
     {
       "album": {
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+    },
+    {
+      "album": {
         "name": "Y.O.U.",
         "url": "https://open.spotify.com/album/2CZiEK2WAD9LNJKB64zLN5"
       },
@@ -205243,8 +205495,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/1PzziqEROOLUuoJ361H4mv"
       },
       "artists": [
         {

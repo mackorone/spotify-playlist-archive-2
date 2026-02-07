@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A Character's Point of Hell",
+        "url": "https://open.spotify.com/album/7gUMQ6IfWKjaBE0Xbgs7Gd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Koh",
+          "url": "https://open.spotify.com/artist/378As4gO3FUB4jrN3mpGjq"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286264,
+      "name": "A Character's Point of Hell",
+      "url": "https://open.spotify.com/track/2CrlsSg6Uk5CGtsMlJ4sW8"
+    },
+    {
+      "album": {
         "name": "A Little More Time",
         "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
       },

@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Any Young Mechanic on the cover.
 
-74 songs - 5 hr 29 min
+79 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,12 +19,14 @@
 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 | 2025-07-10 |  |
 | [Beth's Farm](https://open.spotify.com/track/2kGjHqfS3WwxLGdK7iyDcE) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Beth's Farm](https://open.spotify.com/album/10QYpDV0UVg4afKssMF4DY) | 5:33 | 2025-07-10 |  |
 | [Bleary Eyes](https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bleary Eyes](https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD) | 4:53 | 2025-09-26 |  |
+| [Candy Flip](https://open.spotify.com/track/7FSWfaH7VYM96fQWovWmtn) | [kisses](https://open.spotify.com/artist/7MbkSrmyackm8thDTLCqFR) | [You Are in My Dreams](https://open.spotify.com/album/4F1eCGZrxqFTLXtLuiU0R9) | 3:48 | 2026-02-06 |  |
 | [Cloudy](https://open.spotify.com/track/3McNxe4ofvYZ9uR84Cph58) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Cloudy](https://open.spotify.com/album/1cmYpshLS9j5ctqvq2z5HE) | 6:20 | 2025-07-10 |  |
 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 | 2025-07-10 |  |
 | [Come to Me](https://open.spotify.com/track/4APuJt1RXdAZ80VGX11VX3) | [Ideal Living](https://open.spotify.com/artist/0O2bPynYyvkMlm2Qqmupt8) | [Come to Me](https://open.spotify.com/album/2gOqJStFBqoULg6MIpmsMQ) | 4:01 | 2025-07-10 |  |
 | [Cow Song](https://open.spotify.com/track/2MdQxjWvScaM3NXNXQRXNK) | [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [Cow Song](https://open.spotify.com/album/42CkWCbOfwaVsTk5TrWsTv) | 6:21 | 2025-07-10 |  |
 | [cranes](https://open.spotify.com/track/5lB4myWC3zyPO4AjDCINfk) | [casual smart](https://open.spotify.com/artist/6hQ9aQfQsvuN6Y7NK1J7ou) | [cranes](https://open.spotify.com/album/4yhPJHgCUPnXWi0d0SbsAx) | 4:16 | 2025-07-10 |  |
 | [Crawl Ball](https://open.spotify.com/track/7lBbcQXJ83SJzpaORoYkY4) | [foot foot](https://open.spotify.com/artist/2p5r5XfjZiMvulO5tvIMw3) | [still waters, empty house](https://open.spotify.com/album/7frVxZoUWY2IajDOpCexo4) | 3:49 | 2025-07-10 |  |
+| [Dashboard Mary](https://open.spotify.com/track/2HzzUsnvXCwuPoA9KcR4nm) | [Modern Woman](https://open.spotify.com/artist/4OW8KZOncmml2hRSXdhfO9) | [Dashboard Mary](https://open.spotify.com/album/1PeEa3YrC7aD17XAASuBZz) | 4:53 | 2026-02-06 |  |
 | [Daylight Song](https://open.spotify.com/track/45DLA7sPqqGHG9NN3UPbRI) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Daylight Song](https://open.spotify.com/album/4gG8abNIluKFuWdWSKhSZb) | 3:07 | 2025-07-10 |  |
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-07 |  |
 | [Do You Think I'm Pretty](https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Grip Your Fist, I'm Heaven Bound](https://open.spotify.com/album/6kb777ggEqdZEN2J80USnD) | 5:42 | 2025-07-10 |  |
@@ -66,6 +68,7 @@
 | [Sleeping Dogs](https://open.spotify.com/track/048fPBqD9hIpKI3mCxGK65) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [New Old Horse](https://open.spotify.com/album/35Yzjj53JrZsobBouZGpxj) | 4:47 | 2025-07-10 |  |
 | [Snug Barber](https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [Snug Barber](https://open.spotify.com/album/1yBqLhjTJF67wXAmfuGzCw) | 1:58 | 2026-01-15 |  |
 | [Soft As The Day](https://open.spotify.com/track/6jiMKyoLf0pScyot4BLAeb) | [Invariance](https://open.spotify.com/artist/2HHUVNqkALtPVBvy2mvtkv), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Daniel Rogerson](https://open.spotify.com/artist/489g9cJ7QzvW5OKQLB0Pu3), [Lorenz Okello](https://open.spotify.com/artist/4ATBLFOPaWNkz3ZUU4hlgl), [John Jones](https://open.spotify.com/artist/0l4vvWqPlPrfSHE8dJ6AV5), [Morgan Simpson](https://open.spotify.com/artist/5ZLVgeZ9imtZfNwHCZDqHS) | [Wish You Well / Album](https://open.spotify.com/album/6VOPycS7XmfgA0y43Xd8dq) | 6:15 | 2025-07-10 |  |
+| [Spells](https://open.spotify.com/track/3FDzQQbIDNP9QSgXLpfcgI) | [Spanish Horses](https://open.spotify.com/artist/3YrLAGmnU9JltcICs5wBy1) | [Spells](https://open.spotify.com/album/5EEHJGJ8ESrMmBvE90DbJO) | 2:55 | 2026-02-06 |  |
 | [Stardoll](https://open.spotify.com/track/690xzecwSrfqj50GwMKwSQ) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [Stardoll](https://open.spotify.com/album/7eA3G6rOB8cAaJL4v9M5kp) | 3:12 | 2025-07-10 |  |
 | [Still](https://open.spotify.com/track/1WTYHbDGKGNE7ujGhXj5sD) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Hellfire](https://open.spotify.com/album/68z6MWYYNmvTcru1QMcYId) | 5:46 | 2025-07-10 |  |
 | [Taflu Dŵr](https://open.spotify.com/track/4OgRIII5BvnFvS4HzLmi4S) | [Peiriant](https://open.spotify.com/artist/2PMWedg2LEETdzWHOB60KI) | [Dychwelyd](https://open.spotify.com/album/1andxDOpfZj8Jzk1uXLosq) | 4:39 | 2025-07-10 |  |
@@ -75,9 +78,11 @@
 | [The New Sound](https://open.spotify.com/track/2gGHan1D8nlvv27lQU2GjL) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [The New Sound](https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5) | 4:47 | 2025-07-10 |  |
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2025-07-10 |  |
 | [The Rain](https://open.spotify.com/track/799t9KYKhwmUAhJwQdsCYC) | [SUEP](https://open.spotify.com/artist/3LzcSs2NRqSLncY5QHnKMY) | [The Rain](https://open.spotify.com/album/2G8zUO3024L3bHV9HsGmZh) | 2:14 | 2025-10-17 |  |
+| [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [So Much Country ‘Till We Get There](https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo) | 2:24 | 2026-02-06 |  |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2025-07-10 |  |
 | [Tiles & Moss](https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Tiles & Moss](https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx) | 4:03 | 2025-11-07 |  |
 | [To The Sandals](https://open.spotify.com/track/4V3gfiq0jrRwdvAR7zfcbq) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 4:08 | 2025-11-07 |  |
+| [Tormentor](https://open.spotify.com/track/61K6XZE3e4Myl89Xgd57YS) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [The Flowers I See You In](https://open.spotify.com/album/0Xe00l36xtM6l0gRUcGuXu) | 2:40 | 2026-02-06 |  |
 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-10-08 |  |
 | [twothousandandtwo](https://open.spotify.com/track/7BLNcnh1NwIct2oIQuYwV2) | [War Room](https://open.spotify.com/artist/07capJSDwiqRZPkID32RpX) | [Please Don't Fight In Here](https://open.spotify.com/album/1Hd4A3gIU5ZiNnuQ3w3k8N) | 6:00 | 2025-07-10 |  |
 | [We're Home Now](https://open.spotify.com/track/0wuOtAHsrFs7SW0PnS6Ikx) | [Cagefly](https://open.spotify.com/artist/0fIkgtLZMpqeF1OhjIQp0q) | [Cagefly](https://open.spotify.com/album/2dxfj5YVAPAVhbfkoMUprk) | 7:27 | 2025-07-10 |  |

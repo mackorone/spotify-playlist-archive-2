@@ -904,7 +904,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 142800,
       "name": "Faz Valer",
       "url": "https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL"
@@ -2164,6 +2164,28 @@
       "duration_ms": 295555,
       "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
       "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Vai Cantar",
+        "url": "https://open.spotify.com/album/6rBf8djwCqkcJsHC5iQoua"
+      },
+      "artists": [
+        {
+          "name": "Samuel Vieira",
+          "url": "https://open.spotify.com/artist/2DIcmBR96QHvBlN7eaE1Tu"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310143,
+      "name": "Voc\u00ea Vai Cantar",
+      "url": "https://open.spotify.com/track/78QsKr83Ad4vEF8SCa9bSo"
     },
     {
       "album": {

@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -3890,6 +3890,24 @@
       "duration_ms": 221746,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
+    },
+    {
+      "album": {
+        "name": "Alta y serena",
+        "url": "https://open.spotify.com/album/3rvf5QWbk7sVYj0hgJJf3W"
+      },
+      "artists": [
+        {
+          "name": "OneTapes1950s",
+          "url": "https://open.spotify.com/artist/0FTPrYYQzYcNlx9GnKvFqB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Alta y serena",
+      "url": "https://open.spotify.com/track/0KZwSfQBCb4NonnJtJy1Zg"
     },
     {
       "album": {
@@ -8190,7 +8208,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 277424,
       "name": "Batalla Espiritual",
       "url": "https://open.spotify.com/track/7IkxmYR7rmoyjkVo7qr4D5"
@@ -10314,7 +10332,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 274841,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5QNHKiu5EtYcAcZEX0ImXt"
@@ -10336,6 +10354,24 @@
       "duration_ms": 274877,
       "name": "BONITA BONITA",
       "url": "https://open.spotify.com/track/4EMJl0imBLiNOQ21WdE7ZH"
+    },
+    {
+      "album": {
+        "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/6DnijYTJLedFzZ1VJ5ZA6O"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/2d6UcgkEmxi6QKUjJEpint"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275293,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
     },
     {
       "album": {
@@ -34051,6 +34087,24 @@
     },
     {
       "album": {
+        "name": "H\u00e1blame de Ti",
+        "url": "https://open.spotify.com/album/1eDBHuAHmy9q9PEwi3F7ky"
+      },
+      "artists": [
+        {
+          "name": "Layah Noir",
+          "url": "https://open.spotify.com/artist/3yzuknArjsfQbAXKYJ3cEE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282921,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/3I5ayoHOzBLNvFf3m13VHA"
+    },
+    {
+      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -43890,7 +43944,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 175631,
       "name": "Magia",
       "url": "https://open.spotify.com/track/03HmTwrG2zX0EAXMnMKaPB"
@@ -59610,7 +59664,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 151146,
       "name": "Por un Pendejo no se llora - Salud mi Reina",
       "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
@@ -61872,7 +61926,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Qu\u00e9 Rico PR!",
       "url": "https://open.spotify.com/track/08C6m4alGcRaXEbm6IMsNs"
@@ -62068,7 +62122,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -77584,7 +77638,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194211,
       "name": "T\u00da",
       "url": "https://open.spotify.com/track/4MS0V8BFaMCOnGBGe1w4B2"
@@ -83136,7 +83190,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 137195,
       "name": "WYFL",
       "url": "https://open.spotify.com/track/3euDkolyqirQM6DK9HBO8C"

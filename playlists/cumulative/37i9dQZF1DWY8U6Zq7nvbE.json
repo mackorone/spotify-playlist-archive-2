@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207824,
       "name": "How to save a life - Acoustic version",
       "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 189732,
       "name": "Issues - Acoustic Version",
       "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
@@ -5688,6 +5688,24 @@
       "duration_ms": 194245,
       "name": "Nervous - Piano Version",
       "url": "https://open.spotify.com/track/1tkqPebWBh7xUbZmnI3W1e"
+    },
+    {
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
     },
     {
       "album": {
@@ -8826,6 +8844,24 @@
       "duration_ms": 161402,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/2eivkicsT39M1pz0A4mfSD"
+    },
+    {
+      "album": {
+        "name": "Young Folks",
+        "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214477,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS"
     },
     {
       "album": {

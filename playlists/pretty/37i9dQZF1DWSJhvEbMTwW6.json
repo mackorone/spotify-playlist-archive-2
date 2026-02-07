@@ -1,6 +1,6 @@
 {
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "num_followers": 548961,
+  "num_followers": 549090,
   "original_name": "Cumbia de Microb\u00fas",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
-      },
-      "artists": [
-        {
-          "name": "Junior Klan",
-          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Como Agua en las Manos",
-      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "Toquin en Am\u00e9rica",
         "url": "https://open.spotify.com/album/6sZgQ0ACy8yOIDpAmxz8Nj"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 207728,
       "name": "Caricias - Acar\u00edciame",
       "url": "https://open.spotify.com/track/0bxMHP8ltPjqDe6JCkEd9p"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
+        "name": "Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
+      },
+      "artists": [
+        {
+          "name": "Junior Klan",
+          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Como Agua en las Manos",
+      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -847,18 +847,22 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
+        "name": "Coraz\u00f3n Enamorado",
+        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        },
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 290089,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
+      "duration_ms": 300840,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -895,22 +899,18 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Coraz\u00f3n Enamorado",
-        "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+      "duration_ms": 290089,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "La Vampiresa",
         "url": "https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 314398,
       "name": "La Vampiresa",
       "url": "https://open.spotify.com/track/06uyFPb72xxh5takZ206Of"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "Tus Jefes No Me Quieren",
         "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
       },
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC"
       },
@@ -1839,6 +1839,22 @@
       "duration_ms": 213744,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
+        "name": "No Te Voy A Perdonar, Volumen 4",
+        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232756,
+      "name": "No Te Voy A Perdonar",
+      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -1907,22 +1923,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "30 Exitos de Oro 30, Vol. 1",
         "url": "https://open.spotify.com/album/5aBKyVNMaVkWSwWtDGeByf"
       },
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
         "name": "Conga Y Timbal",
         "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 271786,
       "name": "Abandonado",
       "url": "https://open.spotify.com/track/7beUIItCNM3LL6OmQJAgxh"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 326640,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2025-10-17 06:00:20",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2025-10-17 06:00:20",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
-    },
-    {
-      "added_at": "2025-10-17 06:00:20",
-      "album": {
         "name": "Desafiando Estilos",
         "url": "https://open.spotify.com/album/2REmS5o5mh0QWNuZa6WGhs"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 349466,
       "name": "El Reo Ausente",
       "url": "https://open.spotify.com/track/6feUE7Z9pGHfCHbh6EOA0j"
+    },
+    {
+      "added_at": "2025-10-17 06:00:20",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
     }
   ],
   "unique_name": "Cumbia de Microb\u00fas",

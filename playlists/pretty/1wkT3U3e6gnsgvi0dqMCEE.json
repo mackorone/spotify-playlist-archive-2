@@ -6,8 +6,44 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADTu4TI329n56sOgwd3HmrLDXoGOj5",
+  "snapshot_id": "AAADU+a3X9nCp2OgyZ3kIjAz6dkJ+1RU",
   "tracks": [
+    {
+      "added_at": "2026-02-06 15:47:13",
+      "album": {
+        "name": "Put the Bucket Down (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/73pTDzPdfoStoUAATSYMZB"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 407396,
+      "name": "Put the Bucket Down - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/47XBPbDssZEbThD2ZeGmkk"
+    },
+    {
+      "added_at": "2026-02-06 15:47:43",
+      "album": {
+        "name": "I\u2019m Black And I\u2019m Proud - Say It Loud",
+        "url": "https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "duration_ms": 260206,
+      "name": "I'm Black And I'm Proud - Say It Loud",
+      "url": "https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2"
+    },
     {
       "added_at": "2026-01-30 16:57:06",
       "album": {
@@ -23,30 +59,6 @@
       "duration_ms": 275435,
       "name": "Mama Kin - 2024 Mix",
       "url": "https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh"
-    },
-    {
-      "added_at": "2026-01-30 17:01:20",
-      "album": {
-        "name": "Debra Kadabra",
-        "url": "https://open.spotify.com/album/7abqyyK2520wquLRbe4rCW"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        },
-        {
-          "name": "Captain Beefheart",
-          "url": "https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS"
-        },
-        {
-          "name": "The Mothers",
-          "url": "https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K"
-        }
-      ],
-      "duration_ms": 238952,
-      "name": "Debra Kadabra - Live In Austin, TX - May 21, 1975",
-      "url": "https://open.spotify.com/track/1dNTt9gD88G8tM4nSLcPO8"
     },
     {
       "added_at": "2026-01-30 17:01:38",
@@ -79,6 +91,30 @@
       "duration_ms": 262973,
       "name": "Kid Gloves - Live At Maple Leaf Gardens, Toronto, Canada - September 21, 1984",
       "url": "https://open.spotify.com/track/1xkNxo4s9MoSrXiXbUwxOs"
+    },
+    {
+      "added_at": "2026-01-30 17:01:20",
+      "album": {
+        "name": "Debra Kadabra",
+        "url": "https://open.spotify.com/album/7abqyyK2520wquLRbe4rCW"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        },
+        {
+          "name": "Captain Beefheart",
+          "url": "https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS"
+        },
+        {
+          "name": "The Mothers",
+          "url": "https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K"
+        }
+      ],
+      "duration_ms": 238952,
+      "name": "Debra Kadabra - Live In Austin, TX - May 21, 1975",
+      "url": "https://open.spotify.com/track/1dNTt9gD88G8tM4nSLcPO8"
     },
     {
       "added_at": "2026-01-23 16:02:27",

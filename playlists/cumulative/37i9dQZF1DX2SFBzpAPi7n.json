@@ -4449,6 +4449,24 @@
     },
     {
       "album": {
+        "name": "dust",
+        "url": "https://open.spotify.com/album/3DCKxiaNTnsy2HLiTwgehB"
+      },
+      "artists": [
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194833,
+      "name": "dust",
+      "url": "https://open.spotify.com/track/7lZe7HIcIWwYNThkh9ywaG"
+    },
+    {
+      "album": {
         "name": "Echo! (talk to me baby)",
         "url": "https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha"
       },
@@ -6270,6 +6288,24 @@
       "duration_ms": 160001,
       "name": "Good Bones",
       "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+    },
+    {
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/7DPMkyoQ7fk3wf5JruGHoW"
+      },
+      "artists": [
+        {
+          "name": "THE SSYNDROME",
+          "url": "https://open.spotify.com/artist/5an4wQx5rnfeMsGY4nfjZw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/4V38s6GgpCkwXx8vZm4sxw"
     },
     {
       "album": {
@@ -8678,7 +8714,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184000,
       "name": "It Was Love",
       "url": "https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD"
@@ -18770,7 +18806,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 180000,
       "name": "We\u2032re Never Going Back",
       "url": "https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3"

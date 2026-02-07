@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117249,
+  "num_followers": 117261,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAD9H0vvHhAzKDrNS1rfgLTF",
+  "snapshot_id": "aYPdgAAAAABMUPMto+ND3Ae1al+zeGRM",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alumno Y Maestro",
         "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Da Igual",
-        "url": "https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 134307,
-      "name": "Te Da Igual",
-      "url": "https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gustoso Y Contento (En Vivo)",
         "url": "https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 153640,
       "name": "Gustoso Y Contento (En Vivo)",
       "url": "https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Da Igual",
+        "url": "https://open.spotify.com/album/7vGoivzTraBMRLUGDeqEVm"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 134307,
+      "name": "Te Da Igual",
+      "url": "https://open.spotify.com/track/1XnP7dgmDdTDo8MYCR6ZjQ"
     },
     {
       "added_at": null,

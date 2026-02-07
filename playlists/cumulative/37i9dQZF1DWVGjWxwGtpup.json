@@ -317,6 +317,32 @@
     },
     {
       "album": {
+        "name": "Amanece (DJ Katch Remix)",
+        "url": "https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx"
+      },
+      "artists": [
+        {
+          "name": "DJ Katch",
+          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222203,
+      "name": "Amanece (DJ Katch Remix)",
+      "url": "https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },

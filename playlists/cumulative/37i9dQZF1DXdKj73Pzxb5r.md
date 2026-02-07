@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Elephant Kind
 
-480 songs - 1 day 6 hr 39 min
+481 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Forkman In The Soup World](https://open.spotify.com/track/5tIEw3b8Ht8saJ4wz3Ya5d) | [Beranda Rumah](https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf), [Mr\. & Mrs\. Muffins](https://open.spotify.com/artist/4HPHtlE9XsmCcQNSkuqShU) | [Forkman In The Soup World](https://open.spotify.com/album/1vwXmFFUwB8IbrsVuOBOz9) | 3:50 | 2024-07-19 | 2024-09-06 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 | 2025-01-24 |
 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/5W6EChWlHS4FmtDZ6hTdEp) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 | 2025-11-28 |  |
+| [From The Children’s Eye](https://open.spotify.com/track/067o37QQDovPO0i9K50b5o) | [Diniyah](https://open.spotify.com/artist/3UEhZdHshd4Nq9ZHn00sVN) | [The Soil/The Soul](https://open.spotify.com/album/2OJJHAySUwZHGBGkcPD3le) | 3:31 | 2026-02-06 |  |
 | [Galau is so 2002 \- Love as Punishment Version](https://open.spotify.com/track/4nrxQle0ia64LHS9Rw9kqJ) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU), [Love as Punishment](https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In) | [Celebrate Salacca Zalacca](https://open.spotify.com/album/1SM1oOn6nfJVdLYtpkxrxp) | 3:50 | 2025-12-11 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 | 2024-11-29 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 | 2025-05-17 |

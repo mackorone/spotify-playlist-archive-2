@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-286 songs - 14 hr 51 min
+287 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Ah, But Is It Love?](https://open.spotify.com/track/3TkWXUYypEvDLc1d9q0uFr) | [Karen Lynn Gorney](https://open.spotify.com/artist/2bDhh9tS9JjGOUVZYjRkho) | [Hot Moonlight!](https://open.spotify.com/album/1ZLQuU85AeAFOsiFaj2ERv) | 3:18 | 2025-06-27 |  |
 | [All the Elks and Masons](https://open.spotify.com/track/4tE4IU3mjgUx0EIV4kxSuk) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII), [Jessica Stone](https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA), [Life Begins At 8:40 Ensemble](https://open.spotify.com/artist/572zWa1Ubku0cS0mWaFWNx) | [Life Begins at 8:40](https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo) | 3:02 | 2024-07-24 |  |
 | [Any Moment Now](https://open.spotify.com/track/2UzbkZBVvQCjwPZTwKoPde) | [Deanna Durbin](https://open.spotify.com/artist/3DgG8fJMf9FZlbRXIwfu2a) | [The Golden Voice Of Denna Durbin](https://open.spotify.com/album/3zIcrbNSY6ovfsun3oddFb) | 3:09 | 2024-07-24 |  |
-| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2024-07-24 |  |
+| [April In Paris](https://open.spotify.com/track/5WKpVLOkxbyj4fQk3P6BkF) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/1q9Yh4EDALgMa8VYsI7bn5) | 3:05 | 2026-02-06 |  |
+| [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2024-07-24 | 2026-02-07 |
 | [Aprile a Paris](https://open.spotify.com/track/6O51AsHiwhCtlDICQmgJtg) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q), [Piero Umiliani Orchestra](https://open.spotify.com/artist/2DLRB2aWi2k6WXZT3ZemFY) | [Parole e Musica \(Remastered\)](https://open.spotify.com/album/1ffmxhGfRhJCqJct1EHFzd) | 0:38 | 2025-05-31 |  |
 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 | 2024-07-24 | 2025-06-28 |
 | [BG Bigelow Inc](https://open.spotify.com/track/37E1kD4lEzT18bAGEPKWMM) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 2:54 | 2025-06-27 |  |

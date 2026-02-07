@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 470 songs - 22 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 470 songs - 22 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 273 | [Não Te Perdoo \- Ao Vivo](https://open.spotify.com/track/7DZXdIdgRoxXl88cCLfqfQ) | [Felipe e Falcão](https://open.spotify.com/artist/1Jln3OBAJtmL9kmyGvSZJJ) | [30 Anos de História \(Ao Vivo\)](https://open.spotify.com/album/6xvlunzDjpb1MS7CsX25sU) | 5:31 |
 | 274 | [Me Faz Esquecer Dela](https://open.spotify.com/track/6ZXGXFbwZ97fWvXZbj5gWC) | [Guilherme Torres](https://open.spotify.com/artist/4D53Ic5ZfpC74aFGK62SHy) | [Me Faz Esquecer Dela](https://open.spotify.com/album/3QkYjI7ACQAYUrTmzRAOd2) | 2:48 |
 | 275 | [Nem Me Visto e Vou \- Ao Vivo](https://open.spotify.com/track/5sNjrxg4eLrSu9xfXsyNmt) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Vinni e Rafa](https://open.spotify.com/artist/1Gqqv16eKzd7PHQoPeKT0U) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:49 |
-| 276 | [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq) | 2:46 |
+| 276 | [Vou Rezar pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/5wWViE8aig0WIegS4blDiv) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/31rFe2XIZTQhjDfNwTMJXR) | 2:48 |
 | 277 | [Cargo de Amante](https://open.spotify.com/track/1h55CTPzCLTcGBkVUROXa9) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 2:37 |
 | 278 | [Top 1 \- Ao Vivo](https://open.spotify.com/track/0KsJyl31yKd7mHc0olT2YZ) | [Pedro Paulo e Matheus](https://open.spotify.com/artist/7rbuF7c1Jti9JcSJEtoXv0) | [Top 1 \(Ao Vivo\)](https://open.spotify.com/album/4XZgIdZeXjxJKvKALo7Hnw) | 2:37 |
 | 279 | [Eu Queria Ser Ele](https://open.spotify.com/track/4i71ERHX6x3bVvsyX2yY2Q) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Mais pro Bar do Que pra Casa](https://open.spotify.com/album/3R03W6QTwqqhR8pty5tYFl) | 3:01 |
@@ -320,8 +320,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 310 | [Só por Desaforo \- Ao Vivo](https://open.spotify.com/track/6aiZvjBVZRedAj9Nc4paUJ) | [Rob Nunes](https://open.spotify.com/artist/3WhKStgXqBomTpLZr6Q07a) | [Rob Nunes Ao Vivo em Goiânia](https://open.spotify.com/album/1xCVGPEow1bOVKADYkN7D2) | 2:59 |
 | 311 | [Bebaço](https://open.spotify.com/track/1VjmBtjCupo1OEjDVRF4L0) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Eu Tô a Fim de Alguém](https://open.spotify.com/album/26Gp00VBhLtY7VVJEp1q27) | 3:18 |
 | 312 | [Perdido e Apaixonado](https://open.spotify.com/track/0yuP8QS7J8gpjNXEUsZAAf) | [Léo Magalhães](https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz) | [Eu Tô a Fim de Alguém](https://open.spotify.com/album/26Gp00VBhLtY7VVJEp1q27) | 2:55 |
-| 313 | [Depois Da Sua Cama](https://open.spotify.com/track/49mZTOxSbyZOjNoxQmpHBk) | [Carol Villa](https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO) | [Depois Da Sua Cama](https://open.spotify.com/album/1U3kr6pxUwMw0LJgpsCQ1Y) | 3:05 |
-| 314 | [Eu Amo Esse Traste \- Ao Vivo](https://open.spotify.com/track/7LJSUnD2o6XT1zd2H5hSzW) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:51 |
+| 313 | [Eu Amo Esse Traste \- Ao Vivo](https://open.spotify.com/track/7LJSUnD2o6XT1zd2H5hSzW) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv) | [Emendando Cachaça, Vol.01 \(Ao Vivo\)](https://open.spotify.com/album/0fZEVLX3kqf2fQKz5vO0I5) | 2:51 |
+| 314 | [Depois Da Sua Cama](https://open.spotify.com/track/49mZTOxSbyZOjNoxQmpHBk) | [Carol Villa](https://open.spotify.com/artist/1nr8Q8WNEAb3znVkAlZGOO) | [Depois Da Sua Cama](https://open.spotify.com/album/1U3kr6pxUwMw0LJgpsCQ1Y) | 3:05 |
 | 315 | [Rei dos Poeirões](https://open.spotify.com/track/30uwDJwbBtMYhWXdvdS2N2) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW) | [Rei dos Poeirões](https://open.spotify.com/album/5Cb6TPwJ4LBg4qxnLhopvd) | 3:17 |
 | 316 | [Onde Está](https://open.spotify.com/track/04Qo4wZtjvx1AOYSA6sq7S) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC) | [Filmes e Histórias, Vol\. 28](https://open.spotify.com/album/6fhNs80ovNuhyebRNTfj3W) | 2:49 |
 | 317 | [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 |
@@ -479,4 +479,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 469 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 470 | [Te Troquei pelos Bares \- Ao Vivo](https://open.spotify.com/track/11Iy6KxbkrapoeqUfqVG30) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Foi Deus, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5TCltpfbZMF8xvV5K940IB) | 4:28 |
 
-Snapshot ID: `AcI4/gAAAAAy+9z5afKce0sAMfSDY44k`
+Snapshot ID: `AcI+lAAAAABvkhMl0WxHFwXkEoZ0CG8b`

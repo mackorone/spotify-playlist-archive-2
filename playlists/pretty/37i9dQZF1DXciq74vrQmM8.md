@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ecca vandal
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,854 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,849 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 17 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
 | 18 | [Okay \(Cyber Racing\)](https://open.spotify.com/track/7f0L8fI9IcNexCngLspWi5) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Okay \(Cyber Racing\)](https://open.spotify.com/album/3AIH3PPVn6o54Abvo60j5a) | 2:54 |
 | 19 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
-| 20 | [Slave to the Rithm](https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [](https://open.spotify.com/album/null) | 4:29 |
+| 20 | [Slave to the Rithm](https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [ODYSSEY](https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t) | 4:29 |
 | 21 | [Above the Neck](https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Above the Neck](https://open.spotify.com/album/6BWdPb06mk9wATgUUaUDrf) | 3:45 |
 | 22 | [who knew \(with Lil Yachty\)](https://open.spotify.com/track/120n8QfKSrdKlm35mNdqY5) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [who knew \(with Lil Yachty\)](https://open.spotify.com/album/6z0g4QJdR51U2LvR2tgxF4) | 4:15 |
 | 23 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |

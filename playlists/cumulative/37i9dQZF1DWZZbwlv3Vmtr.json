@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Bus Ride",
+        "url": "https://open.spotify.com/album/7DNhVHrDQmtijvxoKZPxjq"
+      },
+      "artists": [
+        {
+          "name": "GlobulDub",
+          "url": "https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Bus Ride",
+      "url": "https://open.spotify.com/track/3wMcVajjKPSjM5aTALVPWZ"
+    },
+    {
+      "album": {
         "name": "Busy Branches",
         "url": "https://open.spotify.com/album/5hSpAo6OG8Z4GmkPwX1fw3"
       },
@@ -3611,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "corner store",
+        "url": "https://open.spotify.com/album/3chD11hkS4sBPa1nqotho2"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124124,
+      "name": "corner store",
+      "url": "https://open.spotify.com/track/3JGlAsye35AY4vNIGc3CAC"
+    },
+    {
+      "album": {
         "name": "Cozy Cafe Chronicles",
         "url": "https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW"
       },
@@ -4928,6 +4964,24 @@
       "duration_ms": 150000,
       "name": "Elysian Fields",
       "url": "https://open.spotify.com/track/7MtTVOpbquSu8SCiNQY0fS"
+    },
+    {
+      "album": {
+        "name": "embers",
+        "url": "https://open.spotify.com/album/7tmDYMItqxTeCVrHnsu23e"
+      },
+      "artists": [
+        {
+          "name": "jaackson",
+          "url": "https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "embers",
+      "url": "https://open.spotify.com/track/1hZJG7EmQ8iOSz6Xp4JCUB"
     },
     {
       "album": {
@@ -16966,7 +17020,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162541,
       "name": "Somber",
       "url": "https://open.spotify.com/track/2TDQlamYl8cSi6C5mk2xkp"
@@ -17176,7 +17230,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 135000,
       "name": "spacewalk",
       "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
@@ -17456,6 +17510,24 @@
       "duration_ms": 180000,
       "name": "starry nights",
       "url": "https://open.spotify.com/track/6JLCZPbRojiFATBFRoIFFR"
+    },
+    {
+      "album": {
+        "name": "Static Glow",
+        "url": "https://open.spotify.com/album/0rqKvqEQjKN49VHMtdu1h6"
+      },
+      "artists": [
+        {
+          "name": "drift\u00f8 blues",
+          "url": "https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117701,
+      "name": "Static Glow",
+      "url": "https://open.spotify.com/track/0mrCVnofqXODFXTcFO2InR"
     },
     {
       "album": {
@@ -20646,7 +20718,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129972,
       "name": "Wait For Spring",
       "url": "https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4"
@@ -21378,7 +21450,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 106206,
       "name": "Winter Wander",
       "url": "https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS"

@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: The Fugees
+> Taking it way back! Cover: 2Pac
 
 422 songs - 1 day 6 hr 18 min
 

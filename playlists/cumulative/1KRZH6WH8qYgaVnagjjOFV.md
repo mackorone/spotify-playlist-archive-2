@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-171 songs - 11 hr 30 min
+172 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/track/5u3lEROF6PYAItJ7nPUPHS) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Hallelujah \(If Not For Your Love\)](https://open.spotify.com/album/18Hct0jByiTdj11FOGwCir) | 3:11 | 2025-01-31 |  |
 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2025-01-31 |  |
 | [Hark Now Hear](https://open.spotify.com/track/1p7m9S0Zq2vlQG60QrRGb5) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Present Jesu](https://open.spotify.com/album/4vF9ocadQvrYkq1kup6Hwv) | 2:53 | 2025-01-31 | 2025-09-20 |
+| [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 | 2026-02-06 |  |
 | [Heaven Closes Doors](https://open.spotify.com/track/7yTYVKL2PQyihocreC32hJ) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1CyZZmMFR02U96aEGgK0z6) | 3:56 | 2025-01-31 |  |
 | [Heaven On Earth](https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Heaven On Earth](https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5) | 3:19 | 2024-05-24 | 2025-09-20 |
 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 | 2025-04-04 |  |

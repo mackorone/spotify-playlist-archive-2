@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 47254,
+  "num_followers": 47263,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAADjGKVM0mzPJSd8fGBZYBVb",
+  "snapshot_id": "aYPdgAAAAABnYMLwMQ5Qn7sDe63lHsk3",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Lugar",
-        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 278453,
-      "name": "El Destino",
-      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
+      "duration_ms": 246746,
+      "name": "Sin Permiso Para Amarte",
+      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
     },
     {
       "added_at": null,
@@ -355,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Pa'l Real",
-        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
       },
       "artists": [
         {
           "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Sin Permiso Para Amarte",
-      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
+      "duration_ms": 278453,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
     },
     {
       "added_at": null,

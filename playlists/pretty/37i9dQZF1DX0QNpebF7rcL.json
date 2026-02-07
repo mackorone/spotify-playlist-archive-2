@@ -1,13 +1,37 @@
 {
-  "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 147094,
+  "description": "The best in blues right now. Cover: Joe Bonamassa",
+  "num_followers": 147177,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABrpU/17xZfT4QguphqJ3TN2NVS4",
+  "snapshot_id": "AAAAAOx+kg8gUFqNaKVfaqtKN0eRL1No",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
+    },
     {
       "added_at": "2026-01-30 05:12:04",
       "album": {
@@ -39,6 +63,22 @@
       "duration_ms": 179431,
       "name": "Too Broke",
       "url": "https://open.spotify.com/track/4OzazzaU3Jv3Sf2czAp2kr"
+    },
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Hammer & Chisel",
+        "url": "https://open.spotify.com/album/5calaNHiZo8sYfIZSq30OY"
+      },
+      "artists": [
+        {
+          "name": "Altered Five Blues Band",
+          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
+        }
+      ],
+      "duration_ms": 227965,
+      "name": "Hammer & Chisel",
+      "url": "https://open.spotify.com/track/5dvMSxQxXTju4LR408NRwC"
     },
     {
       "added_at": "2026-01-30 05:12:04",
@@ -105,22 +145,6 @@
       "url": "https://open.spotify.com/track/3OzxSwZdBeZvGkzypS7MiN"
     },
     {
-      "added_at": "2026-01-23 05:00:21",
-      "album": {
-        "name": "Hell or High Water",
-        "url": "https://open.spotify.com/album/1TxrD5ueL94W1e5pZeBzps"
-      },
-      "artists": [
-        {
-          "name": "Altered Five Blues Band",
-          "url": "https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg"
-        }
-      ],
-      "duration_ms": 270122,
-      "name": "Hell or High Water",
-      "url": "https://open.spotify.com/track/7jrbzrew5vadFEnJfrwwvQ"
-    },
-    {
       "added_at": "2025-12-12 05:00:30",
       "album": {
         "name": "When Love Comes To Town",
@@ -147,26 +171,6 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
-    },
-    {
-      "added_at": "2025-11-14 05:00:25",
-      "album": {
-        "name": "Sweet Little Angel",
-        "url": "https://open.spotify.com/album/38CihEFCpI6Cf9YBD4FOZA"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/4hJlNxUrUYqtnfw7U2dPwf"
     },
     {
       "added_at": "2025-11-14 05:00:25",

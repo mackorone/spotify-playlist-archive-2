@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Jumbo en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. The Warning y Carin Leon en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 204373,
       "name": "Camina",
       "url": "https://open.spotify.com/track/4HT8vpwMPNpgZq6TcxColK"
@@ -2946,7 +2946,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 142153,
       "name": "De Ca\u00f1on",
       "url": "https://open.spotify.com/track/2cTcSbzvjWjSMlejHf9m23"
@@ -4608,6 +4608,24 @@
       "duration_ms": 200492,
       "name": "Eres Para M\u00ed - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV"
+    },
+    {
+      "album": {
+        "name": "Errante",
+        "url": "https://open.spotify.com/album/66BWriXW9tW7PbgJTJcWt0"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Errante",
+      "url": "https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W"
     },
     {
       "album": {
@@ -7303,6 +7321,28 @@
     },
     {
       "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
+    },
+    {
+      "album": {
         "name": "Tiempo Futuro",
         "url": "https://open.spotify.com/album/5SqflSLiaHb6VerrflWWSS"
       },
@@ -7386,7 +7426,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188387,
       "name": "Luna Nueva",
       "url": "https://open.spotify.com/track/0Nn8fRZgLWtqdnGekA6UIa"
@@ -11222,6 +11262,24 @@
       "duration_ms": 186678,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
+    },
+    {
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/6hs8Y0Let3NM1UCtcTv5fy"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103301,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/4DtPhk3tIhER14wZYxzZxZ"
     },
     {
       "album": {

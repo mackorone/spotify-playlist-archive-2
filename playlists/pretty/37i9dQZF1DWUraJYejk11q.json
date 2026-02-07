@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 467843,
+  "num_followers": 467849,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -325,6 +325,54 @@
       "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
     },
     {
+      "added_at": "2022-12-07 00:43:07",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
+      "added_at": "2023-01-07 02:50:03",
+      "album": {
+        "name": "ITSAME",
+        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 461613,
+      "name": "ITSAME [group hugg]",
+      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2024-04-15 21:25:32",
+      "album": {
+        "name": "Alt-Mobeat",
+        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 101931,
+      "name": "The Visit",
+      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
+    },
+    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -355,54 +403,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2022-12-07 00:43:07",
-      "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
-    },
-    {
-      "added_at": "2024-04-15 21:25:32",
-      "album": {
-        "name": "Alt-Mobeat",
-        "url": "https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 101931,
-      "name": "The Visit",
-      "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
-    },
-    {
-      "added_at": "2023-01-07 02:50:03",
-      "album": {
-        "name": "ITSAME",
-        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 461613,
-      "name": "ITSAME [group hugg]",
-      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
     },
     {
       "added_at": "2024-01-28 13:35:19",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
       "added_at": "2023-11-15 16:34:12",
       "album": {
         "name": "Time to Leave",
@@ -515,6 +499,22 @@
       "duration_ms": 292173,
       "name": "Time to Leave",
       "url": "https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu"
+    },
+    {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2024-08-14 17:52:43",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
       "added_at": "2022-12-16 06:00:00",
       "album": {
         "name": "Hondo (Remix)",
@@ -603,6 +587,22 @@
       "duration_ms": 321210,
       "name": "Hondo (Remix)",
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2022-08-03 03:56:04",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM"
     },
     {
-      "added_at": "2022-03-11 06:33:02",
-      "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
-    },
-    {
       "added_at": "2024-07-02 21:24:59",
       "album": {
         "name": "Bakteria",
@@ -743,6 +727,22 @@
       "duration_ms": 224258,
       "name": "Bakteria",
       "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
+    },
+    {
+      "added_at": "2022-03-11 06:33:02",
+      "album": {
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
       "added_at": "2022-07-15 18:13:54",

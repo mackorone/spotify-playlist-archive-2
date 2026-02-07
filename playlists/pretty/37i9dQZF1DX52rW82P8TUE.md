@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,392 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 41 | [Filho Amado](https://open.spotify.com/track/3Ug5PKPPaga1Gb01gzAEuE) | [Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Filho Amado](https://open.spotify.com/album/4rDSXn5PW1KF7fZMctr357) | 2:33 |
 | 42 | [Arruma essa Bagunça](https://open.spotify.com/track/2ZeoLb6KQP97c6oRl11z1G) | [Bixulinhos](https://open.spotify.com/artist/1xHWjhQTU48284c6swha63) | [Arruma essa Bagunça](https://open.spotify.com/album/0L9iuH2MwMJb66Sd6RkpwW) | 1:58 |
 | 43 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
-| 44 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
+| 44 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
 | 45 | [Filipenses \- Ao Vivo](https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN) | [ImaginAline \- Uma Viagem no Tempo \(Ao Vivo\)](https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y) | 4:06 |
 | 46 | [Rei Davi](https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP) | 3:46 |
 | 47 | [Caminho No Deserto \- Versão Kids](https://open.spotify.com/track/6DvLLo7zE7pPaXKbKxn3qf) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho No Deserto \(Versão Kids\)](https://open.spotify.com/album/4fLbLFLA4S6DEFI3ez7eSw) | 5:33 |
 | 48 | [Caminhando Vou Para Canaã](https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Caminhando Vou Para Canaã](https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN) | 2:17 |
-| 49 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
+| 49 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
 | 50 | [Por Dentro, Fora, Alto, Embaixo](https://open.spotify.com/track/28TJi7S4890dx20i7q5WIL) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [3 Palavrinhas Vol\. 3](https://open.spotify.com/album/60EtnK9eXaiDSckq6svb9T) | 1:57 |
 
 Snapshot ID: `AAAAAB06ZMOeSFutopO7/uTmMvgBzgGd`

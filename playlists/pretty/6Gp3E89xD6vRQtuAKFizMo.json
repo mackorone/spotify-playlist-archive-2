@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43568,
+  "num_followers": 43569,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAalVknOuxrnw/Nm5HYTXOtAs6ny5P+",
+  "snapshot_id": "AAAal4kaah2dELBxzumBe5O2ZKGa2299",
   "tracks": [
+    {
+      "added_at": "2026-02-06 05:00:25",
+      "album": {
+        "name": "Been Good (feat. Kris Kiss)",
+        "url": "https://open.spotify.com/album/0ekN5r0VA4Fh4wdrXAyyMS"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Been Good",
+      "url": "https://open.spotify.com/track/2ODKd2S4s1jHhoYnlqv9aF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:24",
+      "album": {
+        "name": "Too Many Ghosts",
+        "url": "https://open.spotify.com/album/5hRggb5loWJojxKSTh9HW5"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "duration_ms": 144347,
+      "name": "Too Many Ghosts",
+      "url": "https://open.spotify.com/track/0fWw2LjwciGDvHrAPZvskV"
+    },
     {
       "added_at": "2026-01-30 05:00:27",
       "album": {

@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Ella Mai
 
-392 songs - 18 hr 55 min
+392 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [6k Followers \- Bonus](https://open.spotify.com/track/4aUh8bdOVGTWsruzjsWOzi) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Recency Bias V5](https://open.spotify.com/album/5TN0tQHvR7p5L2IkKPPBGq) | 1:46 | 2025-12-19 | 2026-01-16 |
 | [7 Days A Week \(48 Hours\)](https://open.spotify.com/track/6b0kgoQDJTo02Qw1z21YvO) | [Lv](https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y) | [7 Days A Week \(48 Hours\)](https://open.spotify.com/album/4vQ7BxDrqsBlKQxqMCfWCf) | 2:07 | 2026-01-09 | 2026-01-23 |
 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 | 2025-10-23 | 2025-10-31 |
+| [96 Camry](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [PRAY FOR ME](https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs) | 3:15 | 2026-02-06 |  |
 | [actin UP!](https://open.spotify.com/track/51co3VqvwYCETYqL6FbWF1) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [LIMITLESS](https://open.spotify.com/album/40XBQ7VCrIriUShwkFgHLM) | 2:17 | 2025-10-31 | 2025-11-07 |
 | [Active](https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Active](https://open.spotify.com/album/4NCKxYcaUesoLVwl5YfuXS) | 2:51 | 2026-01-30 |  |
 | [ADHD](https://open.spotify.com/track/0ubdB41Y3Anom46x0iXbNQ) | [Backsy](https://open.spotify.com/artist/7EVyosxVHBdfjMPTdp9J1G), [ALR](https://open.spotify.com/artist/2DKVguG69okXFd7OSINIs1) | [ADHD](https://open.spotify.com/album/7D0gxjMAcrY4r9PeopFI5D) | 2:44 | 2025-12-19 | 2026-01-15 |
@@ -154,7 +155,7 @@
 | [gotta go](https://open.spotify.com/track/4vemNtc49DTOC9msYE5wge) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [it's all up in the air.](https://open.spotify.com/album/3B3C3UznoLakeONA1ulfbW) | 2:59 | 2025-11-14 | 2025-11-28 |
 | [Growing Up](https://open.spotify.com/track/3afeitE7piK1pD8AGrccLl) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Growing Up](https://open.spotify.com/album/0x7mxcYxOFfmj6x5T0JJVr) | 3:14 | 2025-12-12 | 2026-01-15 |
 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 | 2026-01-09 | 2026-01-23 |
-| [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [](https://open.spotify.com/album/null) | 3:01 | 2026-02-06 |  |
+| [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 | 2026-02-06 |  |
 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 | 2025-11-07 | 2025-11-21 |
 | [Here We Go Again](https://open.spotify.com/track/7jXIpGIVk3M80zg1oj0sXT) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [2 EASY](https://open.spotify.com/album/1KYDfAVps1egxt3TU6jShb) | 2:20 | 2025-10-31 | 2025-11-14 |
 | [High Key](https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 2:12 | 2026-01-23 | 2026-02-06 |
@@ -224,7 +225,7 @@
 | [Me & You](https://open.spotify.com/track/3IzV8Ag6x6UWzVfH2hoTln) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI) | [\#FEDERAL](https://open.spotify.com/album/0HqtaJLSCT9F0YPRadmigb) | 1:53 | 2025-11-21 | 2025-12-05 |
 | [meet and greet.](https://open.spotify.com/track/2rMkZAWKKZA9dljfBW0nRh) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [meet and greet.](https://open.spotify.com/album/50R65o5gbUNXNnwNDSpWh8) | 3:00 | 2026-02-06 |  |
 | [Michael Olise](https://open.spotify.com/track/21PyKSglCbjBApRt0s6Q4G) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp), [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [Michael Olise](https://open.spotify.com/album/6pgvtJgsRSNsoEc0I4Fyoi) | 2:41 | 2025-12-19 | 2026-01-15 |
-| [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [](https://open.spotify.com/album/null) | 3:43 | 2026-02-06 |  |
+| [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 | 2026-02-06 |  |
 | [Mightjuss](https://open.spotify.com/track/2BCTfnyOqyEq4CmZ3aPjEj) | [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Mightjuss](https://open.spotify.com/album/2HLkZmXUIsWFOwXyP8zJyc) | 2:49 | 2026-01-09 | 2026-01-23 |
 | [Mirrors](https://open.spotify.com/track/2DIwFJ7eGJkFkoRsizD4Qa) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [The James Devlin Album](https://open.spotify.com/album/7LWa7tGQ5xEAxX1mlu8aCe) | 3:44 | 2025-11-07 | 2025-11-14 |
 | [MIST IS SPEAKING](https://open.spotify.com/track/3uzdBVWPGR8xdee4r4MxWf) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Asher](https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2) | [MIST IS SPEAKING](https://open.spotify.com/album/1Kx4bEuNUWXYZdo0yMM2Nq) | 3:29 | 2026-01-23 | 2026-01-30 |
@@ -278,7 +279,7 @@
 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 | 2025-11-21 | 2025-12-05 |
 | [Performante Pain](https://open.spotify.com/track/2CFOMeQAeajRPnYKOBu6Zy) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Performante Pain](https://open.spotify.com/album/5qktduaeZekiMaNegeRA3z) | 3:02 | 2025-10-31 | 2025-11-14 |
 | [Pick Pick](https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Pick Pick](https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs) | 2:58 | 2026-01-30 |  |
-| [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [](https://open.spotify.com/album/null) | 3:05 | 2026-02-06 |  |
+| [Pick Your Poison](https://open.spotify.com/track/0M68nnE5BjdNamxGEjQyzj) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Yaqeen](https://open.spotify.com/album/6Dfh1h3bNM26MVj9Ou3ekB) | 3:05 | 2026-02-06 |  |
 | [Platonic](https://open.spotify.com/track/7oFqlL5YtppeJQSoelzlym) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [How I Feel](https://open.spotify.com/album/4SsAzqjIJvvbq3NA4E3UNL) | 2:46 | 2025-10-23 | 2025-11-07 |
 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-01-30 |  |
 | [Precognition](https://open.spotify.com/track/06nyrZz7wEijSlZXxXg5EJ) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Precognition](https://open.spotify.com/album/08LAG64GAPO5Xb3DEmlK2M) | 2:57 | 2025-12-12 | 2026-01-03 |
@@ -355,7 +356,6 @@
 | [The Otherside](https://open.spotify.com/track/13YsxcCwZmPYLvwwTGMhbQ) | [Sandy](https://open.spotify.com/artist/26Bu7luPOZNb2vI6IL4VBg) | [Bunny](https://open.spotify.com/album/4FOpf4CSRmjU2z17jgM5mZ) | 3:16 | 2025-10-31 | 2025-11-07 |
 | [THE SCARLET WOMAN](https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [THE SCARLET WOMAN](https://open.spotify.com/album/1xWBUfptraCwcRQCdDo85T) | 2:34 | 2025-10-31 | 2025-11-14 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
-| [Track 7](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Triple Double](https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Where's The Wizard?](https://open.spotify.com/album/5vJ03f6VupR2ykhy9Uq1Hq) | 2:28 | 2025-12-12 | 2026-01-15 |
 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 | 2025-10-23 | 2025-10-31 |

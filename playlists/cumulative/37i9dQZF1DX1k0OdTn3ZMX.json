@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with MOTHICA.",
+  "description": "n\u00fc-metal revival is happening here and now with UnityTX",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -2061,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "BODY ROC",
+        "url": "https://open.spotify.com/album/749pM6frmTd0qlc2dYmOwd"
+      },
+      "artists": [
+        {
+          "name": "UnityTX",
+          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "ENJOY THA SHOW",
+      "url": "https://open.spotify.com/track/5SeP33GTdmovr4FYXASVSa"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5"
       },
@@ -3857,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "M.I.B",
+        "url": "https://open.spotify.com/album/70uoQFHpa9PQc53sM2OuWO"
+      },
+      "artists": [
+        {
+          "name": "KIDPUNK",
+          "url": "https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "M.I.B",
+      "url": "https://open.spotify.com/track/64iYi16szJIUvLCSB65Rzb"
+    },
+    {
+      "album": {
         "name": "Made Me This Way",
         "url": "https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi"
       },
@@ -4196,7 +4232,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 193329,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG"
@@ -4784,10 +4820,28 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 160278,
       "name": "PEELING SKIN",
       "url": "https://open.spotify.com/track/0T6VUUxxdaCWZfr1zLKiK3"
+    },
+    {
+      "album": {
+        "name": "perfect hell",
+        "url": "https://open.spotify.com/album/2mnpF84fkUpN3r2xrjl8Mn"
+      },
+      "artists": [
+        {
+          "name": "never easy",
+          "url": "https://open.spotify.com/artist/3Qr5Z948M0BpkrKDFTRwv1"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161152,
+      "name": "perfect hell",
+      "url": "https://open.spotify.com/track/3BUAJWAr6c41nfek7uNRE8"
     },
     {
       "album": {
@@ -5192,7 +5246,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 216048,
       "name": "RELEASE",
       "url": "https://open.spotify.com/track/0W11hYaAqcOBhMtN9KVOAy"
@@ -5486,7 +5540,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169800,
       "name": "Serpent Script",
       "url": "https://open.spotify.com/track/7wK3sYkuFBIa7lXnnZqkyR"
@@ -6252,6 +6306,28 @@
       "duration_ms": 201882,
       "name": "thank god",
       "url": "https://open.spotify.com/track/2KLFqdTAaqCm4eFZP2TXeo"
+    },
+    {
+      "album": {
+        "name": "Fractured Minds",
+        "url": "https://open.spotify.com/album/6C5SxWyYLJHiWLoqXuTaND"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        },
+        {
+          "name": "Elwood Stray",
+          "url": "https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155384,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/6iCPr9z2f18RrUpkZGprSA"
     },
     {
       "album": {

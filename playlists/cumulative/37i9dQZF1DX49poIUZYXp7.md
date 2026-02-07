@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kelsea Ballerini and Lainey Wilson
 
-410 songs - 22 hr 17 min
+411 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [To Tell You The Truth](https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Tell You The Truth](https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz) | 3:42 | 2025-03-21 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-07-01 |  |
 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 | 2024-01-05 |  |
+| [Trailblazer \(with Brandy Clark & Lukas Nelson\) \- Dream Chaser Version](https://open.spotify.com/track/7kKFl8OEWcNUQuFFiqWzSX) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Trailblazer \(Dream Chaser Version\)](https://open.spotify.com/album/4JW06DEbL5FdwoiFh4BLAI) | 4:11 | 2026-02-06 |  |
 | [Trippin'](https://open.spotify.com/track/7hEVupgH8dwFemNPxTXscc) | [Amy Nelson](https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w) | [Trippin'](https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R) | 3:23 | 2022-03-25 | 2022-04-18 |
 | [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-12-20 |  |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2022-03-25 | 2022-04-18 |

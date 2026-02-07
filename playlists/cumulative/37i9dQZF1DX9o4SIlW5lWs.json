@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173543,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Blindado",
         "url": "https://open.spotify.com/album/5LRZ3v6JAicDjwtEthrKli"
       },
@@ -6912,7 +6930,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188368,
       "name": "Noche de Estrellas",
       "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"

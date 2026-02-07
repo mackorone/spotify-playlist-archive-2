@@ -2,17 +2,19 @@
 
 ### [Women of Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0D3bsYM560s)
 
-> Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Sierra Hull
+> Women pickers keeping tradition alive and breaking boundaries\. Cover: Della Mae
 
-149 songs - 8 hr 29 min
+152 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [900 Miles](https://open.spotify.com/track/6GWTEaqEIy6Psy28owjiSL) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 3:51 | 2023-04-14 |  |
+| [900 Miles](https://open.spotify.com/track/6GWTEaqEIy6Psy28owjiSL) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 3:51 | 2023-04-14 | 2026-02-07 |
 | [A Few Old Memories](https://open.spotify.com/track/32ZbqXDffP1uL57jEFKLGw) | [Olivia Ellen Lloyd](https://open.spotify.com/artist/0itd8fCSPL3NAu9CAhuHG0) | [A Few Old Memories](https://open.spotify.com/album/0LcaVpt8dbgrpH5MptMTB0) | 3:14 | 2023-04-14 |  |
+| [Alaska](https://open.spotify.com/track/6XqFLODoL2Kjaq5Lgxifwj) | [Big Richard](https://open.spotify.com/artist/6eFN4r6XUT4l9Dh2iHK5Rt) | [Alaska](https://open.spotify.com/album/0PckBvGjOx8bmhStEXo1jo) | 3:56 | 2026-02-06 |  |
 | [All I Ever Need Is You](https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [All I Ever Need Is You](https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP) | 3:30 | 2024-04-06 |  |
 | [Allegheny Town](https://open.spotify.com/track/7hQDksmDV1CR6wDDAeLaQx) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [Royal Traveller](https://open.spotify.com/album/0O6Nyhc5bVD0iYtEq5J3sZ) | 3:32 | 2023-04-14 |  |
-| [Alone](https://open.spotify.com/track/5nJu3TOJXxlWud7QgJrb8l) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Alone](https://open.spotify.com/album/4pYxWQ2UiprT4ydevkueOf) | 4:37 | 2024-06-28 |  |
+| [Alone](https://open.spotify.com/track/5nJu3TOJXxlWud7QgJrb8l) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Alone](https://open.spotify.com/album/4pYxWQ2UiprT4ydevkueOf) | 4:37 | 2024-06-28 | 2026-02-07 |
+| [Anchor](https://open.spotify.com/track/6uNRj34hc6jjhrO42sCQpC) | [Sweet Sally](https://open.spotify.com/artist/71iKAqpq65sEhaUc1GYHOC) | [Anchor](https://open.spotify.com/album/1zMacQ2wJ0bbSII86Xwv1j) | 3:04 | 2026-02-06 |  |
 | [Annie](https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:53 | 2023-06-16 | 2024-04-19 |
 | [Annie](https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43) | 2:53 | 2024-04-06 |  |
 | [Another Heartache](https://open.spotify.com/track/6ind9J8gGq4ooUhwIsmEoQ) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Just You Wait And See](https://open.spotify.com/album/3ssgqsQBFmoGsMANTmDr9L) | 2:32 | 2023-04-14 |  |
@@ -55,7 +57,7 @@
 | [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-25 |  |
 | [Girl's Breakdown](https://open.spotify.com/track/4EdzW4D2a6sTZgnP9w1hrt) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Fair Weather](https://open.spotify.com/album/2J7y2LLWkhZfAuETs1Ubtb) | 3:44 | 2023-04-14 |  |
 | [God Spoke His Name](https://open.spotify.com/track/3aXy6uOVsfQNo0dcGf7s23) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Friends For A Lifetime](https://open.spotify.com/album/1TrRIBlGUzGhf3kemDNiLv) | 2:11 | 2023-04-14 | 2024-11-16 |
-| [Good Enough](https://open.spotify.com/track/6TlQv4UJ3DDmbw8zaRRFJm) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:55 | 2023-04-14 |  |
+| [Good Enough](https://open.spotify.com/track/6TlQv4UJ3DDmbw8zaRRFJm) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:55 | 2023-04-14 | 2026-02-07 |
 | [Great Waterton](https://open.spotify.com/track/3z1iiykBeoCwcgF8aZ6nHs) | [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD) | [Stringworks](https://open.spotify.com/album/0ysC9SbSSRNCiedsNSRa38) | 2:33 | 2024-04-06 |  |
 | [Great Waterton](https://open.spotify.com/track/4jwvNJAxLXupRCXpYlZO3S) | [Kristin Scott Benson](https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD) | [Stringworks](https://open.spotify.com/album/3LhkdwYvb0igZ3q2NxLh79) | 2:33 | 2023-04-14 | 2024-04-19 |
 | [Hazel Creek](https://open.spotify.com/track/7D0pkrivao3Xw2mCO4CoIA) | [Murphy Henry](https://open.spotify.com/artist/16IzVSn0eZSPErN7JMU3Q2) | [The Patuxent Banjo Project](https://open.spotify.com/album/1whIcsiopcQJcTnu7Pi80O) | 4:02 | 2023-04-14 |  |
@@ -89,6 +91,7 @@
 | [Long Hot Summer Days](https://open.spotify.com/track/4exoMhOJHJs8rwOFpmx4pq) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Peanut Butter Falcon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dbWrB8KxsPJrTIYO9AHyG) | 3:15 | 2023-04-14 |  |
 | [Losing You Blues](https://open.spotify.com/track/2TQjjGL6RPO1X0Yl3yrW9Y) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 2:48 | 2023-04-14 |  |
 | [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 | 2023-06-23 |  |
+| [Magic Accident](https://open.spotify.com/track/7qfcFuMAu8mnPivl4xw5nu) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Magic Accident](https://open.spotify.com/album/6XH4Z9ccQxFascwYecVZEf) | 3:51 | 2026-02-06 |  |
 | [Make Me Stay or Make Me Go](https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Make Me Stay or Make Me Go](https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN) | 3:11 | 2024-11-15 |  |
 | [Man With No Demons](https://open.spotify.com/track/4gTw73aRQs0Fvjkst7pZ6Y) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Man With No Demons](https://open.spotify.com/album/4SayA2xvAGdZJI1Ba5bsmv) | 2:51 | 2023-11-10 |  |
 | [Mitchell Mullins](https://open.spotify.com/track/1PQGFvDU2ND9U7mGhJzQrI) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Mitchell Mullins](https://open.spotify.com/album/7sdmtJhjRagaW6mQAtYcSr) | 2:54 | 2024-05-10 |  |
@@ -138,7 +141,7 @@
 | [Transatlantic](https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [The Apathy Sessions](https://open.spotify.com/album/17KrnzA7mW2Gff5QGxi1rP) | 4:32 | 2023-04-14 | 2024-04-19 |
 | [Travelin' Heart](https://open.spotify.com/track/4rhqyg8ndPc61QEVMYlAsW) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Travelin' Heart](https://open.spotify.com/album/13kCJ0Apc7FKfceZ7zIsq8) | 3:23 | 2023-04-14 | 2023-11-11 |
 | [Travelin’ Prayer](https://open.spotify.com/track/5ZcI0yKZK6OFW0d7lqc6sx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Grass Is Blue](https://open.spotify.com/album/1kQ0i9vb1D2TPMNOSTs3i5) | 4:16 | 2024-06-28 |  |
-| [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 | 2023-07-21 |  |
+| [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 | 2023-07-21 | 2026-02-07 |
 | [Up For Losing Sleep](https://open.spotify.com/track/6OQSKMqfNvz0NiiHHmTVSL) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [I Built A World](https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV) | 2:41 | 2024-06-28 |  |
 | [Wayfaring Stranger \(with Francesco Turrisi\)](https://open.spotify.com/track/2njguLBr2BLfsRdHtg3WmT) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [there is no Other \(with Francesco Turrisi\) \[Deluxe Version\]](https://open.spotify.com/album/6KI61E4x5f95xVkhly783t) | 4:47 | 2023-04-14 |  |
 | [We've Got Our Friends](https://open.spotify.com/track/2MZvn7wIeyt7ZUhThqJn5d) | [Maura Shawn Scanlin](https://open.spotify.com/artist/5iAjBykjzLrKshAue6nvwx) | [We've Got Our Friends](https://open.spotify.com/album/4x8luEIeoka9gyRFFVIo4y) | 4:10 | 2023-04-14 |  |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 김민석 \(Kim Min seok\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,669 songs - 4 day 12 hr 28 min
+1,671 songs - 4 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Emergency Room \- 2021](https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m) | [Hwang In Wook](https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq) | [Emergency Room \(2021\)](https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW) | 4:03 | 2022-01-17 | 2022-04-20 |
 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 | 2025-05-07 | 2025-10-02 |
 | [Empty Spot](https://open.spotify.com/track/3iFZyOkHyT7pMNJ6y4u1Z8) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [Yeolguk Scandal \(Original Soundtrack\), Part\. 1](https://open.spotify.com/album/5YoeNDokyfGSGFwvjTbEPj) | 4:10 | 2023-01-20 | 2023-02-25 |
-| [end again](https://open.spotify.com/track/58G9AzGzC2wRYCBUCrs2xx) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane), [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [end again](https://open.spotify.com/album/1F09qmtRimtcyirfPMBb7K) | 3:25 | 2025-11-02 |  |
+| [end again](https://open.spotify.com/track/58G9AzGzC2wRYCBUCrs2xx) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane), [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [end again](https://open.spotify.com/album/1F09qmtRimtcyirfPMBb7K) | 3:25 | 2025-11-02 | 2026-02-07 |
 | [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 | 2025-09-09 | 2025-12-05 |
 | [End Of Night](https://open.spotify.com/track/2l8jtHeXRSH420IEWH93UQ) | [에코브릿지](https://open.spotify.com/artist/4ozyMZxydr2BsVslZEjkOB) | [End Of Night](https://open.spotify.com/album/59D9CcgSLantWVuwyUIjBL) | 3:06 | 2022-02-25 | 2022-03-05 |
 | [End of the Road](https://open.spotify.com/track/177g45l0BbZWVTMXJMjebn) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [End of the Road](https://open.spotify.com/album/7sMS8RSw0zCeImL7STnXyP) | 3:38 | 2023-05-31 | 2023-10-20 |
@@ -746,11 +746,12 @@
 | [Last Story](https://open.spotify.com/track/7nxZFKs0CEzQrPj97P6B4W) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/5KHAL2dWTEWhhcUNSvgUKG) | 4:05 | 2025-04-08 | 2025-09-18 |
 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-10-16 | 2024-03-09 |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2021-12-20 | 2022-04-21 |
+| [Late Night Talks](https://open.spotify.com/track/52QCOtIb0R1VNw4PF5NbOA) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Terror Man Ending \(Original Soundtrack\)](https://open.spotify.com/album/77MiF7mgIiToecrI9Gb4Pf) | 3:05 | 2026-02-06 |  |
 | [Lazy Me](https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Lazy Me](https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7) | 3:07 | 2021-12-23 | 2022-06-27 |
 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 | 2021-12-23 | 2022-05-05 |
 | [Learning to Live](https://open.spotify.com/track/58PKHsshq0OSPJvdEHhWin) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [Never give up, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6IOAz4E5KTGQ2hBxdSoi6H) | 3:55 | 2022-07-07 | 2022-08-12 |
 | [Leave](https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/43wpzZRIko2hqhjZMkR32n) | 4:51 | 2022-02-25 | 2022-04-11 |
-| [Let You Go](https://open.spotify.com/track/7EvKgijflBO4oUSnk7JHXG) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [A\(E\)ND](https://open.spotify.com/album/1ZTstigketIx6gA8k1co9v) | 3:31 | 2025-09-18 |  |
+| [Let You Go](https://open.spotify.com/track/7EvKgijflBO4oUSnk7JHXG) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [A\(E\)ND](https://open.spotify.com/album/1ZTstigketIx6gA8k1co9v) | 3:31 | 2025-09-18 | 2026-02-07 |
 | [Let's break up \(2022\)](https://open.spotify.com/track/3SSX55BjRYW4Qal3wnfR5I) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Let's break up \(2022\)](https://open.spotify.com/album/2OexZPJLBuWflTSkB3d9Dt) | 4:06 | 2022-12-16 | 2023-01-21 |
 | [Let's End It Here](https://open.spotify.com/track/1QKgKxIn9AjgOXjq7OhFMN) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Let's End It Here](https://open.spotify.com/album/5qUpfQ1O0Y70ibRHKXgBBr) | 3:36 | 2022-06-08 | 2022-08-13 |
 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 | 2023-04-20 | 2024-04-19 |
@@ -1118,6 +1119,7 @@
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
 | [Sad Loop](https://open.spotify.com/track/476PT13ugdewze682alt9b) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Sad Loop](https://open.spotify.com/album/4fxVu27QdPqvJaQujywP3X) | 3:54 | 2025-01-02 | 2025-06-27 |
 | [Sad promise](https://open.spotify.com/track/1R8QjyMqO9UEh18FqCG1vu) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [Sad promise](https://open.spotify.com/album/5FAFONbvL0yNPPr3nYz0CF) | 3:57 | 2023-11-10 | 2024-05-01 |
+| [Sad Year](https://open.spotify.com/track/14JE55xLelenFIVqWw8yJV) | [NIDA](https://open.spotify.com/artist/577oSCeG3NjUbcgJKiYgvN) | [Sad Year](https://open.spotify.com/album/4eH2ly1nykOGMb7qpInSo7) | 2:42 | 2026-02-06 |  |
 | [Sadder Than Yesterday](https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Sadder Than Yesterday](https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N) | 3:56 | 2025-04-08 | 2025-09-25 |
 | [Sail](https://open.spotify.com/track/18VqjfMIdKa3Co07tmzNdI) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [Marigold](https://open.spotify.com/album/1SNgh1tR8hdHrIwnsKy1pK) | 4:08 | 2026-01-26 |  |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |

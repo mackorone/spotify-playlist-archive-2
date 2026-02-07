@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,824 likes - 101 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,885 likes - 101 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 83 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 |
 | 84 | [Confession](https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Confession](https://open.spotify.com/album/0rzh6xdUO0raP6H7FmZHss) | 2:52 |
 | 85 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
-| 86 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
+| 86 | [SHAKIN IT \(feat\. Cash Cobain\)](https://open.spotify.com/track/6fciDfvusfex0xul6qjNjW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [LVL5 P2](https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm) | 2:54 |
 | 87 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 |
 | 88 | [You A Stepper](https://open.spotify.com/track/4UlKBkjerJWwuAWWT25EgP) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [You A Stepper](https://open.spotify.com/album/1Jy2Z3esJCzCbIUwEHqoDX) | 2:45 |
 | 89 | [JHOLIDAY 2](https://open.spotify.com/track/3i9esirqy4JsNbHqK19EHp) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY \(DELUXE\)](https://open.spotify.com/album/0xt9g8Z9ycCUDlKcSMZsBy) | 2:03 |

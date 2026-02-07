@@ -4,7 +4,7 @@
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Maddie Ashman
 
-285 songs - 16 hr 3 min
+285 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Be Free](https://open.spotify.com/track/6iGcuA0UfnYRELUTf1TKHc) | [Oslo Twins](https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y) | [Tresor](https://open.spotify.com/album/1Oavx52e5Dme4KjkQtjMjj) | 3:28 | 2025-03-24 | 2025-09-12 |
 | [Be Good](https://open.spotify.com/track/3lsVp6RikV0RYXAmxn7djB) | [KuleeAngee](https://open.spotify.com/artist/7u56IQStytIQ51gm5haOeM) | [Be Good](https://open.spotify.com/album/4A1bNymAMnrCfcWV7uNEkD) | 2:09 | 2025-03-24 | 2025-08-22 |
 | [Bedrock](https://open.spotify.com/track/5NQzU2NZYt8bJoieGVkZEZ) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Bedrock](https://open.spotify.com/album/3bk7FJxpty6jsKxjKizKCW) | 3:13 | 2025-09-11 |  |
-| [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [](https://open.spotify.com/album/null) | 5:04 | 2026-02-06 |  |
+| [Behind Closed Eyes](https://open.spotify.com/track/5ZEXTgxlsVT33HKtkJmxFb) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Her Side](https://open.spotify.com/album/7EJGHAulmFdXaeECghFNmw) | 5:04 | 2026-02-06 |  |
 | [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 | 2024-07-12 | 2025-03-25 |
 | [Between Dreams](https://open.spotify.com/track/38z26PUg63ewXSY7yQV1oi) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Between Dreams](https://open.spotify.com/album/4CeCvMBu8oQteG3NNtaYYs) | 3:34 | 2025-09-11 |  |
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2026-01-30 |  |
@@ -228,6 +228,7 @@
 | [shiver](https://open.spotify.com/track/02u6hOC0LaRjXnOna26zA8) | [Ben Kidson](https://open.spotify.com/artist/0byPxKkZ5TBvzQKL6NjqOq) | [shiver](https://open.spotify.com/album/72C8D9ygqIXL4qaeqsX6SS) | 3:11 | 2025-08-08 |  |
 | [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-14 | 2026-01-31 |
 | [Silent Corners](https://open.spotify.com/track/18jdrAHnog2uG5fxVhhvD0) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Silent Corners](https://open.spotify.com/album/4gkrYRPbNGuu0BzWyquUXH) | 4:06 | 2025-03-24 | 2025-05-31 |
+| [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 | 2026-02-06 |  |
 | [Sinking Again](https://open.spotify.com/track/3BiPvniIVqpMA11q4Xjcf3) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Sinking Again](https://open.spotify.com/album/1Uk4DT1XYVaPYv4OC9IY46) | 3:54 | 2024-06-27 | 2024-10-11 |
 | [Sleeping With The Devil](https://open.spotify.com/track/1f6JYGKTv6Tr3uYTAjdsHh) | [Caitlin](https://open.spotify.com/artist/1JfNRa6vkoWP0k2UASfk7e) | [Sleeping With The Devil](https://open.spotify.com/album/5uxD9wTDfK04r0xSR6DYNf) | 3:50 | 2024-06-27 | 2024-07-27 |
 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 | 2024-11-29 | 2025-04-15 |
@@ -260,8 +261,6 @@
 | [TORMENTOR](https://open.spotify.com/track/6R6VuJCUcqOc2XFFlgHZlP) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [U R HERE](https://open.spotify.com/album/6y915touTxWTCDtDoNdbas) | 5:10 | 2025-03-24 | 2025-08-22 |
 | [Tormentor](https://open.spotify.com/track/61K6XZE3e4Myl89Xgd57YS) | [Ninush](https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0) | [The Flowers I See You In](https://open.spotify.com/album/0Xe00l36xtM6l0gRUcGuXu) | 2:40 | 2026-02-06 |  |
 | [Total 90](https://open.spotify.com/track/6AU6ZJrApUle8AxrHjccTq) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Total 90](https://open.spotify.com/album/0RUAtvZKDedFhxlIv1o9pp) | 2:23 | 2024-06-27 | 2025-03-25 |
-| [Track 9](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
-| [Track 9](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-06 |  |
 | [Trash TV](https://open.spotify.com/track/4qM7Iig1Uw8XesVVZr4yt6) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [Trash TV](https://open.spotify.com/album/1CPV9kx5Kyh2nRHmv45Qlh) | 2:42 | 2025-08-08 |  |
 | [Trevor](https://open.spotify.com/track/78qdlTeBkvgZXe9nMTgN6f) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Trevor](https://open.spotify.com/album/5k9ql2i9ynuPoHeCDD8h2m) | 5:31 | 2025-03-24 | 2025-09-12 |
 | [Try Try Try](https://open.spotify.com/track/1kthQJdi4E9AMUqefZsb4s) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Try Try Try](https://open.spotify.com/album/6VAAZQK8A1ui0KIKJUPT2q) | 4:01 | 2025-08-21 |  |
@@ -276,6 +275,7 @@
 | [USA Baby](https://open.spotify.com/track/29hQhpxNbzf4IDjODEZKko) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [USA Baby](https://open.spotify.com/album/78IlsjAG2OP6vpEBJB5ti1) | 1:55 | 2025-09-11 |  |
 | [We Don't Speak Anymore](https://open.spotify.com/track/7IfarhuPKJeyOotOzlBxfA) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:31 | 2025-08-21 |  |
 | [WEEDKILLER](https://open.spotify.com/track/4Gh2Lp6wpVgbBOa7DE2m2l) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [WEEDKILLER](https://open.spotify.com/album/26LSYUt7SNNgST4Ply5tDs) | 1:48 | 2024-06-27 | 2024-10-11 |
+| [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 | 2026-02-06 |  |
 | [WEST](https://open.spotify.com/track/3EgcN6wLlHQCzyCHiq3EsY) | [BUKKY](https://open.spotify.com/artist/1v7rqTLaVA3Ce6Q9R98dSq) | [WEST](https://open.spotify.com/album/1OMZ7agEucQVZDOcf8Nvrn) | 3:59 | 2025-04-14 | 2026-02-06 |
 | [What Happened.](https://open.spotify.com/track/4JHIRSicUIwvi997lxoAN3) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [15](https://open.spotify.com/album/5eDAiMfKjtgrk5RK7OTfvO) | 2:33 | 2025-03-24 | 2026-02-06 |
 | [When england comes](https://open.spotify.com/track/2TcUaZUxjRv2Iwo0BVhKSF) | [Pollyfromthedirt](https://open.spotify.com/artist/3mNIIIyyVyJvCeO3ZpqlpM) | [When england comes](https://open.spotify.com/album/5GHoySgrasrewtuUWFlDAX) | 2:52 | 2026-01-30 |  |

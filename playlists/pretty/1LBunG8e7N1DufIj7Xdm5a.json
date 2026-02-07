@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHcDyyGBC3vtmdWryZjE6uunyHIijj",
+  "snapshot_id": "AAAHc35rLtjXZxC6HeWDq4fuxYLOQ+O0",
   "tracks": [
+    {
+      "added_at": "2026-02-06 23:09:07",
+      "album": {
+        "name": "La Tasca",
+        "url": "https://open.spotify.com/album/6mYck7yQ1nq9ybLGRSiTVz"
+      },
+      "artists": [
+        {
+          "name": "Puerto Mariel",
+          "url": "https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "La Tasca",
+      "url": "https://open.spotify.com/track/1RKrSxUUhzrnUHtF11MHVu"
+    },
     {
       "added_at": "2026-02-05 00:45:34",
       "album": {
@@ -3304,7 +3320,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -3952,7 +3968,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -3992,7 +4008,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4260,7 +4276,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4292,7 +4308,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4328,7 +4344,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4344,7 +4360,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4548,7 +4564,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -4580,7 +4596,7 @@
       },
       "artists": [
         {
-          "name": "ANGA",
+          "name": "AN.GA",
           "url": "https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm"
         }
       ],
@@ -66431,6 +66447,38 @@
       "duration_ms": 408279,
       "name": "Why So Dark, Son? - Album Intro",
       "url": "https://open.spotify.com/track/0twSBF8XOweUbPpmkbX0pb"
+    },
+    {
+      "added_at": "2026-02-06 10:59:36",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/2WIuOdpHyhY9a7cYZP5ZjS"
+      },
+      "artists": [
+        {
+          "name": "Oxdead",
+          "url": "https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv"
+        }
+      ],
+      "duration_ms": 123785,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2Ys8y3wZJ1PXOugdJxgGVP"
+    },
+    {
+      "added_at": "2026-02-06 11:15:38",
+      "album": {
+        "name": "Deseos",
+        "url": "https://open.spotify.com/album/6D061seVmfQH4eTwP94671"
+      },
+      "artists": [
+        {
+          "name": "Leyna y Estos Otros",
+          "url": "https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "Deseos",
+      "url": "https://open.spotify.com/track/22oChzp35MRgYG18jktD2y"
     }
   ],
   "unique_name": "playlist spotify free",

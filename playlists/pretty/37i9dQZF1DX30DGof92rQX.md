@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,602 likes - 86 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,650 likes - 86 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 85 | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/track/4XV8zaWcumB5Et8IdhfSUa) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/album/3csWupL9ILbd6zbuBZR6pF) | 2:07 |
 | 86 | [Supreme Mode](https://open.spotify.com/track/6dAdThAhyvjGetAW8v8Ztu) | [Momin Ali Wajid](https://open.spotify.com/artist/2Bwz11LGCMXreTn8SFupGY) | [Supreme Mode](https://open.spotify.com/album/7DCYJtI3Vcczf71fKWuo8F) | 2:18 |
 
-Snapshot ID: `AAAAAHc1LUPfs/gAcSaJi08OOQAIUBHY`
+Snapshot ID: `AAAAADAQ6oGqH5a65d6iTIi7yc46MY9a`

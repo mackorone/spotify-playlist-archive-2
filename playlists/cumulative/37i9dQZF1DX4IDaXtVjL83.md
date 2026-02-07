@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: YOUNG POSSE, 李大奔Benzo\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Tame Impala, JENNIE\)
 
 265 songs - 13 hr 53 min
 

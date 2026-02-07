@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80570,
+  "num_followers": 80580,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAAA/slpeZ4B9goPSixh4pg1z",
+  "snapshot_id": "aYPdgAAAAACEQx7cTYGKz+Mko2wXFjfm",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "This Is a Rebel Song",
+      "url": "https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Chieftains",
         "url": "https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 320773,
       "name": "The Foggy Dew (with Sin\u00e9ad O'Connor)",
       "url": "https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "This Is a Rebel Song",
-      "url": "https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Oak",
         "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 192666,
       "name": "This Is to Mother You",
       "url": "https://open.spotify.com/track/60zhgcBTpV7FIxh12ieS8g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gospel Oak",
+        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "He Moved Through the Fair",
+      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 295040,
       "name": "1000 Mirrors",
       "url": "https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gospel Oak",
-        "url": "https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "He Moved Through the Fair",
-      "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Very Special Christmas 2",
-        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 338733,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 215587,
-      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
-      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I Not Your Girl?",
         "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 267360,
       "name": "Success Has Made a Failure of Our Home",
       "url": "https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Very Special Christmas 2",
+        "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy"
     },
     {
       "added_at": null,

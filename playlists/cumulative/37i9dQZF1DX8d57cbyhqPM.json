@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Gradur et SDM.",
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tantine Theodora.",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Avec les reins",
+        "url": "https://open.spotify.com/album/1xd8Dfl4VerZnRClDRWjrJ"
+      },
+      "artists": [
+        {
+          "name": "Jordy",
+          "url": "https://open.spotify.com/artist/5tZRrutidZHlufZzoO10Zh"
+        },
+        {
+          "name": "Bruzer",
+          "url": "https://open.spotify.com/artist/1U2Bzt0bhkqHJj7L1WQdnB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119067,
+      "name": "Avec les reins",
+      "url": "https://open.spotify.com/track/2vDlMF4846Qt5OYuO1ez9O"
+    },
+    {
+      "album": {
         "name": "AYA BB",
         "url": "https://open.spotify.com/album/2cd2ZnghZC0gCcm3TCkUQa"
       },
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 150667,
       "name": "Bara",
       "url": "https://open.spotify.com/track/5MP8EHj9F0kXOToFnrZNqu"
@@ -3179,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0L5PgMi5IUZ3UN0LE3ZfaN"
       },
@@ -4316,6 +4356,24 @@
       "duration_ms": 385000,
       "name": "Esta Tierra No Es Mia",
       "url": "https://open.spotify.com/track/1Zya4TzVUZNJ6pzMKZOqKn"
+    },
+    {
+      "album": {
+        "name": "Et c'est OK",
+        "url": "https://open.spotify.com/album/6KynR7Ct0ckq0ikF0SRiUe"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144848,
+      "name": "Et c'est OK",
+      "url": "https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl"
     },
     {
       "album": {
@@ -5700,7 +5758,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 171458,
       "name": "J'avoue, j'avoue part. 2",
       "url": "https://open.spotify.com/track/4ZHYynp9MFmygQSrRMh71A"
@@ -7862,6 +7920,36 @@
       "duration_ms": 312000,
       "name": "Makolo ciseaux",
       "url": "https://open.spotify.com/track/63BjoV3FxQbEghnVRe6EiX"
+    },
+    {
+      "album": {
+        "name": "Mal \u00e0 la T\u00eate",
+        "url": "https://open.spotify.com/album/1btc2RvWA1P5QJKzXqamzw"
+      },
+      "artists": [
+        {
+          "name": "Djam Kiss",
+          "url": "https://open.spotify.com/artist/4ungVpsw5EUg1i8zkTeBbg"
+        },
+        {
+          "name": "legendd",
+          "url": "https://open.spotify.com/artist/5oRgbCAcNlFXrysiF5Xr2V"
+        },
+        {
+          "name": "RHALPH",
+          "url": "https://open.spotify.com/artist/7qC5aoyDr6RevZ1dE2czkc"
+        },
+        {
+          "name": "Billy D",
+          "url": "https://open.spotify.com/artist/5WChH0Z5K7EQbDsLmAHie0"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197860,
+      "name": "Mal \u00e0 la T\u00eate",
+      "url": "https://open.spotify.com/track/7HmolFL9dtWw9UqRZJFSmN"
     },
     {
       "album": {
@@ -10936,7 +11024,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 177276,
       "name": "Petit \u00e0 Petit",
       "url": "https://open.spotify.com/track/24Eg4AIHzKntUr89tXWNw5"
@@ -12498,7 +12586,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 157800,
       "name": "Technique (feat. Gaz Mawete)",
       "url": "https://open.spotify.com/track/0HBGEZBlXljDGIvV36jC16"

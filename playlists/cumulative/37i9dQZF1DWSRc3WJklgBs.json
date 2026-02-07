@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 144646,
       "name": "All In",
       "url": "https://open.spotify.com/track/6TJW1HmoAU2OPNcL8M0PUM"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 195622,
       "name": "Always (Me & You)",
       "url": "https://open.spotify.com/track/498XIPs5nuCIwS2r7uQ1Vw"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 228800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/7rtHLNRdgRRJdvaMZTdVFn"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 139836,
       "name": "Before I Let You Go (feat. MarcLo)",
       "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 239717,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC"
@@ -4160,7 +4160,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 225000,
       "name": "bring your love (to the light)",
       "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 207665,
       "name": "Carry Me Through",
       "url": "https://open.spotify.com/track/4nxcPHATXFnWWsurlkB91u"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163666,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
@@ -5668,6 +5668,28 @@
       "duration_ms": 236332,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
+    },
+    {
+      "album": {
+        "name": "Come Find Me (with Clementine Douglas)",
+        "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207149,
+      "name": "Come Find Me (with Clementine Douglas)",
+      "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
     },
     {
       "album": {
@@ -6544,7 +6566,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 148333,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/22oIJRdQwzREbrnrOOqC6F"
@@ -7124,7 +7146,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 166092,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ"
@@ -8226,7 +8248,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140625,
       "name": "Everywhere (I wanna be with you)",
       "url": "https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq"
@@ -8580,7 +8602,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 167538,
       "name": "Favorite Sound",
       "url": "https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm"
@@ -8896,7 +8918,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 190070,
       "name": "Feel Your Love (Rapture)",
       "url": "https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV"
@@ -9360,6 +9382,32 @@
       "duration_ms": 183738,
       "name": "find u",
       "url": "https://open.spotify.com/track/3S24yNjzf4iGLk5GNOQl1V"
+    },
+    {
+      "album": {
+        "name": "Finding Me",
+        "url": "https://open.spotify.com/album/0RkdQubWZa66rC7NagfVhO"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Aurosonic",
+          "url": "https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1"
+        },
+        {
+          "name": "Zara Taylor",
+          "url": "https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Finding Me",
+      "url": "https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf"
     },
     {
       "album": {
@@ -10094,7 +10142,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 196756,
       "name": "Free",
       "url": "https://open.spotify.com/track/2EVfXWxhsdR4izZEhfJNRq"
@@ -11860,7 +11908,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 211771,
       "name": "Here By Now (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ"
@@ -12040,7 +12088,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
@@ -12566,7 +12614,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 168454,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/2X3MLtAHDPfwYyg6wfSaiY"
@@ -12642,7 +12690,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 265960,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
@@ -13256,7 +13304,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 155343,
       "name": "I CAN\u2019T LOSE YOU",
       "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
@@ -13588,6 +13636,28 @@
       "duration_ms": 182421,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/11xY5dCeBsU1reDOfJdwjq"
+    },
+    {
+      "album": {
+        "name": "I had a dream...",
+        "url": "https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159545,
+      "name": "I had a dream...",
+      "url": "https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC"
     },
     {
       "album": {
@@ -16128,7 +16198,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 147531,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO"
@@ -16640,7 +16710,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
@@ -16732,7 +16802,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163750,
       "name": "Like Sunshine",
       "url": "https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa"
@@ -17400,7 +17470,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 136695,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/0aHUTp6y31Fr6F7p99edHp"
@@ -17664,7 +17734,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162001,
       "name": "Love In Vain",
       "url": "https://open.spotify.com/track/2bpKSgqqJoRfkfbVPUPjtg"
@@ -19296,7 +19366,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188571,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8"
@@ -20172,7 +20242,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 172826,
       "name": "Never Been Yours",
       "url": "https://open.spotify.com/track/4Xr4BnUzc6jBQJJGngZrur"
@@ -21972,7 +22042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 131294,
       "name": "palm of my hands",
       "url": "https://open.spotify.com/track/6y5HLopYu7Uu0hYwVBj4T6"
@@ -21994,7 +22064,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 173274,
       "name": "Panic",
       "url": "https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W"
@@ -22634,6 +22704,24 @@
       "duration_ms": 139911,
       "name": "R U DOWN?",
       "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
     },
     {
       "album": {
@@ -26982,7 +27070,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213461,
       "name": "Surrender To You",
       "url": "https://open.spotify.com/track/6npNJi27oaklmOsdWEOKWh"
@@ -28587,6 +28675,28 @@
     },
     {
       "album": {
+        "name": "This Is Our Life",
+        "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268560,
+      "name": "This Is Our Life",
+      "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
+    },
+    {
+      "album": {
         "name": "This Letter",
         "url": "https://open.spotify.com/album/6svyVQYxC0aMjsxEuI042c"
       },
@@ -29620,7 +29730,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
@@ -31590,7 +31700,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 236250,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
@@ -31828,7 +31938,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 171547,
       "name": "Will You Be There",
       "url": "https://open.spotify.com/track/2A2gax6c7FmxhERVEDipsY"
@@ -32558,7 +32668,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 163809,
       "name": "You",
       "url": "https://open.spotify.com/track/0J2CLBNjk7lSiVBatKtj02"

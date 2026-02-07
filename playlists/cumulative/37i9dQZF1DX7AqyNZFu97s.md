@@ -4,7 +4,7 @@
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Nori
 
-3,499 songs - 7 day 16 hr 23 min
+3,501 songs - 7 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [5:30](https://open.spotify.com/track/1YKAEG0nKfqlx0zvfFSgw4) | [Saasil on earth](https://open.spotify.com/artist/3yrge5NGefW1KiHlAXHnFi) | [5:30](https://open.spotify.com/album/4BvNjlmNSZdmmr0TaEqgLl) | 3:34 | 2024-10-22 | 2024-11-20 |
 | [5AM](https://open.spotify.com/track/4QuM7r5ZMjKDNykAqFmqBj) | [Tizzy](https://open.spotify.com/artist/5dNJd5adjqccYseJtv8wZ9) | [5AM](https://open.spotify.com/album/2Q1PBswyOhjeFBldihXmNG) | 2:29 | 2024-04-03 | 2024-05-01 |
 | [5am in tokyo](https://open.spotify.com/track/6QUvXswOZGneJSqGnKSJCe) | [EisSensei](https://open.spotify.com/artist/0lqPzBiBl8qHqlxiGCZ9tc) | [5am in tokyo](https://open.spotify.com/album/58DWiLjrwpJLDOh7cgeRLs) | 3:48 | 2022-01-05 | 2022-02-10 |
+| [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-06 |  |
 | [6AM](https://open.spotify.com/track/4fOi6nj43ew8n8PXsHY8Yt) | [Maya Law](https://open.spotify.com/artist/0Q6WpoERCZSlOanipDVEI6) | [6AM](https://open.spotify.com/album/7uMxOYu5sBvapPzpnR79fw) | 3:04 | 2023-08-15 | 2023-09-20 |
 | [6AM](https://open.spotify.com/track/6w8go5UQfyMfMZBvlZX8Ex) | [Zim$inatra](https://open.spotify.com/artist/7sHBVOdOpDJrPGz0So3FlP) | [6AM](https://open.spotify.com/album/3MwxJomVqSgSFbm6Yd7A2i) | 3:23 | 2025-09-09 | 2025-10-16 |
 | [7 Days](https://open.spotify.com/track/5NPy5gGxpZ1uZcV1kQjHbj) | [Off Kourt](https://open.spotify.com/artist/7EdQfansBxEWdVbapZH8yt), [DLNY](https://open.spotify.com/artist/0zPSjfxqQe4VgznWQ2pft5) | [7 Days](https://open.spotify.com/album/3FxS5zKEsZD7Js7N0gfIAr) | 2:57 | 2023-09-26 | 2023-10-25 |
@@ -1474,6 +1475,7 @@
 | [i don't like u](https://open.spotify.com/track/5UMHVt7jQ0LfoWGO01fywI) | [Milky Sad](https://open.spotify.com/artist/4k6PM95PG6LCnlWF79mjir) | [i don't like u](https://open.spotify.com/album/61Z84MIlImUOJuKW8iCyv2) | 2:09 | 2022-01-05 | 2022-02-10 |
 | [I Don't Mind](https://open.spotify.com/track/0ZFuLskn5AxXAZcXtEjeiu) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [I Don't Mind](https://open.spotify.com/album/4nHvnp3O8NqCzSR4JRAnIC) | 2:29 | 2025-09-23 | 2025-10-22 |
 | [I Don't Recognise You](https://open.spotify.com/track/4p5vroFxS2ipDZ5y1L83mR) | [Ben Murphy](https://open.spotify.com/artist/3I5XPVXJ2zdVP5X1wTnWs3) | [I Don't Recognise You](https://open.spotify.com/album/0JC8DoigKR5HS6JHIycMuk) | 4:30 | 2024-09-03 | 2024-10-09 |
+| [I don't recognise you anymore](https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [I don't recognise you anymore](https://open.spotify.com/album/5WutVmK4nqhhoE3Gjs47qO) | 3:12 | 2026-02-06 |  |
 | [I DON'T WANNA FISH](https://open.spotify.com/track/1uczFpoWLv0Xsh33V4DxSf) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [I DON'T WANNA FISH](https://open.spotify.com/album/1MokIHVCmfWzWzYkFfzCIg) | 2:38 | 2025-05-20 | 2026-01-21 |
 | [i don't wanna grow up](https://open.spotify.com/track/3XmEEHJ0OL7EGyJCKIz13e) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [i don't wanna grow up](https://open.spotify.com/album/35eU4reGkkeZpqFc2iA1mu) | 2:55 | 2024-10-15 | 2024-11-20 |
 | [I don't wanna know](https://open.spotify.com/track/3luyIFDRgdK9bGl4Wcupf7) | [Paris Iliffe](https://open.spotify.com/artist/15ssa1XqQX2norruhMB6to) | [I don't wanna know](https://open.spotify.com/album/0OvCz2r426y0bcztKOxCiT) | 3:13 | 2024-11-13 | 2024-12-05 |

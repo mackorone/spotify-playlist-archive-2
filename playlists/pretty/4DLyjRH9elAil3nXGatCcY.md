@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,569 likes - 543 songs - 1 day 11 hr 35 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,570 likes - 543 songs - 1 day 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 160 | [Undead Man Walkin'](https://open.spotify.com/track/6XkUp04YMDzcFpOs3aP97j) | [Chris Christodoulou](https://open.spotify.com/artist/63OPPk7uHFdcpTuOFYpNfV), [Thanasi Moustogiannis](https://open.spotify.com/artist/6Qr78Y1AF5FEaWjUURwa1n), [Christos Spirakis](https://open.spotify.com/artist/0TOz0Osk0sg7XT7Msk352e) | [Deadbolt](https://open.spotify.com/album/2JF8JBJSIB9zm5iOjrTKwY) | 4:40 |
 | 161 | [Worries](https://open.spotify.com/track/0hZmjNpSBBz14mFxTGPI71) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/0mApdYiWQEbDFAdnWUUm79) | 7:48 |
 | 162 | [Under The Moon](https://open.spotify.com/track/2IN5IspnDC534fzg16WtWF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:27 |
-| 163 | [Tweakin' Together](https://open.spotify.com/track/3C3EgEWoRBaqMcypCvQvAq) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Love Santana](https://open.spotify.com/album/2eaG5FbbqviYaeftzCEggi) | 2:06 |
+| 163 | [Tweakin' Together](https://open.spotify.com/track/3C3EgEWoRBaqMcypCvQvAq) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Love Santana](https://open.spotify.com/album/2eaG5FbbqviYaeftzCEggi) | 2:06 |
 | 164 | [God Is Perfect](https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 3:59 |
 | 165 | [Where Did I Go?](https://open.spotify.com/track/79OKfIXCPbNhZa3h1ZREag) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:11 |
 | 166 | [Photosynthesis](https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 3:21 |

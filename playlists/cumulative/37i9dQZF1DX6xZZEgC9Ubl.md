@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-966 songs - 1 day 19 hr 46 min
+967 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [fast life](https://open.spotify.com/track/1Nvwf85oHWAtYztjqy573y) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [fast life](https://open.spotify.com/album/0G8riNvPKOtCMzjMyLZDvr) | 2:27 | 2022-01-14 | 2022-07-29 |
 | [Faygo Dreams](https://open.spotify.com/track/2BoeDIEzoS9diuyaqqVaDh) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [6 Dogs](https://open.spotify.com/album/7MoQNK5aaepVd9ERN1bytY) | 2:51 | 2021-02-22 | 2021-03-06 |
 | [Feather](https://open.spotify.com/track/3TBKXtDKPVlL9dN6Am297J) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Feather](https://open.spotify.com/album/6BKwFWO9V8PJtyaxohWPt3) | 3:31 | 2021-01-15 | 2021-04-24 |
+| [features](https://open.spotify.com/track/7GIPYRB6nhApPQwh8nUrXl) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [features](https://open.spotify.com/album/1IaG6H6K5wrBN8bZ2JB8VV) | 1:43 | 2026-02-06 |  |
 | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 | 2022-07-29 |  |
 | [FEEL SOMETHING \(feat\. Marshmello\)](https://open.spotify.com/track/1yP6g2Ka4CisR3i2cuIcjK) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:19 | 2020-12-13\* | 2023-01-22 |
 | [FEEL SOMETHING \(feat\. Marshmello\)](https://open.spotify.com/track/7uIgmq5lixaNDaYcUDSsC3) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:19 | 2022-10-07 | 2023-04-26 |
@@ -337,7 +338,7 @@
 | [Hardest](https://open.spotify.com/track/5AsDAY2F88iur4JNHxh1wv) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Hardest](https://open.spotify.com/album/57nbtZemUbs5rHgY7ug9mm) | 2:53 | 2021-02-28 | 2021-03-26 |
 | [Harley Quinn](https://open.spotify.com/track/4TIDCqtV4329Pf8UcPccd2) | [ilyaugust](https://open.spotify.com/artist/1LtlO7x7J1OCaUVKRBub5v) | [Harley Quinn](https://open.spotify.com/album/3XsY6HlE2p4CCYkONE9ckR) | 2:03 | 2021-09-22 | 2022-07-28 |
 | [HARMONY](https://open.spotify.com/track/0pj4T7AzKyVOYmnSnxgdge) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [HARMONY](https://open.spotify.com/album/3EmBIgEc9m3Fm8n2UtS0aj) | 2:36 | 2021-10-08 | 2022-07-27 |
-| [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 | 2020-12-13\* |  |
+| [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 | 2020-12-13\* | 2026-02-07 |
 | [Hate My Life](https://open.spotify.com/track/08qoOpiAcRX5GsdnsrjUUQ) | [Dutch Revz](https://open.spotify.com/artist/50BaYYJWl6yCBd0kowoGf7) | [Hate My Life](https://open.spotify.com/album/41m26UzWKcPTGJqi4rLf6b) | 2:55 | 2021-01-15 | 2021-02-18 |
 | [HATE MYSELF \(FOR HATING MYSELF\)](https://open.spotify.com/track/2dekRZT3mCoPAhDiXHFhRL) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [HATE MYSELF \(FOR HATING MYSELF\)](https://open.spotify.com/album/23qb7s5FL39GS9lyPuxNtc) | 3:09 | 2022-03-25 | 2022-04-19 |
 | [Hate U](https://open.spotify.com/track/10qg46eZ0krwzwPDPYXK3a) | [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [Loser 2](https://open.spotify.com/album/6ldgPZRBH2hqb45IL8xHJL) | 2:22 | 2021-03-17 | 2021-03-26 |

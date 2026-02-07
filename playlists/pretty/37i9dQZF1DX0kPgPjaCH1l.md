@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  Priesst
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,511 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,581 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 72 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
 | 73 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 |
 | 74 | [Sanity](https://open.spotify.com/track/1GANaghGjua91HxOMAogD1) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Sanity](https://open.spotify.com/album/76pQzIESUzjYRDpxQHTbDm) | 3:28 |
-| 75 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
-| 76 | [Dis Year](https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Dis Year](https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk) | 2:35 |
+| 75 | [Dis Year](https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Dis Year](https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk) | 2:35 |
+| 76 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 |
 | 77 | [Info \(feat\. DJ Kas\)](https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [DJ Kas](https://open.spotify.com/artist/4L8CheDFALlOzgUygvWblJ) | [SISU](https://open.spotify.com/album/7m080doGEza8nSfpQVihr2) | 2:51 |
-| 78 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
-| 79 | [7 DAYS](https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [STREET ANTHEM / 7 DAYS](https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg) | 2:34 |
-| 80 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 |
+| 78 | [JEJE \(feat\. Leekee, Sularzo, Graceboy & Lyrical Level\)](https://open.spotify.com/track/6WFI1HyK4XJq649jXQLTul) | [BIG VYBZ](https://open.spotify.com/artist/43mhT86yUu3iSmTWL4TYAS), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [leekee](https://open.spotify.com/artist/0KUeHq79N0bmXrGbrvdSNn), [Sularzo](https://open.spotify.com/artist/5KKSvwR7UM5Kuk5nyUy3rz), [Graceboy](https://open.spotify.com/artist/5QHO7eZ24pvnzoMuJXIbed), [Lyrical Level](https://open.spotify.com/artist/44TDnz304C5bYFOmhK8LZ4) | [JEJE \(feat\. Leekee, Sularzo, Graceboy & Lyrical Level\)](https://open.spotify.com/album/3PYXNQHTZustPnUWhmbjbp) | 2:31 |
+| 79 | [Jolly Fellow](https://open.spotify.com/track/39abaX63hZrvJh3ql5cqOB) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Jolly Fellow](https://open.spotify.com/album/77fkD1sTmK1bYwQIhJNqMb) | 2:44 |
+| 80 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 
 Snapshot ID: `AAAAAFZ5nZYWfwDg/s2ZimxW5h5sfcfc`

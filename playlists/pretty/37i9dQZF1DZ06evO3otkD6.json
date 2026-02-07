@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 90076,
+  "num_followers": 90096,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYKMAAAAAABqY5SC4lzGbID4wmraKoqE",
+  "snapshot_id": "aYPdgAAAAAC/73iAbkrhCnmM3vS6d3VT",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Fiestas, Ni Flores - Spotify Single",
-        "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
       "artists": [
         {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 185240,
-      "name": "Ni Fiestas, Ni Flores - Spotify Single",
-      "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
     },
     {
       "added_at": null,
@@ -755,22 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+        "name": "Ni Fiestas, Ni Flores - Spotify Single",
+        "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
+      "duration_ms": 185240,
+      "name": "Ni Fiestas, Ni Flores - Spotify Single",
+      "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
     },
     {
       "added_at": null,

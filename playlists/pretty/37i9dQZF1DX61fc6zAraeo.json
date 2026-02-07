@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 106639,
+  "num_followers": 106666,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+        "name": "Stay (Ely Oaks Version)",
+        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
         }
       ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+      "duration_ms": 159246,
+      "name": "Stay - Ely Oaks Version",
+      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -227,22 +227,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Stay (Ely Oaks Version)",
-        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
         }
       ],
-      "duration_ms": 159246,
-      "name": "Stay - Ely Oaks Version",
-      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Endless Dreamers",
+        "url": "https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 236718,
+      "name": "Endless Dreamers",
+      "url": "https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Endless Dreamers",
-        "url": "https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 236718,
-      "name": "Endless Dreamers",
-      "url": "https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167582,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/6G8n70rc0syjnFkn6SFhmk"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
       },
       "artists": [
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         }
       ],
-      "duration_ms": 167582,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1399,22 +1415,6 @@
       "duration_ms": 187285,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Could It Be Love",
-        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Could It Be Love",
-      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "What You Need",
-        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Never Fall Down",
         "url": "https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ"
       },
@@ -1491,6 +1475,42 @@
       "duration_ms": 144570,
       "name": "Never Fall Down",
       "url": "https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Got That",
+        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Got That",
+      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1519,26 +1539,6 @@
       "duration_ms": 140625,
       "name": "World Gone Wild (feat. Sam Martin) - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 219611,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Don't Fall For Me",
-        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
-      },
-      "artists": [
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        },
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "Don't Fall For Me",
-      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Don't Fall For Me",
+        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "Don't Fall For Me",
+      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
     },
     {
       "added_at": "2025-10-30 23:00:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$",
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: charlieonnafriday",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -1372,6 +1372,24 @@
       "duration_ms": 121690,
       "name": "bedroom floor",
       "url": "https://open.spotify.com/track/2Xbvn1LoF0FpsW66SWieyZ"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5AsLdiIcn9IgKtipnQFQEc"
+      },
+      "artists": [
+        {
+          "name": "honestav",
+          "url": "https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146249,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6sWfQZwiUZY4vlsdPm0p8R"
     },
     {
       "album": {
@@ -3834,7 +3852,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 121866,
       "name": "downtown",
       "url": "https://open.spotify.com/track/6Ur4ZVoemg8EI6WT7aHBWk"
@@ -7702,7 +7720,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 184517,
       "name": "Last Shot",
       "url": "https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB"
@@ -9455,6 +9473,24 @@
     },
     {
       "album": {
+        "name": "Never Do",
+        "url": "https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118689,
+      "name": "Never Do",
+      "url": "https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4OCBrFbkWVm1CxNyOduQBO"
       },
@@ -9586,7 +9622,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 133632,
       "name": "NIGHTLIFE",
       "url": "https://open.spotify.com/track/6sP4EXsBMPbQlhuw28eQEq"
@@ -10273,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120944,
+      "name": "Omens",
+      "url": "https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg"
+    },
+    {
+      "album": {
         "name": "on life",
         "url": "https://open.spotify.com/album/1WC5QLxSqWPlau5SJZIudy"
       },
@@ -10490,6 +10544,24 @@
       "duration_ms": 121782,
       "name": "Over & Done",
       "url": "https://open.spotify.com/track/6hEvt7xqyMq5UC3cpInDPc"
+    },
+    {
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/2WgNtU6dlwicoHdwMeDQ5m"
+      },
+      "artists": [
+        {
+          "name": "Anella",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128097,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/3sEib2h2h30wKB0C4gTgn7"
     },
     {
       "album": {
@@ -11242,7 +11314,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 131061,
       "name": "put it on me",
       "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
@@ -12924,7 +12996,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 176236,
       "name": "Still Got Love 4 U",
       "url": "https://open.spotify.com/track/1Ujhcw9pgAXenzex9P84n2"
@@ -14652,6 +14724,24 @@
       "duration_ms": 167088,
       "name": "used to",
       "url": "https://open.spotify.com/track/7uoVZumpiY5md0zudUujPU"
+    },
+    {
+      "album": {
+        "name": "VENUS & SERENA",
+        "url": "https://open.spotify.com/album/1Et2QznKpIxcgMPBm7YxnO"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166010,
+      "name": "VENUS & SERENA",
+      "url": "https://open.spotify.com/track/3qoYryTUWLwuhEP0MQfTht"
     },
     {
       "album": {

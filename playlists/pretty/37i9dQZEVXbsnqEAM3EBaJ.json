@@ -6,10 +6,106 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aXwesAAAAABONzgLb2LNQQBWMbqbhHe6",
+  "snapshot_id": "aYVZMAAAAABC3SDRcC+sG58eLJ6SP2o4",
   "tracks": [
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "My Earth Guide",
+        "url": "https://open.spotify.com/album/3YG1cFWQ8XROvX83v19gUG"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 182049,
+      "name": "My Earth Guide",
+      "url": "https://open.spotify.com/track/1oXlZn9xxy5cgFboQaGXqy"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "No End",
+        "url": "https://open.spotify.com/album/5xPpOOXhOPknBhtolacnki"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 68560,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/1DZwTo9w7OJ677WKeDlbPE"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "Armada - An Orchestral Voyage",
+        "url": "https://open.spotify.com/album/2eHfRzQJWKguLwjVTKiHHA"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 246766,
+      "name": "Magic of the Night - Orchestral Version",
+      "url": "https://open.spotify.com/track/1CXP4Vy6j2zMFFGpymBl2E"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "FADE",
+        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Satisfaction Skank (High Contrast Remix)",
         "url": "https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb"
@@ -33,95 +129,7 @@
       "url": "https://open.spotify.com/track/61Z0yfhBej1doIseuLpo2d"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Mama Kin (2024 Mix)",
-        "url": "https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 275435,
-      "name": "Mama Kin - 2024 Mix",
-      "url": "https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Streets of Minneapolis",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Shadows of the End",
-        "url": "https://open.spotify.com/album/3RxStdCrcho5WIiDZU5SNj"
-      },
-      "artists": [
-        {
-          "name": "Harmony My Strength",
-          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
-        },
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 64610,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/1nhKv7hjXzNBmraZNfWhLe"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/0I32UEEK6d7siI5VGDN82G"
-      },
-      "artists": [
-        {
-          "name": "Cole Rolland",
-          "url": "https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
-        }
-      ],
-      "duration_ms": 224291,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4slORGAF6oIF5yom2sERgO"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
-      "album": {
-        "name": "Minnesota Nazis",
-        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 219616,
-      "name": "Minnesota Nazis",
-      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
-    },
-    {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Megadeth",
         "url": "https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq"
@@ -137,7 +145,7 @@
       "url": "https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "JANE DOE (from \"Chainsaw Man\") [Spanish Version]",
         "url": "https://open.spotify.com/album/3WfRtbyKdiJ4fiU4UXvxaW"
@@ -157,7 +165,7 @@
       "url": "https://open.spotify.com/track/5LIJ14j7IDOcnSRk8lYdgW"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Set The Dark On Fire",
         "url": "https://open.spotify.com/album/19rLunxMgSHBPOs2ydLZut"
@@ -173,7 +181,23 @@
       "url": "https://open.spotify.com/track/19KU4MnUg3X2DEDTuwgxUV"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "Mama Kin (2024 Mix)",
+        "url": "https://open.spotify.com/album/4tBXcje3f1YqjPIxq0yDfy"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 275435,
+      "name": "Mama Kin - 2024 Mix",
+      "url": "https://open.spotify.com/track/6wFfvDWhdlrFjBchs1iidh"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
@@ -189,7 +213,7 @@
       "url": "https://open.spotify.com/track/5APFyddMz5a4EGXvtEQVAc"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Ki Chororo",
         "url": "https://open.spotify.com/album/1gbEmEIUZTR9teDGCuD0JQ"
@@ -209,7 +233,23 @@
       "url": "https://open.spotify.com/track/0C97btEEwC56pQYBU5U8GG"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "Streets of Minneapolis",
+        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 275831,
+      "name": "Streets of Minneapolis",
+      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Sweet Palm Wine",
         "url": "https://open.spotify.com/album/2h3Qyy2nF36atsBcrPbcYB"
@@ -229,7 +269,7 @@
       "url": "https://open.spotify.com/track/7cKn7oqphz5lz4kGz3kMbq"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Hagamos Que",
         "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
@@ -245,7 +285,27 @@
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/0I32UEEK6d7siI5VGDN82G"
+      },
+      "artists": [
+        {
+          "name": "Cole Rolland",
+          "url": "https://open.spotify.com/artist/2TV1zBJZ3hQaJpTt46DBIc"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 224291,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4slORGAF6oIF5yom2sERgO"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Charlie The Wonderdog (Original Songs from the Motion Picture)",
         "url": "https://open.spotify.com/album/377uHBrhHsJU4XsGagTrs3"
@@ -261,7 +321,7 @@
       "url": "https://open.spotify.com/track/1Ur3VwP8QqqDpA5fHQREPd"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/0mXlX2CMj27TPRz10v556x"
@@ -289,7 +349,7 @@
       "url": "https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Into Oblivion",
         "url": "https://open.spotify.com/album/5SVfHoZLhj58lAJzl2iD9g"
@@ -305,7 +365,7 @@
       "url": "https://open.spotify.com/track/0bUxpdWMazVZv1f7TSNSCW"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "THE SPELL",
         "url": "https://open.spotify.com/album/7l95yd85Ob7Gu9yfQNSpqF"
@@ -325,7 +385,23 @@
       "url": "https://open.spotify.com/track/7CWUdG7KSYBjkEgV4HcC6t"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
+      "album": {
+        "name": "Minnesota Nazis",
+        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Minnesota Nazis",
+      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
+    },
+    {
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
@@ -345,7 +421,7 @@
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
-      "added_at": "2026-01-30 03:00:00",
+      "added_at": "2026-02-06 03:00:00",
       "album": {
         "name": "CAMPILATION",
         "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"

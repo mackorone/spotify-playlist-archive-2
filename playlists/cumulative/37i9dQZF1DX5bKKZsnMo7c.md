@@ -2,7 +2,7 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Lady Gaga and Chappell Roan
+> Feeling dramatic? All eyes on you\. Cover: MEEK
 
 545 songs - 1 day 5 hr 38 min
 
@@ -20,7 +20,7 @@
 | [A Can Of Worms](https://open.spotify.com/track/26SjJ9wLMF5fzvJQark2M5) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Can Of Worms](https://open.spotify.com/album/0yfBTLhr4uZtrQccVhVEGg) | 3:38 | 2025-07-25 | 2025-08-16 |
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-05-05 | 2024-01-23 |
 | [Above the Neck](https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Above the Neck](https://open.spotify.com/album/6BWdPb06mk9wATgUUaUDrf) | 3:45 | 2025-12-05 |  |
-| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2026-02-02 |  |
+| [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2026-02-02 | 2026-02-07 |
 | [Afraid of Quiet](https://open.spotify.com/track/2hETlIC41ua0yYcPyE5WLI) | [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ), [Ben Tomalin](https://open.spotify.com/artist/19kzH2dKYDamaNJ1e0OO4X) | [Afraid of Quiet](https://open.spotify.com/album/44ozYQu5laX3TgKDDTalpc) | 3:03 | 2024-05-29 | 2024-08-10 |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-01-27 |
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
@@ -223,7 +223,7 @@
 | [Hater](https://open.spotify.com/track/3ZDWkcuyJOOZZJgZAAyTId) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Hater](https://open.spotify.com/album/7AaZZ5PezxbMCHrsN8Ic2x) | 2:46 | 2024-08-23 | 2024-10-05 |
 | [Haunted Hotel](https://open.spotify.com/track/3hU8MzXKeThkB9IPKR7iIr) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Haunted Hotel](https://open.spotify.com/album/7J6LFUuNIeajdBgAoA55U9) | 2:01 | 2024-06-14 | 2024-11-16 |
 | [He Asked for It](https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [He Asked for It](https://open.spotify.com/album/3L2pyTDUV3Ks9fe26iFcTN) | 2:51 | 2025-09-12 | 2025-11-29 |
-| [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 | 2025-06-21 |
+| [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 |  |
 | [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-01-10 |  |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-02-25 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-31 | 2022-11-30 |
@@ -522,7 +522,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-14 | 2024-05-28 |
 | [Vanilla Curls](https://open.spotify.com/track/3KaWB1Kdl93PWaXT8mDRpD) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:50 | 2022-05-17 | 2022-08-06 |
 | [Velcro](https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr) | [Elio Mei](https://open.spotify.com/artist/7AKr8dsSDwwcoB8T5AcG4q) | [A Thousand Songs About It All: Act 1](https://open.spotify.com/album/10zjvlSmwTfjc491s3eVUQ) | 1:53 | 2025-09-12 |  |
-| [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 |  |
+| [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2026-02-07 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-10-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2a5iijmK8wnmiwxiqsn8QL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pop Favourites](https://open.spotify.com/album/0loQ9cO8DNmHEH8SgeWkT8) | 3:26 | 2022-10-21 | 2022-11-13 |
 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 | 2022-09-16 | 2022-11-26 |
@@ -551,7 +551,7 @@
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-13 | 2025-09-13 |
 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 | 2022-05-17 | 2022-12-10 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 | 2025-12-13 |
-| [You Will Be Okay](https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [You Will Be Okay](https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7) | 2:02 | 2025-07-25 |  |
+| [You Will Be Okay](https://open.spotify.com/track/4SMfF40pPXUfLWfYEbjcFm) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Bryce Pinkham](https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [You Will Be Okay](https://open.spotify.com/album/45llw4hD8YVsJCxPsRqkV7) | 2:02 | 2025-07-25 | 2026-02-07 |
 | [ムダな君](https://open.spotify.com/track/3sIMrO5vLFloQSGzKSLqG9) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [ムダな君](https://open.spotify.com/album/6pc0CTguorvrE7kG3P404t) | 1:30 | 2022-06-14 | 2022-06-25 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

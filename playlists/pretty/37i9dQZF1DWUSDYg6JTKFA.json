@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 211551,
+  "num_followers": 211558,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "God Is With Us",
         "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226777,
       "name": "God Is With Us",
       "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -327,6 +327,26 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Benjamin William Hastings",
+        "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "That's The Thing About Praise",
+      "url": "https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
         "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Benjamin William Hastings",
-        "url": "https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "That's The Thing About Praise",
-      "url": "https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Holding Onto You",
-        "url": "https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Holding Onto You",
-      "url": "https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "Holding Onto You",
+        "url": "https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Holding Onto You",
+      "url": "https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Just Hold On",
+        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Church Volume One (Live)",
         "url": "https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Just Hold On",
-        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Just Hold On",
-      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
         "name": "Heaven Fall",
         "url": "https://open.spotify.com/album/494FAzAd3jByuqPKkfEoBe"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "One Heart at a Time",
         "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
+        "name": "The Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 259010,
+      "name": "The Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1447,22 +1463,6 @@
       "duration_ms": 192362,
       "name": "Biggest, Greatest Thing",
       "url": "https://open.spotify.com/track/3OcPyu9YnmsqM6Aq1vWrV8"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "The Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 259010,
-      "name": "The Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "A New Reality (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 288986,
       "name": "Hope Has a Name",
       "url": "https://open.spotify.com/track/6qzEwrOf3GGrqH7ijrxLli"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "A New Reality (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        },
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi"
     },
     {
       "added_at": "2025-12-13 23:46:05",

@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-457 songs - 1 day 2 hr 17 min
+458 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-12-17 | 2024-08-17 |
 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 | 2021-12-17 | 2022-04-16 |
 | [Don't You Want Me \- For Nest Audio Sessions](https://open.spotify.com/track/78Yt3QRgEwjsFM4gKMyVmS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Nest Christmas Number Ones](https://open.spotify.com/album/4mAjOyb5pNAQOUEtsrs09M) | 2:59 | 2021-12-17 | 2022-04-16 |
+| [Don’t Dream It’s Over \- From The Movie “GOAT”](https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don’t Dream It’s Over \(From The Movie “GOAT”\)](https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf) | 3:13 | 2026-02-06 |  |
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2022-04-15 |
 | [Dreams \- Ocean Spray Edit](https://open.spotify.com/track/6E4U4u9zG7mnyAZB8IHbMv) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Dreams \(Ocean Spray Edit\)](https://open.spotify.com/album/7w2Yo4PmJ0N9uzpFiKKCEB) | 3:54 | 2021-12-17 | 2022-04-16 |
 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 | 2021-12-17 |  |
@@ -165,7 +166,7 @@
 | [Fields Of Gold](https://open.spotify.com/track/4oXlgp2uT03EKeBf0Jl0VA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Songbook For Christmas](https://open.spotify.com/album/4SYLAjm7ilcIHfMuyBueb8) | 3:44 | 2023-12-01 |  |
 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 | 2021-12-17 | 2022-05-02 |
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-02-18 | 2023-10-17 |
-| [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-02-17 |  |
+| [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-02-17 | 2026-02-07 |
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
 | [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |

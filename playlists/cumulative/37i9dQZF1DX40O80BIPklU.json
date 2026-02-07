@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Ana Tijoux y Dj Dacel en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Delinquent Habits y Sick Jacken en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -230,6 +230,32 @@
       "duration_ms": 255339,
       "name": "3 RAP",
       "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "album": {
+        "name": "41St Side Tales",
+        "url": "https://open.spotify.com/album/4pcTUNLwNxV0GSoR2VvFnp"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Pee",
+          "url": "https://open.spotify.com/artist/0fIVHIhpzTYjwmnSSEHpJV"
+        },
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "PNO",
+          "url": "https://open.spotify.com/artist/6WvzfmDzyF1baKzCps2Odf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "41St Side Tales",
+      "url": "https://open.spotify.com/track/3M8RjkiwYHN9zXQDPhu2C5"
     },
     {
       "album": {
@@ -1132,7 +1158,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 209550,
       "name": "Amor y Locura",
       "url": "https://open.spotify.com/track/78IK0iQlCHk2O8d77VOsBQ"
@@ -6813,6 +6839,28 @@
     },
     {
       "album": {
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/4wy1yPWud0KRdupieQJUrs"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        },
+        {
+          "name": "Sick Jacken",
+          "url": "https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "LA Piazza",
+      "url": "https://open.spotify.com/track/6uzzVffK9LsyST2qAo9zMs"
+    },
+    {
+      "album": {
         "name": "La Jaula De Los Vivos",
         "url": "https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o"
       },
@@ -7678,7 +7726,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213852,
       "name": "Los M\u00e1s Odiados",
       "url": "https://open.spotify.com/track/2SaGuh1LZ7qIxZE8h7SXwx"
@@ -8094,7 +8142,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 327733,
       "name": "MAYONBISNE",
       "url": "https://open.spotify.com/track/5iyCKxkUvM4dFMrmU616sx"
@@ -10698,7 +10746,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 254769,
       "name": "Puro Bandido",
       "url": "https://open.spotify.com/track/2hO1iNz6UGwCa8E6dvh1vL"
@@ -10776,6 +10824,28 @@
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
+    },
+    {
+      "album": {
+        "name": "Quien dijo que no se puede",
+        "url": "https://open.spotify.com/album/6wAs9t3esA38eqrT4O92Un"
+      },
+      "artists": [
+        {
+          "name": "AFTER",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121143,
+      "name": "Quien dijo que no se puede",
+      "url": "https://open.spotify.com/track/4RhSst0ZdmFz4fCp26BZ7f"
     },
     {
       "album": {
@@ -12428,6 +12498,24 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
+    },
+    {
+      "album": {
+        "name": "Sustancias",
+        "url": "https://open.spotify.com/album/5N3XpMgeyjfTB1mMylH8Pq"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Sustancias",
+      "url": "https://open.spotify.com/track/5AwmjqMMYU46Esqe72NBwH"
     },
     {
       "album": {

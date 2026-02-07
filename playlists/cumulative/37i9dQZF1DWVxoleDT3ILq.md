@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Rubio
 
-556 songs - 1 day 9 hr 15 min
+557 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Florecer](https://open.spotify.com/track/0A4Pb1cTIgmrUXqa7NAP6T) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Neumonía](https://open.spotify.com/album/6bfxoGyVo5qBha9GDVz71J) | 3:02 | 2024-04-12 | 2024-04-19 |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 | 2024-08-24 |
 | [Frankies](https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Purista](https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM) | 4:01 | 2024-07-12 | 2024-12-07 |
+| [Frenesí](https://open.spotify.com/track/25I4P1pMfCBPKkOvINrxii) | [Chico De Neón](https://open.spotify.com/artist/4vllv4d7oHuS7Nhert1cf2) | [En El Corazón Del Bar](https://open.spotify.com/album/14lNnsVSD4WbU3B4yWY32r) | 2:31 | 2026-02-06 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 | 2024-06-08 |
 | [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 | 2024-03-08 |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
@@ -258,7 +259,7 @@
 | [La Sombra del Olvido](https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [La Sombra del Olvido](https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F) | 2:51 | 2022-12-16 | 2024-06-29 |
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-04-15 | 2025-05-31 |
 | [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 | 2024-08-31 |
-| [Las cosas van a salir bien](https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Las cosas van a salir bien](https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM) | 3:33 | 2025-07-25 |  |
+| [Las cosas van a salir bien](https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Las cosas van a salir bien](https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM) | 3:33 | 2025-07-25 | 2026-02-07 |
 | [Las Piedras](https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Las Piedras](https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK) | 4:01 | 2022-11-11 | 2024-04-20 |
 | [Las Vueltas](https://open.spotify.com/track/3aHRr27wUblng7kDc8CQGk) | [Fonosida](https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX) | [Las Vueltas](https://open.spotify.com/album/3Uc11awXVTbtwD2PDM0mLW) | 3:50 | 2022-08-19 | 2023-04-09 |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-08-04 | 2023-08-25 |

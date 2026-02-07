@@ -2607,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Pelas Ruas das Am\u00e9ricas",
+        "url": "https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R"
+      },
+      "artists": [
+        {
+          "name": "Outros B\u00e1rbaros",
+          "url": "https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231303,
+      "name": "Pelas Ruas das Am\u00e9ricas",
+      "url": "https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt"
+    },
+    {
+      "album": {
         "name": "Cisne Negro",
         "url": "https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n"
       },
@@ -3970,7 +3988,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"

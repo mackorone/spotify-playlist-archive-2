@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-254 songs - 21 hr 46 min
+255 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
 | [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2025-11-22 |
 | [Came and Went](https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR) | [Geoffrey Dean](https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE) | [Came and Went](https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j) | 5:35 | 2025-01-31 | 2025-11-08 |
+| [Casual – Lee](https://open.spotify.com/track/1eAdHNRLWded0ioKpyIbgi) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Casual \- Lee](https://open.spotify.com/album/3pyn1EAOOmVzAQbn4ckGbh) | 6:37 | 2026-02-06 |  |
 | [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 | 2024-01-26 |  |
 | [central park west](https://open.spotify.com/track/5jPy6437F28samqS2tJu7n) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 4:28 | 2024-02-20 | 2024-04-19 |
 | [Chalcedon](https://open.spotify.com/track/4SRS9WPIKQ2utUk5ojd4XY) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Alternate Summer](https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C) | 6:16 | 2024-08-23 | 2024-09-13 |
@@ -69,7 +70,7 @@
 | [Dear Don](https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4) | [Christophe Marguet](https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ) | [Happy Hours](https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r) | 6:37 | 2021-12-21 |  |
 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 | 2022-11-17 |  |
 | [Den Grønbenede Rørhøne](https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL) | [Tobias Stavngaard](https://open.spotify.com/artist/0xE90kt9Ep1DwjmFgYCckA), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq), [Aske Drasbæk](https://open.spotify.com/artist/0Hvho6Koqqy0L3x8W1eQpi), [Carl\-Emil Dons Christensen](https://open.spotify.com/artist/27SjjVrhLG67xZPGl5tnfJ), [William Mannerland](https://open.spotify.com/artist/2W3TmmwZ3G8WwbMUQlI3yB), [Nikolaj Bangsgaard](https://open.spotify.com/artist/4uDLtTKpXFUSlKBjGX7B5i) | [Den Grønbenede Rørhøne](https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV) | 5:54 | 2022-02-24 |  |
-| [Diane](https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Stefano Bagnoli](https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S) | [Diane / Estemporaneo](https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA) | 5:29 | 2024-11-22 |  |
+| [Diane](https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Stefano Bagnoli](https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN), [Dino Rubino](https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S) | [Diane / Estemporaneo](https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA) | 5:29 | 2024-11-22 | 2026-02-07 |
 | [Diggin' Around](https://open.spotify.com/track/5B69Su8TPKwAoIhHN2HOVp) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Diggin' Around](https://open.spotify.com/album/4uu9Cya87IEOyHTK8QDtKU) | 5:28 | 2024-09-27 | 2024-11-23 |
 | [Dreamsville](https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Emberlights](https://open.spotify.com/album/0quelIpXHaSLQ86IMJ0WOi) | 4:48 | 2025-01-31 | 2025-06-14 |
 | [Eleanor Rigby \- Bonus Track](https://open.spotify.com/track/52DqyYf6CjROWY5TFkgsPm) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Looking Back \(Expanded Director's Cut\)](https://open.spotify.com/album/3WtR5RyIi8Bba98tqxPX7F) | 6:39 | 2025-11-21 |  |

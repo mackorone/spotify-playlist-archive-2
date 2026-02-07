@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-391 songs - 20 hr 20 min
+396 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Sense of Touch](https://open.spotify.com/track/2hJRROSh3QFGDCMS7CwGxr) | [Bonum Somno](https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt) | [Eyes of Eternity](https://open.spotify.com/album/0miQvlVRcf9uFckcIYVozL) | 3:02 | 2021-12-22 | 2024-08-22 |
 | [A Time To Pause](https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [A Time To Pause](https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE) | 3:34 | 2022-03-09 | 2024-09-06 |
 | [A Warm Embrace](https://open.spotify.com/track/4mO8OvlqhWcF77Z0A4uZ0y) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [A Warm Embrace](https://open.spotify.com/album/3WJXqzpirGE9Bv7obETFHL) | 2:27 | 2025-03-07 | 2025-11-20 |
-| [about a flower](https://open.spotify.com/track/7CYLeiX2QNGzDIt9LMXBvz) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [about a flower](https://open.spotify.com/album/5ji1JFiWgGmvxK8jg2rOvT) | 2:58 | 2024-07-13 |  |
+| [about a flower](https://open.spotify.com/track/7CYLeiX2QNGzDIt9LMXBvz) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [about a flower](https://open.spotify.com/album/5ji1JFiWgGmvxK8jg2rOvT) | 2:58 | 2024-07-13 | 2026-02-07 |
 | [Acceptance](https://open.spotify.com/track/7egyDfTwEhwJgcsPtaq6d4) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Acceptance](https://open.spotify.com/album/0FiFGrauAhAwnW5Qs3Uv8h) | 2:33 | 2025-10-08 |  |
 | [Adhi's Arrival](https://open.spotify.com/track/1Ygsfw4Hbx8hkyIlEg5IQ4) | [Perducci](https://open.spotify.com/artist/0VEXjsf3JyYFipCgZ2P8Fp) | [Adhi's Arrival](https://open.spotify.com/album/5pY3YqcJFsKprVVb2hXdQR) | 3:05 | 2023-02-24 |  |
 | [Aether Window](https://open.spotify.com/track/7i8XxfbKkCXzPg56ZLtHa6) | [Quiet Robot](https://open.spotify.com/artist/4IkRGwvj1TGP4um1ZFyQpc) | [Aether Window](https://open.spotify.com/album/5NQvyi8kh1F57XdSzuJyma) | 2:42 | 2025-02-18 |  |
@@ -102,6 +102,7 @@
 | [Distant Dreams](https://open.spotify.com/track/5QdtZJlec7TLKELoxNXlQA) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Distant Dreams](https://open.spotify.com/album/2z1UhXqkbpP1owcqp3zj5A) | 2:39 | 2025-05-14 |  |
 | [Divination](https://open.spotify.com/track/2ku79WiGbxwbruaVS4dfkV) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Divination](https://open.spotify.com/album/2bJxa5X6vNtE3AZpRJDuEd) | 2:30 | 2025-11-19 |  |
 | [Divine](https://open.spotify.com/track/66wXImRKuhTGpZ69DvZg7B) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Divine](https://open.spotify.com/album/6OrR8pnQUICQns5IRJVPay) | 4:05 | 2022-09-13 | 2023-04-06 |
+| [Dream of the Infinite Sea](https://open.spotify.com/track/3MWCIZ33qHsQAWqwdjy0nA) | [Air of Rumi](https://open.spotify.com/artist/5d15Iwywovzfx5MKlyN01B) | [Dream of the Infinite Sea](https://open.spotify.com/album/5yovjki9uA5jRTuDC7Yn6I) | 3:46 | 2026-02-06 |  |
 | [Dream Vision](https://open.spotify.com/track/6Gq98qETyw5wYA9y0zyyPV) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Dream Vision](https://open.spotify.com/album/3siMOt2YviDaqAubEpPixV) | 2:43 | 2025-01-14 |  |
 | [Dreams Heal](https://open.spotify.com/track/61Sd5YUadsBv0q1QwZ0DYq) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Dreams Heal](https://open.spotify.com/album/1hkbk6voyHzvJHIguKWGLJ) | 3:11 | 2025-01-14 |  |
 | [Dreams of Another](https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Dreams of Another](https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS) | 2:46 | 2025-07-15 |  |
@@ -169,6 +170,7 @@
 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 | 2021-12-22 | 2024-11-23 |
 | [Indigo Evening](https://open.spotify.com/track/6gBPXoHpg9B8fxMJfg4K2S) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Indigo Evening](https://open.spotify.com/album/3WNzH65tlcPGZsrDK9XyZ5) | 3:04 | 2025-07-15 |  |
 | [Indo no kaze](https://open.spotify.com/track/6iNn6uDm8SHrBfl26uwUyv) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Indo no kaze](https://open.spotify.com/album/1HHSnRNU1sAnfA9cI3IIvV) | 3:00 | 2024-05-11 | 2025-11-20 |
+| [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 | 2026-02-06 |  |
 | [Inner Light](https://open.spotify.com/track/3UcFd72FxgwGIx06dkiiQj) | [Dhyana Shanti](https://open.spotify.com/artist/1rvsjGGOVf6ZfpJqFVJdxK) | [Inner Light](https://open.spotify.com/album/20SXPR0toNoObnd2erRMvu) | 3:04 | 2024-05-11 |  |
 | [Inner Sanctuary](https://open.spotify.com/track/2JeWYGes9TZw0kpdbAryUi) | [Emerald Echoes](https://open.spotify.com/artist/5CUinaptB4WfiCrpv5WVpP) | [Inner Sanctuary](https://open.spotify.com/album/56j9lBApRqvFSJXTQdMCex) | 3:12 | 2024-05-11 |  |
 | [Inner Space for Peace](https://open.spotify.com/track/7mkaRgpeYYcimZrMYie43t) | [Celeste](https://open.spotify.com/artist/0q2mtwyZHFIRvwqiWpqSc8) | [Inner Space for Peace](https://open.spotify.com/album/52Gm03JmQ4l0XoIjkiJy2x) | 3:08 | 2024-04-07 | 2025-10-09 |
@@ -177,7 +179,9 @@
 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 | 2024-12-19 |  |
 | [Into The Wild](https://open.spotify.com/track/2p43Bh0htWx0zzluceN4AY) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Into The Wild](https://open.spotify.com/album/6f8novNcKvEeS4kZj3CgLL) | 3:12 | 2022-11-11 | 2024-05-11 |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-13 | 2023-04-14 |
+| [Ions](https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Ions](https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX) | 2:37 | 2026-02-06 |  |
 | [Iris](https://open.spotify.com/track/0Stglwb32v0xOdAC1crESv) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Iris](https://open.spotify.com/album/2nGtymz1xRwSSBhV6s1EoK) | 2:54 | 2024-05-11 |  |
+| [Ishi](https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB) | [Slow Eye Movement](https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ) | [Ishi](https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH) | 2:14 | 2026-02-06 |  |
 | [ISSA](https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ) | [Sufi Pyramid](https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa) | [Issa](https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw) | 2:52 | 2025-02-05 |  |
 | [It’s Never Too Late](https://open.spotify.com/track/5j7Jg9bruInMqk96DOCxjH) | [Lily Valley](https://open.spotify.com/artist/24fmge1nCy1ahvJV09fEN7) | [It’s Never Too Late](https://open.spotify.com/album/0NaMd9PrXKi9QU8Z05Em4v) | 3:00 | 2021-12-22 | 2023-03-31 |
 | [Jerome Dreams](https://open.spotify.com/track/4Gkf9SHCO3PvlLhjOTGU0W) | [Vera Eikon](https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj) | [Jerome Dreams](https://open.spotify.com/album/5IqUyi9v65q2HqrDzO4a19) | 3:09 | 2024-01-30 | 2024-08-22 |
@@ -372,6 +376,7 @@
 | [Transparency](https://open.spotify.com/track/4Ylj5pU5xRcizYMVFzTa0Y) | [Celeste](https://open.spotify.com/artist/0q2mtwyZHFIRvwqiWpqSc8) | [Transparency](https://open.spotify.com/album/3Jyuv00UZBigu9s6iQdrYL) | 2:56 | 2024-05-11 | 2025-11-20 |
 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2021-12-22 | 2025-06-24 |
 | [Triangulated Approval](https://open.spotify.com/track/2EcCTbAbBJiOx5iM9vvb5J) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Triangulated Approval](https://open.spotify.com/album/1tcKuayruuJRBkx105LOUs) | 2:17 | 2021-12-22 | 2025-02-19 |
+| [tribeca](https://open.spotify.com/track/0Cax0UsNfZkWVEPImLDA5H) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [the city that ever sleeps](https://open.spotify.com/album/7deZQgdxXYZzvukmaOTZJ8) | 2:40 | 2026-02-06 |  |
 | [Twilight](https://open.spotify.com/track/00zTtuuRC9TZsBZ6rE71PK) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Twilight](https://open.spotify.com/album/1IrBjyFHiyTNmfDFbltipR) | 3:43 | 2024-07-13 | 2025-02-06 |
 | [Twilight Lover](https://open.spotify.com/track/6fmeTdLdx70sv88kx8zHtB) | [Baba Hall](https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV) | [Twilight Lover](https://open.spotify.com/album/5EfGmnUfB87nXaxhD49TZo) | 2:27 | 2024-07-13 | 2025-11-20 |
 | [Twin](https://open.spotify.com/track/5G37EbDFcbyMY2DTyZx4S7) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Twin](https://open.spotify.com/album/5Kl9Sl5QADt7fwXkj4vNTM) | 2:12 | 2024-03-14 |  |

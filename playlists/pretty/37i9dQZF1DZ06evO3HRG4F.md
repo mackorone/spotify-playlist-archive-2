@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,481 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,483 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 36 | [No Te Mueras en Mi Casa](https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 4:14 |
 | 37 | [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 |
 | 38 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
-| 39 | [Sola](https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:46 |
-| 40 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
+| 39 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
+| 40 | [Sola](https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:46 |
 | 41 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 |
 | 42 | [Déjame Rocanrolearte](https://open.spotify.com/track/6tkAfCWqFkyaZ04ytR0rD1) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 2:59 |
-| 43 | [Pero Apareciste Tú](https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 4:51 |
-| 44 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
+| 43 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
+| 44 | [Pero Apareciste Tú](https://open.spotify.com/track/7u0Y2ZHmWqIs9FBzxFhzz6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 4:51 |
 | 45 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 |
 | 46 | [Yo Con Mi Desmadre](https://open.spotify.com/track/2Y7e5l7lAZr5UihX0jO7jG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 4:49 |
-| 47 | [El Domador](https://open.spotify.com/track/4bH1M9pP9eZlkNs9JbCv3n) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 3:34 |
-| 48 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 |
+| 47 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 |
+| 48 | [El Domador](https://open.spotify.com/track/4bH1M9pP9eZlkNs9JbCv3n) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Ford Monttana 69](https://open.spotify.com/album/7HCQ6BkdaJXCRavfAukoE3) | 3:34 |
 | 49 | [Déjenme Rockanrolear](https://open.spotify.com/track/6U0BtbSWCrqYNAoKwXqprJ) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:26 |
 | 50 | [Historias de Rock & Roll](https://open.spotify.com/track/6hYLlylb5O4YAG9OMnbA0k) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:34 |
 
-Snapshot ID: `aYKMAAAAAADiDUNtdU7bxiCbsZylzsz9`
+Snapshot ID: `aYPdgAAAAADCWAkTSoOMePgm5VuNBwn+`

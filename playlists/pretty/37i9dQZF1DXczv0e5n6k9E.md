@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: HGEMONA$
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,715 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,736 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 11 | [FIDIA](https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [CAPO DEI CAPI \(Deluxe\)](https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50) | 3:04 |
 | 12 | [BOSS](https://open.spotify.com/track/7oPqAlO0jFfC4z6EQusQaL) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [BOSS](https://open.spotify.com/album/7yBViNI3908qk7Rt4XowDj) | 2:36 |
 | 13 | [Non Stop](https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Non Stop](https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL) | 3:19 |
-| 14 | [PROSTIMO](https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [PROSTIMO](https://open.spotify.com/album/3F4zAY9olhJ1Yu8l1932eF) | 2:19 |
+| 14 | [PROSTIMO](https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Corteo](https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd) | [PROSTIMO](https://open.spotify.com/album/3F4zAY9olhJ1Yu8l1932eF) | 2:19 |
 | 15 | [SUPERSTAR](https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [SUPERSTAR](https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE) | 2:02 |
 | 16 | [SEADOO](https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Lami](https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP) | [SEADOO](https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl) | 2:08 |
 | 17 | [UNDERDOGS](https://open.spotify.com/track/46kJk0QCZ5SDiRK5BNnHkT) | [12os Pithikos](https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Rjay](https://open.spotify.com/artist/2CaHe8TG0kJ8gTTodohITQ) | [ZOUGLA](https://open.spotify.com/album/6UDER5XBSxxfPUipBFXKua) | 3:15 |

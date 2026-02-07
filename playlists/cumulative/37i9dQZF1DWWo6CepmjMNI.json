@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: lostbeans",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: pOd",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 190752,
       "name": "Love U Dearly",
       "url": "https://open.spotify.com/track/4dz0eqdlpvW0tP7yXt3FWH"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 240903,
       "name": "Neon",
       "url": "https://open.spotify.com/track/6mxcmQmJanVsmySIlAA4nG"
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Room 4 2",
+        "url": "https://open.spotify.com/album/5QNw2uWZxBzXvLlxtTTecY"
+      },
+      "artists": [
+        {
+          "name": "Jurassic.Pew",
+          "url": "https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Room 4 2",
+      "url": "https://open.spotify.com/track/54rcc6zAgoOKqcyNSMV48l"
+    },
+    {
+      "album": {
         "name": "seasons",
         "url": "https://open.spotify.com/album/0Lw9iNvjJCKGhIOKZXkJnI"
       },
@@ -740,6 +758,24 @@
       "duration_ms": 212727,
       "name": "seasons",
       "url": "https://open.spotify.com/track/2NgoBV97C4ZcGZknUzoCmq"
+    },
+    {
+      "album": {
+        "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+        "url": "https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Calling",
+          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269589,
+      "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+      "url": "https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy"
     },
     {
       "album": {
@@ -1630,7 +1666,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 257726,
       "name": "\u0e04\u0e37\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt"
@@ -2084,6 +2120,24 @@
       "duration_ms": 216991,
       "name": "\u0e15\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08 \u0e41\u0e15\u0e48\u0e01\u0e47\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35",
       "url": "https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e48\u0e32\u0e07\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a (Silent Pact)",
+        "url": "https://open.spotify.com/album/6m0uEmAH9DJf0EBnAdAX66"
+      },
+      "artists": [
+        {
+          "name": "pOd",
+          "url": "https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396600,
+      "name": "\u0e15\u0e48\u0e32\u0e07\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a (Silent Pact)",
+      "url": "https://open.spotify.com/track/7G3SOkMDRIYn1hXi1qqm1d"
     },
     {
       "album": {
@@ -4257,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (My Bad)",
+        "url": "https://open.spotify.com/album/7yZ8sXtYBDPr3fWIaXyYTq"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173078,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (My Bad)",
+      "url": "https://open.spotify.com/track/6096LGSSYcW5I8ogU32uSj"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
         "url": "https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1"
       },
@@ -4960,7 +5032,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 392857,
       "name": "\u0e41\u0e2d\u0e19\u0e42\u0e14\u0e23\u0e40\u0e21\u0e14\u0e32 (Andromeda)",
       "url": "https://open.spotify.com/track/5dNz0aGH8q6C8m5RV2aIgm"

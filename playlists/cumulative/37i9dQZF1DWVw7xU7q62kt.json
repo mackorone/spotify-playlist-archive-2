@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-26",
+      "date_removed": null,
       "duration_ms": 153658,
       "name": "360",
       "url": "https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 144000,
       "name": "all i ever wanted",
       "url": "https://open.spotify.com/track/1k8t0FtCfQ8HH9fprP4w6p"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 138461,
       "name": "Beaujolais",
       "url": "https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 118000,
       "name": "Final Cut",
       "url": "https://open.spotify.com/track/6GR7dWU8WAa4wzrN8gcWma"
@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/6NOxNXCVfAumqR3rkahP69"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97808,
+      "name": "Golden Coast",
+      "url": "https://open.spotify.com/track/0jHBFqEsJbMz3AkiQQvcwU"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7aOpza1Q9jYXeot4AMbEvh"
       },
@@ -5624,7 +5642,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129438,
       "name": "Household",
       "url": "https://open.spotify.com/track/5dRj6Gevj4UKpWkIu0INIe"
@@ -7186,7 +7204,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 105714,
       "name": "Light Mornings",
       "url": "https://open.spotify.com/track/1KwGjgj2KeSv2tNPPgd2WV"
@@ -7574,7 +7592,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 119638,
       "name": "loveseasons",
       "url": "https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr"
@@ -7986,7 +8004,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 110357,
       "name": "mezzanotte",
       "url": "https://open.spotify.com/track/2uYZ9fhtqBZgzBI0Q9IM6D"
@@ -8088,7 +8106,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 129473,
       "name": "Midwinter",
       "url": "https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD"
@@ -8248,7 +8266,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 153207,
       "name": "Missed Calls",
       "url": "https://open.spotify.com/track/0wI4j8xIUq8ql69MokWCE5"
@@ -9802,7 +9820,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 123375,
       "name": "Out of the Shadows",
       "url": "https://open.spotify.com/track/44nl2WJglJunlzTzO1qDsY"

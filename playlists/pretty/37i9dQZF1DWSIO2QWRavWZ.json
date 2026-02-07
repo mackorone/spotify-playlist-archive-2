@@ -1,13 +1,45 @@
 {
-  "description": "New music from your favorite women.  Cover: Bellah",
-  "num_followers": 229614,
+  "description": "New music from your favorite women.  Cover: Kareen Lomax",
+  "num_followers": 229635,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALaXyes9zAK/LbuICk+6SLXoLN6Q",
+  "snapshot_id": "AAAAABe5fQYN46DfF8Xo0KH6rx+TF+7T",
   "tracks": [
+    {
+      "added_at": "2026-02-06 08:03:21",
+      "album": {
+        "name": "ijan",
+        "url": "https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1"
+      },
+      "artists": [
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "somewhere in the world",
+      "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
+    },
+    {
+      "added_at": "2026-02-06 08:03:21",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
+    },
     {
       "added_at": "2026-01-30 05:01:16",
       "album": {
@@ -27,6 +59,22 @@
       "duration_ms": 176020,
       "name": "Typical",
       "url": "https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4"
+    },
+    {
+      "added_at": "2026-02-06 08:03:21",
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223509,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
     },
     {
       "added_at": "2026-01-23 05:42:11",
@@ -61,22 +109,6 @@
       "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
     },
     {
-      "added_at": "2026-01-30 05:01:16",
-      "album": {
-        "name": "tell me what you want",
-        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "tell me what you want",
-      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
-    },
-    {
       "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "Finally Over It (The Afterparty)",
@@ -99,22 +131,6 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/4YctSqQRw3MzQshfk72cej"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-01-23 05:42:11",
@@ -189,6 +205,42 @@
       "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
     },
     {
+      "added_at": "2026-02-06 08:03:21",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "Journey To The Sun (feat. Ariel J.)",
+        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
+      },
+      "artists": [
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        },
+        {
+          "name": "Ariel J.",
+          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
+        }
+      ],
+      "duration_ms": 230644,
+      "name": "Journey To The Sun (feat. Ariel J.)",
+      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
+    },
+    {
       "added_at": "2025-12-19 05:00:40",
       "album": {
         "name": "Chemistry",
@@ -223,26 +275,6 @@
     {
       "added_at": "2026-01-23 05:42:11",
       "album": {
-        "name": "Journey To The Sun (feat. Ariel J.)",
-        "url": "https://open.spotify.com/album/1XQSX1VNJPrSR5UEhmlrL9"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        },
-        {
-          "name": "Ariel J.",
-          "url": "https://open.spotify.com/artist/0KVhKG1INN58I9KaMeW3xa"
-        }
-      ],
-      "duration_ms": 230644,
-      "name": "Journey To The Sun (feat. Ariel J.)",
-      "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
         "name": "Nothing Is Impossible With You",
         "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
@@ -273,20 +305,36 @@
       "url": "https://open.spotify.com/track/6xSNxoqUErZbQ0QvMdbuDJ"
     },
     {
-      "added_at": "2025-12-12 05:00:29",
+      "added_at": "2026-02-06 08:03:21",
       "album": {
-        "name": "The Burnout",
-        "url": "https://open.spotify.com/album/3d1OX2PYnY8npzYm7Y3Rhn"
+        "name": "Who's Better",
+        "url": "https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1"
       },
       "artists": [
         {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+          "name": "Sofia Ly",
+          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
         }
       ],
-      "duration_ms": 249462,
-      "name": "Become",
-      "url": "https://open.spotify.com/track/1H3B3MtjUbP5YTt0Jv0BDY"
+      "duration_ms": 174757,
+      "name": "Who\u2019s Better",
+      "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
+    },
+    {
+      "added_at": "2026-01-23 05:42:11",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2025-11-21 11:20:02",
@@ -305,6 +353,38 @@
       "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
+      "added_at": "2026-01-30 05:01:16",
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+    },
+    {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "feels like love",
+        "url": "https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "feels like love",
+      "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
+    },
+    {
       "added_at": "2026-01-23 05:42:11",
       "album": {
         "name": "Greyhound",
@@ -321,6 +401,22 @@
       "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
+      "added_at": "2026-02-06 08:03:21",
+      "album": {
+        "name": "No One\u2019s Business",
+        "url": "https://open.spotify.com/album/5ZeVzKAQ4V0h1NfOcXH5tT"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "No One\u2019s Business",
+      "url": "https://open.spotify.com/track/725T9HeiG4h0hrlluk0dgI"
+    },
+    {
       "added_at": "2026-01-30 05:01:16",
       "album": {
         "name": "The Rain Isn't Over",
@@ -335,22 +431,6 @@
       "duration_ms": 182348,
       "name": "The Rain Isn't Over",
       "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-01-23 05:42:11",
@@ -541,6 +621,22 @@
       "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
     },
     {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
+    },
+    {
       "added_at": "2026-01-23 05:42:11",
       "album": {
         "name": "Pressha",
@@ -699,26 +795,6 @@
       "duration_ms": 206016,
       "name": "Won't Force You",
       "url": "https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO"
-    },
-    {
-      "added_at": "2025-12-12 18:36:59",
-      "album": {
-        "name": "I Just Called",
-        "url": "https://open.spotify.com/album/4l0YYtW5kxgILLTUMA3RJ6"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 183176,
-      "name": "I Just Called",
-      "url": "https://open.spotify.com/track/1ArttydEA3A8dNa28t0Oj6"
     },
     {
       "added_at": "2025-12-19 05:00:40",
@@ -1699,22 +1775,6 @@
       "duration_ms": 169314,
       "name": "10%",
       "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
-    },
-    {
-      "added_at": "2025-10-17 05:15:13",
-      "album": {
-        "name": "feels like love",
-        "url": "https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "feels like love",
-      "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
     },
     {
       "added_at": "2025-09-26 04:27:04",

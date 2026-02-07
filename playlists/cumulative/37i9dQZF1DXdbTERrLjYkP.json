@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Emma Harner",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Anna Graves",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Ashes & Smoke",
+        "url": "https://open.spotify.com/album/5PqLpOfcwK2Vh9OQQIPEA5"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185629,
+      "name": "Ashes & Smoke",
+      "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
+    },
+    {
+      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
       },
@@ -2087,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Bootstraps",
+        "url": "https://open.spotify.com/album/3J6um8Yq96K0KHbIiYVE1N"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188910,
+      "name": "Bootstraps",
+      "url": "https://open.spotify.com/track/4X7cpw2ZwK8WdJAoMh6YXn"
+    },
+    {
+      "album": {
         "name": "boring",
         "url": "https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2"
       },
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 181440,
       "name": "car crash",
       "url": "https://open.spotify.com/track/11f2oFUNl44UmzZj7L9oIw"
@@ -3625,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "cycles",
+        "url": "https://open.spotify.com/album/46cWHcF1g1Q0dhVhw8z5Yz"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148352,
+      "name": "cycles",
+      "url": "https://open.spotify.com/track/1Ktm6rK8mDKRenpqDLW268"
+    },
+    {
+      "album": {
         "name": "Cynthia",
         "url": "https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI"
       },
@@ -4296,6 +4350,24 @@
       "duration_ms": 167407,
       "name": "double down",
       "url": "https://open.spotify.com/track/3hYrteACGpEyPWATKY6mD2"
+    },
+    {
+      "album": {
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
       "album": {
@@ -6248,7 +6320,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213529,
       "name": "Grow Out Of You",
       "url": "https://open.spotify.com/track/4KtGZhFHKyJTI8yEStENZt"
@@ -6846,7 +6918,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 150839,
       "name": "His Loss",
       "url": "https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7"
@@ -6864,7 +6936,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 205335,
       "name": "Hit Me Where It Hurts",
       "url": "https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K"
@@ -7948,6 +8020,24 @@
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V"
+    },
+    {
+      "album": {
+        "name": "I Love Being Wrong",
+        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288812,
+      "name": "I Love Being Wrong",
+      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
     },
     {
       "album": {
@@ -11870,7 +11960,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 203085,
       "name": "Over it Now",
       "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
@@ -14074,7 +14164,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 188870,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
@@ -17036,6 +17126,24 @@
       "duration_ms": 169631,
       "name": "Wella",
       "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
+    },
+    {
+      "album": {
+        "name": "What a Woman Tastes Like",
+        "url": "https://open.spotify.com/album/36dVhorUYrMWJcTaLog5LS"
+      },
+      "artists": [
+        {
+          "name": "Summer Overstreet",
+          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "What a Woman Tastes Like",
+      "url": "https://open.spotify.com/track/5MNsmiILMG66m3h5SXZHCS"
     },
     {
       "album": {

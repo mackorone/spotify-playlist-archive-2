@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,336 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,337 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 21 | [King of Kings](https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Shaka Zulu](https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME) | 4:07 |
 | 22 | [Siligugu Isiphambano](https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Umthombo Wamanzi](https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB) | 3:41 |
 | 23 | [Amagugu \(Inkulu Lendaba\)](https://open.spotify.com/track/2xUnXEXmIoC5sDJlPIDJvZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA) | 4:02 |
-| 24 | [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 |
-| 25 | [Lelilungelo Elakho \(Do as You Know Best\)](https://open.spotify.com/track/7aBwEImtGhAN63dVXXF6nm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Izigqi Zendoda](https://open.spotify.com/album/6sr7rLGttnQMno9pj3Pr5A) | 3:35 |
+| 24 | [Lelilungelo Elakho \(Do as You Know Best\)](https://open.spotify.com/track/7aBwEImtGhAN63dVXXF6nm) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Izigqi Zendoda](https://open.spotify.com/album/6sr7rLGttnQMno9pj3Pr5A) | 3:35 |
+| 25 | [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 |
 | 26 | [Passage to Promise](https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX) | [Book of Roses](https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F) | 2:29 |
 | 27 | [Swing Low Sweet Chariot](https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [China Black](https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp) | [Ladysmith Black Mambazo and Friends](https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh) | 3:52 |
 | 28 | [Nkosi Yami Ngabusiswa](https://open.spotify.com/track/4yomu9eL2rK8s9QBcjr6kd) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ulwandle Olungcwele](https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Pauline](https://open.spotify.com/track/0ahYb1FP9tiIUQbA164pPo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Inala](https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec) | 3:36 |
 | 50 | [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 |
 
-Snapshot ID: `aYKMAAAAAAAuhw5tZYPSic6oq1gEwLe3`
+Snapshot ID: `aYPdgAAAAAAVxPyTisq2BPbB4m/+3MLG`

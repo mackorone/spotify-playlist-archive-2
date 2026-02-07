@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Guilherme Arantes",
+  "description": "As belas novidades da MPB. Foto: Roberta Campos",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 213377,
       "name": "Bananeira",
       "url": "https://open.spotify.com/track/4WgmnXbC1AeMIHzzrMY3o0"
@@ -4763,6 +4763,28 @@
     },
     {
       "album": {
+        "name": "Coisas de Viver",
+        "url": "https://open.spotify.com/album/7h9n5SheG6PtHIOFjfPkYg"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173915,
+      "name": "Coisas de Viver",
+      "url": "https://open.spotify.com/track/0aXfJykpgdZIZ1Rgr278Pr"
+    },
+    {
+      "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
@@ -6388,7 +6410,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 263014,
       "name": "Divina Com\u00e9dia Humana - Ao Vivo",
       "url": "https://open.spotify.com/track/4inavIQ1YgHIL6K5eG623i"
@@ -7788,7 +7810,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
@@ -8664,6 +8686,24 @@
       "duration_ms": 248485,
       "name": "Gerando na Alta",
       "url": "https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ"
+    },
+    {
+      "album": {
+        "name": "Vestido de Rainha",
+        "url": "https://open.spotify.com/album/5UGk1JVGuDxmn64RozfgVq"
+      },
+      "artists": [
+        {
+          "name": "Lua Castanho",
+          "url": "https://open.spotify.com/artist/6Jp8gOtrNLsndm38r4nosw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243607,
+      "name": "Giram S\u00f3is",
+      "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
     },
     {
       "album": {
@@ -10750,6 +10790,24 @@
       "duration_ms": 195874,
       "name": "marca-passo",
       "url": "https://open.spotify.com/track/4xcjZzoOX6XoIrlBfAlHBZ"
+    },
+    {
+      "album": {
+        "name": "Mares E Desertos",
+        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
+      },
+      "artists": [
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221483,
+      "name": "Mares E Desertos",
+      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
     },
     {
       "album": {
@@ -14926,7 +14984,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
@@ -16889,6 +16947,24 @@
     },
     {
       "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
+    },
+    {
+      "album": {
         "name": "Ainda J\u00e1 - Vol. 1",
         "url": "https://open.spotify.com/album/5bEpVpGEUUCmEHaPMw3g6r"
       },
@@ -17972,7 +18048,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 189374,
       "name": "Salto",
       "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
@@ -19735,6 +19811,28 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Tenho Um",
+        "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
+      },
+      "artists": [
+        {
+          "name": "Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225890,
+      "name": "S\u00f3 Tenho Um",
+      "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
+    },
+    {
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -20674,7 +20772,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 140100,
       "name": "Todo carnaval tem seu fim",
       "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
@@ -22700,6 +22798,24 @@
       "duration_ms": 201866,
       "name": "V\u00eanus ou Urano",
       "url": "https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8"
+    },
+    {
+      "album": {
+        "name": "Wasabi",
+        "url": "https://open.spotify.com/album/3zoxHI9tM3WytQC2ShnNGI"
+      },
+      "artists": [
+        {
+          "name": "2DE1",
+          "url": "https://open.spotify.com/artist/4wBcHIPRXjBeZPWLKekdfo"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i"
     },
     {
       "album": {

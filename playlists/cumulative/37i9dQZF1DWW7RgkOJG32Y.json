@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Bar And Back",
+        "url": "https://open.spotify.com/album/4dIRUzzqfwQtjyqCJJoEbN"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194744,
+      "name": "Bar And Back",
+      "url": "https://open.spotify.com/track/3tIpPero4mBna2KK8xndmm"
+    },
+    {
+      "album": {
         "name": "Bar Friends",
         "url": "https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi"
       },
@@ -4163,6 +4181,24 @@
     },
     {
       "album": {
+        "name": "Her Favorite Color",
+        "url": "https://open.spotify.com/album/16aAAmxXMg7zIo3nIUZjNO"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197700,
+      "name": "Her Favorite Color",
+      "url": "https://open.spotify.com/track/2j6ZIBYQaozfDdcfzKlNnO"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -5552,7 +5588,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 162333,
       "name": "Later Tonight",
       "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
@@ -7442,7 +7478,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 169331,
       "name": "Options",
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"

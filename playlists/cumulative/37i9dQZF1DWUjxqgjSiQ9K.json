@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Funky\n",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Israel & New Breed, Adrienne Bailon-Houghton, Evan Craft, Marcos Witt, Aaron Moses, Joel Lopez of Unified Sound, Lucia Parker, Nate Diaz, Cristabel Clack, y Josh Morales de Miel San Marcos\n",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 260454,
       "name": "Alma de Cristo",
       "url": "https://open.spotify.com/track/6emRyPKV1Kc2EOM59JSObj"
@@ -1902,6 +1902,28 @@
       "duration_ms": 179690,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5"
+    },
+    {
+      "album": {
+        "name": "Bailo Contigo",
+        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183389,
+      "name": "Bailo Contigo",
+      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
     },
     {
       "album": {
@@ -3488,7 +3510,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 475005,
       "name": "Coritos Con Miel",
       "url": "https://open.spotify.com/track/0hYqaquKV75dGLvZ7VHgzi"
@@ -3556,6 +3578,44 @@
       "duration_ms": 576916,
       "name": "Coritos de Fuego",
       "url": "https://open.spotify.com/track/0KKmrw8sL7MDGt5pzCBi2d"
+    },
+    {
+      "album": {
+        "name": "CORITOS Vol. 1",
+        "url": "https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        },
+        {
+          "name": "Adrienne Bailon-Houghton",
+          "url": "https://open.spotify.com/artist/7yfn5P0P0V6r3uUcxd4d6u"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576916,
+      "name": "Coritos de Fuego",
+      "url": "https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6"
     },
     {
       "album": {
@@ -8399,6 +8459,28 @@
     },
     {
       "album": {
+        "name": "Igual Que T\u00fa",
+        "url": "https://open.spotify.com/album/4QoFG5Y1XpILLKxglzv57n"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237449,
+      "name": "Igual Que T\u00fa",
+      "url": "https://open.spotify.com/track/6NJAqRL5nib8GztENr3asp"
+    },
+    {
+      "album": {
         "name": "Il\u00f3gico",
         "url": "https://open.spotify.com/album/0D95KEMVwtZsLrAT19YDA2"
       },
@@ -12346,7 +12428,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 164117,
       "name": "OMW",
       "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"

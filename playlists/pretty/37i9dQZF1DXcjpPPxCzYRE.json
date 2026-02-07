@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 437102,
+  "num_followers": 437137,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -919,38 +935,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "moments of glory",
-        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 126115,
-      "name": "moments of glory",
-      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "T'estimo tant",
         "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 183231,
       "name": "T'estimo tant",
       "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "moments of glory",
+        "url": "https://open.spotify.com/album/0SCygQxo4BDRDmrAS1UPHQ"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 126115,
+      "name": "moments of glory",
+      "url": "https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "DeSAFINADO",
-        "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "DeSAFINADO",
-      "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "DeSAFINADO",
+        "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/7joC7Ig8nDG4yRgRUAFPET"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "DeSAFINADO",
+      "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 212486,
       "name": "La desped\u00eda",
       "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Pro Mundo Ouvir",
-        "url": "https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        }
-      ],
-      "duration_ms": 190583,
-      "name": "Pro Mundo Ouvir",
-      "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1303,6 +1283,26 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Pro Mundo Ouvir",
+        "url": "https://open.spotify.com/album/69pm6gZwdFLdy1fE3ZBeCb"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "duration_ms": 190583,
+      "name": "Pro Mundo Ouvir",
+      "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "My Ideal",
         "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1435,22 +1451,6 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "EL LABERINTO",
-        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
-      },
-      "artists": [
-        {
-          "name": "LEIDAN",
-          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
-        }
-      ],
-      "duration_ms": 221774,
-      "name": "TE DOY MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Otras 3 Lunas",
         "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
       },
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "EL LABERINTO",
+        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+      },
+      "artists": [
+        {
+          "name": "LEIDAN",
+          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+        }
+      ],
+      "duration_ms": 221774,
+      "name": "TE DOY MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1575,22 +1591,6 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "em plou a dins",
-        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 176288,
-      "name": "em plou a dins",
-      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1723,26 +1703,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Temblor (Acoustic)",
-        "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bun",
-          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
-        },
-        {
-          "name": "Aym\u00ed",
-          "url": "https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Temblor - Acoustic",
-      "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1763,6 +1723,46 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "em plou a dins",
+        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 176288,
+      "name": "em plou a dins",
+      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Temblor (Acoustic)",
+        "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bun",
+          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
+        },
+        {
+          "name": "Aym\u00ed",
+          "url": "https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Temblor - Acoustic",
+      "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Me Tienes Aqu\u00ed",
         "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 161250,
       "name": "Me Tienes Aqu\u00ed",
       "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
     },
     {
       "added_at": "2026-01-16 05:55:21",

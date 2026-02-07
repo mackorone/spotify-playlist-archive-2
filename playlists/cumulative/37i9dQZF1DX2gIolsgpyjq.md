@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: SANDY
 
-1,533 songs - 3 day 8 hr 35 min
+1,533 songs - 3 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,6 +1114,7 @@
 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 | 2024-10-17 | 2025-01-18 |
 | [Restricted Headroom](https://open.spotify.com/track/5LnXGoz4IaHda9twVsc0Kw) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Restricted Headroom](https://open.spotify.com/album/6a4YyDIJQAcdiRvxsEqPuu) | 3:09 | 2025-11-20 |  |
 | [REVENGE](https://open.spotify.com/track/4VCozmaUeGsfgxtDtktMf1) | [Hakeem Martin](https://open.spotify.com/artist/6RFIUnawOwbvLTpuvLF6JP), [small village](https://open.spotify.com/artist/5A9cqDcAsDETM4V7ME1nQR) | [Untitled Soul Project](https://open.spotify.com/album/50PSMG2fhtKUyZWoCMqdp3) | 3:36 | 2025-11-27 |  |
+| [Rewind](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:45 | 2026-02-05 |  |
 | [rewind repeat](https://open.spotify.com/track/0fd4GoZaTgBwNeg6zpwjy3) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [rewind repeat](https://open.spotify.com/album/6tFkbqFgrtEQUogLyBH7yf) | 2:24 | 2025-09-11 | 2025-10-24 |
 | [Rewired](https://open.spotify.com/track/7C7r9Nx5Qn1Pdcy58KCq5c) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [Enter](https://open.spotify.com/album/2Lklu5LMX1eYLcRi0tX9Wa) | 2:58 | 2024-05-02 | 2024-05-17 |
 | [RHYTHM](https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [RHYTHM](https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt) | 3:43 | 2025-09-25 | 2025-12-04 |
@@ -1385,7 +1386,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 10](https://open.spotify.com/track/4m2kPwWnlg1pzXSrJ86VV7) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-05 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |

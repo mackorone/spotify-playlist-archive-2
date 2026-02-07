@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop\nCover: Holly Humberstone",
+  "description": "next gen pop\nCover: Mercer Henderson",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -12570,6 +12570,24 @@
       "duration_ms": 281499,
       "name": "face",
       "url": "https://open.spotify.com/track/23wSLjgq4iX7A6WylR5pYu"
+    },
+    {
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
     },
     {
       "album": {
@@ -37914,7 +37932,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-07",
       "duration_ms": 248562,
       "name": "The First and Last of the Perfect Parties",
       "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"
