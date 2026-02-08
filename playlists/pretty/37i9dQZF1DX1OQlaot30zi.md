@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,727 likes - 105 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,744 likes - 105 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

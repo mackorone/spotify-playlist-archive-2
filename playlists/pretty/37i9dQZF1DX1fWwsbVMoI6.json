@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 130052,
+  "num_followers": 130062,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-01-23 04:59:11",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
-    },
-    {
-      "added_at": "2026-01-23 04:59:11",
-      "album": {
         "name": "Nuestros 30 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 336683,
       "name": "Tu Ausencia - En Vivo",
       "url": "https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE"
+    },
+    {
+      "added_at": "2026-01-23 04:59:11",
+      "album": {
+        "name": "El Baile de la Serpiente",
+        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Juraste Querrerme",
+      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
     },
     {
       "added_at": "2026-01-23 04:59:11",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-01-23 04:59:11",
       "album": {
-        "name": "Sentimiento y Estilo",
-        "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
+        "name": "La Caballita",
+        "url": "https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp"
       },
       "artists": [
         {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+          "name": "Los 5 de Oro",
+          "url": "https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0"
         }
       ],
-      "duration_ms": 209962,
-      "name": "Ya No Te Buscar\u00e9",
-      "url": "https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v"
+      "duration_ms": 218101,
+      "name": "La Caballita",
+      "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
     }
   ],
   "unique_name": "Cumbias de Oro",

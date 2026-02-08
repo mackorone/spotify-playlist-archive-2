@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ramma + Cindy Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,166 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,030 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 63 | [Se Tenía Que Decir Y Se Dijo](https://open.spotify.com/track/5f7J72kc7rC3SDVpaVIUPI) | [Banda Autentica de Jerez](https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1) | [A Otro Nivel](https://open.spotify.com/album/78di9Ny5VBdg6m9nqatt7y) | 3:30 |
 | 64 | [SOLO](https://open.spotify.com/track/0WJabBXclWUKZS16P4ktPL) | [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Secretos En Mi Cuarto Vol\. 1](https://open.spotify.com/album/1sjJNDy5XIRtqt4eWfMS0j) | 2:07 |
 | 65 | [QUEM DE NÓS DOIS \(con Ana Carolina e Ferrugem\)](https://open.spotify.com/track/1eJ6dNCZzW5ybldimAke9w) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [IO CANTO 2 \(DELUXE\)](https://open.spotify.com/album/6veumOW7hiZYFv51p9uCHv) | 5:14 |
-| 66 | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 3:42 |
+| 66 | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 2:38 |
 | 67 | [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 |
 | 68 | [Feroz](https://open.spotify.com/track/0QZCOyIhEzOFkr4z2nnZE5) | [Lyge](https://open.spotify.com/artist/2TFo3t2jsLG5XDT8GD9XKH), [JUNNO](https://open.spotify.com/artist/1OP955lPj9Zi4hjzAk76l1) | [Feroz](https://open.spotify.com/album/2MlwVASEsjp05o80mFh7Gz) | 2:43 |
 | 69 | [PERDIDO](https://open.spotify.com/track/67jfNQ8ntPHnhxDv31iWRL) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [PERDIDO](https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw) | 2:45 |

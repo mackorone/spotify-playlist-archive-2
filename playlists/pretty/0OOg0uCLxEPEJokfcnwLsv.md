@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 678 likes - 76 songs - 4 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 692 likes - 82 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,11 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 74 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 |
 | 75 | [Pear Tree](https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn) | [Latvija](https://open.spotify.com/artist/4Zy2ssMFKgmYzpaGVJ4j2R) | [Pear Tree](https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr) | 3:10 |
 | 76 | [Time](https://open.spotify.com/track/2hBxN7mxucA30ccsF4N4kU) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Time](https://open.spotify.com/album/6c9xrA8wqpxuHRr9Q6nL3W) | 4:24 |
+| 77 | [Shaded](https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Shaded](https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk) | 4:19 |
+| 78 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 |
+| 79 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 |
+| 80 | [I Can't Take This Anymore](https://open.spotify.com/track/2ouztXs79VgYVFvyNyX1eG) | [Kyle Johnson](https://open.spotify.com/artist/5f70LoboNT1uZeukxfYsCB) | [I Can't Take This Anymore](https://open.spotify.com/album/4RBvJrfgrHTqty5TwfawD9) | 3:13 |
+| 81 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 |
+| 82 | [Breakdown](https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Votive Sound](https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R) | 3:28 |
 
-Snapshot ID: `AAAE0HmWQHaWlPIZ2efkUZWUIi+TLC8c`
+Snapshot ID: `AAAE1padaJq+e7th+znHk0sM3KEq9amB`

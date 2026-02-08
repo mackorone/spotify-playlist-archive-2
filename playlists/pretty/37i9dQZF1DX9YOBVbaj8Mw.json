@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19303,
+  "num_followers": 19307,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Letnie my\u015bli",
-        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Letnie my\u015bli",
-      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+      },
+      "artists": [
+        {
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+        }
+      ],
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
         "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
-      },
-      "artists": [
-        {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
-        }
-      ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Universum",
         "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
       },
@@ -1223,6 +1223,34 @@
       "duration_ms": 332013,
       "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
       "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Tradycyja",
+        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wyrostek",
+          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
+        },
+        {
+          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
+          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
+        },
+        {
+          "name": "Urszula Dudziak",
+          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
+        },
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 278672,
+      "name": "G\u00f3rniczy stan",
+      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1263,34 +1291,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Tradycyja",
-        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wyrostek",
-          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
-        },
-        {
-          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
-          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
-        },
-        {
-          "name": "Urszula Dudziak",
-          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
-        },
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 278672,
-      "name": "G\u00f3rniczy stan",
-      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Adam's Apple",
         "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 314728,
       "name": "Adam's Apple: III. Temptation",
       "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-04-06 08:27:45",

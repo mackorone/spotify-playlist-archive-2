@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。sombr, Joji, Mitski, LiSA, Calvin Harris and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,438 likes - 82 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,435 likes - 82 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

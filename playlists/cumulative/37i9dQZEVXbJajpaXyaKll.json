@@ -18294,7 +18294,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 176250,
       "name": "JAMAICANX Aftermix",
       "url": "https://open.spotify.com/track/0QVfU2dQT5r3K44kptEDug"
@@ -28358,7 +28358,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -34655,6 +34655,24 @@
     },
     {
       "album": {
+        "name": "Sin Maquillaje",
+        "url": "https://open.spotify.com/album/3EWGyhPa3YeTmm05OeDpLu"
+      },
+      "artists": [
+        {
+          "name": "4AMTapes",
+          "url": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "Sin Maquillaje",
+      "url": "https://open.spotify.com/track/2EBiWSTYtP4n1NCSTI9gj2"
+    },
+    {
+      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -37904,7 +37922,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 139692,
       "name": "TENGO UN FEELING TECHENGUE",
       "url": "https://open.spotify.com/track/30vXSd1eQYxJiYo2qVSxWq"

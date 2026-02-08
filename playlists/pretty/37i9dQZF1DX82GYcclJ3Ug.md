@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Ecca Vandal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,041 likes - 127 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,014 likes - 127 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

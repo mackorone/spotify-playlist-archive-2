@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 189933,
       "name": "20 Waeke echo",
       "url": "https://open.spotify.com/track/4SuNxWJNN0t967V1eLqFb0"
@@ -2357,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "Cash Betaald",
+        "url": "https://open.spotify.com/album/7sokqMwVYfPAUgZpbOmklP"
+      },
+      "artists": [
+        {
+          "name": "CV de Deurzuipers",
+          "url": "https://open.spotify.com/artist/37MrwSTPljoxmHBbZGAU2u"
+        },
+        {
+          "name": "Ome Thoom!",
+          "url": "https://open.spotify.com/artist/6ll7oA3b5rYGLMxBTBp38l"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Cash Betaald",
+      "url": "https://open.spotify.com/track/4qqlE1mI2KIYEPw0B65QNA"
+    },
+    {
+      "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
       },
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 108837,
       "name": "Classified vs Overdrive Tool",
       "url": "https://open.spotify.com/track/3eP1UpBU5PS3scclohbJP7"
@@ -3348,7 +3370,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 219402,
       "name": "De Vastelaovesvirtuoos",
       "url": "https://open.spotify.com/track/0oEhZ1ZqELBBVoYqqGE8Sv"
@@ -4052,6 +4074,24 @@
       "duration_ms": 190499,
       "name": "Droom Jij Over Mij Vannacht",
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -7924,6 +7964,24 @@
       "duration_ms": 228010,
       "name": "La Solitudine",
       "url": "https://open.spotify.com/track/2r0slO30ESuURiowqOy5sU"
+    },
+    {
+      "album": {
+        "name": "Laat Het Klinken",
+        "url": "https://open.spotify.com/album/7JNAVa8Fizl3KhPDoSpcXG"
+      },
+      "artists": [
+        {
+          "name": "JanseDeCoomp",
+          "url": "https://open.spotify.com/artist/6BGsiEu10dMTIdm1PnXPOb"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187734,
+      "name": "Laat Het Klinken",
+      "url": "https://open.spotify.com/track/37M7RBRHVusIZgvjeLfcUH"
     },
     {
       "album": {
@@ -12502,7 +12560,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 183809,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
@@ -14632,7 +14690,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 213414,
       "name": "Verr\u00e8ktes gooje zin",
       "url": "https://open.spotify.com/track/3exJNhGuDokcpNOnbMYSJs"
@@ -16044,7 +16102,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 120029,
       "name": "Wintersessie 2026 | AMG Met Matje",
       "url": "https://open.spotify.com/track/5QSnNdrUT5meHrbeb71Dru"
@@ -16578,6 +16636,24 @@
       "duration_ms": 110000,
       "name": "Zes Mooie Ballen",
       "url": "https://open.spotify.com/track/16vkN4vYcnfOAiGg3je77D"
+    },
+    {
+      "album": {
+        "name": "Zet Die Tap Maar Open",
+        "url": "https://open.spotify.com/album/5cNzwqGurwTjfc7bvQlDoM"
+      },
+      "artists": [
+        {
+          "name": "Slag & Stoot",
+          "url": "https://open.spotify.com/artist/6mCL6qsemXvF0yvqGNP2R5"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Zet Die Tap Maar Open",
+      "url": "https://open.spotify.com/track/4zGp1OpaQRgrBCYaw22o9K"
     },
     {
       "album": {

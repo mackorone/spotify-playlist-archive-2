@@ -1,6 +1,6 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 673223,
+  "num_followers": 673208,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2025-08-28 15:52:49",
       "album": {
-        "name": "+1",
-        "url": "https://open.spotify.com/album/4FvSyKog587pT37wscO9L5"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 203524,
-      "name": "+1",
-      "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
-    },
-    {
-      "added_at": "2025-08-28 15:52:49",
-      "album": {
         "name": "Music For Psychedelic Therapy (Excerpt)",
         "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 502705,
       "name": "Sit Around The Fire",
       "url": "https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS"
+    },
+    {
+      "added_at": "2025-08-28 15:52:49",
+      "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/4FvSyKog587pT37wscO9L5"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 203524,
+      "name": "+1",
+      "url": "https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw"
     },
     {
       "added_at": "2025-08-28 15:52:49",

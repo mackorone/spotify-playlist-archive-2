@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "and then there's me",
+        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "and then there's me",
+      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
+    },
+    {
+      "album": {
         "name": "Another good year for the roses",
         "url": "https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0"
       },
@@ -6942,7 +6960,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 222422,
       "name": "Where You Call Home",
       "url": "https://open.spotify.com/track/0ldGwpHcPFzb598ERtfixR"

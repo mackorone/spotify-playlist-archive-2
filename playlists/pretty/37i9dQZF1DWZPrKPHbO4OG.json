@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 35818,
+  "num_followers": 35830,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-01-28 11:19:37",
       "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raagini Kavathekar",
+          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
+        }
+      ],
+      "duration_ms": 198490,
+      "name": "Srivalli Marathi Version",
+      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
+    },
+    {
+      "added_at": "2026-01-28 11:19:37",
+      "album": {
         "name": "Mi Naadkhula",
         "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 259894,
       "name": "Mi Naadkhula",
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
-    },
-    {
-      "added_at": "2026-01-28 11:19:37",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Raagini Kavathekar",
-          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
-        }
-      ],
-      "duration_ms": 198490,
-      "name": "Srivalli Marathi Version",
-      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
     },
     {
       "added_at": "2026-01-28 11:19:37",

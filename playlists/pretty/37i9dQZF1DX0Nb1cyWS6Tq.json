@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 943513,
+  "num_followers": 943653,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Eternal Deep",
-        "url": "https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs"
-      },
-      "artists": [
-        {
-          "name": "Mephisto Walz",
-          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Painted Black",
-      "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Narin Yaln\u0131zl\u0131k",
         "url": "https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 252093,
       "name": "Asimilasyon",
       "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Eternal Deep",
+        "url": "https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs"
+      },
+      "artists": [
+        {
+          "name": "Mephisto Walz",
+          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Painted Black",
+      "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Gothic Sounds Of Nightbreed Volumes One & Two",
-        "url": "https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l"
-      },
-      "artists": [
-        {
-          "name": "Suspiria",
-          "url": "https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8"
-        }
-      ],
-      "duration_ms": 278413,
-      "name": "Allegedly, Dancefloor Tragedy",
-      "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Gothic Sounds Of Nightbreed Volumes One & Two",
+        "url": "https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l"
+      },
+      "artists": [
+        {
+          "name": "Suspiria",
+          "url": "https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8"
+        }
+      ],
+      "duration_ms": 278413,
+      "name": "Allegedly, Dancefloor Tragedy",
+      "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
     },
     {
       "added_at": "2023-01-24 21:00:19",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
-      "added_at": "2025-01-09 23:56:12",
-      "album": {
-        "name": "Anthology XV",
-        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
-      },
-      "artists": [
-        {
-          "name": "The Awakening",
-          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Vampyre Girl (2014)",
-      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Greatest Hits, Remixes & More",
@@ -1095,6 +1079,22 @@
       "duration_ms": 262000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE"
+    },
+    {
+      "added_at": "2025-01-09 23:56:12",
+      "album": {
+        "name": "Anthology XV",
+        "url": "https://open.spotify.com/album/0mQk86eyVYXHeMhXd9ddy1"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Vampyre Girl (2014)",
+      "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
     },
     {
       "added_at": "2021-10-15 04:04:50",

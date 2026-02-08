@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49584,
+  "num_followers": 49587,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-01-26 07:20:48",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2026-01-26 07:20:48",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2026-01-26 07:20:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-26 07:20:48",
       "album": {
-        "name": "Typhoon Family, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "The Moments",
-      "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
-    },
-    {
-      "added_at": "2026-01-26 07:20:48",
-      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 224249,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b"
+    },
+    {
+      "added_at": "2026-01-26 07:20:48",
+      "album": {
+        "name": "Typhoon Family, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "The Moments",
+      "url": "https://open.spotify.com/track/464diat2OMMnSutMSOuQXU"
     },
     {
       "added_at": "2026-01-26 07:20:48",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-01-26 07:20:48",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+      "duration_ms": 223933,
+      "name": "Life goes on",
+      "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

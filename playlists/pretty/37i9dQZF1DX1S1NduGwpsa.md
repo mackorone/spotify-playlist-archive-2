@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Macha Gharibian
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,662 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,668 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Love Her \- Piano Version](https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [PHENOMENAL WOMEN \(DELUXE EDITION\)](https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD) | 4:23 |
+| 1 | [You Love Her \- Solo Version](https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [PHENOMENAL WOMEN \(DELUXE EDITION\)](https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD) | 4:23 |
 | 2 | [Misty](https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Misty](https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV) | 4:10 |
 | 3 | [One Wonders Why \- deluxe bonus track](https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [West of Broadway \(Deluxe Edition\)](https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ) | 3:23 |
 | 4 | [Don't Look Down](https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Don't Look Down](https://open.spotify.com/album/5DKt9w3jGXPagN6zIpr3bq) | 11:16 |

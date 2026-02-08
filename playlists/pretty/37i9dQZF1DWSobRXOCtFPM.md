@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,210 likes - 75 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,231 likes - 75 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm Black And I'm Proud \- Say It Loud](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
+| 1 | [I'm Black And I'm Proud \- Say It Loud \- Carl Cox Remix](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
 | 2 | [Joya \- Radio](https://open.spotify.com/track/0PLOJqAilpgcdxBlRCvcek) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Perry Farrell](https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE) | [Joya \(Radio\)](https://open.spotify.com/album/18a0s3SLaQAgPbLJwfI6y2) | 4:03 |
 | 3 | [Ice](https://open.spotify.com/track/5dh5BPYJuKGSNZQ8tJQwMP) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Ice \(Marc Romboy & Robert Babicz Remix\)](https://open.spotify.com/album/55Zx6aVbter3lIh9jpduDm) | 6:07 |
 | 4 | [Freak](https://open.spotify.com/track/48FHskTGXKi5euMGHYq3CT) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm) | [Freak](https://open.spotify.com/album/3wXhsibdTscUSOZg77IR2t) | 5:00 |

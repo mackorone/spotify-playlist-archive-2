@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 256 likes - 1,924 songs - 4 day 19 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 255 likes - 1,927 songs - 4 day 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1932,5 +1932,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1922 | [Cantando Breaks](https://open.spotify.com/track/4yocGcJHLfsn76ZPhweTIk) | [Dj Nail](https://open.spotify.com/artist/2RaQp7Fh0DK7JUWbJ1bTqg) | [Cantando Breaks](https://open.spotify.com/album/0hIPAxDVejrrfBqgJykcV6) | 3:01 |
 | 1923 | [From Scratch](https://open.spotify.com/track/6NofY4trFhU2vhl0XXWy8i) | [Sandman Theory](https://open.spotify.com/artist/0mpQhRz74HVCtXYCUZy7MO), [Deejaypryme](https://open.spotify.com/artist/1UUYWaIrXDm6Og49CqCnYO) | [The Fuzzy Lounge Sessions](https://open.spotify.com/album/3Truu9tvdFA0ik4xric8je) | 3:38 |
 | 1924 | [Berimbau \(Rough Edit\)](https://open.spotify.com/track/062nEG1FnzuWrIUnThmBYr) | [DJ Fleg](https://open.spotify.com/artist/1Z7hBUE3rZfN5yjsEJRjBD) | [Berimbau \(Rough Edit\)](https://open.spotify.com/album/1i8S2umQVyQDGd2GBV7N23) | 2:06 |
+| 1925 | [Te Tīmatanga \(Te Aka\)](https://open.spotify.com/track/1XZNkzpGGZvVasGQa9wHCj) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 7:37 |
+| 1926 | [Algo Contigo](https://open.spotify.com/track/04IYmx3hnHCW5N92NkxLdV) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/5kWG1PvuankLZD7qB0Y9YI) | 2:46 |
+| 1927 | [After Us](https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [After Us](https://open.spotify.com/album/3C6v5BaV8srOBwaNLh5FgF) | 2:52 |
 
-Snapshot ID: `AAAIDRV/+LHEBWodzKrhKTsuV8CnjyH3`
+Snapshot ID: `AAAIEKfr2ieYqbfNRk7l+MhJoQC8NavE`

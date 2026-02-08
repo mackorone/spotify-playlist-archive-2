@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover:  Dunsin Oyekan",
-  "num_followers": 48414,
+  "num_followers": 48469,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALLgUPbkqkBQ4GG9AC/fpeyZrnFS",
+  "snapshot_id": "AAAAAGl2EaYlaEnIXXTszr49P96m7iUW",
   "tracks": [
     {
       "added_at": "2026-01-30 00:01:24",
@@ -87,6 +87,22 @@
       "duration_ms": 585453,
       "name": "Unending Joy",
       "url": "https://open.spotify.com/track/5Ze3zGf8vy3KNI64MAyOXa"
+    },
+    {
+      "added_at": "2026-02-07 11:37:34",
+      "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/4f47FsBbQU4kUlKoWFt4GT"
+      },
+      "artists": [
+        {
+          "name": "Evelle",
+          "url": "https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa"
+        }
+      ],
+      "duration_ms": 184721,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/1KWVBBbCUVjxHtTwqTqwpV"
     },
     {
       "added_at": "2026-02-06 00:01:25",
@@ -1388,7 +1404,7 @@
           "url": "https://open.spotify.com/artist/4SpacBi0oASNZ6YXOfBdXb"
         }
       ],
-      "duration_ms": 170352,
+      "duration_ms": 170408,
       "name": "I'm Not Hurt",
       "url": "https://open.spotify.com/track/6FORkBXmKKVWo9yYTIXh3H"
     },
@@ -1743,22 +1759,6 @@
       "duration_ms": 144466,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/7opS9XxBt4Xdr0UULfG5bo"
-    },
-    {
-      "added_at": "2026-01-30 00:01:24",
-      "album": {
-        "name": "Your Name",
-        "url": "https://open.spotify.com/album/0KQs5df3LedRY5qTIKFZcu"
-      },
-      "artists": [
-        {
-          "name": "Tomiwa Immanuel",
-          "url": "https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Your Name",
-      "url": "https://open.spotify.com/track/5OB4ejcC1J3bA50df3hCgY"
     },
     {
       "added_at": "2026-01-30 00:01:24",

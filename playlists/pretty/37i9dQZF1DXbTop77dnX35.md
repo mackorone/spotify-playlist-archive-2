@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Shoday, Ruger, DJ Tunez, King Promise and Mr Eazi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,713 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,865 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 41 | [No Pressure](https://open.spotify.com/track/6W2ApcZjQFL91JSyssZnck) | [Pj Star](https://open.spotify.com/artist/0A0qyGqEHAJkRAQ74EiMEH) | [Star Player](https://open.spotify.com/album/4vxi7KvJfPfWEo3a7RjKqc) | 2:26 |
 | 42 | [SENSO MODE](https://open.spotify.com/track/1HQiQYqrebKR2vLtA2QHWg) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP), [Harlem Richard$](https://open.spotify.com/artist/0yrt5adoyJ3pKGQkf8uCaJ) | [SENSO MODE](https://open.spotify.com/album/0QVdocLSoNmmfHNZzmyEJY) | 3:53 |
 | 43 | [Akua](https://open.spotify.com/track/3Sec2jWxYJ7rWu6veUZbyv) | [One Hundred](https://open.spotify.com/artist/5YOcWaztTzbK1DRTPQfYhm), [J.Derobie](https://open.spotify.com/artist/0Mb4ieQOX8g5d8lnjdCVZ2) | [Akua](https://open.spotify.com/album/19i7sKmx21bQeUUXyGnM4m) | 2:57 |
-| 44 | [AYAP](https://open.spotify.com/track/75LVCF2Qw6LTO0CWZTYcbl) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI), [SPL Daddy](https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN) | [AYAP](https://open.spotify.com/album/61hRMpzz0VWqk4gJIgngcK) | 2:49 |
+| 44 | [AYAP](https://open.spotify.com/track/75LVCF2Qw6LTO0CWZTYcbl) | [SPL Daddy](https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN), [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [AYAP](https://open.spotify.com/album/61hRMpzz0VWqk4gJIgngcK) | 2:49 |
 | 45 | [100 Degrees](https://open.spotify.com/track/0INTsw60B55hvpmgubzIgH) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [100 Degrees](https://open.spotify.com/album/5Ljx5GjGk6XybbnDmYIP2G) | 2:28 |
 | 46 | [TNT](https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [TNT](https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs) | 3:34 |
 | 47 | [I'm Not Hurt](https://open.spotify.com/track/6FORkBXmKKVWo9yYTIXh3H) | [E\-Great](https://open.spotify.com/artist/4SpacBi0oASNZ6YXOfBdXb) | [I'm Not Hurt](https://open.spotify.com/album/64thWLLUzZBQ6lSu23u7XT) | 2:50 |

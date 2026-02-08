@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Dunsin Oyekan
 
-7,316 songs - 22 day 10 hr 19 min
+7,317 songs - 22 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2891,6 +2891,7 @@
 | [I Nor Pay](https://open.spotify.com/track/4sFz19rULBa4t0AR9viA8j) | [WATI](https://open.spotify.com/artist/3tCIswvTk9tvDVmNxaEs2W), [PC Lapez](https://open.spotify.com/artist/4tUGKyhBDR4cQrd5jM7TgM) | [I Nor Pay](https://open.spotify.com/album/7F4rPtteqIwALWETeiLd9f) | 3:08 | 2023-12-08 | 2023-12-22 |
 | [I Praise You](https://open.spotify.com/track/3nS3Ftk7rYR8YdWMOscr6E) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I Praise You](https://open.spotify.com/album/7GhfXdzDRQt4jgAlu6RAYI) | 8:24 | 2025-07-11 | 2025-07-25 |
 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-02-15 |
+| [I Pray](https://open.spotify.com/track/1KWVBBbCUVjxHtTwqTqwpV) | [Evelle](https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa) | [I Pray](https://open.spotify.com/album/4f47FsBbQU4kUlKoWFt4GT) | 3:04 | 2026-02-07 |  |
 | [I Pray](https://open.spotify.com/track/18sXWlWwcfdxDDxgZq3sUj) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [I Pray](https://open.spotify.com/album/0JhI4lsVwhpUFdpiwjdY3m) | 3:41 | 2025-05-30 | 2025-06-06 |
 | [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 | 2025-05-02 |
 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 | 2024-11-15 | 2024-11-29 |
@@ -7263,7 +7264,7 @@
 | [Your Miracle](https://open.spotify.com/track/6AOa0gulWJIaql3Slh5Cpm) | [Dr Becky Paul\-Enenche](https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n), [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Your Miracle](https://open.spotify.com/album/6DHypjOdoSkbVdih0of4qf) | 3:40 | 2025-03-07 | 2025-03-14 |
 | [Your Name](https://open.spotify.com/track/2oXEw4iuWtENr3C8Qa7u6q) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Jason K\. George](https://open.spotify.com/artist/7aXC7d7vpE4xyIpeW742ML) | [Welcome Home \(Live at Zeal '23\)](https://open.spotify.com/album/5VfKj9wXQ06QH5aYG3DB1f) | 4:34 | 2024-01-26 | 2024-02-02 |
 | [Your Name](https://open.spotify.com/track/3LrkGtIglziOUIiGcUjoVT) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn) | [Your Name](https://open.spotify.com/album/5V0tPtYombwJBLDwTAnDoO) | 3:37 | 2023-07-28 | 2023-08-11 |
-| [Your Name](https://open.spotify.com/track/5OB4ejcC1J3bA50df3hCgY) | [Tomiwa Immanuel](https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ) | [Your Name](https://open.spotify.com/album/0KQs5df3LedRY5qTIKFZcu) | 2:41 | 2026-01-30 |  |
+| [Your Name](https://open.spotify.com/track/5OB4ejcC1J3bA50df3hCgY) | [Tomiwa Immanuel](https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ) | [Your Name](https://open.spotify.com/album/0KQs5df3LedRY5qTIKFZcu) | 2:41 | 2026-01-30 | 2026-02-08 |
 | [YOUR NAME \- Special Version](https://open.spotify.com/track/23jUHlhSGwf3ippSVwMIV7) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Renzo BA](https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn), [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t) | [YOUR NAME \(Special Version\)](https://open.spotify.com/album/0f9st8rSjl7LHDEv7tJL65) | 3:30 | 2023-10-13 | 2023-10-27 |
 | [Your Name Is Exalted in the Heavens](https://open.spotify.com/track/6MJk3TU6m6YvYEXCKfKFYn) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Your Name Is Exalted in the Heavens](https://open.spotify.com/album/1LIWmzUWsU2CKh3WYH9hBX) | 2:18 | 2025-11-07 | 2025-11-21 |
 | [Your name is Jesus](https://open.spotify.com/track/6zKI1FoNtoKWghgxNqBPc0) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW), [Naa Mercy Sinclear](https://open.spotify.com/artist/2zzlLAG3jyzAwawbmnuFG8) | [Your name is Jesus](https://open.spotify.com/album/3tDscHf8BGzwqKukbIFAZW) | 9:52 | 2025-08-22 | 2025-09-05 |

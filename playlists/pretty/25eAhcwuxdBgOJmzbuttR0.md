@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 412 songs - 1 day 4 hr 12 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 413 songs - 1 day 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,5 +420,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 410 | [Sulfur](https://open.spotify.com/track/4g3QZlvz39UllCcRXDZ0Do) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:37 |
 | 411 | [Prosthetic](https://open.spotify.com/track/3GkJayiMYPZMkTP9KnmYXK) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Virus](https://open.spotify.com/album/1i6DTKXsonvhHZYdLhIbk1) | 5:58 |
 | 412 | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo) | 4:50 |
+| 413 | [Case of the Mondays](https://open.spotify.com/track/7Lz0Z0pHFc3PFb9OmsOUg3) | [Redwoods](https://open.spotify.com/artist/450tm9a6mFVKFSEX49TgyB) | [Case of the Mondays](https://open.spotify.com/album/3rHLCGoDZXbEInLgHI0Kly) | 2:21 |
 
-Snapshot ID: `AAABrkNau3x8dznsDzGKWbfqIq3lPAZf`
+Snapshot ID: `AAABr8ZNe2JFYswYcFvx+V/e95T7ydJX`

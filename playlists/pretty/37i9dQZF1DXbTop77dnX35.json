@@ -1,6 +1,6 @@
 {
   "description": "New Music from Omah Lay, Shoday, Ruger, DJ Tunez, King Promise and Mr Eazi and more ",
-  "num_followers": 173713,
+  "num_followers": 173865,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -820,12 +820,12 @@
       },
       "artists": [
         {
-          "name": "Dan Drizzy",
-          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
-        },
-        {
           "name": "SPL Daddy",
           "url": "https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN"
+        },
+        {
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
         }
       ],
       "duration_ms": 169541,
@@ -884,7 +884,7 @@
           "url": "https://open.spotify.com/artist/4SpacBi0oASNZ6YXOfBdXb"
         }
       ],
-      "duration_ms": 170352,
+      "duration_ms": 170408,
       "name": "I'm Not Hurt",
       "url": "https://open.spotify.com/track/6FORkBXmKKVWo9yYTIXh3H"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here! </a>  Cover: Quadeca ☆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,886 likes - 176 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,890 likes - 176 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

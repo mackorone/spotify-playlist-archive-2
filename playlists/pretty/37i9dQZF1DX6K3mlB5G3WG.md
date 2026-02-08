@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Laura Pausini e Achille Lauro in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,024 likes - 131 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,021 likes - 131 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 26 | [Quando meno me lo aspetto](https://open.spotify.com/track/4xpwrgRS5eLValyRrTiVFn) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [Quando meno me lo aspetto](https://open.spotify.com/album/6GqfRoddUcvtTGS0iOjAYB) | 3:46 |
 | 27 | [Poi io poi te](https://open.spotify.com/track/10549wj02nWdao8Njhf3Ob) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Poi io poi te](https://open.spotify.com/album/4K0YZWsfDiMC6nwACfoyoG) | 3:06 |
 | 28 | [Flood \(feat\. Bon Iver\)](https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Flood / Glow](https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J) | 2:59 |
-| 29 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
+| 29 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
 | 30 | [PICCOLA](https://open.spotify.com/track/5aUXhutSI9GpffwQ1NcsmA) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PICCOLA](https://open.spotify.com/album/6t5QOlEXI1cGIuiJ7zVW4q) | 2:24 |
 | 31 | [AMARAVOGLIA](https://open.spotify.com/track/4cj4VHfg2n5HSm5J9SSOTB) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [AMARAVOGLIA](https://open.spotify.com/album/2eZihEnfQsoHuL7E7G8G9n) | 1:37 |
 | 32 | [Pensieri Giganti](https://open.spotify.com/track/2nD7aJv1eAaR4LpGJsVYCs) | [Martina Grillo](https://open.spotify.com/artist/3eATOhqJn8TM3qCyIrG35Q) | [Pensieri Giganti](https://open.spotify.com/album/4utR88kNfOonRA9cFmCVLf) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: LINARES
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,441 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,455 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 27 | [días buenos](https://open.spotify.com/track/06XcI0gbSxJXv01tdeJLON) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [días buenos](https://open.spotify.com/album/3Oz58y1udYfSJvpvSSN4Sx) | 2:52 |
 | 28 | [Gracias a Dios](https://open.spotify.com/track/7efDTxP88JKZ7jEqY1zf5H) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Gracias a Dios](https://open.spotify.com/album/7HFlMW0PJefJH5cRu54l9M) | 2:45 |
 | 29 | [Loco](https://open.spotify.com/track/13vfQ7f2NKZe25R0JMaAaG) | [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [Loco](https://open.spotify.com/album/3OLyY6jQZvz4w7SPASPf06) | 3:45 |
-| 30 | [MexCypher Tamaulipas](https://open.spotify.com/track/0PbDKCM2z1am9upkbWIF2G) | [Francisco Hernandez](https://open.spotify.com/artist/5nUCIsYsOKfXHpueJepUIv), [Mesyk](https://open.spotify.com/artist/5cJNi1r8haVapc5dJ5xGTM), [La Tribu Santa](https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY), [Bener Flores](https://open.spotify.com/artist/7FFsPNpl8YjSB3t3jGXc2P) | [MexCypher Tamaulipas](https://open.spotify.com/album/3vqTRimXud9OwD9W5yxjWO) | 4:30 |
+| 30 | [MexCypher Tamaulipas](https://open.spotify.com/track/0PbDKCM2z1am9upkbWIF2G) | [La Tribu Santa](https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY), [Francisco Hernandez](https://open.spotify.com/artist/5nUCIsYsOKfXHpueJepUIv), [Bener Flores](https://open.spotify.com/artist/7FFsPNpl8YjSB3t3jGXc2P) | [MexCypher Tamaulipas](https://open.spotify.com/album/3vqTRimXud9OwD9W5yxjWO) | 4:30 |
 | 31 | [Fuerzas Pa'](https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Fuerzas Pa'](https://open.spotify.com/album/4LIG7szX1bzJitlAlf0PUz) | 2:39 |
 | 32 | [Cada mañana](https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Cada mañana](https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe) | 3:07 |
 | 33 | [Lo Que Viene](https://open.spotify.com/track/1PPT1TZgdKM8UdFOHldEOW) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9), [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Lo Que Viene](https://open.spotify.com/album/2kFBEG1wMTKs03wbLi9FjR) | 2:48 |

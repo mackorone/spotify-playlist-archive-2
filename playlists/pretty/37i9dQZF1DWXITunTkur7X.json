@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 78543,
+  "num_followers": 78550,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Blijf Bij Mij",
+        "url": "https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 179676,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Duizend Spiegels",
         "url": "https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 248946,
       "name": "Samen Voor Altijd",
       "url": "https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Blijf Bij Mij",
-        "url": "https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 179676,
-      "name": "Blijf Bij Mij",
-      "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Als Het Avond Is",
-        "url": "https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Als Het Avond Is",
-      "url": "https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Als Het Avond Is",
+        "url": "https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Als Het Avond Is",
+      "url": "https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
+        "name": "Het Kan Hier Zo Mooi Zijn",
+        "url": "https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Het Kan Hier Zo Mooi Zijn",
+      "url": "https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
         "name": "Beats By Esko",
         "url": "https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 197290,
       "name": "Hey Meisje",
       "url": "https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Het Kan Hier Zo Mooi Zijn",
-        "url": "https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Het Kan Hier Zo Mooi Zijn",
-      "url": "https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO"
     },
     {
       "added_at": "2025-03-12 10:01:17",

@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Ellie Goulding
 
-5,313 songs - 10 day 14 hr 5 min
+5,313 songs - 10 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Am I Wrong](https://open.spotify.com/track/7MG8fhBvmuGICa94VdqqTB) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Am I Wrong](https://open.spotify.com/album/6eki1l67dsH71beCsZdlfK) | 2:24 | 2025-05-08 | 2025-05-16 |
 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 | 2025-10-23 | 2025-11-07 |
 | [AM to PM \(feat\. Zoe Wees\) \- Hypaton Remix](https://open.spotify.com/track/1wq2ptgI7tVHJzQVuqixst) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\) \[Hypaton Remix\]](https://open.spotify.com/album/7ERYlnrVNZJ87dqSM0hJer) | 2:40 | 2025-11-27 | 2025-12-19 |
-| [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 3:42 | 2026-02-06 |  |
+| [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 2:38 | 2026-02-06 |  |
 | [Amazonas](https://open.spotify.com/track/0vDQl4HGDvHR80wQvdUYZk) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Amazonas](https://open.spotify.com/album/0SYnNdmxl37UFoap4loEQo) | 3:32 | 2024-12-12 | 2024-12-20 |
 | [Ameno](https://open.spotify.com/track/4Bak56MdceMpCkR4LcPdD9) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Maoam](https://open.spotify.com/artist/7IuCvuIcTx2Rp05kwHuvSv) | [Ameno](https://open.spotify.com/album/2gu56SoG1tKlPq30FoPoc3) | 2:12 | 2024-01-25 | 2024-02-09 |
 | [Ameno \(Dori Me\)](https://open.spotify.com/track/1CJPc43GFpbnAD9cyY5a2d) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Ameno \(Dori Me\)](https://open.spotify.com/album/53CyG560eFJgKJZ6FifNkm) | 2:24 | 2024-07-18 | 2024-07-27 |

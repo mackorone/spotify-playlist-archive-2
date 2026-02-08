@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Don Toliver",
-  "num_followers": 271902,
+  "num_followers": 271889,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 234654,
-      "name": "BEEP BEEP",
-      "url": "https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "Deep Thoughts",
         "url": "https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 225456,
       "name": "Late Checkout (feat. Hunxho)",
       "url": "https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 234654,
+      "name": "BEEP BEEP",
+      "url": "https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Walk Down (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 167396,
       "name": "They Want To Be You (feat. Future)",
       "url": "https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Walk Down (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
     },
     {
       "added_at": "2026-02-06 00:00:06",

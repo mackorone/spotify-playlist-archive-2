@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 462729,
+  "num_followers": 462889,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Abra\u00e7a-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 652307,
       "name": "Abra\u00e7a-me - Ao Vivo",
       "url": "https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Eu S\u00f3 Quero Adorar",
         "url": "https://open.spotify.com/album/0J0CZ6pQkckFYkOfWxBfBs"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Ezequiel 47 (Ao Vivo)",
         "url": "https://open.spotify.com/album/68PwebAgE0leiFR2KKgiPH"
       },
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Esp\u00edrito Santo (Inhabit)",
+      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Esp\u00edrito Santo (Inhabit)",
-      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 287520,
-      "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 330220,
       "name": "Peregrino - Ao vivo",
       "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3tXpZLOyWPrNxIaiccqr6Y"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "duration_ms": 287520,
+      "name": "O Poder da Ora\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2sJPK9cbeZ6ScCA3R8MvgB"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "N\u00e3o Me Esconderei de Ti",
-        "url": "https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 498897,
-      "name": "N\u00e3o Me Esconderei de Ti",
-      "url": "https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "O Nome de Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0xCGgTV1P3o4LOcUONAOeI"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 528693,
       "name": "O Nome de Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/4toU5AhDVaCNfyQkXV4BuX"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "N\u00e3o Me Esconderei de Ti",
+        "url": "https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 498897,
+      "name": "N\u00e3o Me Esconderei de Ti",
+      "url": "https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1seJyynjfAZdCLIe6NVxLF"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        }
-      ],
-      "duration_ms": 377647,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7jeZoPKb83tyeEREUmeZhC"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Filho do Homem",
         "url": "https://open.spotify.com/album/6Jpo32Eydd58JyX8HzA0b1"
       },
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1seJyynjfAZdCLIe6NVxLF"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "duration_ms": 377647,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7jeZoPKb83tyeEREUmeZhC"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Era a M\u00e3o de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 170000,
       "name": "Era a M\u00e3o de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "Como Flecha",
+        "url": "https://open.spotify.com/album/6J2OuC6XT3qsuyCdmkMYv2"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 345856,
+      "name": "Como Flecha",
+      "url": "https://open.spotify.com/track/3ovUBNU4EAo9gzlt0fk9lM"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1479,22 +1495,6 @@
       "duration_ms": 454408,
       "name": "Minh'alma Engrandece ao Senhor / Adorado - Ao Vivo",
       "url": "https://open.spotify.com/track/0RrDi7nGS8OapfGymSMClE"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Como Flecha",
-        "url": "https://open.spotify.com/album/6J2OuC6XT3qsuyCdmkMYv2"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 345856,
-      "name": "Como Flecha",
-      "url": "https://open.spotify.com/track/3ovUBNU4EAo9gzlt0fk9lM"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/1imz0t2ampTGxZRKCLTmFc"
+      },
+      "artists": [
+        {
+          "name": "Esther Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah"
+        }
+      ],
+      "duration_ms": 241410,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/5S60Kq1JeWRuIit3tLQHdM"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Que Ele Cres\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 602491,
       "name": "Que Ele Cres\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/1imz0t2ampTGxZRKCLTmFc"
-      },
-      "artists": [
-        {
-          "name": "Esther Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah"
-        }
-      ],
-      "duration_ms": 241410,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/5S60Kq1JeWRuIit3tLQHdM"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
-        "name": "N\u00e3o Faltou Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq"
-      },
-      "artists": [
-        {
-          "name": "Vitor Santana",
-          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
-        },
-        {
-          "name": "Anna Clara Rocha",
-          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
-        }
-      ],
-      "duration_ms": 558000,
-      "name": "N\u00e3o Faltou Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
         "name": "Grato Sou (Ao Vivo)",
         "url": "https://open.spotify.com/album/35PDmPnl0pVw7oW8FEmaNv"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 303201,
       "name": "Grato Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/6rfxeiOS4gydbhIUAnTS3T"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
+        "name": "N\u00e3o Faltou Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4tOKVXY6gTSFWjmMagz2Xq"
+      },
+      "artists": [
+        {
+          "name": "Vitor Santana",
+          "url": "https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ"
+        },
+        {
+          "name": "Anna Clara Rocha",
+          "url": "https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI"
+        }
+      ],
+      "duration_ms": 558000,
+      "name": "N\u00e3o Faltou Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/1w4Olr85hvOttQ2k4V2bnN"
     },
     {
       "added_at": "2026-01-08 18:41:25",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2026-01-08 18:41:25",
       "album": {
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Equil\u00edbrio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
+    },
+    {
+      "added_at": "2026-01-08 18:41:25",
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 227253,
       "name": "Escape - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
-    },
-    {
-      "added_at": "2026-01-08 18:41:25",
-      "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Equil\u00edbrio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww"
     },
     {
       "added_at": "2026-01-08 18:41:25",

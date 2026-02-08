@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77358,
+  "num_followers": 77369,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Love Will Win The Day (Take 3 Radio Edit)",
+        "url": "https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a"
+      },
+      "artists": [
+        {
+          "name": "Nutty Nys",
+          "url": "https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX"
+        }
+      ],
+      "duration_ms": 195871,
+      "name": "Love Will Win The Day - Take 3 Radio Edit",
+      "url": "https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Roll the Dice (Konstantin Sibold Remix)",
         "url": "https://open.spotify.com/album/3WOPS1tdtkUaZ9fU9Rm1J0"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Love Will Win The Day (Take 3 Radio Edit)",
-        "url": "https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a"
-      },
-      "artists": [
-        {
-          "name": "Nutty Nys",
-          "url": "https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX"
-        }
-      ],
-      "duration_ms": 195871,
-      "name": "Love Will Win The Day - Take 3 Radio Edit",
-      "url": "https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5"
     },
     {
       "added_at": "2025-12-03 12:15:55",

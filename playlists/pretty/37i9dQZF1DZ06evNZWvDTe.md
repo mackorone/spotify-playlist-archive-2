@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 |
 | 50 | [Hope \(Brighter Day\)](https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Hope \(Brighter Day\)](https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5) | 5:16 |
 
-Snapshot ID: `aYPdgAAAAAClZq9z6Iu5rvmk4feoKbWe`
+Snapshot ID: `aYPdgAAAAADbVWB7yoBCIEq6c2gyTqjQ`

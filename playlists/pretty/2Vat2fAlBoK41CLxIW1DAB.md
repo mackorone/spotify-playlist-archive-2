@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 859 songs - 2 day 6 hr 5 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 868 songs - 2 day 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -867,5 +867,14 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 857 | [Spoiled Rotten \(HD\)](https://open.spotify.com/track/5QjNMb2PjmCDLZeBYno1hQ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Spoiled Rotten \(HD\)](https://open.spotify.com/album/6l3BPCW6PDE8y5wzZTmmUf) | 4:11 |
 | 858 | [Two Lights Beckon](https://open.spotify.com/track/1pR0Ja6gdWmhLksNy4poRk) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Two Lights Beckon](https://open.spotify.com/album/63g2wZf82k9n5qspQXUIIr) | 3:51 |
 | 859 | [What You Got](https://open.spotify.com/track/7y54BPC8nFMxYnu5EYS4ii) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [What You Got](https://open.spotify.com/album/2Jst1hbmwrDvt1jJEfE3ms) | 2:47 |
+| 860 | [Oblivion](https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Oblivion](https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo) | 5:35 |
+| 861 | [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 |
+| 862 | [True Friends](https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [True Friends](https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx) | 3:46 |
+| 863 | [Human Touch](https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Human Touch](https://open.spotify.com/album/1GvLfzrvVI3ueu5ZEM8DjL) | 5:17 |
+| 864 | [Too Much](https://open.spotify.com/track/3IT9M6LSNt2ByEXyy7CySU) | [Extra Mile](https://open.spotify.com/artist/3qRJJ7UZr8yTKDN398WVSZ) | [Extra Mile](https://open.spotify.com/album/35eK4BRI57RRiGZoTcOz9u) | 4:28 |
+| 865 | [How Clear \- remix](https://open.spotify.com/track/6ivcrJjhjaK7izJ6MoFHO8) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [How Clear \(remix\)](https://open.spotify.com/album/6GCFc0RLFGspXoVoEIzBFv) | 4:48 |
+| 866 | [Leftist Narcissist](https://open.spotify.com/track/5OnGAv04Ee2zIXMI9VqHD0) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Leftist Narcissist](https://open.spotify.com/album/2K0hoYY7n4aHtbH8d7mFu1) | 3:39 |
+| 867 | [iykyk](https://open.spotify.com/track/1khLpAonIHoh4DCsKgl1ot) | [Zack Medlin](https://open.spotify.com/artist/5MTkRB12rSMaYFxdmsmbYf) | [iykyk](https://open.spotify.com/album/0gRbrvoXSVygkPxQ558WOk) | 3:32 |
+| 868 | [Fall In Love](https://open.spotify.com/track/35E3gf5Ghv3kLECmXbXQVu) | [Jahgan Olivier](https://open.spotify.com/artist/4CLjjMMlfnjvz89e1nrSPc) | [Fall In Love](https://open.spotify.com/album/5k6XeNxIVRhx3u9hYulxpV) | 4:18 |
 
-Snapshot ID: `AAADekDTzRZz+iflFfyN/2EAI+32uSkD`
+Snapshot ID: `AAADg+WxB+TEYOt2QONxFJN67ZgjGbRy`

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,176 songs - 2 day 2 hr 53 min
+1,177 songs - 2 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Put It All On Me](https://open.spotify.com/track/3f3XwzwFgKpk2q3nlUmJeC) | [Electric Hearts](https://open.spotify.com/artist/6SYYIEe80XyOdOE1wlQoQO), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Put It All On Me](https://open.spotify.com/album/1nsB55xQPs25jrj2gFMZS0) | 3:01 | 2024-08-29 | 2025-02-15 |
 | [Rain](https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc) | [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Rain](https://open.spotify.com/album/4bD1k0opGzr6ewPvocAs71) | 2:51 | 2024-04-13 | 2024-07-05 |
 | [Raindrops](https://open.spotify.com/track/52Kt0ltJzMBebV9c1nPf8r) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Raindrops](https://open.spotify.com/album/4YsNm6qlvtN2HyKSBKPEpU) | 2:30 | 2024-09-15 | 2024-09-30 |
+| [Rapture](https://open.spotify.com/track/0gB4dLKem1Y2yBA6OIoDTU) | [JPT3R](https://open.spotify.com/artist/4Pbc09g4SkxCjZyKizueZO), [Nick Giardino](https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD), [Calypsø](https://open.spotify.com/artist/29EDAJj7V9aXo4veBMEerh), [Afro Queen](https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT) | [Rapture](https://open.spotify.com/album/6V7SrA92b7HnXLza4P7CJ7) | 2:47 | 2026-02-07 |  |
 | [Reason \- Tim Hughes & Panuma Sunset Edit](https://open.spotify.com/track/0txmcPVaXJ3o7avdhn2u1S) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb), [Tim Hughes](https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez) | [Reason \(Tim Hughes & Panuma Sunset Edit\)](https://open.spotify.com/album/1kFOArg1PSzq3FdXl8D2C5) | 2:41 | 2023-11-02 | 2024-05-13 |
 | [Reason Not To Run](https://open.spotify.com/track/53Sz1kXE50nm6ryFSOjl3o) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [DJ TISCO](https://open.spotify.com/artist/52g7ZWlWaf2yqLchy2XuTh), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [A\-Tom \(CH\)](https://open.spotify.com/artist/5JcX7RIB0Ugj2fmxaKFTdm) | [Reason Not To Run](https://open.spotify.com/album/5zWKlfPRRK3UsmkAFfrZmK) | 2:30 | 2025-09-07 | 2025-11-03 |
 | [Red Lights](https://open.spotify.com/track/6miN3xme0XqCIM1Gqg0TAT) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Red Lights](https://open.spotify.com/album/7mDGQ49fvt0w19BO9oC7yG) | 2:54 | 2025-03-16 | 2025-03-24 |

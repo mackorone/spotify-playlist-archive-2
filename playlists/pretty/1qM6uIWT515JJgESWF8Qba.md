@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 324 likes - 52 songs - 3 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 327 likes - 57 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,10 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 50 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 |
 | 51 | [I'm Dead, I'm Dead](https://open.spotify.com/track/4aUVFBtIx6JA44arzHCwn1) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 3:41 |
 | 52 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 |
+| 53 | [Dancing on Fire](https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:55 |
+| 54 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 |
+| 55 | [take me to the other side](https://open.spotify.com/track/7DVCnily4QAjO3jaaD6eGd) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [take me to the other side](https://open.spotify.com/album/44gz5UtRohvze3YuLSX224) | 4:13 |
+| 56 | [Onwards](https://open.spotify.com/track/4xBM4eYPajrVlJTo6UD8E9) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Come What May](https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB) | 5:09 |
+| 57 | [KARMA](https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi) | [James Ec](https://open.spotify.com/artist/3WausLWOfDcxxAr2Bm7Ly9) | [KARMA](https://open.spotify.com/album/5Bq8ujUGlIipkRlVi8Erwt) | 2:52 |
 
-Snapshot ID: `AAABKireu8mkTKkHMAW08Nqp50xrkR2u`
+Snapshot ID: `AAABL3muOt2+ZPwSbRbzos20fgesZ4ge`

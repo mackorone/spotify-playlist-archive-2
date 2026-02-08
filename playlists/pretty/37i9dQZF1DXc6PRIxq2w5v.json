@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
-  "num_followers": 188546,
+  "num_followers": 188594,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Bora!",
+        "url": "https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK"
+      },
+      "artists": [
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "duration_ms": 166422,
+      "name": "Bora!",
+      "url": "https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Quero Voltar",
-        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
-      },
-      "artists": [
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Quero Voltar",
-      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -467,22 +467,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Bora!",
-        "url": "https://open.spotify.com/album/7GpPt1xHzTITfL6plwT4UK"
+        "name": "Quero Voltar",
+        "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
       },
       "artists": [
         {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 166422,
-      "name": "Bora!",
-      "url": "https://open.spotify.com/track/2lnWfa0R9KZ8147z7ee6Sk"
+      "duration_ms": 174375,
+      "name": "Quero Voltar",
+      "url": "https://open.spotify.com/track/1aXoFwqmHiIaKt4ituOfHb"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Amor Freestyle",
         "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168861,
       "name": "Amor Freestyle",
       "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
-      },
-      "artists": [
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        },
-        {
-          "name": "Ty Fig",
-          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -999,22 +979,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Melhores Dias",
         "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
@@ -1035,6 +999,42 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
+      },
+      "artists": [
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
+          "name": "Ty Fig",
+          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Firme",
+      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
+        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
+      },
+      "artists": [
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "duration_ms": 280028,
+      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
+      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Por Onde C Andar",
         "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
       },
@@ -1439,6 +1459,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "eu vi",
         "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
       },
@@ -1471,26 +1511,6 @@
       "duration_ms": 196967,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
-        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
-      },
-      "artists": [
-        {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
-        },
-        {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
-        }
-      ],
-      "duration_ms": 280028,
-      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
-      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1531,6 +1551,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Boas Novas",
         "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
       },
@@ -1559,22 +1595,6 @@
       "duration_ms": 132047,
       "name": "Louis V",
       "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1615,22 +1635,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Passos",
-        "url": "https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 195756,
-      "name": "Passos",
-      "url": "https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Ren\u00fancia",
         "url": "https://open.spotify.com/album/05tp0ebY7qDi7mgkjYLAMI"
       },
@@ -1651,6 +1655,22 @@
       "duration_ms": 161344,
       "name": "Ren\u00fancia",
       "url": "https://open.spotify.com/track/70osJyLLdz5XgDcDuxgjbm"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Passos",
+        "url": "https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "Passos",
+      "url": "https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1691,26 +1711,6 @@
       "duration_ms": 180000,
       "name": "Cristo Faz a Wave",
       "url": "https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-02-06 03:01:19",

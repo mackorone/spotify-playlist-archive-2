@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,351 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,428 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 3 | [Car Culture](https://open.spotify.com/track/11FoY6Yj3iknqKuky8yv46) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Car Culture](https://open.spotify.com/album/2nxSwRZXkA8kU9DVhAZtps) | 3:29 |
 | 4 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
 | 5 | [Champion](https://open.spotify.com/track/66tuuvPdvGc0MfN6Ptotyw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [Champion](https://open.spotify.com/album/3TovgbjOuPxvLFXYFFCCIn) | 2:46 |
-| 6 | [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 |
+| 6 | [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gora](https://open.spotify.com/artist/3G4xwBjK28S31zrQzLIMBr), [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 |
 | 7 | [My World 2](https://open.spotify.com/track/18mupiDOivCDs7lviTVaTO) | [Raman Lakhesar](https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh) | [My World 2](https://open.spotify.com/album/4EQ9zabvxMea4355kQpNgM) | 3:02 |
 | 8 | [Killa](https://open.spotify.com/track/5LPIcmzwAplKsXoS9webJk) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [New Beginnings](https://open.spotify.com/album/260NmiRF3k1XNWqV4qCjIY) | 3:37 |
 | 9 | [Awoke](https://open.spotify.com/track/34nRjwFxWPeMgN8D69Tlqm) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [World Is Yours](https://open.spotify.com/album/2aB2OOBrw8fT6bQhBWBZWl) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:NO11",
-  "num_followers": 76900,
+  "num_followers": 76938,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 123185,
-      "name": "Kilogram",
-      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 123185,
+      "name": "Kilogram",
+      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
+        "name": "OBT (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "OBT (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -583,22 +603,6 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
         "name": "HOW E DEY BE (HEDB)",
         "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
       },
@@ -611,6 +615,22 @@
       "duration_ms": 130000,
       "name": "HOW E DEY BE (HEDB)",
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -635,26 +655,6 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
       },
@@ -671,22 +671,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "OBT (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 170526,
-      "name": "OBT (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
+        "name": "OH MY DAYS",
+        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
+      },
+      "artists": [
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 119166,
+      "name": "OH MY DAYS",
+      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -871,26 +887,6 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "Type Sh*t",
-        "url": "https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep"
-      },
-      "artists": [
-        {
-          "name": "GoodGirl LA",
-          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "Type Sh*t",
-      "url": "https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
         "name": "The Feast",
         "url": "https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9"
       },
@@ -907,18 +903,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "OH MY DAYS",
-        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
+        "name": "Type Sh*t",
+        "url": "https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep"
       },
       "artists": [
         {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 119166,
-      "name": "OH MY DAYS",
-      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
+      "duration_ms": 151034,
+      "name": "Type Sh*t",
+      "url": "https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98"
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 168000,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/51MR8SzQI8jD0JGvw8J8mI"
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/4x7FRzw7GiTHGaoQP1xU98"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/51MR8SzQI8jD0JGvw8J8mI"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
         "name": "Pawon + Fly",
         "url": "https://open.spotify.com/album/6twgGorVU0d808ToQ632pw"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 118939,
       "name": "Fly",
       "url": "https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
+        "name": "BORN TO BE GREAT",
+        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 173559,
+      "name": "BORN TO BE GREAT",
+      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
     },
     {
       "added_at": "2026-02-06 00:01:20",
@@ -1271,6 +1287,22 @@
     {
       "added_at": "2026-02-06 00:01:20",
       "album": {
+        "name": "Pour the World Spit",
+        "url": "https://open.spotify.com/album/6Pcw9s46ajtJvTXRJD5lNo"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 342465,
+      "name": "Pour the World Spit",
+      "url": "https://open.spotify.com/track/5P4LXz9i33dt6W84fEaUdK"
+    },
+    {
+      "added_at": "2026-02-06 00:01:20",
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -1287,42 +1319,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Aura 4 Aura (feat. Pa Salieu)",
-      "url": "https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U"
-    },
-    {
-      "added_at": "2026-02-06 00:01:20",
-      "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
     }
   ],
   "unique_name": "Naija Bars ",

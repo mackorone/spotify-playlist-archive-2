@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ramma + Cindy Cats
 
-12,465 songs - 27 day 11 hr 42 min
+12,465 songs - 27 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [Alô Tranqueira \- Ao Vivo](https://open.spotify.com/track/4N4Jk8n24I4lkSUdzoS0n7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas \(Ao Vivo\)](https://open.spotify.com/album/0tBnLmuDb9EtemunXfCMeD) | 2:50 | 2023-10-06 | 2023-10-14 |
 | [Amando O Inimigo \- Ao Vivo](https://open.spotify.com/track/3Ygy9AMTdoFHOWABEIuHWS) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Portugal](https://open.spotify.com/album/7lyxcFS7vs0VfgZDnY2cop) | 3:01 | 2023-12-01 | 2023-12-09 |
 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 | 2022-12-16 | 2022-12-24 |
-| [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 3:42 | 2026-02-06 |  |
+| [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 2:38 | 2026-02-06 |  |
 | [Amanece \(feat\. Gil Cerezo\)](https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG) | [Amanece](https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN) | 4:52 | 2023-01-27 | 2023-02-04 |
 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 | 2023-03-17 | 2023-03-25 |
 | [Amanecer](https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Amanecer](https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi) | 3:05 | 2023-09-22 | 2023-09-30 |

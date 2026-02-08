@@ -1,6 +1,6 @@
 {
   "description": "Its time to relish the best themes of Kollywood!\nCover : Coolie",
-  "num_followers": 102348,
+  "num_followers": 102371,
   "original_name": "Kollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf"
     },
     {
-      "added_at": "2024-11-07 09:54:23",
-      "album": {
-        "name": "Benz In The Universe Theme (From \"Benz\")",
-        "url": "https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Benz In The Universe Theme - From \"Benz\"",
-      "url": "https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO"
-    },
-    {
       "added_at": "2025-03-24 13:58:02",
       "album": {
         "name": "Dragon (Original Score)",
@@ -187,6 +171,22 @@
       "duration_ms": 119300,
       "name": "Gumthalakadi Gala Gala",
       "url": "https://open.spotify.com/track/3CaQ7uPo5xOIFLXpL1HZLg"
+    },
+    {
+      "added_at": "2024-11-07 09:54:23",
+      "album": {
+        "name": "Benz In The Universe Theme (From \"Benz\")",
+        "url": "https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Benz In The Universe Theme - From \"Benz\"",
+      "url": "https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi"
     },
     {
-      "added_at": "2025-06-05 15:42:53",
-      "album": {
-        "name": "Twin Fish Walter (From \"Benz\")",
-        "url": "https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        }
-      ],
-      "duration_ms": 167541,
-      "name": "Twin Fish Walter - From \"Benz\"",
-      "url": "https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva"
-    },
-    {
       "added_at": "2021-11-01 22:19:07",
       "album": {
         "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
@@ -283,6 +267,22 @@
       "duration_ms": 70500,
       "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
       "url": "https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5"
+    },
+    {
+      "added_at": "2025-06-05 15:42:53",
+      "album": {
+        "name": "Twin Fish Walter (From \"Benz\")",
+        "url": "https://open.spotify.com/album/1ScLNCoLnooOF78ozrByRp"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 167541,
+      "name": "Twin Fish Walter - From \"Benz\"",
+      "url": "https://open.spotify.com/track/1uLRlKNoXLVeoc1cB25mva"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -1281,10 +1281,10 @@
       "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"
     },
     {
-      "added_at": "2021-11-01 22:19:07",
+      "added_at": "2025-09-10 12:08:27",
       "album": {
-        "name": "Maari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 30753,
-      "name": "The Maari Swag",
-      "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"
+      "duration_ms": 37299,
+      "name": "Animal Instinct",
+      "url": "https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY"
     }
   ],
   "unique_name": "Kollywood Themes",

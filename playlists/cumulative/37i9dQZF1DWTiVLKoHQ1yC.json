@@ -271,6 +271,32 @@
     },
     {
       "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
+      },
+      "artists": [
+        {
+          "name": "Andrew Nagy",
+          "url": "https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        },
+        {
+          "name": "Gaby Gerlis",
+          "url": "https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
       },
@@ -6010,7 +6036,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 195733,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"

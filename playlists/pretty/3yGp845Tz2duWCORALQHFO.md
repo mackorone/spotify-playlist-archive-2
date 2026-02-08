@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,076 likes - 60 songs - 3 hr 23 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,077 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 40 | [Impressive](https://open.spotify.com/track/1L0IGzJXz2ja4OzXef1pb5) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [SEBS](https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv) | [Impressive](https://open.spotify.com/album/7t751Owrp6BfQ2ALySrHcb) | 3:17 |
 | 41 | [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 |
 | 42 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
-| 43 | [I'm Black And I'm Proud \- Say It Loud](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
+| 43 | [I'm Black And I'm Proud \- Say It Loud \- Carl Cox Remix](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
 | 44 | [Happy Now](https://open.spotify.com/track/0l474w2YQgQbcKb5paNqqm) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [LEA KEY](https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py) | [Happy Now](https://open.spotify.com/album/6zE5cgugzspELcJ2QbfFMT) | 2:48 |
 | 45 | [Fire](https://open.spotify.com/track/6BvpLBewAjGV1HApZUO6kf) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire](https://open.spotify.com/album/3Tk2qCdelK2HMbsR5oeTR5) | 2:49 |
 | 46 | [Beg You](https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I) | 3:31 |

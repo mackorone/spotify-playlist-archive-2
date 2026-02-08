@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,858 songs - 4 day 15 hr 28 min
+1,861 songs - 4 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Afghan House Music](https://open.spotify.com/track/1JYjENLsXqrmmcujDJJhWb) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Afghan House Music](https://open.spotify.com/album/4po7vfWFJJyPU1cfnq5iP2) | 2:09 | 2024-07-08 |  |
 | [Afghan méditation \(Phaz\-M Dub\) \- Bonus Remix](https://open.spotify.com/track/3GPC3dRA6tbBmW72p3KB2d) | [Tokiboun in Dub](https://open.spotify.com/artist/4Zd57im34ghqIM6ddkHCgt) | [Back To Roots](https://open.spotify.com/album/3QidxNN8JpX0ttlGDXWeYa) | 4:27 | 2024-03-25 |  |
 | [After the Storm \- Original](https://open.spotify.com/track/5Go15EVaITaamtyyudMbJJ) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [After the Storm \(Original\)](https://open.spotify.com/album/3o4Ag0hDx39GlHxsv09smM) | 3:14 | 2025-06-13 |  |
+| [After Us](https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [After Us](https://open.spotify.com/album/3C6v5BaV8srOBwaNLh5FgF) | 2:52 | 2026-02-07 |  |
 | [After You](https://open.spotify.com/track/6pH5wINAKInCg1OxE6QY0I) | [Ash](https://open.spotify.com/artist/2UEvPFghxa2unrXspMoZN7) | [After You](https://open.spotify.com/album/08mW2ftkRYULnuRXLMlk2C) | 3:10 | 2025-10-14 |  |
 | [again](https://open.spotify.com/track/6J8EbkOM82wM3QtG0q128D) | [camel tea](https://open.spotify.com/artist/5yf9YCtCeCNchkICE5KLRU) | [again](https://open.spotify.com/album/5TDj05hZIp16RoCNE1VJNd) | 1:54 | 2025-07-24 |  |
 | [Against The Wall](https://open.spotify.com/track/1MfY1CuNpSJ23AYieCle5G) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Devon Khemis](https://open.spotify.com/artist/6KyH8N4sK1BViGWeJcvFzb) | [Against The Wall](https://open.spotify.com/album/5HqGBu2KF69d0JfEnLnY4f) | 3:43 | 2024-06-15 |  |
@@ -72,6 +73,7 @@
 | [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2025-10-19 |  |
 | [Alas Caen](https://open.spotify.com/track/3p4mwOyOG9iim4nW37vt9t) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:07 | 2025-12-28 |  |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2025-05-28 |  |
+| [Algo Contigo](https://open.spotify.com/track/04IYmx3hnHCW5N92NkxLdV) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/5kWG1PvuankLZD7qB0Y9YI) | 2:46 | 2026-02-07 |  |
 | [Algo Contigo](https://open.spotify.com/track/4dio9a7xk81pZX1WZuOh0J) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/2PmZzeSRdNacwv3UjeLEBa) | 2:50 | 2025-12-07 |  |
 | [Alice e le creature selvagge](https://open.spotify.com/track/7GocVAL8CA2DchgaV5yltL) | [Giambo Riot](https://open.spotify.com/artist/3E2ouU0jc9SncJlUS3ZMYO) | [Alice e le creature selvagge](https://open.spotify.com/album/0Tg84jnFEr3eOMv60xFJ3E) | 2:39 | 2024-06-24 |  |
 | [Alive](https://open.spotify.com/track/6uHS8IQdVysaVEWbNWyH4p) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi), [Steve Fox](https://open.spotify.com/artist/5HieGYijqqAt5A5CYC3ubT) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:59 | 2025-02-21 |  |
@@ -1562,6 +1564,7 @@
 | [TASUNKA SPIRIT](https://open.spotify.com/track/3uDZHwO6IfdjHe5o3BxSVq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:12 | 2025-12-01 |  |
 | [Te Lo Prometto](https://open.spotify.com/track/2UVMzm3egccRhN7ISRMB9a) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Te Lo Prometto](https://open.spotify.com/album/2V91RVR7rpLbSDofPKMJaW) | 4:31 | 2025-01-20 |  |
 | [Te Puedes ir](https://open.spotify.com/track/3CqlYmAHH2oj3vwOt81A25) | [G&Ps](https://open.spotify.com/artist/40IHFG8ilT0T5liBRtSsfp) | [Te Puedes ir](https://open.spotify.com/album/43xn0DdOarKZZhP1fIndft) | 2:43 | 2025-08-27 |  |
+| [Te Tīmatanga \(Te Aka\)](https://open.spotify.com/track/1XZNkzpGGZvVasGQa9wHCj) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 7:37 | 2026-02-07 |  |
 | [Te vas milonga](https://open.spotify.com/track/70U2FFW5R9UDaBjjpdKycn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Te vas milonga](https://open.spotify.com/album/6N5YpykukS9nj2dRCO0nG6) | 2:05 | 2025-12-18 |  |
 | [Te Vuelves Loca](https://open.spotify.com/track/5f3MWc6zj0bGLXyhbYiAis) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Te Vuelves Loca](https://open.spotify.com/album/6Cnh6082MCq5hsxutry4UB) | 4:00 | 2025-06-05 |  |
 | [Techno Dub](https://open.spotify.com/track/6KOjDQ7ZVMvtgJU3HW824M) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 4:13 | 2024-03-25 |  |

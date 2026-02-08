@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 893882,
+  "num_followers": 894038,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,30 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Sabu",
+        "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        },
+        {
+          "name": "Palane",
+          "url": "https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Sabu",
+      "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Sabu",
-        "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        },
-        {
-          "name": "Palane",
-          "url": "https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Sabu",
-      "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -435,30 +435,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "I See The Sun",
-        "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Dougwav",
-          "url": "https://open.spotify.com/artist/3XNHVw99EepjC8ElMiyLJd"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "I See The Sun",
-      "url": "https://open.spotify.com/track/5VDeDeUUar6zrLw3XZAdCX"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Forever (feat. Malou & Yuna) [MEDUZA Remix]",
         "url": "https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "I See The Sun",
+        "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Dougwav",
+          "url": "https://open.spotify.com/artist/3XNHVw99EepjC8ElMiyLJd"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "I See The Sun",
+      "url": "https://open.spotify.com/track/5VDeDeUUar6zrLw3XZAdCX"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -579,42 +579,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Waya",
         "url": "https://open.spotify.com/album/1KDIQD5as4eTpPS8YfgKfB"
       },
@@ -639,6 +603,42 @@
       "duration_ms": 222096,
       "name": "Waya",
       "url": "https://open.spotify.com/track/4Dd72AtS6qXYPNSLE8cpMq"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Sentimental (Sombras)",
+        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Sentimental - Sombras",
+      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Sentimental (Sombras)",
-        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Sentimental - Sombras",
-      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1067,6 +1067,34 @@
       "duration_ms": 235560,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Amazone Project",
+        "url": "https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "Raiz Brasileira",
+      "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1191,26 +1219,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Un Idiota (Te Perd\u00ed)",
-        "url": "https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Un Idiota - Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
       },
@@ -1247,18 +1255,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Un Idiota (Te Perd\u00ed)",
+        "url": "https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 300487,
+      "name": "Un Idiota - Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1279,6 +1291,22 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1363,22 +1391,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
-      },
-      "artists": [
-        {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
-        }
-      ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Liya Snin (Omerar Nanda Remix)",
         "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
       },
@@ -1395,6 +1407,22 @@
       "duration_ms": 395851,
       "name": "Liya Snin - Omerar Nanda Remix",
       "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+      },
+      "artists": [
+        {
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+        }
+      ],
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1531,22 +1559,6 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
-      },
-      "artists": [
-        {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
-        }
-      ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     }
   ],
   "unique_name": "Org\u00e1nica",

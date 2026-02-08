@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Yugi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,275 likes - 115 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,361 likes - 115 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

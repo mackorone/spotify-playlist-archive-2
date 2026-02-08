@@ -72085,6 +72085,24 @@
     },
     {
       "album": {
+        "name": "Worth the Silence",
+        "url": "https://open.spotify.com/album/5G79tZEzc5h10DTubDOhpv"
+      },
+      "artists": [
+        {
+          "name": "Sadja",
+          "url": "https://open.spotify.com/artist/3raZKrJIHOZXG0U0iYlDXq"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176435,
+      "name": "Worth the Silence",
+      "url": "https://open.spotify.com/track/0voIA6g9vfC7URJnjSXOpi"
+    },
+    {
+      "album": {
         "name": "Eighties style heavy metal",
         "url": "https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bn680.md) - [plain]
 
 > This is John Rutter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,798 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,799 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bn680.md) - [plain]
 | 49 | [Cantique de Jean Racine, Op\. 11 \(Arr\. J\. Rutter for Choir & Organ\)](https://open.spotify.com/track/6U9cTWvX7mc5ZZXOiwd6n6) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn) | [Fauré: Requiem & Other Sacred Music](https://open.spotify.com/album/3FxEvGKYi8BATuUqDU7zv7) | 6:46 |
 | 50 | [Jesu dulcis memoria](https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [The Sacred Flame](https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb) | 1:56 |
 
-Snapshot ID: `aYPdgAAAAADIgIs4Pk6mHUDDtIk82i5f`
+Snapshot ID: `aYPdgAAAAACaEVIkP6xGmwMy9eIrBfMe`

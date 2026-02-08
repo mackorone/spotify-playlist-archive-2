@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "OK UK",
+        "url": "https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM"
+      },
+      "artists": [
+        {
+          "name": "Mal Fantome",
+          "url": "https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223999,
+      "name": "I'm Only Sleeping",
+      "url": "https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT"
+    },
+    {
+      "album": {
         "name": "I`m Still Looking for a New",
         "url": "https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs"
       },
@@ -1628,6 +1646,24 @@
       "duration_ms": 179500,
       "name": "Just Another Sad Song",
       "url": "https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB"
+    },
+    {
+      "album": {
+        "name": "knocked -down/-out",
+        "url": "https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256642,
+      "name": "knocked -down/-out",
+      "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
     },
     {
       "album": {
@@ -2673,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Scenes Of Doubt",
+        "url": "https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294360,
+      "name": "Scenes Of Doubt",
+      "url": "https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo"
+    },
+    {
+      "album": {
         "name": "Season 2",
         "url": "https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke"
       },
@@ -2724,6 +2778,24 @@
       "duration_ms": 202360,
       "name": "sela",
       "url": "https://open.spotify.com/track/6tjqn0snHDfmNcUiidheUa"
+    },
+    {
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259716,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-564 songs - 1 day 5 hr 34 min
+565 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Hurtin' Me \- The Remix](https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [SECURE](https://open.spotify.com/album/5asFxV5BYQsPkI1IaIOGAU) | 4:01 | 2021-12-16 | 2022-02-23 |
 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-04-11 | 2024-05-16 |
 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 | 2021-12-16 | 2022-06-17 |
-| [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 | 2025-05-15 |  |
+| [I'll Be Fire](https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He) | [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [I'll Be Fire](https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7) | 3:10 | 2025-05-15 | 2026-02-08 |
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2023-02-02 |  |
 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 | 2022-03-25 | 2022-04-20 |
 | [I.L.Y](https://open.spotify.com/track/37Sw3UuUzxK5iqbDfao6Df) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [I.L.Y](https://open.spotify.com/album/6n6czlJGJOEXP4BC2CRPXh) | 4:05 | 2022-02-03 | 2022-04-21 |
@@ -308,6 +308,7 @@
 | [LUV](https://open.spotify.com/track/16Ah4QqH4mgYVXqfC4mdSd) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:48 | 2021-12-28 | 2022-01-08 |
 | [LV N ATTN feat\. Wizkid](https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2023-01-20 |  |
 | [Lying If I Call It Love \(feat\. Sean Paul\)](https://open.spotify.com/track/3QqBBoWtiYtwiDlllNYHKh) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:22 | 2022-05-12 |  |
+| [Ma Cherie](https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [Ma Cherie](https://open.spotify.com/album/3jPPxi0ijDeVLGFwoTn3R2) | 2:03 | 2026-02-06 |  |
 | [Ma Chérie](https://open.spotify.com/track/7gASo1nsltnRPTTAbCsKbR) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Ma Chérie](https://open.spotify.com/album/67psZOiWyVS719FQdrmtpy) | 2:54 | 2022-05-16 | 2022-07-29 |
 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 | 2021-12-16 | 2022-02-24 |
 | [Ma Play](https://open.spotify.com/track/3ijQFCjoldvRJjOn4AK4iS) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Ma Play](https://open.spotify.com/album/4qzc0y1T0cMgAus1kYB9nt) | 3:03 | 2021-12-16 | 2022-12-15 |

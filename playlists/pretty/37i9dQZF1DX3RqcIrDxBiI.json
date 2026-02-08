@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour.",
-  "num_followers": 154381,
+  "num_followers": 154383,
   "original_name": "je t'aime",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-02-06 18:20:07",
       "album": {
+        "name": "France Gall (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/33HVMY47BnuQPkkPcXIytd"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 202440,
+      "name": "La d\u00e9claration d'amour - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/76SXRuctCDXlL82Mkh5yJm"
+    },
+    {
+      "added_at": "2026-02-06 18:20:07",
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7nEHTOQJqKCx7Dvgng3l8t"
-    },
-    {
-      "added_at": "2026-02-06 18:20:07",
-      "album": {
-        "name": "France Gall (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/33HVMY47BnuQPkkPcXIytd"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "La d\u00e9claration d'amour - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/76SXRuctCDXlL82Mkh5yJm"
     },
     {
       "added_at": "2026-02-06 18:20:07",

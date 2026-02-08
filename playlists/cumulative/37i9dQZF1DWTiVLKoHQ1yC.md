@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-345 songs - 23 hr 19 min
+346 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 | 2024-03-15 | 2024-04-28 |
 | [All We Ever Do](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [All We Ever Do](https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV) | 3:15 | 2024-07-12 | 2025-06-27 |
 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 | 2022-01-14 | 2024-03-17 |
+| [Alone With You](https://open.spotify.com/track/61C23J1jduYNQVe69XBupp) | [Andrew Nagy](https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Alone With You](https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe) | 3:28 | 2025-12-19 |  |
 | [Always](https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Always](https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8) | 3:04 | 2024-03-15 | 2024-07-21 |
 | [Angels](https://open.spotify.com/track/43tqB1PqZ7WbaUiVZog1mI) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Angels](https://open.spotify.com/album/03OwRUUY0aRLZOC3Ad8RZI) | 3:28 | 2024-11-22 | 2025-01-11 |
 | [Another](https://open.spotify.com/track/3e8RJKof3ohJkoEKChvH2F) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Another](https://open.spotify.com/album/3PIcb7olB62RHxTdetIDUK) | 3:06 | 2024-03-29 | 2024-04-07 |
@@ -289,7 +290,7 @@
 | [Subjection](https://open.spotify.com/track/4AyAH1LveAELiQcNinLjWq) | [Submelody](https://open.spotify.com/artist/2V3yQTh4W2YjBedZfmJHu3) | [Subjection](https://open.spotify.com/album/1faSbiHil2yg9zBzUhL5EP) | 6:38 | 2022-01-14 | 2022-07-28 |
 | [Suitcase](https://open.spotify.com/track/6Y2u5I0oHgnF71oxPsrtqO) | [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Suitcase](https://open.spotify.com/album/0q0Tg8vDvfhKzhCZaDlOU7) | 7:02 | 2022-01-14 | 2022-08-10 |
 | [Sunlight \- Rodriguez Jr\. Remix](https://open.spotify.com/track/6YbP1KNL5EizngkpQCidCy) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Sunlight \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/4ghjVnOfgIDSq7mJ40tOGq) | 3:19 | 2024-02-23 | 2024-03-29 |
-| [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 | 2025-02-21 |  |
+| [Sunrise](https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Sunrise](https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV) | 3:15 | 2025-02-21 | 2026-02-08 |
 | [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-09 | 2025-05-27 |
 | [take me \(to the sunrise\)](https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [take me \(to the sunrise\)](https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF) | 3:46 | 2025-11-28 |  |
 | [Take Me Home](https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Take Me Home](https://open.spotify.com/album/0XDch3owENNks3bapuFjAs) | 3:31 | 2024-03-29 | 2025-06-27 |

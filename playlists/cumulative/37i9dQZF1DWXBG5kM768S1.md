@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-270 songs - 17 hr 15 min
+271 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2020](https://open.spotify.com/track/2JCskibhK5KQk8v8An371h) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [2020](https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3) | 4:35 | 2021-12-16 | 2022-07-28 |
 | [2023](https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Heil ved \- Musikken](https://open.spotify.com/album/5mqPvf7oEXdng9pKsSz9NI) | 3:15 | 2023-12-14 | 2024-01-19 |
 | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z) | 4:27 | 2022-01-20 | 2022-07-09 |
-| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 |  |
+| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 | 2026-02-08 |
 | [Alexander Kiellands plass \- Live](https://open.spotify.com/track/1vOMjmVZF9azOFd6SjIQuv) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e), [Andy Irvine](https://open.spotify.com/artist/1nVYeUhlYzmXf0Dl9yk8P2) | [Live in Telemark](https://open.spotify.com/album/1ICtv14N8EWSJKe7GjUIhj) | 3:15 | 2022-03-23 | 2022-07-10 |
 | [Alle de tinga \(allting blei stilt\)](https://open.spotify.com/track/0iuowI2TuzdWdsoJgHJle0) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Like små](https://open.spotify.com/album/0mc6rENGnb9PREGbN4IUao) | 4:23 | 2021-12-16 | 2022-06-28 |
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2024-04-19 |
@@ -159,6 +159,7 @@
 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 | 2021-12-16 |  |
 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 | 2021-12-16 |  |
 | [Klare eg å være her?](https://open.spotify.com/track/35dxdGcvjlwsri0eH4QpKx) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Klare eg å være her?](https://open.spotify.com/album/0bhfxkGkbIDpeSKRCd0gww) | 4:01 | 2024-05-02 | 2024-06-11 |
+| [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 | 2026-02-05 |  |
 | [Kom Sommarvijnn](https://open.spotify.com/track/4Fd3PLV1eWKmWt3MvQp6kq) | [Tove Karoline Knutsen](https://open.spotify.com/artist/0H20aoTibm2Q403c4RD4Dk) | [Blå Kveill](https://open.spotify.com/album/6lAQCB6EzlD0mBAwWj84Zs) | 2:31 | 2022-01-06 | 2022-07-29 |
 | [Kommer du snart hjem](https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Kommer du snart hjem](https://open.spotify.com/album/01TKLXHh77apQPHag1FgAZ) | 4:16 | 2022-01-06 | 2022-05-13 |
 | [Kongen Av Ingenting](https://open.spotify.com/track/7i9MaELeXg5h6AZVLHkgTM) | [Johbru](https://open.spotify.com/artist/2h1VhxgeLNVn9VxkzlEhli) | [Kongen Av Ingenting](https://open.spotify.com/album/19x4mrX3ctHNseL2wiOf5f) | 4:17 | 2022-03-23 | 2022-04-22 |

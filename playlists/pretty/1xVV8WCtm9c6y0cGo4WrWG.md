@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: J\. Cole
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,996 likes - 100 songs - 4 hr 54 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,995 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

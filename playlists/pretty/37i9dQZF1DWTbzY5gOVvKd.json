@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1294365,
+  "num_followers": 1294443,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-06 08:49:50",
       "album": {
+        "name": "(I Love You) For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/6FIAYxUfNYUBlbsozYvEVL"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        }
+      ],
+      "duration_ms": 193665,
+      "name": "(I Love You) For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
+    },
+    {
+      "added_at": "2026-02-06 08:49:50",
+      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 230484,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ"
-    },
-    {
-      "added_at": "2026-02-06 08:49:50",
-      "album": {
-        "name": "(I Love You) For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/6FIAYxUfNYUBlbsozYvEVL"
-      },
-      "artists": [
-        {
-          "name": "Jason LaPierre",
-          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
-        }
-      ],
-      "duration_ms": 193665,
-      "name": "(I Love You) For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/3flk0bEkjOaWSxFQSsbJ9K"
     },
     {
       "added_at": "2026-02-06 08:49:50",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-02-06 08:49:50",
       "album": {
+        "name": "My Funny Valentine",
+        "url": "https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 235633,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
+    },
+    {
+      "added_at": "2026-02-06 08:49:50",
+      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
-    },
-    {
-      "added_at": "2026-02-06 08:49:50",
-      "album": {
-        "name": "My Funny Valentine",
-        "url": "https://open.spotify.com/album/1WClO9dEWjLHcF2gGdUwl8"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 235633,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/03m9D4CmDmDJ1J65Yige0E"
     },
     {
       "added_at": "2026-02-06 08:49:50",

@@ -1,6 +1,6 @@
 {
   "description": "This is our playground \ud83e\udea9\u200a Cover: Keinemusik",
-  "num_followers": 950450,
+  "num_followers": 950616,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 224124,
       "name": "PICK UP THE PHONE (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "set me free",
         "url": "https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 218360,
       "name": "set me free",
       "url": "https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "Waitin'",
-        "url": "https://open.spotify.com/album/06N9nd3RaU5EwoiO9PyMtN"
-      },
-      "artists": [
-        {
-          "name": "HotLap",
-          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Waitin'",
-      "url": "https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "Metro",
         "url": "https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
+        "name": "Waitin'",
+        "url": "https://open.spotify.com/album/06N9nd3RaU5EwoiO9PyMtN"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Waitin'",
+      "url": "https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 164983,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
         "name": "Neverender (Rampa Remix)",
         "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 384062,
       "name": "Neverender - Rampa Remix",
       "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 164983,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A"
-      },
-      "artists": [
-        {
-          "name": "JUNO (DE)",
-          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
-        }
-      ],
-      "duration_ms": 273999,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "BATTERY OPERATED",
         "url": "https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 127994,
       "name": "BATTERY OPERATED",
       "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A"
+      },
+      "artists": [
+        {
+          "name": "JUNO (DE)",
+          "url": "https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -1507,30 +1507,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "Love Parade",
-        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 206308,
-      "name": "Love Parade",
-      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -1551,6 +1527,30 @@
       "duration_ms": 189783,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
+        "name": "Love Parade",
+        "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "duration_ms": 206308,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
     },
     {
       "added_at": "2026-01-29 23:00:35",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b"
-      },
-      "artists": [
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-01-29 23:00:35",
       "album": {
-        "name": "Drop The Beat On The Floor",
-        "url": "https://open.spotify.com/album/4wgcUDAXaLSSPK22i8IH7x"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Drop The Beat On The Floor",
-      "url": "https://open.spotify.com/track/5B3dZI82453s5g8et7F5Cc"
-    },
-    {
-      "added_at": "2026-01-29 23:00:35",
-      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2026-01-29 23:00:35",
+      "album": {
+        "name": "Drop The Beat On The Floor",
+        "url": "https://open.spotify.com/album/4wgcUDAXaLSSPK22i8IH7x"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Drop The Beat On The Floor",
+      "url": "https://open.spotify.com/track/5B3dZI82453s5g8et7F5Cc"
     },
     {
       "added_at": "2026-01-29 23:00:35",

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3835,
+  "num_followers": 3836,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Diamant Noir",
-        "url": "https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs"
-      },
-      "artists": [
-        {
-          "name": "Juste Shani",
-          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
-        }
-      ],
-      "duration_ms": 119480,
-      "name": "Brillance",
-      "url": "https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Diamant Noir",
+        "url": "https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs"
+      },
+      "artists": [
+        {
+          "name": "Juste Shani",
+          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+        }
+      ],
+      "duration_ms": 119480,
+      "name": "Brillance",
+      "url": "https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97"
-      },
-      "artists": [
-        {
-          "name": "Juste Shani",
-          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 301277,
       "name": "Jaouad",
       "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97"
+      },
+      "artists": [
+        {
+          "name": "Juste Shani",
+          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -459,18 +459,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+        "name": "ROOM",
+        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "marta",
+          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
         }
       ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
+      "duration_ms": 306128,
+      "name": "GROUND",
+      "url": "https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "ROOM",
-        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
       "artists": [
         {
-          "name": "marta",
-          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 306128,
-      "name": "GROUND",
-      "url": "https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp"
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "ROOM",
+        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
+      },
+      "artists": [
+        {
+          "name": "marta",
+          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
+        }
+      ],
+      "duration_ms": 375893,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Head Out",
         "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 186818,
       "name": "Sotula",
       "url": "https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "ROOM",
-        "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
-      },
-      "artists": [
-        {
-          "name": "marta",
-          "url": "https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt"
-        }
-      ],
-      "duration_ms": 375893,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8"
     },
     {
       "added_at": "2025-11-20 17:00:08",

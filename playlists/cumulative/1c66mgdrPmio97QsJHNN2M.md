@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,069 songs - 2 day 11 hr 13 min
+1,073 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [He was The Voice](https://open.spotify.com/track/3IxzLefi2XiqDHqpclETMS) | [Lyle Akins](https://open.spotify.com/artist/3BxdGcNlA27sd3RykVMybq) | [He was The Voice](https://open.spotify.com/album/5U7dAKqrswqU89z2ovscYe) | 4:00 | 2026-01-21 |  |
 | [Heads They Win, Tails You Lose](https://open.spotify.com/track/4MpSdS7jrDQBUkRYY1b2xY) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Heads They Win, Tails You Lose](https://open.spotify.com/album/6Bs8TFZaEQflRKJpsmtQIn) | 6:04 | 2026-02-02 |  |
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2025-12-22 | 2026-01-24 |
+| [Heavy on the Rebound \- 2026 version](https://open.spotify.com/track/2EX08x5iXKRE6cBPI1Yli1) | [Ruddinn](https://open.spotify.com/artist/3Io9kSx8VlQdw5RjxSpaZH) | [Heavy on the Rebound \(2026 version\)](https://open.spotify.com/album/1AZ7XPYR0Rz7fJsv47BNay) | 3:15 | 2026-02-07 |  |
 | [Hello Mr Ice Cream Man](https://open.spotify.com/track/7iQV2jpNn8b2d41xMI7HoP) | [Marla Grey](https://open.spotify.com/artist/4xGLEueGKmkYO26r7Uh1B4) | [Hello Mr Ice Cream Man](https://open.spotify.com/album/1BmO8A14aUrlzJfie57RqS) | 3:33 | 2025-11-16 | 2025-12-19 |
 | [Here To Stay](https://open.spotify.com/track/7fCShYg6SGtz8S1bJHHC18) | [Beach Symphony](https://open.spotify.com/artist/1g7T3WjueJnRn8SU9b4zRJ) | [Here To Stay](https://open.spotify.com/album/04cUVjCm0vLXR72kUGMykn) | 3:38 | 2025-10-26 | 2026-01-15 |
 | [Hex Girl](https://open.spotify.com/track/46asTlY8z9HP9oEON23EmT) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [Hex Girl](https://open.spotify.com/album/766G8rjZkrfGn543XZ1WuL) | 3:03 | 2026-01-02 | 2026-02-03 |
@@ -470,6 +471,7 @@
 | [IYKYK](https://open.spotify.com/track/2MHZg1SAC5jCuTNsm9uO6Y) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [IYKYK](https://open.spotify.com/album/2kACKOnRggw9oPwu2sJcRb) | 2:56 | 2025-12-03 | 2026-01-04 |
 | [James](https://open.spotify.com/track/27auLUTUz5zzFjkuffOEAN) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [James](https://open.spotify.com/album/03LbkbBHfZ90TWp9uUXl3R) | 2:25 | 2026-02-03 |  |
 | [January Feels Like June](https://open.spotify.com/track/75ykWeIGS5N5rL2bUJZ44A) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [January Feels Like June](https://open.spotify.com/album/3ARMlXwlx4wcxQMPae2GUD) | 3:06 | 2026-01-19 |  |
+| [Japanese Girl](https://open.spotify.com/track/1wij8GBaGXtqJrwPmz0IYF) | [STEFANO MONASTRA](https://open.spotify.com/artist/50ZS6gIeMgAgh8CZtmc5fF) | [Japanese Girl](https://open.spotify.com/album/2dhreyeYXICjUJQlfwFvGt) | 1:03 | 2026-02-07 |  |
 | [Japanese Onsen](https://open.spotify.com/track/28WXWbhioXPcw3v4cvzjv9) | [Monster Taxi](https://open.spotify.com/artist/27o7oSOG3aEzsNaAnm2hgZ) | [Japanese Onsen](https://open.spotify.com/album/6xOQMZu1tkEGHPyd5Gnxtc) | 3:56 | 2025-12-11 | 2026-01-15 |
 | [Juliana](https://open.spotify.com/track/6ok53GIbucAV4oeczKEG7v) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 4:00 | 2025-12-22 | 2026-01-24 |
 | [JUMP!](https://open.spotify.com/track/0OaTHwTOgtosfdWf2wohbY) | [Ale Daietti](https://open.spotify.com/artist/0DPMgg8x6bgjblkW9Qk3vA) | [JUMP!](https://open.spotify.com/album/3YrV4GzNp01wiGCu41CHVv) | 2:20 | 2025-12-19 | 2026-01-21 |
@@ -598,6 +600,7 @@
 | [Missing You](https://open.spotify.com/track/68HFPgvK8PV2n3SEF2O2Nn) | [JOLAND](https://open.spotify.com/artist/4P31qgsqNpBw31JzfhMOnF) | [Missing You](https://open.spotify.com/album/6uNN9c1OFejLRFBbScrU8u) | 2:17 | 2025-11-21 | 2025-12-23 |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-11-26 |
 | [Monsters](https://open.spotify.com/track/2gk5jND6WrtdLEfaYonmYx) | [Frida and The Mann](https://open.spotify.com/artist/5rhfONpeaUub9YJlqnCpgN) | [Monsters](https://open.spotify.com/album/39pG2bKnMefz5m1PUSuF9G) | 3:19 | 2026-02-02 |  |
+| [Mood Rings](https://open.spotify.com/track/3z4KzErVuVDetkPBmO8ZP9) | [Ai.AL3X](https://open.spotify.com/artist/5kxrePCrknpiwBgwfIg30Y) | [Mood Rings](https://open.spotify.com/album/3Tds0cYYe5BmF9dqbwzm4Q) | 2:29 | 2026-02-07 |  |
 | [MOON](https://open.spotify.com/track/6riL7V2IU8rPsdhspPAEnh) | [P.S\. Finn](https://open.spotify.com/artist/5LIEw3fAtnKcBcscLjvORK) | [MOON](https://open.spotify.com/album/7wfKikHveJgIMX6mwpgLMN) | 1:25 | 2026-01-07 |  |
 | [Morning Light](https://open.spotify.com/track/7q3bSnB43PJgmcJzB4gnzx) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Morning Light](https://open.spotify.com/album/37kNz5cw59TbcijwmZI8eu) | 3:59 | 2025-12-30 | 2026-02-03 |
 | [Mother](https://open.spotify.com/track/1UEDedcftmCpsIf6SD1yGX) | [Jo Creek](https://open.spotify.com/artist/29eTtf15M911gc3shPv4Bc) | [Mother](https://open.spotify.com/album/1qTremrsgIehYp1Wic4KSV) | 3:45 | 2025-10-28 | 2025-11-30 |
@@ -992,6 +995,7 @@
 | [Venom](https://open.spotify.com/track/123fITFBUeEY2TZthQumRM) | [Jenasis](https://open.spotify.com/artist/1m5tM87HoGL5ePg8IddymH) | [Venom](https://open.spotify.com/album/6EufUlmb84DvL4NHd6od4b) | 2:55 | 2025-10-23 | 2025-11-24 |
 | [Venom](https://open.spotify.com/track/5lr1O5jLSGnifzxwwMnwoY) | [Paytra](https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg) | [Venom](https://open.spotify.com/album/7aIBqtPzDT6oABeZr1uUfb) | 3:04 | 2025-12-08 | 2026-01-15 |
 | [Venom Kiss](https://open.spotify.com/track/7GGmuMh2OzjN1ZSvJbN7YT) | [Luna Stormlander](https://open.spotify.com/artist/7vHPnvRW2chl0EXKwitZqW) | [Venom Kiss](https://open.spotify.com/album/0V2HlUKnCimQIPNx9hr8RH) | 3:21 | 2026-01-17 |  |
+| [Victor \- birthday drop](https://open.spotify.com/track/1QtdlV9sb77sNN9siEW8OV) | [Max Wong](https://open.spotify.com/artist/6dt6t2Uu1mQDzccRNsrLSw) | [Victor \(birthday drop\)](https://open.spotify.com/album/7JwvFmghIc0UxIVxeMzbLv) | 2:45 | 2026-02-07 |  |
 | [VIENNA WHISPER \(VICE\)](https://open.spotify.com/track/09FPNtlUfHNkRdQks6uWOv) | [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [WILD TYPE](https://open.spotify.com/album/7lrzBhmvK7eKUAdNzp4uNP) | 3:07 | 2025-12-04 | 2026-01-05 |
 | [VILLAIN](https://open.spotify.com/track/2xkE8nmoQJObtgxOmsKf9G) | [A'Maria Imani](https://open.spotify.com/artist/0SvNczAhQ3pyWP6jceyPpC) | [CYNICISM](https://open.spotify.com/album/4XVnvJWIxsgLBJsfvh3cia) | 3:26 | 2025-12-28 | 2026-02-03 |
 | [VOID IN MY SOUL](https://open.spotify.com/track/02SgYwvrfPnGtmxDStCg0y) | [AFTRL1FE](https://open.spotify.com/artist/4hoBP5Unwr3xKZhFISTkV1) | [VOID IN MY SOUL](https://open.spotify.com/album/7hmdKWkZLYJKJBtM385lml) | 2:21 | 2026-01-14 |  |

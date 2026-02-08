@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to jan-feb 2026",
-  "num_followers": 23895,
+  "num_followers": 23896,
   "original_name": "now is not the time, the time is now",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAN4n9E7oxvoQ5NLARyT6Y4SwIaSjWO",
+  "snapshot_id": "AAAN4z4Z9RiUxlcaHqQEXRNV65VZKj6g",
   "tracks": [
     {
       "added_at": "2026-01-08 20:03:59",
@@ -863,6 +863,26 @@
       "duration_ms": 198000,
       "name": "the producer",
       "url": "https://open.spotify.com/track/2Wx54D8JPCgXHgUzxs1RGI"
+    },
+    {
+      "added_at": "2026-02-07 14:46:53",
+      "album": {
+        "name": "Nelson Angelo E Joyce",
+        "url": "https://open.spotify.com/album/0YGaT2B4czmv6YDsz4bgPT"
+      },
+      "artists": [
+        {
+          "name": "Nelson Angelo",
+          "url": "https://open.spotify.com/artist/6tXJsM9aKkrxuPox1ziD79"
+        },
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Comunh\u00e3o",
+      "url": "https://open.spotify.com/track/2lStGDJa1Z2hA7NskFdKJE"
     }
   ],
   "unique_name": "now is not the time, the time is now",

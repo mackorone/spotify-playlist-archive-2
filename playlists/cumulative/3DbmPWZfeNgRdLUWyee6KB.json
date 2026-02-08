@@ -10667,6 +10667,24 @@
     },
     {
       "album": {
+        "name": "Trattore elettrico",
+        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219605,
+      "name": "Trattore elettrico",
+      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
+    },
+    {
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0kyV92eXT3VyZxas1mPOd8"
       },

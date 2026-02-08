@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: EsDeeKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,438 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,465 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 4 | [Alpenflage](https://open.spotify.com/track/32fQHw1cgqqGsspPVfRXNj) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Alpenflage](https://open.spotify.com/album/27x0RvWDONBs4nrfo3r3QK) | 2:13 |
 | 5 | [KOBE & SHAQ \(feat\. Co Cash\)](https://open.spotify.com/track/71sbRkNNACDmzdl4G3dfuZ) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [T.B.C \(Reloaded\)](https://open.spotify.com/album/1JTuVcbEH3gnHMDWcalZAr) | 2:44 |
 | 6 | [DON JULIO LEMONADE](https://open.spotify.com/track/2PB2qWeMiyDPHXIz8AwzSs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BE MORE GRATEFUL](https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg) | 2:00 |
-| 7 | [Bunce Road Blues](https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:10 |
+| 7 | [Bunce Road Blues \(with Future & Tems\)](https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:10 |
 | 8 | [ICON](https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [ICON](https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw) | 2:11 |
 | 9 | [Pickup](https://open.spotify.com/track/3gAC0FGwgRuwM97G1OM69F) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Pickup](https://open.spotify.com/album/1MupQK4McEeoPyRXJs3wmv) | 2:34 |
 | 10 | [Shit I Like](https://open.spotify.com/track/71M0TLfXQEmVCqRzPURreC) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM), [Trap\-A\-Holics](https://open.spotify.com/artist/56AGdzJxOFwP3yjv9UG41A), [DJ Whoo Kid](https://open.spotify.com/artist/75rSoy9VvZ5fhmAE2O4KL5) | [Shit I Like](https://open.spotify.com/album/7JRDqajHDO9MDFl00lrtoC) | 3:04 |

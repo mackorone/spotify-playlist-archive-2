@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 172239,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/4L5vvZCqDaofu3sgnUk1DM"
@@ -5632,6 +5632,28 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "album": {
@@ -12610,7 +12632,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 186893,
       "name": "MARTINE ROSE",
       "url": "https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf"
@@ -14542,7 +14564,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -21758,7 +21780,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 143046,
       "name": "Vlone",
       "url": "https://open.spotify.com/track/6qZra71fzsZOgmCPwzBKLt"
@@ -28311,6 +28333,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228281,
+      "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
+    },
+    {
+      "album": {
         "name": "\u0417\u0430\u043b\u0435\u0436\u043d\u0456\u0441\u0442\u044c",
         "url": "https://open.spotify.com/album/3kqPBJF8BhkGX42jkwmffB"
       },
@@ -32856,7 +32896,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 166967,
       "name": "\u041d\u0456\u0447",
       "url": "https://open.spotify.com/track/3WXKnok5czWW1veDyPyFD7"
@@ -34346,7 +34386,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -35995,6 +36035,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0415\u0420\u0426\u0415 \u0413\u0420\u0418\u041c\u0418\u0422",
+        "url": "https://open.spotify.com/album/1ZagASZeB1w56n7BUravQ7"
+      },
+      "artists": [
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "\u0421\u0415\u0420\u0426\u0415 \u0413\u0420\u0418\u041c\u0418\u0422",
+      "url": "https://open.spotify.com/track/72ESIHxFe04vsx2gdV4IpP"
+    },
+    {
+      "album": {
         "name": "\u0441\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/6oBf10h9vqPnaA3GXuxgrZ"
       },
@@ -37042,7 +37100,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 190124,
       "name": "\u0422\u0430\u043a\u0443 \u044f\u043a \u0454",
       "url": "https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao"
@@ -37860,7 +37918,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 109542,
       "name": "\u0422\u0443\u043f\u043e\u0439",
       "url": "https://open.spotify.com/track/5pOKuJPebDJAr295s5NBTC"
@@ -38752,7 +38810,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 190818,
       "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542"

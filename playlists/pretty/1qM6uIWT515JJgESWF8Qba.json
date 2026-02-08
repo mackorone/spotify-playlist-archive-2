@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 324,
+  "num_followers": 327,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABKireu8mkTKkHMAW08Nqp50xrkR2u",
+  "snapshot_id": "AAABL3muOt2+ZPwSbRbzos20fgesZ4ge",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -843,6 +843,86 @@
       "duration_ms": 228484,
       "name": "Dr. Hammer",
       "url": "https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r"
+    },
+    {
+      "added_at": "2026-02-07 19:06:29",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Dancing on Fire",
+      "url": "https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN"
+    },
+    {
+      "added_at": "2026-02-07 19:33:52",
+      "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc"
+    },
+    {
+      "added_at": "2026-02-07 19:35:53",
+      "album": {
+        "name": "take me to the other side",
+        "url": "https://open.spotify.com/album/44gz5UtRohvze3YuLSX224"
+      },
+      "artists": [
+        {
+          "name": "Brake Loose",
+          "url": "https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "take me to the other side",
+      "url": "https://open.spotify.com/track/7DVCnily4QAjO3jaaD6eGd"
+    },
+    {
+      "added_at": "2026-02-07 21:32:55",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/71Dim5arhXCh24W6BP7oiB"
+      },
+      "artists": [
+        {
+          "name": "Gradience",
+          "url": "https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Onwards",
+      "url": "https://open.spotify.com/track/4xBM4eYPajrVlJTo6UD8E9"
+    },
+    {
+      "added_at": "2026-02-07 22:08:34",
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/5Bq8ujUGlIipkRlVi8Erwt"
+      },
+      "artists": [
+        {
+          "name": "James Ec",
+          "url": "https://open.spotify.com/artist/3WausLWOfDcxxAr2Bm7Ly9"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi"
     }
   ],
   "unique_name": "Local Rock Bands",

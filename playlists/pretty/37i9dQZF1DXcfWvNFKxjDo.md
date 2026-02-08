@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: ILLENIUM, Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,152 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,209 likes - 77 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 57 | [INSIDE A SPIN](https://open.spotify.com/track/7cfPUIhp55Lz62yVJlnTzi) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [INSIDE A SPIN](https://open.spotify.com/album/52HI0mKBiFhpr00lSSQsxx) | 3:18 |
 | 58 | [Can't Hold Us](https://open.spotify.com/track/2RGz9nulfSEwJHrMl4dB4W) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Can't Hold Us](https://open.spotify.com/album/4PjpLMIB9Lre9adOcSzRr2) | 2:21 |
 | 59 | [Remind Me To Forget](https://open.spotify.com/track/5moWB917EyCJ3wsahkV2Zl) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [CYCLE 1 EP](https://open.spotify.com/album/0LPM3jcXSAxbRdUSmHardB) | 2:44 |
-| 60 | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 3:42 |
+| 60 | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/track/7Hi3759R0rOVpcQOIqTbLk) | [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Amanece \(DJ Katch Remix\)](https://open.spotify.com/album/27Pu03QbeVez3nNz3vl6tx) | 2:38 |
 | 61 | [Waves Of Silence](https://open.spotify.com/track/4x5Qpwgl85O8k7YHecpFYM) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Waves Of Silence](https://open.spotify.com/album/4TLl8qxwa6TleRRz8dXQLc) | 3:46 |
 | 62 | [Gleich Laut](https://open.spotify.com/track/3u9eDtbZO6tHKUypp5hi4C) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1), [ichbinsonny](https://open.spotify.com/artist/0f8bIMnby7pCg3kkDE24kK) | [Gleich Laut](https://open.spotify.com/album/4F7B2vbkLPa0BZN3dEhNuL) | 2:19 |
 | 63 | [Begin Again \(feat\. Mokita\)](https://open.spotify.com/track/4W7h2WuFuCPDXey0LclFM1) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Begin Again \(feat\. Mokita\)](https://open.spotify.com/album/1zDTTyqP5iEHTKTjI1kI0R) | 3:38 |

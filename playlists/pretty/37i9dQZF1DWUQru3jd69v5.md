@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Aira e Tony Boy in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,492 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,500 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 31 | [Tyson](https://open.spotify.com/track/3K9jbkMAwN2iEwUWOGBplf) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [Tyson](https://open.spotify.com/album/0vGBomvsBvd0P3bTqDTVv0) | 2:45 |
 | 32 | [FLOW PAPA](https://open.spotify.com/track/24Oks4dkZ3mftdZhgREIHG) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [FLOW PAPA](https://open.spotify.com/album/07ldN1bAhf4u357xasL8wE) | 2:37 |
 | 33 | [Stanza d'Albergo](https://open.spotify.com/track/2UT55zrpVAV9H5lfznHvqV) | [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Stanza d'Albergo](https://open.spotify.com/album/36Tbt2hCPcgWysAHWruNI3) | 2:39 |
-| 34 | [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 |
+| 34 | [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Idua](https://open.spotify.com/artist/1a7b1Lrgvn3bKAs23oCI5b) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 |
 | 35 | [Nato in mezzo ai guai](https://open.spotify.com/track/5PdcKNHLopN4Mj9a8zLFDD) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [TonTon](https://open.spotify.com/artist/1ahEnU32IFHlomnoWGS3gv) | [Nato in mezzo ai guai](https://open.spotify.com/album/7N1xLrRKjHK7u1TOuaFos3) | 2:06 |
 | 36 | [COMUNQUE](https://open.spotify.com/track/65TtmO5uyoFyeE854Ety62) | [Mode Vsm](https://open.spotify.com/artist/3UNgv46aoBnXKSnazSNlHi) | [COMUNQUE](https://open.spotify.com/album/6FBITVvcoVJlWfJczs3Ysm) | 1:41 |
 | 37 | [MY BAD \(feat\. Over Lapa\)](https://open.spotify.com/track/3GkepKgluC0L7rW1ufxFkZ) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [LA TRAP NON MUORE MAI](https://open.spotify.com/album/5pUC1EVHuM0SDc3dB5bOQK) | 2:45 |

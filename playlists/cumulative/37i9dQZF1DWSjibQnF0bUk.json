@@ -415,6 +415,40 @@
     },
     {
       "album": {
+        "name": "AIBOO (feat. Thukuthela)",
+        "url": "https://open.spotify.com/album/2wcwX6B4KH6gotP7mrvs3a"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Da Lee LS",
+          "url": "https://open.spotify.com/artist/0ZQmMzhIBnlt5OVEZ1Vdhj"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333595,
+      "name": "AIBOO (feat. Thukuthela)",
+      "url": "https://open.spotify.com/track/6kLHqjWarT4VMxRFjWrEpe"
+    },
+    {
+      "album": {
         "name": "Akulaleki",
         "url": "https://open.spotify.com/album/0qaAJovAE75Ag87oioC3ie"
       },
@@ -7768,7 +7802,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166031,
+  "num_followers": 166043,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 212671,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "MHITR: The Album",
         "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 233146,
       "name": "Can't Decide",
       "url": "https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        },
-        {
-          "name": "Stush",
-          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
-        }
-      ],
-      "duration_ms": 212671,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Go Down Low",
+        "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 112140,
+      "name": "Go Down Low",
+      "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Midnight Control (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/6AsIVNHLfL69rCv0WtUX0Y"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Go Down Low",
-        "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 112140,
-      "name": "Go Down Low",
-      "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 141257,
       "name": "Ring Doorbell",
       "url": "https://open.spotify.com/track/0wu99QsiUQoR9coj3qY8Pa"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "247",
-      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Skanka",
         "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "247",
+      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Anti/Thesis: Vol. 2",
         "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
       },
@@ -843,22 +843,38 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Rowdy (BLAOW!)",
-        "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
+        "name": "Different Style",
+        "url": "https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve"
       },
       "artists": [
         {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+          "name": "SKALA",
+          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
         },
         {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
         }
       ],
-      "duration_ms": 143610,
-      "name": "Rowdy (BLAOW!)",
-      "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
+      "duration_ms": 158069,
+      "name": "Different Style",
+      "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -887,18 +903,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+        "name": "Rowdy (BLAOW!)",
+        "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
         }
       ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+      "duration_ms": 143610,
+      "name": "Rowdy (BLAOW!)",
+      "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -915,26 +935,6 @@
       "duration_ms": 200028,
       "name": "Feel The Pulse",
       "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Different Style",
-        "url": "https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve"
-      },
-      "artists": [
-        {
-          "name": "SKALA",
-          "url": "https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Different Style",
-      "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 193542,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Ravers Anonymous",
         "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
       },
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Rigid Lord",
         "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 193138,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Scream My Name",
         "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 206774,
       "name": "Scream My Name",
       "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 193138,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Simulation",
         "url": "https://open.spotify.com/album/6pvsEbFpaEyUpcfU3HGqLd"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75"
-      },
-      "artists": [
-        {
-          "name": "Refracta",
-          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Yard Shop",
         "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
       },
@@ -1359,6 +1343,82 @@
       "duration_ms": 157714,
       "name": "Yard Shop",
       "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75"
+      },
+      "artists": [
+        {
+          "name": "Refracta",
+          "url": "https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Satan's Alley",
+        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 244114,
+      "name": "Satan's Alley",
+      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "On Your Feet",
+        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "On Your Feet",
+      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1387,62 +1447,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "On Your Feet",
-        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Dogger",
-          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "On Your Feet",
-      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Bad Like We",
         "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
       },
@@ -1463,38 +1467,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Voicenote Violence",
-        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 166714,
-      "name": "Voicenote Violence",
-      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Satan's Alley",
-        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
       },
       "artists": [
         {
           "name": "Voltage",
           "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         }
       ],
-      "duration_ms": 244114,
-      "name": "Satan's Alley",
-      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1511,6 +1495,22 @@
       "duration_ms": 200344,
       "name": "Blindspot",
       "url": "https://open.spotify.com/track/2oiGdzswferiaVunkD2C62"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Voicenote Violence",
+        "url": "https://open.spotify.com/album/2r4HHzBV9SiJn9zvxFOzDL"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 166714,
+      "name": "Voicenote Violence",
+      "url": "https://open.spotify.com/track/2oQ9v12JBeHPIagTkEHNHn"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Dancing In My Sleep",
         "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 202068,
       "name": "Dancing In My Sleep",
       "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Foreshadow / Third Kit",
         "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 224914,
       "name": "Foreshadow",
       "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Baby Daddy",
-        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
-      },
-      "artists": [
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Baby Daddy",
-      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 198857,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
     },
     {
       "added_at": "2026-02-06 00:00:07",

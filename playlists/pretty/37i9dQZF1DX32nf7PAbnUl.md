@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,594 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,639 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [RS6](https://open.spotify.com/track/0zlkIVakn5bBF8ne5Csiz7) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [RS6](https://open.spotify.com/album/47A9QHZ7iDeKK9XYXLvBxR) | 4:35 |
 | 40 | [ALICANTE](https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Comment T'aimer Sans Diamants ?](https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7) | 2:58 |
 
-Snapshot ID: `AAAAABO2TPkg8zrp6uLe33wAvjKcBonD`
+Snapshot ID: `AAAAAGV3axFX57+sEHS2A5V0Zl59lIG5`

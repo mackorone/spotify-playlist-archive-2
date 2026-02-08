@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-404 songs - 1 day 13 hr 14 min
+405 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 | 2023-10-06 | 2025-03-09 |
 | [Albela](https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Rishabh Shankar](https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g) | [Albela](https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ) | 2:15 | 2022-05-17 | 2023-03-23 |
 | [Ambwa Ki Dariyon Pe](https://open.spotify.com/track/5dQ806Bsw67JKwv26QotBc) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Ambwa Ki Dariyon Pe](https://open.spotify.com/album/5IamEGy2JfRTxBJ0KOnDF6) | 4:28 | 2024-07-17 | 2024-08-23 |
-| [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2025-01-06 |  |
+| [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2025-01-06 | 2026-02-08 |
 | [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2022-05-17 | 2024-01-11 |
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Ayo Re Piya](https://open.spotify.com/track/0cLgJkzeDuo6odNPMpGCvx) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Ayo Re Piya](https://open.spotify.com/album/5GIlIfucq3g5gjnhUMoKBS) | 3:50 | 2024-05-28 | 2025-01-07 |
@@ -354,6 +354,7 @@
 | [Sajan Bin](https://open.spotify.com/track/7KDam7M3C4U7mxBRaO3mJE) | [Aakanksha Sharma](https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Sajan Bin](https://open.spotify.com/album/1N6x1lNOVfGEe6QJNuHCa6) | 2:45 | 2025-01-09 | 2025-06-15 |
 | [Sajan More Ghar Aayo](https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Sajan More Ghar Aayo](https://open.spotify.com/album/2di5VXstqggP6QdHJoyH9r) | 3:27 | 2024-07-19 | 2025-01-28 |
 | [Sajaniya \(From "Vividh Bharti"\)](https://open.spotify.com/track/4IxKMIMMPWwmbg9yS63dSC) | [Bramha](https://open.spotify.com/artist/54aaAVP09vkCtRd9WjuEW8), [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g), [dipgrix](https://open.spotify.com/artist/4A1Q9Q5Vf2G0MWwq5Ane1R) | [Sajaniya \(From "Vividh Bharti"\)](https://open.spotify.com/album/6UeAXXSktmQVieATzFXWwl) | 1:49 | 2024-10-17 | 2025-10-09 |
+| [Sakal Ban](https://open.spotify.com/track/6o3MPFaL8Y3yPWG4n8riJq) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Sakal Ban](https://open.spotify.com/album/4vmlYA4u5I1MFgFCY2fkn2) | 4:05 | 2026-02-06 |  |
 | [Sakal Ban \(From "Heeramandi"\) \- Original](https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA) | [Sakal Ban \(From "Heeramandi"\) \- Single](https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh) | 2:30 | 2024-03-09 |  |
 | [Sakhi](https://open.spotify.com/track/1wnP0kMnl9NJC7Ek2rrHkB) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 8:26 | 2022-05-17 | 2023-05-24 |
 | [Sakhi Re](https://open.spotify.com/track/5DymMqQjmD7KUtaLj6TyqN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Sakhi Re](https://open.spotify.com/album/2fD4GmvzLRgwM2hiVsNtz3) | 2:37 | 2023-05-15 | 2023-08-24 |

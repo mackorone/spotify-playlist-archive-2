@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Rihanna, Dua Lipa, Beyoncé and more
+> With Rihanna, Dua Lipa, Ariana Grande and more
 
 2,004 songs - 5 day 0 hr 2 min
 

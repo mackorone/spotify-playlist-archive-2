@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-668 songs - 1 day 16 hr 8 min
+669 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,7 +459,7 @@
 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 | 2024-05-01 |  |
 | [Pretty Dirty \(In the Fading Light\)](https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Produce the Juice](https://open.spotify.com/album/2AWk4Vwrxfr0Ueso81gVLy) | 5:43 | 2022-01-07 | 2022-07-25 |
 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 | 2022-11-11 | 2024-04-19 |
-| [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 | 2025-04-29 |  |
+| [Progress](https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Yim Yames](https://open.spotify.com/artist/3xYTLiIPIJU3KPFB8tqFSd) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 3:19 | 2025-04-29 | 2026-02-08 |
 | [Promises I've Made](https://open.spotify.com/track/3ncX1PNhONlpP8vzeyNIle) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 3:24 | 2024-05-20 | 2024-12-10 |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-09-19 | 2024-08-23 |
 | [Red Cassette](https://open.spotify.com/track/7g5fV2xoWHuLcTl78M3tGO) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Cheap Hotel](https://open.spotify.com/album/3brZD4dpegCaKmFdJagMoz) | 3:56 | 2022-03-30 | 2022-04-21 |
@@ -672,6 +672,7 @@
 | [You Want The Sun](https://open.spotify.com/track/0JRNPoITcFcNSTRErs8moc) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [You Want the Sun](https://open.spotify.com/track/42K7gCdALsYYyaccZzifzU) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/0bI8EkjX0m9HXgbgZOJPi5) | 3:31 | 2022-09-26 | 2023-03-25 |
 | [You Want the Sun](https://open.spotify.com/track/5jJiLM2kRsGKG8zUWFIQgk) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody's Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/3m3AAnmKoWoxuqDKWG5NlB) | 3:31 | 2022-07-26 | 2022-07-31 |
+| [You're A Song \(That I Can't Sing\)](https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Chameleon](https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT) | 3:11 | 2026-01-28 |  |
 | [You're so Fine](https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6) | [Papa Bear & His Cubs](https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv) | [You're so Fine](https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5) | 2:53 | 2021-12-16 | 2026-01-01 |
 | [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 | 2025-03-28 | 2025-04-30 |
 | [ギター](https://open.spotify.com/track/0bwwuOZT6pUeSbmep11qjx) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [曽我部恵一](https://open.spotify.com/album/7ImJZrXzZ0iHf7BoUDw2Xk) | 2:55 | 2021-12-16 | 2022-07-27 |

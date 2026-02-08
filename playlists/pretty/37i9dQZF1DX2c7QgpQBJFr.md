@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 💔  cover: rob
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,832 likes - 101 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,834 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 15 | [Astri](https://open.spotify.com/track/6IxuNkruuGCSVHc9nY7sFk) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Astri](https://open.spotify.com/album/2pG1yO9hcUKUEobzi6gnb6) | 3:41 |
 | 16 | [Un amore come il nostro \- VENERE](https://open.spotify.com/track/2vyMb3lMiom9IHrUo3VhKp) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Un amore come il nostro \- VENERE](https://open.spotify.com/album/5cusbotHSN8s1jZdRu5NqD) | 4:35 |
 | 17 | [PAURA](https://open.spotify.com/track/38uZHFrZqaeU66Ztg5QBsT) | [NOX](https://open.spotify.com/artist/6b0qbsuBxViNCoV49F4D4A) | [PAURA](https://open.spotify.com/album/3PGN5yt5gdJEsgwRIN5AAt) | 2:38 |
-| 18 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
+| 18 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
 | 19 | [Anna nelle banlieue](https://open.spotify.com/track/2LENQKO87Z9pGQymyWHT8J) | [Salomèe](https://open.spotify.com/artist/1KlD1JXtUV44n7tdzmiXit) | [Anna nelle banlieue](https://open.spotify.com/album/3PUi8N8boijqJwZSfkViyk) | 2:40 |
 | 20 | [Niente di particolare](https://open.spotify.com/track/3azkH8zt6JVM0ckeww7r3i) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Niente di particolare](https://open.spotify.com/album/6Aw1yTEFMFyLOhQGAMCvKk) | 2:54 |
 | 21 | [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 |

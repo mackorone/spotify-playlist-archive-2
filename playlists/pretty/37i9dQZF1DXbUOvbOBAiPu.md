@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Theodora, Rim'K x Soolking, Mentissa and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,502 likes - 113 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,504 likes - 113 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

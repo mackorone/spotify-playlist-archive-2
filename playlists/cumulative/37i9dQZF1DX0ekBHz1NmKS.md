@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,134 songs - 4 day 14 hr 38 min
+2,136 songs - 4 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Avundsjuk på regnet](https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 2:42 | 2021-12-16 | 2022-09-16 |
 | [Awkward](https://open.spotify.com/track/0jIDBEwh9keW6w9IXnJLIf) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr) | 2:33 | 2024-01-11 | 2024-02-09 |
 | [Awkward](https://open.spotify.com/track/1DwFRzuCCcU7iogXAieS6V) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey mom, don’t worry I’m fine](https://open.spotify.com/album/6zclTvnQt7riaa8pLl99Ba) | 2:33 | 2023-10-26 | 2024-01-07 |
-| [Baba Life](https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Melo](https://open.spotify.com/artist/6VLD92i2GfGpN9jsHZP3mp) | [Baba Life](https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8) | 3:10 | 2025-12-26 |  |
+| [Baba Life](https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Melo](https://open.spotify.com/artist/6VLD92i2GfGpN9jsHZP3mp) | [Baba Life](https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8) | 3:10 | 2025-12-26 | 2026-02-08 |
 | [Baby Blue](https://open.spotify.com/track/3MJSu8SbYVcRRfi5faaMQd) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Baby Blue](https://open.spotify.com/album/4rflFIW66KafmJSRgEkc4n) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Baby Girl](https://open.spotify.com/track/1mG0uORgPw42CRBb4OBrkb) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [Baby Girl](https://open.spotify.com/album/0vV0D6FcnVAGn5GRInHLs5) | 2:41 | 2024-11-07 | 2024-11-22 |
 | [Baby Låt Mig Aldrig Gå](https://open.spotify.com/track/41zJtiWKdwyV3Jchw85uHD) | [Kim Karlsson](https://open.spotify.com/artist/7nwmNkTPe1qgRs7cAYiWFm), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [Baby Låt Mig Aldrig Gå](https://open.spotify.com/album/1BhjHwlL6FEDrqHI8p54Uo) | 2:31 | 2024-05-23 | 2024-06-21 |
@@ -544,7 +544,7 @@
 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 | 2023-10-05 | 2024-01-12 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-08 | 2026-01-15 |
-| [Exit](https://open.spotify.com/track/7feGG0pLDbMYOHnPmYNK1p) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [Exit](https://open.spotify.com/album/257H9ZON3dGEx7U88CTmhS) | 3:00 | 2025-11-27 |  |
+| [Exit](https://open.spotify.com/track/7feGG0pLDbMYOHnPmYNK1p) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [Exit](https://open.spotify.com/album/257H9ZON3dGEx7U88CTmhS) | 3:00 | 2025-11-27 | 2026-02-08 |
 | [Explosion](https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Explosion](https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq) | 3:06 | 2023-10-26 | 2024-02-09 |
 | [Extraordinär](https://open.spotify.com/track/5ruFvhnLQFmUxpDxkyp0Cv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Extraordinär](https://open.spotify.com/album/0471t7yUn97TJ0Z23pAAPp) | 2:17 | 2025-09-25 | 2025-10-23 |
 | [F\*n va bra](https://open.spotify.com/track/5W4zgLC5lBqTZOeBx8rpT2) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [F\*n va bra](https://open.spotify.com/album/0xNDN5H4kvqo7n3057oAZZ) | 2:14 | 2024-04-26 | 2024-05-24 |
@@ -849,6 +849,7 @@
 | [Hurt Me Like You Do](https://open.spotify.com/track/1yjVWsuNgxGUB5LfNzmIJ7) | [Jacqline](https://open.spotify.com/artist/5ZIzGM3sXUiF8EI6K18XQC) | [Hurt Me Like You Do](https://open.spotify.com/album/4gWqOjkTUhvKKzvuMfRpe8) | 2:40 | 2024-06-27 | 2024-10-11 |
 | [Hurt Somebody](https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf) | 3:30 | 2024-03-14 | 2024-04-26 |
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 | 2025-03-14 |
+| [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 | 2026-02-05 |  |
 | [Hurts som fan](https://open.spotify.com/track/0kez7GWrXWQzFnHAR3kI27) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Hurts som fan](https://open.spotify.com/album/1KXMAFHmlDfMiuTWJQnll6) | 2:54 | 2024-01-18 | 2024-03-15 |
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-06 | 2024-08-09 |
 | [Hypnotiserad](https://open.spotify.com/track/35ZcDw1vAEL1q8bjRfLIWx) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Hypnotiserad](https://open.spotify.com/album/7etKBA6nDRJF7ZXUHLkd4B) | 2:36 | 2024-05-09 | 2024-06-07 |
@@ -1700,6 +1701,7 @@
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Staden](https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Staden](https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH) | 2:23 | 2025-08-21 | 2025-10-24 |
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-04 | 2023-10-20 |
+| [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-02-05 |  |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
 | [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 | 2024-01-25 | 2024-03-15 |

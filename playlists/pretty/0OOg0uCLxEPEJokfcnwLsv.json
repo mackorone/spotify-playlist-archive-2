@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 678,
+  "num_followers": 692,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAE0HmWQHaWlPIZ2efkUZWUIi+TLC8c",
+  "snapshot_id": "AAAE1padaJq+e7th+znHk0sM3KEq9amB",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -1231,6 +1231,102 @@
       "duration_ms": 264063,
       "name": "Time",
       "url": "https://open.spotify.com/track/2hBxN7mxucA30ccsF4N4kU"
+    },
+    {
+      "added_at": "2026-02-07 19:02:34",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk"
+      },
+      "artists": [
+        {
+          "name": "The Homme",
+          "url": "https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm"
+        }
+      ],
+      "duration_ms": 259716,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo"
+    },
+    {
+      "added_at": "2026-02-07 19:32:59",
+      "album": {
+        "name": "knocked -down/-out",
+        "url": "https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5"
+      },
+      "artists": [
+        {
+          "name": "KXENIA",
+          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
+        }
+      ],
+      "duration_ms": 256642,
+      "name": "knocked -down/-out",
+      "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
+    },
+    {
+      "added_at": "2026-02-07 20:19:30",
+      "album": {
+        "name": "Si Vieras Lo R\u00e1pido Que Pierdo La Elegancia",
+        "url": "https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL"
+      },
+      "artists": [
+        {
+          "name": "Croupiers",
+          "url": "https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Estupideces",
+      "url": "https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI"
+    },
+    {
+      "added_at": "2026-02-07 20:41:59",
+      "album": {
+        "name": "I Can't Take This Anymore",
+        "url": "https://open.spotify.com/album/4RBvJrfgrHTqty5TwfawD9"
+      },
+      "artists": [
+        {
+          "name": "Kyle Johnson",
+          "url": "https://open.spotify.com/artist/5f70LoboNT1uZeukxfYsCB"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "I Can't Take This Anymore",
+      "url": "https://open.spotify.com/track/2ouztXs79VgYVFvyNyX1eG"
+    },
+    {
+      "added_at": "2026-02-07 20:43:47",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0"
+      },
+      "artists": [
+        {
+          "name": "Emsea",
+          "url": "https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u"
+        }
+      ],
+      "duration_ms": 162810,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4"
+    },
+    {
+      "added_at": "2026-02-07 21:56:58",
+      "album": {
+        "name": "Votive Sound",
+        "url": "https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R"
+      },
+      "artists": [
+        {
+          "name": "Erik Knear",
+          "url": "https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g"
     }
   ],
   "unique_name": "Unsigned Rock",

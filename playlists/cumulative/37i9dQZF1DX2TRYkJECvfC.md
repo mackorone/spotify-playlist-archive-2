@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-671 songs - 2 day 7 hr 8 min
+672 songs - 2 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,7 @@
 | [Sweetest Thing](https://open.spotify.com/track/44mvLsJEYGvKbLbwzbTYpd) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL) | [Sweetest Thing](https://open.spotify.com/album/2BEywuq9uCft4ng2ySO9XU) | 3:43 | 2024-11-01 |  |
 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-04-05 |  |
 | [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-12-08 | 2024-02-15 |
-| [Swimming In My Love \- Radio Edit](https://open.spotify.com/track/590JByfASNs2ctFmVRNmyZ) | [Paolo Rocco](https://open.spotify.com/artist/3Uuge1cS9EedpUFS6GQEWg) | [Swimming In My Love / Are You Real](https://open.spotify.com/album/5DReUGSd5qgppzWnS0if9l) | 3:58 | 2026-02-06 |  |
+| [Swimming In My Love \- Radio Edit](https://open.spotify.com/track/590JByfASNs2ctFmVRNmyZ) | [Paolo Rocco](https://open.spotify.com/artist/3Uuge1cS9EedpUFS6GQEWg) | [Swimming In My Love / Are You Real](https://open.spotify.com/album/5DReUGSd5qgppzWnS0if9l) | 3:58 | 2026-02-06 | 2026-02-08 |
 | [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 | 2023-05-13 |
 | [Synesthesia](https://open.spotify.com/track/4IyPWtUklvJDCG5b7eFZyg) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Synesthesia](https://open.spotify.com/album/1lBVXRRehgnwoMpRm0wwBb) | 4:28 | 2023-09-08 | 2026-02-07 |
 | [Takume](https://open.spotify.com/track/3zQwLgmWd0CDRIKZXq9WsW) | [INNX](https://open.spotify.com/artist/5nJed4T0G1U9dZlF5W9Otb) | [Takume](https://open.spotify.com/album/6WDPLQDBa4mjjJQi0rOY0X) | 6:35 | 2021-12-08 | 2025-08-30 |
@@ -608,6 +608,7 @@
 | [There's No End in the Beginning](https://open.spotify.com/track/5wFeHcOCzPjmzlWS2ro5rI) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [There's No End in the Beginning](https://open.spotify.com/album/3BOaIfN24J7TZ7s2Hx5TrH) | 4:56 | 2023-01-06 | 2023-08-06 |
 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 | 2023-11-10 | 2026-02-07 |
 | [These Things Will Come To Be](https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:56 | 2021-12-08 |  |
+| [This Is Our Life](https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [This Is Our Life](https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL) | 4:28 | 2026-02-06 |  |
 | [This Life](https://open.spotify.com/track/444vT3ohxrihxUqD8hEyLl) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Mawimbi](https://open.spotify.com/album/4yX07wB5aU4jIe90XCm7KE) | 2:55 | 2025-05-23 |  |
 | [Thousand Eyes](https://open.spotify.com/track/4LUPt50fnmLE7cppxatHZS) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Thousand Eyes](https://open.spotify.com/album/1r37pTndrgbZxF86mXbkMm) | 4:02 | 2025-11-07 |  |
 | [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 | 2025-09-12 |  |

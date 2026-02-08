@@ -1,29 +1,13 @@
 {
   "description": "Chill r&b. Cover: Sasha Keable",
-  "num_followers": 2370003,
+  "num_followers": 2370062,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACPHlrhQ823KVWZxVR3yO6THZeiW",
+  "snapshot_id": "AAAAAG29+CQbnzKd4NuxtWu51hPB3Fn5",
   "tracks": [
-    {
-      "added_at": "2025-09-26 05:44:31",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
-    },
     {
       "added_at": "2026-02-06 07:07:56",
       "album": {
@@ -239,6 +223,22 @@
       "duration_ms": 234293,
       "name": "Ordinary Feelings",
       "url": "https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba"
+    },
+    {
+      "added_at": "2025-09-26 05:44:31",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
       "added_at": "2025-12-12 05:00:29",

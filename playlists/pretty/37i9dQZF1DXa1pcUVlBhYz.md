@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,203 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,206 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm Black And I'm Proud \- Say It Loud](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
+| 1 | [I'm Black And I'm Proud \- Say It Loud \- Carl Cox Remix](https://open.spotify.com/track/4KKkrCrgMBVJn4zPAVXdu2) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [I’m Black And I’m Proud \- Say It Loud](https://open.spotify.com/album/7vHr7TT6ShJWWgQAJGTOpW) | 4:20 |
 | 2 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
 | 3 | [Slight Werk \- Club Mix](https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Slight Werk \(Club Mix\)](https://open.spotify.com/album/3USLXh5K8mET0msxPqYXpP) | 2:58 |
 | 4 | [Club Groove \(Groove McDoodle\)](https://open.spotify.com/track/04ePIL2MCJhDveCBEYRzH2) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Club Groove \(Groove McDoodle\)](https://open.spotify.com/album/7feoPz3HVSem89blpacFKJ) | 5:14 |

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-600 songs - 1 day 11 hr 35 min
+601 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Tracks and Trials](https://open.spotify.com/track/4xGRKrYSF8wyPqtXnYwnNp) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Tracks and Trials](https://open.spotify.com/album/0qti15pcmEyYpzolt4OiWB) | 3:40 | 2023-06-29 | 2025-11-29 |
 | [Tranquility](https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Tranquility](https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4) | 4:34 | 2025-11-04 | 2025-12-21 |
 | [Trapani](https://open.spotify.com/track/6TUzdPGuBPV9OgH61eQcPW) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 5:09 | 2023-04-27 | 2025-11-29 |
+| [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-02-07 |  |
 | [Trust Issues](https://open.spotify.com/track/7wgXjF0bJgfEsXAzYsbpdX) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Trust Issues](https://open.spotify.com/album/0kyV92eXT3VyZxas1mPOd8) | 3:21 | 2025-11-25 | 2026-01-05 |
 | [Tu ausencia](https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:46 | 2025-11-25 | 2026-01-05 |
 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 | 2025-12-21 | 2026-01-15 |

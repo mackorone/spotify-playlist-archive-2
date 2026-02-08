@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di sombr, Salmo, Laura Pausini, W Sound, ZAYN, Calvin Harris e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,938 likes - 95 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,948 likes - 95 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 46 | [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 |
 | 47 | [CHE SCHIFO](https://open.spotify.com/track/21irZ1OF5GSDVTWeSs9aQd) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [CHE SCHIFO](https://open.spotify.com/album/1OYzU7cWeE0FF6ZQ6EQrdr) | 2:36 |
 | 48 | [Guarire Davvero \(feat\. Shama24k\)](https://open.spotify.com/track/0AnfB8k7mS3C5agJLFCJxX) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I), [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm) | [Guarire Davvero \(feat\. Shama24k\)](https://open.spotify.com/album/1Jvj0XsQfaQDxjGUVuTW4x) | 2:25 |
-| 49 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
+| 49 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
 | 50 | [Avevo un sogno](https://open.spotify.com/track/2xPNuMNEsUC1LTaX5btrb4) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Pronto](https://open.spotify.com/album/0WmObESeWZM1gKFQaQ0yTR) | 3:18 |
 | 51 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 |
 | 52 | [Not Around Anymore](https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Not Around Anymore](https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl) | 3:52 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 68 | [Stanza dei ricordi](https://open.spotify.com/track/0Ya6h7s1IoVSToVWMn3ZHF) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Stanza dei ricordi](https://open.spotify.com/album/4yFUxA3SG3kMxw5LHUn125) | 2:28 |
 | 69 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
 | 70 | [PICCOLA](https://open.spotify.com/track/5aUXhutSI9GpffwQ1NcsmA) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PICCOLA](https://open.spotify.com/album/6t5QOlEXI1cGIuiJ7zVW4q) | 2:24 |
-| 71 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
+| 71 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
 | 72 | [100MILA COLPI](https://open.spotify.com/track/5pgx6z2KwNwUUAUMGcRHYI) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [100MILA COLPI](https://open.spotify.com/album/0HaZnjadcLH3rZqfUYnM0h) | 2:31 |
 | 73 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
 | 74 | [soft tongue](https://open.spotify.com/track/2Lck8bbQPjo36LrGHz4YJv) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [Looking for affection](https://open.spotify.com/album/4QpGVHmPxjo6xHVSsjJOeN) | 3:27 |

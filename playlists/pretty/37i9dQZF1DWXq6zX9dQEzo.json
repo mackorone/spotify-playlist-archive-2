@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 319252,
+  "num_followers": 319359,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "SEEK",
-        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "SEEK",
-      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "LOVE WONT FADE",
         "url": "https://open.spotify.com/album/3nYFuVyWSDtl4mZ4gcJ92T"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 130382,
       "name": "LOVE WONT FADE",
       "url": "https://open.spotify.com/track/1HJTUmCxZbn1AvfcdIafzA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "SEEK",
+        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "SEEK",
+      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "JIMMY NEWTRON",
+        "url": "https://open.spotify.com/album/7aX7QAJFvLma89TtEtIrIc"
+      },
+      "artists": [
+        {
+          "name": "Josh P",
+          "url": "https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ"
+        }
+      ],
+      "duration_ms": 134426,
+      "name": "JIMMY NEWTRON",
+      "url": "https://open.spotify.com/track/2ScaSZVzLC6GdrZXH0w8JO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/2CcUmK9yjStElQjVffDX6s"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 187692,
       "name": "Day One",
       "url": "https://open.spotify.com/track/57Il3OuTJdiF42Qwz1A17n"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "JIMMY NEWTRON",
-        "url": "https://open.spotify.com/album/7aX7QAJFvLma89TtEtIrIc"
-      },
-      "artists": [
-        {
-          "name": "Josh P",
-          "url": "https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ"
-        }
-      ],
-      "duration_ms": 134426,
-      "name": "JIMMY NEWTRON",
-      "url": "https://open.spotify.com/track/2ScaSZVzLC6GdrZXH0w8JO"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        },
-        {
-          "name": "Ots J Huncho",
-          "url": "https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "God on My Side",
         "url": "https://open.spotify.com/album/5lWZCE0s5PLMD3Enyyrmdw"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 155675,
       "name": "God on My Side",
       "url": "https://open.spotify.com/track/2H6E6lacBMcx6OEQtnvxF1"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        },
+        {
+          "name": "Ots J Huncho",
+          "url": "https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Without Jesus / Eva Comin' Down",
-        "url": "https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 160468,
-      "name": "Eva Comin' Down",
-      "url": "https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "DA HEAT",
         "url": "https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 122746,
       "name": "DA HEAT",
       "url": "https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Without Jesus / Eva Comin' Down",
+        "url": "https://open.spotify.com/album/5tIMJfn9DDLPy8KQpbSBwz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 160468,
+      "name": "Eva Comin' Down",
+      "url": "https://open.spotify.com/track/4HBtGUZWkoUPd75SlF7sCk"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2SUWLEM89ldffVzwozy9bI"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 139785,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/2oy1jc4rswusWm4ZSM8anJ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Bigger Than Me",
         "url": "https://open.spotify.com/album/7v4TxJVNb6tmNHqZLI7OrG"
       },
@@ -1251,26 +1235,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Glory To The Lord (Remix)",
-        "url": "https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2SUWLEM89ldffVzwozy9bI"
       },
       "artists": [
         {
-          "name": "Jered Sanders",
-          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Glory To The Lord - Remix",
-      "url": "https://open.spotify.com/track/6RVC5dZl3McTWusLC9fQFa"
+      "duration_ms": 139785,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2oy1jc4rswusWm4ZSM8anJ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1295,6 +1271,30 @@
       "duration_ms": 175133,
       "name": "De Lo Mio",
       "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Glory To The Lord (Remix)",
+        "url": "https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Glory To The Lord - Remix",
+      "url": "https://open.spotify.com/track/6RVC5dZl3McTWusLC9fQFa"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "STILL GOIN",
-        "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
-      },
-      "artists": [
-        {
-          "name": "Tommy Zuko",
-          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
-        }
-      ],
-      "duration_ms": 114585,
-      "name": "STILL GOIN",
-      "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "AMEN AMEN",
         "url": "https://open.spotify.com/album/4BjN6rV4ReLfD2lnSzI73a"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 176033,
       "name": "AMEN AMEN",
       "url": "https://open.spotify.com/track/5tcMRkTz3TMUjILo1uA2bM"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "STILL GOIN",
+        "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+        }
+      ],
+      "duration_ms": 114585,
+      "name": "STILL GOIN",
+      "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "VINE",
-        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "VINE",
-      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "BIG GOD",
         "url": "https://open.spotify.com/album/4A1YXRtCDqZ3ZXrfmdnewk"
       },
@@ -1719,22 +1699,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn"
+        "name": "VINE",
+        "url": "https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         },
         {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
         }
       ],
-      "duration_ms": 130800,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ"
+      "duration_ms": 195500,
+      "name": "VINE",
+      "url": "https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1751,6 +1731,26 @@
       "duration_ms": 152125,
       "name": "Glory To The Lord",
       "url": "https://open.spotify.com/track/2vR6N7Zd4SkVQtdvgOJzfl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "TOO MANY RINGZ",
+        "url": "https://open.spotify.com/album/41flcrtQjOQASdKoUG5L0K"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 110204,
+      "name": "SHOW UP SHOW OUT",
+      "url": "https://open.spotify.com/track/1UcHWOPXpBBaT87u3lIJ42"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "ALL THE WAY",
         "url": "https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 160000,
       "name": "ALL THE WAY",
       "url": "https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "TOO MANY RINGZ",
-        "url": "https://open.spotify.com/album/41flcrtQjOQASdKoUG5L0K"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 110204,
-      "name": "SHOW UP SHOW OUT",
-      "url": "https://open.spotify.com/track/1UcHWOPXpBBaT87u3lIJ42"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
+        "name": "TALK SPICY",
+        "url": "https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd"
+      },
+      "artists": [
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 112822,
+      "name": "TALK SPICY",
+      "url": "https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
         "name": "Lingo",
         "url": "https://open.spotify.com/album/6AU75ydBlyMdcyarDVJjfu"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 115200,
       "name": "Lingo",
       "url": "https://open.spotify.com/track/5TIbBRcXEDgA9GPjCbZDsn"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "TALK SPICY",
-        "url": "https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd"
-      },
-      "artists": [
-        {
-          "name": "DKG KIE",
-          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
-        }
-      ],
-      "duration_ms": 112822,
-      "name": "TALK SPICY",
-      "url": "https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "TOMBSTONE",
-        "url": "https://open.spotify.com/album/4oT9v40g0rPwJuguqr9zTi"
-      },
-      "artists": [
-        {
-          "name": "Tre'Gadd",
-          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "TOMBSTONE",
-      "url": "https://open.spotify.com/track/7IbYFxNFopKUnMsXXVf0He"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "hollow",
         "url": "https://open.spotify.com/album/5lgtnGR1XbdY03VxVrefKf"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 152031,
       "name": "hollow",
       "url": "https://open.spotify.com/track/5bOPDOpWydLeD3Cp6hikhM"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/4oT9v40g0rPwJuguqr9zTi"
+      },
+      "artists": [
+        {
+          "name": "Tre'Gadd",
+          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/7IbYFxNFopKUnMsXXVf0He"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2219,30 +2219,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "Theme Music",
-        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Theme Music",
-      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "All I Know",
         "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
       },
@@ -2271,22 +2247,26 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "I.S.W.I.S",
-        "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
       },
       "artists": [
         {
-          "name": "Kelo",
-          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         },
         {
-          "name": "Tr3 $ebiv",
-          "url": "https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 157857,
-      "name": "I.S.W.I.S",
-      "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
+      "duration_ms": 187272,
+      "name": "Theme Music",
+      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2347,6 +2327,26 @@
       "duration_ms": 118260,
       "name": "GLOOM",
       "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "I.S.W.I.S",
+        "url": "https://open.spotify.com/album/5oZEGGHgjIP0l6QKkO75nn"
+      },
+      "artists": [
+        {
+          "name": "Kelo",
+          "url": "https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv"
+        },
+        {
+          "name": "Tr3 $ebiv",
+          "url": "https://open.spotify.com/artist/4BMKBIYxP2Yk34TvpPwhVP"
+        }
+      ],
+      "duration_ms": 157857,
+      "name": "I.S.W.I.S",
+      "url": "https://open.spotify.com/track/3YhFGcDcV2hInkTLaAyVRQ"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2423,18 +2423,22 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "10,000 Hours",
-        "url": "https://open.spotify.com/album/0lZvCF9AHKrbRXRXdCHdyW"
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
       },
       "artists": [
         {
-          "name": "KRL",
-          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 183637,
-      "name": "10,000 Hours",
-      "url": "https://open.spotify.com/track/3UcJBlzA6lq50xKAzeIaNP"
+      "duration_ms": 120000,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2455,22 +2459,18 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/7hMDqEy6udosojQuiSjLlM"
+        "name": "10,000 Hours",
+        "url": "https://open.spotify.com/album/0lZvCF9AHKrbRXRXdCHdyW"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        },
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
         }
       ],
-      "duration_ms": 120000,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3tx5dzl1U3v73aqvRLQVlf"
+      "duration_ms": 183637,
+      "name": "10,000 Hours",
+      "url": "https://open.spotify.com/track/3UcJBlzA6lq50xKAzeIaNP"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2025-12-12 05:00:45",
       "album": {
-        "name": "TAPPED",
-        "url": "https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU"
-      },
-      "artists": [
-        {
-          "name": "KRL",
-          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
-        }
-      ],
-      "duration_ms": 171974,
-      "name": "TAPPED",
-      "url": "https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 175000,
       "name": "Need You",
       "url": "https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "TAPPED",
+        "url": "https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU"
+      },
+      "artists": [
+        {
+          "name": "KRL",
+          "url": "https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS"
+        }
+      ],
+      "duration_ms": 171974,
+      "name": "TAPPED",
+      "url": "https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2647,6 +2647,30 @@
       "duration_ms": 148282,
       "name": "In Your Presence",
       "url": "https://open.spotify.com/track/1bsf0zU9fDzxEBkAm72Ba5"
+    },
+    {
+      "added_at": "2025-12-12 05:00:45",
+      "album": {
+        "name": "Not For You",
+        "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Futuristic",
+          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "duration_ms": 133761,
+      "name": "Not For You",
+      "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
     },
     {
       "added_at": "2025-12-12 05:00:45",
@@ -2711,30 +2735,6 @@
       "duration_ms": 157183,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6Eb5V21N0kBbzqGb9O3kgx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:45",
-      "album": {
-        "name": "Not For You",
-        "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        }
-      ],
-      "duration_ms": 133761,
-      "name": "Not For You",
-      "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
     },
     {
       "added_at": "2025-12-12 05:00:45",

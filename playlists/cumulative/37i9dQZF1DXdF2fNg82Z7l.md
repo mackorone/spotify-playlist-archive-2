@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-271 songs - 14 hr 17 min
+272 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-23 |  |
 | [All In](https://open.spotify.com/track/3pJsTxvDmY1G9hfh4G72P3) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y) | [All In](https://open.spotify.com/album/2EaTAB8COSHTCcevxTboLU) | 1:54 | 2024-03-14 | 2024-07-30 |
 | [Almeda](https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:56 | 2024-10-04 |  |
+| [Alter Ego \(KAYTRANADA Remix\)\[with JT\]](https://open.spotify.com/track/34d69xsnWH7xGGezyiIQxg) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(Swamp Mix\)](https://open.spotify.com/album/7sjXaVtk8dTTya20UfWIZW) | 4:30 | 2025-10-13 |  |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK) | 2:55 | 2024-03-14 | 2024-07-30 |
 | [As I Should](https://open.spotify.com/track/1Bt4nMKcIgRQuWMRPPoiCP) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [As I Should](https://open.spotify.com/album/7D7VzFZv9psdNzgn6hNkTD) | 2:19 | 2024-03-14 | 2024-07-30 |
 | [Atlas](https://open.spotify.com/track/5N6odbticwf3MO0UdT7YqB) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [Atlas](https://open.spotify.com/album/06J3hPUbWnEf1EQ4vqMcb0) | 2:11 | 2024-07-29 | 2024-10-05 |
@@ -106,7 +107,7 @@
 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-02 | 2026-02-04 |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2024-03-14 | 2024-10-05 |
 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 | 2024-10-04 |  |
-| [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2024-10-24 |  |
+| [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2024-10-24 | 2026-02-08 |
 | [ice](https://open.spotify.com/track/0Tsr1YNiCw3znq8RYwiLjp) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [ice](https://open.spotify.com/album/0PNTKdFanCgqy26RQ9TtUA) | 2:46 | 2024-03-14 | 2024-10-05 |
 | [IDK](https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR) | [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [IDK](https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh) | 2:54 | 2024-10-04 | 2024-10-18 |
 | [if u want](https://open.spotify.com/track/4I9aaXvrNGgyQ9hU42FBzF) | [LIL JA$](https://open.spotify.com/artist/0m1KRoAfjPv3trHhHB0V9M) | [if u want](https://open.spotify.com/album/7gdU7pUsauBquXPYIRIhQF) | 2:16 | 2024-03-14 | 2024-10-05 |

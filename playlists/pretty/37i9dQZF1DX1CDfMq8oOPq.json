@@ -1,6 +1,6 @@
 {
   "description": "bolsa nova \u00e9 pra caber \ud83d\udcb5 ne?!?! // Emilly Guedes, LAY",
-  "num_followers": 97443,
+  "num_followers": 97520,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-02-06 16:47:39",
       "album": {
+        "name": "BPP",
+        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Maff",
+          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
+        }
+      ],
+      "duration_ms": 153880,
+      "name": "BPP",
+      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
+    },
+    {
+      "added_at": "2026-02-06 16:47:39",
+      "album": {
         "name": "bandida chata (original)",
         "url": "https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq"
       },
@@ -971,22 +991,30 @@
     {
       "added_at": "2026-02-06 16:47:39",
       "album": {
-        "name": "BPP",
-        "url": "https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O"
+        "name": "Ful\u00f4",
+        "url": "https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq"
       },
       "artists": [
         {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+          "name": "CRYSTAYLE",
+          "url": "https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8"
         },
         {
-          "name": "Maff",
-          "url": "https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL"
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "gptonosbeats",
+          "url": "https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR"
+        },
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ"
         }
       ],
-      "duration_ms": 153880,
-      "name": "BPP",
-      "url": "https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F"
+      "duration_ms": 151423,
+      "name": "Ful\u00f4",
+      "url": "https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ"
     },
     {
       "added_at": "2026-02-06 16:47:39",
@@ -1043,34 +1071,6 @@
       "duration_ms": 165000,
       "name": "Porque n\u00e3o",
       "url": "https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi"
-    },
-    {
-      "added_at": "2026-02-06 16:47:39",
-      "album": {
-        "name": "Ful\u00f4",
-        "url": "https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq"
-      },
-      "artists": [
-        {
-          "name": "CRYSTAYLE",
-          "url": "https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        },
-        {
-          "name": "gptonosbeats",
-          "url": "https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR"
-        },
-        {
-          "name": "Enigma",
-          "url": "https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ"
-        }
-      ],
-      "duration_ms": 151423,
-      "name": "Ful\u00f4",
-      "url": "https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ"
     },
     {
       "added_at": "2026-02-06 16:47:39",

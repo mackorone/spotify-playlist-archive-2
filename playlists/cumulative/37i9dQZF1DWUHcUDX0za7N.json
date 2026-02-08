@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 126000,
       "name": "Aura 4 Aura (feat. Pa Salieu)",
       "url": "https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U"
@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "BORN TO BE GREAT",
+        "url": "https://open.spotify.com/album/1rg9NDizohA6T8oJjIP0Xx"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173559,
+      "name": "BORN TO BE GREAT",
+      "url": "https://open.spotify.com/track/6IgRg7lIA2NzgA51gFmITl"
+    },
+    {
+      "album": {
         "name": "Bougie and Thick",
         "url": "https://open.spotify.com/album/3ILEi9iWRNrCEiteWk0FeR"
       },
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
@@ -10966,6 +10984,24 @@
       "duration_ms": 108066,
       "name": "Pot Of Stew",
       "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
+    },
+    {
+      "album": {
+        "name": "Pour the World Spit",
+        "url": "https://open.spotify.com/album/6Pcw9s46ajtJvTXRJD5lNo"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342465,
+      "name": "Pour the World Spit",
+      "url": "https://open.spotify.com/track/5P4LXz9i33dt6W84fEaUdK"
     },
     {
       "album": {

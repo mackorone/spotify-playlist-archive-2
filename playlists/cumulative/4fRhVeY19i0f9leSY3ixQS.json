@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Death by Drosera",
+        "url": "https://open.spotify.com/album/7hXWXtARuECuBEIfHJyzuQ"
+      },
+      "artists": [
+        {
+          "name": "ZELIA",
+          "url": "https://open.spotify.com/artist/0YY8xBd7IOfHmPSwFBuxUr"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250559,
+      "name": "Death by Drosera",
+      "url": "https://open.spotify.com/track/7cQYqw8oIknSdfVpKapDMc"
+    },
+    {
+      "album": {
         "name": "Deathwave",
         "url": "https://open.spotify.com/album/0jFcC0hgWtil2bw9GwAQJW"
       },
@@ -3592,6 +3610,24 @@
       "duration_ms": 136526,
       "name": "Dissonanze",
       "url": "https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU"
+    },
+    {
+      "album": {
+        "name": "Do You Hear The People Scream?",
+        "url": "https://open.spotify.com/album/5yuzlfiWDkPgNOMtsuWxv6"
+      },
+      "artists": [
+        {
+          "name": "Prison City Brigade",
+          "url": "https://open.spotify.com/artist/7maNFIhSlNcIFRTseqrPbh"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195806,
+      "name": "Do You Hear The People Scream?",
+      "url": "https://open.spotify.com/track/5HiSejXfZK5xBQEDwL43l4"
     },
     {
       "album": {
@@ -4246,6 +4282,24 @@
       "duration_ms": 200864,
       "name": "Endless Tragedy",
       "url": "https://open.spotify.com/track/6p9iXwWBpUz3AOmE8fnRkE"
+    },
+    {
+      "album": {
+        "name": "Entranced Eclipse",
+        "url": "https://open.spotify.com/album/0qzVJ5xb346setmA5XDmSW"
+      },
+      "artists": [
+        {
+          "name": "La Paille",
+          "url": "https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Entranced Eclipse",
+      "url": "https://open.spotify.com/track/7vEn4x76rzrA9yfa1xpsIB"
     },
     {
       "album": {
@@ -5546,7 +5600,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 196526,
       "name": "He Started It",
       "url": "https://open.spotify.com/track/6xRpDGis2DF4avsDRXluGp"
@@ -6636,7 +6690,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 295312,
       "name": "Into The Abyss",
       "url": "https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p"
@@ -6726,7 +6780,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 79331,
       "name": "It Fell From The Sky...",
       "url": "https://open.spotify.com/track/3Ikx43eWHTsn29lOOoc6BM"
@@ -9568,7 +9622,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 225668,
       "name": "Out Of My Halo",
       "url": "https://open.spotify.com/track/3HsYUctD2qPFDDIV5imE5b"

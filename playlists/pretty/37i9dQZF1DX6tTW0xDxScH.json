@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 746025,
+  "num_followers": 746002,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
         "name": "Raw Honey",
         "url": "https://open.spotify.com/album/5kNlXRgH4imZfk8MciMwAA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 268146,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2kPYU6yN0LfBZC67J45MJg"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
         "name": "White Roses",
         "url": "https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 206445,
       "name": "White Roses",
       "url": "https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
+        "name": "patching",
+        "url": "https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "duration_ms": 191662,
+      "name": "Lemon Garland",
+      "url": "https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
         "name": "What of Our Nature",
         "url": "https://open.spotify.com/album/2hmp05PYZ92rxCK0cdTaZd"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 194826,
       "name": "Fluorescent Light",
       "url": "https://open.spotify.com/track/6cr8KU40rypJaNRYrmJRF1"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
-        "name": "patching",
-        "url": "https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR"
-      },
-      "artists": [
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 191662,
-      "name": "Lemon Garland",
-      "url": "https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "The Tearoom",
-        "url": "https://open.spotify.com/album/31nDiExE01bogsQo8Njb9o"
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
       "artists": [
         {
-          "name": "Minke",
-          "url": "https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw"
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 261897,
-      "name": "Gold Angel",
-      "url": "https://open.spotify.com/track/2bqAkNkEj3ghr6hhZAS8jH"
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     }
   ],
   "unique_name": "Stay in Bed",

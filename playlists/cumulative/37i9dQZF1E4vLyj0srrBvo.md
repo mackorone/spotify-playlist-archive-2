@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Mareux, Phantogram, Labyrinth Ear and more
+> With Phantogram, Cults, Labyrinth Ear and more
 
 1,840 songs - 4 day 17 hr 20 min
 

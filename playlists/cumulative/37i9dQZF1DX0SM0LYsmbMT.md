@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,504 songs - 7 day 3 hr 7 min
+4,505 songs - 7 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Back To You](https://open.spotify.com/track/1OCN7u5IpPdPbOoP9TbqAY) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Back To You](https://open.spotify.com/album/05iJAMmD34Dlmbl3EisRS2) | 1:59 | 2025-03-07 | 2025-03-14 |
 | [Back To You](https://open.spotify.com/track/7zhtyfJ3PjHXQDixq08QkF) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Sirens](https://open.spotify.com/album/5G3XMdc8v8fkiD8qLqDBDG) | 3:00 | 2020-09-25 | 2020-11-07 |
 | [Background](https://open.spotify.com/track/7DvXqH3OsSGqJ4wonKESwO) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Background](https://open.spotify.com/album/5aCGrcYgBfopQmxL40CWYk) | 2:15 | 2025-01-06 | 2025-04-19 |
+| [Backhouse Bounce](https://open.spotify.com/track/4nsiwpMeYUodbmMBs17OEZ) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Backhouse Bounce](https://open.spotify.com/album/5W1PsgMdkj7ADcw4BRafl6) | 1:47 | 2026-02-06 |  |
 | [Backpocket Breakdown](https://open.spotify.com/track/10kWuTOwDiybZtWG8Avxew) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Backpocket Breakdown](https://open.spotify.com/album/6QY2WcuFkBUvCSyLPIwZFM) | 2:04 | 2023-05-05 | 2023-06-30 |
 | [Backyard](https://open.spotify.com/track/3IBK5lEX1JqdGR7aEMPae1) | [Palomino](https://open.spotify.com/artist/7lXtwLrXMAvXVsMrzg1Lt6) | [Backyard](https://open.spotify.com/album/5YC7FWsGFVcwwgI6ih01Sg) | 1:42 | 2024-07-26 | 2024-09-17 |
 | [Backyard Love](https://open.spotify.com/track/1CowKyROGqKsQgNG0YdqYV) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Backyard Love](https://open.spotify.com/album/1S0emfvu549YvZ4D9mMvPT) | 2:44 | 2022-05-12 | 2022-07-01 |
@@ -3493,7 +3494,7 @@
 | [So Good](https://open.spotify.com/track/1JSyfYEBN3eYwoaq0mum2w) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [So Good](https://open.spotify.com/album/7tzLWx2zmUYzsdURvfobxf) | 2:00 | 2023-01-12 | 2023-10-20 |
 | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/track/1DxysigyMyIVr8Tk3jsuEU) | [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [So Lonely \(Devaloop Remix\)](https://open.spotify.com/album/2ogy79YI5aNr5vO4n8f3F0) | 2:40 | 2020-03-04 | 2020-05-01 |
 | [So They Say](https://open.spotify.com/track/74lV5FmHUsOobeO2LhvK2R) | [Ol' Burger Beats](https://open.spotify.com/artist/4rDDy4hN7Tbrv0ntOvVKPz) | [So They Say](https://open.spotify.com/album/0QfciNzmUbcv769u2mP1pO) | 2:18 | 2019-06-14 | 2019-11-29 |
-| [So Too](https://open.spotify.com/track/6bwSDvu5okIMvESH2A3iEi) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [So Too](https://open.spotify.com/album/7s4jhWI0A5wr3tjDRcWefh) | 2:14 | 2023-10-19 |  |
+| [So Too](https://open.spotify.com/track/6bwSDvu5okIMvESH2A3iEi) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [So Too](https://open.spotify.com/album/7s4jhWI0A5wr3tjDRcWefh) | 2:14 | 2023-10-19 | 2026-02-08 |
 | [Soak](https://open.spotify.com/track/3kVmGpo20j1ucJLmvRJtka) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Soak](https://open.spotify.com/album/7poWEMMznoSUCHkHjfaA7o) | 1:57 | 2024-10-24 | 2024-11-12 |
 | [Soaring Anticipation](https://open.spotify.com/track/3uEg8h7ZvNbUOSO8Er0Cjf) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Soaring Anticipation](https://open.spotify.com/album/0RKoDZUssXKqMYSVmumcNj) | 3:26 | 2023-04-13 | 2023-10-06 |
 | [Sofa Stories](https://open.spotify.com/track/4qv0hnIWqV1k1AksEY52RP) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Sofa Stories](https://open.spotify.com/album/5jlOjNbY9NJqofKxnKwPi3) | 3:09 | 2019-12-20 | 2020-04-24 |

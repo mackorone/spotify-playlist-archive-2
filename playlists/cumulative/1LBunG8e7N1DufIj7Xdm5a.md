@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,018 songs - 8 day 21 hr 21 min
+4,019 songs - 8 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3944,6 +3944,7 @@
 | [World on Fire \(another\)](https://open.spotify.com/track/2OSUsyRx7r51iQm0jIxqBn) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 3:04 | 2025-09-18 |  |
 | [World Shut Your Mouth](https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa) | [Julian Cope](https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv) | [Saint Julian \(Expanded Edition\)](https://open.spotify.com/album/0cWXdCck9lEusGVYb5wpfa) | 3:35 | 2025-11-05 |  |
 | [Wormhole](https://open.spotify.com/track/4NBBjHgjzzlRQsYRHd6Lrd) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Againstide](https://open.spotify.com/album/1VUgfF5WaAd6MbKYC0Yerp) | 4:48 | 2025-07-03 |  |
+| [Worth the Silence](https://open.spotify.com/track/0voIA6g9vfC7URJnjSXOpi) | [Sadja](https://open.spotify.com/artist/3raZKrJIHOZXG0U0iYlDXq) | [Worth the Silence](https://open.spotify.com/album/5G79tZEzc5h10DTubDOhpv) | 2:56 | 2026-02-07 |  |
 | [Wrath of the Steel](https://open.spotify.com/track/6tHz63onbanTeazLYBzk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:34 | 2025-09-17 |  |
 | [Wrath of the Void](https://open.spotify.com/track/5WO8sLwPuYJ5Qx0pOzZiZ4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:28 | 2025-09-17 |  |
 | [XanMan](https://open.spotify.com/track/2JAa6n5fsEVSQub0mYmUZy) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [XanMan](https://open.spotify.com/album/6qzidS9awVafvZeKvE8TOl) | 1:39 | 2025-10-14 |  |

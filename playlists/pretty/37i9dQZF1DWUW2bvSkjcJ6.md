@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von sombr, Jazeek, Esther Graf, Aymo und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,808 likes - 92 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,780 likes - 92 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 4 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 |
 | 5 | [Deine Liebe](https://open.spotify.com/track/6Rj6N6sYzWjERndS9O0NSB) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Deine Liebe](https://open.spotify.com/album/6MqQFB7MUOSOYg86UOFfCT) | 2:34 |
 | 6 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 |
-| 7 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
+| 7 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 8 | [I wanna love you](https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [I wanna love you](https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ) | 2:40 |
 | 9 | [Du bist schön](https://open.spotify.com/track/3CBGQZZSAwLqfRmBPmy8fd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist schön](https://open.spotify.com/album/5honlx5we2hDEYf31kfrbg) | 2:27 |
 | 10 | [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 |

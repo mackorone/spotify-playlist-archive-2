@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-470 songs - 1 day 9 hr 15 min
+472 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,8 +58,9 @@
 | [Blacklist](https://open.spotify.com/track/2K2aRJUaQl3CKKHELRqGZ6) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo Of The Damned](https://open.spotify.com/album/6Wp4fJsIhMNNyFB2ptnBUv) | 6:16 | 2021-12-17 | 2022-07-29 |
 | [Blacklist](https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Tempo of the Damned](https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP) | 6:16 | 2022-07-13 | 2024-04-19 |
 | [Bleed the Crown](https://open.spotify.com/track/7v3AunDgAY2f3Ldmf7ZTIg) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Bleed the Crown](https://open.spotify.com/album/0RE0xJCTL8zZwOJAPoYeET) | 4:26 | 2021-12-17 | 2022-07-28 |
-| [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 | 2024-06-27 |  |
+| [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 | 2024-06-27 | 2026-02-08 |
 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 | 2021-12-17 |  |
+| [Blood and Rust](https://open.spotify.com/track/4XAMCbIYgACsANJbkTUuHC) | [Enquire Within](https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El) | [Blood and Rust](https://open.spotify.com/album/39R2zltrOrcCIfYZs8zBVk) | 4:21 | 2026-02-06 |  |
 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 | 2022-09-09 | 2024-04-19 |
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
 | [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 | 2025-05-09 | 2025-08-30 |
@@ -363,6 +364,7 @@
 | [Sever The Tongue](https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG) | [Deicide](https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89) | [Sever The Tongue](https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD) | 3:24 | 2024-03-08 |  |
 | [Shadow People](https://open.spotify.com/track/5s7Jgjo2e8UtXItw91tK7d) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Shadow People](https://open.spotify.com/album/5ZAFMho7IwLr15Dbq3LSfv) | 5:45 | 2025-09-12 | 2025-11-14 |
 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 | 2021-12-17 |  |
+| [She's Had Enough](https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF) | [Waxed](https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY) | [She's Had Enough](https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G) | 4:49 | 2026-02-06 |  |
 | [Sheer Khan](https://open.spotify.com/track/7qlkGiHmqF9VyFiIKlJVRt) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sheer Khan](https://open.spotify.com/album/7iZkuSyf84VXzCVwSbotnS) | 4:38 | 2021-12-17 | 2022-07-28 |
 | [Shoot for the Sun](https://open.spotify.com/track/03gS9ZSLBYSsMS9Z9b1uU4) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Shoot for the Sun](https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq) | 4:01 | 2021-12-17 |  |
 | [Shredator](https://open.spotify.com/track/4wmkXGAsAplI0XzVtydSLb) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [Shredator](https://open.spotify.com/album/02cQ6psSDX3wnqtlWo1EMZ) | 1:58 | 2021-12-17 |  |
@@ -431,7 +433,7 @@
 | [The Ultra\-Violence](https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Ultra\-Violence](https://open.spotify.com/album/35flmem6J4bq04Kvib1ghA) | 10:33 | 2022-07-13 |  |
 | [The Way to Oblivion](https://open.spotify.com/track/6mMXddEVW8nBv9r9rrjYT2) | [Divine Chaos](https://open.spotify.com/artist/0gKtqFYobLyHRxQoiNnVJW) | [The Way to Oblivion](https://open.spotify.com/album/1FSAQFNAEDaR5ldNZKPrEx) | 4:09 | 2021-12-17 | 2022-02-06 |
 | [The Years of Death and Dying](https://open.spotify.com/track/4dVudcK5JtTjsz2pjWfHni) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [The Years of Death and Dying](https://open.spotify.com/album/1rh3IaZg2O8txp2mSXirNH) | 5:22 | 2021-12-17 | 2022-07-29 |
-| [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 | 2025-05-23 |  |
+| [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 | 2025-05-23 | 2026-02-08 |
 | [This Is Resurrection Fest](https://open.spotify.com/track/5xIBAXso8hub7aaNPTZ6Nz) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [This Is Resurrection Fest](https://open.spotify.com/album/315tgHjiCkUVMvauHMUYjY) | 2:46 | 2021-12-17 | 2022-07-10 |
 | [Thrash Is Back](https://open.spotify.com/track/0mTHshGGNTGxUiyohrdj2Z) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Spread the Fire](https://open.spotify.com/album/4bwww1qTnCIRQdWjJIrAkX) | 5:14 | 2021-12-17 |  |
 | [Thrashard](https://open.spotify.com/track/0PUiZ5j1YGPXuYxg1UjWOo) | [D.R.I.](https://open.spotify.com/artist/6eKzDvHhJgMtcaOrvEXCTv) | [Thrash Zone](https://open.spotify.com/album/6U2m5pMfP1WvVN7swAIsIC) | 3:39 | 2022-07-13 |  |

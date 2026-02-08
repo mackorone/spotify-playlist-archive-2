@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,255 likes - 215 songs - 9 hr 15 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,287 likes - 216 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,5 +223,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 213 | [Sun Is Rising](https://open.spotify.com/track/68gqfdmUcUNMRINRYMxUd0) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG) | [Relax & Chill 2025](https://open.spotify.com/album/3t6h8xKSGz0GwJje8JPkOC) | 1:59 |
 | 214 | [Still Beats For You](https://open.spotify.com/track/76YRDMjSMpiQMOlYzUuoqW) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Lind](https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf), [Sindri Björnsson](https://open.spotify.com/artist/018VfISw3LqdJuGUluNF70) | [Still Beats For You](https://open.spotify.com/album/6EMLuQB02TXrgL3Vc6ueOb) | 2:03 |
 | 215 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 |
+| 216 | [Rapture](https://open.spotify.com/track/0gB4dLKem1Y2yBA6OIoDTU) | [JPT3R](https://open.spotify.com/artist/4Pbc09g4SkxCjZyKizueZO), [Nick Giardino](https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD), [Calypsø](https://open.spotify.com/artist/29EDAJj7V9aXo4veBMEerh), [Afro Queen](https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT) | [Rapture](https://open.spotify.com/album/6V7SrA92b7HnXLza4P7CJ7) | 2:47 |
 
-Snapshot ID: `AABP2/pHT9o0oAzKjBCrl8v19bj9mz+n`
+Snapshot ID: `AABP3IwZGlhnNu3SD5c1ULhao9TGo4jq`

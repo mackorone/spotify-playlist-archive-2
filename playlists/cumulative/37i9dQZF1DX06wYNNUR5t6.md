@@ -2,14 +2,14 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Kutless
+> Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day
 
-102 songs - 6 hr 29 min
+105 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abandoned](https://open.spotify.com/track/1feaOWrf70CKmj9MKWJBuE) | [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [New Horizons](https://open.spotify.com/album/74J2EbDngHUVrtLFWi2ohZ) | 4:27 | 2021-04-10 | 2024-07-04 |
-| [Afterlife](https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [ICU](https://open.spotify.com/album/1ONx4lNrLIA7Bb6RBYJuwU) | 3:22 | 2024-07-04 |  |
+| [Afterlife](https://open.spotify.com/track/179opNHOs0kZwgel5MSe5S) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [ICU](https://open.spotify.com/album/1ONx4lNrLIA7Bb6RBYJuwU) | 3:22 | 2024-07-04 | 2026-02-08 |
 | [Alive](https://open.spotify.com/track/224KUZC30xzTqSkWG5O1mt) | [Echoes](https://open.spotify.com/artist/0HK6enkB4CDfc3uHy0RkT4) | [Alive](https://open.spotify.com/album/0sIZNWEPoVUyRiboNjowf5) | 3:58 | 2021-04-10 |  |
 | [Alive Again](https://open.spotify.com/track/4bFvLnnByynzVDDkzUUPsj) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Alive Again](https://open.spotify.com/album/3vnpODARivR8XUcD37zLzk) | 3:34 | 2021-04-10 | 2024-07-04 |
 | [All It Takes](https://open.spotify.com/track/0pJ6aFAqdOANvIdzOQ4cVi) | [DAV](https://open.spotify.com/artist/3UhOrPbn8pGeF4rZjUNXuS), [Jon The Revalaytor](https://open.spotify.com/artist/44YUYpFeZPJv7FaafB4TTW) | [All It Takes](https://open.spotify.com/album/63h7zhtC6jR2TN4p071eDE) | 4:01 | 2021-04-10 | 2024-04-19 |
@@ -18,7 +18,7 @@
 | [Baptist](https://open.spotify.com/track/656MTwjaWH9COcWIWkwero) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [We Never Die](https://open.spotify.com/album/2zh9qm5WG9a2GnSunMr9ws) | 3:23 | 2021-04-10 | 2024-04-19 |
 | [Baptist](https://open.spotify.com/track/0DoRLxihQQzXXTOuy9eshr) | [Paradise Now](https://open.spotify.com/artist/1XOp5OUbWSxiwLjvM8tKFB) | [Supernatural](https://open.spotify.com/album/2a9VlLxC7bf7JAmFk0ZPNy) | 3:24 | 2021-04-10 | 2022-11-13 |
 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 | 2025-08-04 |  |
-| [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 | 2021-04-10 |  |
+| [Better Off](https://open.spotify.com/track/1iHx9Ge9YO5Le3UCrjWZ8n) | [City of Auburn](https://open.spotify.com/artist/0FYVYl9r4gHtgP9rJD9GKy) | [Spinning](https://open.spotify.com/album/6FHT343fVHWuPvTRgiA1ak) | 3:46 | 2021-04-10 | 2026-02-08 |
 | [Black Light](https://open.spotify.com/track/01cIqV4RrN3YoRNcnzVXSr) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Violence](https://open.spotify.com/album/1JEGmU4yqtuuFceHpVCvHK) | 5:02 | 2021-04-10 |  |
 | [Black Roses White Doves](https://open.spotify.com/track/29QhQbPMhgjPrqDznx1pP1) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Black Roses White Doves](https://open.spotify.com/album/6ZbtYlMOYqRGkwxVar9f8V) | 3:29 | 2025-03-07 |  |
 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 | 2021-04-10 |  |
@@ -41,6 +41,7 @@
 | [Foreigner](https://open.spotify.com/track/550uiBzwI7c0mrtHpZMrY7) | [LEDGER](https://open.spotify.com/artist/3OuIyI0FYMUZtINxhQVCL3) | [LEDGER EP](https://open.spotify.com/album/4F8Wv1pdbgLiAOajJmZbA1) | 3:57 | 2021-04-10 | 2025-08-05 |
 | [Forever & Ever \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/6mc2rHTCtXcLSSG0b7W6wy) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Kenotic Metanoia \(Deluxe Edition\)](https://open.spotify.com/album/7tlOspCNKpF5qRIyFPcxTG) | 3:34 | 2024-07-04 |  |
 | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM) | 3:10 | 2024-07-04 |  |
+| [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 | 2026-02-07 |  |
 | [Give Me a Sign](https://open.spotify.com/track/6o8AG9ldTnpwhsBsZXaXHn) | [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [Oh, The Horror!](https://open.spotify.com/album/7foyRe5OQor8UMGpVquZsP) | 3:36 | 2021-04-10 | 2025-08-05 |
 | [Glitch In The Matrix](https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/3VeyUPjz688xgL01XFUSjt) | 2:42 | 2024-07-04 |  |
 | [Gone](https://open.spotify.com/track/49a2Kg7MPuycZqREq8IHzP) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Gone \(Extended Single\)](https://open.spotify.com/album/4qiDcPBb7Fa6errKhDocSP) | 3:39 | 2021-04-10 | 2024-07-04 |
@@ -65,6 +66,7 @@
 | [My Declaration](https://open.spotify.com/track/2uD6FPyDovbYAbI7oF2Srs) | [Bayless](https://open.spotify.com/artist/5cTZq90aOtEXdJBX4zThnu) | [My Declaration](https://open.spotify.com/album/1q7degKMC1ik1akGBNO0e9) | 4:12 | 2021-04-10 |  |
 | [NATIVE TONGUE](https://open.spotify.com/track/4zPmVJ51QlCimfTrQIqQiV) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 4:38 | 2021-04-10 | 2024-07-04 |
 | [Nightmare](https://open.spotify.com/track/0qn0EGCOwcRTYM6oI1X8CL) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Nightmare](https://open.spotify.com/album/5o6miCyzka5xeGZ9iHPGfU) | 6:21 | 2024-07-04 |  |
+| [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 | 2026-02-07 |  |
 | [Not a Victim](https://open.spotify.com/track/5Gr1c6N9fG6IjhPBhcFYzz) | [Cross the Divide](https://open.spotify.com/artist/4X2Ybhr3DI3uOVEE190lSK) | [Not a Victim](https://open.spotify.com/album/6OBJTOj43YxrPFkHZLNYdz) | 4:25 | 2021-04-10 |  |
 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 | 2024-11-29 |  |
 | [not by sight](https://open.spotify.com/track/2u9kBiQyov0ZI03JT7vvzZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [not by sight](https://open.spotify.com/album/7CTzi5vHveROnPfswOJBmW) | 2:54 | 2024-11-29 |  |
@@ -72,6 +74,7 @@
 | [On Becoming Willing](https://open.spotify.com/track/1ULg0fndzG1Xmicwm8dT0u) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [The Awakening](https://open.spotify.com/album/3JEASvlJsm2J6vSKrYRxJv) | 2:44 | 2025-08-04 |  |
 | [Panic Room](https://open.spotify.com/track/2NP0xYz37JZZiBwBFDDhgM) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/6lcb1LKEbn5HF9Q6N9rOEY) | 4:29 | 2021-04-10 | 2025-08-05 |
 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 | 2021-04-10 | 2024-04-19 |
+| [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 | 2026-02-07 |  |
 | [Psycho In My Head \- Live](https://open.spotify.com/track/2KAcXkHmBRlF7gs9J21AXy) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head \(Live\)](https://open.spotify.com/album/3t5cIJkK7eq40hAmhOEIB2) | 3:30 | 2024-07-04 | 2024-11-30 |
 | [Purpose for Pain](https://open.spotify.com/track/69siaLadp22NqaBroWoKDi) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Name](https://open.spotify.com/album/4Lph5IqDKyHt6AABCnPUlH) | 3:18 | 2021-04-10 | 2022-11-13 |
 | [Purpose for Pain](https://open.spotify.com/track/6rNXwxBiFcfcI00j7FKetn) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [The Space Between the Shadows](https://open.spotify.com/album/4gWnScXgicxrQKRLRviZpH) | 3:18 | 2021-04-10 | 2024-04-19 |
@@ -94,7 +97,7 @@
 | [The Memory](https://open.spotify.com/track/0wCbt2OooGJIWAccsP2MpL) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [The Darkness Before The Dawn](https://open.spotify.com/album/2HK9jU69MsXP78rfv4Sj4T) | 3:12 | 2025-03-07 |  |
 | [The Old Me](https://open.spotify.com/track/4mMgi9flknFXQi4VSbhi47) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/0ItP8PEXg35DjbKlso5Gvn) | 3:09 | 2021-04-10 | 2024-04-19 |
 | [The Old Me](https://open.spotify.com/track/7HIQfzq7uFZNZUxzK2OjbH) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Broken](https://open.spotify.com/album/6OjdYx9U5k0Tex2SAKyDSh) | 3:09 | 2021-04-10 | 2024-07-04 |
-| [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 |  |
+| [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 | 2021-04-10 | 2026-02-08 |
 | [The Price of Agony](https://open.spotify.com/track/7AtpVDfDXLUFVwojUMUYce) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/1YzifcxmauqYL9BXr0rkKs) | 4:47 | 2021-04-10 | 2024-04-19 |
 | [This Is Us](https://open.spotify.com/track/6oW2rfPx2crZZgxxrboCIZ) | [One Crown](https://open.spotify.com/artist/4TKVKRdQ20EkXxEQG84Syi) | [This Is Us](https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY) | 3:21 | 2024-07-04 | 2025-03-08 |
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |

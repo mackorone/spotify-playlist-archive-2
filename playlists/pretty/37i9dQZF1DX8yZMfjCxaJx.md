@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 
 > Las favoritas de los patrones\. Beto Vega en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,969 likes - 145 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,089 likes - 145 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yZMfjCxaJx.md) - [plain]
 | 144 | [El Rudo](https://open.spotify.com/track/0hOrUX00CGNg2G6enHcmNs) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [El Rudo](https://open.spotify.com/album/24Yftddd1NjsQvGXFMO1Xi) | 3:46 |
 | 145 | [Isidro Mi Nombre](https://open.spotify.com/track/1AJUETPhTAuNcZ9XWSLsoh) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Isidro Mi Nombre](https://open.spotify.com/album/4vVE2xmkGr4qKFpnIYgpF8) | 2:16 |
 
-Snapshot ID: `AAAAAGTy2joSw2l5WPO2zpIFHxcYm+kJ`
+Snapshot ID: `AAAAANMhBe2kwaEYWzFTVEhC4J8Vm9h5`

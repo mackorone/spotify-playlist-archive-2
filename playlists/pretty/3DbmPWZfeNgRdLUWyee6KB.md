@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,240 likes - 143 songs - 8 hr 3 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,240 likes - 144 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 141 | [Accountable \- Remix Pt\. 2](https://open.spotify.com/track/1eS5Y5IiqB5UFxwvlf9AxJ) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Accountable \(Remix Pt\. 2\)](https://open.spotify.com/album/4OwhPNHpYwND8lFY9xT0Wh) | 2:44 |
 | 142 | [I Like It Like That](https://open.spotify.com/track/1cpStVGZuj5IxJUQ29FCMq) | [C Douglas](https://open.spotify.com/artist/6wOuR5uXJy1RqpK5G9SEAc) | [I Like It Like That](https://open.spotify.com/album/5d7eSh9oEQH92dut0QDeZ0) | 3:21 |
 | 143 | [Last Train \- Piano Version](https://open.spotify.com/track/1vsXAJlYC3kxpOOcQj8UMR) | [Niko Albano](https://open.spotify.com/artist/0O3DeHtMP6v7Pd9aizUGB3) | [Last Train \(Piano Version\)](https://open.spotify.com/album/0gR016ZqYp1xZ0r49oAq64) | 2:59 |
+| 144 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 |
 
-Snapshot ID: `AAAQQ8yIGW1z185BTCWkuN7UmawbQ2mD`
+Snapshot ID: `AAAQREUJZf8U2A2nIRk9xzO3f9a1qWMw`

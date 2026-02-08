@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,190 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,159 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 8 | [Keine Fotos!](https://open.spotify.com/track/5MdwmMiQfD7rpo09hONd2I) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Keine Fotos!](https://open.spotify.com/album/1xFbFgxsetsUkd7tKnJ85G) | 2:00 |
 | 9 | [tattoo](https://open.spotify.com/track/1nj0Z4GewwQfq9yRTJ3tPi) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [tattoo](https://open.spotify.com/album/0frls0mE3FLZxBgAVDJraI) | 2:30 |
 | 10 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
-| 11 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
+| 11 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 12 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 13 | [Deine Liebe](https://open.spotify.com/track/6Rj6N6sYzWjERndS9O0NSB) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Deine Liebe](https://open.spotify.com/album/6MqQFB7MUOSOYg86UOFfCT) | 2:34 |
 | 14 | [2k16 \(weisst du noch?\)](https://open.spotify.com/track/2ZZslwE85qLLvtZWODRcVD) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C), [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2k16 \(weisst du noch?\)](https://open.spotify.com/album/6hLoNsUVECPm8QadaRfwpm) | 2:00 |

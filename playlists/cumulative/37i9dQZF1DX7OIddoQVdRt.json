@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: Tye Tribbett",
+  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: CeCe Winans & Shirley Caesar",
   "name": "Gospel Hits",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
+    },
+    {
+      "album": {
+        "name": "Able",
+        "url": "https://open.spotify.com/album/5huA7FbW7RWr0lXR9dC7Dx"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173860,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/05Qb46jhgjlxjbQQQvCpFQ"
     },
     {
       "album": {
@@ -416,6 +434,24 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
+    },
+    {
+      "album": {
+        "name": "Better Afterwhile (Live)",
+        "url": "https://open.spotify.com/album/381nnkcBLYI5TcDfaiDgIy"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378317,
+      "name": "Better Afterwhile - Live",
+      "url": "https://open.spotify.com/track/41EG7xSpmpJuPL5kZiCjSd"
     },
     {
       "album": {
@@ -865,6 +901,28 @@
     },
     {
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242333,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T"
+    },
+    {
+      "album": {
         "name": "Church Doors",
         "url": "https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns"
       },
@@ -894,7 +952,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 167873,
       "name": "Church Doors",
       "url": "https://open.spotify.com/track/6xrGZR01UrE8iZnErItSGW"
@@ -1230,7 +1288,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 177201,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
@@ -1252,6 +1310,24 @@
       "duration_ms": 254163,
       "name": "Do You Believe In Love?",
       "url": "https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV"
+    },
+    {
+      "album": {
+        "name": "Don't Faint",
+        "url": "https://open.spotify.com/album/5SgVeNlYiHyRsS7AbT0C8U"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236453,
+      "name": "Don't Faint",
+      "url": "https://open.spotify.com/track/703wwvUGt17zuc5NkGrkLr"
     },
     {
       "album": {
@@ -1858,7 +1934,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 370399,
       "name": "Hold On - Live",
       "url": "https://open.spotify.com/track/4QTXebgW5IJJS8WpBLn6Zc"
@@ -2328,7 +2404,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 217894,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5LLv0UnROhcRiqBmR6p9Us"
@@ -4513,6 +4589,28 @@
     },
     {
       "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/7CDZovGGVHBsP1UVgZb97J"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jamal Roberts",
+          "url": "https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472368,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0bBJAm4GJPyuhlWzytBLW8"
+    },
+    {
+      "album": {
         "name": "Still (with Jamal Roberts)",
         "url": "https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl"
       },
@@ -4528,7 +4626,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 478933,
       "name": "Still (with Jamal Roberts)",
       "url": "https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7"
@@ -5048,7 +5146,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 272593,
       "name": "Try Love",
       "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
@@ -5326,6 +5424,24 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "album": {
+        "name": "Choirmaster II (Live)",
+        "url": "https://open.spotify.com/album/4Nqqfoi87fORR9WqZssv78"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534864,
+      "name": "When I Think - Live",
+      "url": "https://open.spotify.com/track/1oI2720cWi8Wo6jh3mFiaA"
     },
     {
       "album": {

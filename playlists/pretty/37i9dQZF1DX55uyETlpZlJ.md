@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh K
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,127 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,145 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Hey Nanna Jeeva](https://open.spotify.com/track/6Cv3CSs5W7CvP3V4BHcJgQ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [NJ](https://open.spotify.com/artist/2958axlyMQi2Fc2NQyt2cH) | [Hey Nanna Jeeva](https://open.spotify.com/album/32OXZN5deMozsjjyMkEqvm) | 2:28 |
 | 7 | [Nanu Ninna Gungalle](https://open.spotify.com/track/3A1SlGPj1dd5AWHyUYOKhx) | [Haston Rodrigues](https://open.spotify.com/artist/069pd0XzR1dBt9JsBWEZ7W), [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Nanu Ninna Gungalle](https://open.spotify.com/album/6Fgm8pw8QSsYfZeaV3jLCR) | 2:24 |
 | 8 | [Khushi](https://open.spotify.com/track/7cd8f7AqLjP6v47ZQNRJxV) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Khushi](https://open.spotify.com/album/0Fc7Rm6nwelUDhG8lEY3TL) | 5:23 |
-| 9 | [Biddiyabbe Hudugi](https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y) | [Biddiyabbe Hudugi](https://open.spotify.com/album/0WRoTyJwEgkaBF3BVgqsrv) | 2:38 |
+| 9 | [Biddiyabbe Hudugi](https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr) | [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [Raghavendra V.](https://open.spotify.com/artist/2qHM0nk3k1cTu0u3VcgGrQ) | [Biddiyabbe Hudugi](https://open.spotify.com/album/0WRoTyJwEgkaBF3BVgqsrv) | 2:38 |
 | 10 | [Belongaluru](https://open.spotify.com/track/3Ccj32rFvv6NZa9l6nv7fc) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Belongaluru](https://open.spotify.com/album/4lXfPiqT2mAvbIxVTyhyu5) | 3:55 |
 | 11 | [Taare](https://open.spotify.com/track/3Djy0T9KXRU1qISYUMhb9e) | [Nishada](https://open.spotify.com/artist/7qK4oglXTmjgWuZQOowdnI), [Prinson Monthero](https://open.spotify.com/artist/1CoXgwrfT8V2fJwMwnuXd1), [Padani Tales](https://open.spotify.com/artist/60jAGG92GWc2lCjX2SYIw3) | [Taare](https://open.spotify.com/album/5RuYzy62dLsXOwHHgqi1hk) | 2:33 |
 | 12 | [Nenapale](https://open.spotify.com/track/3yOPmz3W9psgd9XX5BMHcK) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Nenapale](https://open.spotify.com/album/5ajuZjDYqrJU1TzcFBG60H) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Esther Graf, NESS
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,207 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,160 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 12 | [1000 Mal](https://open.spotify.com/track/6L25piLdJ2vrxugmPis0V7) | [Leona Shijaku](https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj) | [1000 Mal](https://open.spotify.com/album/1tZX5gd6HW2ueFVr7ACFPN) | 2:50 |
 | 13 | [Wehe du gibst auf](https://open.spotify.com/track/5PSZB2T72UZLm2kX8N7VIO) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Wehe du gibst auf](https://open.spotify.com/album/75SPCTe3ftEG8Lp7WGwbpF) | 3:16 |
 | 14 | [Gut genug](https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Durch die Blume](https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH) | 2:49 |
-| 15 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
+| 15 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 16 | [NICHT VERÄNDERT](https://open.spotify.com/track/0aUp8SRoWJ0xadMqEbcKeJ) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [NICHT VERÄNDERT](https://open.spotify.com/album/14Uyv9xZYUwokRyGIKPcEL) | 2:00 |
 | 17 | [Völlig normal](https://open.spotify.com/track/6xFMp9NmwFjb6hmD9eFfZS) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Blumendisko](https://open.spotify.com/album/6oXAEUnTApKVWaMsVYBylO) | 2:25 |
 | 18 | [Nokia](https://open.spotify.com/track/2ukYEXUL7LGPPb8T6tEqgF) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Nokia](https://open.spotify.com/album/4RsvpOMmsoydZCknHCdpDS) | 3:29 |

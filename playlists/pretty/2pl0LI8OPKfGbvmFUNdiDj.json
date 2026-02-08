@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 552,
+  "num_followers": 560,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAC+bGEBTeNeehBQbuDHm6MSvz7B/lS",
+  "snapshot_id": "AAAC+4tBBGREh9B8wy3vrDAze/ZVBrld",
   "tracks": [
     {
       "added_at": "2025-12-22 18:56:21",
@@ -703,6 +703,58 @@
       "duration_ms": 191999,
       "name": "Was Los",
       "url": "https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH"
+    },
+    {
+      "added_at": "2026-02-07 22:25:16",
+      "album": {
+        "name": "M\u00e1s All\u00e1 del Margen",
+        "url": "https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd"
+      },
+      "artists": [
+        {
+          "name": "Cartel del Llano",
+          "url": "https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr"
+        },
+        {
+          "name": "Trotanotas",
+          "url": "https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM"
+        },
+        {
+          "name": "Aaron Beat",
+          "url": "https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR"
+        },
+        {
+          "name": "Kevin Espinoza",
+          "url": "https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb"
+        },
+        {
+          "name": "Romanis",
+          "url": "https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf"
+        }
+      ],
+      "duration_ms": 267180,
+      "name": "M\u00e1s All\u00e1 del Margen",
+      "url": "https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ"
+    },
+    {
+      "added_at": "2026-02-07 22:32:30",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz"
+      },
+      "artists": [
+        {
+          "name": "Nissu",
+          "url": "https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0"
+        },
+        {
+          "name": "Paigey Cakey",
+          "url": "https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "Yourself",
+      "url": "https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

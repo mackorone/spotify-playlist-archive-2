@@ -5579,6 +5579,24 @@
     },
     {
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/28S4Y8KndNoY7jwPoqbXLa"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229247,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/280E4oT7TC7EcdPSDjJfJJ"
+    },
+    {
+      "album": {
         "name": "Lead You To Water",
         "url": "https://open.spotify.com/album/3ZFPLkZGP9Wdbc5ZYC3zWn"
       },
@@ -7214,7 +7232,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 263921,
       "name": "L.Y.A.T.T.",
       "url": "https://open.spotify.com/track/4YlVnIvCYYPMWwyxEB7wtA"
@@ -10562,7 +10580,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 208071,
       "name": "praxis",
       "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
@@ -11600,7 +11618,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 170877,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH"

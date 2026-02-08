@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: Sphectacula x DJ Naves
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,216 likes - 79 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,277 likes - 79 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [Khuluma Nam](https://open.spotify.com/track/2lLgXBk0pwKbVXM78oq9wa) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Zain SA](https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt) | [Tronics Land Series 3](https://open.spotify.com/album/6yMRhzcIPxcfrAmU7ADS48) | 8:48 |
 | 79 | [Vathela](https://open.spotify.com/track/157SGWWZlhUctkhWYp4PDA) | [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr), [Ezase Afro](https://open.spotify.com/artist/2Pq1y5jYYOC4Si7kY6qjBB), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq) | [Ezase Afro Summer Banger](https://open.spotify.com/album/2aoN0uDKenMFzEfnEKWJhk) | 5:46 |
 
-Snapshot ID: `AAAAAPM/0WFo0J06XWfTcn/fmwU+ULDV`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

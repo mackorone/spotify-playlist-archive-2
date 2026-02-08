@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emir Can İğrek ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,561 likes - 121 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,547 likes - 121 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 38 | [Di Comeback](https://open.spotify.com/track/0ZEgk5cAydJUvz6eCt7KYR) | [Aduza Dolozi](https://open.spotify.com/artist/6Q9cZLE00LWmmfIu3ZczAO), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii) | [Di Comeback](https://open.spotify.com/album/598dazi1brm79BXVOhhcnA) | 3:02 |
 | 39 | [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0) | [Doğukan San](https://open.spotify.com/artist/4APZ6Exv1JmOHPnV7CjcFT), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE) | [Love Built This Home \(feat\. Red Luna\)](https://open.spotify.com/album/78IZEWGJHcFHUUgvmziB6Q) | 3:25 |
 | 40 | [Fire](https://open.spotify.com/track/6BvpLBewAjGV1HApZUO6kf) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk), [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Fire](https://open.spotify.com/album/3Tk2qCdelK2HMbsR5oeTR5) | 2:49 |
-| 41 | [Kalbim Kalbine Emanet](https://open.spotify.com/track/4Fo5rOccdAUaPfxzi7d9jg) | [Nez](https://open.spotify.com/artist/4VQHynKk0iNNXE2kDerMKl) | [Kalbim Kalbine Emanet](https://open.spotify.com/album/6sczFpR2L3Tu1iXWPPTK88) | 2:20 |
+| 41 | [Kalbim Kalbine Emanet](https://open.spotify.com/track/4Fo5rOccdAUaPfxzi7d9jg) | [Nez](https://open.spotify.com/artist/4VQHynKk0iNNXE2kDerMKl) | [Kalbim Kalbine Emanet](https://open.spotify.com/album/6sczFpR2L3Tu1iXWPPTK88) | 2:21 |
 | 42 | [Stay With Me](https://open.spotify.com/track/6PlJmtSZG9AE1asoYt2BXu) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Stay With Me](https://open.spotify.com/album/0bsw6pMyquYTDMVO4BjV4e) | 3:21 |
 | 43 | [Oy Dedim](https://open.spotify.com/track/5oS6MhVXXQ0bdoumQJw2US) | [Onur Atmaca](https://open.spotify.com/artist/2wlyVkL3KJmboFNEsUP5dB) | [Oy Dedim](https://open.spotify.com/album/0yrlNleOICb3BNDQRut8eB) | 3:29 |
 | 44 | [Aynalar](https://open.spotify.com/track/0Vvm0tJzOku9s3KdVnsGTo) | [Ahmet Zahit](https://open.spotify.com/artist/3PVJaOQRZ7beN9CBWGtFRk) | [Aynalar](https://open.spotify.com/album/5W0VewjTHAfpDLITvQlrUr) | 3:22 |

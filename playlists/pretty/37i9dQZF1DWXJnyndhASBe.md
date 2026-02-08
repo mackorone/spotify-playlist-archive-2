@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Tax Free, Malik Montana, Kazior
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,872 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,869 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 10 | [GUARDIAN ANGEL ULTRA MAX](https://open.spotify.com/track/5OoRgwQhV6BSkYGFsWPkxp) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [GUARDIAN ANGEL ULTRA MAX](https://open.spotify.com/album/6Gspl3IhI9QJO9NRVJTPKf) | 3:10 |
 | 11 | [Kodak](https://open.spotify.com/track/1WEWw4wlvHTpEQVHRqAhEg) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3) | [Kodak](https://open.spotify.com/album/2H9tCcNpAQXtBSDmCRpra2) | 2:50 |
 | 12 | [Plain Jane](https://open.spotify.com/track/5FgLtqCQ4uy59ubcTVgS03) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Plain Jane](https://open.spotify.com/album/1HfaMal3Pyq9XkLc9SnnBP) | 2:39 |
-| 13 | [Samotnie](https://open.spotify.com/track/5M2sNASahXwekfvbfSqmCg) | [Oliver Olson](https://open.spotify.com/artist/70ArguSAsID4vw7dOl40VN), [Nicole Tymcio](https://open.spotify.com/artist/09deB3EjQt1Zkm3PgQo7Xd), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [DOPEHOUSE](https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN) | [Samotnie](https://open.spotify.com/album/1iEPlhIPMAhTNgqFUVVG7L) | 3:05 |
+| 13 | [Samotnie](https://open.spotify.com/track/5M2sNASahXwekfvbfSqmCg) | [Oliver Olson](https://open.spotify.com/artist/70ArguSAsID4vw7dOl40VN), [Nicole Tymcio](https://open.spotify.com/artist/09deB3EjQt1Zkm3PgQo7Xd), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [DOPEHOUSE](https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN), [NICOLSON](https://open.spotify.com/artist/6dgClrSfBKr0c2OoIQr8nY) | [Samotnie](https://open.spotify.com/album/1iEPlhIPMAhTNgqFUVVG7L) | 3:05 |
 | 14 | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7) | 3:33 |
 | 15 | [PRAGNIEŃ BRAK](https://open.spotify.com/track/01Mx9qKrT1IeL9EywTe4Se) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [PRAGNIEŃ BRAK](https://open.spotify.com/album/076bMlMPKEhb0OM7tyWiJC) | 3:03 |
 | 16 | [Warszawski sen](https://open.spotify.com/track/7LNCrb1DHozaapgpOsRwgj) | [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [FF](https://open.spotify.com/album/2ydy628JCAOpPeT90o4f6z) | 2:08 |

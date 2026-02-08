@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25798,
+  "num_followers": 25814,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -291,8 +291,8 @@
     {
       "added_at": "2026-01-26 05:10:44",
       "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+      "duration_ms": 196093,
+      "name": "When I stop thinking",
+      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
     },
     {
       "added_at": "2026-01-26 05:10:44",
@@ -375,8 +375,8 @@
     {
       "added_at": "2026-01-26 05:10:44",
       "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 196093,
-      "name": "When I stop thinking",
-      "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
     },
     {
       "added_at": "2026-01-26 05:10:44",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-01-26 05:10:44",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu"
-      },
-      "artists": [
-        {
-          "name": "Son Hyeeun",
-          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
-    },
-    {
-      "added_at": "2026-01-26 05:10:44",
-      "album": {
         "name": "\u96e8\u5f8c uuhu",
         "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 221026,
       "name": "light",
       "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
-    },
-    {
-      "added_at": "2026-01-26 05:10:44",
-      "album": {
-        "name": "A Walk (The Last 10 Years X J_ust)",
-        "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "A Walk (The Last 10 Years X J_ust)",
-      "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
     },
     {
       "added_at": "2026-01-26 05:10:44",
@@ -667,6 +635,22 @@
     {
       "added_at": "2026-01-26 05:10:44",
       "album": {
+        "name": "A Walk (The Last 10 Years X J_ust)",
+        "url": "https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "A Walk (The Last 10 Years X J_ust)",
+      "url": "https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU"
+    },
+    {
+      "added_at": "2026-01-26 05:10:44",
+      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2026-01-26 05:10:44",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu"
+      },
+      "artists": [
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
     },
     {
       "added_at": "2026-01-26 05:10:44",

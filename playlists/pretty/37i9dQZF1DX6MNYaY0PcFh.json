@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Silva Bumpa",
-  "num_followers": 103372,
+  "num_followers": 103401,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
+        "name": "Piece Of My Soul",
+        "url": "https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Piece Of My Soul",
+      "url": "https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
         "name": "Motion Sickness",
         "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 200571,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
-        "name": "Piece Of My Soul",
-        "url": "https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Piece Of My Soul",
-      "url": "https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "ALL 2 U",
-        "url": "https://open.spotify.com/album/33taQZFQEoXg4mUbg8Jbhw"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "ALL 2 U",
-      "url": "https://open.spotify.com/track/3Fkrn3vvdYIyZxmRjQGIBr"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
         "name": "What's A Girl To Do (feat. DRIIA)",
         "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 221642,
       "name": "What's A Girl To Do",
       "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
+        "name": "ALL 2 U",
+        "url": "https://open.spotify.com/album/33taQZFQEoXg4mUbg8Jbhw"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "ALL 2 U",
+      "url": "https://open.spotify.com/track/3Fkrn3vvdYIyZxmRjQGIBr"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -659,6 +659,22 @@
       "duration_ms": 163555,
       "name": "Supa Smoov - Bumpa's Xtra Smoov Mix",
       "url": "https://open.spotify.com/track/3qcZkQELHhpYTMYWPM1BT7"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
+        "name": "Driving Me Crazy",
+        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
+      },
+      "artists": [
+        {
+          "name": "Lewis Taylor",
+          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
+        }
+      ],
+      "duration_ms": 168169,
+      "name": "Driving Me Crazy",
+      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "Driving Me Crazy",
-        "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
-      },
-      "artists": [
-        {
-          "name": "Lewis Taylor",
-          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
-        }
-      ],
-      "duration_ms": 168169,
-      "name": "Driving Me Crazy",
-      "url": "https://open.spotify.com/track/5ZNu1VSf5HjQwkCCAgobjG"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
         "name": "over you",
         "url": "https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 218666,
       "name": "over you",
       "url": "https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -771,22 +787,6 @@
       "duration_ms": 199411,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/3Al1XQtViHGZgcmEqO2IIx"
-      },
-      "artists": [
-        {
-          "name": "BVNQUET",
-          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
-        }
-      ],
-      "duration_ms": 160444,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7eNuFZZpQ09MXhagDr7BOf"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
         "name": "Don't Mess With My Man",
         "url": "https://open.spotify.com/album/5iSBcRXrbFmZInDMFr1Ti7"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        }
+      ],
+      "duration_ms": 184326,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
-      },
-      "artists": [
-        {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
-        }
-      ],
-      "duration_ms": 184326,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
         "name": "Better Me",
         "url": "https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK"
       },
@@ -1275,6 +1259,42 @@
       "duration_ms": 144510,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/3Al1XQtViHGZgcmEqO2IIx"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7eNuFZZpQ09MXhagDr7BOf"
+    },
+    {
+      "added_at": "2026-02-06 00:00:05",
+      "album": {
+        "name": "Big Truck",
+        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        },
+        {
+          "name": "J Fado",
+          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
+        }
+      ],
+      "duration_ms": 111428,
+      "name": "Big Truck",
+      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
     },
     {
       "added_at": "2026-02-06 00:00:05",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "Big Truck",
-        "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
-      },
-      "artists": [
-        {
-          "name": "SIDEQUEST",
-          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
-        },
-        {
-          "name": "J Fado",
-          "url": "https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM"
-        }
-      ],
-      "duration_ms": 111428,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
-    },
-    {
-      "added_at": "2026-02-06 00:00:05",
-      "album": {
         "name": "Draw a Line",
         "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
       },
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2026-02-06 00:00:05",
       "album": {
-        "name": "Hot In The Party",
-        "url": "https://open.spotify.com/album/5d4VFFHF06KIbDfcRufGTM"
+        "name": "Straight From The Underground",
+        "url": "https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX"
       },
       "artists": [
         {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
-        },
-        {
-          "name": "KAISUI",
-          "url": "https://open.spotify.com/artist/3nw02QhDsR9kPXfPlptEbs"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 215744,
-      "name": "Hot In The Party",
-      "url": "https://open.spotify.com/track/0MVBT2XUKmRJmvOX8GngyJ"
+      "duration_ms": 193022,
+      "name": "Straight From The Underground",
+      "url": "https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP"
     }
   ],
   "unique_name": "New UK Garage",

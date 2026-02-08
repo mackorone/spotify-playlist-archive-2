@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Pronto, Loredana, sombr, J Balvin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,288 likes - 102 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,297 likes - 102 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 9 | [Deine Liebe](https://open.spotify.com/track/6Rj6N6sYzWjERndS9O0NSB) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Deine Liebe](https://open.spotify.com/album/6MqQFB7MUOSOYg86UOFfCT) | 2:34 |
 | 10 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 |
 | 11 | [COOK](https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COOK](https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP) | 2:50 |
-| 12 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
+| 12 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 13 | [Ti Bébé](https://open.spotify.com/track/7EvY12qA3o3rkoQV07IW4P) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Ti Bébé](https://open.spotify.com/album/2SpriWSRlBrj43RAxdeiES) | 2:53 |
 | 14 | [Du bist schön](https://open.spotify.com/track/3CBGQZZSAwLqfRmBPmy8fd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist schön](https://open.spotify.com/album/5honlx5we2hDEYf31kfrbg) | 2:27 |
 | 15 | [Patek Philippe \(feat\. Lazza\)](https://open.spotify.com/track/6sukW44PrvVzeko9KZlqen) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:36 |

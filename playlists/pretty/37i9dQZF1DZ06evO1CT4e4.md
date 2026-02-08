@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,401 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,407 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CT4e4.md) - [plain]
 | 49 | [Summa](https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Serenity \- The Beauty Of Arvo Pärt](https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY) | 5:00 |
 | 50 | [These Words…](https://open.spotify.com/track/2t2K02f366I69a4ZBfgSwh) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tallinn Chamber Orchestra](https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Tractus](https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF) | 12:32 |
 
-Snapshot ID: `aYPdgAAAAADxNTtomTxaBiofyLmoyJ+K`
+Snapshot ID: `aYPdgAAAAABFxiF5E16+zL6rqDd6fjux`

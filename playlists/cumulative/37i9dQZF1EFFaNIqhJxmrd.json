@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/0w5santyjrfiZPqul2isJn"
+      },
+      "artists": [
+        {
+          "name": "Tash Blake",
+          "url": "https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116689,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/2OtCO79wkJ0wGpTQqgaG1u"
+    },
+    {
+      "album": {
         "name": "Murphy",
         "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
       },

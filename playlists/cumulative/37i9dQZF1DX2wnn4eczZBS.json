@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "ik haat je / ik geef om je",
+        "url": "https://open.spotify.com/album/2F8Sf5GFnKJxRHq8fo2MqH"
+      },
+      "artists": [
+        {
+          "name": "Zeno",
+          "url": "https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126937,
+      "name": "ik geef om je",
+      "url": "https://open.spotify.com/track/6ngQYeNqp66AyCdxEwDn12"
+    },
+    {
+      "album": {
         "name": "Ik Geloof Dat Wij Iets Delen",
         "url": "https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR"
       },
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 166852,
       "name": "Normale gevoelens",
       "url": "https://open.spotify.com/track/0Tl0dPMsR1CHYLJRNYFuov"
@@ -3628,6 +3646,32 @@
       "duration_ms": 189000,
       "name": "Opslaan",
       "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
+    },
+    {
+      "album": {
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188272,
+      "name": "OSAMA BIN LADEN",
+      "url": "https://open.spotify.com/track/06ibtv7JGpTPrPabspWOOh"
     },
     {
       "album": {
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 120833,
       "name": "Waarom Ik Zo Ben",
       "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"

@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Grande Dia",
+        "url": "https://open.spotify.com/album/0ZypVuAinVUP3sHyKvVS3y"
+      },
+      "artists": [
+        {
+          "name": "Esther Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288240,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/1YInZRpyOsjnoZfrizgJGU"
+    },
+    {
+      "album": {
         "name": "Edenland",
         "url": "https://open.spotify.com/album/4PrPfexL3BkYo36X3oh13d"
       },

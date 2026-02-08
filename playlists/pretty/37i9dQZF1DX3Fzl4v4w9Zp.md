@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,798 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,761 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 99 | [Country](https://open.spotify.com/track/4vYEOiAOlID8WQ3SWGiKBc) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Country](https://open.spotify.com/album/4Z4D92KlKggXkN7rauBRtO) | 2:03 |
 | 100 | [Let’s See Ourselves Out](https://open.spotify.com/track/5rXkwsPjh7rq6QMJxT7UuL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Still + Bright](https://open.spotify.com/album/5OPn3sKvPQZ1Hg6hSLiE78) | 3:13 |
 
-Snapshot ID: `AAAAALLpVD/09Zqxn+FklmJPjow2HSQz`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

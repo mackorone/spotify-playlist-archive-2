@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kurt Carr & The Kurt Carr Singers, Kirk Franklin & The Family, Amber Bullock and more
+> With Tramaine Hawkins, Le'Andria Johnson, Ricky Dillard & New G and more
 
 1,954 songs - 6 day 6 hr 8 min
 

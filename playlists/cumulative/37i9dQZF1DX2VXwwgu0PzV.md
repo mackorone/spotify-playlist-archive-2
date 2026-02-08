@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Churemi
 
-1,526 songs - 3 day 9 hr 17 min
+1,527 songs - 3 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [I Never Lose](https://open.spotify.com/track/3qggcKkrS2ZSZvpasOGw9l) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I Never Lose](https://open.spotify.com/album/3sHO5hD2ZQbwpWys1vZ8TA) | 3:25 | 2026-01-30 |  |
 | [I No Go Give Up](https://open.spotify.com/track/2d5K8YIQHGGsUbG9OVdwws) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [I No Go Give Up](https://open.spotify.com/album/65iDs7t0yJKNA6Z3st6SFl) | 3:12 | 2023-08-25 | 2023-10-27 |
 | [I Pray](https://open.spotify.com/track/4f3pIJLTJ7pA72AHEBaPc2) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [I Pray](https://open.spotify.com/album/68scxYj7Ja7saSvTGNeBik) | 3:28 | 2025-01-31 | 2025-02-21 |
+| [I Pray](https://open.spotify.com/track/1KWVBBbCUVjxHtTwqTqwpV) | [Evelle](https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa) | [I Pray](https://open.spotify.com/album/4f47FsBbQU4kUlKoWFt4GT) | 3:04 | 2026-02-07 |  |
 | [I Really Want You to Know](https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs) | [Kelly Emuegba](https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v) | [I Really Want You to Know](https://open.spotify.com/album/6Ogz6BdSHhCeilep6LQGp3) | 4:38 | 2023-06-30 | 2023-07-28 |
 | [I surrender](https://open.spotify.com/track/2vYX9gNqqhWFfOhVJGnlLd) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [I surrender](https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo) | 2:51 | 2025-07-04 | 2025-08-01 |
 | [I Surrender](https://open.spotify.com/track/4LuaKxOzwnUJ1P88fXjR0T) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [I Surrender](https://open.spotify.com/album/2eCZ2zLOptlOg9EBUo8I3V) | 3:00 | 2025-11-21 | 2026-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Sun\-El Musician, Thatohatsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,108 likes - 70 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,150 likes - 70 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 69 | [I Love You So \- Shimza Remix](https://open.spotify.com/track/0eLiCCY502jx4MnX7zgjb6) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [I Love You So \(Shimza Remix\)](https://open.spotify.com/album/1e8F5LJb5wKfJzT7m4eDSQ) | 3:44 |
 | 70 | [Falling \- Liva K Remix](https://open.spotify.com/track/4kLly825xZepEsbhglx0r3) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Falling \(Liva K Remix\)](https://open.spotify.com/album/6le3Rguy0YGNUhV8T3HbZP) | 2:57 |
 
-Snapshot ID: `AAAAAMfso4uTbZtovRm2AIXr8FuK9wLN`
+Snapshot ID: `AAAAAMoHvqGrhG9ef7U6Z1a4lhlhj17s`

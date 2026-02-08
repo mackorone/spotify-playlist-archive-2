@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,102,850 likes - 374 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103,090 likes - 374 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,4 +383,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 373 | [Landscaphoria](https://open.spotify.com/track/6PGLOo7LvIi9bI971dJ4MY) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Landscaphoria](https://open.spotify.com/album/0gmUKcE9Yge2dNbtkn9fEg) | 2:55 |
 | 374 | [Eclipse](https://open.spotify.com/track/1SQsHShBRl2V2ntYD6TDRF) | [Somnolentia](https://open.spotify.com/artist/1k7mX5EwakP9gbdCyulnJ1) | [Eclipse](https://open.spotify.com/album/6ZwQijOQq1etSrZjlsgS2M) | 3:21 |
 
-Snapshot ID: `AAAAABXlbPknR9vMUvtwd355vi4FHzN5`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

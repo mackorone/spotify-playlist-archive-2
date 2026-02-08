@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,895 likes - 53 songs - 3 hr 27 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,896 likes - 54 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 51 | [Miracles](https://open.spotify.com/track/1rYu6IaPWvIWkrSBlxwj8e) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:38 |
 | 52 | [You Were Sent to This World](https://open.spotify.com/track/2yxsfTZTOIvaT9C3EAdWkn) | [Johnnie Frierson](https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN) | [Have You Been Good to Yourself](https://open.spotify.com/album/1kcDLZXZRUnZdRlCea4Yne) | 3:09 |
 | 53 | [the producer](https://open.spotify.com/track/2Wx54D8JPCgXHgUzxs1RGI) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [the producer](https://open.spotify.com/album/57GpcPS0MhI2AKU6DCd8O7) | 3:18 |
+| 54 | [Comunhão](https://open.spotify.com/track/2lStGDJa1Z2hA7NskFdKJE) | [Nelson Angelo](https://open.spotify.com/artist/6tXJsM9aKkrxuPox1ziD79), [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Nelson Angelo E Joyce](https://open.spotify.com/album/0YGaT2B4czmv6YDsz4bgPT) | 3:07 |
 
-Snapshot ID: `AAAN4n9E7oxvoQ5NLARyT6Y4SwIaSjWO`
+Snapshot ID: `AAAN4z4Z9RiUxlcaHqQEXRNV65VZKj6g`

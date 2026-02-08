@@ -1,6 +1,6 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Wale",
-  "num_followers": 1395018,
+  "num_followers": 1395107,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
@@ -18,10 +18,14 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
       "duration_ms": 270626,
-      "name": "The Villest",
+      "name": "The Villest (with Erykah Badu)",
       "url": "https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN"
     },
     {
@@ -178,10 +182,14 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
         }
       ],
       "duration_ms": 235906,
-      "name": "Legacy",
+      "name": "Legacy (with PJ)",
       "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
     },
     {

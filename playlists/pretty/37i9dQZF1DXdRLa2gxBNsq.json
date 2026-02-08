@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 114467,
+  "num_followers": 114480,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/6KvNCJlrntxikr81cVe5sX"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/6KvNCJlrntxikr81cVe5sX"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -919,26 +919,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Drogoindependiente",
-        "url": "https://open.spotify.com/album/3LzsUXKyMhebFf1dTBiJZk"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        },
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Drogoindependiente",
-      "url": "https://open.spotify.com/track/4VVkpP7kyLv2Aby6kUDsxc"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Drogoindependiente",
+        "url": "https://open.spotify.com/album/3LzsUXKyMhebFf1dTBiJZk"
+      },
+      "artists": [
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        },
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Drogoindependiente",
+      "url": "https://open.spotify.com/track/4VVkpP7kyLv2Aby6kUDsxc"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Prohibido Prohibir",
-        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        },
-        {
-          "name": "Fernando Reincidentes",
-          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
-        },
-        {
-          "name": "Reincidentes",
-          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Prohibido Prohibir",
-      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Prohibido Prohibir",
+        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        },
+        {
+          "name": "Fernando Reincidentes",
+          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Prohibido Prohibir",
+      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Esperando a Mi Enemigo",
         "url": "https://open.spotify.com/album/6lqFTzBGCIBHlsVHMSU8cY"
       },
@@ -1147,38 +1131,18 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "Un D\u00eda en Texas [con Anna y Skiper (Sistema de Entretenimiento)]",
-        "url": "https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Ana Curra",
-          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
-        },
-        {
-          "name": "sistema de entretenimiento",
-          "url": "https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 142162,
-      "name": "Un D\u00eda en Texas - con Anna y Skiper (Sistema de Entretenimiento)",
-      "url": "https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1199,6 +1163,22 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 266733,
       "name": "Ellos Dicen Mierda (Live)",
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "Un D\u00eda en Texas [con Anna y Skiper (Sistema de Entretenimiento)]",
+        "url": "https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak"
+      },
+      "artists": [
+        {
+          "name": "Ana Curra",
+          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
+        },
+        {
+          "name": "sistema de entretenimiento",
+          "url": "https://open.spotify.com/artist/4Fps5rcLi7YIfOcmTKHpHv"
+        }
+      ],
+      "duration_ms": 142162,
+      "name": "Un D\u00eda en Texas - con Anna y Skiper (Sistema de Entretenimiento)",
+      "url": "https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-01 23:01:19",
       "album": {
-        "name": "ORAIN ETA BETI",
-        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
-      },
-      "artists": [
-        {
-          "name": "Aingura",
-          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Betirako negua",
-      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
-    },
-    {
-      "added_at": "2026-02-01 23:01:19",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 150701,
       "name": "Figurante",
       "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-02-01 23:01:19",
+      "album": {
+        "name": "ORAIN ETA BETI",
+        "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
+      },
+      "artists": [
+        {
+          "name": "Aingura",
+          "url": "https://open.spotify.com/artist/1jrIwoUl4w35uVHRn1wDBm"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Betirako negua",
+      "url": "https://open.spotify.com/track/3HvXfESQiCdOVhk1keTL6g"
     },
     {
       "added_at": "2026-02-01 23:01:19",
@@ -1716,9 +1716,9 @@
           "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
         }
       ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
       "added_at": "2026-02-01 23:01:19",

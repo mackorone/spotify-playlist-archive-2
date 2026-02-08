@@ -1,4 +1,4 @@
-## Playlists \(9085\)
+## Playlists \(9086\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3755,7 +3755,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Sombr  en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Aitana en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)
@@ -7488,6 +7488,7 @@
 - [Today's Punk](/playlists/pretty/37i9dQZF1DXdOAw8BT7AHt.md)
 - [Today's Singer\-Songwriters](/playlists/pretty/37i9dQZF1DWTyjRnMgESue.md)
 - [Today's Top Hits Presents Best Hit Songs of 2025](/playlists/pretty/37i9dQZF1DWVmX5LMTOKPw.md)
+- [Today's Top Videos](/playlists/pretty/37i9dQZF1DX99lWznOaNjk.md)
 - [Today’s Top Hits](/playlists/pretty/37i9dQZF1DXcBWIGoYBM5M.md)
 - [Today’s Top Hits](/playlists/pretty/78Q3Vn0T0RcTGOD6xVcOdx.md)
 - [Todd Terry's track IDs](/playlists/pretty/37i9dQZF1DX7N1p58R7iUl.md)

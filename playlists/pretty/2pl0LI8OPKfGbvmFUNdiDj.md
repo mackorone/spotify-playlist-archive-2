@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 552 likes - 42 songs - 2 hr 23 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 560 likes - 44 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 40 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 |
 | 41 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
 | 42 | [Was Los](https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH) | [Willi Eyy](https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t), [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Was Los](https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK) | 3:11 |
+| 43 | [Más Allá del Margen](https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ) | [Cartel del Llano](https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr), [Trotanotas](https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM), [Aaron Beat](https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR), [Kevin Espinoza](https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb), [Romanis](https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf) | [Más Allá del Margen](https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd) | 4:27 |
+| 44 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
 
-Snapshot ID: `AAAC+bGEBTeNeehBQbuDHm6MSvz7B/lS`
+Snapshot ID: `AAAC+4tBBGREh9B8wy3vrDAze/ZVBrld`

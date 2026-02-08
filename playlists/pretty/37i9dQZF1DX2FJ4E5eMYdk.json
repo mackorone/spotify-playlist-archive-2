@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 193185,
+  "num_followers": 193229,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR"
-      },
-      "artists": [
-        {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97"
     }
   ],
   "unique_name": "Psych & Groove",

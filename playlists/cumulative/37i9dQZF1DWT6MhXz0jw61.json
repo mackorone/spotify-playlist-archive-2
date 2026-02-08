@@ -15517,24 +15517,6 @@
     },
     {
       "album": {
-        "name": "The Fall-Off",
-        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "date_added": "2026-02-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 235906,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
-    },
-    {
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3I1B59zAUSIotpHpS1KTDV"
       },
@@ -15550,6 +15532,28 @@
       "duration_ms": 168000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/7JvDyJi6zjFmQRzcjYN0bZ"
+    },
+    {
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "Legacy (with PJ)",
+      "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
     },
     {
       "album": {
@@ -27156,13 +27160,17 @@
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 270626,
-      "name": "The Villest",
+      "name": "The Villest (with Erykah Badu)",
       "url": "https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN"
     },
     {

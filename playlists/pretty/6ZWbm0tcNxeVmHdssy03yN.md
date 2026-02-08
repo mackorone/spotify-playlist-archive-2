@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,720 likes - 93 songs - 4 hr 23 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,731 likes - 93 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 10 | [CL](https://open.spotify.com/track/6R5D6ZkMRqQWAZMqrTLpds) | [Mornz](https://open.spotify.com/artist/42OptYZy71aIMGuksh5VBM) | [CL](https://open.spotify.com/album/0DW9MY0uqN8not6YeB8nh9) | 2:27 |
 | 11 | [You Said](https://open.spotify.com/track/4RgV1TGFWpquJkwJ39htlx) | [Telander](https://open.spotify.com/artist/6Pe957QMENAWMZF7ityC81) | [You Said](https://open.spotify.com/album/23j92NDKGgjQpM9vxw7FXC) | 3:19 |
 | 12 | [Marked Up](https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Marked Up](https://open.spotify.com/album/1jD2FnIbaPmrwPdHWzTf33) | 2:53 |
-| 13 | [The Smoke](https://open.spotify.com/track/171Muha9CXXMOePjbsDLcm) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot) | [A Night Not Alone](https://open.spotify.com/album/5cHMZHGNoX7sLtX9Hynlof) | 3:03 |
+| 13 | [The Smoke](https://open.spotify.com/track/171Muha9CXXMOePjbsDLcm) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [Myacka](https://open.spotify.com/artist/0TCCqhop4jFYgTnQ5FEyCw) | [A Night Not Alone](https://open.spotify.com/album/5cHMZHGNoX7sLtX9Hynlof) | 3:03 |
 | 14 | [Goodbye to Us \(feat\. KILLBOY\)](https://open.spotify.com/track/1GJ4J1EkvHHOeF14pGLl7t) | [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT), [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [Goodbye to Us \(feat\. KILLBOY\)](https://open.spotify.com/album/2iDdXOU6QNnITXQqvWOXWo) | 2:21 |
 | 15 | [Spineless](https://open.spotify.com/track/6fq8NjqjhSB6nNZjOeiZF7) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Spineless](https://open.spotify.com/album/65rStgPhIQ3YKr6HJc6U8U) | 2:50 |
 | 16 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |

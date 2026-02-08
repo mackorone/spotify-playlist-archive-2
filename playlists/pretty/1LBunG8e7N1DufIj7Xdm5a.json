@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHc35rLtjXZxC6HeWDq4fuxYLOQ+O0",
+  "snapshot_id": "AAAHdPfeial1INAECVoM+Adj+Cye4D9/",
   "tracks": [
+    {
+      "added_at": "2026-02-07 22:51:48",
+      "album": {
+        "name": "Worth the Silence",
+        "url": "https://open.spotify.com/album/5G79tZEzc5h10DTubDOhpv"
+      },
+      "artists": [
+        {
+          "name": "Sadja",
+          "url": "https://open.spotify.com/artist/3raZKrJIHOZXG0U0iYlDXq"
+        }
+      ],
+      "duration_ms": 176435,
+      "name": "Worth the Silence",
+      "url": "https://open.spotify.com/track/0voIA6g9vfC7URJnjSXOpi"
+    },
     {
       "added_at": "2026-02-06 23:09:07",
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Ninja & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,650 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,659 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 |
+| 1 | [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gora](https://open.spotify.com/artist/3G4xwBjK28S31zrQzLIMBr), [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 |
 | 2 | [GTA Mohali](https://open.spotify.com/track/3ju7Uoj3w30pMdKr2dRxKk) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Sukhn Sandhu](https://open.spotify.com/artist/6d0u916PvfFsZiOUjvWK7l), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [GTA Mohali](https://open.spotify.com/album/4VWX3ctvnVSGMWRpoXwxkY) | 3:54 |
 | 3 | [Blunt](https://open.spotify.com/track/1W3s11bHjGAL4Kg2Mw8d8R) | [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2), [Ronn Sandhu](https://open.spotify.com/artist/4mMKSiHybWRmkjMG9UXVEg) | [Blunt](https://open.spotify.com/album/5My8MVHrCF0uomDPAYqq0g) | 1:45 |
 | 4 | [Even God Tried](https://open.spotify.com/track/6RpbOvCXk3zzUZBl20tg71) | [SABR](https://open.spotify.com/artist/2xUGvMjyU3o5BSOvEy8mD7) | [Even God Tried](https://open.spotify.com/album/1uHdErHYSk4Qt66vo2OKb0) | 1:57 |

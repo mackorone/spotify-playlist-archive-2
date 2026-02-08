@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 92006,
+  "num_followers": 92039,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGjrMtf2M2LUTUohbXQ27KAPGxhu",
+  "snapshot_id": "AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4",
   "tracks": [
     {
       "added_at": "2026-01-30 12:07:15",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
+        "name": "Kick Train",
+        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Kick Train",
+      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Kick Train",
-        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Kick Train",
-      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -435,6 +435,30 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
+        "name": "Dynamite (2025 OST)",
+        "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 173055,
+      "name": "Dynamite - 2025 OST",
+      "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 186002,
       "name": "The Nightmare Man",
       "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Dynamite (2025 OST)",
-        "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        },
-        {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 173055,
-      "name": "Dynamite - 2025 OST",
-      "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -575,30 +575,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
-        "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
-      "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Oh My (Dimitri K Remix)",
         "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
       },
@@ -623,26 +599,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
+        "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
+        "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         },
         {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
         },
         {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
         }
       ],
-      "duration_ms": 273333,
-      "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
-      "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
+      "duration_ms": 190666,
+      "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
+      "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -687,6 +663,30 @@
       "duration_ms": 141346,
       "name": "WE DONT PLAY",
       "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+      "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -763,22 +763,6 @@
       "duration_ms": 135139,
       "name": "Let Them Eat Steel",
       "url": "https://open.spotify.com/track/0wjpdQ3zbmjAEkyGHm0d3I"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Another Club Banger EP",
-        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 261091,
-      "name": "Another Club Banger",
-      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -871,22 +855,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Voice Of The Underground",
-        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Voice Of The Underground",
-      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Holy Calamity",
         "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 161684,
       "name": "Holy Calamity",
       "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "Another Club Banger EP",
+        "url": "https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 261091,
+      "name": "Another Club Banger",
+      "url": "https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "Voice Of The Underground",
+        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Voice Of The Underground",
+      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Locked & Loaded EP",
-        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
-      },
-      "artists": [
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "9MM",
-      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Run 4 Your Life",
         "url": "https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 164333,
       "name": "Run 4 Your Life",
       "url": "https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "Locked & Loaded EP",
+        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
     },
     {
       "added_at": "2026-01-30 12:07:15",

@@ -1,6 +1,6 @@
 {
   "description": "quem entende o gosto das gostosa - n\u00edvel danzo e redicopa???",
-  "num_followers": 1412867,
+  "num_followers": 1412791,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "SALA VERMELHA #48 - Ferrugem",
-        "url": "https://open.spotify.com/album/5qABuKPdkUPLPmMYHUGCjX"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        },
-        {
-          "name": "VNnoBeat",
-          "url": "https://open.spotify.com/artist/01pBIVCXzvDHTDnERXyxUO"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "SALA VERMELHA #48 - Ferrugem",
-      "url": "https://open.spotify.com/track/0c10YM1tG1hjIuVBStdzTS"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
         "name": "MADE IN COHAB",
         "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 219429,
       "name": "MADE IN COHAB",
       "url": "https://open.spotify.com/track/4hirwpzw5vU5ibea57rN7Q"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "SALA VERMELHA #48 - Ferrugem",
+        "url": "https://open.spotify.com/album/5qABuKPdkUPLPmMYHUGCjX"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        },
+        {
+          "name": "VNnoBeat",
+          "url": "https://open.spotify.com/artist/01pBIVCXzvDHTDnERXyxUO"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "SALA VERMELHA #48 - Ferrugem",
+      "url": "https://open.spotify.com/track/0c10YM1tG1hjIuVBStdzTS"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
+        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
+        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "AMAPIANO",
+      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
         "name": "Muleke Ruim X Ela Sarra",
         "url": "https://open.spotify.com/album/1Kqe3awDWIu1b6CmpkBB4Q"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 141627,
       "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
       "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
-        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "AMAPIANO",
-      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
     }
   ],
   "unique_name": "creme",

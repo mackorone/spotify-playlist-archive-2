@@ -2659,6 +2659,28 @@
     },
     {
       "album": {
+        "name": "DISAPPEAR",
+        "url": "https://open.spotify.com/album/3oZrHDM89u8jZrYX5l53M2"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "DISAPPEAR",
+      "url": "https://open.spotify.com/track/3UIEDcSUInPVybvw1Nb8S9"
+    },
+    {
+      "album": {
         "name": "DIVIDE",
         "url": "https://open.spotify.com/album/2Rpr8GdtH8gc3sUfZNhUD1"
       },
@@ -3214,7 +3236,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
@@ -5068,7 +5090,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 220689,
       "name": "Honest",
       "url": "https://open.spotify.com/track/3kyslSkaBiNvo70J0gcK6P"
@@ -6840,7 +6862,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 236842,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
@@ -7680,6 +7702,28 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/13iD4vvsL8cM0RITfvimmH"
+      },
+      "artists": [
+        {
+          "name": "Brock B",
+          "url": "https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193349,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/4bMseXqCfosc2uxfsmC3ps"
     },
     {
       "album": {
@@ -9152,6 +9196,28 @@
       "duration_ms": 188667,
       "name": "Slaughter",
       "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269220,
+      "name": "Slave to the Rithm",
+      "url": "https://open.spotify.com/track/0goDqcyuBPHdknwxaCkjcG"
     },
     {
       "album": {
@@ -11080,7 +11146,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 162916,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
@@ -11498,7 +11564,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 187000,
       "name": "Wouldn\u2019t Change A Thing",
       "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"

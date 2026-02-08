@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-331 songs - 18 hr 33 min
+333 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-03 | 2025-12-01 |
+| [Más Allá del Margen](https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ) | [Cartel del Llano](https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr), [Trotanotas](https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM), [Aaron Beat](https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR), [Kevin Espinoza](https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb), [Romanis](https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf) | [Más Allá del Margen](https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd) | 4:27 | 2026-02-07 |  |
 | [Nazar Me Ho Tum](https://open.spotify.com/track/1B0q03LH9E1W7AogVcRCj4) | [RONIE](https://open.spotify.com/artist/2cDCmLQDfXJBReBT87zo22) | [Safar](https://open.spotify.com/album/5VqEGWFrykkos7KuLPBkmT) | 2:35 | 2026-01-06 |  |
 | [Nebular \- Radio Edit](https://open.spotify.com/track/315OXgioK5tVKmhQkcWPQL) | [Aniderev](https://open.spotify.com/artist/46FaRfT6nNVUzxhZrCBJ9z) | [Nebular \(Radio Edit\)](https://open.spotify.com/album/3U7EGF3H1xi7wKx4RTOiGD) | 3:00 | 2025-11-17 | 2026-01-05 |
 | [Need To Know](https://open.spotify.com/track/0BOkxcQkVnyudtX8g5RSVi) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 2:56 | 2025-11-03 | 2025-12-01 |
@@ -335,6 +336,7 @@
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 | 2026-01-05 |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |
+| [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2026-02-07 |  |
 | [Дилеми](https://open.spotify.com/track/0S65e6R28vFpOoZTGTlubn) | [Gosh](https://open.spotify.com/artist/4TVuWA1a4rWfnUM6UxKfE0) | [Дилеми](https://open.spotify.com/album/0S2yXqK0zKkR2MfO31L8Hk) | 2:16 | 2025-11-22 | 2026-01-05 |
 | [Женщина](https://open.spotify.com/track/6nMGOXJqekVgIfJWUjyMQt) | [Эрик Шарипов](https://open.spotify.com/artist/4wZEqo5Khk8Dmam8PLe5xq) | [Женщина](https://open.spotify.com/album/1EauWCGwFOiE58e8Gq6Efp) | 3:04 | 2025-11-11 | 2025-12-01 |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-18 |  |

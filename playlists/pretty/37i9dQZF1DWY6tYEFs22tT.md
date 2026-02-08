@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with J\. Cole, Don Toliver, EsDeeKid, Lil Uzi Vert, A$AP Rocky and French Montana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,504 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,479 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

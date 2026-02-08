@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,481 likes - 125 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,600 likes - 125 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 79 | [Cumbia de Luna](https://open.spotify.com/track/38mjf8hD52QkGv65Quk2Js) | [Los Picoteros de la Cumbia](https://open.spotify.com/artist/70QPws9LuvhBl1Da9rejYY), [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Los Picoteros de la Cumbia](https://open.spotify.com/album/5CdJooD3fQ3yMXnCUdXssH) | 3:36 |
 | 80 | [Muñeca Esquiva](https://open.spotify.com/track/0MKcsRCnzWOlwdy9txHNFY) | [Napelao Con los Rivales](https://open.spotify.com/artist/6130nJytdu6outIqqH0G1R) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:31 |
 | 81 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
-| 82 | [El Sonido de los Mirlos](https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:38 |
-| 83 | [La Enfermera](https://open.spotify.com/track/1MYQWI4rfKa6q1aUZpjPxT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:36 |
+| 82 | [La Enfermera](https://open.spotify.com/track/1MYQWI4rfKa6q1aUZpjPxT) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:36 |
+| 83 | [El Sonido de los Mirlos](https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:38 |
 | 84 | [No Te Vayas, Corazón](https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [20 Superéxitos Originales](https://open.spotify.com/album/4f7zlhcg4b7kuEZhPlKX6f) | 2:27 |
 | 85 | [Mentirosa](https://open.spotify.com/track/6IQldqUwfvYWMbUiNy3Inj) | [Nelson Henriquez](https://open.spotify.com/artist/1IumLUKbjfdcz4av7DwCIa) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 4:04 |
 | 86 | [La Velludita](https://open.spotify.com/track/2zPwwv0B5DCxOrXaF6whE7) | [La Sonora Vallenata](https://open.spotify.com/artist/530Lr7Eet6w3rsNhPYxw0l) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 2:58 |
-| 87 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
-| 88 | [Sorbito de Champagne](https://open.spotify.com/track/2SYIRrz8I4YVbZj6EAJUG6) | [Pastor Lopez](https://open.spotify.com/artist/48ZhMAvBuySjyTzR4JDX2y) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:36 |
+| 87 | [Sorbito de Champagne](https://open.spotify.com/track/2SYIRrz8I4YVbZj6EAJUG6) | [Pastor Lopez](https://open.spotify.com/artist/48ZhMAvBuySjyTzR4JDX2y) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:36 |
+| 88 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
 | 89 | [Paloma Ajena](https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I) | [Cumbia Con Clase](https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy) | 4:14 |
 | 90 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 2:35 |
 | 91 | [Cumbia de las Sandalias](https://open.spotify.com/track/29ltIzVwXe76rJetgb7POA) | [Julieta Con los Nuñez](https://open.spotify.com/artist/4X6sWr6lsgenrGHWFWJk9I) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 3:25 |

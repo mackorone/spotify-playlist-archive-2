@@ -4,7 +4,7 @@
 
 > 
 
-8,328 songs - 21 day 4 hr 4 min
+8,329 songs - 21 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5184,7 +5184,7 @@
 | [Right Above It](https://open.spotify.com/track/1kMuU3TNQvHbqvXCWBodmP) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I Am Not A Human Being](https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO) | 4:31 | 2025-01-29 |  |
 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 | 2025-01-15 |  |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-12-10 |  |
-| [Right Now](https://open.spotify.com/track/58lknB6kkfcDjMpCfx7rLH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:47 | 2025-01-03 |  |
+| [Right Now](https://open.spotify.com/track/58lknB6kkfcDjMpCfx7rLH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 3:47 | 2025-01-03 | 2026-02-08 |
 | [Right Now](https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 2:40 | 2025-04-28 |  |
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:00 | 2024-12-05 |  |
 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 | 2025-01-03 |  |
@@ -7469,6 +7469,7 @@
 | [ジャックポットサッドガール](https://open.spotify.com/track/6VoXdJ1glKh1NWWd0Fb1Cj) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:04 | 2025-10-03 |  |
 | [ジュネスのテーマ](https://open.spotify.com/track/2zCHLelACkSaaxN4OIPVBc) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 1:39 | 2025-04-20 | 2025-06-07 |
 | [ジュネスのテーマ](https://open.spotify.com/track/3aL1WHxB0JEgmqWChsVKmJ) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/5Q3abTCaUaDZRDBM1BpVAr) | 1:39 | 2024-12-10 |  |
+| [スイートマジック](https://open.spotify.com/track/3pbLWubWlKosF66612qaQ9) | [鳳えむ](https://open.spotify.com/artist/5i94WQNVMViXkTFxm8zNiB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム ワンダーランズ×ショウタイム](https://open.spotify.com/album/44QtOmDSqlazhtmEGsBUJ7) | 3:32 | 2026-02-07 |  |
 | [スカイレストラン](https://open.spotify.com/track/1QpybTT7CadO6tsUBnoukv) | [Hi\-Fi Set](https://open.spotify.com/artist/5WXIodDr8Cl8sQv5a9E0nm) | [Hi\-Fi Blend Pt\. 1](https://open.spotify.com/album/6EOrKPVERnBrdSYrpSfgTJ) | 3:13 | 2025-01-03 |  |
 | [スタンドバイミー](https://open.spotify.com/track/1BP6Yk189bh8xw6hoSYucr) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [Stand by Me](https://open.spotify.com/album/3AtQ2nkI6ySRYhiQ5IPJs2) | 4:37 | 2025-01-15 |  |
 | [スタンドバイミー](https://open.spotify.com/track/3uc67Ss8Bs8d061kQTsgD2) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 4:38 | 2025-05-17 |  |

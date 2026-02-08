@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: IJSLAND \(Abel & Sef\), sombr, Yade Lauren, Zoë Livay, Qlas & Mula B en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,879 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,880 likes - 84 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,018 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,107 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Villest](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
+| 1 | [The Villest \(with Erykah Badu\)](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
 | 2 | [Recognize](https://open.spotify.com/track/0vMhUzszNsYPcUfLitNRNp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [W!LD Deluxe: The Elephant & The Rider](https://open.spotify.com/album/4yfXdMJl2ckTYvEXes0aaQ) | 3:01 |
 | 3 | [Carpe Diem](https://open.spotify.com/track/0qZqbfudgogv0mFQOJ9TrB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 3:45 |
 | 4 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [Tight Rope](https://open.spotify.com/track/2t289cdHBXWOsWEGiQfYiB) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Tight Rope](https://open.spotify.com/album/4XTHA4PvbCCNLcdS1yIYBY) | 2:55 |
 | 8 | [Both Eyes Closed](https://open.spotify.com/track/4iOCGZfwBA3opybMoqtqQT) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Highest 2 Lowest \(Original Soundtrack\)](https://open.spotify.com/album/7DCxpT85T64nNsvhuIbY58) | 4:13 |
 | 9 | [Sun \(with Anycia\)](https://open.spotify.com/track/7oXADDYDi8PsZmrZyBzSBL) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [God Does Like Ugly \(Alternate Version\)](https://open.spotify.com/album/1wD9BC4z0nChaws7elZs4F) | 3:54 |
-| 10 | [Legacy](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 |
+| 10 | [Legacy \(with PJ\)](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 |
 | 11 | [Why Would I \(feat\. G Herbo\)](https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summertime Butch 2](https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn) | 2:46 |
 | 12 | [I Am](https://open.spotify.com/track/75pdlyPCyZkE9jmPVjdxEU) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [Everywhere, But Always \(Deluxe\)](https://open.spotify.com/album/5UKLWnB2qImfzGC7X69SCq) | 2:39 |
 | 13 | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |

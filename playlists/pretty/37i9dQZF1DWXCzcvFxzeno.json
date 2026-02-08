@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry + Shl\u00f8mo",
-  "num_followers": 469203,
+  "num_followers": 469520,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "You Make Me Horny",
-        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Laren",
-          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
-        }
-      ],
-      "duration_ms": 294321,
-      "name": "You Make Me Horny",
-      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 151800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "You Make Me Horny",
+        "url": "https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Laren",
+          "url": "https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS"
+        }
+      ],
+      "duration_ms": 294321,
+      "name": "You Make Me Horny",
+      "url": "https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -835,38 +835,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Gipsy Queen EP",
-        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        }
-      ],
-      "duration_ms": 202472,
-      "name": "Gipsy Queen",
-      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "Hidden Frequencies EP",
-        "url": "https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy"
-      },
-      "artists": [
-        {
-          "name": "Alignment",
-          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
-        }
-      ],
-      "duration_ms": 271661,
-      "name": "Hidden Frequencies",
-      "url": "https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Keep Me High",
         "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 147695,
       "name": "Keep Me High",
       "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Hidden Frequencies EP",
+        "url": "https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "duration_ms": 271661,
+      "name": "Hidden Frequencies",
+      "url": "https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Gipsy Queen EP",
+        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 202472,
+      "name": "Gipsy Queen",
+      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "Hard Is Our Way Of Life",
+        "url": "https://open.spotify.com/album/4DbaJQEEWQeWVm7Bmgq7D4"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Hard Is Our Way Of Life",
+      "url": "https://open.spotify.com/track/2NL5rY2hCEwMW8mEIvzoGJ"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "Addicted to You",
         "url": "https://open.spotify.com/album/4YhgeoxIF0rz7hqRXhNcEm"
       },
@@ -1223,22 +1243,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg"
       },
@@ -1255,18 +1259,18 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Orbit Motion",
-        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
       },
       "artists": [
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Orbit Motion",
-      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1291,6 +1295,22 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "Orbit Motion",
+        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Orbit Motion",
+      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "Unleash The Radical",
         "url": "https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 192000,
       "name": "Unleash The Radical",
       "url": "https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "Hard Is Our Way Of Life",
-        "url": "https://open.spotify.com/album/4DbaJQEEWQeWVm7Bmgq7D4"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 206545,
-      "name": "Hard Is Our Way Of Life",
-      "url": "https://open.spotify.com/track/2NL5rY2hCEwMW8mEIvzoGJ"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
-      },
-      "artists": [
-        {
-          "name": "Luciid",
-          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
-        }
-      ],
-      "duration_ms": 294207,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Touch It (feat. Jazmine Johnson)",
         "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 142454,
       "name": "Touch It (feat. Jazmine Johnson)",
       "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
+      },
+      "artists": [
+        {
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
+        }
+      ],
+      "duration_ms": 294207,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
+        "name": "YOU ARE MINE",
+        "url": "https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg"
       },
       "artists": [
         {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
-      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
+      "duration_ms": 196527,
+      "name": "YOU ARE MINE",
+      "url": "https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1639,34 +1639,18 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "YOU ARE MINE",
-        "url": "https://open.spotify.com/album/1iFfeclCvyoctBXLDYLiAg"
+        "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+        "url": "https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx"
       },
       "artists": [
         {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
         }
       ],
-      "duration_ms": 196527,
-      "name": "YOU ARE MINE",
-      "url": "https://open.spotify.com/track/2aCZnpXlTBZFL7YrhQbzgS"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "Ruler Of Worlds",
-        "url": "https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ruler Of Worlds",
-      "url": "https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C"
+      "duration_ms": 139500,
+      "name": "Kann es sein\u2026 (dass Du dumm bist?)",
+      "url": "https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1683,6 +1667,22 @@
       "duration_ms": 232941,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Ruler Of Worlds",
+        "url": "https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ruler Of Worlds",
+      "url": "https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Fury EP",
-        "url": "https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fury",
-      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Phatt Bass",
         "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 255584,
       "name": "Phatt Bass",
       "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Fury EP",
+        "url": "https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Hit The Floor",
-        "url": "https://open.spotify.com/album/5R9Ad56E2fhvrArv4aS2H4"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 150379,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/3CgXblMNTtV1OOVaQUkgdv"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Mystical Energy EP",
         "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
       },
@@ -1843,26 +1823,6 @@
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 156169,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1887,6 +1847,26 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 156169,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "LSD Loop (Marie Vaunt Edit)",
         "url": "https://open.spotify.com/album/1UzujATP7DcSu239QBgFMv"
       },
@@ -1903,6 +1883,30 @@
       "duration_ms": 196965,
       "name": "LSD Loop - Marie Vaunt Edit",
       "url": "https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/1nTLgIAwIekeX7HKUNy8ge"
+      },
+      "artists": [
+        {
+          "name": "Paolo Ferrara",
+          "url": "https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK"
+        },
+        {
+          "name": "LeStrange",
+          "url": "https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+        }
+      ],
+      "duration_ms": 207508,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/3f6LpfaDNDy7gtYZFHg5Km"
     }
   ],
   "unique_name": "Hard Techno",

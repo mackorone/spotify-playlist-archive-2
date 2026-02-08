@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown emerging pop! Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,619 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,815 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 29 | [fall in love with the dj](https://open.spotify.com/track/56ZQHgh0SB0fefzS7BbT2E) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [fall in love with the dj](https://open.spotify.com/album/3JOCWksM1JNapygyn8tQPJ) | 3:00 |
 | 30 | [Love Bombs](https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Love Bombs](https://open.spotify.com/album/3JGRQFGZS9j3GzhpHAzcZs) | 2:35 |
 | 31 | [Phone Sex](https://open.spotify.com/track/3TKGJXVhxqyDYFkTGvWdpw) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Phone Sex](https://open.spotify.com/album/2Efrfi4RLliavLPQsOCkbJ) | 2:58 |
-| 32 | [For you, my love](https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [For you, my love](https://open.spotify.com/album/5yyo2qqQg0y0Sjtr321PPE) | 3:10 |
+| 32 | [For you, my love](https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [For you, my love](https://open.spotify.com/album/5yyo2qqQg0y0Sjtr321PPE) | 3:12 |
 | 33 | [Hiding](https://open.spotify.com/track/5D2X4IURttngKC7IjwYUgP) | [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Hiding](https://open.spotify.com/album/1Uao47Zq5D4ms570cOP3Fb) | 2:53 |
 | 34 | [The Streets](https://open.spotify.com/track/7kgaide7AQBe03YWv0k2V4) | [Lucy DK](https://open.spotify.com/artist/1LPED1l7rNF5AAORbY6UyI) | [The Revelations of a Radical Hottie](https://open.spotify.com/album/7bdQyYcfq9rtBN2wU2kB10) | 3:46 |
 | 35 | [Suck My MP3](https://open.spotify.com/track/5HQpbbX3ge8TYtpAHYBjSw) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [Suck My MP3](https://open.spotify.com/album/4eDNlIs0Zm8VhWgLISsZf9) | 2:18 |

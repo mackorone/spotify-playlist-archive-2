@@ -2,9 +2,9 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Mos Def
+> Essential songs from the late '90s, 2000s underground hip\-hop scene\. Cover: J Dilla
 
-158 songs - 10 hr 33 min
+159 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Behind Closed Doors](https://open.spotify.com/track/5AD44maUoBRU4UHdD25wGF) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 3:11 | 2020-09-25 | 2022-07-27 |
 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 | 2021-08-13 |  |
 | [Blue Flowers](https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt) | [Dr\. Octagon](https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr) | [Dr\. Octagonecologyst](https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW) | 3:17 | 2022-02-08 | 2025-02-08 |
-| [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 | 2021-03-26 |  |
+| [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 | 2021-03-26 | 2026-02-08 |
 | [Bonafide \(feat\. Jay\-Z\) \- Bonus Track](https://open.spotify.com/track/07oV92wFjUOLFeKzjtUQ2I) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Bon Appetit](https://open.spotify.com/album/4QEEnmkU3cwmm1e6RDjJ9A) | 4:41 | 2020-09-25 | 2022-07-25 |
 | [Boom](https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/2DcGHP3Xbe4iIBkxLLcSI8) | 3:56 | 2020-09-25 | 2025-08-02 |
 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 | 2020-09-25 | 2023-03-04 |
@@ -45,6 +45,7 @@
 | [Definition](https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 3:26 | 2021-07-29 | 2022-02-09 |
 | [Design in Malice](https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Young Zee](https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj), [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Violence Begets Violence](https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5) | 3:38 | 2021-07-29 |  |
 | [Don't Cry](https://open.spotify.com/track/4jVqbLx0MvlIaj3h2D872X) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho) | 1:59 | 2021-02-01 | 2022-02-09 |
+| [Don't Cry](https://open.spotify.com/track/67c5M9gVWemCV5SGH5cc4v) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 1:59 | 2026-02-07 |  |
 | [Don't Nobody Care About Us](https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY) | [Phat Kat](https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF) | [Carte Blanche \(Deluxe Edition\)](https://open.spotify.com/album/02Z1j5amKUKolUtSCxYR03) | 4:27 | 2020-09-25 | 2022-07-22 |
 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 | 2020-09-25 | 2023-04-29 |
 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 | 2022-02-08 |  |
@@ -82,7 +83,7 @@
 | [Just Call My Name](https://open.spotify.com/track/5NRWFS53PZeS2tpcBvx4lH) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Jaysa](https://open.spotify.com/artist/04twvwjxYWB0moBWzKoynL) | [My Own Worst Enemy](https://open.spotify.com/album/5mjIKcythMEs1RyjgxbPIr) | 4:56 | 2022-02-08 | 2022-07-29 |
 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 | 2020-09-25 | 2025-02-08 |
 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 | 2020-09-25 | 2022-11-26 |
-| [L.A.](https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:49 | 2022-02-08 |  |
+| [L.A.](https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:49 | 2022-02-08 | 2026-02-08 |
 | [Light It Up](https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [Whatever You Say/Light It Up](https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi) | 3:59 | 2021-03-26 | 2022-02-09 |
 | [Little Brother](https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 4:01 | 2020-09-25 |  |
 | [Love Is Gone](https://open.spotify.com/track/1JIbic6YKL5botFoobqbEs) | [Jaz\-O & The Immobilarie](https://open.spotify.com/artist/77X4ilD39RwsU9NtG0cCd6) | [Kingz Kounty](https://open.spotify.com/album/2TYZwGePge2sBdmTUyJinW) | 4:06 | 2020-09-25 | 2022-06-25 |
@@ -161,7 +162,7 @@
 | [Whirlwind Thru Cities](https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU) | [Afu\-Ra](https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt) | [Body Of The Life Force](https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96) | 3:59 | 2020-09-25 | 2022-07-29 |
 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 | 2021-01-11 |  |
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2022-09-30 |  |
-| [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 | 2022-02-08 | 2024-04-19 |
+| [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 | 2022-02-08 |  |
 | [Workinonit](https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho) | 2:57 | 2021-02-01 | 2022-07-29 |
 | [Worst Comes To Worst](https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2) | 3:36 | 2024-07-05 | 2024-10-28 |
 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 | 2021-08-13 |  |

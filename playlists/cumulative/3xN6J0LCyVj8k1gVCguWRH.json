@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+    },
+    {
+      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/2lfXUo4jtKlwpyZuAAm712"
       },
@@ -13141,6 +13159,28 @@
     },
     {
       "album": {
+        "name": "Brought Me To Life",
+        "url": "https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA"
+      },
+      "artists": [
+        {
+          "name": "In My Better Days",
+          "url": "https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7"
+        },
+        {
+          "name": "Haya Ashraf",
+          "url": "https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220439,
+      "name": "Brought Me To Life",
+      "url": "https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK"
+    },
+    {
+      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -20607,6 +20647,24 @@
     },
     {
       "album": {
+        "name": "Crotona",
+        "url": "https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv"
+      },
+      "artists": [
+        {
+          "name": "Jupie",
+          "url": "https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139437,
+      "name": "Crotona",
+      "url": "https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe"
+    },
+    {
+      "album": {
         "name": "Deep Blue Clouds",
         "url": "https://open.spotify.com/album/2vqxWdacnjzafSii3tIHRA"
       },
@@ -21604,7 +21662,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 128341,
       "name": "damned if I don't",
       "url": "https://open.spotify.com/track/6tt4NEl8jZ0krrSpRsSq9O"
@@ -41862,6 +41920,24 @@
       "duration_ms": 130642,
       "name": "Homeward Bound",
       "url": "https://open.spotify.com/track/6dzmDE4Qyo37ne5J5FjQJP"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "album": {
@@ -74610,7 +74686,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa"
@@ -81972,6 +82048,24 @@
       "duration_ms": 204342,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj"
+    },
+    {
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD"
+      },
+      "artists": [
+        {
+          "name": "Ky J. Brandes",
+          "url": "https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV"
     },
     {
       "album": {
@@ -93484,7 +93578,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
@@ -108038,6 +108132,24 @@
       "duration_ms": 195000,
       "name": "Your Joy My Pain",
       "url": "https://open.spotify.com/track/1pA9hOEOPKcuiURoiI9Ne7"
+    },
+    {
+      "album": {
+        "name": "Your LIfe",
+        "url": "https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH"
+      },
+      "artists": [
+        {
+          "name": "LIYA",
+          "url": "https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Your LIfe",
+      "url": "https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C"
     },
     {
       "album": {

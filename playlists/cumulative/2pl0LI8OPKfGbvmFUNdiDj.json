@@ -3629,6 +3629,40 @@
     },
     {
       "album": {
+        "name": "M\u00e1s All\u00e1 del Margen",
+        "url": "https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd"
+      },
+      "artists": [
+        {
+          "name": "Cartel del Llano",
+          "url": "https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr"
+        },
+        {
+          "name": "Trotanotas",
+          "url": "https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM"
+        },
+        {
+          "name": "Aaron Beat",
+          "url": "https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR"
+        },
+        {
+          "name": "Kevin Espinoza",
+          "url": "https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb"
+        },
+        {
+          "name": "Romanis",
+          "url": "https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267180,
+      "name": "M\u00e1s All\u00e1 del Margen",
+      "url": "https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ"
+    },
+    {
+      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/5VqEGWFrykkos7KuLPBkmT"
       },
@@ -6076,6 +6110,28 @@
       "duration_ms": 179512,
       "name": "young frankenstein",
       "url": "https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz"
+      },
+      "artists": [
+        {
+          "name": "Nissu",
+          "url": "https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0"
+        },
+        {
+          "name": "Paigey Cakey",
+          "url": "https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198529,
+      "name": "Yourself",
+      "url": "https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ"
     },
     {
       "album": {

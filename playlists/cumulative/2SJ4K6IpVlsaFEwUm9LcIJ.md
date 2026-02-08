@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to jan\-feb 2026
 
-917 songs - 2 day 7 hr 11 min
+918 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Cold War](https://open.spotify.com/track/6sgWlYPMTsQbPxcK8PE3Qs) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:31 | 2024-02-27 | 2024-03-10 |
 | [Colour Me In \[Demo\]](https://open.spotify.com/track/3H4pBp3l3DcNvmWX0hxdw3) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 2:20 | 2024-11-13 | 2025-01-12 |
 | [Come On](https://open.spotify.com/track/0t7tkh7EW6F8PYMMiTure3) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [Cindy](https://open.spotify.com/album/2AijscEztvxZ1LKgha3hgb) | 6:00 | 2024-07-12 | 2024-09-08 |
+| [Comunhão](https://open.spotify.com/track/2lStGDJa1Z2hA7NskFdKJE) | [Nelson Angelo](https://open.spotify.com/artist/6tXJsM9aKkrxuPox1ziD79), [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Nelson Angelo E Joyce](https://open.spotify.com/album/0YGaT2B4czmv6YDsz4bgPT) | 3:07 | 2026-02-07 |  |
 | [CONSPIRACY GIRL](https://open.spotify.com/track/48U1M12FN8WeZxdUitd9Ur) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Valeria Litvakov](https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q) | [Lick The Lens – Pt.1](https://open.spotify.com/album/6MLL5vClk79Yhned782Crg) | 2:40 | 2025-09-16 | 2025-11-15 |
 | [Constants Are Changing](https://open.spotify.com/track/5ivVLMrixj6Qtw9HgX8EuD) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 1:42 | 2024-01-08 | 2024-03-10 |
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 | 2024-03-10 |

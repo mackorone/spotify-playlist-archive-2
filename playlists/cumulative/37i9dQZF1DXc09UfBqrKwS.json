@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "As Seasons Turn",
+        "url": "https://open.spotify.com/album/69td0JnREhF7Xy0FY8WWrz"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "As Seasons Turn",
+      "url": "https://open.spotify.com/track/4YOo4NUYoNqT6eFPr5tBnW"
+    },
+    {
+      "album": {
         "name": "As The Light Slowly Fades",
         "url": "https://open.spotify.com/album/0pmUEomw3GfbValHI5lPmF"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 167000,
       "name": "Aurora Lenta",
       "url": "https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY"
@@ -6035,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Gentle Night",
+        "url": "https://open.spotify.com/album/3LvVy8J8X0ogIK82DQoVBL"
+      },
+      "artists": [
+        {
+          "name": "Warmth of Muba",
+          "url": "https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147731,
+      "name": "Gentle Night",
+      "url": "https://open.spotify.com/track/3RSIBI5VOJDJSkOUH33uya"
+    },
+    {
+      "album": {
         "name": "Gentle Stillness",
         "url": "https://open.spotify.com/album/3xQHvUvxrvCAzLzJieWclN"
       },
@@ -6536,6 +6572,24 @@
       "duration_ms": 209181,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o"
+    },
+    {
+      "album": {
+        "name": "Highest Peak",
+        "url": "https://open.spotify.com/album/42ycmK2f0q42eao4Q7g5Jz"
+      },
+      "artists": [
+        {
+          "name": "William Edessa",
+          "url": "https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Highest Peak",
+      "url": "https://open.spotify.com/track/1UhzqUHZoVczQXSz81GoP9"
     },
     {
       "album": {
@@ -8638,7 +8692,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 185418,
       "name": "Mist",
       "url": "https://open.spotify.com/track/7oUxWZteexoZDiFXxnPfrm"
@@ -8872,7 +8926,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 142687,
       "name": "Moonblossom",
       "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
@@ -10953,6 +11007,24 @@
     },
     {
       "album": {
+        "name": "Rays of peace",
+        "url": "https://open.spotify.com/album/6HIChtDuYb3MVAupkw40Jh"
+      },
+      "artists": [
+        {
+          "name": "Hazel Day",
+          "url": "https://open.spotify.com/artist/4UwrBrYrSp2qXLwXWGc57Q"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Rays of peace",
+      "url": "https://open.spotify.com/track/1hGylxvk2KoIpWgYCEYPo2"
+    },
+    {
+      "album": {
         "name": "Rays of Warmth",
         "url": "https://open.spotify.com/album/3F4YB50btI83J496J2zj3p"
       },
@@ -11310,6 +11382,24 @@
       "duration_ms": 182500,
       "name": "Reserve",
       "url": "https://open.spotify.com/track/4AIVJN4gesqZ91UzHxSzqm"
+    },
+    {
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/6lLfSQkJN7LZ0wWnS3OwFX"
+      },
+      "artists": [
+        {
+          "name": "Matheo Lyon",
+          "url": "https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169539,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/2X8vsRK3kXpBVl9JQzTD6d"
     },
     {
       "album": {
@@ -12116,7 +12206,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 165858,
       "name": "Shore",
       "url": "https://open.spotify.com/track/3b6vQmDPvzM3bPokB68f97"
@@ -14598,7 +14688,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-08",
       "duration_ms": 168200,
       "name": "Turiya",
       "url": "https://open.spotify.com/track/5XNkokCLFOgQxFN6dFrbfW"

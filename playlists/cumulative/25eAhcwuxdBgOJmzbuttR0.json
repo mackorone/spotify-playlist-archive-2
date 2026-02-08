@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Case of the Mondays",
+        "url": "https://open.spotify.com/album/3rHLCGoDZXbEInLgHI0Kly"
+      },
+      "artists": [
+        {
+          "name": "Redwoods",
+          "url": "https://open.spotify.com/artist/450tm9a6mFVKFSEX49TgyB"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141095,
+      "name": "Case of the Mondays",
+      "url": "https://open.spotify.com/track/7Lz0Z0pHFc3PFb9OmsOUg3"
+    },
+    {
+      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
       },

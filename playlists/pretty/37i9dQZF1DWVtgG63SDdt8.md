@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,185 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,222 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 8 | [CANT FORGET](https://open.spotify.com/track/6IIiJVwW1IjLrAsyKqojNU) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [CANT FORGET](https://open.spotify.com/album/0YRwCoAzPHa6Vrhj5yhi4T) | 2:35 |
 | 9 | [FREE AGENT](https://open.spotify.com/track/6l5Hx0ojPM6LPqA12iK9YA) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [FREE AGENT](https://open.spotify.com/album/1bFvkvF4lFf6dzuyHB4wJw) | 2:46 |
 | 10 | [FEELS SO GOOD TO BE FREE](https://open.spotify.com/track/2OWodsuRDYoWIQwa5BWKVV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [FEELS SO GOOD TO BE FREE](https://open.spotify.com/album/0WgZQnXChCDOiyql7AKP0b) | 3:57 |
-| 11 | [Brighter Days \- New Day Edition](https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Maxwell Stark](https://open.spotify.com/artist/3Yjy1gOQqQfl0occycHxDi) | [Brighter Days \(New Day Edition\)](https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL) | 3:05 |
+| 11 | [Brighter Days \- New Day Edition](https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days \(New Day Edition\)](https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL) | 3:05 |
 | 12 | [Grace](https://open.spotify.com/track/7p0TjC05qqgAF78OoOT6yZ) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Grace](https://open.spotify.com/album/0rsqIBW7oxmpE9bkPfLE2i) | 2:50 |
 | 13 | [YAHWEH](https://open.spotify.com/track/2i52hcg4QhsC20qXDRlJqL) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [YAHWEH](https://open.spotify.com/album/3adRog0czaXHA6Z2xCpfUD) | 2:17 |
 | 14 | [i can see ur progress from here](https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Briana Bene](https://open.spotify.com/artist/2BYw0kqiNbjtp1clFthnGe) | [i can see ur progress from here](https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn) | 4:00 |

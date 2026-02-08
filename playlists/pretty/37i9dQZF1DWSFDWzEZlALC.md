@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: rosmarin
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,505 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,475 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [leere worte](https://open.spotify.com/track/4I1EzAKn3BZECQfwszQGrg) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [leere worte](https://open.spotify.com/album/6bbRgY24yo7JVP932em24f) | 3:12 |
-| 2 | [kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
+| 2 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
 | 3 | [wen INTERESSIERTS.](https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt) | [Laika Allein](https://open.spotify.com/artist/6ZI1Y5HJTs6aomTpuo1eqn), [hansi.media](https://open.spotify.com/artist/6yf1FDnl0JrQCUAHfx2IvP), [Rio Soul](https://open.spotify.com/artist/7iB4kePW3SASn69znn4RQM) | [wen INTERESSIERTS.](https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY) | 3:04 |
 | 4 | [24](https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [24](https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo) | 3:31 |
 | 5 | [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 |

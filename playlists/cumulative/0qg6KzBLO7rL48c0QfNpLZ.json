@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -13078,7 +13078,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
@@ -20777,6 +20777,36 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/6V7SrA92b7HnXLza4P7CJ7"
+      },
+      "artists": [
+        {
+          "name": "JPT3R",
+          "url": "https://open.spotify.com/artist/4Pbc09g4SkxCjZyKizueZO"
+        },
+        {
+          "name": "Nick Giardino",
+          "url": "https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD"
+        },
+        {
+          "name": "Calyps\u00f8",
+          "url": "https://open.spotify.com/artist/29EDAJj7V9aXo4veBMEerh"
+        },
+        {
+          "name": "Afro Queen",
+          "url": "https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167971,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0gB4dLKem1Y2yBA6OIoDTU"
+    },
+    {
+      "album": {
         "name": "Rather Be",
         "url": "https://open.spotify.com/album/76QAfOyylvn87hEKIcEJ43"
       },
@@ -24058,6 +24088,24 @@
       "duration_ms": 165454,
       "name": "Stuck Inside My Head",
       "url": "https://open.spotify.com/track/495Fz3Sf5bFLlmINxwzRGR"
+    },
+    {
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "album": {

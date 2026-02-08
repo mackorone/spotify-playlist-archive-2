@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Lorenzo Salvetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,834 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,813 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 19 | [Ragazzina](https://open.spotify.com/track/7FyxANPDgfcq4TXH4pDzRv) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Ragazzina](https://open.spotify.com/album/6WE48UOg2niHYQjmGqWhU9) | 3:12 |
 | 20 | [Girasole \(feat\. Rkomi\)](https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [La Cura, in nome di Miria](https://open.spotify.com/album/2jbeoamHqIQwfQuzKuDo7s) | 3:21 |
 | 21 | [COMPASSO](https://open.spotify.com/track/7t2j0BORFCFLSvqM4ITvzL) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [COMPASSO](https://open.spotify.com/album/6tfqH53xym45ve6D6biLTa) | 2:36 |
-| 22 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
+| 22 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
 | 23 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
 | 24 | [SPIAGGE](https://open.spotify.com/track/29vydXyOsVviJH0xuQammy) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [SPIAGGE](https://open.spotify.com/album/204IypitKgeI1J833cKAuq) | 2:51 |
 | 25 | [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 |
 | 26 | [ANIMA NERA](https://open.spotify.com/track/5knj1mTDtMA3h36nzX9fmy) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ANIMA NERA](https://open.spotify.com/album/1kqn44VolE6qTZ3agg53P2) | 3:26 |
 | 27 | [Milano Cortina](https://open.spotify.com/track/3uBe5PtCuviIGgnM1TZJua) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Milano Cortina](https://open.spotify.com/album/3tYjRk5iiycGHsXlB0l0uk) | 2:04 |
-| 28 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
+| 28 | [Tutto tutto tutto dentro](https://open.spotify.com/track/4pqqniB1d9U60r5ppuoc5i) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Tutto tutto tutto dentro](https://open.spotify.com/album/41kMfjirhn6vzYWaYXDTR5) | 2:48 |
 | 29 | [PICCOLA](https://open.spotify.com/track/5aUXhutSI9GpffwQ1NcsmA) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PICCOLA](https://open.spotify.com/album/6t5QOlEXI1cGIuiJ7zVW4q) | 2:24 |
 | 30 | [Maledetto Ti Amo](https://open.spotify.com/track/2R2J0hUuHHJiMoenqhoaV2) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:49 |
 | 31 | [Effetto Michelangelo](https://open.spotify.com/track/0gjhofGQhOfHRPIMUm4xZR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Effetto Michelangelo](https://open.spotify.com/album/6UW5e6nybaoQxKWj6rlhFc) | 3:12 |
