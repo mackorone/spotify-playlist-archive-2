@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Kibo
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,738 likes - 79 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,734 likes - 79 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

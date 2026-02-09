@@ -9642,7 +9642,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 197812,
       "name": "Every Night Every Morning",
       "url": "https://open.spotify.com/track/47NGRxSaEtJznNQ17dFg4c"
@@ -12100,7 +12100,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -12666,7 +12666,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
@@ -18533,6 +18533,28 @@
     },
     {
       "album": {
+        "name": "Love Built This Home (feat. Red Luna)",
+        "url": "https://open.spotify.com/album/78IZEWGJHcFHUUgvmziB6Q"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fukan San",
+          "url": "https://open.spotify.com/artist/4APZ6Exv1JmOHPnV7CjcFT"
+        },
+        {
+          "name": "Red Luna",
+          "url": "https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205846,
+      "name": "Love Built This Home (feat. Red Luna)",
+      "url": "https://open.spotify.com/track/6FEW1PKDm0wbMaPq9yAtE0"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -19434,7 +19456,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -29194,7 +29216,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 348400,
       "name": "Sultans Of Swing",
       "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj"
@@ -30272,7 +30294,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 293293,
       "name": "Tennessee Whiskey",
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
@@ -32930,7 +32952,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"

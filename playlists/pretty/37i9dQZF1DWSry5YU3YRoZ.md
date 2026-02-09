@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,395 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,405 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 20 | [In My Dream](https://open.spotify.com/track/59aPed7AGGtbC4ro8Bc6BW) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Plant](https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf) | 4:02 |
 | 21 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 |
 | 22 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
-| 23 | [Shore](https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI), [Jang Jae Sung](https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN) | [Shore](https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4) | 3:20 |
-| 24 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
+| 23 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 |
+| 24 | [Shore](https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI), [Jang Jae Sung](https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN) | [Shore](https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4) | 3:20 |
 | 25 | [The Little](https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [The Little](https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM) | 3:04 |
 | 26 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 | 27 | [Small Talk About Everything](https://open.spotify.com/track/68lrtGou1rovK9aYHlr660) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Small Talk About Everything](https://open.spotify.com/album/1W48cB0P1XA9uWAgS8pokX) | 4:10 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 36 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
 | 37 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 38 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
-| 39 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
-| 40 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
-| 41 | [of the waves](https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:11 |
-| 42 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
-| 43 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
-| 44 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
-| 45 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 39 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
+| 40 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
+| 41 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
+| 42 | [of the waves](https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:11 |
+| 43 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
+| 44 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 45 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
 | 46 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
 | 47 | [Hug Me \(I'm In Your Arms\)](https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3) | [Broken Heart](https://open.spotify.com/album/5q19924bYcyPB5dvkivG84) | 3:58 |
 | 48 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |

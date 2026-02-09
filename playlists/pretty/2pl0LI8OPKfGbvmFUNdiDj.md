@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 560 likes - 44 songs - 2 hr 31 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 570 likes - 54 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,15 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 42 | [Was Los](https://open.spotify.com/track/0n0VH7jkxUITqDGTVRpBTH) | [Willi Eyy](https://open.spotify.com/artist/4nBqFEM66Gl0kKkKDKDx2t), [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Was Los](https://open.spotify.com/album/0n9HJBDelqWOxZrFZqjEfK) | 3:11 |
 | 43 | [Más Allá del Margen](https://open.spotify.com/track/7FhYX2sr04P5S04wYUJzqZ) | [Cartel del Llano](https://open.spotify.com/artist/5bLRfs7eekXEQWz3mx6dyr), [Trotanotas](https://open.spotify.com/artist/546AdoBeQi8ItewcgXVOPM), [Aaron Beat](https://open.spotify.com/artist/6YRuzDo3xb63VeORuerqKR), [Kevin Espinoza](https://open.spotify.com/artist/313D4AfPhCWHh2xm6Ju5Qb), [Romanis](https://open.spotify.com/artist/1ILQdFavIFJrmafT8AelWf) | [Más Allá del Margen](https://open.spotify.com/album/0LpMFHgVbu2FyUO66YSWUd) | 4:27 |
 | 44 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
+| 45 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 |
+| 46 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 |
+| 47 | [Beggin' \- Cover](https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Samuele Mariani](https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG) | [Beggin' \(Cover\)](https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq) | 3:38 |
+| 48 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
+| 49 | [Losing All My Senses](https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4) | [Gericco](https://open.spotify.com/artist/56qTnVEv3HPAWHgLjuh5Zw) | [Losing All My Senses](https://open.spotify.com/album/3OelNmOoDQPiZyat8Z5r91) | 3:22 |
+| 50 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
+| 51 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 |
+| 52 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 |
+| 53 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 |
+| 54 | [No More Heroes](https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr) | [Chris Corey](https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ) | [Midnight Forever](https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ) | 3:07 |
 
-Snapshot ID: `AAAC+4tBBGREh9B8wy3vrDAze/ZVBrld`
+Snapshot ID: `AAADBbyjQuUiS0lQMx9E3S6e3bqIFPVw`

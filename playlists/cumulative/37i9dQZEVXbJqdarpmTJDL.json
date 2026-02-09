@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 192000,
       "name": "AGELI",
       "url": "https://open.spotify.com/track/5rke7ZdmFEH29aGfKRFFp1"
@@ -7974,7 +7974,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 156585,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7oPqAlO0jFfC4z6EQusQaL"
@@ -8468,7 +8468,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "BRO X3",
       "url": "https://open.spotify.com/track/4h0JJJ0UOr7XR5zRz3nd4e"
@@ -9816,7 +9816,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 146470,
       "name": "CHECK",
       "url": "https://open.spotify.com/track/7p2ec8JupUWxp2YEdKsxEn"
@@ -11516,7 +11516,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 127058,
       "name": "DD",
       "url": "https://open.spotify.com/track/7tBWL5bqABYPWtK1457YUc"
@@ -19695,6 +19695,28 @@
     },
     {
       "album": {
+        "name": "Dragged In",
+        "url": "https://open.spotify.com/album/0nSrJeNmDbXnSeKc4zKESM"
+      },
+      "artists": [
+        {
+          "name": "Niko Malteze",
+          "url": "https://open.spotify.com/artist/4qqd0pfa5xSt05BaxL8B6Z"
+        },
+        {
+          "name": "AthensGoatMafia",
+          "url": "https://open.spotify.com/artist/7BmdbZggXu3wlq4Ez9tD1q"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208610,
+      "name": "Gia Ton Egoismo Mou",
+      "url": "https://open.spotify.com/track/1oa6gdsi5XfgxIotbrrx7x"
+    },
+    {
+      "album": {
         "name": "Tosa Hiliometra",
         "url": "https://open.spotify.com/album/4nxv73JtBiJGhhQzqQVkIK"
       },
@@ -22944,7 +22966,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 159047,
       "name": "INEBONUS",
       "url": "https://open.spotify.com/track/0FKY8MHOsg7pY8pRP4M8ma"
@@ -26490,7 +26512,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 116449,
       "name": "KSEREIS KALA",
       "url": "https://open.spotify.com/track/3NCd4eomiIVxSl2etbwgUR"
@@ -36722,7 +36744,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 116000,
       "name": "OPPS",
       "url": "https://open.spotify.com/track/3s2mx61ZB7EdzFlwQojWfM"
@@ -37526,7 +37548,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
@@ -45004,7 +45026,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 177250,
       "name": "SLOW MO",
       "url": "https://open.spotify.com/track/1zrVFi0JkKS0gFDF4qiaBg"
@@ -47166,7 +47188,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 207428,
       "name": "SYMFERONTA",
       "url": "https://open.spotify.com/track/2U8TGANgT3J8wVwi8ZBuOi"
@@ -48284,7 +48306,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
@@ -49094,7 +49116,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 196453,
       "name": "Ti Kaname...",
       "url": "https://open.spotify.com/track/1N2nsQjWX4Jg3rrZDZLnbS"

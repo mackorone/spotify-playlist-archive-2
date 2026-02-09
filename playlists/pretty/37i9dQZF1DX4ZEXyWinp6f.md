@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,916 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,957 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 39 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 |
 | 40 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 41 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 |
-| 42 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
-| 43 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
+| 42 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
+| 43 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
 | 44 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 45 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
 | 46 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
-| 47 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
-| 48 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 |
+| 47 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 |
+| 48 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 49 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
 | 50 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
 | 51 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 67 | [BRUTALISM](https://open.spotify.com/track/3OlIYpw422CIdZ53OcZZ7r) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [BRUTALISM](https://open.spotify.com/album/3Tr2KGxsh8ctnu7LZt7Nvx) | 4:41 |
 | 68 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 |
 | 69 | [Avanti](https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 4:47 |
-| 70 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 |
-| 71 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
+| 70 | [Marmo](https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Marmo](https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx) | 3:12 |
+| 71 | [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 |
 | 72 | [You're Always On Time](https://open.spotify.com/track/2V8UJGFbDhLKS7XgvmyQQD) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [You're Always on Time](https://open.spotify.com/album/7Buufn6uDLrAeJh9jBATUZ) | 8:07 |
 | 73 | [kaleido\_](https://open.spotify.com/track/0LFENddTet2slx0gC2Rncm) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [kaleido\_](https://open.spotify.com/album/3rTBoED7VcTPHLKSmI47hg) | 3:56 |
-| 74 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
-| 75 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
+| 74 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
+| 75 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 |
 
 Snapshot ID: `AAAAAI/qC7qMfTvSjJJI1bq1kO89CCFt`

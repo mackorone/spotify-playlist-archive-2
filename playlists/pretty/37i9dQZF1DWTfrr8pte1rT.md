@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Madeon \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,791 likes - 125 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,802 likes - 125 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 121 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 |
 | 122 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 |
 | 123 | [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 |
-| 124 | [I'm Not Holy \- Radio Edit](https://open.spotify.com/track/0YXLBeFiIN51J8VgnAjx9V) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [FOREVER PART ONE](https://open.spotify.com/album/2bXaWCdUz5Hm1ue2Zg9lAJ) | 3:24 |
-| 125 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
+| 124 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
+| 125 | [I'm Not Holy \- Radio Edit](https://open.spotify.com/track/0YXLBeFiIN51J8VgnAjx9V) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [FOREVER PART ONE](https://open.spotify.com/album/2bXaWCdUz5Hm1ue2Zg9lAJ) | 3:24 |
 
 Snapshot ID: `AAAAAKnFHefJh5jfL3F85UQNMRmCycGk`

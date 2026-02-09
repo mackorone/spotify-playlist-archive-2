@@ -2,7 +2,7 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Kid Yugi in cover.
+> Punchline, storytelling, rap italiano\. Nitro in cover.
 
 368 songs - 18 hr 45 min
 

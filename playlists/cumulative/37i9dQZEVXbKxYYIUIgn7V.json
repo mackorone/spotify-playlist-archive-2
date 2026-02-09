@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -14588,7 +14588,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -20987,6 +20987,32 @@
     },
     {
       "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128477,
+      "name": "HEAVENLY JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -24592,7 +24618,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -28234,7 +28260,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 175448,
       "name": "Legenden",
       "url": "https://open.spotify.com/track/5uIc2uyVMDuq3OoakBqCN2"
@@ -31098,7 +31124,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 155482,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5HmeC9Mv4IFmxeIX135sVE"
@@ -37062,7 +37088,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -40464,7 +40490,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 133911,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/71mjSSBWGeb38yI9FVZGTN"
@@ -44988,7 +45014,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -45146,10 +45172,28 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 138199,
       "name": "Step Into Your Power",
       "url": "https://open.spotify.com/track/7ClwklUld4dOIvUqRMRLVc"
+    },
+    {
+      "album": {
+        "name": "Step Into Your Power",
+        "url": "https://open.spotify.com/album/3kiLuFehYgftg8TUn2ZXN4"
+      },
+      "artists": [
+        {
+          "name": "manifestica_studio",
+          "url": "https://open.spotify.com/artist/7kzZVbD8lYi5Rn7GYinpNf"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138215,
+      "name": "Step Into Your Power",
+      "url": "https://open.spotify.com/track/5TMbImgmrJSwQlN5yayNlb"
     },
     {
       "album": {

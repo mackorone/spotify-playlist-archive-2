@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165246,
+  "num_followers": 165545,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -303,18 +303,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Snipe Hunter",
         "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 170038,
       "name": "EL D\u00cdA DEL AMIGO",
       "url": "https://open.spotify.com/track/74eICpWmMuVmBtaOr3YqPN"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "Everything Is Peaceful Love",
-      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "Everything Is Peaceful Love",
+      "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Lachryma",
-        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Lachryma",
-      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 318121,
       "name": "Overqualified",
       "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 194095,
-      "name": "WRK",
-      "url": "https://open.spotify.com/track/0jxd4JBrPUZ4Pf2AwtH6JO"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 189000,
       "name": "Encantadora - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/06BMQ0taPFJjI4IDDkjZ00"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 194095,
+      "name": "WRK",
+      "url": "https://open.spotify.com/track/0jxd4JBrPUZ4Pf2AwtH6JO"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Cowboys And Dreamers",
         "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Reconstruction",
-        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 175888,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Reconstruction",
+        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 175888,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7m0iB86deRY9Xy8LtiL1ts"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Glum",
         "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 221894,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 220101,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Poison In My Well",
         "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
     },
     {
       "added_at": "2025-11-12 17:50:29",

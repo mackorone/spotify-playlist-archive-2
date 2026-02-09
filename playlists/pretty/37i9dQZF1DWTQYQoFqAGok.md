@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,814 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,818 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 45 | [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 |
 | 46 | [Temporary Insanity](https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL) | [Joe d'Etienne Big Band](https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M) | [What's The Rush? \(Remastered\)](https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi) | 6:43 |
 | 47 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
-| 48 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
-| 49 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 |
+| 48 | [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 |
+| 49 | [A la Ventana Carolina](https://open.spotify.com/track/1JFYLc7GyftevczE418CcE) | [Aaron Cruz Trío](https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL) | [Eco](https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx) | 6:18 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 
 Snapshot ID: `AAAAAMOjSA4Zxa9lWQuv5BBcYa/bK0RS`

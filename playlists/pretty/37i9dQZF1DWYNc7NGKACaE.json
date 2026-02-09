@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83922,
+  "num_followers": 83916,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Kill Bill - Speed",
+        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
+      },
+      "artists": [
+        {
+          "name": "Cabrxlzin",
+          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 88068,
+      "name": "Kill Bill - Speed",
+      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Meus Manos Faz Dinheiro Com Site",
         "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Kill Bill - Speed",
-        "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
-      },
-      "artists": [
-        {
-          "name": "Cabrxlzin",
-          "url": "https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 88068,
-      "name": "Kill Bill - Speed",
-      "url": "https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS"
     },
     {
       "added_at": "2024-07-08 19:10:57",

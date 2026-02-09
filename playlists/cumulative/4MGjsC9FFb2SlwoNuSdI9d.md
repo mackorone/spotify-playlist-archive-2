@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-268 songs - 14 hr 30 min
+269 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2024-12-17 |  |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2023-11-28 |  |
 | [One Last Song](https://open.spotify.com/track/24NBREHOjfgmysUJ4SBJ2j) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [One Last Song](https://open.spotify.com/album/2Yk7ZhlAuz5q2JXcIwKjOp) | 2:31 | 2024-10-26 |  |
+| [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2026-02-09 |  |
 | [Outta Love](https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Outta Love](https://open.spotify.com/album/2laThtkIUEl6V3IzGBfwRs) | 2:19 | 2023-11-28 | 2025-02-15 |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-11-28 |  |
 | [pain tolerance](https://open.spotify.com/track/0BTIZM7GKMR8Aqu3iqHBmP) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [love myself](https://open.spotify.com/album/1PKYViRc1AmHw4zde4igm8) | 2:58 | 2024-11-19 | 2025-10-02 |

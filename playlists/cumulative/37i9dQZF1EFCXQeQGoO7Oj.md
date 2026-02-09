@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-677 songs - 1 day 16 hr 46 min
+678 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2025-08-18 | 2025-08-21 |
 | [2002](https://open.spotify.com/track/2AxrA6Pn7gd9385awudqGg) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/14DGTrXPPKpqpdWMebpOhG) | 3:12 | 2024-01-29 | 2024-01-31 |
 | [22](https://open.spotify.com/track/6ce41JVa6KFaryfmC2bu2W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:52 | 2024-01-29 |  |
-| [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 | 2024-01-29 |  |
+| [3](https://open.spotify.com/track/7K9d0dwwP5C0IokOrtt1yS) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [3 \(Remixes\)](https://open.spotify.com/album/0RjohUPEGdpwC1KAc5LvGB) | 3:26 | 2026-02-08 |  |
+| [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 | 2024-01-29 | 2026-02-09 |
 | [3](https://open.spotify.com/track/00tyBQRLmraNiSyvG7z7SU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [3 \(Official HD Video\)](https://open.spotify.com/album/4bv4D5N60iVVm3LzcGeKdn) | 3:36 | 2024-01-31 | 2024-02-02 |
 | [4ever](https://open.spotify.com/track/1Ci7oic2gpYknc5TujzCUd) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 3:29 | 2024-01-29 |  |
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2024-01-29 |  |
@@ -483,7 +484,7 @@
 | [Problem / Can't Feel My Face](https://open.spotify.com/track/7tFUciZjy3REK27sxt6gat) | [Miriam\-Teak Lee](https://open.spotify.com/artist/5RpwpK4ZHaDCcS2uWzi1Em), [Jordan Luke Gage](https://open.spotify.com/artist/2Fg34b45Srhuvd8FHLYLQd), [Original London Cast of & Juliet](https://open.spotify.com/artist/2apx0wGXPeZG2A4EzS9omR) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:16 | 2024-01-29 |  |
 | [Psycho Bitch](https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:11 | 2024-01-29 |  |
 | [Quit Playing Games \(With My Heart\)](https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:53 | 2024-01-29 |  |
-| [Quit Playing Games \(With My Heart\) \- music underlaying words](https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB) | [Quit Playing Games \(With My Heart\) \[music underlaying words\]](https://open.spotify.com/album/0CZXXBYQteYVfCSb5Wwcfj) | 2:29 | 2024-01-29 |  |
+| [Quit Playing Games \(With My Heart\) \- music underlaying words](https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB) | [Quit Playing Games \(With My Heart\) \[music underlaying words\]](https://open.spotify.com/album/0CZXXBYQteYVfCSb5Wwcfj) | 2:29 | 2024-01-29 | 2026-02-09 |
 | [Quitter](https://open.spotify.com/track/1AJdT11PD36JF0DHbtYsFL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:40 | 2024-01-29 |  |
 | [Radio](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:15 | 2024-01-29 |  |
 | [Rainbow Child](https://open.spotify.com/track/4ZZFUzlQxmM96VKY1B7ry5) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:12 | 2024-01-29 |  |

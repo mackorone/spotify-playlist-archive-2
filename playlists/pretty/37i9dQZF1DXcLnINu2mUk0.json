@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jimmy P",
-  "num_followers": 53262,
+  "num_followers": 53265,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa"
       },
@@ -507,6 +487,26 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
         "name": "Afro Fado",
         "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
@@ -519,42 +519,6 @@
       "duration_ms": 222427,
       "name": "Ultimamente",
       "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
-        "name": "FIM DA NOITE",
-        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 214065,
-      "name": "FIM DA NOITE",
-      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -579,6 +543,22 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
+        "name": "FIM DA NOITE",
+        "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 214065,
+      "name": "FIM DA NOITE",
+      "url": "https://open.spotify.com/track/31pd4crQES4hOaWHGIpzXI"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "Beijo Teu",
-        "url": "https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "Beijo Teu",
-      "url": "https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 201962,
       "name": "S\u00f3 D\u00e1",
       "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
+        "name": "Beijo Teu",
+        "url": "https://open.spotify.com/album/6Jc4gFjWVwjtDxFKH5vhOT"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "Beijo Teu",
+      "url": "https://open.spotify.com/track/5zHX2uGzE8lPOPvkpcrF5D"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "SWEET LIKE SUGAR",
-        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "SWEET LIKE SUGAR",
-      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -927,6 +907,26 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 187643,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 187643,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "Olhar",
-        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Olhar",
-      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
         "name": "Entre N\u00f3s",
         "url": "https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
+        "name": "Olhar",
+        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Olhar",
+      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "Amanheceu",
-        "url": "https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 161421,
-      "name": "Semana",
-      "url": "https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc"
-    },
-    {
-      "added_at": "2026-02-06 00:00:02",
-      "album": {
         "name": "Kataleya",
         "url": "https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2026-02-06 00:00:02",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5"
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr"
       },
       "artists": [
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 113829,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC"
+      "duration_ms": 161421,
+      "name": "Semana",
+      "url": "https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc"
     },
     {
       "added_at": "2026-02-06 00:00:02",
@@ -1379,6 +1363,26 @@
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2026-02-06 00:00:02",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        },
+        {
+          "name": "kaako",
+          "url": "https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
     }
   ],
   "unique_name": "Seda",

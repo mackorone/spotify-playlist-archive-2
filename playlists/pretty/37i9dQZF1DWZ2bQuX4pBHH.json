@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 261261,
+  "num_followers": 261286,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -147,8 +147,8 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
       },
       "artists": [
         {
@@ -158,15 +158,11 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         }
       ],
-      "duration_ms": 237896,
-      "name": "Janam Janam",
-      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
+      "duration_ms": 290000,
+      "name": "Hawayein",
+      "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -263,8 +259,8 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
       },
       "artists": [
         {
@@ -274,11 +270,15 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Hawayein",
-      "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
+      "duration_ms": 237896,
+      "name": "Janam Janam",
+      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -859,22 +859,22 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Yes Boss (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
       "artists": [
         {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 266066,
-      "name": "Ek Din Aap",
-      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
+      "duration_ms": 347680,
+      "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
+      "url": "https://open.spotify.com/track/2MjnGtsgfqllql2ndWdGn8"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -907,22 +907,22 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+        "name": "Yes Boss (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
       "artists": [
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 347680,
-      "name": "Ho Gaya Hai Tujhko To Pyar Sajna",
-      "url": "https://open.spotify.com/track/2MjnGtsgfqllql2ndWdGn8"
+      "duration_ms": 266066,
+      "name": "Ek Din Aap",
+      "url": "https://open.spotify.com/track/5fq7CGNYZKJm38HbLwMg9h"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -975,6 +975,26 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "duration_ms": 302093,
+      "name": "Tujhe Dekha To",
+      "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
         "name": "Yes Boss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 353880,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "Tujhe Dekha To",
-      "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 286694,
+      "name": "Mehndi Laga Ke Rakhna",
+      "url": "https://open.spotify.com/track/1bqMVta76huBpSIzTIrDM0"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
         "name": "Yes Boss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 349493,
       "name": "Ae Ajnabi",
       "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 286694,
-      "name": "Mehndi Laga Ke Rakhna",
-      "url": "https://open.spotify.com/track/1bqMVta76huBpSIzTIrDM0"
     },
     {
       "added_at": "2025-11-17 05:43:40",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2025-11-17 05:43:40",
       "album": {
+        "name": "Darr",
+        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 366573,
+      "name": "Tu Mere Samne",
+      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
+    },
+    {
+      "added_at": "2025-11-17 05:43:40",
+      "album": {
         "name": "Baazigar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
@@ -1203,30 +1223,6 @@
       "duration_ms": 453653,
       "name": "Ae Mere Humsafar",
       "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
-    },
-    {
-      "added_at": "2025-11-17 05:43:40",
-      "album": {
-        "name": "Swades",
-        "url": "https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        },
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 446986,
-      "name": "Yun Hi Chala Chal",
-      "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,949 likes - 92 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,976 likes - 92 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 47 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
 | 48 | [Funky Boy](https://open.spotify.com/track/4kVQoPK2CdsWYhlLhIl9oi) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y), [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 5:53 |
 | 49 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
-| 50 | [Jazz vs\. Hip Hop](https://open.spotify.com/track/6c8lSWY9dNeq1k4pLsMtEk) | [Anthony Crawford](https://open.spotify.com/artist/61EADOFt531MHdvb1LLFZU) | [Urban Jazz \- My Story](https://open.spotify.com/album/5cCq7DKk5NBRsatWa1IFun) | 4:46 |
+| 50 | [Jazz vs\. Hip Hop](https://open.spotify.com/track/6c8lSWY9dNeq1k4pLsMtEk) | [Anthony Crawford](https://open.spotify.com/artist/0O3yjJmIAfMWwnuMAFkl18) | [Urban Jazz \- My Story](https://open.spotify.com/album/5cCq7DKk5NBRsatWa1IFun) | 4:46 |
 | 51 | [Benny](https://open.spotify.com/track/4xtA92JBIShJB38xpUi54N) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG), [Alfredo Golino](https://open.spotify.com/artist/3xTNcXqOMkvwwHD1gmmoxB) | [Attitude](https://open.spotify.com/album/3yLl4BNM7fP3VscBwPgdjZ) | 3:36 |
 | 52 | [Donovan James](https://open.spotify.com/track/2g37ZBeL0NsNWNB4RV7cBh) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [The Dawning](https://open.spotify.com/album/5EcuvCra621YgIabHqEpyp) | 4:08 |
 | 53 | [The Lion's Den](https://open.spotify.com/track/68tguTFRYXtSPxn6GJUfi2) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [Unleashed](https://open.spotify.com/album/1FBSfdULcA0qTo7EgwdeHA) | 3:42 |

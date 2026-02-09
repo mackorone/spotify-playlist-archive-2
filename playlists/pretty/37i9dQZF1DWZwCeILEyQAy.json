@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 459716,
+  "num_followers": 459681,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
+        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
+        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
+      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -223,22 +227,18 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
-        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
-      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Tomioka (with Flo Milli) [Remix]",
-        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
-      },
-      "artists": [
-        {
-          "name": "Jay Eazy",
-          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137532,
-      "name": "Tomioka (with Flo Milli) - Remix",
-      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "Tomioka (with Flo Milli) [Remix]",
+        "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
+      },
+      "artists": [
+        {
+          "name": "Jay Eazy",
+          "url": "https://open.spotify.com/artist/2bc73gsB8lPAL1mxNBOEqV"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 137532,
+      "name": "Tomioka (with Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
     },
     {
       "added_at": "2025-06-20 04:00:58",

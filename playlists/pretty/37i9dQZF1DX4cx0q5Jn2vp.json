@@ -1,6 +1,6 @@
 {
   "description": "yiheeeeeeee",
-  "num_followers": 776325,
+  "num_followers": 776293,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-01-29 08:44:09",
       "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2026-01-29 08:44:09",
+      "album": {
         "name": "Libu-Libong Buwan (Uuwian)",
         "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
       },
@@ -403,38 +419,6 @@
     {
       "added_at": "2026-01-29 08:44:09",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2026-01-29 08:44:09",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2026-01-29 08:44:09",
-      "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 303933,
       "name": "Take A Chance With Me",
       "url": "https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc"
+    },
+    {
+      "added_at": "2026-01-29 08:44:09",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2026-01-29 08:44:09",
@@ -651,18 +651,22 @@
     {
       "added_at": "2026-01-29 08:44:09",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "Palayo Sa Mundo",
+        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 133113,
-      "name": "drinks or coffee",
-      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+      "duration_ms": 268571,
+      "name": "Palayo Sa Mundo",
+      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
     }
   ],
   "unique_name": "Kilig Pa More",

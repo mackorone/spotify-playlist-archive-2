@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Iniciamos febrero con este poderoso junte, The Warning y Carín León en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,166 likes - 81 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,243 likes - 81 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 39 | [El Sabor de Tus Mentiras](https://open.spotify.com/track/4kzDJOAeWHHMa40XTTTCiV) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM), [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Sabor de Tus Mentiras](https://open.spotify.com/album/7t4vHPNZw7qBuPavJjmBKU) | 2:57 |
 | 40 | [Deseo](https://open.spotify.com/track/594s1AODSpT9zQpjCfVsDH) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Deseo](https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9) | 3:14 |
 | 41 | [Mi Palabra](https://open.spotify.com/track/4T4IXOdTqfschQn6OcS1FH) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Mi Palabra](https://open.spotify.com/album/3rhQPRqUfPgXQiC3P4auZ7) | 3:07 |
-| 42 | [1PERREO \- Remix](https://open.spotify.com/track/12eLM0XYr0cc48CtvD6SMu) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [1PERREO \(Remix\)](https://open.spotify.com/album/7ks44VyJ4pvFkJxIcM6Kgk) | 2:42 |
+| 42 | [1PERREO \- Remix](https://open.spotify.com/track/12eLM0XYr0cc48CtvD6SMu) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [1PERREO \(Remix\)](https://open.spotify.com/album/7ks44VyJ4pvFkJxIcM6Kgk) | 2:42 |
 | 43 | [Directo Al Corazón](https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Directo Al Corazón](https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde) | 2:46 |
 | 44 | [IMU](https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [IMU](https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i) | 2:19 |
 | 45 | [La La La La](https://open.spotify.com/track/0AAM2ek2OVchJdJP1Bf3bg) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [La La La La](https://open.spotify.com/album/2thSHGlPX0QypqCvZDJgLH) | 2:09 |

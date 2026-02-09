@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: 연애혁명 \(Love Revolution\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,732 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,734 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 84 | [Draw](https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Draw \(No Office Romance! X TAEMIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po) | 4:03 |
 | 85 | [Draw the Moon \(feat\. MIYAVI\)](https://open.spotify.com/track/4B3JCEcAeTofpsfsEianeS) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Webtoon <Myst, Might, Mayhem> OST Part\. 2 Draw the Moon](https://open.spotify.com/album/2dD84O2WUFNCjs963yWsbh) | 3:30 |
 | 86 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
-| 87 | [Innocent.exe](https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Introverted Us X Rothy \(Original Soundtrack\)](https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw) | 3:16 |
-| 88 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |
+| 87 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |
+| 88 | [Innocent.exe](https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Introverted Us X Rothy \(Original Soundtrack\)](https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw) | 3:16 |
 | 89 | [What If](https://open.spotify.com/track/6wbf8UteMC5Rq7hdr3O4Jt) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Introverted Us X YUJU \(Original Soundtrack\)](https://open.spotify.com/album/30n4LCJwRTYri06EXSQNIb) | 3:13 |
 | 90 | [The Moon Has Passed](https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [The Moon Has Passed \(The Moon during the Day\)](https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx) | 3:46 |
 | 91 | [A Beautiful Farewell](https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [A Beautiful Farewell \- I am Re:Born \#1](https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z) | 4:10 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 94 | [I'M BACK](https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [I'M BACK \(Killer Peter X BLASÉ\)\[Original Webtoon Soundtrack\]](https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h) | 2:56 |
 | 95 | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Only you \(Romance 101 X Yang Yo Seop\)](https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ) | 3:23 |
 | 96 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
-| 97 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 |
-| 98 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 |
-| 99 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Hansome Choi](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 |
+| 97 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Hansome Choi](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 |
+| 98 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 |
+| 99 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 |
 | 100 | [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 |
 
 Snapshot ID: `AAAAAIYyOd/47Puuqjk/sUukATT38TxX`

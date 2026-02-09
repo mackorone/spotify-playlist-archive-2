@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-202 songs - 12 hr 24 min
+203 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-12-31 | 2026-01-21 |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-06 |
+| [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 | 2026-02-08 |  |
 | [One Shot](https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [One Shot](https://open.spotify.com/album/21nnXiPD8UoiWD4c6ydkAo) | 2:34 | 2025-08-31 | 2026-01-05 |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 | 2026-01-05 |
 | [Our Path](https://open.spotify.com/track/0wLvmx2XhFfSipYnbsnSYL) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [3AM Thoughts](https://open.spotify.com/album/3QlI5crNjxyuTbNMXSEEPm) | 3:56 | 2025-09-02 |  |

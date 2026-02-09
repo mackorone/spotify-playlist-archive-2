@@ -142,7 +142,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 175493,
       "name": "Ain't No Rest for the Wicked",
       "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 262733,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/40Gxnw5Vc8hnhGFknXHe3R"
@@ -200,6 +200,24 @@
       "duration_ms": 263440,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
@@ -592,10 +610,46 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 222960,
       "name": "By a Monster\u2019s Hand",
       "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
       "album": {
@@ -888,7 +942,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/3jfr0TF6DQcOLat8gGn7E2"
@@ -982,6 +1036,24 @@
       "duration_ms": 187666,
       "name": "Don't Miss",
       "url": "https://open.spotify.com/track/1ggbqc7jhg454UpFfSmdam"
+    },
+    {
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "album": {
@@ -1108,6 +1180,24 @@
       "duration_ms": 293666,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/7vPnlEkCGmYx2Eier8YBwc"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "album": {
@@ -1338,7 +1428,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
@@ -1381,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Little Piece of Dixie",
+        "url": "https://open.spotify.com/album/2biYZTjJzWGHUhwABuQNfs"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Good One Comin' on",
+      "url": "https://open.spotify.com/track/7DlENkBgvybu7rgnz5TyWb"
+    },
+    {
+      "album": {
         "name": "The Father of Make Believe",
         "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
       },
@@ -1410,7 +1518,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "Half A Lifetime",
       "url": "https://open.spotify.com/track/5q7pyfmxdW38oCGyL9wy5W"
@@ -1500,7 +1608,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 181213,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy"
@@ -1576,6 +1684,24 @@
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
+    },
+    {
+      "album": {
+        "name": "Silver Side Up",
+        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
     },
     {
       "album": {
@@ -2134,10 +2260,28 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 180496,
       "name": "Mother of Style",
       "url": "https://open.spotify.com/track/3aFEjopniyAAZcLEZBAXug"
+    },
+    {
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "album": {
@@ -2774,7 +2918,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 247613,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/1hWQvA6oGVJ2mAVsZ59AaV"
@@ -3322,7 +3466,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 245961,
       "name": "Taking Me Back",
       "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
@@ -3556,7 +3700,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 274281,
       "name": "The Way You Used to Do",
       "url": "https://open.spotify.com/track/1wsnCfewxZlCs7cJxkaMZM"
@@ -3592,7 +3736,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 177093,
       "name": "The Well",
       "url": "https://open.spotify.com/track/4wszHgvhXYlN2Io813hLQ1"
@@ -3988,7 +4132,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 148573,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/5JZcX7TTLx4l0xFIXJ3DBt"
@@ -4096,7 +4240,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4"
@@ -4186,7 +4330,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"

@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1614,
+  "num_followers": 1616,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bikole",
-        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
-      },
-      "artists": [
-        {
-          "name": "Martha Mukisa",
-          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
-        },
-        {
-          "name": "Oma Afrikana",
-          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Bikole",
-      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Bikole",
+        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
+      },
+      "artists": [
+        {
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        },
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Bikole",
+      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
     },
     {
       "added_at": "2024-03-01 12:07:08",

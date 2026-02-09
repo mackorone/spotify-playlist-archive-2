@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Apergis",
-  "num_followers": 37571,
+  "num_followers": 37568,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Kati Xereis",
-        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
+        "name": "Ximeia",
+        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
       },
       "artists": [
         {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
         }
       ],
-      "duration_ms": 164181,
-      "name": "Kati Xereis",
-      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
+      "duration_ms": 193099,
+      "name": "Ximeia",
+      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Ximeia",
-        "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
+        "name": "Kati Xereis",
+        "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
       },
       "artists": [
         {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
         }
       ],
-      "duration_ms": 193099,
-      "name": "Ximeia",
-      "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
+      "duration_ms": 164181,
+      "name": "Kati Xereis",
+      "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Allou Gia Allou",
-        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 167003,
-      "name": "Allou Gia Allou",
-      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Deutera",
         "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
+        "name": "Allou Gia Allou",
+        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 167003,
+      "name": "Allou Gia Allou",
+      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
         "name": "To Diko Mou DNA",
         "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Katamata",
-        "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 280676,
-      "name": "Katamata",
-      "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Se Thelo Parafora",
         "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 201925,
       "name": "Se Thelo Parafora",
       "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
+        "name": "Katamata",
+        "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 280676,
+      "name": "Katamata",
+      "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "To Pairno Pano Mou",
-        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "To Pairno Pano Mou",
-      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Kala Na Pernate",
         "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
+        "name": "To Pairno Pano Mou",
+        "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "To Pairno Pano Mou",
+      "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
         "name": "Akouste Ti Mou Leei",
         "url": "https://open.spotify.com/album/2h14uHfQY7UfpgmMAmyQK9"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "To Viografiko",
-        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "To Viografiko",
-      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Psixi Me Psixi",
         "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 261117,
       "name": "Psixi Me Psixi",
       "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
+        "name": "To Viografiko",
+        "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "To Viografiko",
+      "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -671,6 +671,26 @@
       "duration_ms": 217733,
       "name": "Simera - Unplugged",
       "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
+        "name": "Ypervoles",
+        "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
+      },
+      "artists": [
+        {
+          "name": "Droulias Brothers",
+          "url": "https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL"
+        },
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 167379,
+      "name": "Ypervoles",
+      "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -711,26 +731,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Ypervoles",
-        "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
-      },
-      "artists": [
-        {
-          "name": "Droulias Brothers",
-          "url": "https://open.spotify.com/artist/4FMwxdwvIlkoArdXv2ddpL"
-        },
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 167379,
-      "name": "Ypervoles",
-      "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Ekptotos Aggelos",
         "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Leei Leei Leei",
-        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Leei Leei Leei",
-      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
-    },
-    {
-      "added_at": "2026-02-05 22:00:25",
-      "album": {
         "name": "Me 'Geia Sou",
         "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222397,
       "name": "Me 'Geia Sou",
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
+    },
+    {
+      "added_at": "2026-02-05 22:00:25",
+      "album": {
+        "name": "Leei Leei Leei",
+        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Leei Leei Leei",
+      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
     },
     {
       "added_at": "2026-02-05 22:00:25",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-02-05 22:00:25",
       "album": {
-        "name": "Isitirio Ena",
-        "url": "https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11"
+        "name": "Nero (Live Edition)",
+        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
       },
       "artists": [
         {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 223590,
-      "name": "Isitirio Ena",
-      "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+      "duration_ms": 198444,
+      "name": "Nero - Live Edition",
+      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
     }
   ],
   "unique_name": "Laika tou Simera",

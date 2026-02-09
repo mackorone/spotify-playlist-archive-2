@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,828 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,817 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 43 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 |
 | 44 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
 | 45 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
-| 46 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
-| 47 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
+| 46 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
+| 47 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
 | 48 | [sleigh bells in the snow](https://open.spotify.com/track/0O2EQLVf4jOD3mpX2gnr5g) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas, Vol\. 3](https://open.spotify.com/album/5bbJd0Z2kYJ7Bzh26ubgkC) | 1:25 |
 | 49 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |
 | 50 | [WINTER](https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [WINTER](https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg) | 1:55 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 70 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |
 | 71 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |
 | 72 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
-| 73 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
-| 74 | [frozen waterfall](https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [frozen waterfall](https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047) | 2:08 |
+| 73 | [frozen waterfall](https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [frozen waterfall](https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047) | 2:08 |
+| 74 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
 | 75 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 |
 | 76 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr) | 2:39 |
 | 77 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |

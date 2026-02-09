@@ -1,12 +1,12 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 225789,
+  "num_followers": 225848,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPsPreObfDsjvXWDZtpOT4Zz/yjI",
+  "snapshot_id": "AAAAAH4aM0lTf0Qu/JYrFvxWvX9tKv5p",
   "tracks": [
     {
       "added_at": "2026-01-30 11:13:46",
@@ -983,22 +983,18 @@
     {
       "added_at": "2026-01-30 11:13:46",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 137395,
-      "name": "Whatcha Doin'",
-      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
+      "duration_ms": 170882,
+      "name": "Gulabi Pagg",
+      "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

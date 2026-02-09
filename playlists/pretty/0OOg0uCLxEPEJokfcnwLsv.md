@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 692 likes - 82 songs - 5 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 692 likes - 83 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 80 | [I Can't Take This Anymore](https://open.spotify.com/track/2ouztXs79VgYVFvyNyX1eG) | [Kyle Johnson](https://open.spotify.com/artist/5f70LoboNT1uZeukxfYsCB) | [I Can't Take This Anymore](https://open.spotify.com/album/4RBvJrfgrHTqty5TwfawD9) | 3:13 |
 | 81 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 |
 | 82 | [Breakdown](https://open.spotify.com/track/7DTuKfDhFKQqCpP5lnU05g) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Votive Sound](https://open.spotify.com/album/2HsWsLYWGUEZdXPGIyT57R) | 3:28 |
+| 83 | [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 |
 
-Snapshot ID: `AAAE1padaJq+e7th+znHk0sM3KEq9amB`
+Snapshot ID: `AAAE1/7oGyvliVVOvyE5Dgx7Pije9oXb`

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 120998,
+  "num_followers": 121043,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1599,6 +1599,38 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 227366,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/5oK98mpTJSU0iqLHN1hZ3y"
     }
   ],
   "unique_name": "Best of Indie 2016",

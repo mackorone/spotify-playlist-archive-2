@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: giuliette price
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,747 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,754 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 43 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 44 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
 | 45 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 |
-| 46 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
-| 47 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
+| 46 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
+| 47 | [MaBrrrrrrrrr](https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [MaBrrrrrrrrr](https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs) | 4:56 |
 | 48 | [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 |
 | 49 | [Kwandebele \(Live\)](https://open.spotify.com/track/7E3YyD6mxgpEXjeXAEvU5E) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [ISIGQI \(live at the bird's eye\)](https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM) | 7:20 |
-| 50 | [Journey of Gratitude](https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 5:49 |
+| 50 | [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 |
 
 Snapshot ID: `AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi`

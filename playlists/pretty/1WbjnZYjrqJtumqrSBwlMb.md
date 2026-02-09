@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,206 songs - 3 day 2 hr 2 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,208 songs - 3 day 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1214,5 +1214,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1204 | [\- \- Recorded at Electric Lady Studios, New York](https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Spotify Singles](https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q) | 2:25 |
 | 1205 | [LEARNING TO SWIM](https://open.spotify.com/track/0tKZl6SbC0qLaMQWhBILxg) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 4:50 |
 | 1206 | [MELISA](https://open.spotify.com/track/7gBXc7NLb6e6tBdb4dJPW7) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 3:36 |
+| 1207 | [39 Intro](https://open.spotify.com/track/4DvoYgOZXnqmKuc2GzzFHz) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 6:06 |
+| 1208 | [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 |
 
-Snapshot ID: `AAAJqUiISxwfdjgXGl7RceakvUsFqJZc`
+Snapshot ID: `AAAJq14OVIj3iaO/S5r+DKhwJMn2dLEq`

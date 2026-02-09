@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-916 songs - 1 day 20 hr 16 min
+917 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 | 2024-07-27 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 | 2025-12-05 |
 | [FORGIVE ME](https://open.spotify.com/track/2t3i8xFxAI3BstpaeVD8Pz) | [Ibradosky](https://open.spotify.com/artist/3LnuoQXJhCzLPeOB1ufA2Y), [Lil Frosh](https://open.spotify.com/artist/6637eWPPoj6GB8HLaT8Ett) | [FORGIVE ME](https://open.spotify.com/album/2d27e1hRsz0eZN4qXlgVty) | 2:09 | 2026-01-30 | 2026-02-06 |
-| [France Feeling](https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43) | [Kokoë](https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [France Feeling](https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG) | 2:49 | 2025-03-07 |  |
+| [France Feeling](https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43) | [Kokoë](https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [France Feeling](https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG) | 2:49 | 2025-03-07 | 2026-02-09 |
 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 | 2025-07-04 |  |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-08-26 |
 | [Friday](https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 3:31 | 2022-11-04 | 2023-01-14 |
@@ -386,6 +386,7 @@
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-25 | 2024-09-07 |
 | [IFEOMA](https://open.spotify.com/track/3E6EHZ4a2n5zP7eNK45lfZ) | [KODEE](https://open.spotify.com/artist/0b2KMU81y0jEUeTuzkcCua) | [A KID WITH A DREAM \(AKWAD\)](https://open.spotify.com/album/0SDU4FpbAxUz2LrdXwyS7S) | 2:35 | 2025-08-29 | 2025-10-19 |
 | [Ifeoma](https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD) | [Shugavybz](https://open.spotify.com/artist/55o2TzDIJFZ3AtYK9N53tm), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Ifeoma](https://open.spotify.com/album/712c1s1yOhmn5ImbCMyU1M) | 1:55 | 2025-03-07 | 2025-03-29 |
+| [Ifeoma II](https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Ifeoma II](https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7) | 2:31 | 2026-02-06 |  |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-09-27 | 2025-03-08 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2023-01-20 |
 | [Ikwö Ufan Ikwö Ima](https://open.spotify.com/track/3UwBc48rW28XNyZFJmE6G2) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7), [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [Ikwö Ufan Ikwö Ima](https://open.spotify.com/album/2t7Yiqnx3iWFhjZf4qaoZk) | 2:09 | 2024-03-22 | 2024-04-19 |

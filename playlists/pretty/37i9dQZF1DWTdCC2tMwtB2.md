@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,424 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,484 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 47 | [Khileya](https://open.spotify.com/track/0WvjrHwSrm0ZfhRGje2j2W) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX), [Shirley Setia](https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI) | [Khileya](https://open.spotify.com/album/5BZYnWSy80FLmuF0bAzZdf) | 2:43 |
 | 48 | [Lahore](https://open.spotify.com/track/5aw6a4ZzgCe92pV6ODc8vC) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Lahore](https://open.spotify.com/album/6jIvjCJshM306VtQvNep4N) | 3:17 |
 | 49 | [Tu Mileya](https://open.spotify.com/track/7glqjOAauUoPmOXp2Ovpcf) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tu Mileya](https://open.spotify.com/album/21wYDuEQeG7jvdeMe7S73r) | 3:13 |
-| 50 | [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 |
+| 50 | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/track/30YqoekCI5XuWys0rD9lLL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Qismat Badal Di \(From "Yodha"\)](https://open.spotify.com/album/0OyxPr9bfW719KqosBiMqu) | 5:09 |
 
 Snapshot ID: `AAAAABQpRZyq2Rhh0Xtsr0//DBP643sJ`

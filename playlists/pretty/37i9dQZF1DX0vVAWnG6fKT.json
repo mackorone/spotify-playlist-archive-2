@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 148748,
+  "num_followers": 148755,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Kentucky Waltz",
-      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
-    },
-    {
-      "added_at": "2025-11-03 22:13:16",
-      "album": {
         "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
         "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 146733,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
+    },
+    {
+      "added_at": "2025-11-03 22:13:16",
+      "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "Kentucky Waltz",
+      "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+        "name": "Columbia Country Classics Volume 1: The Golden Age",
+        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
       "artists": [
         {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+          "name": "Ted Daffan's Texans",
+          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
         }
       ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
+      "duration_ms": 159800,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -760,25 +760,25 @@
           "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 153960,
-      "name": "Rocky Road Blues",
-      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Columbia Country Classics Volume 1: The Golden Age",
-        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
       },
       "artists": [
         {
-          "name": "Ted Daffan's Texans",
-          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
         }
       ],
-      "duration_ms": 159800,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2025-11-03 22:13:16",

@@ -1,13 +1,33 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2682,
+  "num_followers": 2683,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARWkDmXuA7PFL9SCasHJ9UA/XzRNgA",
+  "snapshot_id": "AAARW1szNFL49lzI8LEHOXT1mkSXZSXO",
   "tracks": [
+    {
+      "added_at": "2026-02-08 09:37:24",
+      "album": {
+        "name": "Soft Flow",
+        "url": "https://open.spotify.com/album/5eLnN1wkxHFrZYs6K72O4E"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        },
+        {
+          "name": "Mauro Fiore",
+          "url": "https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Soft Flow",
+      "url": "https://open.spotify.com/track/0SwFWPtaZHWkbmFHs0e0Qq"
+    },
     {
       "added_at": "2026-02-04 21:11:11",
       "album": {

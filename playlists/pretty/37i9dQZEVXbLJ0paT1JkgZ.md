@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,245 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,256 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 33 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
 | 34 | [TU Y YO](https://open.spotify.com/track/2tZNPwTLefIc2hUasTohfB) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [TU Y YO](https://open.spotify.com/album/0zIVCVPhluii2owRVJn9Nm) | 2:35 |
 | 35 | [BAILAME ASI](https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [BAILAME ASI](https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i) | 2:24 |
-| 36 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
+| 36 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 37 | [M5](https://open.spotify.com/track/16H0X18lIoNvmbsPE3p4VI) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [M5](https://open.spotify.com/album/2EJrmyTO19fEXZbQblRTTt) | 2:38 |
 | 38 | [Tiene](https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Tiene](https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt) | 3:45 |
 | 39 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:15 |
 | 50 | [NUBES](https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [NUBES](https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ) | 2:58 |
 
-Snapshot ID: `MRqqoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MRvywAAAAAAAAAAAAAAAAAAAAAAAAGVu`

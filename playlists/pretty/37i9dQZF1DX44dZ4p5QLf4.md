@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: EASY FREAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,171 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,166 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

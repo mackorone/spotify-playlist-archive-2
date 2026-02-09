@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 868 songs - 2 day 6 hr 45 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,599 likes - 869 songs - 2 day 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -735,7 +735,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 725 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 |
 | 726 | [Monkey on My Back](https://open.spotify.com/track/5fqESrxJFL9E6hAGjEHDqu) | [Wilson Getchell](https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3) | [Monkey on My Back](https://open.spotify.com/album/3pDgImcg4NMQe8DwWdLMOE) | 2:14 |
 | 727 | [Sangue Quente](https://open.spotify.com/track/3FwcAZnbpwQ9MdFzG3OKus) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [Sangue Quente](https://open.spotify.com/album/5LUTNEuGmqawMpQh9LRLMo) | 2:53 |
-| 728 | [Horse Girl](https://open.spotify.com/track/62zz5ZfxZvWsF8E0b4uhny) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Horse Girl](https://open.spotify.com/album/0MmFeFNx3EOalC6qPOWG9a) | 1:48 |
+| 728 | [Horse Girl](https://open.spotify.com/track/62zz5ZfxZvWsF8E0b4uhny) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg) | [Horse Girl](https://open.spotify.com/album/0MmFeFNx3EOalC6qPOWG9a) | 1:48 |
 | 729 | [Our Lakehouse at the Edge of the Painting](https://open.spotify.com/track/6CfY4ctgQp1UjxuB4k6bng) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Tre Flip](https://open.spotify.com/artist/4b6yY9OX4LJMkAKYTGuYna) | [Our Lakehouse at the Edge of the Painting](https://open.spotify.com/album/47j4iVpwfcQFcr0irCxFVd) | 1:55 |
 | 730 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 |
 | 731 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 |
@@ -876,5 +876,6 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 866 | [Leftist Narcissist](https://open.spotify.com/track/5OnGAv04Ee2zIXMI9VqHD0) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Leftist Narcissist](https://open.spotify.com/album/2K0hoYY7n4aHtbH8d7mFu1) | 3:39 |
 | 867 | [iykyk](https://open.spotify.com/track/1khLpAonIHoh4DCsKgl1ot) | [Zack Medlin](https://open.spotify.com/artist/5MTkRB12rSMaYFxdmsmbYf) | [iykyk](https://open.spotify.com/album/0gRbrvoXSVygkPxQ558WOk) | 3:32 |
 | 868 | [Fall In Love](https://open.spotify.com/track/35E3gf5Ghv3kLECmXbXQVu) | [Jahgan Olivier](https://open.spotify.com/artist/4CLjjMMlfnjvz89e1nrSPc) | [Fall In Love](https://open.spotify.com/album/5k6XeNxIVRhx3u9hYulxpV) | 4:18 |
+| 869 | [Stai pensando qualcosa?](https://open.spotify.com/track/1jnP9aTCGb3MQVDZlJXnbU) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Stai pensando qualcosa?](https://open.spotify.com/album/5sqYayw1qTZ0z2KTAkPRN7) | 2:56 |
 
-Snapshot ID: `AAADg+WxB+TEYOt2QONxFJN67ZgjGbRy`
+Snapshot ID: `AAADhDqR8oAFrw+cpl/PTz7gfUT6bZfP`

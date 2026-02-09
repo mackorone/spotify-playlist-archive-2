@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,658,522 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,658,582 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 99 | [Body and Soul](https://open.spotify.com/track/45aCQ82XrgmRINaUWcuKpP) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Compton's Finest](https://open.spotify.com/album/7g2mFqX91hcw5TsC1P622n) | 4:54 |
 | 100 | [Old Folks](https://open.spotify.com/track/41bXzDVMnCCqmeILLvcEby) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Old Folks](https://open.spotify.com/album/6YT9ySUntyPD7E8abxlRH6) | 4:51 |
 
-Snapshot ID: `AAAAAOCzSYVQeQdEAkV5/zkrZU/z9aEM`
+Snapshot ID: `AAAAAHrjx8LQOMIJ/GyU+RpgeuO9qP1/`

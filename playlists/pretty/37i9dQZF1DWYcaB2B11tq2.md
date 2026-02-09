@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,205 likes - 100 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,290 likes - 100 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 56 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
 | 57 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 11:55 |
 | 58 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
-| 59 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
-| 60 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
+| 59 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 |
+| 60 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
 | 61 | [Gracia](https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [SEU Worship HOLA](https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW) | 6:09 |
 | 62 | [Mareas \(todo a su tiempo\)](https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Mareas](https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia) | 3:53 |
 | 63 | [Le Pertenezco](https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Mauricio Alen](https://open.spotify.com/artist/2xobqRIT4uGkrZVPJjRQeY) | [Le Pertenezco](https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy) | 3:46 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 84 | [Dios Incomparable \(Invitado: Marco Barrientos\)](https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 10:45 |
 | 85 | [Más Allá De Tu Ventana](https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR) | 5:05 |
 | 86 | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Si Tu Presencia Conmigo No Va](https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq) | 4:48 |
-| 87 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
+| 87 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 |
 | 88 | [Alaba A Dios](https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Dios Cuida De Mí](https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4) | 5:10 |
-| 89 | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Fiesta en el desierto \(la la la\)](https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ) | 5:38 |
+| 89 | [Océanos \(Donde Mis Pies Pueden Fallar\) \- Live](https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [En Esto Creo \(Live\)](https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg) | 4:19 |
 | 90 | [Vine a Adorarte \(feat\. Marcela Gândara\)](https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR) | [Visión Juvenil](https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [ResplanDC](https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx) | 6:48 |
 | 91 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 | 92 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |

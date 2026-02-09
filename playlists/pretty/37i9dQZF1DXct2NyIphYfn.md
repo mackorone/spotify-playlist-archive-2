@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs en français <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,681 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,698 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 49 | [Donne\-moi le temps](https://open.spotify.com/track/40xyvJDp2caK50dhre26JU) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [Jenifer](https://open.spotify.com/album/73RETPwGf1IsowLIA7yfJD) | 4:13 |
 | 50 | [37°2 Le Matin](https://open.spotify.com/track/42D3APQYY0jZN7bO70oFsP) | [Malory](https://open.spotify.com/artist/4fWYaICAtJA5qKvfqOm1LZ), [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Métropole Blues](https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6) | 3:14 |
 
-Snapshot ID: `AAAAAHfiCjfJYVXErB7LESUtGzmI0jzc`
+Snapshot ID: `AAAAALkTkNGFMQnCGgnUakoqt89Xohp4`

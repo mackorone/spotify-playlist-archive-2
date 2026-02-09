@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,739 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,707 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 37 | [December 24](https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Ä Suburban Christmas](https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC) | 2:24 |
 | 38 | [Have Yourself A Merry Little Christmas \(feat\. Sheléa\)](https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG) | [Christmas with PJ Morton \(Deluxe Edition\)](https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo) | 3:23 |
 | 39 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
-| 40 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
-| 41 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
+| 40 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
+| 41 | [White Christmas](https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 4:36 |
 | 42 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 |
 | 43 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 44 | [A Timeless Christmas](https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [A Timeless Christmas](https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi) | 3:35 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 79 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
 | 80 | [The Christmas Song](https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:10 |
 | 81 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 |
-| 82 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |
-| 83 | [Mrs Clause](https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA) | [NYA](https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs) | [Mrs Clause](https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL) | 3:43 |
+| 82 | [Mrs Clause](https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA) | [NYA](https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs) | [Mrs Clause](https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL) | 3:43 |
+| 83 | [Soulful Christmas](https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:06 |
 | 84 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 |
 | 85 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 86 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 96 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
 | 97 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 |
 | 98 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 |
-| 99 | [Christmastime is here](https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Christmastime is here](https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO) | 5:17 |
-| 100 | [This Christmas \(Could Be The One\)](https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 4:43 |
+| 99 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
+| 100 | [Christmastime is here](https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Christmastime is here](https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO) | 5:17 |
 
 Snapshot ID: `AAAAAMhSzi9GdzfsKKMeNm2ArAC9N0RD`

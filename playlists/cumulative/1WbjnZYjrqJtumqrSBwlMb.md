@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,265 songs - 3 day 5 hr 28 min
+1,267 songs - 3 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [24.19](https://open.spotify.com/track/3IB89bAf5k60jLUFoWAmn1) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 7:59 | 2022-02-01 |  |
 | [26](https://open.spotify.com/track/18yJkeJ2fvBDal8O2lEeWx) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:39 | 2025-06-26 | 2025-06-27 |
 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 | 2024-04-06 |  |
+| [39 Intro](https://open.spotify.com/track/4DvoYgOZXnqmKuc2GzzFHz) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 6:06 | 2026-02-08 |  |
 | [4 In The Morning](https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 2:07 | 2024-09-08 |  |
 | [47.48](https://open.spotify.com/track/7l8qR2ndOxgE9hbfQf6gxA) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 6:00 | 2022-02-07 |  |
 | [4th Dimension](https://open.spotify.com/track/6JyEh4kl9DLwmSAoNDRn5b) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE), [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 2:33 | 2021-10-21 |  |
@@ -906,6 +907,7 @@
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 |  |
 | [Sad People](https://open.spotify.com/track/4nuAslShoN77tq12fzwjUq) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:56 | 2022-04-07 |  |
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-05-09 |  |
+| [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 | 2026-02-08 |  |
 | [Saint Pablo](https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 6:12 | 2022-03-17 |  |
 | [Sasà](https://open.spotify.com/track/4uvahxJ5WfmfPf4bmEjgHc) | [Oro](https://open.spotify.com/artist/1hY5l4zl5QFXfIJU9XHtaL) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 3:42 | 2023-11-01 |  |
 | [Satellite](https://open.spotify.com/track/3VzxWfP2YFDYJUCPtKt9Ob) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 2:59 | 2023-05-03 |  |

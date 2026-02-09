@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,744 likes - 105 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,756 likes - 105 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 25 | [Stanza dei ricordi](https://open.spotify.com/track/0Ya6h7s1IoVSToVWMn3ZHF) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Stanza dei ricordi](https://open.spotify.com/album/4yFUxA3SG3kMxw5LHUn125) | 2:28 |
 | 26 | [0 RIVALI](https://open.spotify.com/track/2zHKmt5XNDXyEa590hTx1Y) | [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd), [Sssymon](https://open.spotify.com/artist/5h5uJRkJMB8rarj6V9KSLr) | [0 RIVALI](https://open.spotify.com/album/14OTUnPxA0ICokPUXp28Gx) | 2:02 |
 | 27 | [BOMAYE](https://open.spotify.com/track/1FMvoxAOJAlRbLIhsAHMql) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa) | [BOMAYE](https://open.spotify.com/album/11FEptq14zAv376Tfi84cv) | 2:25 |
-| 28 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
+| 28 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
 | 29 | [BlitzTank](https://open.spotify.com/track/7vHQrUcJQRwBBpof3gLHVM) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [BlitzTank](https://open.spotify.com/album/7lRJtFqyPOgyVNfTMzoYGT) | 2:32 |
 | 30 | [Eroina \(feat\. Tutti Fenomeni\)](https://open.spotify.com/track/56n5UQJ0SDVaxwQNnu90ee) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:18 |
 | 31 | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/track/6wp73WIgt66WS4e9PPGSV1) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [CHIEF KEEF \(feat\. Sfera Ebbasta & Skillibeng\)](https://open.spotify.com/album/5arcR9CXQpOJZ5FgoEfrC0) | 3:28 |

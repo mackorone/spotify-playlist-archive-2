@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di sombr, Salmo, Laura Pausini, W Sound, ZAYN, Calvin Harris e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,948 likes - 95 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,946 likes - 95 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 66 | [Spalle](https://open.spotify.com/track/1A6lvVP8b1cjIGpjQpNZeC) | [Matteo Alieno](https://open.spotify.com/artist/0HFD1kS1lUZkZaGX0702QM) | [Spalle](https://open.spotify.com/album/1BKR1revh39wYdZdf0iyZs) | 3:33 |
 | 67 | [Fottuta](https://open.spotify.com/track/1YpJkNdtzcQwiH9rC025ok) | [Fandino](https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju) | [Fottuta](https://open.spotify.com/album/0A1Pd39i7cv9XkDosVI4lp) | 2:44 |
 | 68 | [Stanza dei ricordi](https://open.spotify.com/track/0Ya6h7s1IoVSToVWMn3ZHF) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Stanza dei ricordi](https://open.spotify.com/album/4yFUxA3SG3kMxw5LHUn125) | 2:28 |
-| 69 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
+| 69 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
 | 70 | [PICCOLA](https://open.spotify.com/track/5aUXhutSI9GpffwQ1NcsmA) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PICCOLA](https://open.spotify.com/album/6t5QOlEXI1cGIuiJ7zVW4q) | 2:24 |
 | 71 | [Come stai Come va](https://open.spotify.com/track/1r1WWs9VDcUgFRdjxkE4E7) | [EOS](https://open.spotify.com/artist/1CKLvkmWpjZfwfSDODVFpV), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [Come stai Come va](https://open.spotify.com/album/0sn27vedRiwoKlrkJfsqks) | 2:24 |
 | 72 | [100MILA COLPI](https://open.spotify.com/track/5pgx6z2KwNwUUAUMGcRHYI) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [100MILA COLPI](https://open.spotify.com/album/0HaZnjadcLH3rZqfUYnM0h) | 2:31 |

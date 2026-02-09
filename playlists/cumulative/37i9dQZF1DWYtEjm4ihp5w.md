@@ -4,7 +4,7 @@
 
 > Cover: Stormy
 
-481 songs - 1 day 1 hr 9 min
+482 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-26 | 2025-10-18 |
 | [Ana Ola Nti](https://open.spotify.com/track/68uOiYbz5lJeTkoaHQq6KV) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Tifinagh](https://open.spotify.com/album/5mR5F4B7Yvmg6XeLJLUh3t) | 2:39 | 2024-07-12 | 2024-09-19 |
 | [Athena](https://open.spotify.com/track/2I7WsqOc6alpXv1Xr99vw1) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Athena](https://open.spotify.com/album/44eZL4VQGBeAkiagwUFh5A) | 3:01 | 2024-02-15 | 2024-04-16 |
+| [AUTO](https://open.spotify.com/track/5gasiHOa0C3c7VK9rjoeeB) | [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [NIMBUS](https://open.spotify.com/album/5dr7h1lA75zTx4FoPE3SyG) | 2:56 | 2026-02-08 |  |
 | [AUTOSTOP](https://open.spotify.com/track/7t0ArR3d5ThgTvA9yuH2ZK) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AUTOSTOP](https://open.spotify.com/album/2nJt7tX1VHFk6mvkXd5RMD) | 3:45 | 2023-01-04 | 2023-01-14 |
 | [AZOUL V3](https://open.spotify.com/track/7mB6gUSK0aPPisiUA3czNV) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [AZOUL V3](https://open.spotify.com/album/197mIxNXShd34q7VU71Him) | 2:20 | 2025-02-03 | 2025-02-13 |
 | [AZZARONE](https://open.spotify.com/track/3abddmnTqXlja9W2vD2YKi) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [AZZARONE](https://open.spotify.com/album/5pD0intO4i0a7TV7WefSiG) | 3:14 | 2024-04-08 | 2024-04-16 |
@@ -453,7 +454,7 @@
 | [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 | 2024-10-26 | 2025-06-20 |
 | [Wa3ra](https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Wa3ra](https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg) | 2:16 | 2024-04-26 | 2025-01-15 |
 | [Wa3ra](https://open.spotify.com/track/5zvvrTE1QoTxsoeTupvQrW) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Prince](https://open.spotify.com/album/3l2WhIJt45Lw46JOLDfms9) | 2:16 | 2025-02-12 | 2025-06-19 |
-| [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-06 |  |
+| [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-06 | 2026-02-09 |
 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-06-13 |  |
 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |

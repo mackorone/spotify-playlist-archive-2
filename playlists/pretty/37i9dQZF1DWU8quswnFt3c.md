@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: GERD 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,059 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,907 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 31 | [Cognitive Dissonance](https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Spellbook](https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K) | 2:29 |
 | 32 | [Backie](https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Backie](https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz) | 2:08 |
 | 33 | [RAGE GIRL \(Remix\)](https://open.spotify.com/track/3Lry62qNJ7Kgxtwq2Fh1jV) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [RAGE GIRL \(Remix\)](https://open.spotify.com/album/3ztsnfBbpSB67hYnJGJMwm) | 3:28 |
-| 34 | [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 |
-| 35 | [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 |
+| 34 | [Death Of Me](https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [Death Of Me](https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW) | 3:00 |
+| 35 | [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 |
 | 36 | [Feel my love](https://open.spotify.com/track/0GxPpzPbK1m7aDt2ajkBbG) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:28 |
 | 37 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
 | 38 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 53 | [Франсуа](https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa), [Iryna Bilyk](https://open.spotify.com/artist/5wnPg3gAN19gmRi0sIyqEx) | [Франсуа](https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY) | 3:58 |
 | 54 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
 | 55 | [Not Enough](https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav) | 3:37 |
-| 56 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
+| 56 | [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 |
 | 57 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
-| 58 | [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 |
+| 58 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
 | 59 | [Sheป้ะ](https://open.spotify.com/track/2BWDtrQ3RwiNDc1tsxkv3r) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [Sheป้ะ](https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX) | 3:53 |
 | 60 | [Vále](https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vále](https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE) | 3:00 |
 | 61 | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp) | 4:54 |

@@ -12668,7 +12668,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 169200,
       "name": "Eppadi Vandhaayo (From \"Aaromaley\")",
       "url": "https://open.spotify.com/track/2A0JZsrJ1Nor5wtoOr9OOR"
@@ -17918,7 +17918,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 183944,
       "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm"
@@ -29533,6 +29533,28 @@
     },
     {
       "album": {
+        "name": "Mutta Kalakki (From \"Youth\")",
+        "url": "https://open.spotify.com/album/2g8yWUzEnZDEVdCzknsIeh"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ken Karunaas",
+          "url": "https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Mutta Kalakki (From \"Youth\")",
+      "url": "https://open.spotify.com/track/3GNlsHDf3OH7V3LgccGAFc"
+    },
+    {
+      "album": {
         "name": "Muttaama Muttikkittu",
         "url": "https://open.spotify.com/album/3QXZKbzxulssdN6GieJDje"
       },
@@ -32160,6 +32182,32 @@
       "duration_ms": 166942,
       "name": "Nenjil Oru Minnal",
       "url": "https://open.spotify.com/track/19NHHjnMN52OXPUMjo5XfB"
+    },
+    {
+      "album": {
+        "name": "Nenjile (From \"Chatha Pacha: The Ring Of Rowdies\") TAMIL",
+        "url": "https://open.spotify.com/album/4IRiK1WBlMaN40C3NUg9CO"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Afsal",
+          "url": "https://open.spotify.com/artist/6GIkpxZTzuInWGBdfgu7eb"
+        },
+        {
+          "name": "Vaira Bharathi",
+          "url": "https://open.spotify.com/artist/2S5Gl4jCoOyMP3eXvhi1LR"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200117,
+      "name": "Nenjile (From \"Chatha Pacha: The Ring Of Rowdies\") TAMIL",
+      "url": "https://open.spotify.com/track/5wKJ7ieDFC1kkRr2w0A3VX"
     },
     {
       "album": {
@@ -38212,6 +38260,32 @@
       "duration_ms": 252739,
       "name": "Pudichirukka, Ver. 2",
       "url": "https://open.spotify.com/track/4fcCP3uBdXGKiPufrNkMuR"
+    },
+    {
+      "album": {
+        "name": "Pudikaley Pudikaley (From ''Pookie\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U73osGZJO0kiHpUVU8goj"
+      },
+      "artists": [
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        {
+          "name": "Santosh Hariharan",
+          "url": "https://open.spotify.com/artist/2bgedszFVmHCgoqkAUXrBf"
+        },
+        {
+          "name": "Rukhsar Bandhukia",
+          "url": "https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251556,
+      "name": "Pudikaley Pudikaley (From ''Pookie\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/55A0XSSn5lRkD4OYHeyEGE"
     },
     {
       "album": {
@@ -48912,7 +48986,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 236798,
       "name": "Un Anbu Kadhal Raadhai",
       "url": "https://open.spotify.com/track/1DL60j0myWkIDDSYvGH45p"

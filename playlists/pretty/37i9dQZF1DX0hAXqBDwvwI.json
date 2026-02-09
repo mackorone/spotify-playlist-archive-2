@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 725710,
+  "num_followers": 725772,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 172291,
-      "name": "MAGIC",
-      "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 172291,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
-        "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
-      },
-      "artists": [
-        {
-          "name": "Ikimonogakari",
-          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
-      "url": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
@@ -895,22 +879,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "Utamonogatari Special Edition (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw"
-      },
-      "artists": [
-        {
-          "name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz"
-        }
-      ],
-      "duration_ms": 255040,
-      "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "Anytime Anywhere",
         "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
@@ -923,6 +891,38 @@
       "duration_ms": 230449,
       "name": "Anytime Anywhere",
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "Chou Ikimonobakari Tennen Kinen Members Best Selection",
+        "url": "https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
+      "url": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "Utamonogatari Special Edition (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw"
+      },
+      "artists": [
+        {
+          "name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "THE REVO",
-        "url": "https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix"
-      },
-      "artists": [
-        {
-          "name": "PornoGraffitti",
-          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
-        }
-      ],
-      "duration_ms": 240166,
-      "name": "THE REVO",
-      "url": "https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "\u6ab8\u6aac",
         "url": "https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 244493,
       "name": "FLY HIGH!!",
       "url": "https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "THE REVO",
+        "url": "https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "duration_ms": 240166,
+      "name": "THE REVO",
+      "url": "https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "\u706f\u3092\u8b77\u308b",
-        "url": "https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3"
+        "name": "Rockin' the World",
+        "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 213693,
-      "name": "\u706f\u3092\u8b77\u308b",
-      "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
+      "duration_ms": 191493,
+      "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
+      "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "Rockin' the World",
-        "url": "https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE"
+        "name": "\u706f\u3092\u8b77\u308b",
+        "url": "https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3"
       },
       "artists": [
         {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
         }
       ],
-      "duration_ms": 191493,
-      "name": "\u30b5\u30e0\u30e9\u30a4\u30cf\u30fc\u30c8(Some Like It Hot!!)",
-      "url": "https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj"
+      "duration_ms": 213693,
+      "name": "\u706f\u3092\u8b77\u308b",
+      "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
-        "url": "https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 207469,
-      "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
-      "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "\u6700\u9ad8\u5230\u9054\u70b9",
         "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 227469,
       "name": "\u6700\u9ad8\u5230\u9054\u70b9",
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
+        "url": "https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 207469,
+      "name": "\u307e\u306a\u3056\u3057\u306f\u5149",
+      "url": "https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
+        "name": "TAIDADA",
+        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "TAIDADA",
+      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 185566,
       "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
       "url": "https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
-        "name": "TAIDADA",
-        "url": "https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "TAIDADA",
-      "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
-        "url": "https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI"
+        "name": "VIVID VICE",
+        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "Who-ya Extended",
+          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
         }
       ],
-      "duration_ms": 150715,
-      "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
-      "url": "https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O"
+      "duration_ms": 185173,
+      "name": "VIVID VICE",
+      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "VIVID VICE",
-        "url": "https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS"
+        "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI"
       },
       "artists": [
         {
-          "name": "Who-ya Extended",
-          "url": "https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 185173,
-      "name": "VIVID VICE",
-      "url": "https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo"
+      "duration_ms": 150715,
+      "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O"
     },
     {
       "added_at": "2026-01-20 16:08:55",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-01-20 16:08:55",
       "album": {
-        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
-    },
-    {
-      "added_at": "2026-01-20 16:08:55",
-      "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
         "url": "https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 203542,
       "name": "\u9752\u306e\u3059\u307f\u304b (Acoustic ver.)",
       "url": "https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP"
+    },
+    {
+      "added_at": "2026-01-20 16:08:55",
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     },
     {
       "added_at": "2026-01-20 16:08:55",

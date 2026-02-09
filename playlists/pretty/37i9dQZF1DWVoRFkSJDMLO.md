@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > World music from the continent to the islands with Omah Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,957 likes - 64 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,002 likes - 64 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

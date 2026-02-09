@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty con la Yeriiii! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,499 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,570 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 90 | [Mali Sácatela](https://open.spotify.com/track/4522fyQXMF4dpQ5tTOKgui) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Mali Sácatela](https://open.spotify.com/album/7b6q8q4NOXpUFIzObsnrKE) | 2:23 |
 | 91 | [Dembow Fresón "Remix"](https://open.spotify.com/track/7ckxkUmV3YgWMSJ0hgv4Lt) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dembow Fresón "Remix"](https://open.spotify.com/album/11K79Fzg0SUpjZPeoszisP) | 2:05 |
 | 92 | [Ya me enteré](https://open.spotify.com/track/1uJ4wb43AssHGwsyq1K4EX) | [DJ FOXY](https://open.spotify.com/artist/0q80frU0PULB8gSA5Q0siK), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [FOXYLANDIA](https://open.spotify.com/album/6lMNLyZKSNFGFCZKAu7QAN) | 2:06 |
-| 93 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
-| 94 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 |
+| 93 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 |
+| 94 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 95 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 96 | [Tamagotchi](https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN) | [GUNTTER](https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk), [HAMLIT SHORTY](https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL), [Sticks House](https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN) | [Tamagotchi](https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA) | 2:31 |
 | 97 | [Frikitona](https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Chosen Few El Documental II](https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe) | 3:03 |
 | 98 | [La Vecinita](https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Los Bandoleros Reloaded](https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R) | 4:25 |
 | 99 | [Singapur](https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [El Androide](https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx) | 2:58 |
-| 100 | [Perreito](https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Perreito](https://open.spotify.com/album/2h75BdwB5z9ueXOV37Af4d) | 2:01 |
+| 100 | [Relación](https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Relación](https://open.spotify.com/album/378KGomt21mlfxD786uF7c) | 3:04 |
 
 Snapshot ID: `AAAAAM5Yd+Cney3dYTee8mUG4O70yjvP`

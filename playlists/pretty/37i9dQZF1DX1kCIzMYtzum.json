@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f with John Summit",
-  "num_followers": 465843,
+  "num_followers": 466288,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Out My Head",
-        "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Out My Head",
-      "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
+      "duration_ms": 167485,
+      "name": "Everlight",
+      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Out My Head",
+        "url": "https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Out My Head",
+      "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 165276,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Everlight",
-      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
     },
     {
       "added_at": "2026-02-06 05:00:44",

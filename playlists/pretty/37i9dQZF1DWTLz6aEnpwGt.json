@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 69829,
+  "num_followers": 69862,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach, J.S.: Favourite Piano Works",
-        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Janos Sebestyen",
-          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
-      "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "J.S. Bach: French Suites Nos. 1-2 - Italian Concerto - Chromatic Fantasia and Fugue",
         "url": "https://open.spotify.com/album/7k0tHm7AZrTLkYhP3ZwW9S"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 253413,
       "name": "Adagio in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Bach, J.S.: Favourite Piano Works",
+        "url": "https://open.spotify.com/album/77gPyAB4JVRfevI48PRIpS"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Janos Sebestyen",
+          "url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Concerto in the Italian Style in F Major, BWV 971: I. Allegro",
+      "url": "https://open.spotify.com/track/5vaj19JrnNJfkdKgMRXUiV"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 389706,
       "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
       "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2025-12-23 12:10:07",

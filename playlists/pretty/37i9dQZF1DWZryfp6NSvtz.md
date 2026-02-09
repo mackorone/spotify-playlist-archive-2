@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: The Warning, Carín León
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,655 likes - 130 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,746 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 98 | [Votive](https://open.spotify.com/track/0Zqe9UneLLrGi6fNg6s2qR) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Votive](https://open.spotify.com/album/5sTUAmpUGHK1EfV6REXxYI) | 3:45 |
 | 99 | [I Got You](https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Got You](https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4) | 4:20 |
 | 100 | [Rejoice](https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Rejoice](https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi) | 4:20 |
-| 101 | [WAP](https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [WAP](https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz) | 5:02 |
+| 101 | [WAP \(What a Predicament\)](https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b), [Les Claypool](https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [WAP \(What a Predicament\)](https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz) | 5:02 |
 | 102 | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd), [Kevin Rheault](https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy) | [Pullin' Teeth \(feat\. Kevin Rheault\)](https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r) | 4:14 |
 | 103 | [Paranoid](https://open.spotify.com/track/0TMpKOk8uLySWvPRXL2PDw) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Paranoid / Prayer](https://open.spotify.com/album/3tYccUW33F6IAV2FPGk4qg) | 3:54 |
 | 104 | [STACK UP THE REASONS](https://open.spotify.com/track/4WcGDz2rLPLzkHSy66T7LZ) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [STACK UP THE REASONS](https://open.spotify.com/album/3OEKR9OpwMN7lLdxEzSSxP) | 3:31 |

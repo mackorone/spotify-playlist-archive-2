@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from J\. Cole, sombr, Broken Social Scene, Good Kid, Charlotte Day Wilson, Arkells, Metric and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,779 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,768 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

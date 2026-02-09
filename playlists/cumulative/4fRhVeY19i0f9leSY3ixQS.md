@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-862 songs - 2 day 1 hr 24 min
+864 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [In Hibernation](https://open.spotify.com/track/1UWlsLxZDbjrvVAD9VwbBN) | [Fake Lighters](https://open.spotify.com/artist/4UHuZhmbhkKgoiLkvc9lQQ) | [In Hibernation](https://open.spotify.com/album/3bZ6SY14E4xPJLq0xS5mwp) | 2:20 | 2026-01-03 | 2026-02-04 |
 | [In the Grave \(You’ll Rot\)](https://open.spotify.com/track/5pMQ0NCvBDYdPtHVTU0Mxy) | [Seven Asterisk](https://open.spotify.com/artist/6UK1ezKY7oMEy5VyAWzCZL) | [In the Grave \(You’ll Rot\)](https://open.spotify.com/album/4KPgQfUsVH2jQvAWia0FNy) | 3:35 | 2026-01-02 | 2026-01-22 |
 | [In the Quiet Machine](https://open.spotify.com/track/1M3lIcRQyBk6QZxPL2SZa9) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Endless](https://open.spotify.com/album/5ejJOWoO9OmCQ1t9G9RkZO) | 4:48 | 2026-01-23 |  |
-| [In the Sky \- Alternative Version](https://open.spotify.com/track/3soq0AmD76sidxqaFgJVHk) | [Tektula](https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL), [Eric Castiglia](https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj) | [The Burnout](https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM) | 3:03 | 2026-01-08 |  |
+| [In the Sky \- Alternative Version](https://open.spotify.com/track/3soq0AmD76sidxqaFgJVHk) | [Tektula](https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL), [Eric Castiglia](https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj) | [The Burnout](https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM) | 3:03 | 2026-01-08 | 2026-02-09 |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 | 2025-12-24 |
 | [Into The Abyss](https://open.spotify.com/track/2i3wLIHbtIfAAV8IIWv18p) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Into The Abyss](https://open.spotify.com/album/6mFmaXf3aTwmLFUPasr0Dc) | 4:55 | 2026-01-01 |  |
@@ -611,6 +611,7 @@
 | [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 | 2025-12-04 | 2026-01-22 |
 | [Routine Trap Escape](https://open.spotify.com/track/4J3RQVO16sV0LmicjSlwW7) | [NOOP](https://open.spotify.com/artist/1K5Cl2jMIES6pZtmSEnpDm) | [Escapism For The Masses](https://open.spotify.com/album/0Cu7CizxFbY6qdnqonHMV7) | 4:03 | 2025-11-21 | 2025-12-10 |
 | [Ruby Red](https://open.spotify.com/track/2KkO14XX5K7CWEOs2nPBXn) | [Fathers of One](https://open.spotify.com/artist/4jxOqaWpFkp2t8UNjh4HLm) | [Ruby Red](https://open.spotify.com/album/5GUhLlM462PhXWZOGngOby) | 3:42 | 2025-12-08 | 2026-01-06 |
+| [Running from myself](https://open.spotify.com/track/4WyzBv3U5zg7rJorAiwnRi) | [2DieFor](https://open.spotify.com/artist/7ktontuidnJoXRyiM8maQd) | [Insert Coin \(Player Two\)](https://open.spotify.com/album/2Aoc8JePOX9yNc3nHtjldr) | 3:41 | 2026-02-08 |  |
 | [Running out of Time](https://open.spotify.com/track/1EF1Va0fHanPiD8BXXzfRr) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:35 | 2025-11-13 | 2026-01-06 |
 | [Safe](https://open.spotify.com/track/3wbOkE8aQSGTCDpDFCJruX) | [Covent](https://open.spotify.com/artist/17Tpltw1i2Te1Ay4lLH45X) | [Safe In Your Arms](https://open.spotify.com/album/6r7TAVCjDL6E864G4aInrB) | 3:23 | 2025-12-23 | 2026-01-24 |
 | [Sangrienta Obsesión](https://open.spotify.com/track/1eI4Zzwphb4paj0NnyyBry) | [The Saint Daniel Project](https://open.spotify.com/artist/3KfVAnSb4K79mP9lRZ5cJ0) | [Todo Otra Vez](https://open.spotify.com/album/3RiEzVKmXEkurp8uKLc6YP) | 2:40 | 2025-12-22 | 2026-01-15 |
@@ -791,6 +792,7 @@
 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 | 2025-12-11 | 2026-01-06 |
 | [useless](https://open.spotify.com/track/1z7CZwKoET1NjbNdI6czPb) | [headcanons](https://open.spotify.com/artist/6prpeu1xInORPMSjyQj9j4) | [crushed aspirations](https://open.spotify.com/album/6VHTtXrRcoOteu0b0qBiKU) | 3:32 | 2026-01-09 | 2026-01-29 |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 | 2025-12-10 |
+| [Vessel](https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Vessel](https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu) | 3:51 | 2026-02-08 |  |
 | [Vibe](https://open.spotify.com/track/5cns5MfJeOWKlHJR0VCeNS) | [VinCrux](https://open.spotify.com/artist/4XfqiAjGUVn2rAjU90cAwE) | [Vibe](https://open.spotify.com/album/1HmFFZl1ExxrNdNRTdUEqY) | 2:26 | 2026-01-02 | 2026-02-03 |
 | [Vida Piñata](https://open.spotify.com/track/5U0QOQaK4j5ggLkChpXS1B) | [Juanga Boyz](https://open.spotify.com/artist/4PDuYZYIbMk5EDCFfN0xkm) | [Vida Piñata](https://open.spotify.com/album/79EjX2KniyuxAypFzvSeC7) | 3:13 | 2026-01-23 |  |
 | [Vindicta](https://open.spotify.com/track/54FUFjNwNJBPgOZOW5N9J0) | [Sonder](https://open.spotify.com/artist/0L0D31Vnz5LTRR8I620V0G) | [Rompiendo Refugios](https://open.spotify.com/album/7CcpgykbYIRVRADvSi9PzI) | 4:21 | 2025-11-15 | 2025-12-10 |

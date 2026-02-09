@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-482 songs - 1 day 5 hr 2 min
+483 songs - 1 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [So Delicious!](https://open.spotify.com/track/2DOZrh6r6QwGdtSyWqje6a) | [Sera De Villalta](https://open.spotify.com/artist/36QNZGUOB4BqczrvthRI3T) | [Alexa's On Drugs](https://open.spotify.com/album/4Cqd3AXI9Z6spcXv342akZ) | 5:33 | 2023-07-02 | 2023-08-09 |
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-10 | 2024-04-15 |
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-14 | 2023-05-30 |
+| [Soft Flow](https://open.spotify.com/track/0SwFWPtaZHWkbmFHs0e0Qq) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu), [Mauro Fiore](https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA) | [Soft Flow](https://open.spotify.com/album/5eLnN1wkxHFrZYs6K72O4E) | 4:14 | 2026-02-08 |  |
 | [Sombrero Galaxy](https://open.spotify.com/track/1oQoDktIuJITi7TQXpJ5Jx) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Sombrero Galaxy](https://open.spotify.com/album/6hnHiX4yrDKeO65xn0vr9L) | 3:00 | 2023-03-19 | 2023-04-01 |
 | [Some More](https://open.spotify.com/track/5nKoXD5R3PN5KwmxrkoCHb) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Some More](https://open.spotify.com/album/0K9XP2XPW1R5vx6IV9pnvC) | 3:00 | 2024-03-10 | 2024-05-20 |
 | [SOMEBODY HERE?](https://open.spotify.com/track/38PbBMCHd67hE9XQrHFwut) | [KODELEAN DJ](https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl) | [SOMEBODY HERE?](https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu) | 2:30 | 2025-11-29 | 2026-01-03 |

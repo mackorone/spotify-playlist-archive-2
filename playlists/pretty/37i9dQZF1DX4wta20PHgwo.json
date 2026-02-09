@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2180213,
+  "num_followers": 2180261,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Far Far Away",
-        "url": "https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy"
-      },
-      "artists": [
-        {
-          "name": "Jim Snidero",
-          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
-        },
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Search for Peace",
-      "url": "https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "Scenes From Above",
         "url": "https://open.spotify.com/album/3ttcqbXYZLuyCDPQIGDacR"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 242946,
       "name": "Something More",
       "url": "https://open.spotify.com/track/3YM5xsdAn0yMqCwOeyGa3K"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Far Far Away",
+        "url": "https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy"
+      },
+      "artists": [
+        {
+          "name": "Jim Snidero",
+          "url": "https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Search for Peace",
+      "url": "https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Cicero Nights",
-        "url": "https://open.spotify.com/album/2kDj2bteVTnOkcCEa8CuTq"
-      },
-      "artists": [
-        {
-          "name": "Blue Earth Sound",
-          "url": "https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Gia's Point",
-      "url": "https://open.spotify.com/track/045diwPIJFo1weqwhyWP1B"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "LIVE-ACTION (Deluxe)",
         "url": "https://open.spotify.com/album/5NHAIJ3NGdJPLvlYNO7ARG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141983,
       "name": "EARLY AUTUMN",
       "url": "https://open.spotify.com/track/0XQsLIjr0fJUFJgRpDij8x"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Cicero Nights",
+        "url": "https://open.spotify.com/album/2kDj2bteVTnOkcCEa8CuTq"
+      },
+      "artists": [
+        {
+          "name": "Blue Earth Sound",
+          "url": "https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Gia's Point",
+      "url": "https://open.spotify.com/track/045diwPIJFo1weqwhyWP1B"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Humming Bird (Rhodes Version)",
+        "url": "https://open.spotify.com/album/0X03lnVde9vz8tw5pYoD2A"
+      },
+      "artists": [
+        {
+          "name": "Tingvall Trio",
+          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
+        }
+      ],
+      "duration_ms": 308831,
+      "name": "Humming Bird - Rhodes Version",
+      "url": "https://open.spotify.com/track/4o2mArKsE2bflX9cOH9YAD"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 280986,
       "name": "Finding Ways",
       "url": "https://open.spotify.com/track/0AfHjDkvsE4aCDIg2wZsBa"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Humming Bird (Rhodes Version)",
-        "url": "https://open.spotify.com/album/0X03lnVde9vz8tw5pYoD2A"
-      },
-      "artists": [
-        {
-          "name": "Tingvall Trio",
-          "url": "https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M"
-        }
-      ],
-      "duration_ms": 308831,
-      "name": "Humming Bird - Rhodes Version",
-      "url": "https://open.spotify.com/track/4o2mArKsE2bflX9cOH9YAD"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Love & Life",
-        "url": "https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 419840,
-      "name": "Slow Down Look Around",
-      "url": "https://open.spotify.com/track/68zqnkWb08lWCBBqs8o24X"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "Song To An Old Friend",
         "url": "https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 369293,
       "name": "Song To An Old Friend",
       "url": "https://open.spotify.com/track/456KdVK2lZh5ngKyxvFpfg"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Love & Life",
+        "url": "https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl"
+      },
+      "artists": [
+        {
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
+        }
+      ],
+      "duration_ms": 419840,
+      "name": "Slow Down Look Around",
+      "url": "https://open.spotify.com/track/68zqnkWb08lWCBBqs8o24X"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1419,34 +1419,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Opal",
-        "url": "https://open.spotify.com/album/1aVsQPp7PGfHFLAWivIbly"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        },
-        {
-          "name": "John Medeski",
-          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
-        },
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        },
-        {
-          "name": "Kenny Wollesen",
-          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Opal",
-      "url": "https://open.spotify.com/track/60ELJe2Bp0gCAnAINQz1Zj"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/7bhEtYBjzcFqV1OBLHxuVB"
       },
@@ -1479,6 +1451,34 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Opal",
+        "url": "https://open.spotify.com/album/1aVsQPp7PGfHFLAWivIbly"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/60ELJe2Bp0gCAnAINQz1Zj"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Windshelter",
         "url": "https://open.spotify.com/album/4dblzchQbZnp9z7jkfq1pP"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 283200,
       "name": "Windshelter",
       "url": "https://open.spotify.com/track/4J0PtKNQqMzvlTbKvhpFof"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Little River",
-        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 411996,
-      "name": "Little River",
-      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Little River",
+        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 411996,
+      "name": "Little River",
+      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Live At Bird's Eye",
         "url": "https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Wisdom Is Eternal (For Barry Harris)",
-        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
       "artists": [
         {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
         }
       ],
-      "duration_ms": 273190,
-      "name": "Wisdom Is Eternal (For Barry Harris)",
-      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
+      "duration_ms": 267565,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1587,34 +1587,18 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+        "name": "Wisdom Is Eternal (For Barry Harris)",
+        "url": "https://open.spotify.com/album/07PWUfIc6P2tDrzoEusUyx"
       },
       "artists": [
         {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 267565,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 259252,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
+      "duration_ms": 273190,
+      "name": "Wisdom Is Eternal (For Barry Harris)",
+      "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1631,6 +1615,22 @@
       "duration_ms": 320373,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/7222mnyJDInGd0gsVn8GIY"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/6oAni9EYklGVd1ZOLThaW1"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Precarious Towers",
-        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
-      },
-      "artists": [
-        {
-          "name": "Johannes Wallmann",
-          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
-        },
-        {
-          "name": "Sharel Cassity",
-          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Try To Remember",
-      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/0Dwp8GIDg2tZUTFGLqUO7f"
       },
@@ -1843,6 +1823,42 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Precarious Towers",
+        "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
+      },
+      "artists": [
+        {
+          "name": "Johannes Wallmann",
+          "url": "https://open.spotify.com/artist/1eGsL6cTuGlm6bJzbQLvjm"
+        },
+        {
+          "name": "Sharel Cassity",
+          "url": "https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Theme for Ernie",
         "url": "https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 316960,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "With Just A Word",
+        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 372428,
+      "name": "Dignified Response",
+      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 349802,
       "name": "Last Decade",
       "url": "https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "With Just A Word",
-        "url": "https://open.spotify.com/album/3jetKcD1Pl9387nGYT9Ckp"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 372428,
-      "name": "Dignified Response",
-      "url": "https://open.spotify.com/track/2cM5pSDkk06ngICQkV14dG"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Broken Blue",
-        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
-      },
-      "artists": [
-        {
-          "name": "Spiral TRIO",
-          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
-        }
-      ],
-      "duration_ms": 621680,
-      "name": "Once upon a Summertime",
-      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "Oblique Two-Step",
         "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 220493,
       "name": "Oblique Two-Step",
       "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Broken Blue",
+        "url": "https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX"
+      },
+      "artists": [
+        {
+          "name": "Spiral TRIO",
+          "url": "https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f"
+        }
+      ],
+      "duration_ms": 621680,
+      "name": "Once upon a Summertime",
+      "url": "https://open.spotify.com/track/2L1aSsr9qqLIHjPpcKZWWK"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Broken Balance",
-        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 160999,
-      "name": "Quiet Corner",
-      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "The Wayfarers",
         "url": "https://open.spotify.com/album/41k2ttC9wqYEpzSjJnfGaf"
       },
@@ -2515,18 +2499,18 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+        "name": "Broken Balance",
+        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
       },
       "artists": [
         {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
         }
       ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+      "duration_ms": 160999,
+      "name": "Quiet Corner",
+      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2543,6 +2527,22 @@
       "duration_ms": 427213,
       "name": "Out of Sight, Out of Mind",
       "url": "https://open.spotify.com/track/3OBokYRuPMAielITqkNQBg"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2579,6 +2579,22 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Red Orange and Blue",
+        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guggenheim Quartet",
+          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
+        }
+      ],
+      "duration_ms": 432226,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "Dialect",
         "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
@@ -2595,22 +2611,6 @@
       "duration_ms": 222858,
       "name": "Road to Eden",
       "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Red Orange and Blue",
-        "url": "https://open.spotify.com/album/16ocAEwSksKkzTKkc76OjA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guggenheim Quartet",
-          "url": "https://open.spotify.com/artist/53A1C9v3RTzKNSmrRshqJt"
-        }
-      ],
-      "duration_ms": 432226,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2863,6 +2863,22 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
+        "name": "Fire in the West",
+        "url": "https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8"
+      },
+      "artists": [
+        {
+          "name": "Neil Swainson",
+          "url": "https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn"
+        }
+      ],
+      "duration_ms": 291213,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
         "name": "On the Trail",
         "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
       },
@@ -2891,50 +2907,18 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Fire in the West",
-        "url": "https://open.spotify.com/album/63MLJEeNodAnA2f0P96IF8"
+        "name": "Day Eleven",
+        "url": "https://open.spotify.com/album/2JmhyZcZkcAdmjoZqYcLbd"
       },
       "artists": [
         {
-          "name": "Neil Swainson",
-          "url": "https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn"
+          "name": "Petter Bergander Trio",
+          "url": "https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2"
         }
       ],
-      "duration_ms": 291213,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/5gOk1nWNZCx8QpZWyuNq5s"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 176871,
-      "name": "Close Enough for Love",
-      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Loslassen",
-        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
-      },
-      "artists": [
-        {
-          "name": "Bastian Menz Quintett",
-          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
-        }
-      ],
-      "duration_ms": 261708,
-      "name": "Loslassen",
-      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
+      "duration_ms": 369640,
+      "name": "Day Eleven",
+      "url": "https://open.spotify.com/track/7ycDDuZBAicxWB8At1jZIo"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2955,18 +2939,50 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "Day Eleven",
-        "url": "https://open.spotify.com/album/2JmhyZcZkcAdmjoZqYcLbd"
+        "name": "Loslassen",
+        "url": "https://open.spotify.com/album/135ABCv2URHzD38LYxby5Q"
       },
       "artists": [
         {
-          "name": "Petter Bergander Trio",
-          "url": "https://open.spotify.com/artist/5eWoy0qvKyobodZPFQVDW2"
+          "name": "Bastian Menz Quintett",
+          "url": "https://open.spotify.com/artist/3GScxzwqyHVE32qX1Gcu6k"
         }
       ],
-      "duration_ms": 369640,
-      "name": "Day Eleven",
-      "url": "https://open.spotify.com/track/7ycDDuZBAicxWB8At1jZIo"
+      "duration_ms": 261708,
+      "name": "Loslassen",
+      "url": "https://open.spotify.com/track/4lFv85FtR9pRqJVhY8hv7f"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 176871,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "Love Letters (The Ballad Sessions)",
+        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "duration_ms": 310182,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -2987,22 +3003,6 @@
       "duration_ms": 424653,
       "name": "Shady Side",
       "url": "https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
-        "name": "Love Letters (The Ballad Sessions)",
-        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 310182,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-02-06 08:54:07",
@@ -3047,22 +3047,6 @@
     {
       "added_at": "2026-02-06 08:54:07",
       "album": {
-        "name": "This is Not About You",
-        "url": "https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI"
-      },
-      "artists": [
-        {
-          "name": "Johan Lindvall Trio",
-          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "This Is Not About You",
-      "url": "https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK"
-    },
-    {
-      "added_at": "2026-02-06 08:54:07",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
+    },
+    {
+      "added_at": "2026-02-06 08:54:07",
+      "album": {
+        "name": "This is Not About You",
+        "url": "https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI"
+      },
+      "artists": [
+        {
+          "name": "Johan Lindvall Trio",
+          "url": "https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "This Is Not About You",
+      "url": "https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK"
     },
     {
       "added_at": "2026-02-06 08:54:07",

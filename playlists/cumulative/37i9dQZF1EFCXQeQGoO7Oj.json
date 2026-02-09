@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "3 (Remixes)",
+        "url": "https://open.spotify.com/album/0RjohUPEGdpwC1KAc5LvGB"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206700,
+      "name": "3",
+      "url": "https://open.spotify.com/track/7K9d0dwwP5C0IokOrtt1yS"
+    },
+    {
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 213173,
       "name": "3",
       "url": "https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP"
@@ -9034,7 +9052,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 149760,
       "name": "Quit Playing Games (With My Heart) - music underlaying words",
       "url": "https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz"

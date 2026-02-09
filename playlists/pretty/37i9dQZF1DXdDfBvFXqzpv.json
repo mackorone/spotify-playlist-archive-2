@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 105809,
+  "num_followers": 105804,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Punching In A Dream",
-      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 209626,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Punching In A Dream",
+      "url": "https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Location (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Location (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+        "name": "Scissor Sisters",
+        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Are You What You Want to Be?",
-      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
+      "duration_ms": 271906,
+      "name": "Take Your Mama",
+      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
       },
       "artists": [
         {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 271906,
-      "name": "Take Your Mama",
-      "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
+      "duration_ms": 270693,
+      "name": "Are You What You Want to Be?",
+      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Hundred Days Off",
-        "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 548560,
-      "name": "Two Months Off",
-      "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "A Hundred Days Off",
+        "url": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 548560,
+      "name": "Two Months Off",
+      "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Teen",
-        "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
-      },
-      "artists": [
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
-        },
-        {
-          "name": "Milad Derakhshani",
-          "url": "https://open.spotify.com/artist/3MKR7Fr9ou6IvTyIiW3PVi"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "A Teen",
-      "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/4BJEBuRutpTG0rW5OEg3iu"
       },
@@ -1543,6 +1523,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Teen",
+        "url": "https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi"
+      },
+      "artists": [
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg"
+        },
+        {
+          "name": "Milad Derakhshani",
+          "url": "https://open.spotify.com/artist/3MKR7Fr9ou6IvTyIiW3PVi"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "A Teen",
+      "url": "https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 245533,
       "name": "Postpone",
       "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Surfing on a Rocket",
-      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "> album title goes here <",
         "url": "https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 246295,
       "name": "Professional Griefers",
       "url": "https://open.spotify.com/track/47WNjXohtA1A6gY2zTKZ91"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Surfing on a Rocket",
+      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Morrow",
-      "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 177206,
       "name": "Followers",
       "url": "https://open.spotify.com/track/5sPoju3oZHg9Wq5KXxBH3a"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Morrow",
+      "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,550 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,625 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 30 | [Love Me Again](https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 4:06 |
 | 31 | [Almost Padipoyindhe Pilla](https://open.spotify.com/track/1ZZzUmkUhcNlb0u7C1jcKd) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Almost Padipoyindhe Pilla \(From "Das Ka Dhamki"\)](https://open.spotify.com/album/1LsLgJM2wTC96S2mWwsmuF) | 3:33 |
 | 32 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
-| 33 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
-| 34 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
+| 33 | [Priyathama Priyathama](https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Majili](https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T) | 4:05 |
+| 34 | [Aa Seetadevi Navvula](https://open.spotify.com/track/51ZgZSvy6VfmT89POoGwLf) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Rowdy Fellow](https://open.spotify.com/album/46f207Gwf1JOc9Ia1WRz7v) | 4:15 |
 | 35 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/5qriE8k5TQuWLXKKnyxjDF) | 2:46 |
 | 36 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
 | 37 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Radhe Shyam \(Telugu\)](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |

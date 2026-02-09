@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 58 songs - 3 hr 31 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 68 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,15 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 56 | [Fairway](https://open.spotify.com/track/1AwmZwc3Wz0cKvhJZe9N0d) | [Ross Pond](https://open.spotify.com/artist/7EMyFndXI4hqep6zPbetVg) | [Fairway](https://open.spotify.com/album/1cdDTUPaINS3dIc06T4aFj) | 3:56 |
 | 57 | [Pilgrim](https://open.spotify.com/track/4Libgzg3p5CFzsVYlel1yQ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:01 |
 | 58 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 |
+| 59 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 |
+| 60 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 |
+| 61 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 |
+| 62 | [ENERGY 2](https://open.spotify.com/track/26Q4qA2QVYisQ6IopZW8y5) | [TONE](https://open.spotify.com/artist/7BTanMvfNlUM7nc1GSeiAu) | [ENERGY 2](https://open.spotify.com/album/6GtP13hzBJ5ZXygoiWbq2A) | 2:20 |
+| 63 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
+| 64 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 |
+| 65 | [love pt\. 2](https://open.spotify.com/track/4uvzEnlCw8ysLKnXeYDSDI) | [Lazuli Bones](https://open.spotify.com/artist/74gnmdjnTP4OsKX80B6ao9) | [garden girl](https://open.spotify.com/album/326LJXKcD0mbtlDag4ggZs) | 3:42 |
+| 66 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 |
+| 67 | [White Lies](https://open.spotify.com/track/4beWAOKS5erYQC42H1viRo) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:55 |
+| 68 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 |
 
-Snapshot ID: `AAANNQsk2Y79fIeJmm5oFABFBh/I4kQh`
+Snapshot ID: `AAANP6xR7QUJNLMP+yrgg4sgsmTduWoC`

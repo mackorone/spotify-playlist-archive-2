@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54457,
+  "num_followers": 54461,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Jetty (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 69720,
-      "name": "Boardwalk",
-      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "three",
         "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 187118,
       "name": "three",
       "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "Jetty (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 69720,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Two Breath EP",
-        "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Two Breath",
-      "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "Two Breath EP",
+        "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Two Breath",
+      "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
         "name": "re: Sound Of Light",
         "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 144500,
       "name": "re: Sound Of Light",
       "url": "https://open.spotify.com/track/7zFWLMPaEe5G9crfMdAVSC"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
-      },
-      "artists": [
-        {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
-        }
-      ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        }
+      ],
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "C.itosakura f.ascendens (synfilums rework)",
-        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
-      },
-      "artists": [
-        {
-          "name": "synfilums",
-          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "C.itosakura f.ascendens - synfilums rework",
-      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "rias",
         "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 283170,
       "name": "rias",
       "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "C.itosakura f.ascendens (synfilums rework)",
+        "url": "https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu"
+      },
+      "artists": [
+        {
+          "name": "synfilums",
+          "url": "https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "C.itosakura f.ascendens - synfilums rework",
+      "url": "https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -819,6 +819,22 @@
       "duration_ms": 189723,
       "name": "Resting Place",
       "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "yomichi",
+        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "yomichi",
+      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "yomichi",
-        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yomichi",
-      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "Day of the Moon",
         "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 156363,
       "name": "Day of the Moon",
       "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -911,22 +895,18 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "It Hurts to Love You (it meant a lot)",
-        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
         }
       ],
-      "duration_ms": 117600,
-      "name": "It Hurts to Love You (it meant a lot)",
-      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -951,6 +931,26 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
+        "name": "It Hurts to Love You (it meant a lot)",
+        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "It Hurts to Love You (it meant a lot)",
+      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
         "name": "SHIBUYA 246",
         "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 171851,
       "name": "SHIBUYA 246",
       "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -1003,34 +987,34 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "tide sketch",
-        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
         }
       ],
-      "duration_ms": 130908,
-      "name": "tide sketch",
-      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
       "artists": [
         {
-          "name": "Oowets",
-          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
         }
       ],
-      "duration_ms": 195164,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
+      "duration_ms": 102000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -1055,34 +1039,34 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+          "name": "Oowets",
+          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
         }
       ],
-      "duration_ms": 102000,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
+      "duration_ms": 195164,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
     },
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Higashi no Sora",
-        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+        "name": "tide sketch",
+        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Higashi no Sora",
-      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+      "duration_ms": 130908,
+      "name": "tide sketch",
+      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
+        "name": "Higashi no Sora",
+        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Higashi no Sora",
+      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
         "name": "fresh",
         "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 172833,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
+      },
+      "artists": [
+        {
+          "name": "One-half",
+          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
-        "name": "Continue",
-        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
-      },
-      "artists": [
-        {
-          "name": "One-half",
-          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Continue",
-      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
     },
     {
       "added_at": "2026-02-04 04:53:03",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-04 04:53:03",
       "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
-    },
-    {
-      "added_at": "2026-02-04 04:53:03",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2026-02-04 04:53:03",
+      "album": {
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
+      },
+      "artists": [
+        {
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2026-02-04 04:53:03",

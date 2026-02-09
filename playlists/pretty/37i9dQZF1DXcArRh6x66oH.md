@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,127 likes - 187 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,122 likes - 187 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 186 | [You Don't Want That Smoke](https://open.spotify.com/track/5uPQjirx9C6MS47V556x46) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:20 |
 | 187 | [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 |
 
-Snapshot ID: `AAAAADLEFNQe5SFV73ElltOblToMC3pV`
+Snapshot ID: `AAAAAOmaqE/76B/1alwzZF723rNmhZ29`

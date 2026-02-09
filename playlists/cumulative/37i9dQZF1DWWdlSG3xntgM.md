@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
 346 songs - 1 day 6 hr 12 min
 
@@ -14,7 +14,7 @@
 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 | 2026-01-31 |
 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 | 2024-01-05 | 2024-02-22 |
 | [Buc Tam Thu](https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 3:40 | 2024-03-12 | 2025-10-29 |
-| [Bài Ca Của Nàng](https://open.spotify.com/track/5hFR51zySvPMBRMNxiV6gQ) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Bài Ca Của Nàng](https://open.spotify.com/album/2kSVRv41pSQyIsS7VhTGYR) | 4:50 | 2025-05-02 | 2026-02-08 |
+| [Bài Ca Của Nàng](https://open.spotify.com/track/5hFR51zySvPMBRMNxiV6gQ) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Bài Ca Của Nàng](https://open.spotify.com/album/2kSVRv41pSQyIsS7VhTGYR) | 4:50 | 2025-05-02 |  |
 | [Bài Ca Tết Cho Em](https://open.spotify.com/track/1iVAdG4Fx00ydBCYym9NAY) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Thương Một Người Ở Xa \(Mưa Hồng 114\)](https://open.spotify.com/album/2PHPpYhbZCdXDWLQQXGCGl) | 4:19 | 2024-02-09 | 2024-02-22 |
 | [Bài Ca Tết Cho Em](https://open.spotify.com/track/2MzobamaNs3dRzhEU0A5ab) | [Phương Thùy](https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ) | [Phượng Yêu](https://open.spotify.com/album/5yKIn8OkAL3M4MyswLSwTR) | 4:26 | 2024-01-30 | 2024-02-09 |
 | [Bài Ca Tết Cho Em](https://open.spotify.com/track/5mtHRKVRdtkW7L4Ne2tnY0) | [Phương Thùy](https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ) | [Phượng Yêu](https://open.spotify.com/album/5GWvJBCbkinzhbLG9d4Ibj) | 4:26 | 2023-01-17 | 2024-01-31 |
@@ -46,7 +46,7 @@
 | [Chuyện Tình Lan Và Điệp](https://open.spotify.com/track/0H63IHW909FPUWWKpNpOd8) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/6kdSqWIpa70QrM9eojYdVS) | 6:02 | 2022-03-11 | 2023-06-17 |
 | [Chuyện Tình Lan Và Điệp \(feat\. Duy Luân\)](https://open.spotify.com/track/026XNgFJNHNPmojQIE5yhy) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x), [Duy Luân](https://open.spotify.com/artist/2sRxSNsEpwhHEeUw2HJO6h) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 6:02 | 2022-03-11 | 2022-10-03 |
 | [Chuyện Tình Người Đan Áo](https://open.spotify.com/track/3Q8AfOEUAuE5b0K6J1TI4t) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Chuyện Tình Người Đan Áo](https://open.spotify.com/album/4DTfk0pByjgs7lznB9daS0) | 5:55 | 2022-03-11 | 2022-07-23 |
-| [Chuyện tình đan áo](https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Dạ vũ Rumba bebop tango boston \- Thương trao về ....](https://open.spotify.com/album/0djedKa72vbntYPAHEF5V2) | 3:39 | 2025-06-03 | 2026-01-05 |
+| [Chuyện tình đan áo](https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Dạ vũ Rumba bebop tango boston \- Thương trao về ....](https://open.spotify.com/album/0djedKa72vbntYPAHEF5V2) | 3:39 | 2025-06-03 |  |
 | [Chút Kỉ Niệm Buồn](https://open.spotify.com/track/6kRCFicTfpHrOm8lcuKqQY) | [Khả Tú](https://open.spotify.com/artist/4icTNm7NAspqaHEg3sOQ92) | [Chút Kỉ Niệm Buồn](https://open.spotify.com/album/2x2YbZlQGxPoDzZ89nNdM0) | 4:59 | 2023-05-24 | 2023-08-08 |
 | [Chỉ Hai Đứa Mình](https://open.spotify.com/track/4IduE5TDLuPvg0YxmrRNAV) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 7:10 | 2023-10-06 | 2024-02-22 |
 | [Con Đương Xưa Em Đi](https://open.spotify.com/track/2zCHvO1CVTPjtPHlFFbDXE) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Người Xa Người](https://open.spotify.com/album/5C4MnF156Jw3gH1Z2nf7gq) | 4:16 | 2023-08-08 | 2023-11-16 |
@@ -86,11 +86,11 @@
 | [Hai Mua Mua](https://open.spotify.com/track/1BhDgPwf1ocaXzFWIfzZFN) | [Mỹ Huyền](https://open.spotify.com/artist/49XaufENFxa27swhjCgZdB) | [Dong Nhac Anh Bang: Mai Toi Di](https://open.spotify.com/album/3rD0IYBCTswvgRgCklLpeX) | 3:03 | 2025-02-06 | 2025-04-14 |
 | [Hai Sac Hoa Tigon](https://open.spotify.com/track/7su2RDJv3bxCxcHdml8Nds) | [Nhật Trường](https://open.spotify.com/artist/4jWP1rOO1J3sXq7dQAaEkA) | [Hai Sac Hoa Tigon](https://open.spotify.com/album/0Oxk0Dp5elEE2tHw44B9Vu) | 5:19 | 2024-03-11 | 2024-05-10 |
 | [Hai Vi Sao Lac](https://open.spotify.com/track/6qXIRHWkzCtEPERZGXO5C2) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:13 | 2024-05-27 | 2025-06-12 |
-| [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 | 2025-06-03 |  |
+| [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 | 2025-06-03 | 2026-02-09 |
 | [Hai Đứa Giận Nhau](https://open.spotify.com/track/5C8bpJ6lF7uUN6m7eH4OqB) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/5yqR0lOWsbgXwzRAyIPXVv) | 5:14 | 2024-03-11 | 2024-04-19 |
 | [Han Tinh](https://open.spotify.com/track/1iArXR3sWYHMASBzVtFdNx) | [Thiên Trang](https://open.spotify.com/artist/7zR1RF6IqZwR9CgCC3rXOl) | [Doi Bong](https://open.spotify.com/album/01uJIC5dLS9vKmquKHn5of) | 4:39 | 2025-05-02 | 2025-05-24 |
 | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/track/1Oza0WjJTZarmRU1nfpyQ1) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Hoa Lòng Anh Vẫn Tím](https://open.spotify.com/album/01FKRYpfJ2QQKu8bQFe9f9) | 5:39 | 2022-03-11 | 2024-05-19 |
-| [Hoa Mười Giờ](https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:58 | 2022-03-11 |  |
+| [Hoa Mười Giờ](https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:58 | 2022-03-11 | 2026-02-09 |
 | [Hoa No Ve Dem](https://open.spotify.com/track/2Pln9OJ1flDAG4EpYsRbvz) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 4:43 | 2024-05-27 | 2024-08-02 |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/14VmqyYNTn1fGtS2JiUCV7) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Không Bao Giờ Quên Anh](https://open.spotify.com/album/1uxJL4jDieeXnXQMVYg0MQ) | 6:45 | 2024-03-12 | 2024-06-07 |
 | [Hoa Nở Về Đêm](https://open.spotify.com/track/1bFwg8WMoDOtJ5qcFTgNC0) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Hình Ảnh Người Em Không Đợi](https://open.spotify.com/album/3tuuIOATJvx0kSJkUWy5pA) | 6:45 | 2024-02-09 | 2024-04-19 |

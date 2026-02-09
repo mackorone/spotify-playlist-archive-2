@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 206675,
+  "num_followers": 206756,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157913,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Ring Of Fire: The Best Of Johnny Cash",
         "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157913,
-      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
-      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -271,38 +271,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 238211,
-      "name": "Drunk Driving",
-      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 147721,
-      "name": "If They Come Lookin'",
-      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -323,6 +291,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 238211,
+      "name": "Drunk Driving",
+      "url": "https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Top Hat Crown & the Clapmaster's Son",
         "url": "https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 319227,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 147721,
+      "name": "If They Come Lookin'",
+      "url": "https://open.spotify.com/track/5TnEQex0PO8eVi1i6yDT7Q"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Dreaming My Dreams",
         "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 241320,
       "name": "Long White Line",
       "url": "https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -515,38 +515,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 335293,
-      "name": "Outlaw State Of Mind",
-      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Good Hearted Woman",
         "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
       },
@@ -563,34 +531,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 345120,
-      "name": "High Cost Of Living",
-      "url": "https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH"
+      "duration_ms": 335293,
+      "name": "Outlaw State Of Mind",
+      "url": "https://open.spotify.com/track/5WFJ17ke5ldHuM0X3J5ddz"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -611,6 +563,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -627,6 +595,38 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "High Top Mountain",
+        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 126466,
+      "name": "Life Ain't Fair and the World Is Mean",
+      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "The Ramblin' Man",
+        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 170166,
+      "name": "I'm a Ramblin' Man",
+      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -639,6 +639,42 @@
       "duration_ms": 216128,
       "name": "I Could Drive You Crazy",
       "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 345120,
+      "name": "High Cost Of Living",
+      "url": "https://open.spotify.com/track/73sWpECi7iZrcISLSRxuaH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -691,42 +727,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "The Ramblin' Man",
-        "url": "https://open.spotify.com/album/353z5yWoQlug84akazanpg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 170166,
-      "name": "I'm a Ramblin' Man",
-      "url": "https://open.spotify.com/track/24uwABPWPejBuvFL4tMkvD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "The Road Goes On Forever",
         "url": "https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l"
       },
@@ -755,6 +755,38 @@
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Take This Job And Shove It",
+        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Take This Job and Shove It",
+      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -791,38 +823,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Take This Job And Shove It",
-        "url": "https://open.spotify.com/album/6XK1mI9IEtrn6HmhPV86HI"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Take This Job and Shove It",
-      "url": "https://open.spotify.com/track/63CbvkHcX8VBn09CCcGDLQ"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
-      },
-      "artists": [
-        {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Texas Swagger",
         "url": "https://open.spotify.com/album/0H1ZkLgkghWqXCMloetCKr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 163699,
       "name": "Texas Swagger",
       "url": "https://open.spotify.com/track/41CGku4X9e0cu17XRrmZmz"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Straw in the Wind",
-        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 282293,
-      "name": "Straw in the Wind",
-      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
+      "duration_ms": 199400,
+      "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
+      "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Roadrunner!",
-        "url": "https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "You Ain\u2019t Gotta Die (To Be Dead To Me)",
-      "url": "https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Billy Joe Shaver",
         "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Straw in the Wind",
+        "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Straw in the Wind",
+      "url": "https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1223,6 +1223,38 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
+        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
+      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "White River",
+        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "White River",
+      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -1251,38 +1283,6 @@
       "duration_ms": 283146,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/6XHJItDN9BGgMmaAAdvMZ9"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "White River",
-        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "White River",
-      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
-        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 121400,
-      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
-      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
     },
     {
       "added_at": "2026-02-04 05:00:17",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,745 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,742 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 2 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
 | 3 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
-| 4 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
-| 5 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
+| 4 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
+| 5 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
 | 6 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
 | 7 | [Feeling On My Body](https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80) | [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Feeling On My Body](https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq) | 2:37 |
 | 8 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
 | 27 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |
 | 28 | [mil preguntas](https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Curita Para El Corazón](https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj) | 2:58 |
-| 29 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
-| 30 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 |
+| 29 | [BELIEVE](https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [BELIEVE](https://open.spotify.com/album/5J8oRtgQiIbku3Xmi7WIUJ) | 2:41 |
+| 30 | [Hard Pill](https://open.spotify.com/track/1MKBNca9hluUAqgsUV4qMG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Hard Pill](https://open.spotify.com/album/15PD9rnBxeUhFfA13qkXVO) | 3:19 |
 | 31 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 |
 | 32 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
 | 33 | [Dream Come True](https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Dream Come True](https://open.spotify.com/album/38tmkYP4ggGyNADbAL1iM3) | 2:57 |
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 43 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
 | 44 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
 | 45 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 |
-| 46 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
-| 47 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 |
+| 46 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 |
+| 47 | [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 |
 | 48 | [Love4Life](https://open.spotify.com/track/26guYLFX9jh5vNpHuhfiIp) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Love4Life](https://open.spotify.com/album/2kFAnmsfslBSfxxOfWo1Ju) | 3:28 |
 | 49 | [two shots in and sobbing](https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [two shots in and sobbing](https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7) | 3:44 |
 | 50 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 51 | [Bop It](https://open.spotify.com/track/3OQnNdlAiQeJsH8csOvnJA) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [KUNTOLOGY 101](https://open.spotify.com/album/7FtPWcRQufrdzoxr1TC5Fe) | 2:50 |
-| 52 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
-| 53 | [to each their dot](https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [to each their dot & This Morning I Am Born Again](https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L) | 3:06 |
-| 54 | [I Get This Feeling](https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz) | [Slaycey](https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq) | [I Get This Feeling](https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5) | 3:31 |
+| 52 | [to each their dot](https://open.spotify.com/track/11eKa0oyt1z0UxKCHm7X5k) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [to each their dot & This Morning I Am Born Again](https://open.spotify.com/album/6rK6Jcl92woyPMyECfN24L) | 3:06 |
+| 53 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 |
+| 54 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
 
 Snapshot ID: `AAAAALWS6FZDFuoBg2Tddp7y7dTWb6g9`

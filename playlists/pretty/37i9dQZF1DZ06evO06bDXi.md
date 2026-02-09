@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 
 > This is Itzhak Perlman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,715 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,718 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06bDXi.md) - [plain]
 | 49 | [Wieniawski: Violin Concerto No\. 2 in D Minor, Op\. 22: II\. Romance](https://open.spotify.com/track/7L1xznGaEsHrtGjqw6RfSK) | [Henryk Wieniawski](https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Seiji Ozawa](https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo) | [Wieniawski: Works for Violin](https://open.spotify.com/album/3GEpFadKYyhjGitI2szU1p) | 5:05 |
 | 50 | [Rieding: Violin Concerto in B Minor, Op\. 35: III\. Allegro moderato](https://open.spotify.com/track/7rRdxmennBB1z4dgv8k518) | [Oskar Rieding](https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Lawrence Foster](https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx), [The Juilliard Orchestra](https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ) | [Concertos from My Childhood](https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7) | 2:55 |
 
-Snapshot ID: `aYPdgAAAAADB8aLtZ8F2nKLXdnnAQVg7`
+Snapshot ID: `aYPdgAAAAAB2l2GjVDSxM0uYD51hYIUp`

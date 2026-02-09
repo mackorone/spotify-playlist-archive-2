@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 186082,
+  "num_followers": 186118,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
+        "name": "La Perla",
+        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 327096,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 373666,
       "name": "God Knows We Tried",
       "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
-        "name": "La Perla",
-        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 327096,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
     },
     {
       "added_at": "2026-01-09 05:00:43",

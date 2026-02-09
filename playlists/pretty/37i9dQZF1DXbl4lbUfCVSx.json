@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36166,
+  "num_followers": 36176,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
         "name": "JIJE'M",
         "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 316998,
       "name": "KOUPAB",
       "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
     },
     {
       "added_at": "2025-06-27 04:00:29",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2025-06-27 04:00:29",

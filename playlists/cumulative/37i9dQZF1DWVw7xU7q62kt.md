@@ -4,13 +4,13 @@
 
 > Beats with a flavour of Jazz.
 
-764 songs - 1 day 8 hr 42 min
+765 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [27](https://open.spotify.com/track/346Hiyp2wyMN08fl0z7t79) | [Jerk](https://open.spotify.com/artist/47fuoUqgL8n7eSQsSdaCQf) | [27](https://open.spotify.com/album/56hNC7GNHedAE0YRApsJXI) | 3:03 | 2024-03-08 | 2024-10-02 |
 | [2Am](https://open.spotify.com/track/6dUqAgH7Ea6fqQUWnaMOPE) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [2Am](https://open.spotify.com/album/3ZVitlJ8CbhRnGHcQpqxyy) | 2:29 | 2025-11-14 |  |
-| [360](https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [360](https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy) | 2:33 | 2025-09-12 |  |
+| [360](https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [360](https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy) | 2:33 | 2025-09-12 | 2026-02-09 |
 | [4:16am \(45\)](https://open.spotify.com/track/5GYgzN1P8vDy7BoqPOeQAi) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [30/108](https://open.spotify.com/album/3AJCY0q66jb1ItviCx4wnQ) | 2:33 | 2024-08-23 | 2025-04-12 |
 | [4AM](https://open.spotify.com/track/1NfA2flJzq8n6OOyu1bBhY) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [minimog](https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf) | [4AM](https://open.spotify.com/album/2o4kD6y4DZEYZy2MgXHNRI) | 1:42 | 2025-12-05 | 2026-01-15 |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2023-08-22 | 2024-09-07 |
@@ -349,6 +349,7 @@
 | [Levitation](https://open.spotify.com/track/317eNmnJ762BJIsfxIT6sO) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Levitation](https://open.spotify.com/album/2P6tjQhG0AMAD3lNm7GjMO) | 2:21 | 2025-01-10 |  |
 | [library](https://open.spotify.com/track/6KadekEsEQX4rvcqP9X84U) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Kofi Anonymous](https://open.spotify.com/artist/2xssjViTF8Zdd97DXXH0lI) | [library](https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB) | 2:00 | 2024-10-11 |  |
 | [Life Form](https://open.spotify.com/track/3YLFWYh5nsCBxIFUBPiEDa) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Life Form](https://open.spotify.com/album/1ndE30UkZA6eQhzlK7wyfM) | 3:14 | 2024-08-23 | 2025-09-13 |
+| [Lifted Life](https://open.spotify.com/track/0jLM3LFxwHzhD78xFuRFQh) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Lifted Life](https://open.spotify.com/album/2fy7gygQegOxgouQbQKO8C) | 1:47 | 2026-02-06 |  |
 | [Light Changes](https://open.spotify.com/track/6lDu71XHCahhK2Gc5vb4gW) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Light Changes](https://open.spotify.com/album/7jU1gXaiks9UYq3vbBSIF9) | 2:19 | 2025-09-12 |  |
 | [Light Mornings](https://open.spotify.com/track/1KwGjgj2KeSv2tNPPgd2WV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Like It Used To Be](https://open.spotify.com/album/0N1dFcbNuQRZlXykqGhqTe) | 1:45 | 2026-01-16 | 2026-02-07 |
 | [Lights](https://open.spotify.com/track/3UN61l5ZGaUAllaz8ZUpvV) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Lights](https://open.spotify.com/album/7z3BTqaVLEOZfcN7jTMV8k) | 1:58 | 2025-11-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Omar Camacho, Victor  Mendivil, Angel Almaguer y $HUPE en la tarima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,569 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,599 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 5 | [Kamikases](https://open.spotify.com/track/367AQ4EEMftrm0oesRkhPx) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Kamikases](https://open.spotify.com/album/6Pz47dQeF6LSCk0h4XAhOJ) | 1:32 |
 | 6 | [Locos On The Street](https://open.spotify.com/track/3CSW8lNRljB0rtQu1aNh4r) | [Kalako Parga Oficial](https://open.spotify.com/artist/65tKh5isRC3fRYblBAdHHt), [El Sapo Loko](https://open.spotify.com/artist/7xrSt9UR42ZT4AZeUWg9oi) | [Locos On The Street](https://open.spotify.com/album/1G7FDIePYknQpWQ79fg3H3) | 3:14 |
 | 7 | [Table Dance](https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Chino El Don](https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa) | [Table Dance](https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM) | 4:04 |
-| 8 | [Nintendo](https://open.spotify.com/track/0E03PVvYeOUM2bOJjEifxj) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Nintendo](https://open.spotify.com/album/5ZVuqaUwntzIGUpWNKetBe) | 3:06 |
+| 8 | [Nintendo](https://open.spotify.com/track/0E03PVvYeOUM2bOJjEifxj) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [MajesticB](https://open.spotify.com/artist/3NipeCEk2y7aywQmZoOzQa) | [Nintendo](https://open.spotify.com/album/5ZVuqaUwntzIGUpWNKetBe) | 3:06 |
 | 9 | [Contando](https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY) | [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn), [Julian Leyva](https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv) | [Contando](https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2) | 3:11 |
 | 10 | [La Vida No Perdona](https://open.spotify.com/track/4ALlm9Z2H8rpEZwCtNrWPg) | [Nodslie](https://open.spotify.com/artist/0lm7DZmUwzmsCvRwEWpBbs) | [La Vida No Perdona](https://open.spotify.com/album/0tKiypYQddBQIkF7SfXJaY) | 1:47 |
 | 11 | [PATRULLANDO](https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3) | [Luno](https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz), [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2), [El Primo](https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8), [LOBO66](https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo) | [PATRULLANDO](https://open.spotify.com/album/2jvInFAsVBwneGKRQ8Wjzu) | 3:07 |

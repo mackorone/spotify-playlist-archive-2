@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 648,243 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 648,378 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 43 | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/track/5SoyAxzmqc7yc1PdngMewL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Priscilla Alcantara](https://open.spotify.com/artist/63W02eshTwySpJjkeiMDEA) | [Tua Graça \(feat\. Priscilla Alcantara\)](https://open.spotify.com/album/0G6oHBDRbkuSr6JQNRkonP) | 4:59 |
 | 44 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
 | 45 | [Liberta\-Me de Mim](https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Liberta\-Me de Mim](https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y) | 7:09 |
-| 46 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
+| 46 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
 | 47 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
-| 48 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
+| 48 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
 | 49 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
 | 50 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
 | 51 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |

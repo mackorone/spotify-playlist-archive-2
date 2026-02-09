@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,360 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,358 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Astrakan Café \- 1](https://open.spotify.com/track/3w6Q4UYdUbAkwT4Plhh3Tp) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Astrakan Café](https://open.spotify.com/album/11AANoNamBHA1GwL2naAQb) | 3:15 |
 | 2 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |
 | 3 | [Kolaymi](https://open.spotify.com/track/3tT7GisdKZYPW1suW2GVqm) | [Brian Keane](https://open.spotify.com/artist/0YF3htY87UKOd5AOQwEuPh), [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Beyond The Sky](https://open.spotify.com/album/1hQroOWdQx1RXgmjIjrWtS) | 5:19 |
-| 4 | [Taqsîm Maqâm Nahâwând, pt\. 1](https://open.spotify.com/track/3Aqvm36X2KmymIJ6byjn03) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Taqâsîm \(Luth arabe, Arab Lute\)](https://open.spotify.com/album/3xTBWuj0y7B1XdVw4mGxMX) | 4:41 |
-| 5 | [Hijaz](https://open.spotify.com/track/0KZdkSChCmUrUP3m5nZ05A) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:18 |
+| 4 | [Hijaz](https://open.spotify.com/track/0KZdkSChCmUrUP3m5nZ05A) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:18 |
+| 5 | [Taqsîm Maqâm Nahâwând, pt\. 1](https://open.spotify.com/track/3Aqvm36X2KmymIJ6byjn03) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Taqâsîm \(Luth arabe, Arab Lute\)](https://open.spotify.com/album/3xTBWuj0y7B1XdVw4mGxMX) | 4:41 |
 | 6 | [Halfaouine](https://open.spotify.com/track/12QGmnEmcpgFajECmRfg6u) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 2:06 |
 | 7 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 8 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |

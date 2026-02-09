@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,050 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,144 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 86 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 |
 | 87 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 |
 | 88 | [Si Me Lo Pide Otra Vez](https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hay Mas de Mi](https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV) | 3:33 |
-| 89 | [Ahora \- Remasterizado 2017](https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:45 |
-| 90 | [MUJERIEGO](https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [MUJERIEGO](https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt) | 3:16 |
+| 89 | [MUJERIEGO](https://open.spotify.com/track/45EsIB5oG5gZMNpRsfo1ku) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [MUJERIEGO](https://open.spotify.com/album/28jEMEOFx4BFa7PnG7Pyvt) | 3:16 |
+| 90 | [Ahora \- Remasterizado 2017](https://open.spotify.com/track/6oyIWiKfcH3gjvLs9cV44t) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [180 Grados](https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn) | 3:45 |
 | 91 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
 | 92 | [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 |
 | 93 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
-| 94 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 |
-| 95 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
+| 94 | [Una Cartita](https://open.spotify.com/track/6vG53GzGUFjla9oiMq4TK3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Una Cartita](https://open.spotify.com/album/579lllA20Ok3w4rBAcaUDq) | 2:58 |
+| 95 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 |
 | 96 | [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 |
 | 97 | [Corazón De Madera](https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Corazón de Madera](https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj) | 2:33 |
 | 98 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 |
 | 99 | [Corazón](https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL) | [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Corazón](https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG) | 2:53 |
-| 100 | [Noche de Estrellas](https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Noche de Estrellas](https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r) | 3:08 |
+| 100 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 
 Snapshot ID: `AAAAABsidUwXk7rBjjK8H5YvbKFj2gwH`

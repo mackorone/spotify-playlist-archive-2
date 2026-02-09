@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 20530,
+  "num_followers": 20550,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,38 @@
     {
       "added_at": "2026-02-06 00:01:22",
       "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
+    },
+    {
+      "added_at": "2026-02-06 00:01:22",
+      "album": {
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "duration_ms": 181968,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
+    },
+    {
+      "added_at": "2026-02-06 00:01:22",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -143,38 +175,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2026-02-06 00:01:22",
-      "album": {
-        "name": "The Matter",
-        "url": "https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp"
-      },
-      "artists": [
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 181968,
-      "name": "The Matter",
-      "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
-    },
-    {
-      "added_at": "2026-02-06 00:01:22",
-      "album": {
-        "name": "Kakalika",
-        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 181581,
-      "name": "Kakalika",
-      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
       "added_at": "2026-02-06 00:01:22",
@@ -567,8 +567,8 @@
     {
       "added_at": "2026-02-06 00:01:22",
       "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
       "artists": [
         {
@@ -576,13 +576,13 @@
           "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-02-06 00:01:22",
@@ -655,8 +655,8 @@
     {
       "added_at": "2026-02-06 00:01:22",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
       "artists": [
         {
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         }
       ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2026-02-06 00:01:22",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-02-06 00:01:22",
       "album": {
+        "name": "SHINO",
+        "url": "https://open.spotify.com/album/2AsWpX2iv574sBU1aSsscw"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 146468,
+      "name": "SHINO",
+      "url": "https://open.spotify.com/track/3fFA0WjTKhmzUvZfs7oSMP"
+    },
+    {
+      "added_at": "2026-02-06 00:01:22",
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -847,46 +867,6 @@
     {
       "added_at": "2026-02-06 00:01:22",
       "album": {
-        "name": "Favourite Story",
-        "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Favourite Story",
-      "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
-    },
-    {
-      "added_at": "2026-02-06 00:01:22",
-      "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
-    },
-    {
-      "added_at": "2026-02-06 00:01:22",
-      "album": {
         "name": "TSOOBI (AKONOBA)",
         "url": "https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV"
       },
@@ -915,6 +895,46 @@
       "duration_ms": 226809,
       "name": "TSOOBI (AKONOBA)",
       "url": "https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR"
+    },
+    {
+      "added_at": "2026-02-06 00:01:22",
+      "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+    },
+    {
+      "added_at": "2026-02-06 00:01:22",
+      "album": {
+        "name": "Favourite Story",
+        "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Favourite Story",
+      "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
     },
     {
       "added_at": "2026-02-06 00:01:22",
@@ -951,26 +971,6 @@
       "duration_ms": 187428,
       "name": "Mine Alone",
       "url": "https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe"
-    },
-    {
-      "added_at": "2026-02-06 00:01:22",
-      "album": {
-        "name": "SHINO",
-        "url": "https://open.spotify.com/album/2AsWpX2iv574sBU1aSsscw"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 146468,
-      "name": "SHINO",
-      "url": "https://open.spotify.com/track/3fFA0WjTKhmzUvZfs7oSMP"
     },
     {
       "added_at": "2026-02-06 00:01:22",

@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 209480,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs"
@@ -7392,7 +7392,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 283809,
       "name": "Hindi Ako Mawawala",
       "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 326896,
       "name": "Ikaw Lang Patutunguhan",
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
@@ -12421,6 +12421,24 @@
     },
     {
       "album": {
+        "name": "The Loved One (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ro4baI6qQJeefppUAUoVw"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Multo (Stripped Down)",
+      "url": "https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn"
+    },
+    {
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
@@ -13774,7 +13792,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
@@ -15514,7 +15532,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 302608,
       "name": "Sa Bawat Sandali",
       "url": "https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp"
@@ -20088,7 +20106,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 337580,
       "name": "Waltz of Four Left Feet",
       "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"

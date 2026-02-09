@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 4243,
+  "num_followers": 1068,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Human Condition",
-        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 131618,
-      "name": "Human Condition",
-      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "i wanna",
         "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 139354,
       "name": "i wanna",
       "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Human Condition",
+        "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 131618,
+      "name": "Human Condition",
+      "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 131174,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 191684,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 131174,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "That's What They Wanted",
-        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 116832,
-      "name": "That's What They Wanted",
-      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 129090,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
+      },
+      "artists": [
+        {
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
+        }
+      ],
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+        "name": "Lady Luck EP",
+        "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
       },
       "artists": [
         {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
         }
       ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+      "duration_ms": 231925,
+      "name": "Solid Door",
+      "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Lady Luck EP",
-        "url": "https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24"
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
       "artists": [
         {
-          "name": "Nature TV",
-          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
         }
       ],
-      "duration_ms": 231925,
-      "name": "Solid Door",
-      "url": "https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo"
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2025-05-01 22:27:23",

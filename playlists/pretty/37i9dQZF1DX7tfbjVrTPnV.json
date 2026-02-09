@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 234361,
+  "num_followers": 234386,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 275969,
-      "name": "Do I Look Worried",
-      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 275969,
+      "name": "Do I Look Worried",
+      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Out Among The Stars",
-        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Out Among the Stars",
-      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "West",
         "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+        "name": "Out Among The Stars",
+        "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+      "duration_ms": 181720,
+      "name": "Out Among the Stars",
+      "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -615,18 +599,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
-        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 255533,
-      "name": "Johnson Blvd",
-      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -643,6 +627,22 @@
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
+        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Johnson Blvd",
+      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Carter Girl",
         "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 318160,
       "name": "Troublesome Waters",
       "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Little Black Train",
+      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "In Spite of Ourselves",
         "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 213600,
       "name": "In Spite of Ourselves (feat. Iris DeMent)",
       "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Little Black Train",
-      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1839,6 +1839,22 @@
       "duration_ms": 156426,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
       "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1879,22 +1895,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Traveling Alone (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Time (The Revelator)",
         "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
@@ -1907,6 +1907,22 @@
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Traveling Alone (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3Vb6O2QNaM9JOGQIchjgdw"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/5xHKErgmLzIqY6qQcsZRKW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1963,22 +1979,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -1991,22 +1991,6 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Transendental Blues",
-        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "The Galway Girl",
-      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "Transendental Blues",
+        "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 185133,
+      "name": "The Galway Girl",
+      "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2059,6 +2043,22 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/6DQEBTXpcoAH4M6wHZVPFN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-08-30 04:00:00",

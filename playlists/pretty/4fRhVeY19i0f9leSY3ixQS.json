@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALAzbXBIuWLgAU+bNzc46cyCHQFzcJ",
+  "snapshot_id": "AAALBuH2Zwxpgihg27t0jbCnSg+qYwGS",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -1287,26 +1287,6 @@
       "duration_ms": 217590,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM"
-    },
-    {
-      "added_at": "2026-01-08 23:06:50",
-      "album": {
-        "name": "The Burnout",
-        "url": "https://open.spotify.com/album/3H4J9Xww7YO7PAbduf5wsM"
-      },
-      "artists": [
-        {
-          "name": "Tektula",
-          "url": "https://open.spotify.com/artist/5xYYP8RoqR5BMVeKeBphRL"
-        },
-        {
-          "name": "Eric Castiglia",
-          "url": "https://open.spotify.com/artist/6vGC6bQvCeRHHXp9JB4JRj"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "In the Sky - Alternative Version",
-      "url": "https://open.spotify.com/track/3soq0AmD76sidxqaFgJVHk"
     },
     {
       "added_at": "2025-11-20 11:02:56",
@@ -4855,6 +4835,38 @@
       "duration_ms": 195806,
       "name": "Do You Hear The People Scream?",
       "url": "https://open.spotify.com/track/5HiSejXfZK5xBQEDwL43l4"
+    },
+    {
+      "added_at": "2026-02-08 11:50:19",
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu"
+      },
+      "artists": [
+        {
+          "name": "GLDN",
+          "url": "https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq"
+    },
+    {
+      "added_at": "2026-02-08 11:50:40",
+      "album": {
+        "name": "Insert Coin (Player Two)",
+        "url": "https://open.spotify.com/album/2Aoc8JePOX9yNc3nHtjldr"
+      },
+      "artists": [
+        {
+          "name": "2DieFor",
+          "url": "https://open.spotify.com/artist/7ktontuidnJoXRyiM8maQd"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Running from myself",
+      "url": "https://open.spotify.com/track/4WyzBv3U5zg7rJorAiwnRi"
     }
   ],
   "unique_name": "Shuffle Roulette",

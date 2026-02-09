@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,465 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,470 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 |
 | 50 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 |
 
-Snapshot ID: `aYPdgAAAAAB2E7DosoALRjmXvF3/emN7`
+Snapshot ID: `aYPdgAAAAABi8zwd4+XGpjzAQnsbILp1`

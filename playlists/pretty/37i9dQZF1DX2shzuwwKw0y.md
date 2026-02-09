@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Luis R Conriquez, Neton Vega, Rey Quinto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,458,011 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,458,003 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [Hoy Me La Pelan](https://open.spotify.com/track/5wUQg88seGQen2Jifa2Ld6) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Hoy Me La Pelan](https://open.spotify.com/album/2F3y7e9oyfl2tLUQeTPyab) | 2:53 |
 | 75 | [Cuadrada](https://open.spotify.com/track/3o0DuDMPL1xsUeTb3UZC4G) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [Cuadrada](https://open.spotify.com/album/6WXDZOvtSZYgT2vzfzrGU1) | 2:43 |
 
-Snapshot ID: `AAAAANaXA6TEh8M+KJHPZVX5prFC3UIA`
+Snapshot ID: `AAAAAAIjRtPrPpYlh7mZmtRmtlunX2aF`

@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-239 songs - 15 hr 41 min
+240 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [La Empanadita](https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 3:50 | 2024-07-12 |  |
 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 | 2021-12-16 | 2024-04-19 |
 | [La Lira](https://open.spotify.com/track/5iQLKcB8MT3TcgBk1qFscs) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 3:28 | 2021-12-16 | 2023-05-27 |
-| [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 | 2024-07-12 |  |
+| [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 | 2024-07-12 | 2026-02-09 |
 | [La Marcha del Pato](https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 4:08 | 2024-04-06 |  |
 | [La Muy Indigna](https://open.spotify.com/track/3lVg1gybSX9ltUDga4joCD) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 4:01 | 2024-04-06 |  |
 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 | 2021-12-16 | 2023-07-30 |
@@ -133,6 +133,7 @@
 | [La Parabólica](https://open.spotify.com/track/7vOIqGT5cobBn6ouLwp3ul) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 8\)](https://open.spotify.com/album/0f6vzMOGPjkmXrk5yboync) | 3:25 | 2021-12-16 | 2024-04-19 |
 | [La Quiero Más](https://open.spotify.com/track/5rx9dwFBBqjR9xc1cn5iWW) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO), [Éder Ortega](https://open.spotify.com/artist/10F9S7qIt4XGUIovk8wuqZ) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:46 | 2024-04-06 |  |
 | [La Rebelion](https://open.spotify.com/track/6gecMuiiRAhutKqrYc9WDq) | [CHARİZXRD](https://open.spotify.com/artist/02H9qgkOVmmM94uQGFXnDM), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX), [hitcon5](https://open.spotify.com/artist/3O46F3OarviZBHkZyOEOd5) | [La Rebelion](https://open.spotify.com/album/3eIVxbbbqzZZ43ceV9sufi) | 6:16 | 2021-12-16 | 2024-02-04 |
+| [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 | 2024-07-12 |  |
 | [La Rebelion](https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7) | [racheasf](https://open.spotify.com/artist/0T5yGVoz20dIrgI3vDRR0B), [417se](https://open.spotify.com/artist/7Mb2dSVTpyUEzfeUo4MK0s), [firatsamsi](https://open.spotify.com/artist/3dPhaGKUO2J5ndA2GUOWpX) | [La Rebelion](https://open.spotify.com/album/5ZoirXVZUdjIMzxlKfggVC) | 6:16 | 2021-12-16 | 2024-04-19 |
 | [La Sirena](https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:45 | 2021-12-16 | 2024-04-19 |
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2021-12-16 | 2023-09-10 |

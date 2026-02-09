@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-814 songs - 1 day 14 hr 35 min
+815 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Give U](https://open.spotify.com/track/5wjTaDHumqCrhhZVK1ign5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [King Carsley](https://open.spotify.com/artist/7fj63M0dam8Ydp9TUrXrkZ) | [Give U](https://open.spotify.com/album/2mxQrdagZVtcd1RDWJF0fb) | 2:32 | 2025-12-19 | 2026-01-15 |
 | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-30 | 2025-06-07 |
 | [Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Crazy](https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y) | 2:14 | 2025-07-04 |  |
-| [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 | 2025-10-03 |  |
+| [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 | 2025-10-03 | 2026-02-09 |
 | [Go Hard](https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Disconnect + Go Hard](https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu) | 2:33 | 2023-11-28 | 2024-06-15 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-15 | 2024-04-12 |
 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 | 2022-11-15 | 2022-12-03 |
@@ -739,6 +739,7 @@
 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 | 2025-07-18 | 2025-09-11 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-11-21 |
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2023-08-10 | 2024-06-28 |
+| [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-06 |  |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 | 2024-06-28 |
 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 | 2023-03-18 | 2024-07-06 |
 | [This Must Be Love](https://open.spotify.com/track/6lzjtQ9vuE1Co8ZGTRPFrk) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [This Must Be Love](https://open.spotify.com/album/2puepVbk23pphHzm5cqyEy) | 2:30 | 2023-11-24 | 2023-12-02 |

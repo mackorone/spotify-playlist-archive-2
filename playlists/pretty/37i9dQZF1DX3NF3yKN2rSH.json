@@ -771,26 +771,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Healing - Live In Detroit (with Vision)",
         "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 467130,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 123426,
+      "name": "For the Love of the People",
+      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "He Lives",
         "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Conqueror",
-        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 123426,
-      "name": "For the Love of the People",
-      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
+        "name": "Motown Gospel: 20 Years/20 Hits",
+        "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
       },
       "artists": [
         {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
         }
       ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
+      "duration_ms": 245301,
+      "name": "Glorify Him",
+      "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Motown Gospel: 20 Years/20 Hits",
-        "url": "https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG"
+        "name": "Another Chapter, Psalms 51",
+        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
       },
       "artists": [
         {
-          "name": "Darwin Hobbs",
-          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+          "name": "Parkes Stewart",
+          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
         }
       ],
-      "duration_ms": 245301,
-      "name": "Glorify Him",
-      "url": "https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF"
+      "duration_ms": 356179,
+      "name": "He Loves Me",
+      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
     },
     {
       "added_at": "2025-04-06 05:34:41",

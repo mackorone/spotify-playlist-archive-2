@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano. Lunay en portada",
-  "num_followers": 209347,
+  "num_followers": 209386,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADhz2MXu43KJLHuJ4YM/o9zlhhZz",
+  "snapshot_id": "AAAAACSXI7FC0ScAKX/APZ5Szse32om9",
   "tracks": [
     {
       "added_at": "2026-01-23 06:00:08",
@@ -251,6 +251,26 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "mi refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 159404,
+      "name": "mi refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -271,22 +291,26 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "mi refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+        "name": "DEPORTIVO",
+        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
       },
       "artists": [
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
           "name": "Ovy On The Drums",
           "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 159404,
-      "name": "mi refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+      "duration_ms": 218701,
+      "name": "DEPORTIVO",
+      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -391,30 +415,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "DEPORTIVO",
-        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 218701,
-      "name": "DEPORTIVO",
-      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "30 Mil Pies",
         "url": "https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU"
       },
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "Ultra Complicado (feat. Sebas) [Remix]",
         "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "LA PANTERA NEGRA (DELUXE)",
         "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Carita Angelikal",
-      "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "ADIVINO",
         "url": "https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Carita Angelikal",
+      "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 139576,
       "name": "TE DESEO LO MEJOR",
       "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "sobelove",
-        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 131827,
-      "name": "sobelove",
-      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "sobelove",
+        "url": "https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 131827,
+      "name": "sobelove",
+      "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 173529,
       "name": "i miss you",
       "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Angelito",
-        "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Bad Milk",
-          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
-        }
-      ],
-      "duration_ms": 227513,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -1351,6 +1327,30 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "duration_ms": 227513,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
@@ -1367,6 +1367,30 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "Si Me Dices Que S\u00ed",
+        "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 211651,
+      "name": "Si Me Dices Que S\u00ed",
+      "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1395,26 +1419,26 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "Si Me Dices Que S\u00ed",
-        "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
+        "name": "SQ (W Sound 04)",
+        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 211651,
-      "name": "Si Me Dices Que S\u00ed",
-      "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+      "duration_ms": 153402,
+      "name": "SQ - W Sound 04",
+      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1447,30 +1471,6 @@
       "duration_ms": 175631,
       "name": "Magia",
       "url": "https://open.spotify.com/track/03HmTwrG2zX0EAXMnMKaPB"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "SQ (W Sound 04)",
-        "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
-      },
-      "artists": [
-        {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "SQ - W Sound 04",
-      "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "ESPACIO",
-        "url": "https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J"
+        "name": "KORAZONG",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 172857,
-      "name": "ESPACIO",
-      "url": "https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw"
+      "duration_ms": 174048,
+      "name": "KORAZONG",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1547,22 +1543,6 @@
       "duration_ms": 200943,
       "name": "tu nama",
       "url": "https://open.spotify.com/track/0qxoRhNPVJAZhqH9olE86G"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "KORAZONG",
-        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "KORAZONG",
-      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
+        "name": "ESPACIO",
+        "url": "https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "ESPACIO",
+      "url": "https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "ALOH ALOH",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 136571,
+      "name": "ALOH ALOH",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "ALOH ALOH",
-        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 136571,
-      "name": "ALOH ALOH",
-      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "CU\u00c1L NOSOTROS",
-        "url": "https://open.spotify.com/album/2BwYpORlB5jVQguE6VMomC"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 164280,
-      "name": "CU\u00c1L NOSOTROS",
-      "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "CU\u00c1L NOSOTROS",
+        "url": "https://open.spotify.com/album/2BwYpORlB5jVQguE6VMomC"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 164280,
+      "name": "CU\u00c1L NOSOTROS",
+      "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
     },
     {
       "added_at": "2026-01-23 06:00:08",
@@ -1859,42 +1859,6 @@
     {
       "added_at": "2026-01-23 06:00:08",
       "album": {
-        "name": "AyMami",
-        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "AyMami",
-      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
-        "name": "Me Muevo Con Dios",
-        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
-      },
-      "artists": [
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 180374,
-      "name": "Movezz en silencio",
-      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
-    },
-    {
-      "added_at": "2026-01-23 06:00:08",
-      "album": {
         "name": "COCO LOCO",
         "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
@@ -1927,6 +1891,42 @@
       "duration_ms": 228017,
       "name": "RS6",
       "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "AyMami",
+        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "AyMami",
+      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
+    },
+    {
+      "added_at": "2026-01-23 06:00:08",
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
     },
     {
       "added_at": "2026-01-23 06:00:08",

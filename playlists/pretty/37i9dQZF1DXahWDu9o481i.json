@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 66798,
+  "num_followers": 66834,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Como Es Que Se Hace",
-        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Como Es Que Se Hace",
-      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Como Es Que Se Hace",
+        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Como Es Que Se Hace",
+      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
         "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
         "url": "https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 207079,
       "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
       "url": "https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "Into My Life (feat. Joyce Sims)",
-        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
-      },
-      "artists": [
-        {
-          "name": "Cam Stockman",
-          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
-        },
-        {
-          "name": "Joyce Sims",
-          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
-        }
-      ],
-      "duration_ms": 131299,
-      "name": "Into My Life (feat. Joyce Sims)",
-      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "cul-de-sac",
-        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
-      },
-      "artists": [
-        {
-          "name": "Maya J'an",
-          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
-        }
-      ],
-      "duration_ms": 196700,
-      "name": "cul-de-sac",
-      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Speakers Blowing",
         "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 221012,
       "name": "Speakers Blowing",
       "url": "https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Part 3",
         "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172324,
       "name": "IDB",
       "url": "https://open.spotify.com/track/0gqD0JnAOUzDq3WcpxbWYi"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Ants In My Room",
         "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 168919,
       "name": "Ants In My Room",
       "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Mononoke",
-        "url": "https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Richardson",
-          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
-        }
-      ],
-      "duration_ms": 207580,
-      "name": "Mononoke",
-      "url": "https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "GOLDSTAR",
         "url": "https://open.spotify.com/album/3WgNg4UjdpwWWyNQtjwZTY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199054,
       "name": "GOLDSTAR",
       "url": "https://open.spotify.com/track/3KQ3852yZqReDT9dbcbSU2"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Mononoke",
+        "url": "https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Richardson",
+          "url": "https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu"
+        }
+      ],
+      "duration_ms": 207580,
+      "name": "Mononoke",
+      "url": "https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr"
     },
     {
       "added_at": "2026-02-04 14:20:34",

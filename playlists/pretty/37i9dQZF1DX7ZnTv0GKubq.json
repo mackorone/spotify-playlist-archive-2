@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 373264,
+  "num_followers": 373263,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "hugo",
-        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 180723,
-      "name": "Speed Of Plight",
-      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 162920,
       "name": "Personal",
       "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 180723,
+      "name": "Speed Of Plight",
+      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
     },
     {
       "added_at": "2025-04-10 23:00:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "Give Up The Fear",
         "url": "https://open.spotify.com/album/3MS50q90DYesShrGsqAFve"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 159493,
       "name": "Give Up The Fear",
       "url": "https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": "2025-04-10 23:00:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 193171,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 193171,
+      "name": "Guess",
+      "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
     },
     {
       "added_at": "2025-04-10 23:00:09",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 222401,
+      "name": "Can't Get Out Of This Mood",
+      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -691,38 +707,6 @@
     {
       "added_at": "2025-04-10 23:00:09",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "Can't Get Out Of This Mood",
-      "url": "https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
-        "name": "White Tee / Long Walk",
-        "url": "https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT"
-      },
-      "artists": [
-        {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9"
-    },
-    {
-      "added_at": "2025-04-10 23:00:09",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "added_at": "2025-04-10 23:00:09",
+      "album": {
+        "name": "White Tee / Long Walk",
+        "url": "https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9"
     },
     {
       "added_at": "2025-04-10 23:00:09",

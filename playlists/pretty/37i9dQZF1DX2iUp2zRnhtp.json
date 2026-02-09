@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 194425,
+  "num_followers": 194426,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Man\u2019s Best Friend (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 232378,
       "name": "Such A Funny Way",
       "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -383,18 +399,18 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+      "duration_ms": 243667,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -415,18 +431,18 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 243667,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -543,18 +559,18 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -691,22 +707,6 @@
       "duration_ms": 170317,
       "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
+      },
+      "artists": [
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "duration_ms": 168298,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "Smutsiga Tankar",
         "url": "https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO"
-      },
-      "artists": [
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 168298,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "Helvete! (Spotify Singles)",
+        "url": "https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Helvete! - Spotify Singles",
+      "url": "https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 156035,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
-        "name": "Helvete! (Spotify Singles)",
-        "url": "https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Helvete! - Spotify Singles",
-      "url": "https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "in plain sight",
-        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "in plain sight",
-      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Store gutter gr\u00e5ter ikke",
-        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
+        "name": "in plain sight",
+        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 208366,
-      "name": "Store gutter gr\u00e5ter ikke",
-      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
+      "duration_ms": 145128,
+      "name": "in plain sight",
+      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1479,6 +1463,22 @@
       "duration_ms": 152923,
       "name": "H\u00c6?",
       "url": "https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Store gutter gr\u00e5ter ikke",
+        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 208366,
+      "name": "Store gutter gr\u00e5ter ikke",
+      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/0wzVgPQZQLrGj9MhkD6gMk"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        }
-      ],
-      "duration_ms": 133400,
-      "name": "The Room",
-      "url": "https://open.spotify.com/track/1X9wnBr0GtplOi4VuYsOAS"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Ps. Kanskje det g\u00e5r",
         "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 174793,
       "name": "Sjonglerer",
       "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/0wzVgPQZQLrGj9MhkD6gMk"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 133400,
+      "name": "The Room",
+      "url": "https://open.spotify.com/track/1X9wnBr0GtplOi4VuYsOAS"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "En Vakker Dag",
-        "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 150000,
-      "name": "En Vakker Dag",
-      "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
+      "duration_ms": 156800,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1935,6 +1935,22 @@
       "duration_ms": 139546,
       "name": "HARD",
       "url": "https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "En Vakker Dag",
+        "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "En Vakker Dag",
+      "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -1975,26 +1991,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Hvor mange ganger m\u00e5 jeg make it?",
-        "url": "https://open.spotify.com/album/1hZ9QwOWUVj0grPwCd4IWs"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Hvor mange ganger m\u00e5 jeg make it?",
-      "url": "https://open.spotify.com/track/0TMzSem4dRj3oSTK5FpHwR"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Sklir forbi",
         "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
       },
@@ -2011,6 +2007,26 @@
       "duration_ms": 184324,
       "name": "Sklir forbi",
       "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Hvor mange ganger m\u00e5 jeg make it?",
+        "url": "https://open.spotify.com/album/1hZ9QwOWUVj0grPwCd4IWs"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Hvor mange ganger m\u00e5 jeg make it?",
+      "url": "https://open.spotify.com/track/0TMzSem4dRj3oSTK5FpHwR"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2059,22 +2075,6 @@
       "duration_ms": 137160,
       "name": "If I'm So Bad",
       "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2271,6 +2271,26 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "Ok rosa blomst",
+        "url": "https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 167629,
+      "name": "Ok rosa blomst",
+      "url": "https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw"
       },
@@ -2323,22 +2343,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Prettyboy",
         "url": "https://open.spotify.com/album/0dXpThwRvtnZKJKRqyvVpP"
       },
@@ -2355,6 +2359,22 @@
       "duration_ms": 181641,
       "name": "Prettyboy",
       "url": "https://open.spotify.com/track/4VfUAnZvww92eqIOHCSuPT"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2495,26 +2515,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Ok rosa blomst",
-        "url": "https://open.spotify.com/album/00UJqG6lmeCBv6szfkCQOH"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 167629,
-      "name": "Ok rosa blomst",
-      "url": "https://open.spotify.com/track/6Ikx1jpMAfYLbsWQrJfsWd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Stay + Happy Ever After",
         "url": "https://open.spotify.com/album/0Cw5dNHIOJR5XCqcUgeT1D"
       },
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/0b9Rd4ncT5enRP5Ust9OOI"
-      },
-      "artists": [
-        {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/104eKHpLYOeVxw3joHrZnw"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 163915,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/0b9Rd4ncT5enRP5Ust9OOI"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/104eKHpLYOeVxw3joHrZnw"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2591,22 +2591,6 @@
       "duration_ms": 152700,
       "name": "Flammen",
       "url": "https://open.spotify.com/track/0ubXCRYr7obc4hUIRKNfXa"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
-        "name": "LYDEN AV BYEN",
-        "url": "https://open.spotify.com/album/3Vf1LvrYnFhn9RnvJWIXzA"
-      },
-      "artists": [
-        {
-          "name": "Rakkere",
-          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
-        }
-      ],
-      "duration_ms": 146037,
-      "name": "LYDEN AV BYEN",
-      "url": "https://open.spotify.com/track/7LdJjrjfic5eH0lrOqZMoP"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2647,6 +2631,22 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "LYDEN AV BYEN",
+        "url": "https://open.spotify.com/album/3Vf1LvrYnFhn9RnvJWIXzA"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "LYDEN AV BYEN",
+      "url": "https://open.spotify.com/track/7LdJjrjfic5eH0lrOqZMoP"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/2CMvDS3QKvYghNwzfWbAJL"
       },
@@ -2683,6 +2683,22 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
+        "name": "Din Standard",
+        "url": "https://open.spotify.com/album/6xH6LyHGWLfwDmySpuYOb8"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sellevoll",
+          "url": "https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Din Standard",
+      "url": "https://open.spotify.com/track/19S2BLkt4hWeqN0o847HuH"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
         "name": "Alle Kjenner Alle",
         "url": "https://open.spotify.com/album/193c6iWuamNnQ73j2XaU8g"
       },
@@ -2699,22 +2715,6 @@
       "duration_ms": 189787,
       "name": "Alle Kjenner Alle",
       "url": "https://open.spotify.com/track/37hIVpWLRIl6z5hL93MIqN"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
-        "name": "Din Standard",
-        "url": "https://open.spotify.com/album/6xH6LyHGWLfwDmySpuYOb8"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sellevoll",
-          "url": "https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Din Standard",
-      "url": "https://open.spotify.com/track/19S2BLkt4hWeqN0o847HuH"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/3AOok0HeD380cjflOK7ZXd"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/6j2vm2N9EsfzvG9JTd63Ii"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Meant2Be",
         "url": "https://open.spotify.com/album/5NWtkEhGJFFOPSn4mi8bS5"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 206836,
       "name": "Meant2Be",
       "url": "https://open.spotify.com/track/3841zePJnhIsQ3iBuZGgdD"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/3AOok0HeD380cjflOK7ZXd"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 163146,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/6j2vm2N9EsfzvG9JTd63Ii"
     },
     {
       "added_at": "2026-02-05 23:00:05",
@@ -3143,22 +3143,6 @@
     {
       "added_at": "2026-02-05 23:00:05",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
-    },
-    {
-      "added_at": "2026-02-05 23:00:05",
-      "album": {
         "name": "Verdens verste menneske",
         "url": "https://open.spotify.com/album/6rxA8pKCd3AhFe0NWCPHJG"
       },
@@ -3171,6 +3155,22 @@
       "duration_ms": 161600,
       "name": "Verdens verste menneske",
       "url": "https://open.spotify.com/track/7iqugpBZ2xq1UV6esP18Lr"
+    },
+    {
+      "added_at": "2026-02-05 23:00:05",
+      "album": {
+        "name": "Bl\u00e5\u00f6gd",
+        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "Bl\u00e5\u00f6gd",
+      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
     },
     {
       "added_at": "2026-02-05 23:00:05",

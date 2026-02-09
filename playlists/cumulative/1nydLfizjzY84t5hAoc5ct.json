@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Choice Blooms",
+        "url": "https://open.spotify.com/album/6plVIfUeOqZvVUjWSgova4"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Angola",
+      "url": "https://open.spotify.com/track/1bpVEpnOaAYkPvByKCmBXf"
+    },
+    {
+      "album": {
         "name": "Econoline",
         "url": "https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf"
       },
@@ -99,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Choice Blooms",
+        "url": "https://open.spotify.com/album/6plVIfUeOqZvVUjWSgova4"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "Apricot Tree",
+      "url": "https://open.spotify.com/track/25BqmDMjXSxGAgY6UHCDiv"
+    },
+    {
+      "album": {
         "name": "Are You Satisfied?",
         "url": "https://open.spotify.com/album/6k0grUQD7y9UxumSaX0pp7"
       },
@@ -110,7 +146,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 261370,
       "name": "Are You Satisfied?",
       "url": "https://open.spotify.com/track/3D9Dbubc334fzEbcu2h1pi"
@@ -150,7 +186,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "At Nathan's House",
       "url": "https://open.spotify.com/track/41etUdAj7MZz7x7s7VP3DS"
@@ -222,7 +258,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 210944,
       "name": "Beautiful Frankenstein",
       "url": "https://open.spotify.com/track/7r0iKylcYP9i5MWfprfM9G"
@@ -240,7 +276,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 424707,
       "name": "Before The Rain",
       "url": "https://open.spotify.com/track/3CpoowmropZND11bEzJbcU"
@@ -450,7 +486,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/1ksm0us4TgJ0yrKjD6qRJO"
@@ -548,7 +584,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 156734,
       "name": "closure",
       "url": "https://open.spotify.com/track/7u7h9iVQx5CUb7gljzDSU1"
@@ -946,7 +982,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 201666,
       "name": "Envision",
       "url": "https://open.spotify.com/track/2LBFvxmyUno7TG5Y3wqHqI"
@@ -1020,6 +1056,24 @@
       "duration_ms": 298285,
       "name": "Excess & Lewis Findlay)",
       "url": "https://open.spotify.com/track/0Itvhn3niERQXu4y0bDNVY"
+    },
+    {
+      "album": {
+        "name": "Fables",
+        "url": "https://open.spotify.com/album/5WdpNTaCyzuYPmYkfjsMK6"
+      },
+      "artists": [
+        {
+          "name": "Harry Miles-Watson",
+          "url": "https://open.spotify.com/artist/1LpNzV3qzrt2gEXNVZ3MwP"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188464,
+      "name": "Fables",
+      "url": "https://open.spotify.com/track/2rsylxMg1zRvbpIFu4CZjG"
     },
     {
       "album": {
@@ -1670,7 +1724,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 203564,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
@@ -1902,7 +1956,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 228504,
       "name": "Miniature Self",
       "url": "https://open.spotify.com/track/5LHfXS9EJuG8phOzcVLon6"
@@ -1942,7 +1996,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 215340,
       "name": "My Friend Slim",
       "url": "https://open.spotify.com/track/2APYbWnkaxWs9psqqGeU6H"
@@ -2032,7 +2086,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 254680,
       "name": "Parasite - Demo",
       "url": "https://open.spotify.com/track/2xbG1SeusBEXFgoHZztq82"
@@ -2090,6 +2144,24 @@
       "duration_ms": 188254,
       "name": "Play with My Ego",
       "url": "https://open.spotify.com/track/3G2VbE60uj5r1zFMOyqWYz"
+    },
+    {
+      "album": {
+        "name": "Pogo Agogo",
+        "url": "https://open.spotify.com/album/7eWzznbZeTb1374pahewwI"
+      },
+      "artists": [
+        {
+          "name": "The Overalls",
+          "url": "https://open.spotify.com/artist/1Hm6F2MUy7FOBB1dH16Djp"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136393,
+      "name": "Pogo Agogo",
+      "url": "https://open.spotify.com/track/1JTxdhmoYPrHzep2cKw7lU"
     },
     {
       "album": {
@@ -2198,7 +2270,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 253500,
       "name": "Ruminate",
       "url": "https://open.spotify.com/track/1nbAu0nIYnUuHPe8HV3vEh"
@@ -2306,7 +2378,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 136727,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/0HVvVxGh2gMKpJRgeSYmYp"
@@ -2450,7 +2522,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 278625,
       "name": "Summa",
       "url": "https://open.spotify.com/track/34PHwc6XsMuhUj2YULvW07"
@@ -2562,6 +2634,42 @@
       "duration_ms": 138376,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3"
+    },
+    {
+      "album": {
+        "name": "The Dreamer",
+        "url": "https://open.spotify.com/album/00O1ouk8SZeJAPHlTjiSf3"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200285,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/21GNvaS4AaXlsWAhpknOUE"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2gJcFPgjJdG6wYwfGPeC88"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
     },
     {
       "album": {
@@ -2808,6 +2916,24 @@
       "duration_ms": 246200,
       "name": "Where Did the Time Go",
       "url": "https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt"
+    },
+    {
+      "album": {
+        "name": "Wisdom Teeth",
+        "url": "https://open.spotify.com/album/3cpbQaJUmGN90jlRFsXQBt"
+      },
+      "artists": [
+        {
+          "name": "Harry Miles-Watson",
+          "url": "https://open.spotify.com/artist/1LpNzV3qzrt2gEXNVZ3MwP"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Wisdom Teeth",
+      "url": "https://open.spotify.com/track/0FIqTNitA2adXzOlJLts3o"
     },
     {
       "album": {

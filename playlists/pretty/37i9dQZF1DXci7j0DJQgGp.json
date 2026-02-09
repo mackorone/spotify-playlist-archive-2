@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1697458,
+  "num_followers": 1697344,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 254213,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 254213,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
+        "name": "Bed Head (Acoustic)",
+        "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 243456,
+      "name": "Bed Head - Acoustic",
+      "url": "https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
         "name": "Lemon [Feat. Sharon Van Etten]",
         "url": "https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
-        "name": "Bed Head (Acoustic)",
-        "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 243456,
-      "name": "Bed Head - Acoustic",
-      "url": "https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Bad Religion / A Pair Of Brown Eyes",
-        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "I Believe in You",
         "url": "https://open.spotify.com/album/7r4vwcfdbzyR1L2tHugI6G"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 249413,
       "name": "I Believe in You",
       "url": "https://open.spotify.com/track/0Ml7rd3x4n1CVqqqWa1OVj"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Bad Religion / A Pair Of Brown Eyes",
+        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Bad Religion",
+      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "Blindsided",
         "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
       "artists": [
         {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1447,6 +1431,22 @@
       "duration_ms": 224493,
       "name": "Joy'All",
       "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
         "name": "Eyez",
         "url": "https://open.spotify.com/album/5VEp6gMfKH8Spv3OaXvYD4"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
         "name": "Mad At Me",
         "url": "https://open.spotify.com/album/3jo28hZqatoB93dyt9nMQt"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 218800,
       "name": "Mad At Me",
       "url": "https://open.spotify.com/track/3wbXyVBbFXczjXcLL46GH4"
-    },
-    {
-      "added_at": "2026-01-26 17:30:01",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1615,6 +1599,22 @@
       "duration_ms": 250976,
       "name": "Sweet Lucy",
       "url": "https://open.spotify.com/track/567Df0jSPeshvSIpU5TEZ9"
+    },
+    {
+      "added_at": "2026-01-26 17:30:01",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2026-01-26 17:30:01",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-01-26 17:30:01",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

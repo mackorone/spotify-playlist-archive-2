@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Tiga & Boys Noize",
-  "num_followers": 268786,
+  "num_followers": 268803,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "COOK",
+        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 170243,
+      "name": "COOK",
+      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "COOK",
-        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 170243,
-      "name": "COOK",
-      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
-      },
-      "artists": [
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "909",
         "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
       },
@@ -1171,22 +1151,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
         },
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
         }
       ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1239,26 +1219,38 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         },
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 169098,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1279,6 +1271,30 @@
       "duration_ms": 233734,
       "name": "NO CAP",
       "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "CODEINE",
-        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 195000,
-      "name": "CODEINE",
-      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1419,6 +1415,26 @@
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "CODEINE",
+        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "CODEINE",
+      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1535,6 +1551,30 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "Hell Yeah (Feat. Waxmaster)",
+        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Parris Mitchell",
+          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
+        },
+        {
+          "name": "Waxmaster",
+          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Hell Yeah (Feat. Waxmaster)",
+      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "Greedy",
         "url": "https://open.spotify.com/album/4TupQBftGajUoFQrw9Z0CS"
       },
@@ -1579,46 +1619,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Hell Yeah (Feat. Waxmaster)",
-        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Parris Mitchell",
-          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
-        },
-        {
-          "name": "Waxmaster",
-          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Hell Yeah (Feat. Waxmaster)",
-      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Mind Dimension (Adam Sellouk Remix)",
         "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
       },
@@ -1635,6 +1635,26 @@
       "duration_ms": 219692,
       "name": "Mind Dimension - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1719,26 +1739,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -2175,26 +2195,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Off The Hook",
         "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
       },
@@ -2307,6 +2307,26 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "KODAK",
+        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "KODAK",
+      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -2451,26 +2471,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "KODAK",
-        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "KODAK",
-      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Lick It",
         "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
       },
@@ -2483,6 +2483,26 @@
       "duration_ms": 204695,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "Control Myself",
+        "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Control Myself",
+      "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -2523,22 +2543,18 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Control Myself",
-        "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
+        "name": "Bang That",
+        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
       "artists": [
         {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
         }
       ],
-      "duration_ms": 249545,
-      "name": "Control Myself",
-      "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
+      "duration_ms": 170898,
+      "name": "Bang That",
+      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -2559,22 +2575,6 @@
       "duration_ms": 192727,
       "name": "Lazarus Rise",
       "url": "https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Bang That",
-        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Bang That",
-      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
       "added_at": "2026-02-06 05:00:48",

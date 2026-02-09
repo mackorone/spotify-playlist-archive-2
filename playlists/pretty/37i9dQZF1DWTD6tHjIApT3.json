@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Furui Riho",
-  "num_followers": 134924,
+  "num_followers": 134922,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "Little Bouquet",
-        "url": "https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 251578,
-      "name": "Little Bouquet",
-      "url": "https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
         "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 193430,
       "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "Little Bouquet",
+        "url": "https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 251578,
+      "name": "Little Bouquet",
+      "url": "https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u65e5\u9670",
         "url": "https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
-        "url": "https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf"
+        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12"
       },
       "artists": [
         {
-          "name": "NANAOAKARI",
-          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 194933,
-      "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
-      "url": "https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"
+      "duration_ms": 210226,
+      "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -947,6 +931,22 @@
       "duration_ms": 199080,
       "name": "\u58f0\u306e\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/0N5YLuTIySy1APi9rmSGfj"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
+        "url": "https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf"
+      },
+      "artists": [
+        {
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "\u30e0\u30ea\u30e0\u30ea\u9032\u5316\u8ad6",
+      "url": "https://open.spotify.com/track/50palGbYA85jbX8y79aqRK"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "Share",
-        "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 237746,
-      "name": "Share",
-      "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "You Got This",
         "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "Goddess / Waterproof / Swamp",
-        "url": "https://open.spotify.com/album/664g5Wm5dsC1eMJ11FOrV6"
+        "name": "Share",
+        "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
         }
       ],
-      "duration_ms": 214824,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/6PDzZVxbuZHImcACGiaKLt"
+      "duration_ms": 237746,
+      "name": "Share",
+      "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1091,6 +1075,22 @@
       "duration_ms": 243533,
       "name": "Kissing the machine",
       "url": "https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "Goddess / Waterproof / Swamp",
+        "url": "https://open.spotify.com/album/664g5Wm5dsC1eMJ11FOrV6"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 214824,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/6PDzZVxbuZHImcACGiaKLt"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30b0\u30e9\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht"
-      },
-      "artists": [
-        {
-          "name": "Myuk",
-          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "\u30b0\u30e9\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
         "url": "https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/0Y6E8iONiviXsPqEPGzRsl"
+        "name": "\u30b0\u30e9\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
         }
       ],
-      "duration_ms": 281506,
-      "name": "\u611b",
-      "url": "https://open.spotify.com/track/7pdQLxJPGgPfv9yyUGTJ82"
+      "duration_ms": 210533,
+      "name": "\u30b0\u30e9\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
+        "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0Y6E8iONiviXsPqEPGzRsl"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 281506,
+      "name": "\u611b",
+      "url": "https://open.spotify.com/track/7pdQLxJPGgPfv9yyUGTJ82"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
         "name": "SALT AND PEPPER",
         "url": "https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30ed\u30fc\u30ba\u30d2\u30c3\u30d7\u30c6\u30a3\u30fc",
-        "url": "https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 192083,
-      "name": "\u30ed\u30fc\u30ba\u30d2\u30c3\u30d7\u30c6\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "\u221e",
         "url": "https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 237316,
       "name": "\u221e",
       "url": "https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "\u30ed\u30fc\u30ba\u30d2\u30c3\u30d7\u30c6\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "duration_ms": 192083,
+      "name": "\u30ed\u30fc\u30ba\u30d2\u30c3\u30d7\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
-        "url": "https://open.spotify.com/album/7ucHTv7k6HRCHXEZ2db7YB"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 307804,
-      "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
-      "url": "https://open.spotify.com/track/01sKD9SmQPM1rwN8Sc1cx5"
-    },
-    {
-      "added_at": "2026-02-03 17:12:05",
-      "album": {
         "name": "pink",
         "url": "https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
+        "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
+        "url": "https://open.spotify.com/album/7ucHTv7k6HRCHXEZ2db7YB"
       },
       "artists": [
         {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
         }
       ],
-      "duration_ms": 224812,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
+      "duration_ms": 307804,
+      "name": "\u5947\u8de1\u306e\u3088\u3046\u306a\u3053\u3068",
+      "url": "https://open.spotify.com/track/01sKD9SmQPM1rwN8Sc1cx5"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1487,6 +1471,22 @@
       "duration_ms": 225298,
       "name": "YOU",
       "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
+    },
+    {
+      "added_at": "2026-02-03 17:12:05",
+      "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68"
     },
     {
       "added_at": "2026-02-03 17:12:05",
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2026-02-03 17:12:05",
       "album": {
-        "name": "\u30e8\u30ed\u30e8\u30ed",
-        "url": "https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk"
+        "name": "\u541b\u306f",
+        "url": "https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn"
       },
       "artists": [
         {
-          "name": "\u306f\u3057\u30e1\u30ed",
-          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
-        },
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "Ms.OOJA",
+          "url": "https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp"
         }
       ],
-      "duration_ms": 155859,
-      "name": "\u30e8\u30ed\u30e8\u30ed",
-      "url": "https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW"
+      "duration_ms": 215000,
+      "name": "\u541b\u306f",
+      "url": "https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px"
     }
   ],
   "unique_name": "Women's Voice",

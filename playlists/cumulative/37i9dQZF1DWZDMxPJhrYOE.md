@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-936 songs - 2 day 0 hr 40 min
+937 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/track/025bOa1Ebil8W8NmqWVHgT) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/album/324wDlxoAQzh07mctH708A) | 2:53 | 2025-11-13 | 2025-11-28 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-03-23 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-13 |
-| [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 | 2026-01-15 |  |
+| [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 | 2026-01-15 | 2026-02-09 |
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-07-31 | 2024-08-04 |
 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 | 2025-07-31 | 2025-08-29 |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2025-01-24 | 2025-01-26 |
@@ -786,6 +786,7 @@
 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 | 2025-03-07 | 2025-06-06 |
 | [Sweet Oblivion](https://open.spotify.com/track/62ZeAQ8DHdCXJqPQVOTsKu) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Sweet Oblivion](https://open.spotify.com/album/07gvXUNtRMXI98Hf3dd118) | 2:15 | 2024-07-31 | 2024-10-09 |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-17 | 2025-08-12 |
+| [Sweet To Me](https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 4:17 | 2026-02-06 |  |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-16 | 2024-11-08 |
 | [Ta' Det Af](https://open.spotify.com/track/7o7vqAXas2beWU5aMNaQKV) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Ta' Det Af](https://open.spotify.com/album/2qAK5RmqAf0I9ObPRcNdpm) | 2:23 | 2025-09-04 | 2025-09-26 |
 | [Take It! Take It!](https://open.spotify.com/track/11Uoi1YLyhhhf8BgEpQ4dh) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Take It! Take It!](https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC) | 3:16 | 2025-05-22 | 2025-05-30 |

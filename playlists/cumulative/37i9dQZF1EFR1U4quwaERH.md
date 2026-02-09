@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 4 hr 35 min
+86 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 | 2026-02-06 |  |
 | [Grave](https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:11 | 2026-02-06 |  |
 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 | 2025-11-07 |  |
-| [Gut Punch](https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Gut Punch](https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn) | 3:08 | 2026-02-06 |  |
+| [Gut Punch](https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Gut Punch](https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn) | 3:08 | 2026-02-06 | 2026-02-09 |
+| [Gut Punch](https://open.spotify.com/track/6xKwBrNrYrudwor18Uw8fs) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Sunday Best](https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T) | 3:08 | 2026-02-08 |  |
 | [Habit](https://open.spotify.com/track/7FUfVAITU9rjBNh1AiFWZV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:26 | 2025-11-07 |  |
 | [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2025-11-07 |  |
 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 | 2026-02-07 |  |

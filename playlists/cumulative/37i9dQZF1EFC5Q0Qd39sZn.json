@@ -10337,6 +10337,24 @@
     },
     {
       "album": {
+        "name": "Music Speaks Louder Than Words",
+        "url": "https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270146,
+      "name": "There's Always Love",
+      "url": "https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk"
+    },
+    {
+      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },

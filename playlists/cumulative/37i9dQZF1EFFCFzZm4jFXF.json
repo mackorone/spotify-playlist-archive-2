@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Let It Out",
+        "url": "https://open.spotify.com/album/6dSjheN3FKEcEUJAKIVMz8"
+      },
+      "artists": [
+        {
+          "name": "ANIQUE",
+          "url": "https://open.spotify.com/artist/3vtjf6C3LPZf3ZwP07fczx"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177825,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/4AqZUWdxtzz03RPUY9MaEo"
+    },
+    {
+      "album": {
         "name": "Remember To Remember Me",
         "url": "https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk"
       },
@@ -2174,6 +2192,28 @@
       "duration_ms": 198600,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182686,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1Fb7WZxrXaws0NwEWZ6dV9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Iman Fandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,194 likes - 95 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,195 likes - 95 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 5 | [two days ago](https://open.spotify.com/track/3HAwGvTtQHvL29q66EH3qR) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN) | [two days ago](https://open.spotify.com/album/1o4fJeToLVPsDvH1NxJrxZ) | 2:37 |
 | 6 | [馬上HUAT來](https://open.spotify.com/track/4Y7SujoMkalk1FyimNEyjG) | [馬一朵](https://open.spotify.com/artist/3dVNBs2PljmNUkCexeKz1A), [Simonboy](https://open.spotify.com/artist/63pf3Hj9qGAzb9MTXCBlHO), [Tommy Wong](https://open.spotify.com/artist/4IybjQrdN4fNzvfufOX8tK) | [馬上HUAT來](https://open.spotify.com/album/1WLlnuQxG36U45VhGBmzRO) | 2:42 |
 | 7 | [CAHAYA EY YA](https://open.spotify.com/track/6m8OBnaMjhnfe5Ry6RRq6H) | [ahmadjohnson69](https://open.spotify.com/artist/1iGbKHye8DCbsfP8Yg29Lr) | [PULAU TENANG](https://open.spotify.com/album/5sYgEhTEOcQdmMsBz0bsHn) | 3:07 |
-| 8 | [MANIFESTASI \[REIMAGINASI\]](https://open.spotify.com/track/6wLwtFcqDIiwgU01KF4WiP) | [FITRAH](https://open.spotify.com/artist/4KNbtUcrafXtrBrCcF5DPC) | [MANIFESTASI \[REIMAGINASI\]](https://open.spotify.com/album/1GkgI1rhxicH8GmXlYffaC) | 3:51 |
+| 8 | [Manifestasi \[Reimaginasi\]](https://open.spotify.com/track/6wLwtFcqDIiwgU01KF4WiP) | [FITRAH](https://open.spotify.com/artist/4KNbtUcrafXtrBrCcF5DPC) | [Manifestasi \[Reimaginasi\]](https://open.spotify.com/album/1GkgI1rhxicH8GmXlYffaC) | 3:51 |
 | 9 | [Someday](https://open.spotify.com/track/2K5mXEFFi8hA1u0OGZcMaU) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Copium](https://open.spotify.com/album/1v9lR0ETkAyIX3eFFwsmXw) | 4:00 |
 | 10 | [Cruise Control](https://open.spotify.com/track/7hFTfseYJjG2Ul9WulhWrr) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Cruise Control](https://open.spotify.com/album/6UMlTRaAa8skjbkx56atCW) | 3:49 |
 | 11 | [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 |

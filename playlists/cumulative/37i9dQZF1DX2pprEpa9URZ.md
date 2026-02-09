@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-517 songs - 2 day 3 hr 2 min
+518 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Naja](https://open.spotify.com/track/0fOasAOL9nKlRuyVD6iufG) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/0LVxelKIxsFxQVhUf2co0n) | 9:02 | 2019-08-02\* | 2021-01-16 |
 | [Najura](https://open.spotify.com/track/0tqRKO3AOyESSp5RaZlj0d) | [Seth Schwarz](https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr) | [Melodies From The Dust EP](https://open.spotify.com/album/2MHoj0JYT9N4MbY7HLCFi5) | 7:30 | 2019-09-20 | 2020-03-29 |
 | [Napauken Feat\. Fruiterama](https://open.spotify.com/track/4CJtnJh0NhpDyBpCvh0Mff) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Fruiterama](https://open.spotify.com/artist/3kcNoqtw8cpeiZ5AjrSCZj) | [Zehna](https://open.spotify.com/album/4gWQQaN6oKa8D94c61sH01) | 6:13 | 2019-08-02\* | 2021-06-03 |
-| [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 | 2022-11-25 |  |
+| [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 | 2022-11-25 | 2026-02-09 |
 | [Neunivai \- Original Mix](https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2) | 4:21 | 2021-06-05 | 2022-04-26 |
 | [Next Stop Konstantinopel \- Andhim Remix](https://open.spotify.com/track/1Eh8rkibeycdqbmas7NZzJ) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Next Stop Konstantinopel](https://open.spotify.com/album/3yqOBuPFuBYQQyUaoSMMEv) | 6:19 | 2020-06-29 | 2020-09-26 |
 | [Ngoma \- Drummers Mix](https://open.spotify.com/track/0Yg5Qwr9X8g7ks9a5LjNcD) | [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Ngoma](https://open.spotify.com/album/1vib9RdSDj9ZLE5BuIa9FE) | 8:36 | 2019-08-02\* | 2020-05-02 |
@@ -396,6 +396,7 @@
 | [Râ](https://open.spotify.com/track/0lmGlz3i7uzNmvX19TESV6) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Râ](https://open.spotify.com/album/3ooKts6dI8nVDZ4gr3q4bh) | 9:04 | 2020-05-28 | 2021-01-27 |
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-09-15 |  |
 | [Sacred Piano \- Yoruba Soul Mix](https://open.spotify.com/track/1sOVUPxWkmLfGaYnEkdcFo) | [Ayala \(IT\)](https://open.spotify.com/artist/2h6ch162V2MEXLHgAyC0Q0), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Sacred \- Yoruba Soul Remixes](https://open.spotify.com/album/06RloGxZNtiPNLuR6cPjPj) | 6:30 | 2022-04-04 | 2022-04-18 |
+| [Salaam](https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Hiya](https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH) | [Salaam](https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX) | 4:46 | 2026-02-06 |  |
 | [Salda](https://open.spotify.com/track/0sbsOpPtIZAGtTPbEmpBhB) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mada](https://open.spotify.com/album/1NyyI2zT7vkxUGT6pJkzN1) | 7:14 | 2020-07-24 | 2020-11-21 |
 | [Samarkand](https://open.spotify.com/track/1acilPTS9wGa5MpBSyonPZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [ARVIII](https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ) | [Samarkand](https://open.spotify.com/album/7GI2B06iMtjtzt1pK6FtR2) | 2:21 | 2026-01-12 |  |
 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 | 2022-04-04 | 2026-02-08 |

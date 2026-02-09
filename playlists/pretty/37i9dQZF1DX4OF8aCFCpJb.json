@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71046,
+  "num_followers": 71050,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Allting ordnar sig",
+        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+      },
+      "artists": [
+        {
+          "name": "Achee Flips",
+          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+        },
+        {
+          "name": "Rob Bourne",
+          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Allting ordnar sig",
+      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Irie",
         "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 203065,
       "name": "Irie",
       "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "RONGO",
-        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
-      },
-      "artists": [
-        {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Vassaste kniven i l\u00e5dan",
-      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -455,22 +455,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Allting ordnar sig",
-        "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
+        "name": "RONGO",
+        "url": "https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I"
       },
       "artists": [
         {
-          "name": "Achee Flips",
-          "url": "https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT"
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
         },
         {
-          "name": "Rob Bourne",
-          "url": "https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC"
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Allting ordnar sig",
-      "url": "https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR"
+      "duration_ms": 214000,
+      "name": "Vassaste kniven i l\u00e5dan",
+      "url": "https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Min Tid",
-        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
+        "name": "Min Zina",
+        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
       },
       "artists": [
         {
-          "name": "Ras Cricket",
-          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
+          "name": "Alibrorsh",
+          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
         }
       ],
-      "duration_ms": 176744,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7"
+      "duration_ms": 196459,
+      "name": "Min Zina",
+      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Min Zina",
-        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
+        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
+        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
       },
       "artists": [
         {
-          "name": "Alibrorsh",
-          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 196459,
-      "name": "Min Zina",
-      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
+      "duration_ms": 194000,
+      "name": "Attityd",
+      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
-        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+        "name": "Min Tid",
+        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
       },
       "artists": [
         {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+          "name": "Ras Cricket",
+          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Attityd",
-      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+      "duration_ms": 176744,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "K\u00e4r Och Galen",
+        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "K\u00e4r Och Galen",
+      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Sweet Reggaemusik",
         "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 226063,
       "name": "Polisen sl\u00e5r",
       "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "K\u00e4r Och Galen",
-        "url": "https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "K\u00e4r Och Galen",
-      "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -799,22 +799,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "K\u00e4rlek & Verkan",
-        "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
+        "name": "Orginalo",
+        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
       "artists": [
         {
-          "name": "Efia Abu",
-          "url": "https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy"
-        },
-        {
-          "name": "Dr\u00f6mbandet",
-          "url": "https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 313346,
-      "name": "I mitt hj\u00e4rta d\u00e4r bor gud",
-      "url": "https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo"
+      "duration_ms": 186666,
+      "name": "Orginalo",
+      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -875,18 +871,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Orginalo",
-        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
+        "name": "K\u00e4rlek & Verkan",
+        "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "Efia Abu",
+          "url": "https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy"
+        },
+        {
+          "name": "Dr\u00f6mbandet",
+          "url": "https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orginalo",
-      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+      "duration_ms": 313346,
+      "name": "I mitt hj\u00e4rta d\u00e4r bor gud",
+      "url": "https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo"
     },
     {
       "added_at": "2024-06-24 11:19:01",

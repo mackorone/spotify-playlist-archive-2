@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,097 songs - 2 day 5 hr 50 min
+1,098 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Don Perignon](https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:09 | 2023-11-24 | 2023-11-28 |
 | [Don't Care](https://open.spotify.com/track/1t6yJs1WSeetp1OdFf9oHJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:11 | 2025-05-16 | 2025-09-09 |
 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 | 2025-06-27 | 2025-09-02 |
+| [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 |  |
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-10-13 | 2022-10-18 |
 | [Don’t Bother Me \(feat\. Monaky\)](https://open.spotify.com/track/4NGKfHySAPw7810jTT3cwC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Forever Getting It \(FGI\)](https://open.spotify.com/album/27qsscuTpkS5s9SkmCDRS3) | 2:29 | 2025-04-14 | 2025-06-22 |
 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 | 2024-05-31 | 2025-02-22 |
@@ -488,7 +489,7 @@
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-05-10 |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-07 | 2025-07-22 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2023-10-22 |
-| [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-30 |  |
+| [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-30 | 2026-02-09 |
 | [Ilashe](https://open.spotify.com/track/2oAPDAFs2RcNiHplulMB0N) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Talking Stage](https://open.spotify.com/album/7amAMf39Lmaha8xFfj67Cr) | 2:30 | 2024-06-21 | 2024-07-12 |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-04-19 | 2024-09-28 |
 | [Imagination](https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [In The Beginning](https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K) | 2:32 | 2024-09-27 | 2024-10-01 |

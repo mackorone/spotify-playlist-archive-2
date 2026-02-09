@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Metric
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,053 likes - 113 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,047 likes - 113 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

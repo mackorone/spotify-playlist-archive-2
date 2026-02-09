@@ -1,6 +1,6 @@
 {
   "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: The Black Keys",
-  "num_followers": 953528,
+  "num_followers": 953539,
   "original_name": "VOLUME",
   "owner": {
     "name": "Spotify",
@@ -1467,17 +1467,25 @@
     {
       "added_at": "2026-02-06 05:00:38",
       "album": {
-        "name": "WAP",
+        "name": "WAP (What a Predicament)",
         "url": "https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz"
       },
       "artists": [
         {
           "name": "The Claypool Lennon Delirium",
           "url": "https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b"
+        },
+        {
+          "name": "Les Claypool",
+          "url": "https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8"
+        },
+        {
+          "name": "Sean Ono Lennon",
+          "url": "https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m"
         }
       ],
       "duration_ms": 302080,
-      "name": "WAP",
+      "name": "WAP (What a Predicament)",
       "url": "https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU"
     },
     {

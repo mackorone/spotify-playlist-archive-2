@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-883 songs - 1 day 21 hr 32 min
+884 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-09-15 |
 | [recognize](https://open.spotify.com/track/6ezXpXqbGqIwxUuVBMpHTp) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 1:23 | 2022-07-14 | 2022-08-30 |
 | [Recovery](https://open.spotify.com/track/30ExC7bZ2Kfn6Vq3uuigaU) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Recovery](https://open.spotify.com/album/4x4RDCyzsUAIktzrYftG8D) | 2:36 | 2025-04-18 | 2025-05-30 |
-| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 |  |
+| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 | 2026-02-09 |
 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 | 2023-05-11 | 2023-06-03 |
 | [Ride On](https://open.spotify.com/track/1dbIKtqZKYf9Cd1NVj371b) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Ride On / Not There Yet](https://open.spotify.com/album/7uErdR5nk4QQ1bSXFS7J54) | 3:01 | 2025-07-11 | 2025-08-01 |
 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 | 2023-04-14 | 2023-08-11 |
@@ -704,6 +704,7 @@
 | [Smoke & Mirrors](https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Becoming Adomaa](https://open.spotify.com/album/5FDB8xeWw2e1Av5yiKOX4D) | 3:27 | 2022-11-18 | 2023-01-20 |
 | [So Dizzy So High](https://open.spotify.com/track/4iLm65EXAB13FG1fp8JSS3) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [jamie.](https://open.spotify.com/artist/4z9CjI5S486NxVYEf1H4Qz) | [So Dizzy So High](https://open.spotify.com/album/4UDf0aIXNVUHEgAw6ECpXj) | 3:06 | 2023-05-04 | 2023-05-27 |
 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-06-27 |  |
+| [So So Bad](https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [So So Bad](https://open.spotify.com/album/1dnglGb52CUqIgQhI0gOX2) | 2:43 | 2026-02-06 |  |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-08-11 |
 | [Sober](https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Sober](https://open.spotify.com/album/4G6vqNIAXxDABfUqwHkOu6) | 3:05 | 2023-05-26 | 2023-07-29 |
 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 | 2022-06-30 | 2022-08-30 |

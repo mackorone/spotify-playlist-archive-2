@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 513441,
+  "num_followers": 513487,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,34 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Rock Of The Westies (Remastered)",
-        "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
       },
       "artists": [
         {
           "name": "Elton John",
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
         }
       ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1023,34 +1035,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Honky Chateau (Remastered)",
-        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+        "name": "Rock Of The Westies (Remastered)",
+        "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
       },
       "artists": [
         {
           "name": "Elton John",
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
         }
       ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
-      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
     },
     {
       "added_at": "2024-06-03 14:45:23",

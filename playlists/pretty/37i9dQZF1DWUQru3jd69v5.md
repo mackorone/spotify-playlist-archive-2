@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Aira e Tony Boy in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,500 likes - 65 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,496 likes - 65 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 14 | [Eremita in Hermès](https://open.spotify.com/track/3H1ZhIJoeoTatBUaaPzb1d) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Eremita in Hermès](https://open.spotify.com/album/5IiZpTvIiMXqkQSZRAWD41) | 2:42 |
 | 15 | [VOLDEMORT](https://open.spotify.com/track/0AMDTiUh3S5niOi5PmimAu) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [VOLDEMORT](https://open.spotify.com/album/0v9CFUhNkPOqVZBbRXccw2) | 2:23 |
 | 16 | [VADEMECUM](https://open.spotify.com/track/3hEaGY9gTsGf2DqEOnHqfr) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [VADEMECUM](https://open.spotify.com/album/1LWytZ3CoyXl1h3GF8o0Yd) | 2:52 |
-| 17 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
+| 17 | [Coccodrillo Verde](https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Coccodrillo Verde](https://open.spotify.com/album/0AzVzCQuUAT2uuvy5sHZXe) | 2:07 |
 | 18 | [FLIP FLOP](https://open.spotify.com/track/65HCij9McdqrHcBn0Z3kMP) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [FLIP FLOP](https://open.spotify.com/album/2wVn148HhuZz6fSwX6CDdi) | 2:28 |
 | 19 | [terzo dito](https://open.spotify.com/track/4YrlQFFXnAcVCLliEqxYXW) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [terzo dito](https://open.spotify.com/album/2Mxmw2RXpJP5XjsQgq4SiT) | 1:55 |
 | 20 | [100 GRAMMI \(feat\. Lubi\)](https://open.spotify.com/track/201nf1PFAXvdWO78M7VzUg) | [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [CITOFONO](https://open.spotify.com/album/6ZQYaJ4H1a4WoW9ZuTHl0H) | 1:52 |

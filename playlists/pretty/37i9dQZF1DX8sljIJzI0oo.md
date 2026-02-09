@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > SAIKO & Tito El Bambino are bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,924,322 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,924,229 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

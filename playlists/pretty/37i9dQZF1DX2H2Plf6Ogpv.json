@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 33891,
+  "num_followers": 33895,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Stay Golden",
         "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ONE TULIP//",
-        "url": "https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "ONE TULIP//",
-      "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Speed Of Darkness",
         "url": "https://open.spotify.com/album/69JRRb97hIJIHMDqupL67Q"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 103669,
       "name": "shut up!",
       "url": "https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ONE TULIP//",
+        "url": "https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "ONE TULIP//",
+      "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -855,22 +871,6 @@
       "duration_ms": 176805,
       "name": "Cave In",
       "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
     },
     {
       "added_at": "2024-12-04 12:15:00",

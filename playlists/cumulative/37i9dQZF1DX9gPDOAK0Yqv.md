@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-850 songs - 2 day 15 hr 13 min
+851 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Into Dust](https://open.spotify.com/track/3Yosq67GSBqGVkPm3O3Iul) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [Into Dust](https://open.spotify.com/album/7ITggXxODRWOO3vhHM1EOA) | 3:16 | 2023-12-15 | 2024-06-07 |
 | [Intuition](https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Intuition](https://open.spotify.com/album/2kORg46W2CuossZxEm5qOO) | 3:23 | 2023-10-13 | 2024-07-13 |
 | [Io](https://open.spotify.com/track/5fFbgdPYMQR0mGrBUBN8eT) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Io](https://open.spotify.com/album/4ixBSm1M7HT8EdDWXN8Qoa) | 4:05 | 2023-04-07 | 2023-04-29 |
+| [Iron Core](https://open.spotify.com/track/4hDurlSciqr8HyfU098VyN) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Iron Core](https://open.spotify.com/album/7EYhN1e3khRvUXxpw0MV7z) | 2:28 | 2026-02-06 |  |
 | [Is Anyone There?](https://open.spotify.com/track/72KMAIU0XxUKsXblW2DRBC) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Is Anyone There?](https://open.spotify.com/album/40rSdIgEqjUTXcYbqer1rz) | 3:31 | 2025-08-08 | 2026-01-23 |
 | [It's All Good](https://open.spotify.com/track/6QqWR8fmdwG6rfgxwFHcrI) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [It's All Good](https://open.spotify.com/album/2auTyTFkBTYDIQwQKLz8l4) | 3:31 | 2023-12-08 | 2024-02-02 |
 | [Jai](https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [N1RVAAN](https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA) | [Jai](https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE) | 5:39 | 2023-12-08 | 2024-04-21 |
@@ -393,7 +394,7 @@
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-03-10 | 2023-05-13 |
 | [Kettle's Up \(feat\. Botan\)](https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Axelax](https://open.spotify.com/artist/7wZa9Z4NbFkrkY1OE2yFJ3), [Botan](https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f) | [Kettle's Up \(feat\. Botan\)](https://open.spotify.com/album/39UprVkF5Swl8mvaCBaurH) | 4:09 | 2024-03-07 | 2024-06-01 |
 | [Ketuvim \- Ae:ther Remix](https://open.spotify.com/track/2JSxvwyyxTh2c1YKa0kuTe) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Ketuvim \(Ae:ther Remix\)](https://open.spotify.com/album/1xPCM1ml3ZePp58ard2AQV) | 8:23 | 2022-11-23 | 2022-12-21 |
-| [Kick It \- Andrea Botez Remix](https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Kick It \(Andrea Botez Remix\)](https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p) | 3:25 | 2025-01-23 |  |
+| [Kick It \- Andrea Botez Remix](https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Kick It \(Andrea Botez Remix\)](https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p) | 3:25 | 2025-01-23 | 2026-02-09 |
 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 | 2023-03-21 | 2023-04-09 |
 | [KIDS \- Undercatt Remix](https://open.spotify.com/track/38AQsCtT6RScepHqFA43ds) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Neon Capital](https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J), [Undercatt](https://open.spotify.com/artist/5HRGFSrlJruRPZNPbsy57r) | [KIDS \(Undercatt Remix\)](https://open.spotify.com/album/22tXgkXXJKiJqPRM4K6FlG) | 5:39 | 2025-04-17 | 2025-06-06 |
 | [Kidz \- CamelPhat Remix](https://open.spotify.com/track/1DwHuuMEdvpKBNXMj7Dfbh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Kidz \(CamelPhat Remix\)](https://open.spotify.com/album/2AHhP5CKkUDQ5pHZfHDxSS) | 3:27 | 2025-01-23 | 2025-06-20 |

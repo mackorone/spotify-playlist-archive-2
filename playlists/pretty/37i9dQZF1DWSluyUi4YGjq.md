@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,497 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,553 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 124 | [Only Hinting](https://open.spotify.com/track/384DRIGzlohYZKWZ7wsNoC) | [Clinic Stars](https://open.spotify.com/artist/4RUvTFpJ6IZiKQYtQyOnXP) | [Only Hinting](https://open.spotify.com/album/6gntrFnPUZQXkSdrFBYUcc) | 5:39 |
 | 125 | [When Was Yesterday](https://open.spotify.com/track/19YEwfxQ7mu1ALZLjtGHzO) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [When Was Yesterday](https://open.spotify.com/album/7vybCWq15NFISbKRszab4j) | 2:32 |
 
-Snapshot ID: `AAAAAP2tOnhq1KWyYb19ejVmVywmHYV7`
+Snapshot ID: `AAAAAPhy7MuyJDAnaMbpJL0dkU7GSn/j`

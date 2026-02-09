@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,793 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,859 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

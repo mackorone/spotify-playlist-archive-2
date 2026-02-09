@@ -4,14 +4,14 @@
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-498 songs - 1 day 2 hr 31 min
+499 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2022-10-15 | 2023-10-19 |
 | [1000 Fois](https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Regalo](https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf) | 3:38 | 2022-02-07 | 2022-02-15 |
 | [23](https://open.spotify.com/track/3sZW7BbFHIG556Pha2oi8C) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [23](https://open.spotify.com/album/2PY9lJ3mff8gKIyGkhPhKo) | 2:20 | 2024-05-09 | 2024-06-07 |
-| [3achernakom](https://open.spotify.com/track/5bdI8l9c5iClhLmAaTfRRa) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [3achernakom](https://open.spotify.com/album/3BZvNuhPVZXmQqxvNh95qe) | 3:00 | 2026-01-26 |  |
+| [3achernakom](https://open.spotify.com/track/5bdI8l9c5iClhLmAaTfRRa) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [3achernakom](https://open.spotify.com/album/3BZvNuhPVZXmQqxvNh95qe) | 3:00 | 2026-01-26 | 2026-02-09 |
 | [3adi](https://open.spotify.com/track/7jy0frWv77uVBwLPdoEGl5) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:19 | 2023-01-01 | 2023-01-05 |
 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-13 | 2024-05-10 |
 | [3amarli Kasi](https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [3amarli Kasi](https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3) | 2:57 | 2022-01-11 | 2022-04-08 |
@@ -436,6 +436,7 @@
 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 | 2023-12-07 | 2023-12-15 |
 | [Te Amo](https://open.spotify.com/track/2vzkvVC45Q5zZQm6WWoyfB) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Te Amo](https://open.spotify.com/album/55tZQkSyOWHKFVjrn5dzU1) | 2:55 | 2021-12-25 | 2022-02-15 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-12 | 2024-04-16 |
+| [TGV](https://open.spotify.com/track/109qPdBVwQb4kHIm4xTQu0) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Alam](https://open.spotify.com/album/1GWdlug2gmT2vOiTI1Rlig) | 3:20 | 2026-02-08 |  |
 | [Thunes](https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [Thunes](https://open.spotify.com/album/4HA7CScPa22I7xf2eoaZsg) | 4:12 | 2025-11-02 | 2026-01-27 |
 | [TILL WE MEET AGAIN](https://open.spotify.com/track/3IcTApVclbIMFnxxeDVxag) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6U2c7rMdwV93aZe7T22rPP) | 4:51 | 2024-12-05 | 2024-12-22 |
 | [Tititi](https://open.spotify.com/track/1vGLrMcU3xPaaBQ204fAHX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:36 | 2023-06-08 | 2023-06-11 |

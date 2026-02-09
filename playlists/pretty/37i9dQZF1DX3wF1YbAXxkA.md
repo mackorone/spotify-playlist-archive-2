@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,663 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,675 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 41 | [VER KAÇ](https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [VER KAÇ](https://open.spotify.com/album/3JDWZAU8nvhdxeeCmsioDS) | 2:25 |
 | 42 | [Ancora, Ancora, Ancora](https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:45 |
 | 43 | [Can’t Walk Away](https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Can’t Walk Away](https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn) | 2:51 |
-| 44 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 |
-| 45 | [Cafuné](https://open.spotify.com/track/2VUx43mmxFTq3aTqB1D4x2) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:31 |
+| 44 | [Cafuné](https://open.spotify.com/track/2VUx43mmxFTq3aTqB1D4x2) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:31 |
+| 45 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 |
 | 46 | [King of Sweden](https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [King of Sweden](https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8) | 4:11 |
 | 47 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 |
 | 48 | [Vem](https://open.spotify.com/track/2Ga6DGCB9Lt5b8ls5UCSNp) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Vem](https://open.spotify.com/album/4DOhTRGHx7Y3xoIRgbFyAR) | 2:55 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 56 | [reason](https://open.spotify.com/track/3n26Ovng64RtXwmRzfn5fi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [TRUE MAGIC](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM) | 3:49 |
 | 57 | [MIKOTO \~SUN NO KUNI\~ \(feat\. Tsubaki & Awich\)](https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:58 |
 | 58 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
-| 59 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
-| 60 | [On Sight](https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Oh Hi Ali](https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ) | [The Flower That Knew](https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC) | 2:37 |
+| 59 | [On Sight](https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Oh Hi Ali](https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ) | [The Flower That Knew](https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC) | 2:37 |
+| 60 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
 | 61 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 62 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 |
 | 63 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |

@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
 
-1,008 songs - 2 day 0 hr 55 min
+1,009 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/track/7fLBVRu5GFS1QcodNGvPGW) | [Mangabey](https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD), [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [Attente Instable \(feat\. ALL MY COUSINS\)](https://open.spotify.com/album/7mTHaWSQ8B449zo5ORANUW) | 5:39 | 2025-02-14 | 2025-02-22 |
 | [August 10](https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:25 | 2024-03-21 | 2024-03-25 |
 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 | 2022-04-21 | 2022-10-29 |
+| [AYAP](https://open.spotify.com/track/75LVCF2Qw6LTO0CWZTYcbl) | [SPL Daddy](https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN), [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [AYAP](https://open.spotify.com/album/61hRMpzz0VWqk4gJIgngcK) | 2:49 | 2026-02-06 |  |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2025-08-26 |  |
 | [Baby Chill](https://open.spotify.com/track/6iukxcu5Y6aDNlWomndA3u) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Adam Halliday](https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh), [DYM](https://open.spotify.com/artist/61KTFeXqYuFlhCStFRnooT) | [Miles Away](https://open.spotify.com/album/33l7tBdwY7wEnVPG2kyekw) | 3:16 | 2022-02-03 | 2022-03-12 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-11 | 2022-02-25 |
@@ -599,7 +600,7 @@
 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 | 2024-03-01 | 2024-08-09 |
 | [Naija Babes](https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Naija Babes](https://open.spotify.com/album/7ntOCkGQmsuftndPLRGx26) | 2:18 | 2024-05-24 | 2024-09-13 |
 | [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-05-03 | 2025-03-07 |
-| [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2026-01-09 |  |
+| [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2026-01-09 | 2026-02-09 |
 | [Nang](https://open.spotify.com/track/4LAvLOhj0yCotjzB8xxmQc) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Jackuum](https://open.spotify.com/album/1WnI70R6AOPF4BdDJ6looG) | 3:05 | 2024-03-21 | 2024-03-25 |
 | [Nasa](https://open.spotify.com/track/5gcL42OzbwTHmP3aaDAo9v) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Nasa](https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM) | 4:04 | 2021-02-26 | 2022-04-01 |
 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 | 2023-08-17 | 2024-03-08 |

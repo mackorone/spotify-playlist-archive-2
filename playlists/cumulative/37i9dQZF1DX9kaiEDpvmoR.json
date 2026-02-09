@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200183,
+      "name": "D\u00e4r huden \u00e4r tunnast",
+      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
+    },
+    {
+      "album": {
         "name": "Alphabet City Songs (Lost and Found Album)",
         "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
@@ -3369,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "Honey Honey",
+        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+    },
+    {
+      "album": {
         "name": "Honom",
         "url": "https://open.spotify.com/album/3aPG2336pAa2tOP3zCrHD4"
       },
@@ -4414,7 +4450,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 225466,
       "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
       "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
@@ -6746,7 +6782,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 354600,
       "name": "Silverregn",
       "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"

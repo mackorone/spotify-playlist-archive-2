@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 93740,
+  "num_followers": 93747,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
-      },
-      "artists": [
-        {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
-        }
-      ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 213066,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "Black on Black",
-        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 140153,
-      "name": "Hot Damn",
-      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "Highway Will",
         "url": "https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193671,
       "name": "Highway Will",
       "url": "https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "Black on Black",
+        "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 140153,
+      "name": "Hot Damn",
+      "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
+      },
+      "artists": [
+        {
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 272493,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Stare At The Sun",
-        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
-      },
-      "artists": [
-        {
-          "name": "Duane Betts",
-          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
     },
     {
       "added_at": "2026-01-12 23:46:55",

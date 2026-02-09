@@ -4,7 +4,7 @@
 
 > 
 
-868 songs - 2 day 6 hr 45 min
+869 songs - 2 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [History On Repeat](https://open.spotify.com/track/2NIWSpOpWwKZZwHDlFgMw1) | [Chris Maragoth](https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3), [Cherry Summerfield](https://open.spotify.com/artist/1xEjdfTyvS2TjaAiKpMbxH) | [History On Repeat](https://open.spotify.com/album/5Ta8s3tprGwgTz4sysAUJY) | 3:02 | 2025-06-19 |  |
 | [Hole](https://open.spotify.com/track/1ozz61kxMHKeUN0RQuuDhQ) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Hole](https://open.spotify.com/album/2TYlfXyY9i2flQZvKA6aHF) | 4:06 | 2024-12-12 |  |
 | [Honor](https://open.spotify.com/track/1G8IHis0cjJsD0wiEwUjoZ) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V), [Illusion Maker](https://open.spotify.com/artist/6vFSS4a1U6Xd5PppowfNcv) | [Honor](https://open.spotify.com/album/7xukSKpt8eABewk1cK3wzu) | 3:17 | 2025-03-18 |  |
-| [Horse Girl](https://open.spotify.com/track/62zz5ZfxZvWsF8E0b4uhny) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Horse Girl](https://open.spotify.com/album/0MmFeFNx3EOalC6qPOWG9a) | 1:48 | 2025-10-25 |  |
+| [Horse Girl](https://open.spotify.com/track/62zz5ZfxZvWsF8E0b4uhny) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg) | [Horse Girl](https://open.spotify.com/album/0MmFeFNx3EOalC6qPOWG9a) | 1:48 | 2025-10-25 |  |
 | [How Clear \- remix](https://open.spotify.com/track/6ivcrJjhjaK7izJ6MoFHO8) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [How Clear \(remix\)](https://open.spotify.com/album/6GCFc0RLFGspXoVoEIzBFv) | 4:48 | 2026-02-07 |  |
 | [Howler](https://open.spotify.com/track/2h5RpF0qZfi7O5BdYJCReP) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Howler](https://open.spotify.com/album/7yruOAWGHJ7qswWn97d52u) | 3:29 | 2025-06-26 |  |
 | [Human Touch](https://open.spotify.com/track/6a8WOjBWaNkbnuCWjPHOOE) | [huch79](https://open.spotify.com/artist/6fMQ33yPUv5a6CHDEGKhd8) | [Human Touch](https://open.spotify.com/album/1GvLfzrvVI3ueu5ZEM8DjL) | 5:17 | 2026-02-07 |  |
@@ -667,6 +667,7 @@
 | [Spur of the Moment](https://open.spotify.com/track/03mD3frBW8OoknLYhtnf1L) | [Halcyon Hope](https://open.spotify.com/artist/4NSRFakKY1ZFd1cYMzlTzn) | [Spur of the Moment](https://open.spotify.com/album/3mSlFoSXt2TBmQw3J91e9X) | 3:04 | 2025-03-18 |  |
 | [Squabbles](https://open.spotify.com/track/1CvBST7guxLi0Y5jmxzfQs) | [JD](https://open.spotify.com/artist/5Lg7RoJ44wClpSQRlekSOB) | [Squabbles](https://open.spotify.com/album/1sq4QouZGEz9u1q0AZDT5s) | 4:58 | 2025-03-18 |  |
 | [St'Infami](https://open.spotify.com/track/70uAJbAMGGBes17gaZHWaD) | [Te In Eterno](https://open.spotify.com/artist/3yrnbpfwbD8yGy939iYwYe) | [Cuore Di Ghiaccio](https://open.spotify.com/album/4TP6SzVwVPc76LFNT0Zi0e) | 1:42 | 2025-04-29 |  |
+| [Stai pensando qualcosa?](https://open.spotify.com/track/1jnP9aTCGb3MQVDZlJXnbU) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Stai pensando qualcosa?](https://open.spotify.com/album/5sqYayw1qTZ0z2KTAkPRN7) | 2:56 | 2026-02-08 |  |
 | [STANCO](https://open.spotify.com/track/5RCLWyG6lChVkH5D96FcAY) | [Samuele Montecucco](https://open.spotify.com/artist/0W5Ne1PyrfTbqQyYKumlKF) | [STANCO](https://open.spotify.com/album/7CuI1hyVwzosWyVH7zTUKI) | 3:14 | 2025-08-03 |  |
 | [Stardust Bear Bazaar, Pt\. 2](https://open.spotify.com/track/7hr68ETME0f2BmKpZAbVeI) | [New Laconia](https://open.spotify.com/artist/02kLPBDw75Rx1ZdrJpYfFZ) | [Stardust Bear Bazaar, Pt\. 2](https://open.spotify.com/album/48I7WiNPsaVTcGkJKGpa67) | 3:05 | 2025-07-22 |  |
 | [Stargazer](https://open.spotify.com/track/3ZGqgVJrMdI3sthscdXcLi) | [Nebethet](https://open.spotify.com/artist/5W7S0dulGmySBERxegEpov) | [Nebethet](https://open.spotify.com/album/31ZLU1T3htfE4lnObSI0UJ) | 5:35 | 2025-02-05 |  |

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-430 songs - 19 hr 41 min
+431 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Fylleangst](https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Fylleangst](https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74) | 1:58 | 2022-07-21 | 2022-09-23 |
 | [FYRA SMÅ RAGGERS](https://open.spotify.com/track/4Q88dvSHO9YPcWPEl8zT7G) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [FYRA SMÅ RAGGERS](https://open.spotify.com/album/7rIDWlpobZ7ocbtHVSYGJg) | 1:41 | 2023-12-12 | 2024-02-15 |
 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 | 2023-01-26 | 2024-02-16 |
-| [Født i nord](https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Født i nord](https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K) | 2:36 | 2025-02-06 |  |
+| [Født i nord](https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Født i nord](https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K) | 2:36 | 2025-02-06 | 2026-02-09 |
 | [Født til å ragge](https://open.spotify.com/track/45GmUDEid9EZ6YA4nFjY0f) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Født til å ragge](https://open.spotify.com/album/3hHG7LGyNe2lgEsKhbFk9m) | 2:27 | 2021-12-16 | 2022-04-20 |
 | [Føle mæ fin](https://open.spotify.com/track/7CC3LKd5UVv9flkWrYjb20) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Føle mæ fin](https://open.spotify.com/album/2szD81SHJGBXR7VEUOcH0u) | 2:18 | 2024-08-15 | 2024-10-18 |
 | [Før det e ferdigt](https://open.spotify.com/track/4zFTvRuJAymjvlNyCJkLQZ) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Før det e ferdigt](https://open.spotify.com/album/4f1yJiltiDfBYImXgP40fm) | 2:41 | 2025-01-16 | 2025-03-28 |
@@ -183,6 +183,7 @@
 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 | 2021-12-16 | 2025-07-13 |
 | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hej, hallå \(Fylla banker på\)](https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi) | 2:17 | 2024-06-13 | 2025-09-06 |
 | [Hele hjertet](https://open.spotify.com/track/0ykoo0nO6HCM9cX1LIXBiV) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Hele hjertet](https://open.spotify.com/album/5QvXFGPfhZHr867hplevoX) | 3:17 | 2025-02-27 | 2025-03-28 |
+| [Hele natta](https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Hele natta](https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ) | 2:29 | 2026-02-05 |  |
 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 | 2023-03-30 |  |
 | [Helt til slutt](https://open.spotify.com/track/5CyQYGN0RmJRkql6qdyNMK) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Lekeland](https://open.spotify.com/artist/4WB8tsKNvtX2CtAs3lvLyZ), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Helt til slutt](https://open.spotify.com/album/7IhaD1xpp1iBIALvtD5mn7) | 2:09 | 2025-07-17 | 2025-10-17 |
 | [Hem Till Dig](https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Hem Till Dig](https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4) | 3:12 | 2021-12-16 | 2022-10-16 |

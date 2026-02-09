@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,625 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,621 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 17 | [Azul](https://open.spotify.com/track/6FAabpbqQbU8B4k78oux1m) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Azul](https://open.spotify.com/album/2RPr3q2h13RAgg08PiR1V4) | 2:48 |
 | 18 | [AMAReSÓ \- Ao Vivo Com Orquestra](https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [AMAReSÓ \(Ao Vivo Com Orquestra\)](https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i) | 3:00 |
 | 19 | [Não Quero Te Querer](https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Não Quero Te Querer](https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W) | 3:01 |
-| 20 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
-| 21 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
+| 20 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
+| 21 | [Tara](https://open.spotify.com/track/35DEkDOvU3fbYnW2B0AolJ) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Tara](https://open.spotify.com/album/3JAi6aRzjiIKMFg4YrpOkG) | 2:41 |
 | 22 | [Melô do Verão](https://open.spotify.com/track/7dDQ0y4ej5VqbzBESgqyvk) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [No Seu Radinho](https://open.spotify.com/album/0Yx6hgl8SSbfplO971ER2d) | 3:07 |
 | 23 | [Fundo do Poço](https://open.spotify.com/track/4Xj06V7cnMRgMsHDZasGC3) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 2:40 |
 | 24 | [Eu Fim, Você Início](https://open.spotify.com/track/2N6ubA2tA0P1fCaAaTMRbv) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [TANTAS FORMAS DE DIZER ADEUS](https://open.spotify.com/album/4YPY6oJnQiB8Lg3GoXgdqi) | 3:20 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Umami](https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 3:59 |
 | 28 | [Matar Saudade](https://open.spotify.com/track/63avrzRhhhKz0yrRKb6SKn) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Souvenir](https://open.spotify.com/album/1OBfikgKBcqn6pv5A0u0Pn) | 2:20 |
 | 29 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
-| 30 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
-| 31 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
+| 30 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
+| 31 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
 | 32 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 33 | [Meu Jeitinho](https://open.spotify.com/track/3WoloDzKRT7MRyG9zsrJDQ) | [Lavínia](https://open.spotify.com/artist/7jSbvI1XOWHkA17Ffo0DuR), [Tulipa Ruiz](https://open.spotify.com/artist/7GRkcltLRmVi6EMrtcPs4U) | [Meu Jeitinho](https://open.spotify.com/album/4zSCdIMdFp2rwYpEhJJ6db) | 2:30 |
 | 34 | [Doce, Dengosa, Polida](https://open.spotify.com/track/7DI5xc7pN13aS5eCgLgaal) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Doce, Dengosa, Polida](https://open.spotify.com/album/6TG5iKlkvX7kovXOo9shcN) | 3:24 |

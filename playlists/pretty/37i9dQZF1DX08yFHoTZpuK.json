@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 22668,
+  "num_followers": 22706,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -643,18 +643,22 @@
     {
       "added_at": "2026-01-23 10:07:20",
       "album": {
-        "name": "TRASHURE",
-        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
+        "name": "You Ain't My Friend",
+        "url": "https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl"
       },
       "artists": [
         {
           "name": "Shinichi Osawa",
           "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "RHYME",
+          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
         }
       ],
-      "duration_ms": 161300,
-      "name": "TRASHURE",
-      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
+      "duration_ms": 177386,
+      "name": "You Ain't My Friend",
+      "url": "https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l"
     },
     {
       "added_at": "2026-01-23 10:07:20",
@@ -727,22 +731,18 @@
     {
       "added_at": "2026-01-23 10:07:20",
       "album": {
-        "name": "You Ain't My Friend",
-        "url": "https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl"
+        "name": "TRASHURE",
+        "url": "https://open.spotify.com/album/2YDyOI32WjvZLSaFlOfn1U"
       },
       "artists": [
         {
           "name": "Shinichi Osawa",
           "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        },
-        {
-          "name": "RHYME",
-          "url": "https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ"
         }
       ],
-      "duration_ms": 177386,
-      "name": "You Ain't My Friend",
-      "url": "https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l"
+      "duration_ms": 161300,
+      "name": "TRASHURE",
+      "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
     },
     {
       "added_at": "2026-01-23 10:07:20",

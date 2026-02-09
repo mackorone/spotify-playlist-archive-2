@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,781 likes - 304 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,780 likes - 304 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 195 | [A Feeling](https://open.spotify.com/track/2HGSTRcTOUQns1oyyyfMwr) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:47 |
 | 196 | [Seattle](https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 |
 | 197 | [Novacane](https://open.spotify.com/track/3rditla7Kb4Sg9cibEdEdb) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Novacane](https://open.spotify.com/album/45gMPSPhEibGhKpN4FDNbM) | 2:54 |
-| 198 | [For The Gang](https://open.spotify.com/track/50XPnMwsX4UErXirkEqs4v) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:39 |
-| 199 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
+| 198 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
+| 199 | [For The Gang](https://open.spotify.com/track/50XPnMwsX4UErXirkEqs4v) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:39 |
 | 200 | [Let's Build \(feat\. Quavo\)](https://open.spotify.com/track/5lJHPJC0YUCpngW38H9T78) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:31 |
 | 201 | [Ways](https://open.spotify.com/track/5hEbP4TGH21HeaN42fR8zH) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 1:54 |
 | 202 | [Solteiras Shake](https://open.spotify.com/track/7dRLn6Fgj25i2jCb0YGhaK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:07 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 214 | [Ride With Shordie](https://open.spotify.com/track/1naMgvsd1NQQFXjY3UlrZz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 1:01 |
 | 215 | [Ahhhh Shit Gah Damn](https://open.spotify.com/track/4v5H9VnpVrH7YSkRzWo2Po) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Up All Night](https://open.spotify.com/album/7wkijuYzRl2NLikrxIKeIg) | 3:19 |
 | 216 | [Overseas](https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Overseas](https://open.spotify.com/album/5BFSJY7MZsHhMfJuJ5kg8e) | 3:05 |
-| 217 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
-| 218 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
+| 217 | [No Jewelry](https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:36 |
+| 218 | [Depend On Me \(feat\. Lil Tjay\)](https://open.spotify.com/track/0Ry4dvZkm8QR0wANziFIuo) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:31 |
 | 219 | [Don't Forget Me](https://open.spotify.com/track/54VfgEoBYuplzLH4gS7y7u) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:36 |
 | 220 | [What Type of Games](https://open.spotify.com/track/2u1ctOsUchwMbWd2kyDgfu) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [TANTRA](https://open.spotify.com/album/2m9d5jfphaM15b58uYYRcK) | 3:03 |
 | 221 | [Before The Checks \(feat\. Casey Veggies\)](https://open.spotify.com/track/53e92lm5ZHU0aeLmTzbMcu) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 3:44 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 303 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 304 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcJENAAAAAC8CatkxbtJk8HR3OCL3y/P`
+Snapshot ID: `AcJJ1AAAAACz8z25PKsKxxMDAZOl3gQ/`

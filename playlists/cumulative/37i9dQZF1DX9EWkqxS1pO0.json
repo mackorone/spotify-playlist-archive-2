@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 222000,
       "name": "Nefes Bile Alamazken",
       "url": "https://open.spotify.com/track/5zVdvafAOAPhu4onEnBnK3"
@@ -5754,6 +5754,24 @@
       "duration_ms": 182250,
       "name": "Yine Seni \u00d6zledim",
       "url": "https://open.spotify.com/track/4TeTaeB68MJFKE0SXSlsBj"
+    },
+    {
+      "album": {
+        "name": "Yine Sev Beni",
+        "url": "https://open.spotify.com/album/5PiB8dZbBkqSQITf0S23ep"
+      },
+      "artists": [
+        {
+          "name": "Olas\u0131",
+          "url": "https://open.spotify.com/artist/5Y5nsOXhMaTdm9VYTmuyth"
+        }
+      ],
+      "date_added": "2026-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198049,
+      "name": "Yine Sev Beni",
+      "url": "https://open.spotify.com/track/1c6a4A6SwKZiZouEqdQ6EI"
     },
     {
       "album": {

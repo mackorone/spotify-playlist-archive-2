@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80564,
+  "num_followers": 80571,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,30 @@
     {
       "added_at": "2026-02-05 23:00:01",
       "album": {
+        "name": "Kniven i hjertet",
+        "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Forsvarets Stabsmusikkorps",
+          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
+        }
+      ],
+      "duration_ms": 182316,
+      "name": "Kniven i hjertet",
+      "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -583,22 +607,6 @@
     {
       "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
-    },
-    {
-      "added_at": "2026-02-05 23:00:01",
-      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -611,6 +619,22 @@
       "duration_ms": 194506,
       "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
       "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2026-02-05 23:00:01",
@@ -651,30 +675,6 @@
     {
       "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "Kniven i hjertet",
-        "url": "https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        },
-        {
-          "name": "Forsvarets Stabsmusikkorps",
-          "url": "https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U"
-        }
-      ],
-      "duration_ms": 182316,
-      "name": "Kniven i hjertet",
-      "url": "https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6"
-    },
-    {
-      "added_at": "2026-02-05 23:00:01",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-05 23:00:01",
       "album": {
+        "name": "K\u00e6m va du?",
+        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Togsang",
+      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "added_at": "2026-02-05 23:00:01",
+      "album": {
         "name": "Ringdans",
         "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-02-05 23:00:01",
       "album": {
-        "name": "K\u00e6m va du?",
-        "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
         }
       ],
-      "duration_ms": 179533,
-      "name": "Togsang",
-      "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
     },
     {
       "added_at": "2026-02-05 23:00:01",
@@ -771,22 +787,6 @@
       "duration_ms": 214226,
       "name": "Ramler mot hverandre",
       "url": "https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW"
-    },
-    {
-      "added_at": "2026-02-05 23:00:01",
-      "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
     },
     {
       "added_at": "2026-02-05 23:00:01",

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Carolina Ross \ud83d\udcf8",
-  "num_followers": 366751,
+  "num_followers": 366767,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Mi Suerte Es Ser Mexicano",
+        "url": "https://open.spotify.com/album/6CFRm5Yl5Xs7AKfUs9l0sr"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 183168,
+      "name": "Vamos Tarde",
+      "url": "https://open.spotify.com/track/2U1OgtH2exZnlcPvcijznV"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Mi Eterno Amor Secreto",
         "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 232321,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Mi Suerte Es Ser Mexicano",
-        "url": "https://open.spotify.com/album/6CFRm5Yl5Xs7AKfUs9l0sr"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 183168,
-      "name": "Vamos Tarde",
-      "url": "https://open.spotify.com/track/2U1OgtH2exZnlcPvcijznV"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Cu\u00eddamela Bien",
+        "url": "https://open.spotify.com/album/4dJ1jkHv0md3zBVBRd1LtU"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 223442,
+      "name": "Cu\u00eddamela Bien",
+      "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
         "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 274696,
       "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Cu\u00eddamela Bien",
-        "url": "https://open.spotify.com/album/4dJ1jkHv0md3zBVBRd1LtU"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 223442,
-      "name": "Cu\u00eddamela Bien",
-      "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Para Que Seas Feliz",
-        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 182513,
-      "name": "Para Que Seas Feliz",
-      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 153216,
       "name": "Nadie Se Va Como Lleg\u00f3",
       "url": "https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Para Que Seas Feliz",
+        "url": "https://open.spotify.com/album/3iZXKhjO9HOdOwYYbGfwgV"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 182513,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/4ClLm8tLF70kv55pOdtHKQ"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -371,22 +371,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Amarte A La Medida",
-        "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
+        "name": "Malagradecido",
+        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         },
         {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 196416,
-      "name": "Amarte A La Medida",
-      "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
+      "duration_ms": 174133,
+      "name": "Malagradecido",
+      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -423,22 +423,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Malagradecido",
-        "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
+        "name": "Amarte A La Medida",
+        "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Malagradecido",
-      "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+      "duration_ms": 196416,
+      "name": "Amarte A La Medida",
+      "url": "https://open.spotify.com/track/2Fi1qapMrYHXPk8n3NfMTI"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
       },
       "artists": [
         {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
         }
       ],
-      "duration_ms": 160010,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
       },
       "artists": [
         {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
+      "duration_ms": 160010,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "La Nostalgia",
-        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149569,
-      "name": "\u2060Cuatro Caminos",
-      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "El Hombre Que Yo Amo",
         "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 235338,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "\u2060Cuatro Caminos",
+      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Popurr\u00ed LAS PALOMAS: Paloma Negra / Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/2yTsPPSAnsMjOO5bwOM343"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 228436,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
         "name": "Bailando De A Cart\u00f3n",
         "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Te Confirmo",
         "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 222130,
       "name": "Te Confirmo",
       "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
       "artists": [
         {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+      "duration_ms": 259144,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1043,22 +1059,6 @@
       "duration_ms": 165693,
       "name": "El Target",
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 259144,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
     },
     {
       "added_at": "2026-01-16 06:00:26",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-01-16 06:00:26",
       "album": {
-        "name": "Nadie Me Escribe La Vida",
-        "url": "https://open.spotify.com/album/100q2avXshpAXbj9djyoaz"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 174544,
-      "name": "La Desconocida",
-      "url": "https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4"
-    },
-    {
-      "added_at": "2026-01-16 06:00:26",
-      "album": {
         "name": "Juro Que Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 158600,
       "name": "Juro Que Nunca Volver\u00e9",
       "url": "https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr"
+    },
+    {
+      "added_at": "2026-01-16 06:00:26",
+      "album": {
+        "name": "Nadie Me Escribe La Vida",
+        "url": "https://open.spotify.com/album/100q2avXshpAXbj9djyoaz"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 174544,
+      "name": "La Desconocida",
+      "url": "https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4"
     },
     {
       "added_at": "2026-01-16 06:00:26",

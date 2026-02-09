@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 242985,
+  "num_followers": 243228,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Goodies (feat. Petey Pablo)",
-      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Ghetto Supastar",
         "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 261133,
       "name": "Ghetto Supastar (That is What You Are) (feat. Ol' Dirty Bastard & M\u00fda)",
       "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "No Holding Back",
+        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "R&B Hits",
         "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 268800,
       "name": "I Need a Girl (Pt. 1) [feat. Usher & Loon]",
       "url": "https://open.spotify.com/track/7lVNTXkI3cHFvcXiI8damb"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "No Holding Back",
-        "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 261800,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Eve-Olution",
         "url": "https://open.spotify.com/album/4hnjhj3GcyzUDatpKFHQVR"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 239266,
       "name": "Gangsta Lovin'",
       "url": "https://open.spotify.com/track/0WgLpgUdThEpA5L5K0SKq7"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/5rPzPAaOUceS8HiAculegz"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "U Don't Have to Call",
+      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Fantasy EP",
         "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 291355,
       "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
       "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "U Don't Have to Call",
-      "url": "https://open.spotify.com/track/5PCJldueshnwqQVjS16543"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Life After Death (Deluxe Version)",
         "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 253133,
       "name": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
       "url": "https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Pain Is Love (International Version)",
         "url": "https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 230053,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2024-07-15 07:37:26",

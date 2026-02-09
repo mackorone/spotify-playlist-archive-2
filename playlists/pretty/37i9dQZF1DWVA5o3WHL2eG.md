@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,582 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,817 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [un beso](https://open.spotify.com/track/4Vbl3B0am2Bbp2FkKs9dNB) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [un beso](https://open.spotify.com/album/1dimKyFHU3QqO0XtxOkq7q) | 2:18 |
 | 15 | [Immer wenn du gehst](https://open.spotify.com/track/6kvMuGJKY5xczfokFAwmOq) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [ELEMENT](https://open.spotify.com/album/6Q3kvhiztpcSFE2rW6wKVY) | 3:33 |
 | 16 | [tristesse](https://open.spotify.com/track/4aT7cdgeefPxRsMHL0prOs) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [tatendrang und todmüde](https://open.spotify.com/album/7pwvJVpn3pyRiWp01SKn2e) | 3:00 |
-| 17 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
-| 18 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
+| 17 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
+| 18 | [Wenn ich will](https://open.spotify.com/track/3lfcl9HogPQH41YKH4qGcM) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Wenn ich will](https://open.spotify.com/album/6hBhvvz8vnkRu0YY4HN0xI) | 1:58 |
 | 19 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
 | 20 | [CLAP](https://open.spotify.com/track/3ZPoQkH7yi4Igq18oJv3NQ) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [CLAP](https://open.spotify.com/album/3HoSChriQldtw4Jz6CP0aQ) | 2:06 |
 | 21 | [Papa](https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF) | [Rina](https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY) | [Papa](https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK) | 2:43 |

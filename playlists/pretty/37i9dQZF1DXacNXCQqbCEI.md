@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,081 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,069 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 38 | [La Que Es](https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE) | [Venezonix](https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6), [Betsayda Machado](https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k), [Parranda el Clavo](https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp) | [La Que Es](https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt) | 3:14 |
 | 39 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 |
 | 40 | [Ofelia \- Cerrero Dub Mix](https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m) | [Sexteto Tabala](https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Ofelia \(Cerrero Dub Mix\)](https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K) | 4:01 |
-| 41 | [Ultravioleta \- DJ Raff Remix](https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ultravioleta Remixes](https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM) | 4:47 |
-| 42 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
-| 43 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 |
-| 44 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:09 |
+| 41 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 42 | [Ultravioleta \- DJ Raff Remix](https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ultravioleta Remixes](https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM) | 4:47 |
+| 43 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:09 |
+| 44 | [Qué Bonito](https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad) | [Primo Son](https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb) | [Qué Bonito](https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp) | 3:46 |
 | 45 | [Purna Mantra](https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF) | [Manuela Mejia](https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK) | [Purna Mantra](https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp) | 6:46 |
 | 46 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 |
 | 47 | [A Lo Bien \- CERO39 rmx](https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Remixeado a Lo Bien](https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c) | 5:34 |

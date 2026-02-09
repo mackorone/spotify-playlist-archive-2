@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Sydney Rose & Tom Odell
 
-1,018 songs - 2 day 8 hr 1 min
+1,019 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-02-11 |
 | [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 | 2022-12-02 | 2023-02-01 |
 | [Georgia \- but you're sad and it's acoustic](https://open.spotify.com/track/4Ns7u6BCg4tIGQHjJYlmwG) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia \(but you're sad and it's acoustic\)](https://open.spotify.com/album/6GnDTWQNPhljIROO0OoshF) | 3:44 | 2023-02-10 | 2023-02-25 |
-| [GET OVER YOU](https://open.spotify.com/track/7nHpagU4k99UCyPHpoQxed) | [verygently](https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8) | [GET OVER YOU](https://open.spotify.com/album/0aeXEMVILAh4WASxANQ6Ec) | 3:46 | 2025-11-22 |  |
+| [GET OVER YOU](https://open.spotify.com/track/7nHpagU4k99UCyPHpoQxed) | [verygently](https://open.spotify.com/artist/6G76uCD9fXivb3G4OnnVG8) | [GET OVER YOU](https://open.spotify.com/album/0aeXEMVILAh4WASxANQ6Ec) | 3:46 | 2025-11-22 | 2026-02-09 |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-09-06 | 2025-02-24 |
 | [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 | 2022-07-15 | 2022-10-31 |
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-02 | 2024-09-14 |
@@ -531,6 +531,7 @@
 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 | 2023-08-04 | 2023-11-16 |
 | [Kryptonite](https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Kryptonite](https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0) | 3:03 | 2023-03-31 | 2023-09-07 |
 | [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-03-29 | 2024-04-13 |
+| [Last Drive](https://open.spotify.com/track/157KFG8lqxLxejMIwDsBl4) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Last Drive](https://open.spotify.com/album/5RVnL6sOTpER1bPK1iDNws) | 3:37 | 2026-02-06 |  |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-01-26 | 2026-01-06 |
 | [Last Time \- Acoustic](https://open.spotify.com/track/54u4wxyfvWnAIdSs0HIvsm) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time \(Acoustic\)](https://open.spotify.com/album/2DlqdE27WObFru19qf8fvU) | 3:43 | 2025-05-17 | 2025-12-20 |
 | [Last Train To London](https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 3:47 | 2023-03-03 | 2023-04-29 |

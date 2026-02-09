@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Time Will Make It Better",
+        "url": "https://open.spotify.com/album/3KScPmp6OltdnhV3WBEzHS"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240952,
+      "name": "Time Will Make It Better",
+      "url": "https://open.spotify.com/track/5noBsSN3xvlS8uR6UfMKT0"
+    },
+    {
+      "album": {
         "name": "Tragic, Really",
         "url": "https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq"
       },

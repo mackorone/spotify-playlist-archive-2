@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-138 songs - 7 hr 34 min
+140 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Kings](https://open.spotify.com/track/4trzAGt1kMSOku8AVoYYuo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Kings](https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF) | 3:05 | 2025-12-05 | 2026-01-26 |
 | [Learn To Let Go](https://open.spotify.com/track/0bkhYOTZjerRS8V6IzTwYP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Learn To Let Go](https://open.spotify.com/album/2plYHT0IWYG709H7dJyY14) | 3:30 | 2024-06-13 |  |
 | [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 | 2024-06-13 | 2025-01-10 |
+| [Let It Out](https://open.spotify.com/track/4AqZUWdxtzz03RPUY9MaEo) | [ANIQUE](https://open.spotify.com/artist/3vtjf6C3LPZf3ZwP07fczx) | [Let It Out](https://open.spotify.com/album/6dSjheN3FKEcEUJAKIVMz8) | 2:57 | 2026-02-08 |  |
 | [Light Up](https://open.spotify.com/track/4nwsFIIP3YmIVRpReo0JrC) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:04 | 2024-06-13 |  |
 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 | 2024-06-13 |  |
 | [Like I Do](https://open.spotify.com/track/2NHpE5U4QNOVCdVmY7FtSL) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Like I Do](https://open.spotify.com/album/6mr0iJfREskCb9S87Rfdgp) | 2:30 | 2024-06-13 |  |
@@ -120,6 +121,7 @@
 | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/track/7g8xeIDcQfN0j2WaLHKYxy) | [No Mondays](https://open.spotify.com/artist/7cSIDO4sCKFSTHP4Soan5t), [Haverklap](https://open.spotify.com/artist/2FhJxps0HPHf7Jwhi84Sig), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/album/6RMYulo6FcirlMOoTECJEt) | 3:09 | 2024-06-13 |  |
 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 | 2024-06-13 |  |
 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 | 2024-06-13 |  |
+| [Take Me Back](https://open.spotify.com/track/1Fb7WZxrXaws0NwEWZ6dV9) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [ODYSSEY](https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t) | 3:02 | 2026-02-08 |  |
 | [Tears from the Ice River](https://open.spotify.com/track/3riAEVASppsbo1wZBTvxmd) | [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg), [Zkaaai](https://open.spotify.com/artist/6RB2RIXIqFLubGeBD7u4gK) | [Tears from the Ice River](https://open.spotify.com/album/7uPdSeYHlYPhJmRPyGgC8P) | 2:41 | 2024-06-13 |  |
 | [Teenage Chemistry](https://open.spotify.com/track/3stuTXyPNlCcOLc9ErRZHb) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:47 | 2024-06-13 |  |
 | [Ten Times Worse](https://open.spotify.com/track/1Wh4f7xKkh2N2ZjbDGxh8W) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Ten Times Worse](https://open.spotify.com/album/06vgcnT21raqwPmL2CkNMM) | 2:32 | 2024-06-13 |  |

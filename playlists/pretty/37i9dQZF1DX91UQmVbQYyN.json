@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: AURORA",
-  "num_followers": 625387,
+  "num_followers": 625413,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Woo!",
-      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182335,
       "name": "If I Get To Meet You",
       "url": "https://open.spotify.com/track/14rNxRzrnsyqDZ8PRfV1k3"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Woo!",
+      "url": "https://open.spotify.com/track/2q3VZjLVCWbJq0rICML7va"
     },
     {
       "added_at": "2025-09-22 17:46:31",

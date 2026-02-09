@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-672 songs - 1 day 22 hr 32 min
+673 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [There You'll Be \(dal Film Pearl Harbour\)](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version \(MP3 Album\)](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 | 2024-07-10 | 2025-10-24 |
 | [There You'll Be \- From "Pearl Harbor"](https://open.spotify.com/track/6oUgoPi1HtRVhdxY76b5yG) | [Music Factory](https://open.spotify.com/artist/1QQ91J9Pmq7gVnjZmYoaD5) | [Top Love Super Hits](https://open.spotify.com/album/0LYhCp1OV7WNbENDomS0rJ) | 4:00 | 2025-11-27 | 2026-01-16 |
 | [There You'll Be \- From Pearl Harbor](https://open.spotify.com/track/1DyZlnrvzYCAjBOc6W8z3v) | [J.F\. Band](https://open.spotify.com/artist/7w5T5hY0evS3a3xQvNLSIC) | [Film In Love Collection Vol\. 1](https://open.spotify.com/album/1J4vXJZr4e3NTHmTiTvKlI) | 4:00 | 2025-10-23 |  |
+| [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 | 2026-02-08 |  |
 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 | 2023-12-30 |  |
 | [This Could Take All Night](https://open.spotify.com/track/1VfOrgBJKhvO1ivJ8u6hkf) | [Chris Emerson](https://open.spotify.com/artist/3wMMMz6nznx9XoTHjnOUgS) | [TOURIST](https://open.spotify.com/album/0spxXinrmiHGwjop4hxVIb) | 4:03 | 2024-07-10 |  |
 | [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 | 2025-06-20 |

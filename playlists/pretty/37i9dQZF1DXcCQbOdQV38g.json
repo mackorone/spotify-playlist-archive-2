@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59891,
+  "num_followers": 59892,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -203,8 +203,8 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Nooit Meer Voorbij",
-        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
       },
       "artists": [
         {
@@ -218,11 +218,15 @@
         {
           "name": "Brace",
           "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
         }
       ],
-      "duration_ms": 150741,
-      "name": "Nooit Meer Voorbij",
-      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
+      "duration_ms": 128014,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -311,8 +315,8 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
+        "name": "Nooit Meer Voorbij",
+        "url": "https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx"
       },
       "artists": [
         {
@@ -326,15 +330,11 @@
         {
           "name": "Brace",
           "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
-        },
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
         }
       ],
-      "duration_ms": 128014,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+      "duration_ms": 150741,
+      "name": "Nooit Meer Voorbij",
+      "url": "https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Levenslang",
-        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 224844,
-      "name": "Levenslang",
-      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Kadootje",
         "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 143362,
       "name": "Kadootje",
       "url": "https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Levenslang",
+        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 224844,
+      "name": "Levenslang",
+      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
     },
     {
       "added_at": "2026-02-03 23:00:20",

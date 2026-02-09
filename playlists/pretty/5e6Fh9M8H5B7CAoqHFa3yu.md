@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 255 likes - 1,927 songs - 4 day 19 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 256 likes - 1,929 songs - 4 day 19 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1935,5 +1935,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1925 | [Te Tīmatanga \(Te Aka\)](https://open.spotify.com/track/1XZNkzpGGZvVasGQa9wHCj) | [Toroa](https://open.spotify.com/artist/3s7ob7yKHjS7z0yb6dp9C7) | [Te Tīmatanga](https://open.spotify.com/album/5sznJKnLWxiGq04Y7R0Um1) | 7:37 |
 | 1926 | [Algo Contigo](https://open.spotify.com/track/04IYmx3hnHCW5N92NkxLdV) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/5kWG1PvuankLZD7qB0Y9YI) | 2:46 |
 | 1927 | [After Us](https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [After Us](https://open.spotify.com/album/3C6v5BaV8srOBwaNLh5FgF) | 2:52 |
+| 1928 | [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 |
+| 1929 | [Wasted Time](https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm) | 4:11 |
 
-Snapshot ID: `AAAIEKfr2ieYqbfNRk7l+MhJoQC8NavE`
+Snapshot ID: `AAAIEg5BWgZVVf2yKkIgpw2gR0AFfKZl`

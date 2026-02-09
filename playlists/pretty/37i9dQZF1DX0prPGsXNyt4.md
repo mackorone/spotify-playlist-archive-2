@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Kekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,740 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 35 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
 | 36 | [Calma, Bebê!](https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Calma, Bebê!](https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1) | 2:39 |
 | 37 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
-| 38 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 |
-| 39 | [Provocando](https://open.spotify.com/track/0PanANwAb7ojeeHjJJI4BG) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Provocando](https://open.spotify.com/album/4WuVhChDFRJCtY1FoJkazO) | 2:46 |
+| 38 | [Provocando](https://open.spotify.com/track/0PanANwAb7ojeeHjJJI4BG) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Provocando](https://open.spotify.com/album/4WuVhChDFRJCtY1FoJkazO) | 2:46 |
+| 39 | [Dá pra ser?](https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:56 |
 | 40 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 | 41 | [Mundo Pequeno](https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Mundo Pequeno](https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI) | 3:48 |
 | 42 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |

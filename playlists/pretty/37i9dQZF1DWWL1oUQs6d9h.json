@@ -1,6 +1,6 @@
 {
   "description": "\uba38\ub9bf\uc18d\uc740 \ubcf5\uc7a1\ud558\uc9c0\ub9cc, \uac89\uc73c\ub85c\ub294 \uce60 & \ucfe8\ud574\ubcf4\uc774\uace0 \uc2f6\uc744 \ub54c",
-  "num_followers": 15458,
+  "num_followers": 15472,
   "original_name": "act cool.",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-05 05:52:52",
       "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Cool With You",
-      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
-    },
-    {
-      "added_at": "2026-02-05 05:52:52",
-      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 194760,
       "name": "GO BABY",
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
+    },
+    {
+      "added_at": "2026-02-05 05:52:52",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
     },
     {
       "added_at": "2026-02-05 05:52:52",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-05 05:52:52",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "peach eyes",
-      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
-    },
-    {
-      "added_at": "2026-02-05 05:52:52",
-      "album": {
         "name": "The Juice: Vol. II",
         "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 215386,
       "name": "West Coast Love",
       "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
+    },
+    {
+      "added_at": "2026-02-05 05:52:52",
+      "album": {
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "peach eyes",
+      "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
     },
     {
       "added_at": "2026-02-05 05:52:52",

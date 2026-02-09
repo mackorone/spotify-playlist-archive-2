@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 133 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 133 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 20 | [J'Adore Paris](https://open.spotify.com/track/4rNcWJSlUIw8QqWgOifjLd) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:05 |
 | 21 | [Somebody New](https://open.spotify.com/track/5RzgwtW8nAjqfhjIvgLe6e) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Somebody New](https://open.spotify.com/album/3PzmHBqGIozqs3HTrKOvDS) | 2:57 |
 | 22 | [A.N.G.E.L](https://open.spotify.com/track/3CMP2UkqnH4Uss8xYsJiQe) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Wake Up World](https://open.spotify.com/album/50ae3iNe0P4HV5c2PLn9XX) | 3:14 |
-| 23 | [Chasing Highs](https://open.spotify.com/track/4iRug4QLFFFhk7phV0ajzY) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 3](https://open.spotify.com/album/7FCRaYlQdUlnObamBLMSkR) | 3:35 |
-| 24 | [Half a Heart](https://open.spotify.com/track/22EHZTTJE7otfnV4nH7O4L) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [7](https://open.spotify.com/album/4b1teRyaSUaoDSRWdyz8JH) | 3:54 |
+| 23 | [Half a Heart](https://open.spotify.com/track/22EHZTTJE7otfnV4nH7O4L) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [7](https://open.spotify.com/album/4b1teRyaSUaoDSRWdyz8JH) | 3:54 |
+| 24 | [Chasing Highs](https://open.spotify.com/track/4iRug4QLFFFhk7phV0ajzY) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 3](https://open.spotify.com/album/7FCRaYlQdUlnObamBLMSkR) | 3:35 |
 | 25 | [Hold On](https://open.spotify.com/track/1w9jSZVnVz8P9NFGLZlZLQ) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Riley Clemmons](https://open.spotify.com/album/6buAN2fp3zo5JhNZN45QY2) | 3:49 |
 | 26 | [Can't Break a Broken Heart](https://open.spotify.com/track/4qjby0fyXF9z1Jxo9HRVqz) | [Nick Howard](https://open.spotify.com/artist/7LiAa7T3c3xYt47RefalhP) | [Living in Stereo](https://open.spotify.com/album/0VSQzab178QjshES1FWejk) | 3:06 |
 | 27 | [Con Fuego \- Radio Edit](https://open.spotify.com/track/0QEmHjxQU2uwCHjfm75qrH) | [Soraya](https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj), [Aqeel](https://open.spotify.com/artist/1l3vsK2R9fhNUe3VNtmfoP) | [Con Fuego \(Radio Edit\)](https://open.spotify.com/album/4rBgeT8LExRXQ8KN2t7NNW) | 3:13 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 59 | [Chase](https://open.spotify.com/track/4XMOKjC9hl7edd6K7Xme6p) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Chase](https://open.spotify.com/album/0nIBjU1a0ilvEj8jCTKEtM) | 2:45 |
 | 60 | [All You Good Friends](https://open.spotify.com/track/5mziNXamtkgdvcmKt7198d) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [All You Good Friends](https://open.spotify.com/album/7uRg23QH5OnhG2a7hFMk3d) | 3:07 |
 | 61 | [Dazzle Girl and Dragonfly](https://open.spotify.com/track/3b1tM3TLa65Ez7ErWI94Nl) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
-| 62 | [The World Can Wait \- Bolier Club Mix](https://open.spotify.com/track/1SK00q4bTdgLUSWDz3FBPH) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD) | [The World Can Wait \(Bolier Remixes\)](https://open.spotify.com/album/206lyadM4uzwTnZoVWIuVO) | 2:52 |
+| 62 | [The World Can Wait](https://open.spotify.com/track/1QejH8ORbZv2bimBkfyQWm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [The World Can Wait](https://open.spotify.com/album/3MJi1JKY9EoQVzaYz4GrGM) | 3:39 |
 | 63 | [Summer Body](https://open.spotify.com/track/5uB5QgpcMPTLZL268GdbUu) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4) | [Summer Body](https://open.spotify.com/album/0zFi8bajP5xJb65KemVh1t) | 2:59 |
 | 64 | [Grown Up Like Me](https://open.spotify.com/track/5EDOSuo31f3S5Nr5I13a3A) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 1:14 |
 | 65 | [It Ain’t Christmas](https://open.spotify.com/track/7k33Om6dxVlE9qYeW7TmT9) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [It Ain’t Christmas](https://open.spotify.com/album/1I6dIrGA2qYznBYBf6yDde) | 3:28 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 132 | [Loves Come Down \- Radio](https://open.spotify.com/track/6yZvE8ntSVDXwNiHSEibKV) | [Ivan Gomez](https://open.spotify.com/artist/5EN8BXlwC3RBqaZSBT6BTD), [Nacho Chapado](https://open.spotify.com/artist/75Npu8c9MYb94u6LqZn5mv), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Audacious Summer Vol\. 1](https://open.spotify.com/album/2W3rr39x1lYWO0D3ImahYB) | 3:39 |
 | 133 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `AcJENAAAAAC1e5DSokgCXIRSdpkwR84t`
+Snapshot ID: `AcJJ1AAAAABR6/nzdpp4IpTdxqROrJmR`

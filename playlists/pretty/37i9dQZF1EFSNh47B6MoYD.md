@@ -127,9 +127,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 117 | [Por Qué?](https://open.spotify.com/track/6KkfzyRjWlKUKqgg3T9euM) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 3:35 |
 | 118 | [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 |
 | 119 | [Nota 10](https://open.spotify.com/track/3MOu40is7Omfmhkx5zh8Kj) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [EP Z4](https://open.spotify.com/album/3U7lCBWkbwjZhP5UQRm0Vn) | 2:16 |
-| 120 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
-| 121 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 |
-| 122 | [Meu Amor](https://open.spotify.com/track/25k02inHB7AGGLx3oLVc66) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Absoluta](https://open.spotify.com/album/2uAQno6CdQFoQyEjrGJX8b) | 4:02 |
+| 120 | [Meu Amor](https://open.spotify.com/track/25k02inHB7AGGLx3oLVc66) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Absoluta](https://open.spotify.com/album/2uAQno6CdQFoQyEjrGJX8b) | 4:02 |
+| 121 | [Tao Longe de Ti](https://open.spotify.com/track/5ITuats5IuKKmbddomOdHZ) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 3:24 |
+| 122 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 |
 | 123 | [La Llovizna](https://open.spotify.com/track/4kaAnwEEPtruQuOrrDUh7V) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:24 |
 | 124 | [Z4 \(Z4\)](https://open.spotify.com/track/7IIBCmGzZRbbu9j4PsZvBO) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:07 |
 | 125 | [Más Que Tu Dinero](https://open.spotify.com/track/6mmbhl3Kk4G5rBhEPjYDc5) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:21 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 148 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 149 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcJESAAAAABojm9bSQFN0nvnxkvt2pNM`
+Snapshot ID: `AcJJrAAAAAD9vm+weTMYdAB3MBrz/QUz`

@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157999,
+  "num_followers": 158016,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Tristan & Isolde",
+      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
         "url": "https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Tristan & Isolde",
-      "url": "https://open.spotify.com/track/361guhUskLY7XA6X178aEk"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
       },
@@ -1279,38 +1279,6 @@
       "duration_ms": 205978,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI"
-      },
-      "artists": [
-        {
-          "name": "Lord Siva",
-          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
-        }
-      ],
-      "duration_ms": 217183,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1343,6 +1311,38 @@
       "duration_ms": 253011,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI"
+      },
+      "artists": [
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "duration_ms": 217183,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Over Broen",
-        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
-      },
-      "artists": [
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 185197,
-      "name": "Over Broen",
-      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1423,6 +1407,38 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Yellow Bike",
+        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
+      },
+      "artists": [
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 200232,
+      "name": "Yellow Bike",
+      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Over Broen",
+        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 185197,
+      "name": "Over Broen",
+      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1463,6 +1479,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "P\u00e6n",
         "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
       },
@@ -1475,22 +1507,6 @@
       "duration_ms": 190300,
       "name": "P\u00e6n",
       "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Yellow Bike",
-        "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
-      },
-      "artists": [
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
-        }
-      ],
-      "duration_ms": 200232,
-      "name": "Yellow Bike",
-      "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+        "name": "A Beautiful Real Life",
+        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
       },
       "artists": [
         {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
+      "duration_ms": 175040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1543,22 +1559,6 @@
       "duration_ms": 173442,
       "name": "Uendelighed",
       "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "A Beautiful Real Life",
-        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Lukas Graham (Blue Album)",
+        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "What Happened To Perfect",
+      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
         "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 180402,
       "name": "hungover sunday",
       "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Lukas Graham (Blue Album)",
-        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "What Happened To Perfect",
-      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Hey Honey (fra filmen Honey)",
-        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
-      },
-      "artists": [
-        {
-          "name": "Selma Sol \u00cd Dali Pape",
-          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
-        }
-      ],
-      "duration_ms": 182708,
-      "name": "Hey Honey (fra filmen Honey)",
-      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Kuffert Fuld Af Mursten",
         "url": "https://open.spotify.com/album/1xxuamywTKWttzz005tsPl"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 294506,
       "name": "Op",
       "url": "https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Hey Honey (fra filmen Honey)",
+        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
+      },
+      "artists": [
+        {
+          "name": "Selma Sol \u00cd Dali Pape",
+          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "Hey Honey (fra filmen Honey)",
+      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
     },
     {
       "added_at": "2025-11-20 23:00:41",

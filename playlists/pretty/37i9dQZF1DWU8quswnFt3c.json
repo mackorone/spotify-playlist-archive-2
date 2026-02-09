@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: GERD \ud83d\udc9a",
-  "num_followers": 1050059,
+  "num_followers": 1049907,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "Death Of Me",
+        "url": "https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "duration_ms": 180408,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "POP TOO",
         "url": "https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 176170,
       "name": "ELA ELA",
       "url": "https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "Death Of Me",
-        "url": "https://open.spotify.com/album/2lz2YApT9yBh91eQQRe5VW"
-      },
-      "artists": [
-        {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
-        }
-      ],
-      "duration_ms": 180408,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/2dGaw9rLzOgaGwKXn5PBqT"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -939,22 +939,18 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
+        "name": "Pena, Penita, Pena",
+        "url": "https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn"
       },
       "artists": [
         {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+          "name": "Lola Flores",
+          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
+      "duration_ms": 223240,
+      "name": "Pena penita pena",
+      "url": "https://open.spotify.com/track/021KukNOhoemTxzEVWaaId"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -975,18 +971,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Pena, Penita, Pena",
-        "url": "https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn"
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
       },
       "artists": [
         {
-          "name": "Lola Flores",
-          "url": "https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5"
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Pena penita pena",
-      "url": "https://open.spotify.com/track/021KukNOhoemTxzEVWaaId"
+      "duration_ms": 182666,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
     },
     {
       "added_at": "2026-02-05 23:00:26",

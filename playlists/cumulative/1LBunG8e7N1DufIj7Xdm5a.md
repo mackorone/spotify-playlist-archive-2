@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,019 songs - 8 day 21 hr 24 min
+4,021 songs - 8 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Cold Cabin](https://open.spotify.com/track/3ShdZZwBCYJg1rQ9gpSsHW) | [The Thick Un's](https://open.spotify.com/artist/3AsMjZKwXAtEpmnqnEBVNb) | [Greasy Gambit](https://open.spotify.com/album/6vXdrqa99hzHAfLrkb8XlP) | 3:30 | 2025-05-14 |  |
 | [COLORS](https://open.spotify.com/track/09StTRpRakGxE7DQLSAcly) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:59 | 2025-05-16 |  |
 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 | 2025-04-09 |  |
+| [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 | 2026-02-08 |  |
 | [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 | 2025-11-26 |  |
 | [Come se non ci fosse un domani](https://open.spotify.com/track/3AGRiS8AeMZ3bZF3ne6pSl) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 1:57 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/1PsSE8RXbV6IfsmnQrkTCL) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Come Un Ultras Che Grida \(Vivere da Ultras \- Sessione Intima\)](https://open.spotify.com/album/33xJM8vQ7ljQrQC2jctwqQ) | 2:34 | 2025-04-04 |  |
@@ -3938,6 +3939,7 @@
 | [Without A Trace](https://open.spotify.com/track/29In6E8GuX5ZXPJUTKZNCj) | [Liam Bailey](https://open.spotify.com/artist/3Xggcc3RGfibkEik8o4Izw), [Tyler Stephenson](https://open.spotify.com/artist/6SgDG5SRgdtmua4VJSv7WL), [Rose Bailey](https://open.spotify.com/artist/1qk3iox9Y3SJHDuSKTwieU) | [Without A Trace](https://open.spotify.com/album/0wA3KikaMRU0YxYnxc6412) | 3:18 | 2025-09-15 |  |
 | [Without Slaves](https://open.spotify.com/track/5r0aZbji2kxr5p5DvwNkbC) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Without Slaves](https://open.spotify.com/album/3Oepbr9CN7Gu8n9Z56VqSP) | 2:34 | 2025-05-27 |  |
 | [Without You](https://open.spotify.com/track/57OfcQoy8BTUjqgmigcBRv) | [Djmcmurdo](https://open.spotify.com/artist/4Hjnt3RcljIPgATZKkdb2L) | [Without You](https://open.spotify.com/album/6COrksuGsvNG7dGWrCCUjg) | 3:07 | 2024-10-27 |  |
+| [Witness of the Lie](https://open.spotify.com/track/3lsXyuXyBDQSgKVhEwem65) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:06 | 2026-02-08 |  |
 | [Woop](https://open.spotify.com/track/2ePP3rSVuDyPqR52MMYjLe) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x), [Jeve](https://open.spotify.com/artist/2oLaoMDrS45QdcUb49wWmc) | [Woop](https://open.spotify.com/album/6wC8KpnWUBsnfXdIzrgUno) | 3:37 | 2025-06-01 |  |
 | [Work It](https://open.spotify.com/track/2Ys8y3wZJ1PXOugdJxgGVP) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Work It](https://open.spotify.com/album/2WIuOdpHyhY9a7cYZP5ZjS) | 2:03 | 2026-02-06 |  |
 | [World on Fire](https://open.spotify.com/track/709mRzPTQp6zZQ1IcZinVC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 2:06 | 2025-09-18 |  |

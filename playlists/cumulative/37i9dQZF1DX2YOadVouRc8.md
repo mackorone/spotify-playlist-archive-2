@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-713 songs - 1 day 10 hr 34 min
+714 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-10 | 2023-09-29 |
 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-02-02 | 2024-03-09 |
 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 | 2024-02-02 | 2024-03-22 |
-| [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 | 2025-08-01 |  |
+| [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 | 2025-08-01 | 2026-02-09 |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2025-09-19 |
 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 | 2022-11-25 | 2023-05-09 |
 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 | 2025-11-07 |  |
@@ -563,6 +563,7 @@
 | [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 | 2023-11-24 | 2024-03-25 |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2022-06-09 | 2023-11-03 |
 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-06-27 |  |
+| [So So Bad](https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [So So Bad](https://open.spotify.com/album/1dnglGb52CUqIgQhI0gOX2) | 2:43 | 2026-02-06 |  |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-09-29 |
 | [Soft Prayer](https://open.spotify.com/track/7BIkcr2aqUPUuRXCL75L6z) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Crowther](https://open.spotify.com/artist/2pN56hYNCw4in2ctfHeutE) | [Lust In Lagos](https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N) | 3:31 | 2025-10-24 | 2026-02-06 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-07-05 | 2025-03-15 |

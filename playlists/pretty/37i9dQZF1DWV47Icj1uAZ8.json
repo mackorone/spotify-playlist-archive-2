@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 45418,
+  "num_followers": 45428,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -299,22 +315,6 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
         "url": "https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 469830,
-      "name": "Amphetamine",
-      "url": "https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 237013,
       "name": "Face the World",
       "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 469830,
+      "name": "Amphetamine",
+      "url": "https://open.spotify.com/track/3Zau3JcrZcBfw8aVjKGkSX"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 319958,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -771,22 +755,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Into",
         "url": "https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7"
       },
@@ -803,18 +771,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
       "artists": [
         {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 195853,
-      "name": "Since I Seen't You",
-      "url": "https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd"
+      "duration_ms": 319958,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -835,6 +803,38 @@
       "duration_ms": 292400,
       "name": "The Chapel",
       "url": "https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "Since I Seen't You",
+      "url": "https://open.spotify.com/track/4Bs9NcSkWJ1uuV7lHnTXxd"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 160679,
-      "name": "One Hunnit",
-      "url": "https://open.spotify.com/track/5xAGavHxt4u1zstIsG4DAb"
+      "duration_ms": 137333,
+      "name": "Crazy You",
+      "url": "https://open.spotify.com/track/7H4IsC0YmKnAjbGVGZGMQo"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

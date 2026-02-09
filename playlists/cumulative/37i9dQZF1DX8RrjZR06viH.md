@@ -4,7 +4,7 @@
 
 > ❄️❄️❄️
 
-300 songs - 15 hr 41 min
+301 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-29 |  |
 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 | 2024-06-27 | 2024-10-13 |
+| [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 | 2026-02-05 |  |
 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 | 2024-06-27 |  |
 | [Gåsehud](https://open.spotify.com/track/0dAy0Cq4PwkJ3wG0uOjwj6) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Gåsehud](https://open.spotify.com/album/5a00VOr6oBmZeFhHzz6qqt) | 2:32 | 2024-06-27 | 2024-07-06 |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-08-14 |
@@ -291,7 +292,7 @@
 | [Two Cents](https://open.spotify.com/track/4J3vgENXvPF4BVYxztyEyq) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Two Cents](https://open.spotify.com/album/1goONdBC2HFSWV8PXT0tRW) | 2:58 | 2025-04-10 | 2025-06-06 |
 | [Uansett hvem du er](https://open.spotify.com/track/5nLQt0ahxPkenarXZyd7xn) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Uansett hvem du er](https://open.spotify.com/album/5cCJ1Xn8MSpvXWHjHCE0Z6) | 2:56 | 2024-08-29 | 2024-10-11 |
 | [under the surface](https://open.spotify.com/track/3McAq7FX81QzdpueW2CT1F) | [Alma Owren](https://open.spotify.com/artist/6PYAyyoym2n9PB5sVrplSE) | [Under The Surface](https://open.spotify.com/album/5P0xHV91J1zC52nemvDhI6) | 4:19 | 2025-03-21 | 2025-07-03 |
-| [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 | 2024-06-27 |  |
+| [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 | 2024-06-27 | 2026-02-09 |
 | [Uten dæ](https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Grannes](https://open.spotify.com/artist/6jtFweBwRIyfC35u8Fnliz) | [Uten dæ](https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw) | 3:14 | 2024-06-27 | 2024-11-03 |
 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 | 2025-02-27 |  |
 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 | 2024-06-27 | 2024-09-13 |

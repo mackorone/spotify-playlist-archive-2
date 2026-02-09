@@ -13809,6 +13809,32 @@
     },
     {
       "album": {
+        "name": "PETSHOP",
+        "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "PETSHOP",
+      "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
+    },
+    {
+      "album": {
         "name": "Physical (feat. Troye Sivan)",
         "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
       },
@@ -19020,7 +19046,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 200056,
       "name": "Tuut Tuut Tuut",
       "url": "https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584"

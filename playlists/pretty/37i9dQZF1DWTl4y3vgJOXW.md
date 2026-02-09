@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: the Seattle Seahawks vs\. the New England Patriots
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,854,314 likes - 98 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,854,417 likes - 98 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

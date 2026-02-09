@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 784320,
+  "num_followers": 784435,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Raw & The Cooked (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
+        "name": "(I Wanna Give You) Devotion",
+        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        },
-        {
-          "name": "David Z.",
-          "url": "https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj"
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
         }
       ],
-      "duration_ms": 426671,
-      "name": "She Drives Me Crazy - David Z 12\" Remix",
-      "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
+      "duration_ms": 409466,
+      "name": "(I Wanna Give You) Devotion - Original Club Mix",
+      "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -647,18 +643,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "(I Wanna Give You) Devotion",
-        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
+        "name": "The Raw & The Cooked (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT"
       },
       "artists": [
         {
-          "name": "Nomad",
-          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        },
+        {
+          "name": "David Z.",
+          "url": "https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj"
         }
       ],
-      "duration_ms": 409466,
-      "name": "(I Wanna Give You) Devotion - Original Club Mix",
-      "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+      "duration_ms": 426671,
+      "name": "She Drives Me Crazy - David Z 12\" Remix",
+      "url": "https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -975,6 +975,26 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Club Classics Vol. One",
+        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 394933,
+      "name": "Back To Life (However Do You Want Me) - One World Remix",
+      "url": "https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Boxed",
         "url": "https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 319480,
       "name": "Sweet Dreams (Are Made of This) - Hot Remix / 2005 Remaster",
       "url": "https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Club Classics Vol. One",
-        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
-        }
-      ],
-      "duration_ms": 394933,
-      "name": "Back To Life (However Do You Want Me) - One World Remix",
-      "url": "https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9"
     },
     {
       "added_at": "2024-02-06 15:45:26",

@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 514046,
+  "num_followers": 514034,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "The Feeling Of Jazz",
+      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/7IzKaEpu718xiAyPhMMmHg"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Mango",
         "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
@@ -407,38 +407,6 @@
       "duration_ms": 221954,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -467,18 +435,34 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
         }
       ],
-      "duration_ms": 541680,
-      "name": "La Fiesta - Live",
-      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -495,6 +479,22 @@
       "duration_ms": 202226,
       "name": "Manteca",
       "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 541680,
+      "name": "La Fiesta - Live",
+      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Sweet Cherry Pie",
-      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 321420,
       "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
       "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 406400,
+      "name": "Sweet Cherry Pie",
+      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
+      },
+      "artists": [
+        {
+          "name": "Matthieu Saglio",
+          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+        }
+      ],
+      "duration_ms": 355668,
+      "name": "Madiba",
+      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 250082,
       "name": "El Incomprendido (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/5tOiB8UUOb6B2BzTDJL5IR"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
-      },
-      "artists": [
-        {
-          "name": "Matthieu Saglio",
-          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
-        }
-      ],
-      "duration_ms": 355668,
-      "name": "Madiba",
-      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "cuarto de colores",
-        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Sonrisas",
-      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "A Arte de Viver",
         "url": "https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1uyZTB0xrmqxwbxxvstFZp"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "cuarto de colores",
+        "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Sonrisas",
+      "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 263515,
-      "name": "Agua Fresca",
-      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 131386,
       "name": "Seven Steps To Heaven",
       "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 263515,
+      "name": "Agua Fresca",
+      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
-        }
-      ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Todas Las Voces",
         "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 220800,
       "name": "S\u00f3lo Le Pido a Dios",
       "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+        }
+      ],
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Te Escucho",
+        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ribeiro",
+          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
+        },
+        {
+          "name": "ELENI",
+          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
+        }
+      ],
+      "duration_ms": 230550,
+      "name": "Te Escucho",
+      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Latin Side of Horace Silver",
         "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 429775,
       "name": "Dali - From Portrait in Seven Shades",
       "url": "https://open.spotify.com/track/5rTuSVB4hmbP7sfRGM9jaC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Te Escucho",
-        "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ribeiro",
-          "url": "https://open.spotify.com/artist/4JoiBPu2O2zJl01pQKbven"
-        },
-        {
-          "name": "ELENI",
-          "url": "https://open.spotify.com/artist/1K46CdLoq9HrDcTCMGvSJh"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "Te Escucho",
-      "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
     },
     {
       "added_at": "2025-08-07 16:57:48",

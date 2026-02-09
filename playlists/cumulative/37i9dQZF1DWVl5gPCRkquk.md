@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-384 songs - 23 hr 54 min
+385 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [cigarette holes](https://open.spotify.com/track/4WxxPiwiWxrhnJPnsNoOLO) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Bad For Me](https://open.spotify.com/album/76v1LQXUBTB1tmqYrTohmv) | 2:26 | 2022-04-15 | 2022-11-11 |
 | [cigarette holes](https://open.spotify.com/track/4clKLUGYpnYvcFmgtYXxVH) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [cigarette holes](https://open.spotify.com/album/1nuf7xVIP1J9rpeGje6zLD) | 2:26 | 2022-04-15 | 2022-04-20 |
 | [Come Back to Me](https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [These Four Words](https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb) | 2:06 | 2024-03-08 | 2024-12-21 |
-| [Come Daylight](https://open.spotify.com/track/6vq4LQat2BBDYODMCiFO1k) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Come Daylight](https://open.spotify.com/album/6mO0gww4D1uUTbm2PrN6kG) | 3:07 | 2024-07-19 |  |
+| [Come Daylight](https://open.spotify.com/track/6vq4LQat2BBDYODMCiFO1k) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Come Daylight](https://open.spotify.com/album/6mO0gww4D1uUTbm2PrN6kG) | 3:07 | 2024-07-19 | 2026-02-09 |
 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 | 2022-09-06 |  |
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-12-20 |  |
 | [Cool Jam](https://open.spotify.com/track/3N55TX8RISkVx4yDuKDG6P) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [McKenzie](https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe) | 3:26 | 2021-10-29 | 2022-07-29 |
@@ -131,6 +131,7 @@
 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 | 2021-10-29 | 2022-07-29 |
 | [family party](https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [family party](https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0) | 2:19 | 2024-12-06 | 2025-04-17 |
 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 | 2021-10-29 |  |
+| [February](https://open.spotify.com/track/4XFnBkKFdfDmpO6dfHbOgk) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [February](https://open.spotify.com/album/0nGdHgAmvCFnRznteNDvVi) | 3:11 | 2026-02-06 |  |
 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 | 2021-10-29 |  |
 | [Field Notes on an Endless Day](https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Field Notes on an Endless Day](https://open.spotify.com/album/1RhrwSrdrxh9ld2spjUHAH) | 3:37 | 2021-10-29 | 2022-07-29 |
 | [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 | 2025-05-02 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 143251,
+  "num_followers": 143286,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "LHNA",
         "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 200145,
       "name": "LHNA",
       "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Swaggy",
-        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
+        "name": "Los Chulitos",
+        "url": "https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN"
       },
       "artists": [
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 258293,
-      "name": "Swaggy",
-      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
+      "duration_ms": 163320,
+      "name": "ChuliGang",
+      "url": "https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Los Chulitos",
-        "url": "https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN"
+        "name": "Swaggy",
+        "url": "https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 163320,
-      "name": "ChuliGang",
-      "url": "https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata"
+      "duration_ms": 258293,
+      "name": "Swaggy",
+      "url": "https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Yo Siempre Ando Con Los Oidos Fresh",
-        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Donde Estabas Tu",
-      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
       },
@@ -1823,66 +1807,18 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Hot Nigga",
-        "url": "https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 150003,
-      "name": "Hot Nigga",
-      "url": "https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Percocet (Remix)",
-        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
+        "name": "Yo Siempre Ando Con Los Oidos Fresh",
+        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
       },
       "artists": [
         {
           "name": "Alex Rose",
           "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chris Wandell",
-          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
-        },
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
         }
       ],
-      "duration_ms": 314626,
-      "name": "Percocet - Remix",
-      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+      "duration_ms": 196400,
+      "name": "Donde Estabas Tu",
+      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1915,6 +1851,42 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Hot Nigga",
+        "url": "https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 150003,
+      "name": "Hot Nigga",
+      "url": "https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Gan-Ga (Remix)",
         "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
       },
@@ -1931,6 +1903,34 @@
       "duration_ms": 193363,
       "name": "Gan-Ga - Remix",
       "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Percocet (Remix)",
+        "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chris Wandell",
+          "url": "https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 314626,
+      "name": "Percocet - Remix",
+      "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1967,22 +1967,6 @@
       "duration_ms": 199700,
       "name": "Side Bitch",
       "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Flow Cabron",
         "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
@@ -2067,30 +2067,6 @@
       "duration_ms": 243560,
       "name": "Si Tu Novio Te Deja Sola",
       "url": "https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4s0aVy2iYuYsKMc4AOqQGY"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/512HrKUa80id5XGLw0cuXP"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2155,6 +2131,30 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4s0aVy2iYuYsKMc4AOqQGY"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/512HrKUa80id5XGLw0cuXP"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -2199,22 +2199,6 @@
       "duration_ms": 217130,
       "name": "WOW",
       "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 206714,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2267,6 +2251,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 206714,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Fulete",
         "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
       },
@@ -2315,6 +2315,38 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2647,38 +2679,6 @@
       "duration_ms": 227939,
       "name": "Est\u00e1 Cabr\u00f3n Ser Yo",
       "url": "https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 297485,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
     }
   ],
   "unique_name": "Trap Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von sombr, Jazeek, Esther Graf, Aymo und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,780 likes - 92 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,681 likes - 92 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

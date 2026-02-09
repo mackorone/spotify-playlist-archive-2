@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 77369,
+  "num_followers": 77376,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "A Deeper Life",
         "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 484711,
       "name": "A Deeper Life",
       "url": "https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 226606,
       "name": "Azimuth",
       "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
     },
     {
       "added_at": "2025-12-03 12:15:55",

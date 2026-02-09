@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-601 songs - 1 day 11 hr 39 min
+605 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Adiós Chico De Mi Barrio](https://open.spotify.com/track/19cBheOwOZM4L9qCX6hQl2) | [Mauricio Riveros](https://open.spotify.com/artist/4KsvhWHEb2VNXsrvJjsf1J) | [Adiós Chico De Mi Barrio](https://open.spotify.com/album/4wKoDg54mdU78Eqkl6hdjr) | 3:34 | 2025-12-15 | 2026-01-15 |
 | [After Hours](https://open.spotify.com/track/1IJRybUORpBhRHIHYS5C5Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [After Hours](https://open.spotify.com/album/5hin9vCARWLwDwXmMsU1J8) | 3:13 | 2025-11-21 | 2026-01-05 |
 | [After The Lights](https://open.spotify.com/track/2HBjhM3rBDaNaIPogdCvbl) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [After The Lights](https://open.spotify.com/album/4BSqAmihLDKi1YfE0QPE8a) | 3:43 | 2025-11-30 | 2026-01-05 |
+| [Aftermath](https://open.spotify.com/track/0QFWUGJlrJipjq3S6IXJLw) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:30 | 2026-02-08 |  |
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-09-23 | 2025-11-29 |
 | [Ahhh](https://open.spotify.com/track/2vxr60lrZFVBxq1UmyTX1d) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto Animal](https://open.spotify.com/album/1J7Dz8Fw98iGdyc5zkVqBy) | 2:50 | 2025-11-24 | 2026-01-05 |
 | [Algo Tranqui](https://open.spotify.com/track/6QgPvRXLjwJNKflsm6YIBv) | [CHRISTIAN GRAND](https://open.spotify.com/artist/0Jy7k1rljCzZoaqXs5Cjxd) | [Destellos en la Noche](https://open.spotify.com/album/1Zo3M98fNKzuBUrG7tUKSU) | 2:50 | 2026-01-20 |  |
@@ -168,6 +169,7 @@
 | [Felony](https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:34 | 2025-11-11 | 2025-12-21 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-10 | 2026-01-05 |
 | [Fire of a Romance](https://open.spotify.com/track/01VaTr7Ogz81bKPB4ElbD9) | [Luke Assem](https://open.spotify.com/artist/0TqL3o1xboCvsPXD4A8cF0) | [Fire of a Romance](https://open.spotify.com/album/3X9jGTNs2rqdVCkHi0DFo1) | 2:52 | 2026-01-20 |  |
+| [Fire on the Loose](https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV) | [Peder Pan](https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV) | [Fire on the Loose](https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5) | 4:04 | 2026-02-08 |  |
 | [For You](https://open.spotify.com/track/2pkaTtOzMeHZAbqMYcZtJx) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:38 | 2025-10-23 | 2025-12-21 |
 | [Forever](https://open.spotify.com/track/0Cuh5lx6TWoVLHJy36pz5T) | [Magenta Moody](https://open.spotify.com/artist/3UbIaBISNLCFdFZrTzPDbm) | [The Midnight Club](https://open.spotify.com/album/4Eo5xIuzdjeFbnmhmaYVtk) | 5:27 | 2025-08-23 | 2025-11-29 |
 | [Forever Young](https://open.spotify.com/track/49MO56FpFGj56tR8SAYIGo) | [CRUSHES](https://open.spotify.com/artist/1hKOcHvXIVFgmJdqcYJXuM) | [Forever Young](https://open.spotify.com/album/46zxO5mYLe4G5FksdFGFma) | 2:49 | 2025-12-16 | 2026-01-15 |
@@ -555,11 +557,13 @@
 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 | 2025-12-21 | 2026-01-15 |
 | [Twinski](https://open.spotify.com/track/5l03og7WPmgomYbfhkEYLI) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 1:49 | 2026-01-14 |  |
 | [U Spusaliziu](https://open.spotify.com/track/4g3rqJiWl1IelcneNaEgfx) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [The Golden Age, Vol\. 1](https://open.spotify.com/album/0iMPNCPmESC621cb8jVKfX) | 3:32 | 2023-12-14 | 2025-11-29 |
+| [UH HUH](https://open.spotify.com/track/5wufjtva81eRadg2fEgVzt) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 4:25 | 2026-02-08 |  |
 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 | 2026-01-18 |  |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-11 | 2025-12-21 |
 | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [UNDERNEATH THE MISTLETOE](https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS) | 2:47 | 2025-11-17 | 2025-12-21 |
 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 | 2025-12-29 | 2026-02-03 |
 | [Until the End of the World](https://open.spotify.com/track/1pE14eN9lfdPeg73TcCM46) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:09 | 2025-11-14 | 2025-12-21 |
+| [Uomini Da Sogno](https://open.spotify.com/track/4EUq72rSPUqo430b0bEM3W) | [Balsa](https://open.spotify.com/artist/37UmKhz6FBFeOM8BiLn95n) | [Uomini Da Sogno](https://open.spotify.com/album/2RXuS3ikjzugb84338GI0A) | 2:22 | 2026-02-08 |  |
 | [Valkyrie](https://open.spotify.com/track/1TVSjFUeiINo5nsXvo3176) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Act 1 \(Chapter One\)](https://open.spotify.com/album/12DeMW5vKAI69NylXQGKvD) | 3:28 | 2025-12-27 | 2026-01-24 |
 | [Valsa Guinghiana](https://open.spotify.com/track/37vG2z6MoiJKxMcdzyqEvG) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ) | [Valsa Guinghiana](https://open.spotify.com/album/3C4KklDu1rTM9dAZ0AIqCu) | 2:24 | 2023-06-01 | 2025-11-29 |
 | [Valzer di Noto](https://open.spotify.com/track/0FnG58X8pA0Vd9W2QRNd9u) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sicilian Lullabies and Tales](https://open.spotify.com/album/4cwbKpgt9v2jo1pLQe06dH) | 2:56 | 2023-04-22 | 2025-11-29 |

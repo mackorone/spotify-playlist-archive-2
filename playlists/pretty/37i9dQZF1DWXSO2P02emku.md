@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Cuitla Vega en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,522 likes - 95 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,516 likes - 95 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 94 | [Pajarito](https://open.spotify.com/track/5gAWalJr8o0koAvUVOKO7S) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Pajarito](https://open.spotify.com/album/2LL4R5H9rzRafsw7pCmy71) | 1:40 |
 | 95 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 
-Snapshot ID: `AAAAAKUkhJcQ6tRtJkGQ/hlsJSywUCZk`
+Snapshot ID: `AAAAABA/HZ0fOMwbXidlWX4iE3JtueIM`

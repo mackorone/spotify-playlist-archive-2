@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
   "name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "B\u00e0i Ca C\u1ee7a N\u00e0ng",
       "url": "https://open.spotify.com/track/5hFR51zySvPMBRMNxiV6gQ"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 219666,
       "name": "Chuy\u1ec7n t\u00ecnh \u0111an \u00e1o",
       "url": "https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 285949,
       "name": "Hai V\u00ec Sao L\u1ea1c",
       "url": "https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 358321,
       "name": "Hoa M\u01b0\u1eddi Gi\u1edd",
       "url": "https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4"

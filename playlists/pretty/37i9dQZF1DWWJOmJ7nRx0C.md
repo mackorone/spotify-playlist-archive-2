@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,528 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,539 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 85 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
 | 86 | [Bomb To A Knife Fight](https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bomb To A Knife Fight](https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21) | 2:41 |
 | 87 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
-| 88 | [WAP](https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b) | [WAP](https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz) | 5:02 |
+| 88 | [WAP \(What a Predicament\)](https://open.spotify.com/track/24c9lTKJpHjHOkFr6FLrkU) | [The Claypool Lennon Delirium](https://open.spotify.com/artist/2yUsje7CszKGu4g1f4ih3b), [Les Claypool](https://open.spotify.com/artist/1oM1vgebNTCZmVYwC3YYl8), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [WAP \(What a Predicament\)](https://open.spotify.com/album/31MEsn4KWtE3df8NrV8zqz) | 5:02 |
 | 89 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 90 | [God Owes Me Money](https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Owes Me Money](https://open.spotify.com/album/7tbEM7bL2urcY7uRoUyA78) | 3:21 |
 | 91 | [toothless coal](https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [toothless coal](https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv) | 3:47 |

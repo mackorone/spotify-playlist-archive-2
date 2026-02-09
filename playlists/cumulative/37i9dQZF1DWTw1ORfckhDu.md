@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,110 songs - 2 day 4 hr 44 min
+1,111 songs - 2 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [Ikivihree](https://open.spotify.com/track/1yjoucRYzZYCikibvUhxH6) | [M.A](https://open.spotify.com/artist/7masbwBVM0UBxIs0495YkJ) | [Liminaalitila](https://open.spotify.com/album/2fXhOnL34YGID3PrUGZpTP) | 4:21 | 2024-04-11 | 2024-05-10 |
 | [Ikoni](https://open.spotify.com/track/4uu7Xart3eGoK0KOdatnTk) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ikoni](https://open.spotify.com/album/0hCe8V1hHnQye0LYwzgzcr) | 2:23 | 2024-01-25 | 2024-04-26 |
 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 | 2024-08-22 | 2024-10-25 |
-| [Ikuista](https://open.spotify.com/track/5YnH11C9B6yQI8uh8QG1Jb) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Ikuista](https://open.spotify.com/album/63ZdyUJsIupRitpKLc3Cvd) | 3:27 | 2025-12-18 |  |
+| [Ikuista](https://open.spotify.com/track/5YnH11C9B6yQI8uh8QG1Jb) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Ikuista](https://open.spotify.com/album/63ZdyUJsIupRitpKLc3Cvd) | 3:27 | 2025-12-18 | 2026-02-09 |
 | [Ikuisuuteen](https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Ikuisuuteen](https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk) | 3:03 | 2025-04-17 | 2025-06-06 |
 | [Ikävä](https://open.spotify.com/track/580aMdgc9FoWW7nNlLR1Jm) | [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [Ikävä](https://open.spotify.com/album/5LKSFR1AK6HUxxRfe2J01C) | 2:45 | 2024-02-22 | 2024-03-08 |
 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 | 2025-02-13 |  |
@@ -462,6 +462,7 @@
 | [Känkkäränkkä](https://open.spotify.com/track/5oOhcHGjpvtdrQfeLcVEe7) | [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY) | [Känkkäränkkä](https://open.spotify.com/album/7LmKWomeDBes9VV4LtKWKF) | 2:21 | 2024-11-21 | 2024-12-13 |
 | [käpy](https://open.spotify.com/track/62ta8BEEecanvSxeS3FldL) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [käpy](https://open.spotify.com/album/4dfL55wygzB20eJrboY838) | 2:57 | 2023-10-18 | 2024-01-19 |
 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 | 2025-06-05 | 2025-08-29 |
+| [Kävin tääl](https://open.spotify.com/track/4SMRzU9943uromfmKU7jim) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Kävin tääl](https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC) | 2:20 | 2026-02-05 |  |
 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 | 2025-12-11 |  |
 | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Diandra](https://open.spotify.com/artist/1Pk1wOWlZbizyfAptxFHxg) | [Köyhä laulaa \(feat\. Diandra\)](https://open.spotify.com/album/1qmiOUIRqSr0yytDlg1Hnw) | 2:43 | 2023-09-21 | 2023-10-13 |
 | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/album/09wnzTC0pSgc7kKfO1OYcL) | 3:01 | 2024-05-30 | 2024-09-13 |

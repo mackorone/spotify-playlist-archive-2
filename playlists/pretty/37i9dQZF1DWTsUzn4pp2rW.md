@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,580 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,651 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 32 | [Beautiful Way](https://open.spotify.com/track/76Y4rH04QPJfFePNLBiLjE) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Beautiful Way](https://open.spotify.com/album/5Upr8xza8nRWoaZWRvwLql) | 3:47 |
 | 33 | [That's What Friends Are For](https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [That's What Friends Are For](https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ) | 3:43 |
 | 34 | [In Too Deep](https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS) | [George White Group](https://open.spotify.com/artist/19fFXKAVON44FeIBScDl9j) | [The Best of George White Group](https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P) | 4:08 |
-| 35 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
-| 36 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
-| 37 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
-| 38 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
-| 39 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 35 | [Riders on the Storm](https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN) | [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG), [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU) | [Riders on the Storm](https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9) | 3:46 |
+| 36 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
+| 37 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
+| 38 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 39 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
 | 40 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
 | 41 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 |
 | 42 | [Cup of Tea](https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s) | [Francesca Castro](https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf) | [Day by Day](https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt) | 6:34 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 54 | [When The Stars Align](https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [When The Stars Align](https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash) | 3:21 |
 | 55 | [Song Like Ours](https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU) | [Jazzy D](https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR), [Angela Gooden](https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm) | [Song Like Ours](https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q) | 4:58 |
 | 56 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 |
-| 57 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 |
-| 58 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
+| 57 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
+| 58 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 |
 | 59 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
 | 60 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
 | 61 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |

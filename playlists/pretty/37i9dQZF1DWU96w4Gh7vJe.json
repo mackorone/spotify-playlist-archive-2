@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 578672,
+  "num_followers": 578649,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-02 13:42:46",
       "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
-    },
-    {
-      "added_at": "2026-02-02 13:42:46",
-      "album": {
         "name": "Sumpa",
         "url": "https://open.spotify.com/album/7xbollYnpZJ5iMSFhWrbI1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 214000,
       "name": "Sumpa",
       "url": "https://open.spotify.com/track/53TEymid26RSQwfL3UrYru"
+    },
+    {
+      "added_at": "2026-02-02 13:42:46",
+      "album": {
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     },
     {
       "added_at": "2026-02-02 13:42:46",

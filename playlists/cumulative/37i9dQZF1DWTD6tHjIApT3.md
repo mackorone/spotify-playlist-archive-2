@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Furui Riho
 
-3,598 songs - 9 day 13 hr 21 min
+3,599 songs - 9 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2714,7 +2714,7 @@
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-23 | 2025-02-05 |
 | [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 | 2025-11-04 | 2025-11-12 |
 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 | 2025-11-25 | 2026-01-21 |
-| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 |  |
+| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 | 2026-02-09 |
 | [ライバー](https://open.spotify.com/track/0S5OgAipfqjXvfSHuESs8L) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [ライバー](https://open.spotify.com/album/41522PDs5TFrKinuJ4BRNV) | 4:23 | 2022-06-07 | 2022-06-15 |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-05-29 | 2022-08-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |
@@ -2912,6 +2912,7 @@
 | [君の住む街の天気が都合のいい空でありますように](https://open.spotify.com/track/3koeSkluG3jFrNOzDql3W9) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [君の住む街の天気が都合のいい空でありますように](https://open.spotify.com/album/61CHoqxs4Eqs0rLqMoaDOi) | 4:49 | 2022-06-02 | 2022-06-08 |
 | [君の味方](https://open.spotify.com/track/2lYndjIdC8W5pQKWfqZuzN) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [丈夫な私たち](https://open.spotify.com/album/6piksw0XibKNuaViAzstGb) | 4:08 | 2022-09-06 | 2022-09-15 |
 | [君の居場所](https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [君の居場所](https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN) | 3:43 | 2023-12-19 | 2023-12-22 |
+| [君は](https://open.spotify.com/track/5gs7OG3UE70LlPTUqXw4Px) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [君は](https://open.spotify.com/album/77TsYuspgMMvhV4ZaaJEGn) | 3:35 | 2026-02-03 |  |
 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 | 2022-08-09 | 2022-08-17 |
 | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/track/7fbisFzuaxYSmIjhPhYotu) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [ミズノマリ \(from paris match\)](https://open.spotify.com/artist/1YDvWXGgyyceWTsBziydY7) | [君は1000% feat\. ミズノマリ \(from paris match\)](https://open.spotify.com/album/3owjP8KGMy2LE1alSWSQSI) | 4:39 | 2023-06-06 | 2023-06-21 |
 | [君はボタニカル](https://open.spotify.com/track/7kvJPhoqyUc2vqwdghYFPx) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [君はボタニカル](https://open.spotify.com/album/6BxQM6Kwlo6DF5ARQMqvTH) | 3:20 | 2022-07-19 | 2022-07-27 |

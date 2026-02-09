@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 185416,
+  "num_followers": 185432,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVnblwiTX53HO25Oi++3o76R39Q",
+  "snapshot_id": "AAAAAHshPPpt7oYqHLaRG4K7U2ToaYOc",
   "tracks": [
     {
       "added_at": "2026-01-30 14:06:41",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 167341,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 187733,
       "name": "Falar De Amor - Remix",
       "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -739,18 +739,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+        "name": "Rel\u00edquia",
+        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
       },
       "artists": [
         {
           "name": "K\u00e9sia",
           "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
         }
       ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+      "duration_ms": 212429,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -839,42 +843,18 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Rel\u00edquia",
-        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
       "artists": [
         {
           "name": "K\u00e9sia",
           "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
         }
       ],
-      "duration_ms": 212429,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
-        "name": "N\u00famero Privado",
-        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "N\u00famero Privado",
-      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -899,18 +879,22 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Tenta a Sorte",
-        "url": "https://open.spotify.com/album/4cKEJfLC1Ek8Y9Ae7Cmctz"
+        "name": "N\u00famero Privado",
+        "url": "https://open.spotify.com/album/2uFoe2NyWu5c4c9L63nD0L"
       },
       "artists": [
         {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
         }
       ],
-      "duration_ms": 195169,
-      "name": "Tenta a Sorte",
-      "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"
+      "duration_ms": 189677,
+      "name": "N\u00famero Privado",
+      "url": "https://open.spotify.com/track/5fqWlrsAjCQqvqDs34qevS"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -935,6 +919,22 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Tenta a Sorte",
+        "url": "https://open.spotify.com/album/4cKEJfLC1Ek8Y9Ae7Cmctz"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 195169,
+      "name": "Tenta a Sorte",
+      "url": "https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg"
     },
     {
       "added_at": "2026-01-30 14:06:41",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-01-30 14:06:41",
       "album": {
-        "name": "Tempo Que N\u00e3o Volta",
-        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Tempo Que N\u00e3o Volta",
-      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
-    },
-    {
-      "added_at": "2026-01-30 14:06:41",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-01-30 14:06:41",
+      "album": {
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2026-01-30 14:06:41",

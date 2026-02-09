@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,092 songs - 2 day 6 hr 27 min
+1,093 songs - 2 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [Pellava](https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Pellava](https://open.spotify.com/album/1d2yBZwUYZGY23W3bjCZFg) | 2:55 | 2025-06-26 | 2025-08-22 |
 | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/track/4peIoWqdK1Q4Zy6wVAKWFI) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [People's Champion \(Vain elämää kausi 16\)](https://open.spotify.com/album/1PX5TebdCi5gxFTAD2CREo) | 3:19 | 2025-09-11 | 2025-09-19 |
 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 | 2024-08-15 | 2024-12-13 |
+| [PETSHOP](https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [PETSHOP](https://open.spotify.com/album/57iAh3QvNudObASmZccMzD) | 3:09 | 2026-02-05 |  |
 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2025-03-27 | 2025-05-23 |
 | [Piece by piece](https://open.spotify.com/track/64zKK20cftPgCiu8VVE74u) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Piece by piece](https://open.spotify.com/album/7BYH3PR4qsCOqGFAiVbO1O) | 3:03 | 2025-11-13 | 2025-12-14 |
 | [Pienestä kii](https://open.spotify.com/track/5yD1a0mhu8NvoWFMtf8CE3) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Pienestä kii](https://open.spotify.com/album/4IWKJ7WggyvcCMqD73jl56) | 3:05 | 2025-09-25 | 2025-11-14 |
@@ -978,7 +979,7 @@
 | [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 | 2024-08-13 |
 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 | 2024-11-22 |
 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 | 2026-01-25 |
-| [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-28 |  |
+| [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-28 | 2026-02-09 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-05-09 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-28 |
 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 | 2026-01-09 |  |

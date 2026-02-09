@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Jacinto en portada \u2728",
-  "num_followers": 93987,
+  "num_followers": 93989,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-30 06:00:21",
       "album": {
-        "name": "Pecadora",
-        "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "Pecadora",
-      "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
-    },
-    {
-      "added_at": "2026-01-30 06:00:21",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -667,6 +651,38 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-01-30 06:00:21",
+      "album": {
+        "name": "Pecadora",
+        "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/1599bMWWkIn041P87kqtmB"
+    },
+    {
+      "added_at": "2026-01-30 06:00:21",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "duration_ms": 232918,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX"
     },
     {
       "added_at": "2026-01-30 06:00:21",
@@ -691,22 +707,6 @@
       "duration_ms": 176470,
       "name": "Ve y Diles V2 - Remix",
       "url": "https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI"
-    },
-    {
-      "added_at": "2026-01-30 06:00:21",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/4o5XUPdw1HeAY7LtBpRMnw"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        }
-      ],
-      "duration_ms": 232918,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/3N1yNINZKp7j62WbA39ToX"
     },
     {
       "added_at": "2026-01-30 06:00:21",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-30 06:00:21",
       "album": {
-        "name": "pelinegra",
-        "url": "https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "pelinegra",
-      "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
-    },
-    {
-      "added_at": "2026-01-30 06:00:21",
-      "album": {
         "name": "Bella Nostalgia",
         "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
       },
@@ -811,6 +795,38 @@
       "duration_ms": 210181,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
+    },
+    {
+      "added_at": "2026-01-30 06:00:21",
+      "album": {
+        "name": "pelinegra",
+        "url": "https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "pelinegra",
+      "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
+    },
+    {
+      "added_at": "2026-01-30 06:00:21",
+      "album": {
+        "name": "Estimado Cobarde",
+        "url": "https://open.spotify.com/album/5TAORlI1VUkn3sY5sW9GA0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Estimado Cobarde",
+      "url": "https://open.spotify.com/track/0jbewxIGs1ReTAKndYvKWs"
     },
     {
       "added_at": "2026-01-30 06:00:21",
@@ -839,18 +855,18 @@
     {
       "added_at": "2026-01-30 06:00:21",
       "album": {
-        "name": "Estimado Cobarde",
-        "url": "https://open.spotify.com/album/5TAORlI1VUkn3sY5sW9GA0"
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/12L1vxHaS7zk9jkA9vhBwQ"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 137419,
-      "name": "Estimado Cobarde",
-      "url": "https://open.spotify.com/track/0jbewxIGs1ReTAKndYvKWs"
+      "duration_ms": 240000,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1AcoghNuDqCo4WoUqjYYG0"
     },
     {
       "added_at": "2026-01-30 06:00:21",
@@ -883,22 +899,6 @@
       "duration_ms": 160322,
       "name": "Cuando Estamos Solas",
       "url": "https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX"
-    },
-    {
-      "added_at": "2026-01-30 06:00:21",
-      "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/12L1vxHaS7zk9jkA9vhBwQ"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1AcoghNuDqCo4WoUqjYYG0"
     }
   ],
   "unique_name": "Oye Pop",

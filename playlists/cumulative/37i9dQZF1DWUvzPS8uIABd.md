@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-889 songs - 1 day 20 hr 23 min
+890 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/track/0tllMoxGZzPJ00wPRVGV5A) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Kerkkogabriel](https://open.spotify.com/artist/5GL3CCJkNN8qRqXRkhFrfw) | [André \(feat\. Kerkkogabriel\)](https://open.spotify.com/album/3CsFnRuZrMDDWYDEAOHZTN) | 2:27 | 2025-07-10 | 2025-10-17 |
 | [Ankeet tanssiaiset](https://open.spotify.com/track/2ZmVdWCM1jnwYFzaipAsQ2) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Ankeet tanssiaiset](https://open.spotify.com/album/4BMTPntPLK8gMjnMNANGDH) | 2:17 | 2025-01-30 | 2025-03-28 |
 | [Anna mulle tähtitaivas \(feat\. Katri Helena\)](https://open.spotify.com/track/0NVrQmRjQmFrGHYXTUBKoO) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [Katri Helena](https://open.spotify.com/artist/2IfvzNKtnV8PTAh7H6ZVfv) | [Anna mulle tähtitaivas \(feat\. Katri Helena\)](https://open.spotify.com/album/6ONhMELX6Xm5RMYgkZWVRL) | 2:10 | 2025-06-26 | 2025-08-13 |
-| [Anna mä meen \- Unitas Sigma](https://open.spotify.com/track/2OP9YiNf3vpBDNsJYQblEB) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:38 | 2025-12-05 |  |
+| [Anna mä meen \- Unitas Sigma](https://open.spotify.com/track/2OP9YiNf3vpBDNsJYQblEB) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:38 | 2025-12-05 | 2026-02-09 |
 | [Anna mä vien \(feat\. Sara Bee\)](https://open.spotify.com/track/0ERZ0M4FXlh3WAE1FQWQx1) | [Ina](https://open.spotify.com/artist/6U0qpV1jByBImJl8oRFnlQ), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Anna mä vien \(feat\. Sara Bee\)](https://open.spotify.com/album/1sVXqoyVFkFwP88uvHnCLP) | 2:44 | 2025-02-20 | 2025-03-21 |
 | [Anna rakas \(raju hetki\)](https://open.spotify.com/track/56Zd8JgzFBKpbRgNMvxwa9) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Pilvi Hämäläinen](https://open.spotify.com/artist/5UFJGFpQM3dH3Qk63nrdjg) | [Anna rakas \(raju hetki\)](https://open.spotify.com/album/5PuhSGjjWX33X7HqsTTwMI) | 2:43 | 2024-07-02 | 2024-08-16 |
 | [Anna tulla](https://open.spotify.com/track/4Fzm0uCnAM4Ep59ZVvi5wB) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Anna tulla](https://open.spotify.com/album/2RSDaUPuRXmLEUsHQK2P3R) | 3:13 | 2025-02-27 | 2025-03-21 |
@@ -215,6 +215,7 @@
 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 | 2025-06-26 | 2025-09-18 |
 | [ILY](https://open.spotify.com/track/0jBgpqrjZsjAxgWGYE6cs7) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [ILY](https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq) | 2:20 | 2024-07-02 | 2024-08-10 |
 | [Innovaattori](https://open.spotify.com/track/38ttg6L4jKJAdfJnfs6wU1) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Innovaattori](https://open.spotify.com/album/47ROMB4iVumr9midsb8owJ) | 2:54 | 2025-07-03 | 2025-08-13 |
+| [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 | 2026-02-05 |  |
 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 | 2024-10-03 | 2024-11-08 |
 | [Isäni ääni \- Vain elämää kausi 15](https://open.spotify.com/track/6P9KWnCxmxipKNhXrdKcRn) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Isäni ääni \(Vain elämää kausi 15\)](https://open.spotify.com/album/634wQ7nbd9qeYmlBgjkTQr) | 3:01 | 2024-11-14 | 2024-11-22 |
 | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/track/6Vk0TCNfXU9WhFvboX2Jb6) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [It's About Time \(Vain elämää kausi 15\)](https://open.spotify.com/album/2DBlENWqa5h0LKhzzxUDl1) | 2:44 | 2024-11-28 | 2024-12-06 |

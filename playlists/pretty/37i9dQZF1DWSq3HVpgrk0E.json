@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Don Toliver",
-  "num_followers": 271889,
+  "num_followers": 271885,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,22 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Different Species (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -199,22 +199,22 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+      "duration_ms": 184320,
+      "name": "Different Species (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 123520,
-      "name": "just say dat",
-      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "Trunks (From \"Highest 2 Lowest\")",
         "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 223566,
       "name": "Trunks (From \"Highest 2 Lowest\")",
       "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -403,26 +403,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 153400,
       "name": "GUILT TRIPPIN (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "at my purest (feat. Offset)",
-      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 236626,
       "name": "Money On Money (feat. Future)",
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "at my purest (feat. Offset)",
+      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 206711,
       "name": "Outside",
       "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2026-02-06 00:00:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-06 00:00:06",
       "album": {
-        "name": "DPMO",
-        "url": "https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 111462,
-      "name": "DPMO",
-      "url": "https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0"
-    },
-    {
-      "added_at": "2026-02-06 00:00:06",
-      "album": {
         "name": "Classy Girl",
         "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 173800,
       "name": "Classy Girl",
       "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+    },
+    {
+      "added_at": "2026-02-06 00:00:06",
+      "album": {
+        "name": "DPMO",
+        "url": "https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 111462,
+      "name": "DPMO",
+      "url": "https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0"
     },
     {
       "added_at": "2026-02-06 00:00:06",

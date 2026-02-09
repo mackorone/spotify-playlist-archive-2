@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 187611,
       "name": "5 In De Klok",
       "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
@@ -364,6 +364,24 @@
       "duration_ms": 210530,
       "name": "Drink Rode Wijn",
       "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
+    },
+    {
+      "album": {
+        "name": "Droomwereld",
+        "url": "https://open.spotify.com/album/23kBLHQFMXTBQbsI4PZ9Kt"
+      },
+      "artists": [
+        {
+          "name": "Vinzzent",
+          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Dromendans",
+      "url": "https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj"
     },
     {
       "album": {
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 223133,
       "name": "Kleine Jongen",
       "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 203799,
       "name": "Pure Verleiding",
       "url": "https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF"

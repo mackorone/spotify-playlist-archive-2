@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Souly",
-  "num_followers": 578145,
+  "num_followers": 578093,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG97wUf4yDt87tREvM/NBZjJem0q",
+  "snapshot_id": "AAAAAFS+jxogpOgPVg/TcrShIl04LiEq",
   "tracks": [
     {
       "added_at": "2026-01-30 11:47:22",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 216201,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Ma Shawty",
         "url": "https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 177159,
       "name": "Ma Shawty",
       "url": "https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 216201,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -399,6 +399,26 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "duration_ms": 161882,
+      "name": "Vermissen (feat. Henning May)",
+      "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "Sch\u00f6n, dass du da warst",
         "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 168727,
       "name": "Geboren um zu leben",
       "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        },
-        {
-          "name": "Henning May",
-          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
-        }
-      ],
-      "duration_ms": 161882,
-      "name": "Vermissen (feat. Henning May)",
-      "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -507,26 +507,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Die Hoffnung klaut mir Niemand",
-        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Die Sonne",
-      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "GOTTES PLAN",
         "url": "https://open.spotify.com/album/77lC6e7OHx3EjIIT7ZGPma"
       },
@@ -543,22 +523,6 @@
       "duration_ms": 170093,
       "name": "GOTTES PLAN",
       "url": "https://open.spotify.com/track/4IZVlrRu9LV1T51nK9SXMQ"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 211446,
-      "name": "24",
-      "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -583,6 +547,22 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 211446,
+      "name": "24",
+      "url": "https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "WEEKEND",
         "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 142640,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Die Sonne",
+      "url": "https://open.spotify.com/track/1TqC60H8LMZc4Gi4M56t6m"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -703,42 +703,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Nie wieder",
-        "url": "https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY"
-      },
-      "artists": [
-        {
-          "name": "Zuna",
-          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
-        },
-        {
-          "name": "Alies",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "Nie wieder",
-      "url": "https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
@@ -763,6 +727,26 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Nie wieder",
+        "url": "https://open.spotify.com/album/4n17pN1bg08cqAMnogswkY"
+      },
+      "artists": [
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        },
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Nie wieder",
+      "url": "https://open.spotify.com/track/6HENsmG5BVQpVaewDUTlqq"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "L\u00e4cheln (Wenn ich wein)",
         "url": "https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 129705,
       "name": "L\u00e4cheln (Wenn ich wein)",
       "url": "https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -811,22 +811,6 @@
       "duration_ms": 182478,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0x6Dd2PjKpp50UHtQF2xqF"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Gezeichnet von dir",
-        "url": "https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "Gezeichnet von dir",
-      "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -879,6 +863,22 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Gezeichnet von dir",
+        "url": "https://open.spotify.com/album/74f5BH05TncUY0a5t1jnN8"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Gezeichnet von dir",
+      "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "Plug",
         "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 168750,
       "name": "Keiner Wei\u00df",
       "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Welt retten",
-        "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "Welt retten",
-      "url": "https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -983,22 +963,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "H\u00c4SSLICH",
-        "url": "https://open.spotify.com/album/1xvE8ZQ6pUO0E76X2CpX21"
-      },
-      "artists": [
-        {
-          "name": "Ramazan",
-          "url": "https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE"
-        }
-      ],
-      "duration_ms": 142417,
-      "name": "H\u00c4SSLICH",
-      "url": "https://open.spotify.com/track/0JsthgmpLbNvAnFkDSA9AM"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1015,6 +979,42 @@
       "duration_ms": 160226,
       "name": "Passion (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "H\u00c4SSLICH",
+        "url": "https://open.spotify.com/album/1xvE8ZQ6pUO0E76X2CpX21"
+      },
+      "artists": [
+        {
+          "name": "Ramazan",
+          "url": "https://open.spotify.com/artist/5nZ1QrOYHyb1x8DrLjwFJE"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "H\u00c4SSLICH",
+      "url": "https://open.spotify.com/track/0JsthgmpLbNvAnFkDSA9AM"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Welt retten",
+        "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "Welt retten",
+      "url": "https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1067,42 +1067,6 @@
       "duration_ms": 146012,
       "name": "Ich hoff",
       "url": "https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Wegen dir",
-        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "Wegen dir",
-      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Gesegnet",
-        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 191450,
-      "name": "Gesegnet",
-      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1163,6 +1127,26 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
+        "name": "Gesegnet",
+        "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Gesegnet",
+      "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
         "name": "Dieses eine Lied",
         "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
       },
@@ -1179,34 +1163,18 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Schwarzer Tee",
-        "url": "https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1"
+        "name": "Wegen dir",
+        "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
       },
       "artists": [
         {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 143067,
-      "name": "Schwarzer Tee",
-      "url": "https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+      "duration_ms": 150880,
+      "name": "Wegen dir",
+      "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1227,6 +1195,38 @@
       "duration_ms": 195692,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Schwarzer Tee",
+        "url": "https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "duration_ms": 143067,
+      "name": "Schwarzer Tee",
+      "url": "https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Mann vom Fach",
-        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Mann vom Fach",
-      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 184615,
       "name": "Erkl\u00e4re mir die Liebe",
       "url": "https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Mann vom Fach",
+        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Mann vom Fach",
+      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-01-30 11:47:22",
       "album": {
-        "name": "Weinst du",
-        "url": "https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1"
-      },
-      "artists": [
-        {
-          "name": "Stickle",
-          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
-        },
-        {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
-        }
-      ],
-      "duration_ms": 136564,
-      "name": "Weinst du",
-      "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 163149,
       "name": "Denkst du an mich",
       "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Weinst du",
+        "url": "https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1"
+      },
+      "artists": [
+        {
+          "name": "Stickle",
+          "url": "https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo"
+        },
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "duration_ms": 136564,
+      "name": "Weinst du",
+      "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1643,6 +1643,22 @@
       "duration_ms": 160653,
       "name": "Fr\u00fchling im Viertel 2.0 (feat. Kane)",
       "url": "https://open.spotify.com/track/5jtca751346RjMOjNh4M0P"
+    },
+    {
+      "added_at": "2026-01-30 11:47:22",
+      "album": {
+        "name": "Nie wieder",
+        "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Nie wieder",
+      "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
     },
     {
       "added_at": "2026-01-30 11:47:22",
@@ -1695,22 +1711,6 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
-    },
-    {
-      "added_at": "2026-01-30 11:47:22",
-      "album": {
-        "name": "Nie wieder",
-        "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Nie wieder",
-      "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
     },
     {
       "added_at": "2026-01-30 11:47:22",

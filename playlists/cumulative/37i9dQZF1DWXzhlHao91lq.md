@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-302 songs - 17 hr 6 min
+303 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Hurricane](https://open.spotify.com/track/2wfuK8f77bybu2MWiQ5Evn) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hurricane](https://open.spotify.com/album/267C1h0KBd2QGM368Ef9ue) | 3:21 | 2022-08-08 | 2022-11-13 |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2022-05-30 | 2022-07-29 |
 | [I Ain't Perfect](https://open.spotify.com/track/7lD4bwbBCqukPke3Xt1Ncs) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:22 | 2022-07-25 | 2025-10-02 |
+| [i can be a tyrant](https://open.spotify.com/track/0F2GwZG6g1Eb6CCxps8bJA) | [Lauren Tung](https://open.spotify.com/artist/4Mx6Y4f5VGKwtq2ekpDR1O) | [i can be a tyrant](https://open.spotify.com/album/7kWMBbtzaEyYpi8bZsIlsI) | 2:34 | 2026-02-08 |  |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-26 | 2025-03-23 |
 | [I Dreamed a Dream](https://open.spotify.com/track/12Q09sClf7Sahx8XrJww6c) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [I Dreamed a Dream](https://open.spotify.com/album/5lFYBVo9LAqpgfOF7g3LDE) | 3:09 | 2025-12-21 | 2026-01-15 |
 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 | 2025-09-14 |  |
@@ -290,7 +291,7 @@
 | [where do i go?](https://open.spotify.com/track/5sn3NDqkXVfWj0r7HhdeFj) | [JQ x ZUL](https://open.spotify.com/artist/5TrKlQCi5tcAKAXfWKrR4N) | [where do i go?](https://open.spotify.com/album/2LGiCNgUyWiwBNlo83FQFD) | 2:57 | 2022-05-30 | 2022-07-14 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-07-25 | 2022-08-09 |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-07-25 |  |
-| [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 | 2026-02-01 |  |
+| [Whisper In Her Ear](https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Ash & Clay](https://open.spotify.com/album/151a4bghgq5jgbaZt96p71) | 4:04 | 2026-02-01 | 2026-02-09 |
 | [Who's She](https://open.spotify.com/track/5wwsojnDfF6vQMxWgO3H2L) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:19 | 2022-08-08 | 2022-10-06 |
 | [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 | 2022-08-08 | 2023-11-11 |
 | [Winter](https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 3:23 | 2023-12-18 |  |

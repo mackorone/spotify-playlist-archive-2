@@ -5506,7 +5506,7 @@
     {
       "album": {
         "name": "Mono (feat. skaiwater)",
-        "url": "https://open.spotify.com/album/4FbuxAECa56oJs71RE9acG"
+        "url": "https://open.spotify.com/album/7apkvREB31WMcanFwUdrls"
       },
       "artists": [
         {
@@ -5521,6 +5521,28 @@
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Mono (feat. skaiwater)",
+      "url": "https://open.spotify.com/track/3VxmXJ4FdtbWI27p3Gx4Wh"
+    },
+    {
+      "album": {
+        "name": "Mono (feat. skaiwater)",
+        "url": "https://open.spotify.com/album/4FbuxAECa56oJs71RE9acG"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2026-02-09",
       "duration_ms": 170653,
       "name": "Mono (feat. skaiwater)",
       "url": "https://open.spotify.com/track/7rvmQB9tqUHWO6weobTGPO"
@@ -6398,7 +6420,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/491ca80N1C63tpoLvAsLKb"
@@ -6416,7 +6438,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
@@ -8880,7 +8902,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -8898,7 +8920,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"

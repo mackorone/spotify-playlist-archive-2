@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Buck Meek",
-  "num_followers": 93724,
+  "num_followers": 93718,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 210301,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -643,6 +627,22 @@
       "duration_ms": 282459,
       "name": "Spike Island",
       "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
+      },
+      "artists": [
+        {
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 131906,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 285240,
       "name": "The Scythe",
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 131906,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Neon Grey Midnight Green",
-        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Wreck",
-      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Just Can't Wait",
         "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Neon Grey Midnight Green",
+        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Wreck",
+      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Television Love",
         "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 280800,
       "name": "Television Love",
       "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -995,6 +979,22 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Uno II",
-        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Uno II",
-      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 220509,
       "name": "Lover",
       "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Uno II",
+        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "100 Horses",
         "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "Still Above",
         "url": "https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 323960,
       "name": "The Jamie Oliver Petrol Station",
       "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Of Amber",
+      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
+        "name": "Bell",
+        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 268768,
+      "name": "Bell",
+      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
         "name": "24 Hr Sports",
         "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
       },
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Bell",
-        "url": "https://open.spotify.com/album/0qr1BVtDNgBGCHfMU0eko9"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 268768,
-      "name": "Bell",
-      "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "NATIONAL AVERAGE.",
         "url": "https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 189842,
       "name": "GOD SAVE THE PONY.",
       "url": "https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Of Amber",
-      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-01-12 08:37:59",
       "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
         "name": "Let All That We Imagine Be The Light",
         "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 273598,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7y9jNvL0e0jTu0yr4OJ7Yd"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1615,6 +1615,22 @@
       "duration_ms": 267769,
       "name": "Never Felt Better",
       "url": "https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv"
+    },
+    {
+      "added_at": "2026-01-12 08:37:59",
+      "album": {
+        "name": "Got to Have Love",
+        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 292228,
+      "name": "Got to Have Love",
+      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
     },
     {
       "added_at": "2026-01-12 08:37:59",
@@ -1651,22 +1667,6 @@
       "duration_ms": 209773,
       "name": "He Wants Me",
       "url": "https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq"
-    },
-    {
-      "added_at": "2026-01-12 08:37:59",
-      "album": {
-        "name": "Got to Have Love",
-        "url": "https://open.spotify.com/album/2bMabGrC1sdXbXykn6t0Ij"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 292228,
-      "name": "Got to Have Love",
-      "url": "https://open.spotify.com/track/4bhA5X3qMEcTycEoW6BvJ2"
     }
   ],
   "unique_name": "The Listening Post",

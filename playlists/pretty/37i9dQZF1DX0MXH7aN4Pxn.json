@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731968,
+  "num_followers": 731949,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "DRIVE",
         "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 129817,
       "name": "Hot In It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Satisfaction Skank",
         "url": "https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 199488,
       "name": "Satisfaction Skank",
       "url": "https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Cops & Robbers",
-        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
+        "name": "Beat Is Jumping",
+        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 161495,
-      "name": "Cops & Robbers",
-      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
+      "duration_ms": 139436,
+      "name": "Beat Is Jumping",
+      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Cops & Robbers",
+        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "Cops & Robbers",
+      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Beat Is Jumping",
-        "url": "https://open.spotify.com/album/3W210elro9LvnY46RJBNAn"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 139436,
-      "name": "Beat Is Jumping",
-      "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
       },
@@ -1503,26 +1503,6 @@
       "duration_ms": 164914,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Damager",
-        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 224591,
-      "name": "Damager",
-      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1555,6 +1535,26 @@
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "I Loved You (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
       },
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Birds In The Sky",
         "url": "https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X"
       },
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Mitsubishi (feat. Muki)",
         "url": "https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 176021,
       "name": "Mitsubishi (feat. Muki)",
       "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2026-01-23 00:00:40",

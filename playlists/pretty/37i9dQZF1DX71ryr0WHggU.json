@@ -1,6 +1,6 @@
 {
   "description": "Let's go out out \ud83e\udea9",
-  "num_followers": 83580,
+  "num_followers": 83587,
   "original_name": "Out Out",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "True Confessions (Collector's Edition)",
-        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 229164,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
-    },
-    {
-      "added_at": "2024-06-29 01:56:48",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 183888,
       "name": "Super Graphic Ultra Modern Girl",
       "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU"
+    },
+    {
+      "added_at": "2024-06-29 01:56:48",
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
     },
     {
       "added_at": "2024-06-29 01:56:48",

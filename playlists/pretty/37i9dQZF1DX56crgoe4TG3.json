@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 283908,
+  "num_followers": 283909,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Going to California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
@@ -343,26 +363,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 315309,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 302746,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -451,6 +435,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Red On Blonde",
         "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 242760,
       "name": "Senor (Tales Of Yankee Power)",
       "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Shaken By A Low Sound",
+        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -487,22 +503,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Shaken By A Low Sound",
-        "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Come On In My Kitchen",
-      "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
         "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 261413,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -563,6 +547,22 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -871,8 +871,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Possum",
-        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 333013,
-      "name": "Possum",
-      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+      "duration_ms": 199297,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -935,42 +935,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Yellow Ledbetter",
-        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Yellow Ledbetter",
-      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 199297,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -991,6 +955,42 @@
       "duration_ms": 228480,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Yellow Ledbetter",
+        "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1143,54 +1143,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Elderly Woman Behind the Counter in a Small Town",
-        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
-      },
-      "artists": [
-        {
-          "name": "Drunken Hearts",
-          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        },
-        {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        },
-        {
-          "name": "Silas Herman",
-          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
-        }
-      ],
-      "duration_ms": 221913,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
-      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "You Can Close Your Eyes",
-      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wagon Wheel",
         "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
@@ -1219,6 +1171,54 @@
       "duration_ms": 289196,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "You Can Close Your Eyes",
+      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Elderly Woman Behind the Counter in a Small Town",
+        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
+      },
+      "artists": [
+        {
+          "name": "Drunken Hearts",
+          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Silas Herman",
+          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
+        }
+      ],
+      "duration_ms": 221913,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
+      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1267,6 +1267,22 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
       },
       "artists": [
         {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
         }
       ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1355,22 +1371,6 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1567,22 +1551,6 @@
       "duration_ms": 208026,
       "name": "In Tall Buildings",
       "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1603,18 +1571,34 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "We Just Disagree",
-        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
       "artists": [
         {
-          "name": "Volume Five",
-          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 191600,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1631,6 +1615,22 @@
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "We Just Disagree",
+        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
+      },
+      "artists": [
+        {
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
     },
     {
       "added_at": "2026-02-04 05:00:53",

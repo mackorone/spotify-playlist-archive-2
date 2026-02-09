@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: JELISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,347 likes - 108 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,576 likes - 108 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

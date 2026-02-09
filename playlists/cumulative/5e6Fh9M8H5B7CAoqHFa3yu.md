@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,861 songs - 4 day 15 hr 42 min
+1,863 songs - 4 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
 | [Donna](https://open.spotify.com/track/66sdHutyhAscFkVzSW4TIA) | [LadyCatFree](https://open.spotify.com/artist/1QOBbwFFEiby0ceGMMwzRO) | [Freedom](https://open.spotify.com/album/3tsDWU8dCCgwpBloj9AVG0) | 3:22 | 2024-06-24 |  |
+| [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 | 2026-02-08 |  |
 | [Double Sword Dub](https://open.spotify.com/track/7BjF9cIwLENsyttCCXemyu) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 3:50 | 2024-03-10 |  |
 | [Douze balles](https://open.spotify.com/track/4U6ddIuwHwLpffZMvlYSwB) | [Donnie Ace](https://open.spotify.com/artist/2NzFb0RWC4MP4kfN7wdg6v) | [Douze balles](https://open.spotify.com/album/4JsPHtp8gjHjpcaDuUUCtn) | 3:04 | 2025-06-05 |  |
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2025-06-10 |  |
@@ -1758,6 +1759,7 @@
 | [Warning](https://open.spotify.com/track/7klOJejCcDotE1mMKEbn9l) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [MKD](https://open.spotify.com/album/6JpOy0NsksNvyMAiqIHri3) | 5:58 | 2024-03-10 |  |
 | [Warning \- Micronomade Remix](https://open.spotify.com/track/3Yk03gaR9TkTFxS2XOMmZD) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Micronomade](https://open.spotify.com/artist/0pSqI0rE5UF7zviRWrkmAf) | [Warning \(Micronomade Remix\)](https://open.spotify.com/album/4OpItgA73V6NBArSqCcJgM) | 4:14 | 2025-01-24 |  |
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |
+| [Wasted Time](https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm) | 4:11 | 2026-02-08 |  |
 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 | 2025-12-30 |  |
 | [we ball](https://open.spotify.com/track/7myDvJcijK8Jzh7hKcjQ19) | [ukiyo!](https://open.spotify.com/artist/0gvFPkzigO3d8zneBQGPkQ) | [we ball](https://open.spotify.com/album/0a6zBeVl8WRvvHFcpDWCd6) | 1:29 | 2026-01-04 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |

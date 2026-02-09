@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: sombr",
-  "num_followers": 13398,
+  "num_followers": 13402,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -491,6 +491,38 @@
       "duration_ms": 178461,
       "name": "Beat Yourself Up",
       "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "American Heart",
+        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Mr Electric Blue",
+      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -543,24 +575,8 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "American Heart",
-        "url": "https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Mr Electric Blue",
-      "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
@@ -568,25 +584,9 @@
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 104400,
-      "name": "De Madrug\u00e1",
-      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 104400,
+      "name": "De Madrug\u00e1",
+      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "Headphones On",
         "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 240308,
       "name": "Headphones On",
       "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "This Is Acting (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 197160,
       "name": "Momma Song",
       "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
+        "url": "https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv"
+      },
+      "artists": [
+        {
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+        },
+        {
+          "name": "MamaRika",
+          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
+        }
+      ],
+      "duration_ms": 160972,
+      "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
+      "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -819,26 +839,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
-        "url": "https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv"
-      },
-      "artists": [
-        {
-          "name": "Alena Omargalieva",
-          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
-        },
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 160972,
-      "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
-      "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 192043,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
-        "url": "https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        },
-        {
-          "name": "POSITIFF",
-          "url": "https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME"
-        }
-      ],
-      "duration_ms": 148423,
-      "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
-      "url": "https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -911,6 +891,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
+      },
+      "artists": [
+        {
+          "name": "Monokate",
+          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
+        }
+      ],
+      "duration_ms": 166486,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
         "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
       },
@@ -931,38 +927,6 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
-      },
-      "artists": [
-        {
-          "name": "Monokate",
-          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
-        }
-      ],
-      "duration_ms": 166486,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV"
-    },
-    {
-      "added_at": "2026-02-05 22:00:29",
-      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -979,18 +943,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
-        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
-        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
+        "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
+        "url": "https://open.spotify.com/album/0KgdsfCECyNhkkCkyiuT4k"
       },
       "artists": [
         {
           "name": "DOROFEEVA",
           "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        },
+        {
+          "name": "POSITIFF",
+          "url": "https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME"
         }
       ],
-      "duration_ms": 152076,
-      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
-      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
+      "duration_ms": 148423,
+      "name": "\u0421\u043c\u0430\u043a-\u043f\u0435\u0447\u0430\u043b\u044c",
+      "url": "https://open.spotify.com/track/6CTjxo3YyfvfJzBXhDN5Yx"
     },
     {
       "added_at": "2026-02-05 22:00:29",
@@ -1027,6 +995,22 @@
     {
       "added_at": "2026-02-05 22:00:29",
       "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
         "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
         "url": "https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 178857,
       "name": "\u041c\u0438\u043b\u0430 \u043c\u043e\u044f",
       "url": "https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q"
+    },
+    {
+      "added_at": "2026-02-05 22:00:29",
+      "album": {
+        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
     },
     {
       "added_at": "2026-02-05 22:00:29",

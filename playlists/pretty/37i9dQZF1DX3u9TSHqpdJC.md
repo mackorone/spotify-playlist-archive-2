@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Cherry Bomb\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,752 likes - 58 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,783 likes - 58 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

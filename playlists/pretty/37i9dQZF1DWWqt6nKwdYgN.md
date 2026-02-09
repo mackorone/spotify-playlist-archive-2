@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Kei Linch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,819 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,821 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 10 | [La Bestia](https://open.spotify.com/track/637DalsHSQgDH4YA5qqRsW) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS) | [La Bestia](https://open.spotify.com/album/2tLnc9SMjbiOzJKcP3xicG) | 3:00 |
 | 11 | [Contando](https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY) | [Luis Carrillo](https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn), [Julian Leyva](https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv) | [Contando](https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2) | 3:11 |
 | 12 | [COLOMBIA](https://open.spotify.com/track/6jNRDlZuRYQSSbN3SdwEEK) | [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [COLOMBIA](https://open.spotify.com/album/4iEV3MbsTM2ojGtN8hoT9P) | 2:44 |
-| 13 | [Nintendo](https://open.spotify.com/track/0E03PVvYeOUM2bOJjEifxj) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Nintendo](https://open.spotify.com/album/5ZVuqaUwntzIGUpWNKetBe) | 3:06 |
+| 13 | [Nintendo](https://open.spotify.com/track/0E03PVvYeOUM2bOJjEifxj) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [MajesticB](https://open.spotify.com/artist/3NipeCEk2y7aywQmZoOzQa) | [Nintendo](https://open.spotify.com/album/5ZVuqaUwntzIGUpWNKetBe) | 3:06 |
 | 14 | [SE FELIZ :\( \- 07:00](https://open.spotify.com/track/4vsG8CillpNPNP1BsyzsKa) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [SE FELIZ :\( \- 07:00](https://open.spotify.com/album/0yn2VqUkpNTgRdzIRUgmrL) | 2:38 |
 | 15 | [Caos](https://open.spotify.com/track/7xLKArdIQUDkFPnhppLeeQ) | [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [El sonido del javier](https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u) | [Caos](https://open.spotify.com/album/0CIla6HQ3cCBbVSbR78w7r) | 4:00 |
 | 16 | [4Eva](https://open.spotify.com/track/52xW1HhAzafMIAvLfi76Uk) | [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Cow](https://open.spotify.com/artist/6AbP3iDuENoFR3nLZC3VpP) | [4Eva](https://open.spotify.com/album/5MOqBy3Z8735wEyr9ZexNI) | 4:05 |

@@ -4,7 +4,7 @@
 
 > 🤝
 
-197 songs - 9 hr 11 min
+198 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Goodbyes](https://open.spotify.com/track/104eKHpLYOeVxw3joHrZnw) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa) | [Goodbyes](https://open.spotify.com/album/0b9Rd4ncT5enRP5Ust9OOI) | 2:06 | 2026-01-08 |  |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2024-08-30 |
 | [gått for langt](https://open.spotify.com/track/3yf9IkNSbetNEyFmBIxzSN) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [gått for langt](https://open.spotify.com/album/7qPryUFuLkUX8N817uBaVZ) | 2:34 | 2025-01-23 | 2025-04-04 |
+| [Heartless](https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Heartless](https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m) | 2:36 | 2026-02-05 |  |
 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 | 2024-08-01 | 2025-05-02 |
 | [Hemmelighet](https://open.spotify.com/track/70KTjCosrAcVr2da6y1mTq) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Beige, tam og middels mann](https://open.spotify.com/album/5pLY7JQg79i2pWgmO8ackZ) | 3:11 | 2024-09-05 | 2024-09-20 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-27 | 2024-10-03 |
@@ -113,7 +114,7 @@
 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 | 2025-08-14 | 2025-12-05 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [Like I Tried To Save You](https://open.spotify.com/track/6fiYBguLSNJaEjiEaSDnvH) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [Go Find Your Lover!](https://open.spotify.com/album/1pcAjs1D1zNBfyd5GPVzGR) | 2:53 | 2024-11-14 | 2024-12-20 |
-| [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 | 2025-09-11 |  |
+| [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 | 2025-09-11 | 2026-02-09 |
 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2024-06-27 | 2025-09-19 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2025-05-02 |
 | [LUV \(Studz\)](https://open.spotify.com/track/5bqP1GCEqCrg2yU0bTO7aQ) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Sjakklubb](https://open.spotify.com/artist/0Wv1O0aA5CyUVdrwh4JZ1n) | [LUV \(Studz\)](https://open.spotify.com/album/4duFN3ZyqfIkf0xm9S78Fb) | 2:03 | 2025-04-03 | 2025-06-27 |

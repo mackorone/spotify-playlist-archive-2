@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313919,
+  "num_followers": 1313898,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "duration_ms": 200353,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Jack August",
-          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
-        }
-      ],
-      "duration_ms": 200353,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
-      },
-      "artists": [
-        {
-          "name": "Luke Alexander",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
-        }
-      ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Gimme That Money",
         "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 164653,
       "name": "You Love It",
       "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "FSU",
@@ -1579,6 +1563,22 @@
       "duration_ms": 149108,
       "name": "FSU",
       "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1829,26 +1829,6 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
-    },
-    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Dale Earnhardt",
@@ -1871,6 +1851,42 @@
       "duration_ms": 178181,
       "name": "Dale Earnhardt",
       "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Aha",
         "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
       },
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 207425,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 207425,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
         "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 192157,
       "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
       "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 146953,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/5tM3YeMKYKE8uoWG0QX6rR"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 166875,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/4W2mMZrIdCu8wmHB9Eq2ER"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 146953,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
     },
     {
       "added_at": "2026-01-09 16:39:37",

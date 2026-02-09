@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Gui Boratto, House of EL
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,060 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,066 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,681 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,684 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
 | 50 | [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 |
 
-Snapshot ID: `aYPdgAAAAABFYIbS7IgXKBNVVF5L/glS`
+Snapshot ID: `aYPdgAAAAABjpywun3LMx4+HxZCcN+qI`

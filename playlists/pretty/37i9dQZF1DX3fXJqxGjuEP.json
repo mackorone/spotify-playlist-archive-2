@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 700095,
+  "num_followers": 700124,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
-        "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
+        "name": "Serenatas Frente al Mar",
+        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         },
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 247733,
-      "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
-      "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
+      "duration_ms": 197850,
+      "name": "Serenatas Frente al Mar",
+      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -447,22 +443,26 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Serenatas Frente al Mar",
-        "url": "https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie"
+        "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
+        "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         },
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 197850,
-      "name": "Serenatas Frente al Mar",
-      "url": "https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV"
+      "duration_ms": 247733,
+      "name": "Se Fue - Con Ximena Sari\u00f1ana y Elsa y Elmar",
+      "url": "https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -959,22 +939,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Satingarona Pt. 2",
-        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
       "artists": [
         {
-          "name": "The Bongo Hop",
-          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
         },
         {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
-      "duration_ms": 327923,
-      "name": "Sonora",
-      "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -995,6 +975,26 @@
       "duration_ms": 214777,
       "name": "Dividido",
       "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Satingarona Pt. 2",
+        "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
+      },
+      "artists": [
+        {
+          "name": "The Bongo Hop",
+          "url": "https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "duration_ms": 327923,
+      "name": "Sonora",
+      "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "La F\u00f3rmula del Mambo",
+        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Amor Entre Mujer",
         "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 272799,
       "name": "Amor Entre Mujer",
       "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "La F\u00f3rmula del Mambo",
-        "url": "https://open.spotify.com/album/5jcABCMrlcC4MbVj9gQgZK"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/6IofZsRQ0fWlKjDHBNBnuH"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Pescador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Chicharron",
-          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
-        }
-      ],
-      "duration_ms": 238861,
-      "name": "Mi Querer",
-      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "So\u00f1ando",
         "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Pescador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1DtKs4ri0nya6YmWd6WlrP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Chicharron",
+          "url": "https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s"
+        }
+      ],
+      "duration_ms": 238861,
+      "name": "Mi Querer",
+      "url": "https://open.spotify.com/track/0zkPY5HjDwraDSJtAidTCb"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Todo el D\u00eda en la Cama",
-        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 206284,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Todo el D\u00eda en la Cama",
+        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
     },
     {
       "added_at": "2025-11-14 06:00:12",

@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113318,
+  "num_followers": 113329,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -227,34 +227,6 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
-        "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
-      },
-      "artists": [
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
         "name": "Tu Me Quieres",
         "url": "https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF"
       },
@@ -279,6 +251,34 @@
       "duration_ms": 214285,
       "name": "Tu Me Quieres - Prod. by Higashi x Roberto Ferrante",
       "url": "https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
+        "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu"
+      },
+      "artists": [
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Warzone (feat. Artie 5ive, Capo Plaza & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -371,26 +371,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
-      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -415,22 +411,26 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         },
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
         }
       ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+      "duration_ms": 245853,
+      "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
+      "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 201845,
       "name": "Cookies N' Cream (feat. ANNA & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 218769,
-      "name": "Serio (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
         "name": "BAMBOLA (feat. Niky Savage)",
         "url": "https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX"
       },
@@ -919,22 +899,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+      "duration_ms": 218769,
+      "name": "Serio (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -959,26 +939,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Containers",
-        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
       },
       "artists": [
         {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
         },
         {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 204668,
-      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
-      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -999,6 +975,30 @@
       "duration_ms": 119217,
       "name": "BIKINI (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "duration_ms": 204668,
+      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Tutti i giorni",
+      "url": "https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 157168,
       "name": "Fino All'Alba",
       "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Tutti i giorni",
-      "url": "https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -1511,22 +1511,18 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -1551,26 +1547,6 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "HARDER (feat. Low-Red)",
-        "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Low-Red",
-          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "HARDER (feat. Low-Red)",
-      "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
         "name": "TAXI SULLA LUNA",
         "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
       },
@@ -1591,6 +1567,26 @@
       "duration_ms": 143500,
       "name": "TAXI SULLA LUNA",
       "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
+        "name": "HARDER (feat. Low-Red)",
+        "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "HARDER (feat. Low-Red)",
+      "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
       "artists": [
         {
           "name": "Rhove",
           "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2026-01-15 23:01:16",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2026-01-15 23:01:16",
       "album": {
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+    },
+    {
+      "added_at": "2026-01-15 23:01:16",
+      "album": {
         "name": "OGNI MUSICA",
         "url": "https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 115312,
       "name": "A.D.H.D. (con Datkid, Melons)",
       "url": "https://open.spotify.com/track/0Zw0ZJkTplOO3weqcZHxjF"
-    },
-    {
-      "added_at": "2026-01-15 23:01:16",
-      "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2026-01-15 23:01:16",

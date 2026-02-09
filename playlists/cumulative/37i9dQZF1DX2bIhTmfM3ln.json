@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 169444,
       "name": "France Feeling",
       "url": "https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43"
@@ -7738,6 +7738,28 @@
       "duration_ms": 115575,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD"
+    },
+    {
+      "album": {
+        "name": "Ifeoma II",
+        "url": "https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7"
+      },
+      "artists": [
+        {
+          "name": "Coblaze",
+          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151724,
+      "name": "Ifeoma II",
+      "url": "https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB"
     },
     {
       "album": {

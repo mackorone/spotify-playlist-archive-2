@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 198261,
+  "num_followers": 198290,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-10-14 05:26:51",
       "album": {
+        "name": "\u0643\u0644 \u0648\u0639\u062f",
+        "url": "https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H"
+      },
+      "artists": [
+        {
+          "name": "Wael Jassar",
+          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
+        }
+      ],
+      "duration_ms": 208846,
+      "name": "\u0643\u0644 \u0648\u0639\u062f",
+      "url": "https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW"
+    },
+    {
+      "added_at": "2025-10-14 05:26:51",
+      "album": {
         "name": "Men Da Elly Nesik",
         "url": "https://open.spotify.com/album/2Rnf3KDkagUqQL78Lh1TVO"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 64000,
       "name": "Men Da Elly Nesik",
       "url": "https://open.spotify.com/track/40nMdOO13b130ubQmVPGN3"
-    },
-    {
-      "added_at": "2025-10-14 05:26:51",
-      "album": {
-        "name": "\u0643\u0644 \u0648\u0639\u062f",
-        "url": "https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H"
-      },
-      "artists": [
-        {
-          "name": "Wael Jassar",
-          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
-        }
-      ],
-      "duration_ms": 208846,
-      "name": "\u0643\u0644 \u0648\u0639\u062f",
-      "url": "https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW"
     },
     {
       "added_at": "2025-10-14 05:26:51",

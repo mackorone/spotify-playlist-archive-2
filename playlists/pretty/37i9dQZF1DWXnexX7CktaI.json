@@ -1,6 +1,6 @@
 {
   "description": "forever hits. Cover: Leon Thomas",
-  "num_followers": 2164920,
+  "num_followers": 2164840,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
-      "added_at": "2022-08-03 15:25:39",
+      "added_at": "2023-01-26 12:39:45",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "added_at": "2025-03-28 04:00:41",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-26 12:39:45",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-    },
-    {
-      "added_at": "2023-01-26 12:39:45",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 198294,
       "name": "Don't",
       "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "added_at": "2022-08-03 15:25:39",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2023-06-19 01:53:44",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/64TJKMfx0QxpuR7rTXL05c"
     },
     {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "RY RY WORLD",
-        "url": "https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "All For Me",
-      "url": "https://open.spotify.com/track/7vIDhgD7WWTMpvgJebImoN"
-    },
-    {
       "added_at": "2023-08-11 02:37:59",
       "album": {
         "name": "Still Over It",
@@ -1365,6 +1349,22 @@
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "RY RY WORLD",
+        "url": "https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 178793,
+      "name": "All For Me",
+      "url": "https://open.spotify.com/track/7vIDhgD7WWTMpvgJebImoN"
+    },
+    {
       "added_at": "2023-09-21 22:42:22",
       "album": {
         "name": "WASTELAND",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/1wGpEisE7VmhhSazD8hZ5l"
     },
     {
-      "added_at": "2024-10-31 22:46:47",
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148377,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
-    },
-    {
       "added_at": "2025-09-12 18:52:17",
       "album": {
         "name": "with all due respect",
@@ -1411,6 +1395,22 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "added_at": "2024-10-31 22:46:47",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148377,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": "2022-07-30 03:46:43",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w"
     },
     {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "PERSIAN RUGS",
-      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
-    },
-    {
       "added_at": "2022-07-30 03:34:52",
       "album": {
         "name": "Last Day Of Summer",
@@ -1591,6 +1575,22 @@
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
+    },
+    {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
     },
     {
       "added_at": "2023-01-12 08:17:13",
@@ -1901,22 +1901,6 @@
       "url": "https://open.spotify.com/track/4w9dTbEcJx8uBTxGvUYC0h"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250970,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
       "added_at": "2024-09-27 02:12:37",
       "album": {
         "name": "Nasty",
@@ -1931,6 +1915,22 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250970,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2023-08-11 02:37:59",
@@ -2129,6 +2129,22 @@
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
+      "added_at": "2022-09-24 17:12:30",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "DFMU",
+      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+    },
+    {
       "added_at": "2025-07-04 00:09:20",
       "album": {
         "name": "LVRS PARADISE (SIDE A)",
@@ -2147,22 +2163,6 @@
       "duration_ms": 163144,
       "name": "BUTTERFLIES",
       "url": "https://open.spotify.com/track/4nNpY2RyMQMvlKkQMRb5XQ"
-    },
-    {
-      "added_at": "2022-09-24 17:12:30",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "DFMU",
-      "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -2257,6 +2257,22 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
+      "added_at": "2024-02-12 20:12:33",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
+    },
+    {
       "added_at": "2024-08-30 03:02:48",
       "album": {
         "name": "Jump",
@@ -2279,22 +2295,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2024-02-12 20:12:33",
-      "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
     },
     {
       "added_at": "2025-10-03 03:44:17",
@@ -2401,42 +2401,6 @@
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
-      "added_at": "2025-03-28 04:00:41",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Skin Tight (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
-    },
-    {
-      "added_at": "2023-03-09 23:51:11",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Wild Side (feat. Cardi B)",
@@ -2455,6 +2419,42 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
+    },
+    {
+      "added_at": "2023-03-09 23:51:11",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2025-03-28 04:00:41",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi"
     },
     {
       "added_at": "2023-01-26 12:39:45",
@@ -2517,22 +2517,6 @@
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
     },
     {
-      "added_at": "2025-06-20 04:00:53",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 218397,
-      "name": "Superpowers",
-      "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Come Through (feat. Chris Brown)",
@@ -2551,6 +2535,22 @@
       "duration_ms": 214093,
       "name": "Come Through (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
+    },
+    {
+      "added_at": "2025-06-20 04:00:53",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 218397,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
     },
     {
       "added_at": "2023-01-26 12:39:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Dua Saleh & Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,801 likes - 176 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,749 likes - 176 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

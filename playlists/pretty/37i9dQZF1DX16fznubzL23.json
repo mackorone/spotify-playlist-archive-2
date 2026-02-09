@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 40914,
+  "num_followers": 40942,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-06 00:01:19",
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 196202,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-02-06 00:01:19",
+      "album": {
         "name": "My Dealer",
         "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
-    },
-    {
-      "added_at": "2026-02-06 00:01:19",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 196202,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
     },
     {
       "added_at": "2026-02-06 00:01:19",

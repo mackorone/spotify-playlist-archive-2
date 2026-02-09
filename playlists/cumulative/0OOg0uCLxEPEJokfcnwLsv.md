@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-288 songs - 17 hr 55 min
+289 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-01-29 |  |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
 | [On the Loose](https://open.spotify.com/track/7d1lvt879yCYPAGbpacM04) | [Middle Ages](https://open.spotify.com/artist/0NyhABi9Cb2nGLMMoG6KQF) | [On the Loose](https://open.spotify.com/album/7MWN8qgtZP8KKe5yS0SfmH) | 3:35 | 2025-11-26 | 2026-01-05 |
+| [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 | 2026-02-08 |  |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-12 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 |  |

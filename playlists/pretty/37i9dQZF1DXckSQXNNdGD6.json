@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Marlon Collins.",
-  "num_followers": 21228,
+  "num_followers": 21222,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
-      },
-      "artists": [
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
-        },
-        {
-          "name": "Elettra Lamborghini",
-          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
-        }
-      ],
-      "duration_ms": 182373,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ"
-    },
-    {
-      "added_at": "2026-02-03 23:01:28",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        },
+        {
+          "name": "Elettra Lamborghini",
+          "url": "https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW"
+        }
+      ],
+      "duration_ms": 182373,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ"
+    },
+    {
+      "added_at": "2026-02-03 23:01:28",
+      "album": {
         "name": "MEDUSA",
         "url": "https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG"
       },
@@ -843,22 +843,22 @@
     {
       "added_at": "2026-02-03 23:01:28",
       "album": {
-        "name": "Talk To Mi Nalga",
-        "url": "https://open.spotify.com/album/26d1TNHPLFuGLLxr5Ury0K"
+        "name": "LL\u00c1MAME",
+        "url": "https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo"
       },
       "artists": [
         {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+          "name": "J Kbello",
+          "url": "https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA"
         },
         {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+          "name": "JEDET",
+          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
         }
       ],
-      "duration_ms": 148287,
-      "name": "Talk To Mi Nalga",
-      "url": "https://open.spotify.com/track/7EFXU9W4gz4uuCdbVCgrZ5"
+      "duration_ms": 138428,
+      "name": "LL\u00c1MAME",
+      "url": "https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

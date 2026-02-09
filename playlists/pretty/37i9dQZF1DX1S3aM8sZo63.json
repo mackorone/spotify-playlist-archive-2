@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Luis \u00c1ngel El Flaco en portada \ud83d\udcf8",
-  "num_followers": 1066650,
+  "num_followers": 1066805,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgDyc4j7eoy8eczRVMKoBJD/SuQ",
+  "snapshot_id": "AAAAAIfTk9lTwqN0/7ToFGQdKpL0KRpm",
   "tracks": [
     {
       "added_at": "2026-01-30 15:02:57",
@@ -283,26 +283,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Qu\u00e9 Fuimos (En Vivo)",
-        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Qu\u00e9 Fuimos (En Vivo)",
-      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -315,6 +295,22 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -355,18 +351,22 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 156680,
       "name": "Deja",
       "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "La Mejor De Todas",
         "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 207000,
       "name": "La Mejor De Todas",
       "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Un Vestido de Besos",
-      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Tu Yo Y La Luna",
         "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200386,
       "name": "Si Yo Fuera Ladr\u00f3n",
       "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Un Vestido de Besos",
+      "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/4dmYmIkDXdr42Ul9fAZrHW"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 159517,
       "name": "Alguien Mejor",
       "url": "https://open.spotify.com/track/5RG533H96YnaDKsp0aj2IL"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2026-01-30 15:02:57",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-01-30 15:02:57",
       "album": {
+        "name": "Joan Sebastian",
+        "url": "https://open.spotify.com/album/0LuipAAeA43iDxcaGlljDR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 149884,
+      "name": "Traficante De Besos",
+      "url": "https://open.spotify.com/track/5H4RlQDQWnvRBSI8C6WVlg"
+    },
+    {
+      "added_at": "2026-01-30 15:02:57",
+      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/2PbWbeflQZor3YlEs3N2lh"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 163230,
       "name": "El Amor De Tu Vida",
       "url": "https://open.spotify.com/track/728JhI2Z1GDz1ThXbMIBvl"
-    },
-    {
-      "added_at": "2026-01-30 15:02:57",
-      "album": {
-        "name": "Joan Sebastian",
-        "url": "https://open.spotify.com/album/0LuipAAeA43iDxcaGlljDR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 149884,
-      "name": "Traficante De Besos",
-      "url": "https://open.spotify.com/track/5H4RlQDQWnvRBSI8C6WVlg"
     },
     {
       "added_at": "2026-01-30 15:02:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 482 likes - 70 songs - 4 hr 10 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 482 likes - 71 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 68 | [Shaded](https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Shaded](https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk) | 4:19 |
 | 69 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 |
 | 70 | [I'm Only Sleeping](https://open.spotify.com/track/5uXA2Ss4v2WaqujWoTTmsT) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 3:43 |
+| 71 | [One of a Kind](https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Invisible People](https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g) | 3:59 |
 
-Snapshot ID: `AAACki98w1fWkeyLkAXzYjGV6PMYxKkT`
+Snapshot ID: `AAACk84Ept32k3BRZESy2brrOdeP7RH5`

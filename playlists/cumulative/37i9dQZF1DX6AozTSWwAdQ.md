@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-481 songs - 1 day 1 hr 16 min
+483 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-08-07 | 2023-11-10 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-05-01 |  |
 | [Face Like Yours](https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Face Like Yours](https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G) | 2:41 | 2025-03-03 | 2025-03-24 |
+| [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-08 |  |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-17 |  |
 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 | 2024-04-22 | 2024-07-19 |
 | [Fall 4 u](https://open.spotify.com/track/6EWUXXPFn2S7FBI0W7cs5l) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Fall 4 u](https://open.spotify.com/album/3tZfjLiISFF10SgVj4nsmw) | 3:33 | 2022-10-31 | 2022-11-08 |
@@ -226,7 +227,7 @@
 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-15 | 2023-05-23 |
 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 | 2023-05-01 | 2023-05-09 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-21 |  |
-| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 |  |
+| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 | 2026-02-09 |
 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 | 2023-10-02 | 2023-10-10 |
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj) | 4:08 | 2022-06-27 | 2022-07-16 |
@@ -247,6 +248,7 @@
 | [L.U.S.H.](https://open.spotify.com/track/58LjmBGKL3m3rzD6cUAMeq) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [L.U.S.H.](https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E) | 2:52 | 2022-10-31 | 2022-11-08 |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-10-02 | 2023-11-05 |
 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 | 2024-03-11 | 2024-04-01 |
+| [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-08 |  |
 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 | 2025-04-07 | 2025-10-10 |
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2022-06-06 | 2022-07-28 |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-02-05 | 2024-03-17 |
@@ -466,7 +468,7 @@
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-07-25 |  |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-06-06 |  |
 | [White Horses](https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [White Horses](https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0) | 4:29 | 2025-08-08 | 2025-10-20 |
-| [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 | 2025-12-15 |  |
+| [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 | 2025-12-15 | 2026-02-09 |
 | [wide eyed](https://open.spotify.com/track/4QzG0ODSGoXXvhErFRzUhF) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [wide eyed](https://open.spotify.com/album/12WMVB64zefsxFBLNp0SaC) | 3:34 | 2022-10-17 | 2022-10-25 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-20 | 2023-03-28 |
 | [Wildfire](https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Wildfire](https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT) | 2:46 | 2022-06-06 | 2022-07-24 |

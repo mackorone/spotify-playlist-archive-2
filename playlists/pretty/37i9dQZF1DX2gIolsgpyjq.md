@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: SANDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,636 likes - 138 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,664 likes - 138 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

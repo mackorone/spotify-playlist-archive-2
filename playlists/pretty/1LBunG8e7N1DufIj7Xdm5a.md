@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,075 songs - 9 day 0 hr 16 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,077 songs - 9 day 0 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4083,5 +4083,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4073 | [Why So Dark, Son? \- Album Intro](https://open.spotify.com/track/0twSBF8XOweUbPpmkbX0pb) | [Matthew’s Silent Chapter](https://open.spotify.com/artist/2JUTGg9txxR3B3acyTlFp7) | [Silent Chapter \(Part I\)](https://open.spotify.com/album/2yhfJTPTWQjFXSlIyz3qys) | 6:48 |
 | 4074 | [Work It](https://open.spotify.com/track/2Ys8y3wZJ1PXOugdJxgGVP) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Work It](https://open.spotify.com/album/2WIuOdpHyhY9a7cYZP5ZjS) | 2:03 |
 | 4075 | [Deseos](https://open.spotify.com/track/22oChzp35MRgYG18jktD2y) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Deseos](https://open.spotify.com/album/6D061seVmfQH4eTwP94671) | 4:00 |
+| 4076 | [Witness of the Lie](https://open.spotify.com/track/3lsXyuXyBDQSgKVhEwem65) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:06 |
+| 4077 | [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 |
 
-Snapshot ID: `AAAHdPfeial1INAECVoM+Adj+Cye4D9/`
+Snapshot ID: `AAAHdgfTnEVm3PF8L+7JOwBuFMAP55dD`

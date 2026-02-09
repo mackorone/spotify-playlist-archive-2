@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92178,
+  "num_followers": 92180,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "si me esperas",
         "url": "https://open.spotify.com/album/4QOth8IwUwVPWblM8AdO5r"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 159196,
       "name": "Ay Mamasita",
       "url": "https://open.spotify.com/track/5YrqElRQbXfmx3Xl3aiKwS"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Sin Voz",
-        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 255488,
-      "name": "Sin Voz",
-      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Verde",
         "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 171000,
       "name": "PANAMIUR",
       "url": "https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Sin Voz",
+        "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 255488,
+      "name": "Sin Voz",
+      "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -555,6 +555,30 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Fall\u00e9",
+        "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 135874,
+      "name": "Fall\u00e9",
+      "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "PU\u00d1OS PULSERAS Y PALETAS",
         "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
       },
@@ -579,26 +603,46 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Fall\u00e9",
-        "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
+        "name": "PESADILLA.wav",
+        "url": "https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay"
       },
       "artists": [
         {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
         },
         {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
         },
         {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
         }
       ],
-      "duration_ms": 135874,
-      "name": "Fall\u00e9",
-      "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
+      "duration_ms": 163764,
+      "name": "PESADILLA.wav",
+      "url": "https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "NO ACEPTEN IMITACIONES",
+        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "duration_ms": 155890,
+      "name": "COCINE Y COCINE",
+      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -647,26 +691,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "NO ACEPTEN IMITACIONES",
-        "url": "https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Onemillionkisses",
-          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
-        }
-      ],
-      "duration_ms": 155890,
-      "name": "COCINE Y COCINE",
-      "url": "https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "LLORAR!",
         "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 107200,
       "name": "LLORAR!",
       "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "PESADILLA.wav",
-        "url": "https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay"
-      },
-      "artists": [
-        {
-          "name": "Ikoniko",
-          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
-        },
-        {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "PESADILLA.wav",
-      "url": "https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -751,6 +751,30 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "No Me Quiero Morir",
+        "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "No Me Quiero Morir",
+      "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "\u00a1GLORIA EL CENTRO DE REHABILITACION!",
         "url": "https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 161657,
       "name": "cash cash",
       "url": "https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "No Me Quiero Morir",
-        "url": "https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX"
-      },
-      "artists": [
-        {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
-        },
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 135433,
-      "name": "No Me Quiero Morir",
-      "url": "https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "veranito2k",
+        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "veranito2k",
+      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Me Levant\u00e9 de la Cama",
         "url": "https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 171000,
       "name": "Verano Cruel",
       "url": "https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "veranito2k",
-        "url": "https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "veranito2k",
-      "url": "https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1455,22 +1455,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CATARSIS",
-        "url": "https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP"
+        "name": "REGGAETON CUTE (VOL. 2)",
+        "url": "https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7"
       },
       "artists": [
         {
-          "name": "Cross MX",
-          "url": "https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN"
-        },
-        {
-          "name": "Tzunami",
-          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
         }
       ],
-      "duration_ms": 149413,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV"
+      "duration_ms": 158571,
+      "name": "MI D",
+      "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

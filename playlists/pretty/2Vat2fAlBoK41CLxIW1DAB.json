@@ -6,7 +6,7 @@
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAADg+WxB+TEYOt2QONxFJN67ZgjGbRy",
+  "snapshot_id": "AAADhDqR8oAFrw+cpl/PTz7gfUT6bZfP",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -12092,12 +12092,12 @@
           "url": "https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7"
         },
         {
-          "name": "Tyler Lindsay",
-          "url": "https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg"
-        },
-        {
           "name": "Aaron Taos",
           "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
+        },
+        {
+          "name": "Tyler Lindsay",
+          "url": "https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg"
         }
       ],
       "duration_ms": 108933,
@@ -14395,6 +14395,22 @@
       "duration_ms": 258500,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/35E3gf5Ghv3kLECmXbXQVu"
+    },
+    {
+      "added_at": "2026-02-08 14:45:10",
+      "album": {
+        "name": "Stai pensando qualcosa?",
+        "url": "https://open.spotify.com/album/5sqYayw1qTZ0z2KTAkPRN7"
+      },
+      "artists": [
+        {
+          "name": "Hofmann Orchestra",
+          "url": "https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Stai pensando qualcosa?",
+      "url": "https://open.spotify.com/track/1jnP9aTCGb3MQVDZlJXnbU"
     }
   ],
   "unique_name": "Rock Square",

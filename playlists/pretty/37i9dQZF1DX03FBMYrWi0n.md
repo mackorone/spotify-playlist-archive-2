@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,927 likes - 83 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,973 likes - 83 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

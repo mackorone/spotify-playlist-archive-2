@@ -15200,7 +15200,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 199541,
       "name": "Daj mi noc - koncertowa",
       "url": "https://open.spotify.com/track/1VyFG1CYeKm0CrTsEx50AI"
@@ -15576,7 +15576,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 192411,
       "name": "Dar zeme",
       "url": "https://open.spotify.com/track/5g7CjGrpQRZdqHM3V7FCnG"
@@ -36150,7 +36150,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 139045,
       "name": "Knife",
       "url": "https://open.spotify.com/track/0TKCUjfV3YGuY99MxCKM5w"
@@ -44310,7 +44310,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 214479,
       "name": "MOMENT - DEEP HOUSE REMIX",
       "url": "https://open.spotify.com/track/5sUCXZAnSkCdBLY5uItJlO"
@@ -65892,10 +65892,28 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-09",
       "duration_ms": 138199,
       "name": "Step Into Your Power",
       "url": "https://open.spotify.com/track/7ClwklUld4dOIvUqRMRLVc"
+    },
+    {
+      "album": {
+        "name": "Step Into Your Power",
+        "url": "https://open.spotify.com/album/3kiLuFehYgftg8TUn2ZXN4"
+      },
+      "artists": [
+        {
+          "name": "manifestica_studio",
+          "url": "https://open.spotify.com/artist/7kzZVbD8lYi5Rn7GYinpNf"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138215,
+      "name": "Step Into Your Power",
+      "url": "https://open.spotify.com/track/5TMbImgmrJSwQlN5yayNlb"
     },
     {
       "album": {
@@ -78094,7 +78112,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "wintertime solitude",
       "url": "https://open.spotify.com/track/0elUYWvq5JQFdaVqjFnB29"
@@ -80342,7 +80360,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

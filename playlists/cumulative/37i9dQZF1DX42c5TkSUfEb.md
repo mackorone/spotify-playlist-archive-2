@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-489 songs - 1 day 5 hr 39 min
+490 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Fortitude](https://open.spotify.com/track/77o7oAwo5OSbKvPBzvRwYR) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:33 | 2023-07-04 | 2024-04-19 |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2022-11-25 | 2023-12-14 |
 | [fragile](https://open.spotify.com/track/69MuLCdcWral54JcUz8b1R) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [fragile](https://open.spotify.com/album/6OUDpzfRLCwgMGoLGJctGY) | 2:44 | 2025-11-20 | 2025-12-26 |
-| [Free as a Bird](https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Free as a Bird](https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6) | 3:29 | 2024-04-15 |  |
+| [Free as a Bird](https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv) | [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [Free as a Bird](https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6) | 3:29 | 2024-04-15 | 2026-02-09 |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2023-11-20 | 2024-02-09 |
 | [Future Ghosts](https://open.spotify.com/track/4qAgGrSjZGg1tpSk0wEslY) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Future Ghosts](https://open.spotify.com/album/7q8YXz7fBjSgE13ZsJEB8I) | 3:28 | 2024-03-27 | 2025-06-28 |
 | [Gaffe aux autres](https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR) | 2:57 | 2023-07-27 | 2024-04-19 |
@@ -355,6 +355,7 @@
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-27 | 2023-11-21 |
 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 | 2023-03-27 | 2023-05-13 |
 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-18 |  |
+| [Puro](https://open.spotify.com/track/1561A0KDSbrQR4WW0dTeyt) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Puro](https://open.spotify.com/album/7LRVYzAIgLOvrDvezhVd6r) | 3:50 | 2026-02-06 |  |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-10-04 | 2024-12-10 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-12 |  |
 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-28 | 2025-09-19 |

@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 82357,
+  "num_followers": 82376,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "me acostumbro",
+        "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
+      },
+      "artists": [
+        {
+          "name": "Pavlo",
+          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "me acostumbro",
+      "url": "https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "A Hero's Death (Soulwax Remix)",
         "url": "https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "me acostumbro",
-        "url": "https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj"
+        "name": "Vine Hasta Marte",
+        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
       },
       "artists": [
         {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
         }
       ],
-      "duration_ms": 170019,
-      "name": "me acostumbro",
-      "url": "https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje"
+      "duration_ms": 224353,
+      "name": "Vine Hasta Marte",
+      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -731,22 +747,6 @@
       "duration_ms": 203625,
       "name": "Takotsubo",
       "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Vine Hasta Marte",
-        "url": "https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Vine Hasta Marte",
-      "url": "https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
+        "name": "Chapstick",
+        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Chapstick",
-        "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
       },
       "artists": [
         {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS"
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
     },
     {
       "added_at": "2024-06-28 21:13:36",

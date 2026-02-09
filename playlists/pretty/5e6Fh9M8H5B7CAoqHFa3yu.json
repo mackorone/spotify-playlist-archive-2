@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 255,
+  "num_followers": 256,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIEKfr2ieYqbfNRk7l+MhJoQC8NavE",
+  "snapshot_id": "AAAIEg5BWgZVVf2yKkIgpw2gR0AFfKZl",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -32899,6 +32899,38 @@
       "duration_ms": 172719,
       "name": "After Us",
       "url": "https://open.spotify.com/track/54KzWxkfywCM1cWPFh6Uhb"
+    },
+    {
+      "added_at": "2026-02-08 08:59:59",
+      "album": {
+        "name": "Don\u2019t Let Your Boyfriends Go to Europe / America",
+        "url": "https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "duration_ms": 213827,
+      "name": "Don\u2019t Let Your Boyfriends Go to Europe",
+      "url": "https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1"
+    },
+    {
+      "added_at": "2026-02-08 22:03:50",
+      "album": {
+        "name": "Somewhere In Time",
+        "url": "https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm"
+      },
+      "artists": [
+        {
+          "name": "STH",
+          "url": "https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K"
+        }
+      ],
+      "duration_ms": 251239,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

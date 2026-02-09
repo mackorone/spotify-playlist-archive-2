@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX76Z8XDsZzF.md) - [plain]
 
 > Sit back, and chill with Bollywood's easygoing hits\. Cover \- Param Sundari
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,825 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,407 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

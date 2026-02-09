@@ -1,6 +1,6 @@
 {
   "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Kehlani",
-  "num_followers": 768,
+  "num_followers": 821,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1677,38 +1677,6 @@
       "url": "https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 166742,
-      "name": "gameboy",
-      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
-    },
-    {
-      "added_at": "2025-04-18 05:38:39",
-      "album": {
-        "name": "KISSING IN PUBLIC",
-        "url": "https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 236635,
-      "name": "KISSING IN PUBLIC",
-      "url": "https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY"
-    },
-    {
       "added_at": "2025-09-06 03:04:45",
       "album": {
         "name": "SWAG II",
@@ -1727,6 +1695,38 @@
       "duration_ms": 165586,
       "name": "I THINK YOU'RE SPECIAL",
       "url": "https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3"
+    },
+    {
+      "added_at": "2025-04-18 05:38:39",
+      "album": {
+        "name": "KISSING IN PUBLIC",
+        "url": "https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 236635,
+      "name": "KISSING IN PUBLIC",
+      "url": "https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
     },
     {
       "added_at": "2025-04-11 05:25:57",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2025-10-03 04:48:40",
       "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
         "name": "Sincerely: P.S.",
         "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-05-23 05:03:47",

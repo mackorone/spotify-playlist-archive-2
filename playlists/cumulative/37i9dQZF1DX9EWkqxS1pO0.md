@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Yangın
 
-350 songs - 17 hr 40 min
+351 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Napabilirdim](https://open.spotify.com/track/5mmXTx1yzPtvukY5O4J8Wr) | [Ali Meydanioğlu](https://open.spotify.com/artist/4fBIAPckfneje8qmOasnVf) | [Napabilirdim](https://open.spotify.com/album/6icXPANHZ0kg8FIUFQRXBo) | 2:29 | 2024-06-20 | 2024-10-01 |
 | [Neden Diye Düşünmekten](https://open.spotify.com/track/7Bax5SaGIbf0CjlKuPTCPC) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Neden Diye Düşünmekten](https://open.spotify.com/album/1JnHIXvaXu171icMjyZvxY) | 3:00 | 2024-06-20 | 2026-01-30 |
 | [Nefes](https://open.spotify.com/track/2ZZVdZWSXojgLsPHrzk1U9) | [KAAN](https://open.spotify.com/artist/73IruPtnQ79QO4CR8Osgyp) | [Nefes](https://open.spotify.com/album/64L5GBdxQOSp27p7MOeRqY) | 2:46 | 2025-05-15 | 2025-05-30 |
-| [Nefes Bile Alamazken](https://open.spotify.com/track/5zVdvafAOAPhu4onEnBnK3) | [Zorlu](https://open.spotify.com/artist/56jCoGSuWQMysABNsihfuU), [Batuhan Ayduğan](https://open.spotify.com/artist/0JxhevTKcpweFUKuwJo8x1) | [Nefes Bile Alamazken](https://open.spotify.com/album/6RvI53hqqtY7dl4ZtPx6k6) | 3:42 | 2025-12-11 |  |
+| [Nefes Bile Alamazken](https://open.spotify.com/track/5zVdvafAOAPhu4onEnBnK3) | [Zorlu](https://open.spotify.com/artist/56jCoGSuWQMysABNsihfuU), [Batuhan Ayduğan](https://open.spotify.com/artist/0JxhevTKcpweFUKuwJo8x1) | [Nefes Bile Alamazken](https://open.spotify.com/album/6RvI53hqqtY7dl4ZtPx6k6) | 3:42 | 2025-12-11 | 2026-02-09 |
 | [NEREDE](https://open.spotify.com/track/4kSvVBHYY1wiUahtT3WlRq) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [HABİBİ](https://open.spotify.com/album/5afjh5RhtYiKybYw9GzJl7) | 3:10 | 2025-01-09 | 2025-01-11 |
 | [Nergis](https://open.spotify.com/track/10Pn2qxE9uYfqnQmAnnreY) | [Kalabalıklar](https://open.spotify.com/artist/2h1njP9dxIRtOeSNQGJJcw) | [Nergis](https://open.spotify.com/album/5abBVBfMYsJyV5iQjVnEms) | 2:57 | 2025-05-30 |  |
 | [Nisan](https://open.spotify.com/track/4dC8Zkornu8LjpqkwVGWJe) | [Elyas & Taha](https://open.spotify.com/artist/3B6Y5J77CI7KffJy2FlTP3) | [Nisan](https://open.spotify.com/album/0WZfzW31LNYN1csOaxXH9b) | 3:51 | 2026-01-08 | 2026-01-30 |
@@ -322,6 +322,7 @@
 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 | 2024-06-20 |  |
 | [Yine de Yalan](https://open.spotify.com/track/4e4P6LEHRWZmP2ycwmSUUH) | [NEİ?](https://open.spotify.com/artist/3T2e3J6CJowqxJh8WyN42F) | [Yine de Yalan](https://open.spotify.com/album/6xqbV20seMettE0OMuyfnE) | 3:20 | 2025-08-14 |  |
 | [Yine Seni Özledim](https://open.spotify.com/track/4TeTaeB68MJFKE0SXSlsBj) | [Konu Sen Değilsin](https://open.spotify.com/artist/0sxkccugLSSE5Vm45KCtXG) | [Yine Seni Özledim](https://open.spotify.com/album/4I1ekzfytit55b12Pbi7GC) | 3:02 | 2025-03-06 |  |
+| [Yine Sev Beni](https://open.spotify.com/track/1c6a4A6SwKZiZouEqdQ6EI) | [Olası](https://open.spotify.com/artist/5Y5nsOXhMaTdm9VYTmuyth) | [Yine Sev Beni](https://open.spotify.com/album/5PiB8dZbBkqSQITf0S23ep) | 3:18 | 2026-01-29 |  |
 | [Yine Sev Diyemem](https://open.spotify.com/track/027QueXikc6hen5DyuOhw2) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Yine Sev Diyemem](https://open.spotify.com/album/4iJ9li7MMjbzaueRIpmAgh) | 2:57 | 2024-09-05 | 2024-09-28 |
 | [Yok](https://open.spotify.com/track/5Cq5zptacxHIUzkGbYpU1D) | [Karambol](https://open.spotify.com/artist/27FDgyQe3lWYySeW2AyJy3) | [Yok](https://open.spotify.com/album/6QwUoVji4yP7SB3tUgLyO3) | 3:15 | 2024-06-20 | 2024-09-06 |
 | [Yok O Bana Kalsın](https://open.spotify.com/track/2MM6VJGmdpTPBbIAveWScz) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yok O Bana Kalsın](https://open.spotify.com/album/1eYVsKfLgM34xn5M2H5J6O) | 3:17 | 2024-11-14 | 2025-02-22 |

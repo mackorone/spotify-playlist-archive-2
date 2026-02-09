@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,153 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,138 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 30 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7wY1Zp4zKzvTn8zQlbtxHA) | [Steve Harris](https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK) | [We Wish You a Merry Christmas](https://open.spotify.com/album/6mBake5QclVU9h2fy5mo82) | 1:35 |
 | 31 | [Angels We Have Heard On High](https://open.spotify.com/track/7CIrypZm7JYGM6Llfp97vp) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Angels We Have Heard On High](https://open.spotify.com/album/0ySU6Z24ezxmtznYm934Jg) | 2:10 |
 | 32 | [Deck The Halls](https://open.spotify.com/track/1t9YioEXydKP5SPNgPahqD) | [Tarragona Heights](https://open.spotify.com/artist/4AuwVtWa7s61M7ryOo4Nq2) | [Deck The Halls](https://open.spotify.com/album/38jc0zVg0GY0ImfhjWwoqV) | 1:50 |
-| 33 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
+| 33 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Windham Hill Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 |
 | 34 | [The Christmas Song](https://open.spotify.com/track/1zmP3a454QKW9nIYuRAvDp) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [The Christmas Song](https://open.spotify.com/album/7Fp4g5ty24nL3bKszUVdGm) | 3:37 |
 | 35 | [Christmas Time Is Here](https://open.spotify.com/track/68QzRJkqSeqZuflvgsfKaj) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Christmas Time Is Here](https://open.spotify.com/album/3HkUp1DhqKizZBVpST3MqU) | 2:28 |
 | 36 | [I'll Be Home for Christmas](https://open.spotify.com/track/61dZswZwFXBKWXqite4lfv) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [I'll Be Home for Christmas](https://open.spotify.com/album/0bw1pGrUrSeGrDu3MXDGra) | 2:46 |

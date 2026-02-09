@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 560,
+  "num_followers": 570,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAC+4tBBGREh9B8wy3vrDAze/ZVBrld",
+  "snapshot_id": "AAADBbyjQuUiS0lQMx9E3S6e3bqIFPVw",
   "tracks": [
     {
       "added_at": "2025-12-22 18:56:21",
@@ -755,6 +755,170 @@
       "duration_ms": 198529,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ"
+    },
+    {
+      "added_at": "2026-02-08 02:04:52",
+      "album": {
+        "name": "DaDeDaDe",
+        "url": "https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "DaDeDaDe",
+      "url": "https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4"
+    },
+    {
+      "added_at": "2026-02-08 02:11:56",
+      "album": {
+        "name": "The Perfect Buzz",
+        "url": "https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "The Perfect Buzz",
+      "url": "https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda"
+    },
+    {
+      "added_at": "2026-02-08 02:12:57",
+      "album": {
+        "name": "Beggin' (Cover)",
+        "url": "https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq"
+      },
+      "artists": [
+        {
+          "name": "R.A.L.P.H.",
+          "url": "https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY"
+        },
+        {
+          "name": "Samuele Mariani",
+          "url": "https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG"
+        }
+      ],
+      "duration_ms": 218834,
+      "name": "Beggin' - Cover",
+      "url": "https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b"
+    },
+    {
+      "added_at": "2026-02-08 02:17:01",
+      "album": {
+        "name": "L'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 238159,
+      "name": "L'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
+    },
+    {
+      "added_at": "2026-02-08 02:24:17",
+      "album": {
+        "name": "Losing All My Senses",
+        "url": "https://open.spotify.com/album/3OelNmOoDQPiZyat8Z5r91"
+      },
+      "artists": [
+        {
+          "name": "Gericco",
+          "url": "https://open.spotify.com/artist/56qTnVEv3HPAWHgLjuh5Zw"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Losing All My Senses",
+      "url": "https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4"
+    },
+    {
+      "added_at": "2026-02-08 02:29:55",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "duration_ms": 165651,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
+    },
+    {
+      "added_at": "2026-02-08 02:36:35",
+      "album": {
+        "name": "In the Zone",
+        "url": "https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Evans",
+          "url": "https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "In the Zone",
+      "url": "https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6"
+    },
+    {
+      "added_at": "2026-02-08 18:12:24",
+      "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "duration_ms": 147301,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX"
+    },
+    {
+      "added_at": "2026-02-08 18:12:44",
+      "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz"
+      },
+      "artists": [
+        {
+          "name": "Superstar Nomads",
+          "url": "https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ"
+        }
+      ],
+      "duration_ms": 218739,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/0lF2y089fv67qGw026DRhq"
+    },
+    {
+      "added_at": "2026-02-08 18:12:52",
+      "album": {
+        "name": "Midnight Forever",
+        "url": "https://open.spotify.com/album/48WzX6lRKNkIVlScImDdGZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Corey",
+          "url": "https://open.spotify.com/artist/4tGupj3nwiwHdv8hyHhJLZ"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "No More Heroes",
+      "url": "https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

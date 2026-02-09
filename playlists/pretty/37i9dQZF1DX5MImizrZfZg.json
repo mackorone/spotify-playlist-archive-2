@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 84408,
+  "num_followers": 84437,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 302506,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
       "artists": [
         {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
         }
       ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
+      "duration_ms": 302506,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -327,6 +311,22 @@
       "duration_ms": 282506,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
     },
     {
       "added_at": "2020-08-19 19:15:51",

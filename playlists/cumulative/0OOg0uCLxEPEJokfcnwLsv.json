@@ -3071,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Invisible People",
+        "url": "https://open.spotify.com/album/2Ll9ZEs3ab6t1apPx4Oj5g"
+      },
+      "artists": [
+        {
+          "name": "Digsby",
+          "url": "https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA"
+        }
+      ],
+      "date_added": "2026-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "One of a Kind",
+      "url": "https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop"
+    },
+    {
+      "album": {
         "name": "One Roof Band",
         "url": "https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ"
       },

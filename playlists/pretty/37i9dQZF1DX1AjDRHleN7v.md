@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,369 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,527 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 16 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 |
 | 17 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
 | 18 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
-| 19 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
-| 20 | [O Mundo Diz Que Não](https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [O Mundo Diz Que Não](https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi) | 3:13 |
+| 19 | [O Mundo Diz Que Não](https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [O Mundo Diz Que Não](https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi) | 3:13 |
+| 20 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
 | 21 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
 | 22 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
 | 23 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
