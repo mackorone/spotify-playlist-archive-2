@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Karun
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,914 likes - 61 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,961 likes - 61 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 4 | [Feel The Love](https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:49 |
 | 5 | [Lie to Me \- Home Session](https://open.spotify.com/track/52xnyuEQRJToUAolhLJGkO) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Home Session](https://open.spotify.com/album/66icwT2w7cUN4qFxSmfDNM) | 3:11 |
 | 6 | [Heal](https://open.spotify.com/track/4NTXQuCZ1DrGRgdm1ItzKa) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Healing](https://open.spotify.com/album/0tOUGN0EVBE6KDwWH7Me8k) | 3:30 |
-| 7 | [masala tea \(with Matt Ngesa\)](https://open.spotify.com/track/2AOoQZUFENNf5c663stU20) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [](https://open.spotify.com/album/null) | 4:19 |
+| 7 | [masala tea \(with Matt Ngesa\)](https://open.spotify.com/track/2AOoQZUFENNf5c663stU20) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Off My Chest](https://open.spotify.com/album/3UkjFytj440El2a712oDX9) | 4:19 |
 | 8 | [Niangalie](https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Niangalie](https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m) | 3:49 |
 | 9 | [Ningelijua](https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ningelijua](https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H) | 3:57 |
 | 10 | [Nipe Nafasi](https://open.spotify.com/track/4SJmdLCNCosA57w2ebCoBo) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [Take Two: Grey](https://open.spotify.com/album/51PKSPJAK8O2X853o2t9nP) | 4:34 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 44 | [slow burning.](https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps) | [3N!](https://open.spotify.com/artist/3FvZoL8GYFyC4AsZUxfAtc), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [slow burning.](https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y) | 3:32 |
 | 45 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 |
 | 46 | [Swim](https://open.spotify.com/track/0IgoWhyc7cNawpafMJpQ0u) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Swim](https://open.spotify.com/album/4y4ziiOeTnCtd8ysaJ6ABH) | 5:35 |
-| 47 | [Reasons](https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [](https://open.spotify.com/album/null) | 4:24 |
+| 47 | [Reasons](https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Off My Chest](https://open.spotify.com/album/3UkjFytj440El2a712oDX9) | 4:24 |
 | 48 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 |
 | 49 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 |
 | 50 | [It's You](https://open.spotify.com/track/36Hssha8m6zhPXVjBly6AZ) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Language](https://open.spotify.com/album/6MJnxLZxoWycbVHLLuejVr) | 3:01 |

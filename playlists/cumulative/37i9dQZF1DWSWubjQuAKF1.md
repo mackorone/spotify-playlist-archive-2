@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Yulia
 
-723 songs - 1 day 11 hr 15 min
+725 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-01 | 2024-10-12 |
 | [Brunetka](https://open.spotify.com/track/7LDtaQfgKJIQc7zlwBoTEv) | [RYSIA](https://open.spotify.com/artist/3sobbRn7Mx3TM6HAACPYTp) | [Brunetka](https://open.spotify.com/album/2TOEBudesKUHgjgzN61e7v) | 2:27 | 2024-07-04 | 2024-12-07 |
 | [burzysz krew](https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [burzysz krew](https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh) | 3:18 | 2024-08-30 | 2025-01-24 |
+| [Byleby](https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p) | [Evelina Ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Byleby](https://open.spotify.com/album/5L95XWMD5TGl8Yf8oxVdi2) | 4:13 | 2026-02-05 |  |
 | [było minęło](https://open.spotify.com/track/1P0uvpP1yBNBs6RgVeuTB1) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [było minęło](https://open.spotify.com/album/7mUd8uGotZWdppu9HwWsnr) | 3:12 | 2024-06-28 | 2024-08-23 |
 | [Było Minęło](https://open.spotify.com/track/14kyTL37LotnttqD7X4rqS) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Było Minęło](https://open.spotify.com/album/2ehpPnrVRngjOKHZi2U5vp) | 3:11 | 2025-07-24 | 2025-08-01 |
 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 | 2025-10-07 | 2025-10-21 |
@@ -374,7 +375,7 @@
 | [Na start](https://open.spotify.com/track/71nAxA4dPuCsiEj7p7wA6Z) | [huskie](https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS) | [Na start](https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh) | 3:59 | 2026-01-30 |  |
 | [Na Własność](https://open.spotify.com/track/6UFFvkF0FUOnMKaZu6oRQC) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Na Własność](https://open.spotify.com/album/1tmru1Wuy4hIkGs0IuRnoL) | 2:25 | 2024-06-28 | 2024-08-23 |
 | [Na zdjęciach](https://open.spotify.com/track/0sUFW4xGgV33GDSIHAGAtk) | [Ala Tracz](https://open.spotify.com/artist/0Tb15PV8RtDedmtSDI4GQ7) | [Na zdjęciach](https://open.spotify.com/album/7yx9nm2P2DcUZhPOm9HkO3) | 2:19 | 2024-08-22 | 2025-01-24 |
-| [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [NAD RANEM](https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv) | 4:33 | 2025-09-16 |  |
+| [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [NAD RANEM](https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv) | 4:33 | 2025-09-16 | 2026-02-10 |
 | [nad ranem \(krótki metraż\)](https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [KRÓTKI METRAŻ](https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha) | 5:06 | 2025-12-11 |  |
 | [Nagie Ciała](https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE) | [KONRAD](https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn) | [Nagie Ciała](https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR) | 3:10 | 2024-08-01 | 2025-01-24 |
 | [Naiwna Dziewucha](https://open.spotify.com/track/2N3ZrP2F4q6PHx8Ei1aepT) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Naiwna Dziewucha](https://open.spotify.com/album/2UzNFBcrhMDDGnkPNCZ3kL) | 2:09 | 2024-10-18 | 2025-01-24 |
@@ -477,6 +478,7 @@
 | [playlista](https://open.spotify.com/track/42xk0YQdDMjas0cefk5mww) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT), [didi](https://open.spotify.com/artist/52x2PpXaL6h6JesQPInDei) | [PARADOKS LP](https://open.spotify.com/album/4ApLaVSGtglh0DYmPpEkCJ) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-01 | 2025-08-27 |
 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 | 2025-08-07 | 2025-11-12 |
+| [Po co tyle mówić](https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80) | [Klaudia Sadownik](https://open.spotify.com/artist/55WKQ59yDpmZOoFOSTTnGc) | [Po co tyle mówić](https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ) | 2:37 | 2026-02-05 |  |
 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 | 2025-05-08 | 2025-08-27 |
 | [Pojutrze](https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Pojutrze](https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0) | 3:03 | 2025-10-14 |  |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-22 | 2025-01-24 |
@@ -607,7 +609,7 @@
 | [tchórz](https://open.spotify.com/track/5BEm0jrawsUMGdoSRnEsg2) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [tchórz](https://open.spotify.com/album/4ivdL6LJbfphxkRMO78bYv) | 3:29 | 2025-05-22 | 2025-07-06 |
 | [teleranek](https://open.spotify.com/track/68lwG3Z14g6ZguSpUCtqUD) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Teleranek](https://open.spotify.com/album/61C2QQjGxZioq1gyenC2GM) | 3:07 | 2024-06-28 | 2024-07-27 |
 | [TENSION](https://open.spotify.com/track/0rgCob7qSVjoDBNXKRUUQH) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [TENSION](https://open.spotify.com/album/7dpfQ3sHIarczKj3Ccz8zc) | 2:27 | 2025-03-06 | 2025-05-10 |
-| [Też Tak Masz](https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Myśli Rozdarte](https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc) | 2:36 | 2025-11-18 |  |
+| [Też Tak Masz](https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Myśli Rozdarte](https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc) | 2:36 | 2025-11-18 | 2026-02-10 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-15 | 2025-07-18 |
 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 | 2025-03-13 | 2025-03-21 |

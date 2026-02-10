@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Chris Holsten, Tobias Sten, Søte & Rare, Ylva og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,874 likes - 103 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,875 likes - 103 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

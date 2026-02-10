@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-443 songs - 1 day 1 hr 44 min
+444 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Eat \(feat\. Ado\)](https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Eat \(feat\. Ado\)](https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G) | 3:24 | 2024-09-07 |  |
 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2024-08-31 |  |
 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
+| [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 | 2026-02-09 |  |
 | [FACT](https://open.spotify.com/track/4jYHYJFTi1QkBobUMC7kf7) | [常闇トワ](https://open.spotify.com/artist/0XZGQi9wNsE1z9L0AWhC82) | [FACT](https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM) | 3:15 | 2024-04-08 |  |
 | [FAILURE GIRL \- MARETU Remix](https://open.spotify.com/track/1ggbMRzwjDZQC0kvdjD97A) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:04 | 2024-09-12 |  |
 | [far,far,far](https://open.spotify.com/track/6rDLIrDt0xoJ96HWMHeCRv) | [中瀬ミル](https://open.spotify.com/artist/2ex6VXn9KNqoAZJEBBrDIF) | [i m u](https://open.spotify.com/album/0JMMMAPIGznddf3Iv3a6e5) | 3:33 | 2025-07-07 |  |

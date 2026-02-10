@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -1034,6 +1034,24 @@
       "duration_ms": 223950,
       "name": "Borratxos y Orgullosos",
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "album": {
+        "name": "Bzrp Music Sessions Vol. 0/66",
+        "url": "https://open.spotify.com/album/79ZcrPWEDKFPQ3rt8wxEsx"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81000,
+      "name": "Bzrp Music Sessions Vol. 0/66",
+      "url": "https://open.spotify.com/track/0ncQGzhhkRfq3aS3ZPUxWS"
     },
     {
       "album": {
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 237400,
       "name": "Hostilidad",
       "url": "https://open.spotify.com/track/7fJRuNQjAvhi0qKMA4LX1X"
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 165750,
       "name": "Incomunicado",
       "url": "https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E"
@@ -5930,6 +5948,24 @@
       "duration_ms": 227530,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
+    },
+    {
+      "album": {
+        "name": "guerra y paz",
+        "url": "https://open.spotify.com/album/0wR8D7YqXpocvemFiQbAX1"
+      },
+      "artists": [
+        {
+          "name": "cryymm",
+          "url": "https://open.spotify.com/artist/4QW4Rb5rAM0eXitKwAjqeX"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "paz",
+      "url": "https://open.spotify.com/track/52xCEdh1JK9j1aZ53LhV7K"
     },
     {
       "album": {

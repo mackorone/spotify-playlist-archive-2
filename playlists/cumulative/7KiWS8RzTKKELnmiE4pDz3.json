@@ -6157,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Just Tryin ta Live",
+        "url": "https://open.spotify.com/album/10Go46gFX8CCawdQgaObfS"
+      },
+      "artists": [
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317360,
+      "name": "Doubie Ashtray",
+      "url": "https://open.spotify.com/track/4uwO6u45R7sG4giwhG5AT0"
+    },
+    {
+      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -7002,6 +7020,28 @@
       "duration_ms": 190142,
       "name": "F.F.",
       "url": "https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp"
+    },
+    {
+      "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "F.I.L.O. (feat. Shing02)",
+      "url": "https://open.spotify.com/track/43pWChQ7AOab9wlSGy0dN6"
     },
     {
       "album": {
@@ -8414,6 +8454,32 @@
       "duration_ms": 211226,
       "name": "Get Your Mind Right",
       "url": "https://open.spotify.com/track/12Thqf0zERYjFHNlWbb6rc"
+    },
+    {
+      "album": {
+        "name": "Take'Em To The Cleaners",
+        "url": "https://open.spotify.com/album/3ML87nypNxX5ueuol1OMF0"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190704,
+      "name": "Getting Out The Game",
+      "url": "https://open.spotify.com/track/6cft8Dv0XXzwYrX0PXlUQ1"
     },
     {
       "album": {

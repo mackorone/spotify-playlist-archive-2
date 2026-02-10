@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Katerina Lioliou ",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 159428,
       "name": "3REE",
       "url": "https://open.spotify.com/track/014dwyKWiCUjInYCQQTXNG"
@@ -214,6 +214,32 @@
       "duration_ms": 152500,
       "name": "5 AM IN VANCOUVER",
       "url": "https://open.spotify.com/track/3VwyRL8A1CkxCLWtWalb60"
+    },
+    {
+      "album": {
+        "name": "50 CENT",
+        "url": "https://open.spotify.com/album/0urfxc46odu6zD7UvZlHyI"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "50 CENT",
+      "url": "https://open.spotify.com/track/27f62QDRVencjisrZxarp9"
     },
     {
       "album": {
@@ -420,6 +446,36 @@
       "duration_ms": 180000,
       "name": "Aeroplano",
       "url": "https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg"
+    },
+    {
+      "album": {
+        "name": "WHY ALWAYS ME?",
+        "url": "https://open.spotify.com/album/0hkVhoK0vtaJhRoxBQ6Xca"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "LOSHA",
+          "url": "https://open.spotify.com/artist/5kZFsM5GvvDM9J8soKtyqB"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "AGAINST ALL",
+      "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
     },
     {
       "album": {
@@ -960,7 +1016,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 184729,
       "name": "APOTIPOMATA",
       "url": "https://open.spotify.com/track/39rpODqvEPrixgNfsZtNVT"
@@ -1224,7 +1280,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 144000,
       "name": "BABA",
       "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
@@ -1609,6 +1665,36 @@
     },
     {
       "album": {
+        "name": "BOYKA",
+        "url": "https://open.spotify.com/album/28tc22zEAO5QTsieSJ5HJd"
+      },
+      "artists": [
+        {
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Xjay",
+          "url": "https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179612,
+      "name": "BOYKA",
+      "url": "https://open.spotify.com/track/6XMikOosYV3xFiDOUFJ9LK"
+    },
+    {
+      "album": {
         "name": "ICE C.R.E.A.M.",
         "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
       },
@@ -1908,7 +1994,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 164571,
       "name": "CPR",
       "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
@@ -2026,6 +2112,24 @@
       "duration_ms": 147415,
       "name": "DANNY PHANTOM",
       "url": "https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4"
+    },
+    {
+      "album": {
+        "name": "De M' Agapouses",
+        "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254210,
+      "name": "De M' Agapouses",
+      "url": "https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O"
     },
     {
       "album": {
@@ -2859,6 +2963,32 @@
     },
     {
       "album": {
+        "name": "Dope Sport (Vol.3)",
+        "url": "https://open.spotify.com/album/38mlNJEqWEVsA26F9EtBMN"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "BTK 187",
+          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212125,
+      "name": "EURO",
+      "url": "https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn"
+    },
+    {
+      "album": {
         "name": "Europa League",
         "url": "https://open.spotify.com/album/14xlw6EHljVqF1oCmbfmVb"
       },
@@ -3442,7 +3572,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 162233,
       "name": "GHOSTBUSTERS",
       "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
@@ -3560,6 +3690,28 @@
       "duration_ms": 168500,
       "name": "Gia Tin Epomeni",
       "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
+    },
+    {
+      "album": {
+        "name": "Dragged In",
+        "url": "https://open.spotify.com/album/0nSrJeNmDbXnSeKc4zKESM"
+      },
+      "artists": [
+        {
+          "name": "Niko Malteze",
+          "url": "https://open.spotify.com/artist/4qqd0pfa5xSt05BaxL8B6Z"
+        },
+        {
+          "name": "AthensGoatMafia",
+          "url": "https://open.spotify.com/artist/7BmdbZggXu3wlq4Ez9tD1q"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208610,
+      "name": "Gia Ton Egoismo Mou",
+      "url": "https://open.spotify.com/track/1oa6gdsi5XfgxIotbrrx7x"
     },
     {
       "album": {
@@ -5684,7 +5836,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 114782,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/11dvIukD3Xmk1WbDuisL82"
@@ -5724,7 +5876,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 150360,
       "name": "MONO ESY",
       "url": "https://open.spotify.com/track/23OOJ61oprS8Kcaj6WmUgJ"
@@ -5992,7 +6144,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 214736,
       "name": "Ntolia",
       "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
@@ -6172,6 +6324,32 @@
       "duration_ms": 167538,
       "name": "OLA GYRNANE",
       "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "album": {
+        "name": "THE K.i.D. (The Kid ilias Dreaming)",
+        "url": "https://open.spotify.com/album/5QkDhQUpCH580fvgjgAvZ0"
+      },
+      "artists": [
+        {
+          "name": "Kid Young",
+          "url": "https://open.spotify.com/artist/6VuPL5ClnBVIo5HLo7nBtz"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Oloi",
+      "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
     },
     {
       "album": {
@@ -6766,7 +6944,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 244363,
       "name": "PEP TALK",
       "url": "https://open.spotify.com/track/7d0gRGbTVISrcNNazqcpxZ"
@@ -7186,6 +7364,28 @@
       "duration_ms": 196666,
       "name": "Pros To Paron",
       "url": "https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n"
+    },
+    {
+      "album": {
+        "name": "PROSTIMO",
+        "url": "https://open.spotify.com/album/3F4zAY9olhJ1Yu8l1932eF"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "PROSTIMO",
+      "url": "https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6"
     },
     {
       "album": {
@@ -9124,6 +9324,32 @@
       "duration_ms": 146717,
       "name": "TT",
       "url": "https://open.spotify.com/track/2Y7BCczhiLDz0DGXrHQ5BZ"
+    },
+    {
+      "album": {
+        "name": "ZOUGLA",
+        "url": "https://open.spotify.com/album/6UDER5XBSxxfPUipBFXKua"
+      },
+      "artists": [
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Rjay",
+          "url": "https://open.spotify.com/artist/2CaHe8TG0kJ8gTTodohITQ"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "UNDERDOGS",
+      "url": "https://open.spotify.com/track/46kJk0QCZ5SDiRK5BNnHkT"
     },
     {
       "album": {

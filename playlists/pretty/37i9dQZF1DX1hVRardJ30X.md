@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Chuyin, Eladio Carrion, Easykid & Kali Uchis, Carlos Vives & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,913 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,947 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 41 | [Fina](https://open.spotify.com/track/0iq7nnb2aKGX25KtPU9QUV) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Fabriell](https://open.spotify.com/artist/7sR2VU3zdYk41TJ6HcVQF6) | [AMA ES AMA](https://open.spotify.com/album/7Mbbt0z2IFGyWmZxqWXlgj) | 3:19 |
 | 42 | [B2B](https://open.spotify.com/track/7ootIT4IPYpSuPPcgCodhP) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [B2B](https://open.spotify.com/album/3XOqbfdUqL90rOstHGWnCn) | 2:32 |
 | 43 | [Bailo Contigo](https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Bailo Contigo](https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc) | 3:03 |
-| 44 | [Santa Cruz](https://open.spotify.com/track/2v3tFsRm95RJFgWcfXajqu) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Santa Cruz](https://open.spotify.com/album/7u1Q9mbAN3LG9jBQs17k8a) | 2:40 |
-| 45 | [Me Quedé Por Ti](https://open.spotify.com/track/5ddpEs7fOpNsGJulnJpLyl) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Me Quedé Por Ti](https://open.spotify.com/album/7L6fDxwxjNFoHmciovnzJz) | 2:36 |
-| 46 | [FINE SHYT](https://open.spotify.com/track/1Ts9jia9WabFB4tBIb29Ng) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [FINE SHYT](https://open.spotify.com/album/6m2t4BegNWlneZg6QS2Ydb) | 2:35 |
-| 47 | [AUNQUE SEA EN DOS](https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [18](https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M) | 2:38 |
-| 48 | [Caribe](https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor), [Grupo En Califas](https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg) | [Caribe](https://open.spotify.com/album/5kN1QrefKBmkaBAOhFFyPD) | 2:35 |
-| 49 | [No Fui Yo](https://open.spotify.com/track/1ADz4KFXolesWwxGltDrWW) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [No Fui Yo](https://open.spotify.com/album/1QXnrdgOgqdTdknxXenvkH) | 3:41 |
-| 50 | [Dos Tragos](https://open.spotify.com/track/21ck2spLtlxVSAGWRqWwkX) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Dos Tragos](https://open.spotify.com/album/5X04ENxaDm8fmSRINAgX8N) | 2:48 |
+| 44 | [BAJO CERO](https://open.spotify.com/track/4vM7jPhNtOKihPksD0nw3L) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Christopher Velez](https://open.spotify.com/artist/60w8lF7r9QhvUQNupt5GQk) | [BAJO CERO](https://open.spotify.com/album/3pQ54dQWi9W956cG1N9H7C) | 2:52 |
+| 45 | [Santa Cruz](https://open.spotify.com/track/2v3tFsRm95RJFgWcfXajqu) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Santa Cruz](https://open.spotify.com/album/7u1Q9mbAN3LG9jBQs17k8a) | 2:40 |
+| 46 | [Me Quedé Por Ti](https://open.spotify.com/track/5ddpEs7fOpNsGJulnJpLyl) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Me Quedé Por Ti](https://open.spotify.com/album/7L6fDxwxjNFoHmciovnzJz) | 2:36 |
+| 47 | [FINE SHYT](https://open.spotify.com/track/1Ts9jia9WabFB4tBIb29Ng) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [FINE SHYT](https://open.spotify.com/album/6m2t4BegNWlneZg6QS2Ydb) | 2:35 |
+| 48 | [AUNQUE SEA EN DOS](https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [18](https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M) | 2:38 |
+| 49 | [Caribe](https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm) | [Grupo Ajedrez](https://open.spotify.com/artist/0zQFDEHdNnqztZUHX5bzor), [Grupo En Califas](https://open.spotify.com/artist/2XD1avUsri0Gkf2IMX65wg) | [Caribe](https://open.spotify.com/album/5kN1QrefKBmkaBAOhFFyPD) | 2:35 |
+| 50 | [No Fui Yo](https://open.spotify.com/track/1ADz4KFXolesWwxGltDrWW) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [No Fui Yo](https://open.spotify.com/album/1QXnrdgOgqdTdknxXenvkH) | 3:41 |
+| 51 | [Dos Tragos](https://open.spotify.com/track/21ck2spLtlxVSAGWRqWwkX) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Dos Tragos](https://open.spotify.com/album/5X04ENxaDm8fmSRINAgX8N) | 2:48 |
 
-Snapshot ID: `AAAAALDIOoAAHdqgbd1w+kTWzbpXxhLq`
+Snapshot ID: `AAAAAGry2v0S1trHNHs9JJdDvHaZle6f`

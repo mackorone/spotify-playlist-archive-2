@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "5 to 4",
+        "url": "https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah"
+      },
+      "artists": [
+        {
+          "name": "Brave Rival",
+          "url": "https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3aYIobFI663p7UIIl1yO3o"
+    },
+    {
+      "album": {
         "name": "Control the Universe (revisited)",
         "url": "https://open.spotify.com/album/68dYmV1CdPKVtj0Z2uYLiQ"
       },
@@ -1688,6 +1706,24 @@
       "duration_ms": 236746,
       "name": "Especial",
       "url": "https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S"
+    },
+    {
+      "album": {
+        "name": "ESTOY VIEJA",
+        "url": "https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1"
+      },
+      "artists": [
+        {
+          "name": "Elisa Cano Elgarresta",
+          "url": "https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160084,
+      "name": "ESTOY VIEJA",
+      "url": "https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL"
     },
     {
       "album": {
@@ -3410,6 +3446,24 @@
       "duration_ms": 154146,
       "name": "Not Giving In",
       "url": "https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST"
+      },
+      "artists": [
+        {
+          "name": "Evocrafted",
+          "url": "https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209235,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0"
     },
     {
       "album": {

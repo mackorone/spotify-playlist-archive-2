@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,575 likes - 153 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,564 likes - 153 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 2 | [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 |
 | 3 | [Valse Delle Vigne](https://open.spotify.com/track/3JSPIgK4QMCTSEXZCMRuPj) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Valse Delle Vigne](https://open.spotify.com/album/3PaiRAL4CrC40EttDtar63) | 2:31 |
 | 4 | [Cycles](https://open.spotify.com/track/1S2ObwwQukup4WAsXYw2tB) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Cycles](https://open.spotify.com/album/6FdgR2ulFNIedtlYNiqg9N) | 2:08 |
-| 5 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
-| 6 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 |
+| 5 | [Soft Rain](https://open.spotify.com/track/3C1YOgC9O7ecXCnlkkQAVR) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Soft Rain](https://open.spotify.com/album/0hvw1dqFx2BgQ8GGtTbH5y) | 2:16 |
+| 6 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
 | 7 | [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 |
 | 8 | [Summer Dream](https://open.spotify.com/track/010G1VMphoKTZPrDRYAJDY) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Summer Dream](https://open.spotify.com/album/43DI5lCugo6Meef3a9Qr69) | 2:55 |
 | 9 | [The Narrower Path](https://open.spotify.com/track/5yrAhNiKf1ug2o1FtaJftr) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [The Narrower Path](https://open.spotify.com/album/1rAk4NKDNnYfGhyeWBeXDE) | 2:31 |
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 11 | [Dalmine](https://open.spotify.com/track/57udUUmrolC21iP6xtgNBU) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Dalmine](https://open.spotify.com/album/3w9eG1VgFL5YM6GLJvTsoC) | 3:27 |
 | 12 | [Devotion](https://open.spotify.com/track/5NGh3wp65b3ZwTbyO77WUB) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Devotion](https://open.spotify.com/album/0jvqfIJkZ5iWNiv70ps08e) | 2:41 |
 | 13 | [Hellebore](https://open.spotify.com/track/3s9mxNhL12p9w9xh9Li3af) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Hellebore](https://open.spotify.com/album/2G9Uk68BN44ia0KiwHVL5N) | 2:53 |
-| 14 | [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 |
-| 15 | [Even So](https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Even So](https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU) | 2:30 |
-| 16 | [This Moment](https://open.spotify.com/track/7xyIb53JCp8AK3KAZBa52g) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [This Moment](https://open.spotify.com/album/0PgYMfeVwjDiOAbrO8h8ce) | 2:08 |
-| 17 | [Tiarella](https://open.spotify.com/track/1cxCSbOylVtuqx9mRGAuzn) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Tiarella](https://open.spotify.com/album/4dKtGpKxkJdR2VNIAzsBlb) | 2:44 |
+| 14 | [Even So](https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Even So](https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU) | 2:30 |
+| 15 | [This Moment](https://open.spotify.com/track/7xyIb53JCp8AK3KAZBa52g) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [This Moment](https://open.spotify.com/album/0PgYMfeVwjDiOAbrO8h8ce) | 2:08 |
+| 16 | [Tiarella](https://open.spotify.com/track/1cxCSbOylVtuqx9mRGAuzn) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Tiarella](https://open.spotify.com/album/4dKtGpKxkJdR2VNIAzsBlb) | 2:44 |
+| 17 | [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 |
 | 18 | [The Secret](https://open.spotify.com/track/71qUV3Npt2rsKL1p8zsKPS) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [The Secret](https://open.spotify.com/album/4qIyBsinsMr6F7b3sC81FG) | 2:17 |
 | 19 | [New Light](https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [New Light](https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3) | 2:26 |
 | 20 | [Fractional](https://open.spotify.com/track/7Ey5cgV9rKbYosutZW5n1d) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Fractional](https://open.spotify.com/album/70hvjsmDjISM7Jrzv3sVK5) | 3:04 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 152 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
 | 153 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 |
 
-Snapshot ID: `AAAAAM0pB35rUPHZ3T/zFIeVN6f1kxUz`
+Snapshot ID: `AAAAAGCgEbYr4AiumAg5LxzBTPGddHew`

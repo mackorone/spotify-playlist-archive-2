@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVp4cWdnm5ws.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVp4cWdnm5ws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVp4cWdnm5ws)
 
-### [RADAR Philippines 2025](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
+### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
 > Meet the future of Pinoy music\. Cover: JERGE
 

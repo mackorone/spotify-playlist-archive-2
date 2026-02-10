@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 
 > 狗年生的人忠誠負責、認真有禮，而且是人生最佳伙伴之一哦！看看有哪些歌手吧！Cover: 王心凌 \(Cyndi Wang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,255 likes - 40 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,255 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,33 +20,45 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Kco8i6libC.md) - [plain]
 | 10 | [花季](https://open.spotify.com/track/4eLamQT441PaDVSHOaffHK) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 4:00 |
 | 11 | [心臟的左邊 / Left Side of My Heart \(feat\. moon tang\)](https://open.spotify.com/track/5r0AfjDB6evI9R6Gcrm4Xh) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [心臟的左邊 / Left Side of My Heart \(feat\. moon tang\)](https://open.spotify.com/album/0EHDBobZS8Cs5Eash8fqaX) | 4:32 |
 | 12 | [可惜嗎](https://open.spotify.com/track/2IuMqyWON4u1v0XhpCkuip) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [可惜嗎](https://open.spotify.com/album/3e6whyqFyVtjTWvxEE8UGG) | 4:51 |
-| 13 | [我不能不能喜歡你 \(影集《童話故事下集》插曲\)](https://open.spotify.com/track/7sqA93cjcNDer3y2ThjuLy) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [我不能不能喜歡你](https://open.spotify.com/album/4NWWpSqA42Y7axqD9Ha5Ed) | 4:30 |
-| 14 | [月不落](https://open.spotify.com/track/5Lzf1HRo8ciqgkfF5CV1PQ) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [月不落](https://open.spotify.com/album/4WPiph1QoXuQPb9VrYFGkD) | 3:58 |
+| 13 | [帶你去逛街 \(feat.蕭煌奇\)](https://open.spotify.com/track/3JTx7NxojYSggGyZhon766) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt), [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [名偵探琳誼 My Ring World](https://open.spotify.com/album/01OzFy3prsO80wGvPFavMn) | 4:11 |
+| 14 | [只管今天](https://open.spotify.com/track/65sp3Wmk71r27BBjvpG0fo) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [你給我的](https://open.spotify.com/album/45jukUGQ4cRFGJPPc59JY0) | 3:03 |
 | 15 | [翠月](https://open.spotify.com/track/53nVQSc3yFXk3wOnPCET5G) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [將就派對](https://open.spotify.com/album/4KGiv0cwPc4e1glU0on8zE) | 3:42 |
-| 16 | [5ever](https://open.spotify.com/track/0amY9RP8QsTSDzJhOmA0FM) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [5ever](https://open.spotify.com/album/7zEf0n6elijdDpzkTYz4QS) | 4:27 |
+| 16 | [白傷心了](https://open.spotify.com/track/6thQmR6gjfw2ACIMBnWzs0) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [白傷心了](https://open.spotify.com/album/2j3Ynnr6pW49UG9rOAlqNI) | 4:30 |
 | 17 | [You Will Always Be](https://open.spotify.com/track/7o8wiz2S0t8XYFu4Nj90OA) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ) | [You Will Always Be](https://open.spotify.com/album/7iZrGgFMoMU5bwhOdG3Aif) | 2:48 |
 | 18 | [盛夏青空](https://open.spotify.com/track/0QOV7VNtN4PEyeR0zsvmPo) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [盛夏青空](https://open.spotify.com/album/2oYASgTJXdIAWHkAMC7P54) | 3:08 |
 | 19 | [類情人](https://open.spotify.com/track/4IVE66vQAYrXsYi7O7SPlK) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [類情人](https://open.spotify.com/album/22YYcqCblTcWuJiGKAjfHR) | 3:55 |
 | 20 | [抬頭紋](https://open.spotify.com/track/4nXr39zc3umGLmFKS2sgDX) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [抬頭紋](https://open.spotify.com/album/0fs2ArJMM4b8G2yEi4fzMr) | 2:43 |
-| 21 | [當你](https://open.spotify.com/track/2EZsFzgESMhRzGMLZHX72G) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/6zTY7YiEQ7KkGOO0wzSq3F) | 3:23 |
-| 22 | [有些](https://open.spotify.com/track/4bDJJr7yG31MApWuvEasAo) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/4BHheCy06jeyqTEmc2QlX9) | 3:49 |
-| 23 | [你啊你啊 \- 電視劇「用九柑仔店」插曲](https://open.spotify.com/track/4nyO1azSuhT5JrETvzEahs) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [末路狂花](https://open.spotify.com/album/7c1IN5kHYhL8HbeGoahRKf) | 5:24 |
-| 24 | [如果我變成回憶](https://open.spotify.com/track/4ZihPLUkdHJZ9XVhxMeFTG) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [第三回合](https://open.spotify.com/album/2zGskmPlVAaFVaNEAq1EJ0) | 4:51 |
-| 25 | [慢慢喜歡你](https://open.spotify.com/track/79LVKCDq5n3N2k6dtWP4gP) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [我們在中場相遇](https://open.spotify.com/album/7Af29PKaPGe1ali29ogX8l) | 3:41 |
-| 26 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
-| 27 | [你是不是有點動心](https://open.spotify.com/track/0FIRHGE4loKAH5o5ByiqG0) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [1:28](https://open.spotify.com/album/39MCCipCiuLjzl76bY7NmU) | 4:28 |
-| 28 | [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 |
-| 29 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
-| 30 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首張同名專輯](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
-| 31 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 |
-| 32 | [走了嗎](https://open.spotify.com/track/7cFA9xPW3f29WBgXpdfK7h) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 3:48 |
-| 33 | [蚵仔麵線 \(電視劇《俗女養成記2》插曲\)](https://open.spotify.com/track/3F3uPlgFAvJCuSzD8EoC0X) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [青春集](https://open.spotify.com/album/4qBqZL9KRAcesH04NeowHk) | 3:29 |
-| 34 | [家家酒](https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [還是想念](https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP) | 4:33 |
-| 35 | [雲的距離](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 |
-| 36 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
-| 37 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 |
-| 38 | [你的答案](https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [你的答案](https://open.spotify.com/album/05nfv9HHHKkKWoNDGQSNNb) | 3:39 |
-| 39 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
-| 40 | [被動](https://open.spotify.com/track/1CF7cK2JzMJUTXBvXfr4s9) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [LEMON TREE](https://open.spotify.com/album/7dMkSB7OywnJMCYQivYCwL) | 3:41 |
+| 21 | [三十多歲的人](https://open.spotify.com/track/3crqjKaT54ffwiXudImFUS) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [三十多歲的人](https://open.spotify.com/album/5OPYnwlfDXWiODI2oWcoqx) | 3:22 |
+| 22 | [Crazy For U](https://open.spotify.com/track/1VkZv2reV1L9a42DuEiFmp) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [Crazy For U](https://open.spotify.com/album/2xgOmPC2ztZIRnCnjN4IoR) | 3:51 |
+| 23 | [陪你](https://open.spotify.com/track/0uqh5RBdskPVNyVHPQAkPk) | [沐妍](https://open.spotify.com/artist/5lkCNTlv7uDrYNr6eaLP8h) | [陪你](https://open.spotify.com/album/41CU7s48WaC1zAkr5PrkR3) | 3:50 |
+| 24 | [Show Some Love](https://open.spotify.com/track/0zKdkWy7dq1EqXrovX13fq) | [Justin吴宗翰](https://open.spotify.com/artist/0pFM2LKw2VX8KrZBACOgZj) | [Show Some Love](https://open.spotify.com/album/4lVducdXCH3afP4FAjEgYb) | 4:02 |
+| 25 | [我不可一世的輕狂 \(戲劇《你好，我是接體員》主題曲\)](https://open.spotify.com/track/2lcRwqj3fKmtZaMDJQI0O4) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [我不可一世的輕狂](https://open.spotify.com/album/6snS6ANt0FHArEwKuNq7jw) | 4:23 |
+| 26 | [答案是你 \(戲劇《靈魂約定》主題曲\)](https://open.spotify.com/track/4JzSTAQH9SlSAYaTXv9xfB) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [答案是你](https://open.spotify.com/album/3nxIxsZVH1LsUVLknPkKN0) | 2:41 |
+| 27 | [當你](https://open.spotify.com/track/2EZsFzgESMhRzGMLZHX72G) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/6zTY7YiEQ7KkGOO0wzSq3F) | 3:23 |
+| 28 | [有些](https://open.spotify.com/track/4bDJJr7yG31MApWuvEasAo) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/4BHheCy06jeyqTEmc2QlX9) | 3:49 |
+| 29 | [你啊你啊 \- 電視劇「用九柑仔店」插曲](https://open.spotify.com/track/4nyO1azSuhT5JrETvzEahs) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [末路狂花](https://open.spotify.com/album/7c1IN5kHYhL8HbeGoahRKf) | 5:24 |
+| 30 | [如果我變成回憶](https://open.spotify.com/track/4ZihPLUkdHJZ9XVhxMeFTG) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [第三回合](https://open.spotify.com/album/2zGskmPlVAaFVaNEAq1EJ0) | 4:51 |
+| 31 | [慢慢喜歡你](https://open.spotify.com/track/79LVKCDq5n3N2k6dtWP4gP) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [我們在中場相遇](https://open.spotify.com/album/7Af29PKaPGe1ali29ogX8l) | 3:41 |
+| 32 | [Jumping Machine \(跳楼机\)](https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [Jumping Machine \(跳楼机\)](https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM) | 3:21 |
+| 33 | [你是不是有點動心](https://open.spotify.com/track/0FIRHGE4loKAH5o5ByiqG0) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [1:28](https://open.spotify.com/album/39MCCipCiuLjzl76bY7NmU) | 4:28 |
+| 34 | [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 |
+| 35 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
+| 36 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首張同名專輯](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
+| 37 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 |
+| 38 | [走了嗎](https://open.spotify.com/track/7cFA9xPW3f29WBgXpdfK7h) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 3:48 |
+| 39 | [蚵仔麵線 \(電視劇《俗女養成記2》插曲\)](https://open.spotify.com/track/3F3uPlgFAvJCuSzD8EoC0X) | [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [青春集](https://open.spotify.com/album/4qBqZL9KRAcesH04NeowHk) | 3:29 |
+| 40 | [家家酒](https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [還是想念](https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP) | 4:33 |
+| 41 | [雲的距離](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 |
+| 42 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 |
+| 43 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 |
+| 44 | [你的答案](https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [你的答案](https://open.spotify.com/album/05nfv9HHHKkKWoNDGQSNNb) | 3:39 |
+| 45 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
+| 46 | [被動](https://open.spotify.com/track/1CF7cK2JzMJUTXBvXfr4s9) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [LEMON TREE](https://open.spotify.com/album/7dMkSB7OywnJMCYQivYCwL) | 3:41 |
+| 47 | [因為錢](https://open.spotify.com/track/65wK1mxQnfDhXxekbWgVtI) | [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR), [Yitai Wang](https://open.spotify.com/artist/3FpGegUfBRYiws8Ww49Y1j) | [光明離不開黑暗](https://open.spotify.com/album/6gxdW8NMfzqfP2NUoziw6A) | 4:36 |
+| 48 | [猜你也不會說](https://open.spotify.com/track/1Cko0sP3s0YYp5nJyRI94g) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [All of Me](https://open.spotify.com/album/4HdjRbnAIYwaoYaVIInzC7) | 2:41 |
+| 49 | [Crash You](https://open.spotify.com/track/38DnLqm6p1dkU1p9tVYBM0) | [沐妍](https://open.spotify.com/artist/5lkCNTlv7uDrYNr6eaLP8h) | [Crash You](https://open.spotify.com/album/6Jy9jSdyJZWS3GeTBV8raX) | 3:16 |
+| 50 | [停下来](https://open.spotify.com/track/3YUFdfgWv5fovD9gP4jMvu) | [Justin吴宗翰](https://open.spotify.com/artist/0pFM2LKw2VX8KrZBACOgZj), [Joey 梁祖仪](https://open.spotify.com/artist/7szHSylDpqL8t1QalgJ0Bg) | [停下来](https://open.spotify.com/album/4tSI9TxVIwfeLGxNKZ9aHZ) | 5:12 |
+| 51 | [BOOM！怪物星人](https://open.spotify.com/track/2G2MLrAIdDHHK99h3bUgQz) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [BOOM！怪物星人](https://open.spotify.com/album/3qDQ6Do1NbVjPxgNjSAy1M) | 3:54 |
+| 52 | [我們 \(《奇蹟》前導片插曲\)](https://open.spotify.com/track/4p9jKHLROoI5z8rUSJD20Y) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4) | [fff](https://open.spotify.com/album/2sctJUp4IwUfCtWNk5BY4L) | 3:49 |
 
-Snapshot ID: `AAAAALvNod8biZdKb+hRwR5sRJchbVbP`
+Snapshot ID: `AAAAANAYQCWIdvG1ohAHCJmuxrk3U96V`

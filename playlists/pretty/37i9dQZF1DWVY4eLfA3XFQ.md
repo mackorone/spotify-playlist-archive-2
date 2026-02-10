@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🥁 Tech house operators, featuring Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,647 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,234 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,23 +16,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 6 | [Heat](https://open.spotify.com/track/44Td8ZrWgOVUUGPuNc60ZL) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Heat EP](https://open.spotify.com/album/6zUNevuIKyluY54KwWc0Bd) | 2:27 |
 | 7 | [Impressive](https://open.spotify.com/track/1L0IGzJXz2ja4OzXef1pb5) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [SEBS](https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv) | [Impressive](https://open.spotify.com/album/7t751Owrp6BfQ2ALySrHcb) | 3:17 |
 | 8 | [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 |
-| 9 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
-| 10 | [RITZ](https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [RITZ](https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP) | 3:02 |
-| 11 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
-| 12 | [Make My Day](https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W) | [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Make My Day](https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f) | 3:04 |
-| 13 | [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 |
+| 9 | [Keep Moving](https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ) | [MARTA](https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS) | [Keep Moving](https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop) | 2:43 |
+| 10 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
+| 11 | [RITZ](https://open.spotify.com/track/3VMI6UnnxERt2vnRW6SY3U) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [RITZ](https://open.spotify.com/album/4eai8F4RLUMtak4NwX3WzP) | 3:02 |
+| 12 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
+| 13 | [Make My Day](https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W) | [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Make My Day](https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f) | 3:04 |
 | 14 | [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 |
-| 15 | [Saquarema](https://open.spotify.com/track/3pbiigBVIFmCP3cRpDtcCb) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [TOOLS 4 HARDWORKERS 006](https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ) | 5:27 |
+| 15 | [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 |
 | 16 | [Loose Pt\. 3](https://open.spotify.com/track/2YIG7QIUOKs35C590rmxSE) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/1IYAtgkkvNpjvqXY7Dq2Np) | 2:49 |
 | 17 | [Vertigo](https://open.spotify.com/track/6uaReMYzSpw9NFReHxAs1J) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Vertigo](https://open.spotify.com/album/62N5iJwmbeNaoG8sUYAhVh) | 2:46 |
 | 18 | [Hot Sensation](https://open.spotify.com/track/0i1oGYNy2JVFZUSYIBP4po) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Hot Sensation](https://open.spotify.com/album/4ch2SG4G7jBYEkRlxu09Lt) | 3:00 |
 | 19 | [Activate](https://open.spotify.com/track/2sKX1lTM5kpQqxcjur5eLC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV) | [Activate](https://open.spotify.com/album/2xkdMLHlbuSGtdUtPntQlt) | 3:21 |
 | 20 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 |
 | 21 | [Chicago Press](https://open.spotify.com/track/5NzJ7hfmBiCzGwdKGJmGO7) | [Luca Ferrero](https://open.spotify.com/artist/2m0J7cygZoPewLCTD5E4VY) | [Chicago Press](https://open.spotify.com/album/3wEBphTdFP2wfFSbckvIoF) | 2:59 |
-| 22 | [Mi Gentee](https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Mi Gentee EP](https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG) | 3:28 |
-| 23 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
-| 24 | [Intoxicated](https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Intoxicated](https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt) | 2:20 |
-| 25 | [Keep Moving](https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ) | [MARTA](https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS) | [Keep Moving](https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop) | 2:43 |
+| 22 | [Saquarema](https://open.spotify.com/track/3pbiigBVIFmCP3cRpDtcCb) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [TOOLS 4 HARDWORKERS 006](https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ) | 5:27 |
+| 23 | [Mi Gentee](https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Mi Gentee EP](https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG) | 3:28 |
+| 24 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 |
+| 25 | [Intoxicated](https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Intoxicated](https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt) | 2:20 |
 | 26 | [LICK IT](https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [LICK IT](https://open.spotify.com/album/6rMqR0MHTHBirJggnVeruA) | 3:31 |
 | 27 | [Funk Rider](https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Funk Rider](https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3) | 3:20 |
 | 28 | [The Fix](https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [The Fix](https://open.spotify.com/album/2BAJVd0LXR1Lv3niX2o6vC) | 3:00 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Shake That](https://open.spotify.com/track/1N2sFj45WQQBRDTYGV0BdF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Shake That](https://open.spotify.com/album/56Up40fpqIi7IyCvZ7Y4if) | 2:52 |
 | 125 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 
-Snapshot ID: `AAAAAHJuVeMw0K7sVM8f7f6tuZIl6PcW`
+Snapshot ID: `AAAAAJ3M2I84cFujplDnDlhu73cXkG/u`

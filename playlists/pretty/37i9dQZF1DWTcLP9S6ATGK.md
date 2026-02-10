@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover:  Ghea Indrawari
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,752 likes - 123 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,754 likes - 123 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

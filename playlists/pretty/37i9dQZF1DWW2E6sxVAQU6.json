@@ -1,6 +1,6 @@
 {
   "description": "Dedicata a chi non ha rischiato ed \u00e8 sempre andato al massimo  \u26a1\ufe0f",
-  "num_followers": 13174,
+  "num_followers": 13173,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Made In Italy",
-        "url": "https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 218188,
-      "name": "Buona Giornata",
-      "url": "https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
         "name": "Daniel Sentacruz Ensemble: Solo Grandi Successi",
         "url": "https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0"
       },
@@ -487,18 +471,34 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Grigio",
-        "url": "https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY"
+        "name": "Made In Italy",
+        "url": "https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF"
       },
       "artists": [
         {
-          "name": "Quintorigo",
-          "url": "https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP"
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Bentivoglio Angelina",
-      "url": "https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW"
+      "duration_ms": 218188,
+      "name": "Buona Giornata",
+      "url": "https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
+        "name": "Little Tony",
+        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
+      },
+      "artists": [
+        {
+          "name": "Little Tony",
+          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Bada Bambina",
+      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
     },
     {
       "added_at": "2026-01-25 23:01:07",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
-        "name": "Little Tony",
-        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
+        "name": "Grigio",
+        "url": "https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY"
       },
       "artists": [
         {
-          "name": "Little Tony",
-          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
+          "name": "Quintorigo",
+          "url": "https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP"
         }
       ],
-      "duration_ms": 174733,
-      "name": "Bada Bambina",
-      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
+      "duration_ms": 254333,
+      "name": "Bentivoglio Angelina",
+      "url": "https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW"
     },
     {
       "added_at": "2026-01-25 23:01:07",

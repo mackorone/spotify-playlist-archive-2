@@ -4,7 +4,7 @@
 
 > 
 
-279 songs - 15 hr 57 min
+280 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2025-01-24 |  |
 | [Fortuna](https://open.spotify.com/track/5FvUg3e3O0Bzw3p1toKinS) | [Xiara 2X](https://open.spotify.com/artist/6oSjy7I9qIzShcBE4I4xG7) | [Fortuna](https://open.spotify.com/album/3DLEVXuo9rPQ9K4ftA2RxR) | 2:36 | 2025-01-26 |  |
 | [FREAK](https://open.spotify.com/track/57xFboqhIKfV73qGa0uFuL) | [Gugú](https://open.spotify.com/artist/31A1phedmHXdiJ6MnKaSHE) | [FREAK](https://open.spotify.com/album/7vo1oZdkr3gnqwAlcIPLdx) | 3:21 | 2025-08-20 |  |
+| [Fuego](https://open.spotify.com/track/1fCFjHamH9I3w9Qd32vjW3) | [Chicoselfie](https://open.spotify.com/artist/2jiH07cfJhSjf95VGyJsrR) | [Fuego](https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN) | 5:00 | 2026-02-09 |  |
 | [Fuera de Control](https://open.spotify.com/track/1U07pG0CtXIqSPFxgsK2ar) | [Nico Wang](https://open.spotify.com/artist/4g89i0erqfKJe64n6wkOX8) | [Fuera de Control](https://open.spotify.com/album/0NPpGRge0wJIhrnYfHSRtb) | 3:21 | 2025-03-13 |  |
 | [Fácil](https://open.spotify.com/track/3rRop1scvy1R3xhqTuS1q7) | [Fran Torrella](https://open.spotify.com/artist/7bFXH7TevOccNpWYQjmMc6) | [Fácil](https://open.spotify.com/album/0tfos3oIbkQpNiKDRfEZhV) | 4:03 | 2025-02-15 |  |
 | [Galapagos \(feat\. 重音テト\)](https://open.spotify.com/track/3XIHr8wFBeQvn2etLCOYw0) | [gokuri](https://open.spotify.com/artist/6JsJyG7KRb4Q6GLF9fwSh4), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [SectionA](https://open.spotify.com/album/6m8SVuFdrHhZNc6eDB9p5m) | 4:38 | 2025-02-01 |  |

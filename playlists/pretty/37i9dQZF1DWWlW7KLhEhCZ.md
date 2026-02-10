@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: FAB GODAMN
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,174 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,183 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COMME DES GARÇONS](https://open.spotify.com/track/4yC4sRDhK1uXLW9B14jyQl) | [FAB GODAMN](https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp) | [FATALFATALFATAL](https://open.spotify.com/album/6mVG3MQDjFsJwSsZDxfXfm) | 1:40 |
-| 2 | [BBS](https://open.spotify.com/track/0c0TzxScH4B2vxO6LqCNGC) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Yrpedro](https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO) | [BBS](https://open.spotify.com/album/1n7cu43pOVA1AS6yVvv3eI) | 4:01 |
+| 2 | [BBS](https://open.spotify.com/track/0c0TzxScH4B2vxO6LqCNGC) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Yrpedro](https://open.spotify.com/artist/339yVlPjJYiFe211UDs01q), [vvallace](https://open.spotify.com/artist/6rxl5k2VobxbepP3fNRVuO), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [BBS](https://open.spotify.com/album/1n7cu43pOVA1AS6yVvv3eI) | 4:01 |
 | 3 | [BOSS BITCH](https://open.spotify.com/track/4n8f8PthdHxN1EOKFSrlpS) | [Emilly Guedes](https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr), [LAY](https://open.spotify.com/artist/2OJMqf5cRB8DJwnmyw4UQb) | [BOSS BITCH](https://open.spotify.com/album/1rVEEGfUIxIkIH5ZlOBIGc) | 3:02 |
 | 4 | [Fatos Reais](https://open.spotify.com/track/1bRZKPWiVdjC4jNQzJzk0f) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fatos Reais](https://open.spotify.com/album/30lzqW1TGAtj0895NLmGb6) | 2:22 |
 | 5 | [Evil](https://open.spotify.com/track/20pzteRHEMzVfaNfItDcta) | [Lamar](https://open.spotify.com/artist/7nhonYMPyCNw05h1NBAuLx), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Evil](https://open.spotify.com/album/6AU8jYEc5Q31wApFiFZArH) | 2:36 |

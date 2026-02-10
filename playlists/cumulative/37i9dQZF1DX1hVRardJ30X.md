@@ -4,7 +4,7 @@
 
 > New music by Chuyin, Eladio Carrion, Easykid & Kali Uchis, Carlos Vives & more.
 
-11,458 songs - 24 day 21 hr 7 min
+11,459 songs - 24 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1080,6 +1080,7 @@
 | [Baja y Sube](https://open.spotify.com/track/19HdxwjuhFbN3trAA6EHYJ) | [Rokero](https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Baja y Sube](https://open.spotify.com/album/1JSmYKbA5QmaerpftwdFe4) | 2:50 | 2023-08-18 | 2023-08-26 |
 | [Bajo](https://open.spotify.com/track/7sNB4LjbVdcApb0YMQSPMG) | [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Bajo](https://open.spotify.com/album/0qgrn8W2Rj87k6t9vR7fEh) | 2:42 | 2022-04-15 | 2022-04-23 |
 | [Bajo 0](https://open.spotify.com/track/6ivKyQuX9NT2Vdo9br1QUO) | [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [Bajo 0](https://open.spotify.com/album/52h0Y5U8dxELh0Yb62472Z) | 3:02 | 2024-02-16 | 2024-02-24 |
+| [BAJO CERO](https://open.spotify.com/track/4vM7jPhNtOKihPksD0nw3L) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Christopher Velez](https://open.spotify.com/artist/60w8lF7r9QhvUQNupt5GQk) | [BAJO CERO](https://open.spotify.com/album/3pQ54dQWi9W956cG1N9H7C) | 2:52 | 2026-02-09 |  |
 | [Bajo Control](https://open.spotify.com/track/2BV0Fa4MS4w6Oush2CdNvV) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Bajo Control](https://open.spotify.com/album/5sQWD9mh4z7im5PWl1xpaz) | 3:36 | 2025-06-13 | 2025-06-21 |
 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-05 | 2025-09-13 |
 | [Bajo El Sol](https://open.spotify.com/track/1NC4ekXkSHiYoUMANvQ09E) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Bajo El Sol](https://open.spotify.com/album/77KKdfOtwdqsYkP0YXri7K) | 2:17 | 2025-06-27 | 2025-07-05 |

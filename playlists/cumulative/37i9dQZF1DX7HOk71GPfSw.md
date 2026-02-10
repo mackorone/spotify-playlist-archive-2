@@ -4,7 +4,7 @@
 
 > The Magna Carta was a royal charter issued in 1215 that established that the king was not above the law
 
-2,579 songs - 4 day 21 hr 53 min
+2,580 songs - 4 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [DEFENDER](https://open.spotify.com/track/1MFz62BDFCPhVuMAELPDf6) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [DEFENDER](https://open.spotify.com/album/6b6ykEktEnuGJ4jQUvTyWX) | 3:13 | 2023-10-13 | 2024-01-23 |
 | [Del mar county fair 2008](https://open.spotify.com/track/7HTdY4rpT1Wal6ux3t2hE4) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 4:31 | 2021-10-16 | 2021-11-13 |
 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 | 2026-01-06 |  |
+| [Delete \- horsegiirL Remix](https://open.spotify.com/track/3OqV1YnTNsKMwphZw46k5M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Delete \(horsegiirL Remix\)](https://open.spotify.com/album/2sRh3kYH7pag7Q6CUTdZlx) | 2:54 | 2026-02-09 |  |
 | [delirious](https://open.spotify.com/track/25Ygt9oe0v56ka0KNzV5YF) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [delirious](https://open.spotify.com/album/3BQuAmBiNChWZo6FyNpRXy) | 2:18 | 2022-12-16 | 2023-03-25 |
 | [Demolished \- Frost Children Remix](https://open.spotify.com/track/1VjaYij5lLaHf2LC7FoSZX) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Demolished \(Frost Children Remix\)](https://open.spotify.com/album/2NfnzAXzpfK0ZBDRWXeOR6) | 3:31 | 2022-12-16 | 2023-01-25 |
 | [Demon](https://open.spotify.com/track/5I9T8nD2r7GlFEs9p2AeRv) | [Brambles](https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX) | [Demon](https://open.spotify.com/album/1uaZjZ6LN9kaS8pJPp4o3H) | 3:00 | 2022-10-28 | 2023-01-25 |
@@ -1857,7 +1858,7 @@
 | [Rain On Me \(with Ariana Grande\) \- Arca Remix](https://open.spotify.com/track/5XDghj1KSe2rTWnc5D6mIk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:23 | 2021-09-04 | 2021-09-11 |
 | [Rainbow](https://open.spotify.com/track/3dKoqTsWa5czZzkRa3Iw5q) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Rainbow](https://open.spotify.com/album/3R9pgPWlAYtXuk1CF80Wxx) | 3:28 | 2020-12-11 | 2021-02-10 |
 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/0FH84ZE1svXbXHnbpkfK8F) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Rainbow \(make it double Oklou Mix\)](https://open.spotify.com/album/2XZOPdtAdqDdJM0aosMpUc) | 4:01 | 2021-03-26 | 2021-07-17 |
-| [Rainbow Gal](https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Rainbow Gal](https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS) | 2:22 | 2025-09-12 |  |
+| [Rainbow Gal](https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Rainbow Gal](https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS) | 2:22 | 2025-09-12 | 2026-02-10 |
 | [Rainbows Over Russia](https://open.spotify.com/track/4ApA5ndEHZpRQ5fnXc4S7q) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Rancho Catastrophe](https://open.spotify.com/album/5mEz2wLWBXDB76mAv5qW6T) | 2:33 | 2020-11-20 | 2021-01-08 |
 | [Raise](https://open.spotify.com/track/05nbiQ9Uwsyc8RZWbvqxM6) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [Raise](https://open.spotify.com/album/7KsCrNb9NzCzeqRDlveU3N) | 2:17 | 2021-05-03 | 2021-08-25 |
 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 | 2020-10-13\* | 2020-12-09 |

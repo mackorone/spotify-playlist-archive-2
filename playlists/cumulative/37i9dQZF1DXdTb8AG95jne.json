@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "bad friend",
+        "url": "https://open.spotify.com/album/1pjxuYytNXtjCEfw2SAtMM"
+      },
+      "artists": [
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162579,
+      "name": "bad friend",
+      "url": "https://open.spotify.com/track/6uCPuIVSEE2xXBjROxJAPg"
+    },
+    {
+      "album": {
         "name": "Bad News",
         "url": "https://open.spotify.com/album/3Ypjq0ayZL9QeSzpc6iyZj"
       },
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 246933,
       "name": "Belated Christmas",
       "url": "https://open.spotify.com/track/3XmBthfu3EcoDPfW7CL9Db"
@@ -13678,7 +13696,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 251000,
       "name": "No Worry Salon",
       "url": "https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU"
@@ -14768,6 +14786,24 @@
       "duration_ms": 251720,
       "name": "Picture",
       "url": "https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d"
+    },
+    {
+      "album": {
+        "name": "Pieces of You",
+        "url": "https://open.spotify.com/album/5esntY1qMQj4JEfadP5aIX"
+      },
+      "artists": [
+        {
+          "name": "Confined White",
+          "url": "https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216886,
+      "name": "Pieces of You",
+      "url": "https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu"
     },
     {
       "album": {
@@ -20409,6 +20445,24 @@
     },
     {
       "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
+    },
+    {
+      "album": {
         "name": "Until tomorrow comes (feat. P.RAO)",
         "url": "https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS"
       },
@@ -22924,7 +22978,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 177351,
       "name": "\uc0ac\ub791\uc740 \ub0b4\uac90 \uc544\uc9c1 \uc5b4\ub824\uc6b4\uac00\ubd10",
       "url": "https://open.spotify.com/track/1x51l9lzqwmvVZQY4YCHAm"

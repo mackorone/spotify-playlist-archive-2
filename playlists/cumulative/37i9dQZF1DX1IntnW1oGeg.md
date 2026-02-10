@@ -4,7 +4,7 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-17 songs - 1 hr 2 min
+18 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 | 2025-11-19 |  |
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-11-19 |  |
 | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB) | 3:43 | 2025-11-19 |  |
+| [On The Road](https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [On The Road](https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT) | 4:12 | 2026-02-09 |  |
 | [oops!](https://open.spotify.com/track/0rY7KVfZoLlUHVpCD7KEAm) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [oops!](https://open.spotify.com/album/5tpi5cegn37C5Eb5inSESa) | 3:20 | 2025-11-19 |  |
 | [oops!](https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [oops!](https://open.spotify.com/album/53P9gkabZ0sup2pTa0ySJs) | 3:20 | 2025-11-19 |  |
 | [Promise \- Spotify Live Version](https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Promise \- Spotify Live Version](https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob) | 3:53 | 2025-11-19 |  |

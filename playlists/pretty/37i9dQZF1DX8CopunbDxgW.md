@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > dance music has rarely sounded..\. so joyful\. thank you joy anonymous  😊 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,750 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,693 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

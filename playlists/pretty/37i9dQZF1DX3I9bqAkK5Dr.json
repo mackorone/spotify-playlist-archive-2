@@ -1,12 +1,12 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Ritesh G Rao",
-  "num_followers": 43234,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Jagdish Chintala",
+  "num_followers": 43237,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyZNjE8CVqj9pQ3TRdft5Gs7z9p",
+  "snapshot_id": "AAAAAB/+LIrJb+WyXUF+txVxq9RffYlU",
   "tracks": [
     {
       "added_at": "2026-02-06 13:18:20",
@@ -27,6 +27,50 @@
       "duration_ms": 213473,
       "name": "Lekha",
       "url": "https://open.spotify.com/track/5r0F3Ujnoo6xufzw9fH5GO"
+    },
+    {
+      "added_at": "2026-02-09 09:31:10",
+      "album": {
+        "name": "You Are My Dream Girl",
+        "url": "https://open.spotify.com/album/4yQzV17US8W5IfBomjfaU6"
+      },
+      "artists": [
+        {
+          "name": "Vamsikanth Rekhana",
+          "url": "https://open.spotify.com/artist/7p1XLCC9lLV6T3KIlZrMkG"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "You Are My Dream Girl",
+      "url": "https://open.spotify.com/track/2GE2bi23poertoQ4IEoK1P"
+    },
+    {
+      "added_at": "2026-02-09 09:31:10",
+      "album": {
+        "name": "Naa Rakshasi",
+        "url": "https://open.spotify.com/album/0ajeD6b6xFRnBgTl4AcPGE"
+      },
+      "artists": [
+        {
+          "name": "Adithya Rkay",
+          "url": "https://open.spotify.com/artist/2YObV4LlxjIDCRAZleXF1a"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Nimshi Zacchaeus",
+          "url": "https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Naa Rakshasi",
+      "url": "https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx"
     },
     {
       "added_at": "2026-01-30 04:16:01",
@@ -917,26 +961,6 @@
       "url": "https://open.spotify.com/track/2MlLatHo4PRwO8MNe0lqAq"
     },
     {
-      "added_at": "2025-08-14 14:51:59",
-      "album": {
-        "name": "Kalavarinche Kshanam",
-        "url": "https://open.spotify.com/album/0HNuGJEhHjaMS7AwtB5Xd1"
-      },
-      "artists": [
-        {
-          "name": "Sai Teja Reddy",
-          "url": "https://open.spotify.com/artist/0bqjri9k43E0zIhSOKaHd1"
-        },
-        {
-          "name": "Tejaswini Pola",
-          "url": "https://open.spotify.com/artist/7G3ntC37kHqOeOJJgbMcaX"
-        }
-      ],
-      "duration_ms": 141969,
-      "name": "Kalavarinche Kshanam",
-      "url": "https://open.spotify.com/track/4DkxdK8rt1uxBmptVsNrOF"
-    },
-    {
       "added_at": "2025-09-04 14:07:49",
       "album": {
         "name": "Chinni Chinni Chandamama",
@@ -1027,22 +1051,6 @@
       "duration_ms": 285499,
       "name": "Premey",
       "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
-    },
-    {
-      "added_at": "2025-03-07 14:14:56",
-      "album": {
-        "name": "Yedhola Undhe",
-        "url": "https://open.spotify.com/album/72kHAHpKN1BNXGsZG8f4YN"
-      },
-      "artists": [
-        {
-          "name": "Ishaq Vali",
-          "url": "https://open.spotify.com/artist/4iUNdynZHnS2SvMUtrXCZj"
-        }
-      ],
-      "duration_ms": 214354,
-      "name": "Yedhola Undhe",
-      "url": "https://open.spotify.com/track/612qQo2RvmknnS3p49uwI6"
     },
     {
       "added_at": "2025-11-20 10:22:12",

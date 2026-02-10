@@ -2403,6 +2403,28 @@
     },
     {
       "album": {
+        "name": "ALEXA 2",
+        "url": "https://open.spotify.com/album/0AwokaBP443rjypmBbEkmN"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150861,
+      "name": "ALEXA 2",
+      "url": "https://open.spotify.com/track/0Hh5jr65kGZq4g2kMkhz0r"
+    },
+    {
+      "album": {
         "name": "Alguns Dias de Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7ieasyzJ98bKbuYfVgE7OT"
       },
@@ -44040,7 +44062,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 209428,
       "name": "THE TRAP #1",
       "url": "https://open.spotify.com/track/7J6YjzBUA6awK0qP9zTmRf"

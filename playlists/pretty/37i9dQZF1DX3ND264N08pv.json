@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 92088,
+  "num_followers": 92139,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
+        "name": "Jackpot Killah",
+        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Jackpot Killah",
+      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
         "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
         "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 190666,
       "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
       "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Jackpot Killah",
-        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        },
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Jackpot Killah",
-      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 176937,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 173055,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 176937,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
     },
     {
       "added_at": "2026-01-30 12:07:15",

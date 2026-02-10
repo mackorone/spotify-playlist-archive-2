@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: ma\u00efa",
-  "num_followers": 44817,
+  "num_followers": 44908,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "people pleaser",
-        "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 189110,
-      "name": "people pleaser",
-      "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 204112,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "people pleaser",
+        "url": "https://open.spotify.com/album/4s175oNexOJX6mjdPn80ua"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 189110,
+      "name": "people pleaser",
+      "url": "https://open.spotify.com/track/3sARZteFXGPGrvcZFtIssk"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Wake up!",
-        "url": "https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4"
+        "name": "2 wochen",
+        "url": "https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz"
       },
       "artists": [
         {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
         }
       ],
-      "duration_ms": 148988,
-      "name": "Wake up!",
-      "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"
+      "duration_ms": 147124,
+      "name": "2 wochen",
+      "url": "https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "2 wochen",
-        "url": "https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz"
+        "name": "Wake up!",
+        "url": "https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4"
       },
       "artists": [
         {
-          "name": "MELLER",
-          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 147124,
-      "name": "2 wochen",
-      "url": "https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6"
+      "duration_ms": 148988,
+      "name": "Wake up!",
+      "url": "https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe"
     },
     {
       "added_at": "2026-02-03 23:00:18",

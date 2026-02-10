@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-864 songs - 2 day 1 hr 32 min
+866 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,7 +583,7 @@
 | [RAGNAROK](https://open.spotify.com/track/3ganiNjhw9fWaBdVpfXDt4) | [Bjergborn](https://open.spotify.com/artist/0KS0l5gMsKpxcG8x1L5Ddn) | [GOÐAVERK](https://open.spotify.com/album/6CRNHhAB2zyIBoNMJ2QjZq) | 4:57 | 2026-02-02 |  |
 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 | 2025-12-23 | 2026-01-15 |
 | [Rampage](https://open.spotify.com/track/2yfitTwuoucAqR1HAhUpix) | [L.A\. Sagne](https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO) | [Rampage](https://open.spotify.com/album/7dHC9UY3v58pd9QQt0RXYK) | 2:15 | 2026-02-05 |  |
-| [Reading With the Lights Off](https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX) | [halfstride](https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn) | [Reading With the Lights Off](https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL) | 3:09 | 2026-01-09 |  |
+| [Reading With the Lights Off](https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX) | [halfstride](https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn) | [Reading With the Lights Off](https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL) | 3:09 | 2026-01-09 | 2026-02-10 |
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 | 2026-02-03 |
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
@@ -649,6 +649,7 @@
 | [Shrouded in the starless furnace.](https://open.spotify.com/track/6ct6bOZokMCqR4YB9KmO8n) | [rA.I.ce](https://open.spotify.com/artist/1VOknpElf219bUdh8eiCah) | [Shrouded in the starless furnace.](https://open.spotify.com/album/4DHzStJOWF8w7WeQ7hE41v) | 5:05 | 2025-12-19 | 2026-01-15 |
 | [Shutters + Stutters](https://open.spotify.com/track/3dJDRmonHnUfgdrjYKhFIs) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:20 | 2025-10-31 | 2025-12-10 |
 | [SICK SICK SICK](https://open.spotify.com/track/1NmlhOSOGH9S3Pd39smbqp) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [GLITCH BITCH](https://open.spotify.com/album/6IcihV7b8bv1SAas3hAYPt) | 2:30 | 2026-01-20 |  |
+| [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-09 |  |
 | [sign of snow](https://open.spotify.com/track/5tryiQU4P3sEJj7Li5NHT1) | [hxllxw](https://open.spotify.com/artist/4IYCC5RyWf9MG3jsnnpmDt), [TWOSMILES](https://open.spotify.com/artist/5xjIIDLxF9Cu3wMPtWZ7wU) | [sign of snow](https://open.spotify.com/album/3rXmevkJqH843y8RWVbgWq) | 3:41 | 2025-12-21 | 2026-01-15 |
 | [Silhouette Dans Le Désert](https://open.spotify.com/track/1nYPDlyYuMLqMFrIUOSDhG) | [Pixel In A Box](https://open.spotify.com/artist/3cBTA11xDzx4RJH9ST1U2s) | [Silhouette Dans Le Désert](https://open.spotify.com/album/1zApmSAcMWqHzUtSLPecmG) | 3:42 | 2025-12-02 | 2025-12-24 |
 | [Simon Dice](https://open.spotify.com/track/0I24rhHVXYGYgJyG2L8Vu2) | [Jardin Animal](https://open.spotify.com/artist/38QAh40vAt0RRB7V5KxOJN) | [Simon Dice](https://open.spotify.com/album/0PAOV8XpwnoeLCFHT3GzL4) | 3:37 | 2025-11-16 | 2025-12-10 |
@@ -721,6 +722,7 @@
 | [T\-shirt](https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:59 | 2025-08-03 |  |
 | [Take A Chance](https://open.spotify.com/track/4xrJe5mSSpzPEDyjaEALI9) | [Ruminator](https://open.spotify.com/artist/7rCv2ogPDCtilVgdVLWtZQ) | [Take A Chance](https://open.spotify.com/album/0jbeFSZQp03h7FrIc5yEyu) | 4:34 | 2025-12-27 | 2026-01-22 |
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-02-05 |  |
+| [Tangerine Lilac](https://open.spotify.com/track/5uySOdkPzsed6jNrp7jZyn) | [Freq Revolution](https://open.spotify.com/artist/42JZNQ4q1dXZWdfbAatxyX) | [Tangerine Lilac](https://open.spotify.com/album/3O7dSPQ6gyQqaDnHGOwzWx) | 4:04 | 2026-02-09 |  |
 | [Tears Me Up](https://open.spotify.com/track/6959IIhaVq28Z6ygotljjL) | [Lifeboats](https://open.spotify.com/artist/2vGWwJu1DndWtt2AhRAplt) | [Tears Me Up](https://open.spotify.com/album/0OKcZGOjOy4VYwBxOux7Ph) | 3:20 | 2025-11-27 | 2025-12-24 |
 | [Technophobia](https://open.spotify.com/track/0rzrA9sRqki2CsA9bbWM8p) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 4:35 | 2026-01-24 |  |
 | [Tempestad](https://open.spotify.com/track/1lrnxzUrCXwWXBkTrdeOBM) | [Tamadre](https://open.spotify.com/artist/6KyButsjnponUfqAfy4xLM) | [Tempestad](https://open.spotify.com/album/2fIroVDOgbpICleExhCta3) | 4:13 | 2026-01-05 |  |
@@ -739,7 +741,7 @@
 | [The Dominant](https://open.spotify.com/track/4zzlCCVf3tJiwwyaGpYTUo) | [Global Plague](https://open.spotify.com/artist/3l3qDiPbgEPAjeegMe88cV) | [The Dominant](https://open.spotify.com/album/4wcgqZHVG6EyyXnur9LbQU) | 2:17 | 2025-12-16 | 2026-01-06 |
 | [The End of the World or Whatever](https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ) | [Nell Davies](https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL) | [The End of the World or Whatever](https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa) | 3:12 | 2025-12-27 | 2026-01-22 |
 | [The Fallen](https://open.spotify.com/track/1H7Fbj2qhNi9SxKBuIfpqI) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Fallen](https://open.spotify.com/album/0l4A555dr88W8yB8T83taf) | 4:27 | 2025-12-21 | 2026-01-15 |
-| [The Fear](https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM) | [Wild Oceans](https://open.spotify.com/artist/6FhE766rqgj0CthToqDLky) | [The Fear](https://open.spotify.com/album/6GeX53WEJJeGDDy5jeHkiF) | 3:37 | 2026-01-09 |  |
+| [The Fear](https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM) | [Wild Oceans](https://open.spotify.com/artist/6FhE766rqgj0CthToqDLky) | [The Fear](https://open.spotify.com/album/6GeX53WEJJeGDDy5jeHkiF) | 3:37 | 2026-01-09 | 2026-02-10 |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-10 | 2026-01-06 |
 | [The line](https://open.spotify.com/track/5spFXTi0X8oQg8yxqYxCMz) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 5:28 | 2025-12-29 | 2026-01-22 |
 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 | 2026-01-22 |

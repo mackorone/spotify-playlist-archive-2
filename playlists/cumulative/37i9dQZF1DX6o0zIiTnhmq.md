@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-190 songs - 1 day 21 hr 20 min
+191 songs - 1 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 | 2025-04-07 |
 | [Buddhist Music and Chants for Inner Peace](https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo) | [Best Relaxing Music](https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD) | [Buddhist and Zen for Meditation Relaxation](https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ) | 8:29 | 2024-12-30 |  |
 | [Chandra Gayatri Mantra](https://open.spotify.com/track/49QY54TduPxYL8ZFxVuPxs) | [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [Chandra Gayatri Mantra](https://open.spotify.com/album/4KxzohWYDc73VfAehZ4FhQ) | 24:24 | 2025-10-06 | 2025-12-08 |
-| [Durga Gayatri Mantra](https://open.spotify.com/track/57uiI5Y9LLVjmKuiJejENW) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Durga Gayatri Mantra](https://open.spotify.com/album/1jH6sfc11zNlbXsIhiqoD6) | 6:30 | 2025-02-07 |  |
+| [Durga Gayatri Mantra](https://open.spotify.com/track/57uiI5Y9LLVjmKuiJejENW) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Durga Gayatri Mantra](https://open.spotify.com/album/1jH6sfc11zNlbXsIhiqoD6) | 6:30 | 2025-02-07 | 2026-02-10 |
 | [Durga Mantra](https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 43:59 | 2022-01-24 | 2023-05-05 |
 | [Durga Mantra](https://open.spotify.com/track/2M3U3LxFTNj3gKcYPSkM34) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 43:59 | 2022-01-24 | 2022-07-29 |
 | [Gaiye Ganpati Jagvandan LoFi](https://open.spotify.com/track/1Dnu8hhYk4ZfANofhQizyr) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Gaiye Ganpati Jagvandan LoFi](https://open.spotify.com/album/3zlMtlTdavvMI8as1oZrCH) | 5:10 | 2025-02-07 | 2025-03-01 |
@@ -116,6 +116,7 @@
 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 | 2023-05-23 |  |
 | [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H) | [Arundhati Chowdhury](https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ), [Hriddhi Chakraborty](https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk), [Aviman Paul](https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR) | [Om Maha Ganapataye Namaha \(108 Times\)](https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE) | 23:15 | 2024-09-05 | 2024-11-19 |
 | [Om Mani Padme Hum 1](https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [Yoga Music Collection "Blissfull Mantras & Prayers"](https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T) | 8:24 | 2022-01-24 |  |
+| [OM MEDITATION](https://open.spotify.com/track/2nLmhcK1268luLrifioCz9) | [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [OM MEDITATION](https://open.spotify.com/album/3qmvOLEFbHbSTBtQSnFMsn) | 1:00:42 | 2026-02-09 |  |
 | [Om Namah Shivaay](https://open.spotify.com/track/77BUqblYmGr4k7JAdgiLwt) | [Tochi Raina](https://open.spotify.com/artist/5ygCnHgWewvj077g4Zam9Y) | [Tochi Mantras](https://open.spotify.com/album/3v9tIJ3zIyg7fDwRtUfeGF) | 7:38 | 2022-01-24 | 2024-04-19 |
 | [Om Namah Shivaay](https://open.spotify.com/track/7tBfGCtnJjE6Ktzm3gZIO4) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 7:38 | 2022-01-24 | 2024-12-31 |
 | [Om Namah Shivay](https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb) | [Rahul Saxena](https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch) | [Om Namah Shivay](https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds) | 6:05 | 2025-02-07 |  |

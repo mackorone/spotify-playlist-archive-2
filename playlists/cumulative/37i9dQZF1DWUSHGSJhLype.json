@@ -1189,6 +1189,32 @@
     },
     {
       "album": {
+        "name": "Baile do VJ",
+        "url": "https://open.spotify.com/album/7dHEpFCs7xjcImlBEwdPIU"
+      },
+      "artists": [
+        {
+          "name": "Eduardinho dos Teclados",
+          "url": "https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148905,
+      "name": "Baile do VJ",
+      "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
+    },
+    {
+      "album": {
         "name": "Balan\u00e7o da Rede",
         "url": "https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP"
       },
@@ -11744,7 +11770,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 163846,
       "name": "T\u00f4 Sensacional",
       "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"

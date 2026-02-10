@@ -2,7 +2,7 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Sasha Keable's and music for your soul.
+> Sasha Keable and music for your soul.
 
 1,719 songs - 4 day 4 hr 53 min
 

@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 208285,
       "name": "Fidaa",
       "url": "https://open.spotify.com/track/0YdQ6qljvd2PgLi7Rb7r5z"
@@ -3678,6 +3678,32 @@
       "duration_ms": 225344,
       "name": "Main Aur Tum",
       "url": "https://open.spotify.com/track/5DdwOYaO8qF9wEphjjmFM0"
+    },
+    {
+      "album": {
+        "name": "Main tera ho gaya",
+        "url": "https://open.spotify.com/album/3Fw8sH4a3UBk003fhI5qea"
+      },
+      "artists": [
+        {
+          "name": "Karneast",
+          "url": "https://open.spotify.com/artist/12W8Yfi0XLf3MDTOqBCvK9"
+        },
+        {
+          "name": "Riya",
+          "url": "https://open.spotify.com/artist/0SnVVNWIVKr9HXn5GxR63Y"
+        },
+        {
+          "name": "Simon Vikram",
+          "url": "https://open.spotify.com/artist/4Bzr4Wx6UiQo0pHZd9qXZy"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Main tera ho gaya",
+      "url": "https://open.spotify.com/track/7GA5RpFblxTwHNsB20jjSP"
     },
     {
       "album": {

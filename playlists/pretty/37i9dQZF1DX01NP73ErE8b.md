@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Noemi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,706 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,750 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 21 | [STELLE](https://open.spotify.com/track/6A4xLWcVQdGGSGkY0XqZ6U) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:26 |
 | 22 | [Futuri Possibili](https://open.spotify.com/track/1uwRaRWJiMiDD945IPdFbV) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 3:29 |
 | 23 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
-| 24 | [LA MIA STORIA](https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [LA MIA STORIA](https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd) | 2:53 |
-| 25 | [Mi ritroverai](https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:57 |
-| 26 | [Ragazze facili](https://open.spotify.com/track/06VuH9h9RdPDsEWyyHoDHI) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ragazze facili](https://open.spotify.com/album/77L3Km2FifiLyQX6lKIikS) | 4:02 |
-| 27 | [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 |
+| 24 | [Mi ritroverai](https://open.spotify.com/track/3nSsqK9EEhtgRrL1dMAzBY) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:57 |
+| 25 | [Ragazze facili](https://open.spotify.com/track/06VuH9h9RdPDsEWyyHoDHI) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ragazze facili](https://open.spotify.com/album/77L3Km2FifiLyQX6lKIikS) | 4:02 |
+| 26 | [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 |
+| 27 | [LA MIA STORIA](https://open.spotify.com/track/1xTTY2MpWNW0A9DwuMbPeB) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [LA MIA STORIA](https://open.spotify.com/album/0X4TvG3ega6RMF80j60Jmd) | 2:53 |
 | 28 | [LE COSE NON DETTE \- Original Motion Picture Soundtrack](https://open.spotify.com/track/6hdzQTMLKd2IiZIeWCzV7E) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [LE COSE NON DETTE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YUuW1m2EOKpTUBvjghhLa) | 4:29 |
 | 29 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
 | 30 | [ti prego non piangere](https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [ti prego non piangere](https://open.spotify.com/album/4hUpEROffCaxLIy3C201Pw) | 3:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 64 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 |
 | 65 | [sbalzi d'amore \(feat\. Annalisa\)](https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [radio vega \(after dark\)](https://open.spotify.com/album/7BsC0Zs0bB8WmJbNgugd3j) | 2:58 |
 
-Snapshot ID: `AAAAAA8HQ8m0wiOddrnv/JB2bXQR78GJ`
+Snapshot ID: `AAAAAHNRpJZEjct+z7Bt9BqPuplMayEQ`

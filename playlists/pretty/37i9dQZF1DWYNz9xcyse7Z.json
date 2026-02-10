@@ -1,6 +1,6 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 188591,
+  "num_followers": 188639,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 279520,
-      "name": "Mi Buen Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
+      "duration_ms": 161626,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt"
+      "duration_ms": 279520,
+      "name": "Mi Buen Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "Como le hago",
+        "url": "https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "Los Paisanos de Sinaloa",
+          "url": "https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ"
         }
       ],
-      "duration_ms": 146906,
-      "name": "Esta Cobardia",
-      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+      "duration_ms": 178680,
+      "name": "Entre la lluvia y mi llorar",
+      "url": "https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Como le hago",
-        "url": "https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
       "artists": [
         {
-          "name": "Los Paisanos de Sinaloa",
-          "url": "https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 178680,
-      "name": "Entre la lluvia y mi llorar",
-      "url": "https://open.spotify.com/track/0WCMzGVDGntss0FTQHotNX"
+      "duration_ms": 146906,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Raza Pesada",
-        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores De Guaymas",
-          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Ambicion",
-      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
-    },
-    {
-      "added_at": "2025-01-15 01:34:00",
-      "album": {
         "name": "Para Morir Nac\u00ed",
         "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 192000,
       "name": "Para Morir Naci",
       "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
+    },
+    {
+      "added_at": "2025-01-15 01:34:00",
+      "album": {
+        "name": "Raza Pesada",
+        "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores De Guaymas",
+          "url": "https://open.spotify.com/artist/0Lnai7lNe8gZOe9fPaYFmv"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Ambicion",
+      "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
     },
     {
       "added_at": "2025-01-15 01:34:00",

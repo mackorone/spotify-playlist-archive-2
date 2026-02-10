@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: Audrey Nuna, EJAE and REI AMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,750 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,120 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/track/02LXCJevN92Y5fNeWYhmKU) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Rose Colored Lenses \- Spotify Singles](https://open.spotify.com/album/6JMCCR5BJyr7wAqWFkfwWN) | 2:23 |
 | 100 | [Free as a Bird](https://open.spotify.com/track/696tfPPK8UOUxUvDUJnTjm) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Flow](https://open.spotify.com/album/6v6kgVrz5umDYyLgNJf6mZ) | 2:59 |
 
-Snapshot ID: `AAAAAJYSgjaKw6y4oVz8ZOpRWbqCL46o`
+Snapshot ID: `AAAAAOi5UEPoqc6qV1EqjuKtTf2KCzXd`

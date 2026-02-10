@@ -2,9 +2,9 @@
 
 ### [Folk Frequency](https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup)
 
-> New folk & americana driving the current, every week\. Cover: Jensen McRae
+> New folk & americana driving the current, every week\. Cover: Mon Rovîa
 
-148 songs - 8 hr 49 min
+151 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Colors](https://open.spotify.com/track/4xexAopCB0NvHOA3QLuiNd) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:06 | 2022-06-17 | 2022-11-13 |
 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2022-06-17 | 2024-04-19 |
 | [Colors](https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-10-22 |  |
-| [Come Love Come](https://open.spotify.com/track/3VMgj5W7ui3LIbf3XYc8WB) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 5:19 | 2021-10-22 |  |
+| [Come Love Come](https://open.spotify.com/track/3VMgj5W7ui3LIbf3XYc8WB) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 5:19 | 2021-10-22 | 2026-02-10 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2021-12-01 |  |
 | [Cry Baby](https://open.spotify.com/track/751gK3jve65bGX4LtckYMF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cry Baby \(feat\. Valerie June\)](https://open.spotify.com/album/0RpG3rO8iuFXcS4OqaNdjX) | 3:14 | 2025-02-03 |  |
 | [Danger](https://open.spotify.com/track/5KzwHKqX7NZXgO54FjgRpp) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Danger](https://open.spotify.com/album/1pOhvqkRotSBZwRcxxpft1) | 3:25 | 2021-10-22 |  |
@@ -66,6 +66,7 @@
 | [Keith](https://open.spotify.com/track/17UWPwxNqVNlT1PZ3iTKj3) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:23 | 2023-06-23 | 2024-04-19 |
 | [Keith](https://open.spotify.com/track/6wzVKMYMKthQ3OPzQ050kj) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Keith](https://open.spotify.com/album/418UNeVZ41wZKjylFg4c1a) | 2:23 | 2023-06-09 |  |
 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 | 2022-06-03 |  |
+| [Köln \(Lost in Time\)](https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Köln \(Lost in Time\)](https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u) | 3:38 | 2026-02-09 |  |
 | [Life to Live](https://open.spotify.com/track/5m0AaCcveJ7o6Txm965xEd) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Sun Still Rises](https://open.spotify.com/album/5A2d8cOxuyeVrPW4pa9BXf) | 3:28 | 2025-02-03 |  |
 | [Long Journey Home](https://open.spotify.com/track/4BEoefxFSU1b8C2SM7UtIQ) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Long Journey Home](https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN) | 3:05 | 2021-10-22 |  |
 | [Lord Remember Me](https://open.spotify.com/track/1NELifKcBpsVykd0fmvoiI) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Let It Burn](https://open.spotify.com/album/4lA80Y2V39eT01w0SIMS04) | 3:11 | 2021-10-22 |  |
@@ -93,6 +94,7 @@
 | [New Day](https://open.spotify.com/track/2ycdTpQgwmCmxSvnwGn4JH) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/6Lj7fDEEx68OYdAZ41hlK6) | 3:21 | 2024-04-09 | 2024-04-19 |
 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 | 2021-10-22 |  |
 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 | 2023-01-25 | 2024-02-02 |
+| [Old Fort Steel Trail](https://open.spotify.com/track/0LUMAJihTHPlPGOPDfhdG8) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 2:29 | 2026-02-09 |  |
 | [one more](https://open.spotify.com/track/6ls5CB8bM1iXIwsOVjwYwN) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [one more](https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua) | 3:43 | 2024-02-01 | 2024-04-10 |
 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 | 2022-06-03 |  |
 | [People Need People](https://open.spotify.com/track/6KiWFNyMCXE7dvuj1eU5u0) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:24 | 2022-06-03 |  |
@@ -104,6 +106,7 @@
 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 | 2021-10-22 |  |
 | [Short and Sweet](https://open.spotify.com/track/1fDrmqH34hJ5Lx1w3ketXU) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:44 | 2022-06-17 | 2024-04-19 |
 | [Short and Sweet](https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:44 | 2021-10-22 |  |
+| [Silk And Velvet](https://open.spotify.com/track/0DBYse5Fm3xehgr0TkscJk) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 2:32 | 2026-02-09 |  |
 | [Sinking Boat](https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 2:56 | 2025-02-03 |  |
 | [Solitary Hero](https://open.spotify.com/track/0aC9yGYfo46iIziHuzVDQI) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 4:00 | 2024-04-15 |  |
 | [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2024-04-09 |  |
@@ -150,7 +153,7 @@
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2021-10-22 |  |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 |  |
 | [We the People \(Live\)](https://open.spotify.com/track/3UtYG6SYIwbCaGMY8c3squ) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Live from the Sanctuary](https://open.spotify.com/album/7F1eTwptcxpQUCusbGxUlw) | 3:41 | 2021-10-22 | 2025-02-04 |
-| [Where I'm Coming From](https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Where I'm Coming From](https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN) | 3:49 | 2025-02-03 |  |
+| [Where I'm Coming From](https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Where I'm Coming From](https://open.spotify.com/album/73GUvMVNRDdaowmVUQSfcN) | 3:49 | 2025-02-03 | 2026-02-10 |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-10-22 |  |
 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 | 2021-12-01 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:01 | 2022-06-03 |  |

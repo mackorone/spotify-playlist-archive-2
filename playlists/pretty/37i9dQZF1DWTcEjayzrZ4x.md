@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,687 likes - 200 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,708 likes - 200 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 199 | [Camellia](https://open.spotify.com/track/2NE2FqCAyKlyM0DUJsLQwf) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Camellia](https://open.spotify.com/album/6kEdhkxjtv1kccfbP36l07) | 3:34 |
 | 200 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 |
 
-Snapshot ID: `AAAAAODeYylxtexkqyh2zOeVSdEWyyBu`
+Snapshot ID: `AAAAAOX0JhuVIEtf12T3zMG4QLgUc8FY`

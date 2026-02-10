@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,050 likes - 117 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,048 likes - 117 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 96 | [Keep It Movin’](https://open.spotify.com/track/2IWvs7NUJ54EeZuosgnmM9) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Phylicia Pearl Mpasi](https://open.spotify.com/artist/4sgoLI8KFagQQt3wiIMcHC) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 3:52 |
 | 97 | [Love Suicide](https://open.spotify.com/track/19FFLSUP97EtKlicaB0slt) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Love Suicide \- Single](https://open.spotify.com/album/3588siG1z4pQFxBDHz8DC5) | 3:27 |
 | 98 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 |
-| 99 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 |
-| 100 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 |
+| 99 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 |
+| 100 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 |
 | 101 | [Westside](https://open.spotify.com/track/3bItNedEUjf8f1BIUqWQay) | [Charm La'Donna](https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT) | [La'Donna](https://open.spotify.com/album/3DCseDHoJhI3dLk3TwmjqH) | 2:56 |
 | 102 | [Keep Pushin’ \(Missy Elliott Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/2iJD1owfFgSQjPQTnG7C0P) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rico Santana](https://open.spotify.com/artist/0WG1mFn0LkcBZSW7gvUlPV), [Corte Ellis](https://open.spotify.com/artist/4GsvJxjhrNMK7SpsmpbZFt) | [Keep Pushin’ \(Missy Elliott Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/6rFY4YdVyFxWBTV3JtPJ7R) | 2:27 |
 | 103 | [Mama I Made It \(How We Do It\)](https://open.spotify.com/track/6SaMuPtzdKuRne9Q5ySoBR) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Say Mo](https://open.spotify.com/artist/4m0SRqbCQvBLrk4MO0nML4) | [Mama I Made It \(How We Do It\)](https://open.spotify.com/album/4qHDwSgNteS5Nk2cS9Ug2Q) | 3:24 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 116 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 117 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 
-Snapshot ID: `AcJJ1AAAAADdE+CunLsbLaMj72BzABQq`
+Snapshot ID: `AcJPYAAAAAA5gfXe4pzTNK4uSDjC7CUH`

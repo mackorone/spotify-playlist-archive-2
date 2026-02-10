@@ -1915,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Interwined",
+        "url": "https://open.spotify.com/album/0HtwQqaBJLCAoAJxRVzavv"
+      },
+      "artists": [
+        {
+          "name": "\uc18c\ub9ac",
+          "url": "https://open.spotify.com/artist/0DwJZUOWe6vfyMPTGGE13b"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250133,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/0o3YH8fE8tOPFDSxbvvgby"
+    },
+    {
+      "album": {
         "name": "Is you",
         "url": "https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk"
       },
@@ -2903,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "TIKI TAKA",
+        "url": "https://open.spotify.com/album/18Z30FBuoIx0U1xICFeS17"
+      },
+      "artists": [
+        {
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Oh my love",
+      "url": "https://open.spotify.com/track/4XVXQ6kCi9ME5LnLQKlVx0"
+    },
+    {
+      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -3702,7 +3738,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
@@ -4088,7 +4124,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
@@ -4666,7 +4702,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 238000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/1S3L6HqrQKcVkPoFbRVy7P"
@@ -4688,6 +4724,28 @@
       "duration_ms": 155480,
       "name": "Your Sun Is Stupid",
       "url": "https://open.spotify.com/track/0dSzOuc6GcCz4IYUgyTAie"
+    },
+    {
+      "album": {
+        "name": "zZ",
+        "url": "https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze"
+      },
+      "artists": [
+        {
+          "name": "\uc720\uc131\uc724",
+          "url": "https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW"
+        },
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "zZ(Tired) (With Yebit)",
+      "url": "https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-8,329 songs - 21 day 4 hr 7 min
+8,333 songs - 21 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1748,6 +1748,7 @@
 | [Drive Safe](https://open.spotify.com/track/6R7r9D8PQTijGlKbWgXhH7) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:00 | 2025-06-18 |  |
 | [Drive Slow](https://open.spotify.com/track/6vB49BJ70zBpDrrAPwdaB8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 4:32 | 2025-01-03 |  |
 | [Driver's High](https://open.spotify.com/track/6CDfSzUD5fYo7ru5AS3YvS) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark](https://open.spotify.com/album/6iVod7sxHuuTW9r76ixn12) | 4:10 | 2025-01-03 |  |
+| [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 | 2026-02-09 |  |
 | [Drivin' Me Wild](https://open.spotify.com/track/1UvHbGEsb66bPueCDFUgJS) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:42 | 2024-12-14 |  |
 | [drop pop candy](https://open.spotify.com/track/2OJKZvvs5fGT19TnW9c9VD) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:46 | 2025-10-03 |  |
 | [drop pop candy \(feat\. ギガ\)](https://open.spotify.com/track/3fao1RoZVQPtkHY8upjezr) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [No title\-](https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy) | 3:44 | 2025-01-15 |  |
@@ -2129,6 +2130,7 @@
 | [Flow Experience](https://open.spotify.com/track/7clA4NZUwdx6hoVXIdYLL0) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [王可鑫](https://open.spotify.com/artist/5PUiSXEwTWuOWBoy6j5uXx) | [Honkai: Star Rail \- Out of Control \(Original Game Soundtrack\)](https://open.spotify.com/album/6sIFNh8l8p7cAYvW2RJrTM) | 1:30 | 2025-09-28 |  |
 | [Flow of Mildness](https://open.spotify.com/track/2hI5tToSrWSBRJUfsrvetx) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jade Moon Upon a Sea of Clouds \(Original Game Soundtrack\)](https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T) | 1:19 | 2025-11-29 |  |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2025-04-11 |  |
+| [flower](https://open.spotify.com/track/1BymrzeFs03QuOyC8nO3w7) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/1GnrW9Luba7DskLyeEqhqS) | 4:58 | 2026-02-09 |  |
 | [flower](https://open.spotify.com/track/2w8RI0AYT5Hlc49olvZMIB) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/6NNW5jnGEIkFZeYHpGgAlo) | 4:58 | 2025-01-03 |  |
 | [Flowers Rise](https://open.spotify.com/track/7HWVAVAwsuXrMjXvHhQega) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 2:21 | 2025-01-03 |  |
 | [Flows of Jade\-Like Water](https://open.spotify.com/track/3yNVoNAkXe3aUjkAaWthwU) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Jade Moon Upon a Sea of Clouds \(Original Game Soundtrack\)](https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T) | 0:56 | 2025-11-29 |  |
@@ -4325,6 +4327,7 @@
 | [Negative Energy \(feat\. Kodie Shane\)](https://open.spotify.com/track/5OvxVXpGfp2rKQ3X0CqcIr) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:58 | 2025-01-15 |  |
 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 | 2025-01-03 |  |
 | [Nemurihime](https://open.spotify.com/track/0eOnoSM8TF0CoJc6fF8rVP) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Best of SEKAI NO OWARI \(in Japanese\)](https://open.spotify.com/album/5o79Pz8HCBePpYYPmP07Hn) | 5:31 | 2025-01-15 |  |
+| [NEO UNIVERSE \- Remastered 2022](https://open.spotify.com/track/3cFdPmh23RnHrpNOWNkSHH) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [REAL \(Remastered 2022\)](https://open.spotify.com/album/5w2N2CfwUcgczLNeZW5Q7K) | 4:08 | 2026-02-09 |  |
 | [Neo\-Aspect](https://open.spotify.com/track/6GIi8LrBsHmhFSp9eDXCUf) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/2Ae0tAmh18NBNVSplUJFFw) | 5:07 | 2025-09-08 |  |
 | [NEON](https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [NEON](https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD) | 3:40 | 2025-05-26 |  |
 | [NEON 1989](https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 2:26 | 2025-05-26 |  |
@@ -8265,6 +8268,7 @@
 | [잊어야 한다는 마음으로](https://open.spotify.com/track/67Yg0uYQB14o3gQ3RLwD7x) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 3번째 노래모음](https://open.spotify.com/album/2KFcEdwyadcW50UUSMPgKZ) | 4:17 | 2025-01-03 |  |
 | [잊지말아요](https://open.spotify.com/track/7nNexXYTneaudQngtiUK3j) | [Baek Z Young](https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o) | [Begin Again Open Mic Episode.23](https://open.spotify.com/album/3ZRiZkWbbMF1EdP61346IL) | 4:26 | 2024-12-10 |  |
 | [잊지말아요](https://open.spotify.com/track/3kmqdUOIFUyJaYXDzPuSwk) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자 가수 히트 발라드 모음 3집](https://open.spotify.com/album/6QJRgyCbjYulTTw825zVyt) | 4:03 | 2025-01-15 |  |
+| [잊지말아요 \(소녀감성 우체통\)](https://open.spotify.com/track/4PyCczqVXtpoXgcg8iuu8r) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh) | 4:34 | 2026-02-09 |  |
 | [잊지말아요 \(팥의 전사 호빵왕자\)](https://open.spotify.com/track/2k3Kbgch8UnbU2hQkd2fLX) | [HWAN HUI](https://open.spotify.com/artist/65Pu8cFuzyoSe62xIEw6BP) | [Mask Singer 96th \(Live Version\)](https://open.spotify.com/album/0lw1u12Q6cAUSjcEMww5VO) | 4:49 | 2025-04-20 |  |
 | [작은 기다림](https://open.spotify.com/track/30E4LefWJf2px2xVD5TLj4) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [The \[Ku:l\] II](https://open.spotify.com/album/28Svjfwpx5cBFa0XuKwvA5) | 4:14 | 2024-12-14 |  |
 | [장마 Rainy Season](https://open.spotify.com/track/53aWitne6ZS1MeD8deOWH7) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Melody Remedy](https://open.spotify.com/album/6HyogkSc6j4fMLGHLr6Ik1) | 4:18 | 2025-01-03 |  |

@@ -7310,7 +7310,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 178506,
       "name": "BLAH BLAH",
       "url": "https://open.spotify.com/track/2HAXPkODkurh8zKYXqc1E1"
@@ -19903,6 +19903,24 @@
     },
     {
       "album": {
+        "name": "Ginete",
+        "url": "https://open.spotify.com/album/4NTx7Mt38I6I35fAOTKFme"
+      },
+      "artists": [
+        {
+          "name": "Dimitris Kokotas",
+          "url": "https://open.spotify.com/artist/1TA60gQWotVjZEJhUdbjtB"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "Ginete",
+      "url": "https://open.spotify.com/track/7FV7YDYkJmqRrpRLV69ce5"
+    },
+    {
+      "album": {
         "name": "Gioconda",
         "url": "https://open.spotify.com/album/3MJGltkrRzqNfg9WcriZRF"
       },
@@ -22984,7 +23002,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 211363,
       "name": "Inopnevma Ftino",
       "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
@@ -36770,7 +36788,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "OPWS EGW",
       "url": "https://open.spotify.com/track/0Sr2dBNlujbvwSk29BiGA9"
@@ -40838,7 +40856,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 139200,
       "name": "PROSTIMO",
       "url": "https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6"
@@ -48306,7 +48324,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 305263,
       "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
       "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"

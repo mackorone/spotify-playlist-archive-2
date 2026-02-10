@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,838 songs - 6 day 3 hr 5 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,845 songs - 6 day 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2846,5 +2846,12 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2836 | [Fading Away](https://open.spotify.com/track/7qnidH0CeFlSFxWLpXbKsj) | [SethroW](https://open.spotify.com/artist/5arxTnV31qhagUdKYYiLH8) | [Scarred Valentine's](https://open.spotify.com/album/6wlCWQ2m0BzAo7FlUv5VFG) | 5:41 |
 | 2837 | [Sweet Nothing](https://open.spotify.com/track/2GgaAKrlQTWv8vir9FWMtc) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Sweet Nothing](https://open.spotify.com/album/1kAGzb9YmTUGjVuW0Dv39S) | 2:47 |
 | 2838 | [FALL](https://open.spotify.com/track/1kNUMVrEt2JbURARt5s9NO) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [FALL](https://open.spotify.com/album/0bZDVoTvwHHfrcm3rPzlQJ) | 2:12 |
+| 2839 | [JUST DANCE](https://open.spotify.com/track/3IrjmgWL61n13GRLG3wHp2) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [JUST DANCE](https://open.spotify.com/album/1oUvfWd6Fm2BhIJmOgZeCP) | 2:44 |
+| 2840 | [Your Eyes](https://open.spotify.com/track/4ZPnVGz1tmAxCx4hJB0rCc) | [Frenzy](https://open.spotify.com/artist/555S6x5I9gWD8U5GjOey8d) | [Your Eyes](https://open.spotify.com/album/32pigr7F5HEDOnQGJtBJvm) | 2:50 |
+| 2841 | [Upside Down](https://open.spotify.com/track/6kdt53xhYq6sOdrV0cCbl6) | [Krause](https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa), [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [Upside Down](https://open.spotify.com/album/58jGbZJ8gCo13F72CT5mq7) | 2:30 |
+| 2842 | [B.L.U.T.](https://open.spotify.com/track/3S2FuLEORk5RYUOjvPHawU) | [Actek](https://open.spotify.com/artist/2iElooMfZXTC3kkoNz9tRN), [Anabolic Impact](https://open.spotify.com/artist/2QK7L7T6gYq7GmUfy3ukZp), [E·F·N](https://open.spotify.com/artist/4e8NtM2BCI8EF1Zh8FBBAi) | [B.L.U.T.](https://open.spotify.com/album/5UwZtProxm5lOvhB1EnKcn) | 2:39 |
+| 2843 | [DESTROYER OF THE WORLDS](https://open.spotify.com/track/7kKk2fTSecdMSBoBloLVom) | [Advanced Dealer](https://open.spotify.com/artist/6GR6nVejsTwxyjtPqBHqyo) | [DESTROYER OF THE WORLDS](https://open.spotify.com/album/0kwj15kh6TVF6GozQuiLQd) | 2:49 |
+| 2844 | [King Of The Jungle](https://open.spotify.com/track/6LPOJdkcES06fisziBliLe) | [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [King Of The Jungle](https://open.spotify.com/album/4qYGuZfeuNv0VDZjYGI0Zr) | 2:39 |
+| 2845 | [Us Against the World](https://open.spotify.com/track/3IqPQnW8wOXFcVvaYSVLGc) | [Ephoric](https://open.spotify.com/artist/2KUdPowv9jaSB82rvKX80y) | [Us Against the World](https://open.spotify.com/album/0J59eTTDlOWLJtXeK5AZ5K) | 2:41 |
 
-Snapshot ID: `AAALaRwedgq1e6IuzSzoDPkXwAkeHhte`
+Snapshot ID: `AAALcH0POraxzSvDZGVD5ORGMhdGn16b`

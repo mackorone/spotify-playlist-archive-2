@@ -258,7 +258,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 174373,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7HTv5iPtAdyES2QRbZn8Lt"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 230466,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 354493,
       "name": "Jim",
       "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
@@ -1862,6 +1862,24 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "album": {
+        "name": "This Is Dee Dee Bridgewater",
+        "url": "https://open.spotify.com/album/5lVLW0P06Fr1wPWD4YvjnN"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Bridgewater",
+          "url": "https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442426,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6X7Bt2oWmhX6ZUj6oibNVO"
     },
     {
       "album": {
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
@@ -2601,6 +2619,28 @@
     },
     {
       "album": {
+        "name": "Stop Searching for Love (feat. Kate Ceberano)",
+        "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
+      },
+      "artists": [
+        {
+          "name": "Jake Mason Trio",
+          "url": "https://open.spotify.com/artist/2qsUIL8cjpY7fO2ucmTaXP"
+        },
+        {
+          "name": "Kate Ceberano",
+          "url": "https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306960,
+      "name": "Stop Searching for Love (feat. Kate Ceberano)",
+      "url": "https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky"
+    },
+    {
+      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -2963,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "An Englishman in Love in LA",
+        "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
+      },
+      "artists": [
+        {
+          "name": "Richard Shelton",
+          "url": "https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "The Touch of Your Lips",
+      "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "album": {
         "name": "Unforgettable: With Love",
         "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
       },
@@ -3010,10 +3068,28 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 279626,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+    },
+    {
+      "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/1B8Bkp1UJRujLSDOoNL5xs"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0WJJ9OCU44CoDxs0pE6EBL"
     },
     {
       "album": {
@@ -3404,6 +3480,24 @@
       "duration_ms": 126760,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/7Ek2kv9If3IjdMCRyeVm8g"
+    },
+    {
+      "album": {
+        "name": "Wild Woman Tells All",
+        "url": "https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344800,
+      "name": "You Are There (Orchestral Version)",
+      "url": "https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i"
     },
     {
       "album": {

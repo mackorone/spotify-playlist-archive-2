@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,747 likes - 191 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,754 likes - 191 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
-| 2 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
+| 1 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
+| 2 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
 | 3 | [WINGMAN](https://open.spotify.com/track/1y5I9JZw8xzoAOzPWyrJxY) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [WINGMAN](https://open.spotify.com/album/3XJ5JO0d3VGESPZQwAnQN8) | 2:21 |
-| 4 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
-| 5 | [We Get Paid](https://open.spotify.com/track/0ZQ8dJaXA94uPZqFyYH19N) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [We Get Paid](https://open.spotify.com/album/1wZBBZV8iIiW0R14RAUmyA) | 2:00 |
-| 6 | [Veta](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Mellan Graven & Grammis](https://open.spotify.com/album/3qA9Zr5EmAReL1jisHo3u2) | 2:44 |
-| 7 | [5 On It](https://open.spotify.com/track/0jQKRPucDQr9ExeDHcVTEO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [5 On It](https://open.spotify.com/album/10ovo6Nqu1fHX6ym6SV679) | 2:04 |
-| 8 | [WE DEM BOYS](https://open.spotify.com/track/1upwt8H6j9YG5rX3GN5XtJ) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [WE DEM BOYS](https://open.spotify.com/album/7BmmTrU0UjPwEMHRKv35jm) | 2:12 |
-| 9 | [Inom dagarna](https://open.spotify.com/track/3Hs4kmpTazanWKMJ1kqIcJ) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Inom dagarna](https://open.spotify.com/album/6cMV2zGjDowmpFuTXN3Zl4) | 2:21 |
-| 10 | [GOODFELLAS](https://open.spotify.com/track/11FGk5KemhNamjhtpZ5DK3) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GOODFELLAS](https://open.spotify.com/album/1PYDc9NA5d7ZSHOsPlCvCk) | 2:31 |
-| 11 | [Ya Dellali](https://open.spotify.com/track/0YMYxlW6StWKmHw4LFimb6) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Ya Dellali](https://open.spotify.com/album/0RjtfPPlu1OT5IS4hkmGrF) | 3:02 |
-| 12 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
-| 13 | [Ventilation \- Freestyle](https://open.spotify.com/track/4bImkuZ8ovZUak0sEVGEAm) | [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Ventilation \(Freestyle\)](https://open.spotify.com/album/1I8EO7hQMouArXFOBwh8na) | 1:41 |
-| 14 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 |
-| 15 | [Kalla Sidan](https://open.spotify.com/track/6uX1f6PP0g4GXA4Ic0jPal) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kalla Sidan](https://open.spotify.com/album/3YQnSJqOXH9RFu3JbrVPkm) | 2:25 |
-| 16 | [NICHOLAS CAGE](https://open.spotify.com/track/7EvAo4mAZkA3WP5fIcYmEI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Under Tiden 4](https://open.spotify.com/album/2oLX3MCSlBWGWpPyuoMxFG) | 2:52 |
-| 17 | [SHOTS](https://open.spotify.com/track/0L9gEcfSlNyhZqTbWAY7tX) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [SHOTS](https://open.spotify.com/album/1CoazaW0sUIjO3CKrC5p2G) | 2:01 |
+| 4 | [We Get Paid](https://open.spotify.com/track/0ZQ8dJaXA94uPZqFyYH19N) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [We Get Paid](https://open.spotify.com/album/1wZBBZV8iIiW0R14RAUmyA) | 2:00 |
+| 5 | [5 On It](https://open.spotify.com/track/0jQKRPucDQr9ExeDHcVTEO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [5 On It](https://open.spotify.com/album/10ovo6Nqu1fHX6ym6SV679) | 2:04 |
+| 6 | [GiFT](https://open.spotify.com/track/7DnZAX8jPQvphSdoJUJqd9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [GiFT](https://open.spotify.com/album/6ORHR8FKQUs3Bfi0LzB4C5) | 2:56 |
+| 7 | [Ya Dellali](https://open.spotify.com/track/0YMYxlW6StWKmHw4LFimb6) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Ya Dellali](https://open.spotify.com/album/0RjtfPPlu1OT5IS4hkmGrF) | 3:02 |
+| 8 | [Veta](https://open.spotify.com/track/3eNMd72YbZu21cVPsiWFPd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Mellan Graven & Grammis](https://open.spotify.com/album/3qA9Zr5EmAReL1jisHo3u2) | 2:44 |
+| 9 | [Annan Galax](https://open.spotify.com/track/1Ww5ki6FR0Ym3edCsfaKhy) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Annan Galax](https://open.spotify.com/album/7ET0GMBEhmYYdNrzXz0u1z) | 2:35 |
+| 10 | [WE DEM BOYS](https://open.spotify.com/track/1upwt8H6j9YG5rX3GN5XtJ) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [WE DEM BOYS](https://open.spotify.com/album/7BmmTrU0UjPwEMHRKv35jm) | 2:12 |
+| 11 | [Min](https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Min](https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx) | 2:27 |
+| 12 | [SHOTS](https://open.spotify.com/track/0L9gEcfSlNyhZqTbWAY7tX) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [SHOTS](https://open.spotify.com/album/1CoazaW0sUIjO3CKrC5p2G) | 2:01 |
+| 13 | [Inom dagarna](https://open.spotify.com/track/3Hs4kmpTazanWKMJ1kqIcJ) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Inom dagarna](https://open.spotify.com/album/6cMV2zGjDowmpFuTXN3Zl4) | 2:21 |
+| 14 | [GOODFELLAS](https://open.spotify.com/track/11FGk5KemhNamjhtpZ5DK3) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [GOODFELLAS](https://open.spotify.com/album/1PYDc9NA5d7ZSHOsPlCvCk) | 2:31 |
+| 15 | [Ventilation \- Freestyle](https://open.spotify.com/track/4bImkuZ8ovZUak0sEVGEAm) | [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Ventilation \(Freestyle\)](https://open.spotify.com/album/1I8EO7hQMouArXFOBwh8na) | 1:41 |
+| 16 | [Kalla Sidan](https://open.spotify.com/track/6uX1f6PP0g4GXA4Ic0jPal) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Kalla Sidan](https://open.spotify.com/album/3YQnSJqOXH9RFu3JbrVPkm) | 2:25 |
+| 17 | [NICHOLAS CAGE](https://open.spotify.com/track/7EvAo4mAZkA3WP5fIcYmEI) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Under Tiden 4](https://open.spotify.com/album/2oLX3MCSlBWGWpPyuoMxFG) | 2:52 |
 | 18 | [Omerta](https://open.spotify.com/track/4Etlo3kxRw41oMpQb0Q02a) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Omerta](https://open.spotify.com/album/6x5hOSvftVUcCHEOxrOkY8) | 2:42 |
 | 19 | [P.T.H](https://open.spotify.com/track/4N8XCwUZOhXnc4HBNimPFQ) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Guld Utav Sand 2](https://open.spotify.com/album/2BNPX89yccIcZBuClfeYZz) | 2:31 |
 | 20 | [ATTRAHERA](https://open.spotify.com/track/1w6ixPIVGY3UDNjNVfo0c8) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [ATTRAHERA](https://open.spotify.com/album/3FqLXOXvmGCEXTqrfsuiEi) | 2:22 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 190 | [Vinnande Koncept](https://open.spotify.com/track/1oI0ZeW94TruyBLA7CJUPE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 2:11 |
 | 191 | [Tragiskt](https://open.spotify.com/track/1P2xQUXFfI0wFPiCOfFmQu) | [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv), [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs) | [Tragiskt](https://open.spotify.com/album/7qe775N3IIC6b9gLEWQYos) | 2:19 |
 
-Snapshot ID: `AAAAAAGBTWSw/yprHPA0Mbcisr65wipv`
+Snapshot ID: `AAAAABlMtrXQN8+y8XzLjbBcn3u5670X`

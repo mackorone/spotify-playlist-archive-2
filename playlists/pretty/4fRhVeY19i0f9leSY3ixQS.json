@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1221,
+  "num_followers": 1220,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALBuH2Zwxpgihg27t0jbCnSg+qYwGS",
+  "snapshot_id": "AAALC5HTcOt3rwCJviU9hU7dGMJ1qhXo",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -1255,38 +1255,6 @@
       "duration_ms": 186226,
       "name": "Scared",
       "url": "https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW"
-    },
-    {
-      "added_at": "2026-01-09 14:08:55",
-      "album": {
-        "name": "Reading With the Lights Off",
-        "url": "https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL"
-      },
-      "artists": [
-        {
-          "name": "halfstride",
-          "url": "https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Reading With the Lights Off",
-      "url": "https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX"
-    },
-    {
-      "added_at": "2026-01-09 07:26:44",
-      "album": {
-        "name": "The Fear",
-        "url": "https://open.spotify.com/album/6GeX53WEJJeGDDy5jeHkiF"
-      },
-      "artists": [
-        {
-          "name": "Wild Oceans",
-          "url": "https://open.spotify.com/artist/6FhE766rqgj0CthToqDLky"
-        }
-      ],
-      "duration_ms": 217590,
-      "name": "The Fear",
-      "url": "https://open.spotify.com/track/72dC2Cm4K79zu6jsMbAWRM"
     },
     {
       "added_at": "2025-11-20 11:02:56",
@@ -4867,6 +4835,54 @@
       "duration_ms": 221120,
       "name": "Running from myself",
       "url": "https://open.spotify.com/track/4WyzBv3U5zg7rJorAiwnRi"
+    },
+    {
+      "added_at": "2026-02-09 08:38:13",
+      "album": {
+        "name": "Tangerine Lilac",
+        "url": "https://open.spotify.com/album/3O7dSPQ6gyQqaDnHGOwzWx"
+      },
+      "artists": [
+        {
+          "name": "Freq Revolution",
+          "url": "https://open.spotify.com/artist/42JZNQ4q1dXZWdfbAatxyX"
+        }
+      ],
+      "duration_ms": 244796,
+      "name": "Tangerine Lilac",
+      "url": "https://open.spotify.com/track/5uySOdkPzsed6jNrp7jZyn"
+    },
+    {
+      "added_at": "2026-02-09 09:09:50",
+      "album": {
+        "name": "sidewalk",
+        "url": "https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "sidewalk",
+      "url": "https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS"
+    },
+    {
+      "added_at": "2026-02-09 09:10:55",
+      "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu"
+      },
+      "artists": [
+        {
+          "name": "GLDN",
+          "url": "https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq"
     }
   ],
   "unique_name": "Shuffle Roulette",

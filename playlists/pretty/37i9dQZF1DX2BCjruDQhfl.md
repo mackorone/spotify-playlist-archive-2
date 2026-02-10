@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Jada Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,905 likes - 80 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,906 likes - 80 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
-| 2 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 |
-| 3 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 |
-| 4 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
+| 2 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
+| 3 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 |
+| 4 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 |
 | 5 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
 | 6 | [Gemaakt Voor Mij](https://open.spotify.com/track/2FOegrUT1zY66GX91oQ6Bn) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Gemaakt Voor Mij](https://open.spotify.com/album/2dDIq7YyMNlTDXoIyYFu4w) | 3:26 |
 | 7 | [Maakt Niet Uit](https://open.spotify.com/track/6sohUthl8KzZa1eifBUH47) | [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV), [Gini](https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN) | [Maakt Niet Uit](https://open.spotify.com/album/7KV9GlA3vEoWT4SrV9FZgi) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 79 | [Bambi](https://open.spotify.com/track/0XLOhjJBDxpcL47b1pTShu) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Bambi](https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc) | 1:48 |
 | 80 | [Babyboo](https://open.spotify.com/track/7Mxbp0DtUpTetgfBVmWr1j) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:14 |
 
-Snapshot ID: `AAAAACY2AbOEue0kt3xWVCWKAw5amQBT`
+Snapshot ID: `AAAAAPm9EFuEvLq0BByyOnGP3yRA11fq`

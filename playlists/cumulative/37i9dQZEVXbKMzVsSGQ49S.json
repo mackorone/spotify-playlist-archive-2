@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -10402,7 +10402,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -15230,7 +15230,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -30597,6 +30597,24 @@
     },
     {
       "album": {
+        "name": "Lo Lo Lo",
+        "url": "https://open.spotify.com/album/6aRG2u5T1rW8yrI94nXkE0"
+      },
+      "artists": [
+        {
+          "name": "De Rain",
+          "url": "https://open.spotify.com/artist/4kOMCbpt622kJtFotvA0gk"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140747,
+      "name": "Lo Lo Lo",
+      "url": "https://open.spotify.com/track/36t1s0YMgQkqDMHGQG8UME"
+    },
+    {
+      "album": {
         "name": "Lo Que Perdiste",
         "url": "https://open.spotify.com/album/1nrYnW75cDFmsTcX72V1Ef"
       },
@@ -31784,7 +31802,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 182704,
       "name": "L\u00edfsst\u00edll",
       "url": "https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd"
@@ -48746,7 +48764,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"

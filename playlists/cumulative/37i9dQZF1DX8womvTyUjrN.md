@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: Sofía Thompson
 
-1,137 songs - 2 day 8 hr 46 min
+1,138 songs - 2 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Baila conmigo](https://open.spotify.com/track/2HED1ZYOoDH02IJujaoApJ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Catarsis](https://open.spotify.com/album/5UycOYeYkjHjC4zowKAifb) | 2:48 | 2024-04-26 | 2024-05-18 |
 | [BAILAR CONTIGO](https://open.spotify.com/track/4GCDX1A3tNGauj5FJfQfvy) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:43 | 2022-11-25 | 2023-04-29 |
 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 | 2024-04-05 | 2024-06-22 |
+| [BAJO CERO](https://open.spotify.com/track/4vM7jPhNtOKihPksD0nw3L) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Christopher Velez](https://open.spotify.com/artist/60w8lF7r9QhvUQNupt5GQk) | [BAJO CERO](https://open.spotify.com/album/3pQ54dQWi9W956cG1N9H7C) | 2:52 | 2026-02-09 |  |
 | [Bajo Control](https://open.spotify.com/track/2BV0Fa4MS4w6Oush2CdNvV) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Bajo Control](https://open.spotify.com/album/5sQWD9mh4z7im5PWl1xpaz) | 3:36 | 2025-06-13 | 2025-07-19 |
 | [Bajo El Sol](https://open.spotify.com/track/1NC4ekXkSHiYoUMANvQ09E) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [Bajo El Sol](https://open.spotify.com/album/77KKdfOtwdqsYkP0YXri7K) | 2:17 | 2025-06-27 | 2025-07-19 |
 | [Bandido](https://open.spotify.com/track/3FmrK5OmqwnjzSmJ5XBWEO) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [En Honor Al Que Ama](https://open.spotify.com/album/5Fto1VFi4UvBlM5GJcdHYy) | 2:53 | 2025-02-14 | 2025-03-15 |
@@ -308,7 +309,7 @@
 | [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-13 | 2023-01-21 |
 | [Divino Castigo](https://open.spotify.com/track/0mPwBZORxOOvFzOZ7qLFmH) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Divino Castigo](https://open.spotify.com/album/4X0mMK6tzbPwP4nyj7ZehS) | 2:45 | 2025-10-24 | 2026-01-24 |
 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 | 2022-07-25 | 2022-10-29 |
-| [dos dedos de frente](https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [dos dedos de frente](https://open.spotify.com/album/6Kp8heod8OEnUnjy4MYHpZ) | 2:44 | 2025-10-07 |  |
+| [dos dedos de frente](https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [dos dedos de frente](https://open.spotify.com/album/6Kp8heod8OEnUnjy4MYHpZ) | 2:44 | 2025-10-07 | 2026-02-10 |
 | [Dos Sagitarios](https://open.spotify.com/track/3AdAcGSN0SmUfD3Nfuvtqb) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Dos Sagitarios](https://open.spotify.com/album/6kHT8gWkafyoZ6KM4Qu1rD) | 3:17 | 2025-12-05 |  |
 | [DOS VECES](https://open.spotify.com/track/1UAVfSfyJxzAM6O48jugjQ) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [DOS VECES](https://open.spotify.com/album/4yZDVCsYSLFcZkJX3SltJJ) | 3:18 | 2025-04-04 | 2025-05-31 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-03-21 | 2022-07-02 |

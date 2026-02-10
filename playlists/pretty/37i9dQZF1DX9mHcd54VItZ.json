@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Carla Franco and Sophia Frank",
-  "num_followers": 26754,
+  "num_followers": 26761,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -459,18 +459,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+        "name": "Stellies (feat. Rooksein)",
+        "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
       },
       "artists": [
         {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        },
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
         }
       ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+      "duration_ms": 167727,
+      "name": "Stellies (feat. Rooksein)",
+      "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
       "added_at": "2026-01-22 22:00:18",
@@ -491,38 +495,18 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Stellies (feat. Rooksein)",
-        "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
       "artists": [
         {
-          "name": "ONS",
-          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
-        },
-        {
-          "name": "Rooksein",
-          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 167727,
-      "name": "Stellies (feat. Rooksein)",
-      "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "By Jou",
-        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "By Jou",
-      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -539,6 +523,22 @@
       "duration_ms": 225483,
       "name": "Kenia",
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "By Jou",
+        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "By Jou",
+      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
       "added_at": "2026-01-22 22:00:18",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Mulberry Tree",
         "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 252108,
+      "name": "Sonde",
+      "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -735,22 +751,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 252108,
-      "name": "Sonde",
-      "url": "https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "Die Tuindwergies",
         "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 261893,
       "name": "Kopskudkinders",
       "url": "https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
-        "name": "Jou Tyd Is Nou",
-        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Jou Tyd Is Nou",
-      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     },
     {
       "added_at": "2025-12-19 05:44:49",
@@ -799,6 +783,22 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
         "name": "Victor Ludorum",
         "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Hey Jack",
-        "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Hey Jack",
-      "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
-    },
-    {
-      "added_at": "2025-12-19 05:44:49",
-      "album": {
         "name": "AfterlifeSatisfaction",
         "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "TV TYD",
+        "url": "https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a"
+      },
+      "artists": [
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "duration_ms": 204269,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
     }
   ],
   "unique_name": "SA Rock ",

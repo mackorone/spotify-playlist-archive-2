@@ -1,6 +1,6 @@
 {
   "description": "Where jazz meets classical, and classical meets jazz. ",
-  "num_followers": 312842,
+  "num_followers": 312873,
   "original_name": "Jazz Meets Classical",
   "owner": {
     "name": "Spotify",
@@ -68,8 +68,20 @@
       },
       "artists": [
         {
+          "name": "Dino Olivieri",
+          "url": "https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5"
+        },
+        {
           "name": "Alexandre Tharaud",
           "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Pierre Dumoussaud",
+          "url": "https://open.spotify.com/artist/1qkUNRzKSPvScNgIu9hVPN"
+        },
+        {
+          "name": "Orchestre National Bordeaux Aquitaine",
+          "url": "https://open.spotify.com/artist/3pCPus3pU3880L4RVwppF9"
         }
       ],
       "duration_ms": 230106,

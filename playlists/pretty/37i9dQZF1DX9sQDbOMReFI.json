@@ -1,6 +1,6 @@
 {
   "description": "The best side! Cover: The Game",
-  "num_followers": 1010588,
+  "num_followers": 1010710,
   "original_name": "West Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-01-31 21:02:50",
       "album": {
-        "name": "Bow Down",
-        "url": "https://open.spotify.com/album/5VCY0uIkkoaaji9ciCLS0D"
-      },
-      "artists": [
-        {
-          "name": "Westside Connection",
-          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Hoo-Bangin' (WSCG Style)",
-      "url": "https://open.spotify.com/track/1cikrStdIjqYJrpM0gfFuo"
-    },
-    {
-      "added_at": "2025-01-31 21:02:50",
-      "album": {
         "name": "Explicit Game",
         "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 254093,
       "name": "Pimp Of The Year",
       "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+    },
+    {
+      "added_at": "2025-01-31 21:02:50",
+      "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/5VCY0uIkkoaaji9ciCLS0D"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Hoo-Bangin' (WSCG Style)",
+      "url": "https://open.spotify.com/track/1cikrStdIjqYJrpM0gfFuo"
     },
     {
       "added_at": "2025-01-31 21:02:50",

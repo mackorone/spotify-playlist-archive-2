@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: butaji",
-  "num_followers": 64839,
+  "num_followers": 64843,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u5486\u54ee (HOKO)",
-        "url": "https://open.spotify.com/album/10zv8Z1MZv4eL8z914Q3TL"
-      },
-      "artists": [
-        {
-          "name": "TOMONARI SORA\t",
-          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
-        }
-      ],
-      "duration_ms": 209766,
-      "name": "\u5486\u54ee - HOKO",
-      "url": "https://open.spotify.com/track/1fPkUiufkRpzdYcBKXUP3s"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
         "url": "https://open.spotify.com/album/6Nvzx5sB6BLuc9rrThucvq"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212548,
       "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/7slVPAiTi7H25Oxburz5Ky"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u5486\u54ee (HOKO)",
+        "url": "https://open.spotify.com/album/10zv8Z1MZv4eL8z914Q3TL"
+      },
+      "artists": [
+        {
+          "name": "TOMONARI SORA\t",
+          "url": "https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG"
+        }
+      ],
+      "duration_ms": 209766,
+      "name": "\u5486\u54ee - HOKO",
+      "url": "https://open.spotify.com/track/1fPkUiufkRpzdYcBKXUP3s"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
+        "name": "\u61f8\u60f3\u6b4c",
+        "url": "https://open.spotify.com/album/0XlISlh69xeT4B0oJJgOjT"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "\u61f8\u60f3\u6b4c",
+      "url": "https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
         "name": "\u30ea\u30d9\u30e9",
         "url": "https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 148679,
       "name": "\u30ea\u30d9\u30e9",
       "url": "https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
-        "name": "BEAT",
-        "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 217548,
-      "name": "BEAT",
-      "url": "https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
+        "name": "BEAT",
+        "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 217548,
+      "name": "BEAT",
+      "url": "https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
         "name": "\u30ab\u30eb\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u61f8\u60f3\u6b4c",
-        "url": "https://open.spotify.com/album/0XlISlh69xeT4B0oJJgOjT"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "\u61f8\u60f3\u6b4c",
-      "url": "https://open.spotify.com/track/46gfNiAB0mlL0ieIkcdWRq"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Kurayami/Get used to it",
         "url": "https://open.spotify.com/album/3mOFUx8wl2HKNQ5GAg2854"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 218933,
       "name": "Kurayami",
       "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
-        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
-        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        },
-        {
-          "name": "\u306a\u3068\u308a",
-          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -959,18 +939,22 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u5f92\u7136 - Tsurezure",
-        "url": "https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy"
+        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
       },
       "artists": [
         {
-          "name": "\u5c71\u672c\u5927\u6597",
-          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "\u306a\u3068\u308a",
+          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
         }
       ],
-      "duration_ms": 156244,
-      "name": "\u5f92\u7136 - Tsurezure",
-      "url": "https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g"
+      "duration_ms": 136120,
+      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1003,6 +987,22 @@
       "duration_ms": 238166,
       "name": "\u611b\u3068\u306f",
       "url": "https://open.spotify.com/track/6lmIrtShYENvtIGtBFEviO"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u5f92\u7136 - Tsurezure",
+        "url": "https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "duration_ms": 156244,
+      "name": "\u5f92\u7136 - Tsurezure",
+      "url": "https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 179654,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Fly You to the Moon",
         "url": "https://open.spotify.com/album/7gW16al5pBDDotYTidON1P"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 164502,
       "name": "Fly You to the Moon",
       "url": "https://open.spotify.com/track/1t4PzKQ0wLxvHZntJWbeMM"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 179654,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
-        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        },
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 227538,
-      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
-      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0am2hiPbFIBEKr7PWXZNVd"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 232096,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6brjskUpqNCIdPDZ1bO8g1"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+        "url": "https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        },
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 227538,
+      "name": "\u3061\u3087\u3046\u3069\u3044\u3044 (feels just right)",
+      "url": "https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r"
     },
     {
       "added_at": "2026-02-03 22:23:34",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "Like Gravity",
-        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
-      },
-      "artists": [
-        {
-          "name": "BONNIE PINK",
-          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
-        }
-      ],
-      "duration_ms": 184114,
-      "name": "Like Gravity",
-      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
-    },
-    {
-      "added_at": "2026-02-03 22:23:34",
-      "album": {
         "name": "\u30ef\u30b9\u30ec\u30e9\u30ec\u30ca\u30a4\u30e8",
         "url": "https://open.spotify.com/album/31Wc14k9ZglPfEfjYy5KcQ"
       },
@@ -1627,18 +1611,34 @@
     {
       "added_at": "2026-02-03 22:23:34",
       "album": {
-        "name": "glauben",
-        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
+        "name": "Like Gravity",
+        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "BONNIE PINK",
+          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
         }
       ],
-      "duration_ms": 163200,
-      "name": "\u611f\u60c5\u7684\u4fb5\u7565",
-      "url": "https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX"
+      "duration_ms": 184114,
+      "name": "Like Gravity",
+      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
+    },
+    {
+      "added_at": "2026-02-03 22:23:34",
+      "album": {
+        "name": "\u6a2a\u9854",
+        "url": "https://open.spotify.com/album/5cJDxgC2ODwS1RS7vtNLuF"
+      },
+      "artists": [
+        {
+          "name": "Foi",
+          "url": "https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "\u6a2a\u9854",
+      "url": "https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

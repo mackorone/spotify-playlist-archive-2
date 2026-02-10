@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: The Quiett\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,240 likes - 86 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,180 likes - 86 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 4 | [UGRS \(Feat\. Paul Blanco, CHANGMO\)](https://open.spotify.com/track/5GzMUEamWs47HNPivuXk5W) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 3:05 |
 | 5 | [BENTLEY 2](https://open.spotify.com/track/3Lye9n9zKVuJyB51jmp8EL) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/4fSn71IKAOVVu5ujvYG46a) | 4:13 |
 | 6 | [Prime Time](https://open.spotify.com/track/3JGKpQNFCot0rVXxCeRp9Y) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Millionaire Poetry \(5th Anniversary Edition\)](https://open.spotify.com/album/4zkRbgwkOL6ADLeNlgsbtX) | 3:11 |
-| 7 | [We Here](https://open.spotify.com/track/5vFn8ZoRMWR7xWAHHFqB9R) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [We Here](https://open.spotify.com/album/2NRnx8SryKHcXYo2yi22tU) | 4:50 |
+| 7 | [ILLIONAIRE EVERYDAY](https://open.spotify.com/track/2yUnJUDFZvAKPVeGCS8lgN) | [Illionaire Records](https://open.spotify.com/artist/0cFZMug8SFBmK1saAOhC3z) | [ILLIONAIRE EVERYDAY](https://open.spotify.com/album/1oLRmQhirXyrDsIyBuS1cJ) | 3:34 |
 | 8 | [Be My Luv](https://open.spotify.com/track/5FEt2jExUy2sGo94fYpgdr) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 4:09 |
 | 9 | [YGGR \(Feat\. MC Meta\)](https://open.spotify.com/track/78bISaVykjuQPSdQr490xK) | [Illionaire Records](https://open.spotify.com/artist/0cFZMug8SFBmK1saAOhC3z), [MC Meta](https://open.spotify.com/artist/4BNQJ8Afxte6sh70hKEFdu) | [11:11](https://open.spotify.com/album/3P8s6sPNLMDOm95Ij7AGr7) | 4:34 |
 | 10 | [2 Chainz & Rollies \(Feat\. Dok2\)](https://open.spotify.com/track/5Kv4Gy3pu0Dk9Zn7zjOrjR) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [AMBITIQN](https://open.spotify.com/album/5iYrf1CKZqWBrrvn3OlnZE) | 4:34 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 85 | [26](https://open.spotify.com/track/2eS89Cssm8OvWX9yRHgdug) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv) | 2:56 |
 | 86 | [KrOWN\_Simon Dominic](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
 
-Snapshot ID: `AAAAAJe3H5yXZ03gbnxhR9Gvig0GhiEQ`
+Snapshot ID: `AAAAAO1iplBiQHZeXobMPDKSLPAXl2jC`

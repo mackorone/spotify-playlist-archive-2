@@ -39645,6 +39645,24 @@
     },
     {
       "album": {
+        "name": "Corridos Tumbados, Vol. 5",
+        "url": "https://open.spotify.com/album/1O10WPUlmYqDE3o12sdTlm"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223656,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/6aSS81SQxUjJjuPkP3EAZO"
+    },
+    {
+      "album": {
         "name": "Me Gusta Mi Vida",
         "url": "https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9"
       },
@@ -49380,7 +49398,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"

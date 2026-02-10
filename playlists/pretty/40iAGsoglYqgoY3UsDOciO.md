@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 601 likes - 483 songs - 23 hr 21 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 603 likes - 483 songs - 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -343,7 +343,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 333 | [Guiding Light](https://open.spotify.com/track/1i4sNnAyOC0I6h6v5pMzBi) | [Stivio](https://open.spotify.com/artist/0HBIEAjd75EfNCPxI8o4sQ) | [Guiding Light](https://open.spotify.com/album/7pQyEUf7mdC9XoAtVkUVhl) | 2:45 |
 | 334 | [Hold It Together](https://open.spotify.com/track/4NEIQ0ozua3hCY1LonTjGY) | [Trey Posey](https://open.spotify.com/artist/5Njg6ICag7NS6DKcmROLbg) | [Nintendo Switch](https://open.spotify.com/album/6theDCtcnmvKEgEQRRhaMc) | 2:45 |
 | 335 | [HELL, Pt\. 2](https://open.spotify.com/track/3z6B8cPn2xAA5pd18bHi7n) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [HELL, Pt\. 2](https://open.spotify.com/album/4cw9MfXLhdAPzJ4MRhD9P0) | 3:35 |
-| 336 | [Don't Get Too Comfortable, Pt\. 1 \- Sped Up](https://open.spotify.com/track/3PuDq2lXtHGhg06zUPxFEu) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Don't Get Too Comfortable, Pt\. 1 \(Sped Up\)](https://open.spotify.com/album/3RNYj44v4eIGGdnD3iiR1X) | 3:03 |
+| 336 | [Don't Get Too Comfortable, Pt\. 1 \- Sped Up](https://open.spotify.com/track/3PuDq2lXtHGhg06zUPxFEu) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Freezjoe](https://open.spotify.com/artist/5QnuGjL0Cbrqlf1zk09jrM), [shxrx](https://open.spotify.com/artist/1XaSRnxmV07bLRvTMF5hZ2) | [Don't Get Too Comfortable, Pt\. 1 \(Sped Up\)](https://open.spotify.com/album/3RNYj44v4eIGGdnD3iiR1X) | 3:03 |
 | 337 | [O.o.t 3 Style](https://open.spotify.com/track/4QyXf8v5KHTLNGllc3F5Q6) | [BUNO](https://open.spotify.com/artist/1ozneVUIKjaLQZKpf71MdI) | [O.O.T 3 Style](https://open.spotify.com/album/51npWSrhMCE8es72LMSK4m) | 2:36 |
 | 338 | [Delusion](https://open.spotify.com/track/2UwV04pNg5ub92iZ6qgOzF) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Delusion](https://open.spotify.com/album/1lUG2ZZXCShA5dCMJB1baZ) | 1:37 |
 | 339 | [feel my pain.](https://open.spotify.com/track/2JNBXZevWS0xyPrgj4Kq70) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [feel my pain.](https://open.spotify.com/album/23Aotv7GfUF68IUpGZIp3K) | 2:27 |

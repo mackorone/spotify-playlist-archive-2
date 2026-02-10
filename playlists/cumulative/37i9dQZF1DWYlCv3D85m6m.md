@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-279 songs - 14 hr 49 min
+282 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 | 2025-10-10 |  |
 | [CHILLAX](https://open.spotify.com/track/4ujRbi0U14b4BjZhUOlTDK) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:06 | 2022-03-24 |  |
 | [CHILLAX](https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:06 | 2022-07-19 | 2024-04-19 |
+| [Confetti](https://open.spotify.com/track/7tB2UA9Rty4yj9VwcMzO3z) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz) | 2:38 | 2026-02-10 |  |
 | [Conversation](https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:27 | 2022-03-24 |  |
 | [CRAZY STUPID LOVE](https://open.spotify.com/track/0jn8sYeWOdYHjdF2cBmF75) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 2:49 | 2023-03-10 |  |
 | [CRUEL](https://open.spotify.com/track/139JUU8fJkQoeHl9nABk9C) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:31 | 2022-07-19 | 2024-04-19 |
@@ -68,6 +69,7 @@
 | [DIVE](https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/0riep5s1F9ynpobjOSzbcr) | 3:01 | 2024-07-09 |  |
 | [DIVE IN \(TZUYU\)](https://open.spotify.com/track/1268f7A3rHyfolrzmoOhPW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:44 | 2025-10-10 |  |
 | [Do not touch](https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Do not touch](https://open.spotify.com/album/2A7JiOErRUS6Sw9YneA6Hq) | 3:05 | 2023-07-13 |  |
+| [Do not touch](https://open.spotify.com/track/5TgnIL0nXiFPnaKpUpyzer) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz) | 3:05 | 2026-02-10 |  |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/4lqT9X8AYH3svpFQlEPicl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 | 2022-03-24 |  |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/54kGRAmn3I49RPAhdWG2sp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 2:59 | 2022-07-19 | 2024-04-19 |
 | [DON'T CALL ME AGAIN](https://open.spotify.com/track/5Y3OPUKCfbGNygyijpeP4e) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:53 | 2022-03-24 |  |
@@ -126,6 +128,7 @@
 | [ICON](https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [ICON](https://open.spotify.com/track/78vV5Ww5jmY2BF8lHzAN3A) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 2:56 | 2022-03-24 |  |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-31 |  |
+| [Identity](https://open.spotify.com/track/5JV3lNagaK0pemTiS7Npw3) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz) | 2:21 | 2026-02-10 |  |
 | [IN MY ROOM \(CHAEYOUNG\)](https://open.spotify.com/track/58ZM7GaPaKZfw2XbZSs8oO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:49 | 2025-10-10 |  |
 | [In the summer](https://open.spotify.com/track/04LlwbQp31hLQ6meYbP19t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:30 | 2022-03-24 |  |

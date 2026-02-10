@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352711,
+  "num_followers": 352719,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MRv1GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MR1I8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Eu Vou Cuspir",
         "url": "https://open.spotify.com/album/3ALuRC0WpEev3kQlYUH4Dt"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
         "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Um Dia Nois Tem",
         "url": "https://open.spotify.com/album/3E753x392Hky4BDA0kvAGc"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/6O4iNnuKi0JWhyTPCST4Qx"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "O Grande Banquete",
         "url": "https://open.spotify.com/album/1q6vwW5Cz3X9UdQW6BZwBw"
@@ -125,7 +125,23 @@
       "url": "https://open.spotify.com/track/50W1rtz1xOmrqbL0HPg7Ro"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "O Grande Banquete - Ao Vivo em Jo\u00e3o Pessoa",
         "url": "https://open.spotify.com/album/1bXFw6gQoCxa94X2ZcPo8L"
@@ -177,7 +193,27 @@
       "url": "https://open.spotify.com/track/52tQQfEbJ8EnGq8AUyJTIn"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "CARNAVAL",
+        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "CARNAVAL",
+      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -188,12 +224,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Ela k\u00e9 Leitada",
         "url": "https://open.spotify.com/album/4Im21Qok3nccqN2OXrJYDw"
@@ -221,27 +257,7 @@
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "CARNAVAL",
-        "url": "https://open.spotify.com/album/3oPmMDBuZJWO2pJhwH46eQ"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "CARNAVAL",
-      "url": "https://open.spotify.com/track/0AWbhOimtlECEsQP0H5J6Q"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "GUIA-ME REGGAE",
         "url": "https://open.spotify.com/album/4N35ymFIuPifS8QMcCOJl1"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/6eTL23D3ElBStRuOJog3RQ"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "O Tbt Que Ele Quer",
         "url": "https://open.spotify.com/album/1DT9WAK6DKPI4zBPTGOAKt"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/5s4j3EtFF9P0f1KkqYzcT5"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Ritmo Lilly Wood",
         "url": "https://open.spotify.com/album/0TrPeep7y6CzRq5R9LKvkv"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0d2OevhRY98n6MJIAt9zLh"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "OFELIA",
         "url": "https://open.spotify.com/album/3RZ0BWMmKyBbAZjfBX6OEt"
@@ -345,7 +345,31 @@
       "url": "https://open.spotify.com/track/5RRAexcEAsOHoOdRXvd6uN"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "Tantos Mares (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Gabriella Stehling",
+          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
+        },
+        {
+          "name": "Ventania",
+          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
+        }
+      ],
+      "duration_ms": 283406,
+      "name": "Tantos Mares - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Uma Carta Viva (Ao Vivo)",
         "url": "https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09"
@@ -373,7 +397,7 @@
       "url": "https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "NOIADO DE BCT X PERERECA\u00c7O",
         "url": "https://open.spotify.com/album/40awrNiRuiB0eqjoFUCyLw"
@@ -401,31 +425,7 @@
       "url": "https://open.spotify.com/track/5d0M6WE8EMV098NTuozcNd"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "Tantos Mares (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qpIR86WhNYZzkwNo56x1P"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Gabriella Stehling",
-          "url": "https://open.spotify.com/artist/4SEBf4y5A67ua6LjLHvJwZ"
-        },
-        {
-          "name": "Ventania",
-          "url": "https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1"
-        }
-      ],
-      "duration_ms": 283406,
-      "name": "Tantos Mares - Ao Vivo",
-      "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "TALVEZ VOC\u00ca PRECISE DE MIM",
         "url": "https://open.spotify.com/album/6OkgYeMKB7Z74h8rqY4z6E"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/6EahwzhXdAcvxBseo2E8zZ"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
         "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/1uGbfirYTQYuoE9o0kwGRb"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Pique Anos 80",
         "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Sambaxote: Sunset (Ao Vivo)",
         "url": "https://open.spotify.com/album/6N7IXbeiiVoXoZ3A8eKOSl"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/4xJ3rXMM9kguHtyqoxbHtr"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "ZERO BALA",
         "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
@@ -541,7 +541,63 @@
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "pensando direito",
+        "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 235753,
+      "name": "pensando direito",
+      "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Resenha do Rock",
         "url": "https://open.spotify.com/album/2nwjPQsr7O20AtXfTE3Klt"
@@ -573,99 +629,7 @@
       "url": "https://open.spotify.com/track/7nsvD1q1UrHbIeNU8iJZrc"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "pensando direito",
-        "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 235753,
-      "name": "pensando direito",
-      "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "O Que Sobrou Do Amor?",
-        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "O Que Sobrou Do Amor?",
-      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Z\u00e9 da Manga",
         "url": "https://open.spotify.com/album/7I95DN8U1kesLYAuENwfPV"
@@ -681,7 +645,23 @@
       "url": "https://open.spotify.com/track/04PGFL5SbL87lWMlTAZQUa"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Sambas de Enredo Rio Carnaval 2026",
         "url": "https://open.spotify.com/album/5f6mWcQZrMFSixAML5lP08"
@@ -709,7 +689,27 @@
       "url": "https://open.spotify.com/track/16IFkQOhjD4OTvkaOOtBqd"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "O Que Sobrou Do Amor?",
+        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "O Que Sobrou Do Amor?",
+      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Vampirinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "MTG SOZINHA NESSA TORRE SINA DE OFELIA",
         "url": "https://open.spotify.com/album/59480s1ET5rENjfi9B25ZU"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/5K5MdbU5vAIM8gvcrZgWfW"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Cry For Me (WA WA WA)",
         "url": "https://open.spotify.com/album/5NWbNz7c261wCZsUfYOKuY"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Sexo Hot 2",
         "url": "https://open.spotify.com/album/1GiHRtZrCsAVQYOS5rfLqI"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/4qc9XsRd0x2Gdw3AzvUnhA"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "SET DJ YURI PEDRADA - TRAVA CHIP",
         "url": "https://open.spotify.com/album/1sLXpSh9ol5lle83QZyJTI"
@@ -893,7 +893,35 @@
       "url": "https://open.spotify.com/track/65O1EyYSg0Leyf0li6Vzah"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "PEGA A MALDADE DA BANDIDA",
+        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "PEGA A MALDADE DA BANDIDA",
+      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "\u00c9 Disso Que Eu Me Alimento",
         "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
@@ -917,7 +945,7 @@
       "url": "https://open.spotify.com/track/0iG9z2JyiDYWpPQQIXZsUd"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Calafrio",
         "url": "https://open.spotify.com/album/1uaBaJaRHrnFF3br7cDJq1"
@@ -949,7 +977,23 @@
       "url": "https://open.spotify.com/track/3Vlb046ateZv3zatIqMm5P"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "Panamera",
+        "url": "https://open.spotify.com/album/6j4V8qNfLRH5Nzmo5oEJDl"
+      },
+      "artists": [
+        {
+          "name": "Tony Salles",
+          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
+        }
+      ],
+      "duration_ms": 186624,
+      "name": "Panamera",
+      "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Toca Aquela2.0",
         "url": "https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m"
@@ -977,51 +1021,7 @@
       "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "PEGA A MALDADE DA BANDIDA",
-        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Mc Ws da leste",
-          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
-        },
-        {
-          "name": "Delleon",
-          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "PEGA A MALDADE DA BANDIDA",
-      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "Panamera",
-        "url": "https://open.spotify.com/album/6j4V8qNfLRH5Nzmo5oEJDl"
-      },
-      "artists": [
-        {
-          "name": "Tony Salles",
-          "url": "https://open.spotify.com/artist/65wb6r9GvL7JUySeWfDD9q"
-        }
-      ],
-      "duration_ms": 186624,
-      "name": "Panamera",
-      "url": "https://open.spotify.com/track/4Z4TWlYC1xRQFBxO5fuZwG"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
@@ -1037,7 +1037,23 @@
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "LA MuDANZA",
+      "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
+    },
+    {
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "MEGA SUMMER",
         "url": "https://open.spotify.com/album/4zJ6B0YIsvShbiYPK0jLX7"
@@ -1085,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2qYHRcrbIPciE2XzAdUJxa"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
         "name": "Tudo Vai Dar Certo",
         "url": "https://open.spotify.com/album/1u9IVeLgGLnyGZdSp29Ieu"
@@ -1105,44 +1121,20 @@
       "url": "https://open.spotify.com/track/6B8pYtoS3XHrc821hExWf6"
     },
     {
-      "added_at": "2026-02-08 13:09:27",
+      "added_at": "2026-02-09 14:00:22",
       "album": {
-        "name": "\u00c9 Disso Que Eu Me Alimento",
-        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
+        "name": "SINA DE OF\u00c9LIA - FUNK",
+        "url": "https://open.spotify.com/album/2hZmCIqalDfLGr6QSTVhwh"
       },
       "artists": [
         {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "winx",
-          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
+          "name": "DJ IGOR",
+          "url": "https://open.spotify.com/artist/7Arec7bWILfGThlXH37W3X"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Pq Vc N\u00e3o Me Liga?",
-      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
-    },
-    {
-      "added_at": "2026-02-08 13:09:27",
-      "album": {
-        "name": "IMPERFEITO",
-        "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
-      },
-      "artists": [
-        {
-          "name": "Seven Plus",
-          "url": "https://open.spotify.com/artist/1xjoyxyvGl817VTGtwMPz9"
-        },
-        {
-          "name": "Rayssa Andreoli",
-          "url": "https://open.spotify.com/artist/0kG8pKY5RTBapy54Id9nd9"
-        }
-      ],
-      "duration_ms": 314736,
-      "name": "IMPERFEITO",
-      "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
+      "duration_ms": 207279,
+      "name": "SINA DE OF\u00c9LIA - FUNK",
+      "url": "https://open.spotify.com/track/4jfytgjN1TVcG5cp2U2rfL"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

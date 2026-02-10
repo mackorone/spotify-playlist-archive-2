@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "AI (Nee Een Ezel Ben Ik Nie)",
+        "url": "https://open.spotify.com/album/3F8Bh6TjFW0r5X4H0kWPj3"
+      },
+      "artists": [
+        {
+          "name": "Trio Zandvrees En De Viezevoetenkortingen",
+          "url": "https://open.spotify.com/artist/2w9Votofk5FPRWuaUzd37B"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168164,
+      "name": "AI (Nee Een Ezel Ben Ik Nie)",
+      "url": "https://open.spotify.com/track/0aq78pEKnPzdltYxsuLglk"
+    },
+    {
+      "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
@@ -1284,6 +1302,24 @@
       "duration_ms": 140000,
       "name": "Baila De Utrecht",
       "url": "https://open.spotify.com/track/1si4C09HPkKIPmTV1l1Qfa"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
       "album": {
@@ -2310,7 +2346,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 162656,
       "name": "Carnaval, Wie Viert Het Niet?!",
       "url": "https://open.spotify.com/track/1TJTqQHtHQcgUuKBXA0ajT"
@@ -5174,7 +5210,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 198449,
       "name": "Gebaore um te laeve",
       "url": "https://open.spotify.com/track/4vKcQVLkc29puSMCa8SI20"
@@ -12328,7 +12364,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 216666,
       "name": "Shadows Leaning",
       "url": "https://open.spotify.com/track/6PfZD0mDjbf3ry965SogS0"
@@ -13936,6 +13972,24 @@
       "duration_ms": 147391,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/1h6tEGvt21f6TrGxjJ7RWJ"
+    },
+    {
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
       "album": {
@@ -16894,7 +16948,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-29",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -16916,7 +16970,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,279 songs - 5 day 13 hr 17 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,283 songs - 5 day 13 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2287,5 +2287,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2277 | [Raining Love](https://open.spotify.com/track/2PaYOVLgQlZ92JqW5x0QY2) | [La Perra Blanco](https://open.spotify.com/artist/79tFt6t6vIIoKUOdjj6MsB) | [Lovers and Fears](https://open.spotify.com/album/493y7hAQdhllwWpj8c6LxI) | 3:35 |
 | 2278 | [Rebuild](https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:40 |
 | 2279 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
+| 2280 | [Wasting Time](https://open.spotify.com/track/3nczBTLEklKhGnqJjbOtLP) | [Hazy Oak](https://open.spotify.com/artist/3KNkF4bGScih7yD1o08Kro) | [The Downfall](https://open.spotify.com/album/0T2Teicw5xgqPIGUgWGFtQ) | 4:10 |
+| 2281 | [Susmuyor Düşünceler](https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Susmuyor Düşünceler](https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS) | 2:18 |
+| 2282 | [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 |
+| 2283 | [Smoke](https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ) | [Clejan](https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl), [Ohd Beats](https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58) | [Smoke](https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11) | 2:08 |
 
-Snapshot ID: `AAAJfo6rajQp1srbQ9gw8CgdvtVEUi+3`
+Snapshot ID: `AAAJgheSN7UdxgdTnbTRTNeEymS7HMHi`

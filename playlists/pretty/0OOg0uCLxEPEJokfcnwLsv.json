@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 692,
+  "num_followers": 695,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAE1/7oGyvliVVOvyE5Dgx7Pije9oXb",
+  "snapshot_id": "AAAE3a05+h7VzJv558enrgYLiAzfZnLa",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -1343,6 +1343,102 @@
       "duration_ms": 239000,
       "name": "One of a Kind",
       "url": "https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop"
+    },
+    {
+      "added_at": "2026-02-09 14:20:26",
+      "album": {
+        "name": "Tic toc",
+        "url": "https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko"
+      },
+      "artists": [
+        {
+          "name": "Lucy Benedetti",
+          "url": "https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Tic toc",
+      "url": "https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF"
+    },
+    {
+      "added_at": "2026-02-09 15:06:02",
+      "album": {
+        "name": "Postcards in Real Time",
+        "url": "https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 223398,
+      "name": "Love Leave Your Mark on Me",
+      "url": "https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm"
+    },
+    {
+      "added_at": "2026-02-09 16:03:39",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc"
+    },
+    {
+      "added_at": "2026-02-09 17:31:21",
+      "album": {
+        "name": "Purple Wings",
+        "url": "https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52"
+      },
+      "artists": [
+        {
+          "name": "Golden Greyline",
+          "url": "https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l"
+        }
+      ],
+      "duration_ms": 341743,
+      "name": "Purple Wings",
+      "url": "https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC"
+    },
+    {
+      "added_at": "2026-02-09 22:29:38",
+      "album": {
+        "name": "Shipwreck",
+        "url": "https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi"
+      },
+      "artists": [
+        {
+          "name": "Half Open Tales",
+          "url": "https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO"
+        }
+      ],
+      "duration_ms": 192745,
+      "name": "Shipwreck",
+      "url": "https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM"
+    },
+    {
+      "added_at": "2026-02-09 22:38:33",
+      "album": {
+        "name": "Letzter Kuss",
+        "url": "https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ"
+      },
+      "artists": [
+        {
+          "name": "Seelenpein",
+          "url": "https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV"
+        }
+      ],
+      "duration_ms": 241168,
+      "name": "Letzter Kuss",
+      "url": "https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r"
     }
   ],
   "unique_name": "Unsigned Rock",

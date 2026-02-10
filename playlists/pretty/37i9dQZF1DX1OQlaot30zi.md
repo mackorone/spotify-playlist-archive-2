@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,756 likes - 105 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,771 likes - 105 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 104 | [PANICO](https://open.spotify.com/track/0aIsz6R5ZOvnGIjzLEbXjU) | [Dema](https://open.spotify.com/artist/2GF0hfaBGDm6DmDlQxlP0O), [effee](https://open.spotify.com/artist/2SOcHQPo4X70IqbReiuSrT) | [PANICO](https://open.spotify.com/album/3reDBmd8Uf2hkI9zLsV7wQ) | 4:13 |
 | 105 | [Pullover](https://open.spotify.com/track/53LK3KrIa6A6jW0bpkpLQ1) | [PietroHaze](https://open.spotify.com/artist/7CtTej33uH7z0c75VrUjyV) | [Pullover](https://open.spotify.com/album/2OCDGgbV8bLUcjtpGU5TAi) | 1:45 |
 
-Snapshot ID: `AAAAAM5dAhYlbEIglsi2/j8VRXdo3xmU`
+Snapshot ID: `AAAAAFCXvxw+Fh9/R48oL/RvGuLS624q`

@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 254689,
+  "num_followers": 254677,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Glory (From the Motion Picture Selma)",
-        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "Glory (From the Motion Picture Selma)",
-      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Black Panther (Original Score)",
         "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 140125,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Glory (From the Motion Picture Selma)",
+        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 272727,
+      "name": "Glory (From the Motion Picture Selma)",
+      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
     },
     {
       "added_at": "2024-01-23 19:55:12",

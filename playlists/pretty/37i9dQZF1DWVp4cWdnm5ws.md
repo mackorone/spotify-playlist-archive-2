@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain](/playlists/plain/37i9dQZF1DWVp4cWdnm5ws) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVp4cWdnm5ws)
 
-### [RADAR Philippines 2025](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
+### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
 > Meet the future of Pinoy music\. Cover: JERGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,104 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,103 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 64 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 |
 | 65 | [Mailap](https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Mailap](https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV) | 3:08 |
 
-Snapshot ID: `AAAAAPD4qYi4K1HTat9V9hEBbevBUlV0`
+Snapshot ID: `AAAAABrBWyaTqjqrlIoWEXrSsu4prbLt`

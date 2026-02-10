@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAfslcMUhCl8AR+cFoetR5uOAcfAn92",
+  "snapshot_id": "AAAftfKakdmUYy0M+yaPqE7ojyZ4oTrt",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -6783,6 +6783,66 @@
       "duration_ms": 255255,
       "name": "God Loves You (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/77fQpPhqyJDtkdiSxPphJy"
+    },
+    {
+      "added_at": "2026-02-09 03:45:43",
+      "album": {
+        "name": "Just Tryin ta Live",
+        "url": "https://open.spotify.com/album/10Go46gFX8CCawdQgaObfS"
+      },
+      "artists": [
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "Doubie Ashtray",
+      "url": "https://open.spotify.com/track/4uwO6u45R7sG4giwhG5AT0"
+    },
+    {
+      "added_at": "2026-02-10 00:23:27",
+      "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "F.I.L.O. (feat. Shing02)",
+      "url": "https://open.spotify.com/track/43pWChQ7AOab9wlSGy0dN6"
+    },
+    {
+      "added_at": "2026-02-10 00:25:47",
+      "album": {
+        "name": "Take'Em To The Cleaners",
+        "url": "https://open.spotify.com/album/3ML87nypNxX5ueuol1OMF0"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 190704,
+      "name": "Getting Out The Game",
+      "url": "https://open.spotify.com/track/6cft8Dv0XXzwYrX0PXlUQ1"
     }
   ],
   "unique_name": "main ",

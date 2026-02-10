@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 233226,
       "name": "Kizimkazi",
       "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
@@ -3620,6 +3620,28 @@
       "duration_ms": 230000,
       "name": "Weeeweeeeeeee",
       "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
+    },
+    {
+      "album": {
+        "name": "Wewe Hapo",
+        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148036,
+      "name": "Wewe Hapo",
+      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
     },
     {
       "album": {

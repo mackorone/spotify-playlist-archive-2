@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 782391,
+  "num_followers": 782427,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 257847,
-      "name": "Amei Te Ver",
-      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "P\u00fablico",
         "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 131426,
       "name": "Devolva-Me (Ao Vivo)",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 257847,
+      "name": "Amei Te Ver",
+      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
     },
     {
       "added_at": "2026-01-08 20:23:13",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-08 20:23:13",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Luz Dos Olhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2evNqAoJGCTbfx9KEqzPQ9"
-    },
-    {
-      "added_at": "2026-01-08 20:23:13",
-      "album": {
         "name": "Ana E Jorge (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 318026,
       "name": "\u00c9 Isso A\u00ed (The Blower'S Daughter) - Ao Vivo",
       "url": "https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3"
+    },
+    {
+      "added_at": "2026-01-08 20:23:13",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Luz Dos Olhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2evNqAoJGCTbfx9KEqzPQ9"
     },
     {
       "added_at": "2026-01-08 20:23:13",

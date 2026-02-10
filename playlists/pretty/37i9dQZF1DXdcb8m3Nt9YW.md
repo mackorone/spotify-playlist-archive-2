@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Moy Bobadilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,845 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,920 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 52 | [Chevrolet 4x4 \- Version Banda](https://open.spotify.com/track/4Lm8ENpqox9XeamYAKrDYL) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Chevrolet 4x4 \(Version Banda\)](https://open.spotify.com/album/0nhwGcnuD0jL7HhIaXaT0U) | 3:06 |
 | 53 | [Cruzando Cerros y Arroyos \(En Vivo\)](https://open.spotify.com/track/6ID1MLJelxzSN0OzVoeOLh) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo Fiesta Privada](https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM) | 3:11 |
 | 54 | [Besos y Copas \(En Vivo\)](https://open.spotify.com/track/0Ko08nxxjdG0JLflS0pLK5) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Borrachera Fito Shyruka \(En Vivo\)](https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft) | 2:46 |
-| 55 | [Ya Es Muy Tarde \- En Vivo](https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 3:18 |
+| 55 | [Ya Es Muy Tarde \- En Vivo](https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv) | [Grupo Clasificado](https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 3:18 |
 | 56 | [Misa De Cuerpo Presente](https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:22 |
 | 57 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 |
 | 58 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/177ejgmwvRWIWN1WALqrFS) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Regulo Caro "En Vivo" Desde Culiacán Con La Misma Banda](https://open.spotify.com/album/6WkDUYSnBrUnKZ4thwVQKY) | 2:11 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 72 | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2) | 3:04 |
 | 73 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 |
 | 74 | [El Buho](https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Buho](https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb) | 2:56 |
-| 75 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/6mHMfB7QSyG9QMRCB7tIOQ) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 2:20 |
+| 75 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/6mHMfB7QSyG9QMRCB7tIOQ) | [Grupo Clasificado](https://open.spotify.com/artist/7fLj6eNlI6xH3wd0oFEqz9) | [En Vivo Desde El Fuerte Sinaloa](https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr) | 2:20 |
 | 76 | [El Mochomo \- Live](https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Mochomo \(Live\)](https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H) | 2:56 |
 | 77 | [Descansa General \- En Vivo](https://open.spotify.com/track/5a8T0NtfAbOnq9oytfOS0c) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Descansa General \(En Vivo\)](https://open.spotify.com/album/14G4GPEfSqBTxVmqPIOAVq) | 4:16 |
 | 78 | [El Pájaro Azul \- En Vivo](https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Corridos, Rancheras Y Caballos En Vivo](https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2) | 2:21 |

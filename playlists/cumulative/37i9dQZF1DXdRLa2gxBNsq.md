@@ -2,9 +2,9 @@
 
 ### [Punk Español](https://open.spotify.com/playlist/37i9dQZF1DXdRLa2gxBNsq)
 
-> No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
+> No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia y Laura DSK.
 
-429 songs - 21 hr 45 min
+431 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Blasfemia](https://open.spotify.com/track/133UobBv6GGvg39faYqIEf) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Petra de fenetra](https://open.spotify.com/artist/3R5QOgbyvfHegJPkBEtGxs), [13 Bats](https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt) | [Blasfemia](https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac) | 2:22 | 2025-07-17 | 2025-09-05 |
 | [Bocanegra](https://open.spotify.com/track/1RoaUGeSpZek9yCUvtzCLk) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Bocanegra](https://open.spotify.com/album/7vjwT72CwSFXted75UmD1h) | 2:31 | 2025-06-05 | 2025-07-03 |
 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 | 2024-05-09 |  |
+| [Bzrp Music Sessions Vol\. 0/66](https://open.spotify.com/track/0ncQGzhhkRfq3aS3ZPUxWS) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Bzrp Music Sessions Vol\. 0/66](https://open.spotify.com/album/79ZcrPWEDKFPQ3rt8wxEsx) | 1:21 | 2026-02-09 |  |
 | [Cagaos](https://open.spotify.com/track/3e7AB1GaRkyul3pV29OgQy) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Cagaos](https://open.spotify.com/album/0QqTtUg9lUnYb9IXQJQ87K) | 2:37 | 2024-05-09 | 2024-07-30 |
 | [Caligari](https://open.spotify.com/track/4zzA5STWVx3kUDGyLSfhiK) | [Ortopedia Técnica](https://open.spotify.com/artist/3nb5MkobljIsONHwAzmkgg) | [Caligari](https://open.spotify.com/album/1skN8dcrPIKuHGVvhoMYu7) | 2:11 | 2025-07-02 | 2025-07-18 |
 | [Camaleón Dax](https://open.spotify.com/track/3bo4PxJ5rc7FzrBgprTFRP) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Camaleón Dax](https://open.spotify.com/album/6hKQ74jQgjQdCvvpeuCwip) | 1:14 | 2025-12-05 | 2026-01-27 |
@@ -185,12 +186,12 @@
 | [Histeria](https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Histeria](https://open.spotify.com/album/4nmW4nhjBCRidHlCzzAP1l) | 3:05 | 2024-06-27 | 2024-07-20 |
 | [HISTERIA](https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [HISTERIA](https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm) | 2:28 | 2024-07-12 | 2024-08-17 |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
-| [Hostilidad](https://open.spotify.com/track/7fJRuNQjAvhi0qKMA4LX1X) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Free City](https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0) | [Hostilidad](https://open.spotify.com/album/7uzIoYyDXiSruw4EOrZjqU) | 3:57 | 2025-11-28 |  |
+| [Hostilidad](https://open.spotify.com/track/7fJRuNQjAvhi0qKMA4LX1X) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Free City](https://open.spotify.com/artist/1LcREmgvQNtlFFkYyIUua0) | [Hostilidad](https://open.spotify.com/album/7uzIoYyDXiSruw4EOrZjqU) | 3:57 | 2025-11-28 | 2026-02-10 |
 | [Huele a Mierda](https://open.spotify.com/track/1AgRFpZgvhQtTPlmAMGhAW) | [Txulapos Muertos](https://open.spotify.com/artist/06MdXcdnOiMYbkG55ApJCn) | [Todos a Morir](https://open.spotify.com/album/3MbpL952z5OoNg94OH7m0u) | 2:10 | 2025-08-07 | 2025-08-29 |
 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 | 2025-05-23 |
 | [Imhotep](https://open.spotify.com/track/0Hphq0lFiJTMgRJAx4ymqu) | [Imploxtión](https://open.spotify.com/artist/0RG2IRwMNSJr3VUrGu0f7i) | [Imhotep](https://open.spotify.com/album/5uEXevxGKMTlnbredigvQ3) | 2:46 | 2025-11-28 | 2026-01-27 |
 | [Inadaptados](https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c), [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5) | [Inadaptados](https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT) | 2:43 | 2025-05-15 | 2025-07-18 |
-| [Incomunicado](https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E) | [Penadas por la Ley](https://open.spotify.com/artist/5TlgGeqfy6UKVhOdSTtIZw), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Incomunicado](https://open.spotify.com/album/79BlGaN24zhGl6wTNMcV1b) | 2:45 | 2025-10-09 |  |
+| [Incomunicado](https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E) | [Penadas por la Ley](https://open.spotify.com/artist/5TlgGeqfy6UKVhOdSTtIZw), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Incomunicado](https://open.spotify.com/album/79BlGaN24zhGl6wTNMcV1b) | 2:45 | 2025-10-09 | 2026-02-10 |
 | [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 | 2024-05-09 | 2024-06-21 |
 | [Influencers](https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [Influencers](https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2) | 4:06 | 2024-05-09 | 2025-02-28 |
 | [Ingeniería Social](https://open.spotify.com/track/79rREhErzFjLRa8DmmupCo) | [Cetme 77](https://open.spotify.com/artist/5O7hN4YHUJzykyenHBS6nK) | [Ingeniería Social](https://open.spotify.com/album/3aPlWKRCko0yhfZx108t9N) | 4:02 | 2025-07-31 | 2025-08-29 |
@@ -320,6 +321,7 @@
 | [Pablo Echenique](https://open.spotify.com/track/2gl4Y3raioEWKhXUDALSZP) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Mucho Asco \(Casi\) Todo](https://open.spotify.com/album/3xnkw4YKqJzJpTnPPoP7Af) | 1:34 | 2024-01-18 | 2025-11-15 |
 | [Palestina](https://open.spotify.com/track/6pxqXxJcvdSIvCklih7u6A) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Palestina](https://open.spotify.com/album/2fVWsPcVgJFh79c2MlJaWJ) | 3:16 | 2024-11-21 | 2025-01-17 |
 | [Palestina](https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Rayo ke no cesa](https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw) | 3:47 | 2025-12-18 |  |
+| [paz](https://open.spotify.com/track/52xCEdh1JK9j1aZ53LhV7K) | [cryymm](https://open.spotify.com/artist/4QW4Rb5rAM0eXitKwAjqeX) | [guerra y paz](https://open.spotify.com/album/0wR8D7YqXpocvemFiQbAX1) | 3:33 | 2026-02-09 |  |
 | [Pepas](https://open.spotify.com/track/05KuSiTBf115S6xWtbw0jF) | [Afónica Naranjo](https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC) | [Pepas](https://open.spotify.com/album/5plfvAFnSlEzYyhZamSWpd) | 1:54 | 2025-07-02 | 2025-08-01 |
 | [PEPITO](https://open.spotify.com/track/4TfEpPa1FSfM265JCtqPB6) | [Daft Kant](https://open.spotify.com/artist/5AE2o4ABrSjsKkN0WVWUWy) | [PEPITO](https://open.spotify.com/album/3FghMs4vRuGqMa1757v0vT) | 3:11 | 2025-01-03 | 2025-01-31 |
 | [Perder la Voz](https://open.spotify.com/track/4rW49Rqr5WA3eycR1XoGfD) | [37 Hostias](https://open.spotify.com/artist/2F1uZOod2RXpELmBS649mN) | [Perder la Voz](https://open.spotify.com/album/6Gqq9IvF4LRV6AL9eW5a6j) | 2:17 | 2024-04-18 | 2024-05-10 |

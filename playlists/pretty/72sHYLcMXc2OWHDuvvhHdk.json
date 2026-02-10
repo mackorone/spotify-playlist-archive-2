@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJfo6rajQp1srbQ9gw8CgdvtVEUi+3",
+  "snapshot_id": "AAAJgheSN7UdxgdTnbTRTNeEymS7HMHi",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -37851,6 +37851,74 @@
       "duration_ms": 146720,
       "name": "Backyard Kings",
       "url": "https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1"
+    },
+    {
+      "added_at": "2026-02-09 23:42:13",
+      "album": {
+        "name": "The Downfall",
+        "url": "https://open.spotify.com/album/0T2Teicw5xgqPIGUgWGFtQ"
+      },
+      "artists": [
+        {
+          "name": "Hazy Oak",
+          "url": "https://open.spotify.com/artist/3KNkF4bGScih7yD1o08Kro"
+        }
+      ],
+      "duration_ms": 250204,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/3nczBTLEklKhGnqJjbOtLP"
+    },
+    {
+      "added_at": "2026-02-09 23:50:44",
+      "album": {
+        "name": "Susmuyor D\u00fc\u015f\u00fcnceler",
+        "url": "https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS"
+      },
+      "artists": [
+        {
+          "name": "Evren U\u011fur",
+          "url": "https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4"
+        }
+      ],
+      "duration_ms": 138719,
+      "name": "Susmuyor D\u00fc\u015f\u00fcnceler",
+      "url": "https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA"
+    },
+    {
+      "added_at": "2026-02-10 00:06:22",
+      "album": {
+        "name": "Dear Malibu",
+        "url": "https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV"
+      },
+      "artists": [
+        {
+          "name": "Pastel Atlas",
+          "url": "https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0"
+        }
+      ],
+      "duration_ms": 176076,
+      "name": "Dear Malibu",
+      "url": "https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0"
+    },
+    {
+      "added_at": "2026-02-10 00:08:49",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11"
+      },
+      "artists": [
+        {
+          "name": "Clejan",
+          "url": "https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl"
+        },
+        {
+          "name": "Ohd Beats",
+          "url": "https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58"
+        }
+      ],
+      "duration_ms": 128516,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ"
     }
   ],
   "unique_name": "Cruise Music",

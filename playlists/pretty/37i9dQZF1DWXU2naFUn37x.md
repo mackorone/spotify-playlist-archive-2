@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Lacrim, Papa e Nerissima in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,368 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,329 likes - 54 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 50 | [ROUTINE \(feat\. Kuremino, Bekkeria, Promessa\)](https://open.spotify.com/track/0iqoV33m3Zfw2h7QPJD1aI) | [DBZ](https://open.spotify.com/artist/4wJ7i9m6dXEA4QgCAHvixa), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [CITOFONO](https://open.spotify.com/album/6ZQYaJ4H1a4WoW9ZuTHl0H) | 2:41 |
 | 51 | [CELEBRITÀ \(feat\. Papa V & Nerissima Serpe\)](https://open.spotify.com/track/2yImdlsk2aGNxpkJwZTv9f) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:36 |
 | 52 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 |
-| 53 | [FACIL FACIL](https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:28 |
-| 54 | [Tic](https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tic](https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD) | 2:17 |
-| 55 | [MY BAD \(feat\. Over Lapa\)](https://open.spotify.com/track/3GkepKgluC0L7rW1ufxFkZ) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [LA TRAP NON MUORE MAI](https://open.spotify.com/album/5pUC1EVHuM0SDc3dB5bOQK) | 2:45 |
+| 53 | [Tic](https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Tic](https://open.spotify.com/album/2tanCOV74q4wP2Bm7WUNZD) | 2:17 |
+| 54 | [MY BAD \(feat\. Over Lapa\)](https://open.spotify.com/track/3GkepKgluC0L7rW1ufxFkZ) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [LA TRAP NON MUORE MAI](https://open.spotify.com/album/5pUC1EVHuM0SDc3dB5bOQK) | 2:45 |
 
-Snapshot ID: `AAAAAAU8KXoLKlsSHsQIrvK+6phmnTg5`
+Snapshot ID: `AAAAAM8xs0vEYe3vIsMlWWSaIQ70PpED`

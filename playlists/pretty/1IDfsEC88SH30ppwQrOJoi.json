@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world. ",
-  "num_followers": 14171,
+  "num_followers": 14170,
   "original_name": "NYE Party Vibes",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAALCv2KfyZSMMWhMox1fxON1pr5DOlS",
+  "snapshot_id": "AAALCweQcdbJilzUd+zairVjf9n3d/Od",
   "tracks": [
     {
       "added_at": "2025-06-10 12:37:11",
@@ -1967,6 +1967,26 @@
       "duration_ms": 236033,
       "name": "Utopia - DJ DALI Remix",
       "url": "https://open.spotify.com/track/4VpFQo5uDItpzW6XsTy0UH"
+    },
+    {
+      "added_at": "2026-02-09 15:21:00",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 181476,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j"
     }
   ],
   "unique_name": "NYE Party Vibes",

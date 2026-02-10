@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Yulia",
-  "num_followers": 25043,
+  "num_followers": 25056,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "Pozw\u00f3l mi czu\u0107",
+        "url": "https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "duration_ms": 200250,
+      "name": "Pozw\u00f3l mi czu\u0107",
+      "url": "https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "Cienie Przesz\u0142o\u015bci",
         "url": "https://open.spotify.com/album/5ZrpZyPmuPY9nkhTivObsX"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 166956,
       "name": "Cienie Przesz\u0142o\u015bci",
       "url": "https://open.spotify.com/track/6hoBYZ9kZiBWrwMGWrBdqo"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "grudzie\u0144",
-        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 142479,
-      "name": "grudzie\u0144",
-      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "grudzie\u0144",
+        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 142479,
+      "name": "grudzie\u0144",
+      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "Na start",
         "url": "https://open.spotify.com/album/68tJRTYvpbzEqp9VNskGkh"
       },
@@ -507,18 +523,26 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Pozw\u00f3l mi czu\u0107",
-        "url": "https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P"
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4"
       },
       "artists": [
         {
-          "name": "Carla Fernandes",
-          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+          "name": "Anastazja",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        },
+        {
+          "name": "Mane",
+          "url": "https://open.spotify.com/artist/0ZtfEvCbEaBHeA7IYI8wNH"
         }
       ],
-      "duration_ms": 200250,
-      "name": "Pozw\u00f3l mi czu\u0107",
-      "url": "https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0"
+      "duration_ms": 172800,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/23xaqczA9HXTZaHPA9Wxp0"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -555,26 +579,18 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Wild Child",
-        "url": "https://open.spotify.com/album/7CeQTUeuMPEKhS1R7E1PA4"
+        "name": "Nic nie p\u0142onie",
+        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
       },
       "artists": [
         {
-          "name": "Anastazja",
-          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
-        },
-        {
-          "name": "Dizzma",
-          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
-        },
-        {
-          "name": "Mane",
-          "url": "https://open.spotify.com/artist/0ZtfEvCbEaBHeA7IYI8wNH"
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/23xaqczA9HXTZaHPA9Wxp0"
+      "duration_ms": 177272,
+      "name": "Nic nie p\u0142onie",
+      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -591,22 +607,6 @@
       "duration_ms": 236249,
       "name": "Nienawidzisz",
       "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "Nic nie p\u0142onie",
-        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
-      },
-      "artists": [
-        {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Nic nie p\u0142onie",
-      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Na dno",
-        "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Na dno",
-      "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
         "name": "obiecuj\u0119",
         "url": "https://open.spotify.com/album/74ErgwTtPEZI1spfbR4SxI"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 158447,
       "name": "obiecuj\u0119",
       "url": "https://open.spotify.com/track/5agSZ8Jl4NHLslHfrTCm6F"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
+        "name": "Na dno",
+        "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Na dno",
+      "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -827,34 +827,18 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Spok\u00f3j",
-        "url": "https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt"
+        "name": "K\u0142am",
+        "url": "https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn"
       },
       "artists": [
         {
-          "name": "Treehouse",
-          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+          "name": "Julka Grabowska",
+          "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
         }
       ],
-      "duration_ms": 199149,
-      "name": "Spok\u00f3j",
-      "url": "https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "My\u015bli",
-        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "7 nieszcz\u0119\u015b\u0107",
-      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+      "duration_ms": 148000,
+      "name": "K\u0142am",
+      "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "My\u015bli",
+        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "7 nieszcz\u0119\u015b\u0107",
+      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "Biegn\u0119",
         "url": "https://open.spotify.com/album/2rmVfVOvDGqJJKz0MKtuKv"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "K\u0142am",
-        "url": "https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn"
+        "name": "Spok\u00f3j",
+        "url": "https://open.spotify.com/album/1D870fGc91HzECZ8Qkimnt"
       },
       "artists": [
         {
-          "name": "Julka Grabowska",
-          "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
         }
       ],
-      "duration_ms": 148000,
-      "name": "K\u0142am",
-      "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
+      "duration_ms": 199149,
+      "name": "Spok\u00f3j",
+      "url": "https://open.spotify.com/track/6BTtrMQBtosUyr8b3IA4Sq"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "This too shall pass",
+        "url": "https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k"
+      },
+      "artists": [
+        {
+          "name": "Stasiek Kukulski",
+          "url": "https://open.spotify.com/artist/2D5HDdUAa64V8lwQFlTOVh"
+        }
+      ],
+      "duration_ms": 159323,
+      "name": "This too shall pass",
+      "url": "https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "Czerwone ledy",
         "url": "https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 126857,
       "name": "Serce Dla Nas",
       "url": "https://open.spotify.com/track/3yzYuClEJ6ZCpMRBSVAnRc"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "This too shall pass",
-        "url": "https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k"
-      },
-      "artists": [
-        {
-          "name": "Stasiek Kukulski",
-          "url": "https://open.spotify.com/artist/2D5HDdUAa64V8lwQFlTOVh"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "This too shall pass",
-      "url": "https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "Byleby",
+        "url": "https://open.spotify.com/album/5L95XWMD5TGl8Yf8oxVdi2"
+      },
+      "artists": [
+        {
+          "name": "Evelina Ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 253527,
+      "name": "Byleby",
+      "url": "https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "Rany, chyba nie daj\u0119 rady",
         "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "My\u015bli Rozdarte",
-        "url": "https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc"
+        "name": "Po co tyle m\u00f3wi\u0107",
+        "url": "https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ"
       },
       "artists": [
         {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+          "name": "Klaudia Sadownik",
+          "url": "https://open.spotify.com/artist/55WKQ59yDpmZOoFOSTTnGc"
         }
       ],
-      "duration_ms": 156815,
-      "name": "Te\u017c Tak Masz",
-      "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
+      "duration_ms": 157258,
+      "name": "Po co tyle m\u00f3wi\u0107",
+      "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -1123,22 +1139,6 @@
       "duration_ms": 109459,
       "name": "szept (czy czujesz to samo co ja?)",
       "url": "https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "NAD RANEM",
-        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "NAD RANEM",
-      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
     }
   ],
   "unique_name": "up next",

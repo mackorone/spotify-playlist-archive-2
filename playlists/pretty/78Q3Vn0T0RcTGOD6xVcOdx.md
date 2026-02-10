@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 480 likes - 279 songs - 15 hr 57 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 480 likes - 280 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,5 +287,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 277 | [No Me Importa](https://open.spotify.com/track/1bBXt2ESu7Uvkq2MiOerLf) | [Nevenka Siberia](https://open.spotify.com/artist/0HWsF7Qh4xm5F3xBjnn97P) | [Cosas que Decir](https://open.spotify.com/album/2QnXMdTUqkfhfZfbSBvxTL) | 3:37 |
 | 278 | [Inconfundible](https://open.spotify.com/track/5cpxp9quQreC2AVjzzJulx) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Inconfundible](https://open.spotify.com/album/2IC8E1ZL9E44HJsOPtklsF) | 3:37 |
 | 279 | [Calle amanecer](https://open.spotify.com/track/6zRO3xl2W8zKqTLII5pJ4H) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Calle amanecer](https://open.spotify.com/album/4DsV2paVA0niwYG51jLEE5) | 3:32 |
+| 280 | [Fuego](https://open.spotify.com/track/1fCFjHamH9I3w9Qd32vjW3) | [Chicoselfie](https://open.spotify.com/artist/2jiH07cfJhSjf95VGyJsrR) | [Fuego](https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN) | 5:00 |
 
-Snapshot ID: `AAAA9XY6icAVlEgkihN94wXbWzKyjaqR`
+Snapshot ID: `AAAA9vYVVutZidw2NJwoyfcq4aHqg7Rm`

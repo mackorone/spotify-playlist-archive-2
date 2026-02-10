@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Die Oberherren, MIK's Reaction and more",
+  "description": "With Die Oberherren, AlligatorX, Lockjaw and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "My Queen, Turn Me Upside Down",
+        "url": "https://open.spotify.com/album/1tlVOzNFnflL6zvlw2l2T6"
+      },
+      "artists": [
+        {
+          "name": "Good Goes Away",
+          "url": "https://open.spotify.com/artist/6zYFqvHjgqIx14JH45XJ0r"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "'Til They Clean Me From the Side of the Road",
+      "url": "https://open.spotify.com/track/4Pdv0IgOCgFHfbVhCVBUcJ"
+    },
     {
       "album": {
         "name": "(Don`t Wait For) The Next Call",
@@ -236,7 +254,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -607,6 +625,24 @@
     },
     {
       "album": {
+        "name": "No Other Way",
+        "url": "https://open.spotify.com/album/4JV0TIzoG7rOt4P0D8vUp3"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6\u00f6N",
+          "url": "https://open.spotify.com/artist/4jLACY8UVXCPkrchkbsO8z"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131027,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
+    },
+    {
+      "album": {
         "name": "London Sessions",
         "url": "https://open.spotify.com/album/4QSMVDiv8Wd1N9iEzEqaqB"
       },
@@ -654,7 +690,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 242008,
       "name": "Call It Out",
       "url": "https://open.spotify.com/track/0oulKyKALyqc4S3ULTmCda"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 255518,
       "name": "Change to Come",
       "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 164383,
       "name": "Dafeet",
       "url": "https://open.spotify.com/track/13zUeUMiC1CfU6Nn3HmpWH"
@@ -996,7 +1032,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -1368,7 +1404,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 201586,
       "name": "Draumen",
       "url": "https://open.spotify.com/track/62i0jfS0Rie0VJxVwLWbHB"
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 387600,
       "name": "Dukkha (Good Old Wine)",
       "url": "https://open.spotify.com/track/0Pl1Celco5onaXWQ4SjioI"
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 128062,
       "name": "Everything Is Possible",
       "url": "https://open.spotify.com/track/2Z8CuQgPHHEeuIymMDLebF"
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 200000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6LI1br3anXTOBmqj0FKvgl"
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 198000,
       "name": "Faith I've failed to see",
       "url": "https://open.spotify.com/track/1Mc2ksd3oyu9RXzbrbbNgU"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 273345,
       "name": "Farao P\u00e5 Ferie",
       "url": "https://open.spotify.com/track/3jiWeujKFjuZhDqwdyoLbh"
@@ -2002,7 +2038,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 214861,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1DUOdHbokLSzPRb2NunQf2"
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -2608,7 +2644,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 272042,
       "name": "Insecurity (Radio Edit)",
       "url": "https://open.spotify.com/track/7qkbq9iXcW1pWI6NNLJ7Jv"
@@ -2738,7 +2774,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -3096,7 +3132,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Little Respect - Rock Version",
       "url": "https://open.spotify.com/track/2COYCUPa4gndUQq5Afju5R"
@@ -3186,7 +3222,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -3648,7 +3684,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -3706,6 +3742,24 @@
       "duration_ms": 271908,
       "name": "Never Complain",
       "url": "https://open.spotify.com/track/7DBpCxvanfR7qOAumOKojy"
+    },
+    {
+      "album": {
+        "name": "Never the Same",
+        "url": "https://open.spotify.com/album/1igc8PfGM3LoFSQMW2H0Kf"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299311,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
     },
     {
       "album": {
@@ -4052,7 +4106,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -4074,6 +4128,24 @@
       "duration_ms": 237751,
       "name": "Onward We Go",
       "url": "https://open.spotify.com/track/5ua4KDUOuO0nRJfnYX5GiH"
+    },
+    {
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/0x6DOM3lTndk61uERBAgLo"
+      },
+      "artists": [
+        {
+          "name": "Silent Architects",
+          "url": "https://open.spotify.com/artist/6XHhhgXbOW377Vq6aa2QtM"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248006,
+      "name": "Open Letter",
+      "url": "https://open.spotify.com/track/1UrVaIrMeq8EIvi5XaLkRL"
     },
     {
       "album": {
@@ -4196,7 +4268,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -4312,7 +4384,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -4770,7 +4842,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -5004,7 +5076,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 216864,
       "name": "Sons of Aeeth",
       "url": "https://open.spotify.com/track/4hGuteKLpeM13iVnhkwWlg"
@@ -5318,7 +5390,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 313253,
       "name": "Swithen",
       "url": "https://open.spotify.com/track/1cqjwYM3BX69vy8hQ6Ug16"
@@ -5599,6 +5671,24 @@
     },
     {
       "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394040,
+      "name": "The Hole",
+      "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
+    },
+    {
+      "album": {
         "name": "The Key Is You",
         "url": "https://open.spotify.com/album/2kC9O53ptzumfcYpIUtLMw"
       },
@@ -5736,7 +5826,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -5852,7 +5942,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -5972,6 +6062,24 @@
       "duration_ms": 397584,
       "name": "Time for a New Dream (feat.) Bob Balch (feat. Bob Balch)",
       "url": "https://open.spotify.com/track/03zNaFmJ5gsxjX20rtvkZm"
+    },
+    {
+      "album": {
+        "name": "To Die Like a God",
+        "url": "https://open.spotify.com/album/6hB6fly1rhQr8SPsfwM1jo"
+      },
+      "artists": [
+        {
+          "name": "Die Oberherren",
+          "url": "https://open.spotify.com/artist/5W8kg2FcTaUXscRnsgsQAz"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190006,
+      "name": "To Die And I",
+      "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"
     },
     {
       "album": {
@@ -6130,7 +6238,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -6274,7 +6382,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -6444,7 +6552,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 255779,
       "name": "Wash You Clean",
       "url": "https://open.spotify.com/track/7HkeAjIxpO7GukNw7xBEHx"
@@ -6682,7 +6790,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 193880,
       "name": "Yes Life",
       "url": "https://open.spotify.com/track/6FWuNBlli4DK29hMLq1J0a"
@@ -6700,7 +6808,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 290571,
       "name": "Yksin\u00e4isyys j\u00e4\u00e4 oviaukkoon",
       "url": "https://open.spotify.com/track/4x7TppUedRxu2iExYM1OfX"

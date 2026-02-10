@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -21006,10 +21006,36 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 128477,
       "name": "HEAVENLY JUMPSTYLE - Slowed",
       "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
+    },
+    {
+      "album": {
+        "name": "HEAVENLY JUMPSTYLE (Versions)",
+        "url": "https://open.spotify.com/album/0qUT1l3cv1hfpHdY3FE0mV"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128485,
+      "name": "HEAVENLY JUMPSTYLE - Tiktok Version",
+      "url": "https://open.spotify.com/track/7bLc5e7tPk5OZ6aVp51AOP"
     },
     {
       "album": {
@@ -36830,7 +36856,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -42189,6 +42215,32 @@
     },
     {
       "album": {
+        "name": "Schweden",
+        "url": "https://open.spotify.com/album/6qIlGsMpny5vnMpqxbOmE5"
+      },
+      "artists": [
+        {
+          "name": "newy",
+          "url": "https://open.spotify.com/artist/1OUWlRIzqpC3roW6mFbQbM"
+        },
+        {
+          "name": "voydence",
+          "url": "https://open.spotify.com/artist/1DYxpWOf3wM1hfQDJNUdNX"
+        },
+        {
+          "name": "newyV2",
+          "url": "https://open.spotify.com/artist/7fEsoocE573YAZ5EIi6QBh"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239548,
+      "name": "Schweden",
+      "url": "https://open.spotify.com/track/0St4nftJi0cvYJQ2J2tkso"
+    },
+    {
+      "album": {
         "name": "Schweden x So Wie Du Bist",
         "url": "https://open.spotify.com/album/6HwYD9TtadshFehpGYsp2M"
       },
@@ -45014,7 +45066,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -54818,7 +54870,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 155773,
       "name": "Yogameister",
       "url": "https://open.spotify.com/track/5hhZwYyYgHlfElYxCSRxNE"

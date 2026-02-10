@@ -6678,7 +6678,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -15118,7 +15118,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -15290,6 +15290,24 @@
       "duration_ms": 156081,
       "name": "Cuerno Azulado",
       "url": "https://open.spotify.com/track/7LYOS9dtKuxJaJ0Y8MjH5K"
+    },
+    {
+      "album": {
+        "name": "Cuerno Azulado",
+        "url": "https://open.spotify.com/album/0irASG61pMi4eYeH3HCcAm"
+      },
+      "artists": [
+        {
+          "name": "7EVEN STARS",
+          "url": "https://open.spotify.com/artist/3ajnDvWXLGNVmRy3I7M6m7"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152416,
+      "name": "Cuerno Azulado",
+      "url": "https://open.spotify.com/track/4wOHvjzXto0aN5CMaJFsbq"
     },
     {
       "album": {
@@ -60508,7 +60526,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"

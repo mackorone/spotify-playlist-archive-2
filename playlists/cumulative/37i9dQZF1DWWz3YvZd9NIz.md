@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-258 songs - 12 hr 42 min
+259 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Greedy \- Hardstyle](https://open.spotify.com/track/1KHusrvEKsDlrCBIbP6zW1) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [HARDSTYLE MAGE](https://open.spotify.com/artist/0Vorbh84xQLnLXl1BvN1cV) | [Greedy \(Hardstyle\)](https://open.spotify.com/album/42y4q221pyzCuce0B7pdvf) | 2:33 | 2024-05-23 | 2024-07-13 |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
 | [Hangover](https://open.spotify.com/track/6HgeLV4tJi30yZV1pBg5sT) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Hangover](https://open.spotify.com/album/5eNjBM5cT4BHQfsoXnkwo8) | 2:50 | 2025-10-20 | 2026-02-09 |
-| [Happy Together](https://open.spotify.com/track/0HRysbhpdaoVBl9WCGlYYo) | [LARSTIG & GASDROP](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Happy Together](https://open.spotify.com/album/1EptdHIKHhyY5yQyhhnaBw) | 3:13 | 2026-01-22 |  |
+| [Happy Together](https://open.spotify.com/track/0HRysbhpdaoVBl9WCGlYYo) | [LARSTIG & GASDROP](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Happy Together](https://open.spotify.com/album/1EptdHIKHhyY5yQyhhnaBw) | 3:13 | 2026-01-22 | 2026-02-10 |
 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 | 2023-07-01 |
 | [He's a Pirate](https://open.spotify.com/track/1rSENjsUV5v8OiRrjxTyhX) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [He's a Pirate](https://open.spotify.com/album/3GPUFw0s4ng41t0YRxiI36) | 3:14 | 2023-02-09 | 2024-11-13 |
 | [Heaven](https://open.spotify.com/track/3IE5UTMNyhe6CPYnrqIOnR) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX), [Mary Lena](https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf) | [Heaven](https://open.spotify.com/album/5ADhBaElYoDGhF99ZZKJ6v) | 3:47 | 2024-12-20 | 2025-11-21 |
@@ -201,6 +201,7 @@
 | [Ready Or Not](https://open.spotify.com/track/1XGNfiOQXjaUG8W9kLSCQl) | [Ghost Stories](https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Ready Or Not](https://open.spotify.com/album/4bnPHqulH5HKtpkeb4ZmJ5) | 2:08 | 2025-09-25 |  |
 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 | 2025-08-29 |
 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 | 2022-12-05 |  |
+| [Rock That Body](https://open.spotify.com/track/4gRyR3iQuENn8XdNx4UkVX) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [Rock That Body](https://open.spotify.com/album/6wNn7WlFzDLVA6rD02VzM4) | 2:13 | 2026-01-30 |  |
 | [Rude Boy](https://open.spotify.com/track/43O2EOt85fbhIADEt7ybP8) | [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb), [Rich Fayden](https://open.spotify.com/artist/3ar8JGsr43jlNDacAnqt34) | [Rude Boy](https://open.spotify.com/album/1D69rMXTjw3X7XlRFY34of) | 2:30 | 2023-09-28 | 2023-11-18 |
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 | 2023-07-14 |
 | [S&M \- Hardstyle Remix](https://open.spotify.com/track/2cMwo7ZajYAd0NxNire01U) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [S&M \(Hardstyle Remix\)](https://open.spotify.com/album/0zwZA275sXncQ4rqUgQ4Y1) | 2:14 | 2023-03-30 | 2025-07-03 |

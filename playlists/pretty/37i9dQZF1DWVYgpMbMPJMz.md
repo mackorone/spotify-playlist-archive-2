@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Tommee Profitt & Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,103 likes - 79 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,375 likes - 79 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 40 | [Magnify](https://open.spotify.com/track/6vjCLA1wRmf8P4QJ3lrIAD) | [ZOE Worship](https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo) | [Magnify](https://open.spotify.com/album/5ZuiWVKn6lWqNJNOInH1e8) | 3:34 |
 | 41 | [The Blessing](https://open.spotify.com/track/34fPzDUWItvqb2UKDIdT82) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing](https://open.spotify.com/album/1K3nTOcKYTalbxD9simAxe) | 5:24 |
 | 42 | [Hosanna](https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Hosanna](https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN) | 7:56 |
-| 43 | [Take The World](https://open.spotify.com/track/16bCkWlkMuxsIN3rqSMOak) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Take The World](https://open.spotify.com/album/0Yg2WZwxvXFodtqT1w88x6) | 5:29 |
+| 43 | [Take The World \- Live](https://open.spotify.com/track/16bCkWlkMuxsIN3rqSMOak) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Take The World \(Live\)](https://open.spotify.com/album/0Yg2WZwxvXFodtqT1w88x6) | 5:29 |
 | 44 | [There Is Peace \- Live](https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Open Door \(Live\)](https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ) | 6:10 |
 | 45 | [Rise with the Sun](https://open.spotify.com/track/12SfOqmoshZLNj0JUVcWHM) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Rise with the Sun](https://open.spotify.com/album/24gNqKUirdjTRpU6No3DQp) | 4:50 |
 | 46 | [Abide](https://open.spotify.com/track/7wxxj2poCnWWJq4idqZpO0) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Abide](https://open.spotify.com/album/03aZ9C4STlBEmPx7VrpgjR) | 5:08 |

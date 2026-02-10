@@ -11372,7 +11372,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -24728,7 +24728,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 161620,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/22nEfJtQdNlGI0dW6QVm6q"
@@ -31272,7 +31272,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -62162,6 +62162,28 @@
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
+    },
+    {
+      "album": {
+        "name": "Sin Ilusiones",
+        "url": "https://open.spotify.com/album/4OkUS97xeeo5G8vvqJvyYN"
+      },
+      "artists": [
+        {
+          "name": "Shelo",
+          "url": "https://open.spotify.com/artist/3yVK2HqNKKReejFoMLfXYw"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/3KTs1bNJsp8r0vLm9tcyA5"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188589,
+      "name": "Sin Ilusiones",
+      "url": "https://open.spotify.com/track/5QzQIzAdo2gN6iDRNRBKA6"
     },
     {
       "album": {

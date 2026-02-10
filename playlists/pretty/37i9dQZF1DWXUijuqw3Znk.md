@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 327 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 76 | [Angel](https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 2:42 |
 | 77 | [1LL Recognize 1LL \- Bonus Track](https://open.spotify.com/track/7vBMlFHfDoZqHCf7sWLWu5) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 3:11 |
 | 78 | [The Surface](https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:09 |
-| 79 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 |
-| 80 | [Superbee's Maserati](https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Superbee's Maserati](https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl) | 3:50 |
-| 81 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 |
+| 79 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 |
+| 80 | [GNGB](https://open.spotify.com/track/5QBvCdGtU5sblvqy1ZmIT6) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:14 |
+| 81 | [Superbee's Maserati](https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [Superbee's Maserati](https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl) | 3:50 |
 | 82 | [runaway \(Feat\. DON MALIK\)](https://open.spotify.com/track/5mgJHVqjrx56K4mAJx8eaY) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 2:59 |
 | 83 | [WINNING MIND \(Feat\. Chin, LIL GIMCHI\)](https://open.spotify.com/track/2wwmdvHAH09hRZ9w7tqNie) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Chin](https://open.spotify.com/artist/0wLLr9JWffvRvyWpn0NfgZ), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [FAKE RAPPERS KILLER](https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b) | 3:23 |
-| 84 | [Ride it like](https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:57 |
-| 85 | [GANGSHIN](https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:00 |
+| 84 | [GANGSHIN](https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:00 |
+| 85 | [Ride it like](https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:57 |
 | 86 | [1llusion Remix \- Bonus Track](https://open.spotify.com/track/7h8KGENglYCGD6MD6PfeRu) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Reborn](https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV) | 4:23 |
 | 87 | [FEELING](https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:08 |
 | 88 | [500000](https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 2:08 |

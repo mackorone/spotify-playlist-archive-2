@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: EXO\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ATEEZ\) \(Enjoy a playlist of songs that support music video features!\)
 
-185 songs - 10 hr 13 min
+186 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-10-24 |  |
 | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Pt\. 1 \(Baila\)](https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB) | 3:43 | 2025-10-24 |  |
 | [Oh My](https://open.spotify.com/track/0h4IPS6Lwm30ZB9FbuCsnJ) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [Oh My](https://open.spotify.com/album/0mncylzoHz7AEXg83JmaMI) | 3:07 | 2025-07-15 |  |
+| [On The Road](https://open.spotify.com/track/7lt0IFjlsY1FztH3g7POGP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [On The Road](https://open.spotify.com/album/4qLmONjxB0xKGGra65EIgT) | 4:12 | 2026-02-09 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/0Ybb2jzHsmdiry7QRfankS) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/04hZwTuFY586ZOR25ij8hq) | 3:23 | 2025-12-03 |  |
 | [oops!](https://open.spotify.com/track/0rY7KVfZoLlUHVpCD7KEAm) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [oops!](https://open.spotify.com/album/5tpi5cegn37C5Eb5inSESa) | 3:20 | 2025-10-24 |  |
 | [oops!](https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [oops!](https://open.spotify.com/album/53P9gkabZ0sup2pTa0ySJs) | 3:20 | 2025-10-24 |  |

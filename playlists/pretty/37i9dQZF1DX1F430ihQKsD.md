@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Fleur de Peau
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,128 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,428 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [True Love \- Alix Fernz's version](https://open.spotify.com/track/1cpAdmaGCbA2rhNEWEEU9A) | [Bouvier Normal](https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp), [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [True Love \(Alix Fernz's version\)](https://open.spotify.com/album/4i5VZ96QWRAvyJ7ti7KAk5) | 2:41 |
-| 2 | [Bam Bam](https://open.spotify.com/track/68vx3w8Byw0BgZsBguvAlg) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Bam Bam](https://open.spotify.com/album/0MUWZXw2xpTPDVUQ1iTRoa) | 3:03 |
+| 1 | [Bam Bam](https://open.spotify.com/track/68vx3w8Byw0BgZsBguvAlg) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Bam Bam](https://open.spotify.com/album/0MUWZXw2xpTPDVUQ1iTRoa) | 3:03 |
+| 2 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 |
 | 3 | [ergo sum](https://open.spotify.com/track/7wFGm3luIki5eSUOgWXYp4) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [ergo sum](https://open.spotify.com/album/0WoiaolqRVG7ET2WKgkUsK) | 2:51 |
 | 4 | [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 |
 | 5 | [Packing Away](https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Packing Away](https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj) | 4:26 |
 | 6 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 |
-| 7 | [Rising](https://open.spotify.com/track/5PVhswfrgXYdis2tFU3kzQ) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Rising](https://open.spotify.com/album/2SpYVIYV0SKTNxVN2mUKhn) | 2:52 |
-| 8 | [mélodie \(take 3\)](https://open.spotify.com/track/3Hs0UBTcUIGsSVofEoPVWC) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [mélodie \(take 3\) // mélodie \(take 1\)](https://open.spotify.com/album/6FF4m4MJG7cTP4Va044XsI) | 5:12 |
-| 9 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
-| 10 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 |
+| 7 | [True Love \- Alix Fernz's version](https://open.spotify.com/track/1cpAdmaGCbA2rhNEWEEU9A) | [Bouvier Normal](https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp), [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [True Love \(Alix Fernz's version\)](https://open.spotify.com/album/4i5VZ96QWRAvyJ7ti7KAk5) | 2:41 |
+| 8 | [Rising](https://open.spotify.com/track/5PVhswfrgXYdis2tFU3kzQ) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Rising](https://open.spotify.com/album/2SpYVIYV0SKTNxVN2mUKhn) | 2:52 |
+| 9 | [mélodie \(take 3\)](https://open.spotify.com/track/3Hs0UBTcUIGsSVofEoPVWC) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [mélodie \(take 3\) // mélodie \(take 1\)](https://open.spotify.com/album/6FF4m4MJG7cTP4Va044XsI) | 5:12 |
+| 10 | [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 |
 | 11 | [chanson pour taupe](https://open.spotify.com/track/6SfO16DmXSKBahFZeYlSlR) | [Chloé Jara\-Buto](https://open.spotify.com/artist/1KQP9Q01U2uFdKombxhlzT) | [miaw / chanson pour taupe](https://open.spotify.com/album/5OevO4IOczL2IflKc8V1va) | 4:06 |
 | 12 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 |
 | 13 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 68 | [SATURDAY](https://open.spotify.com/track/0mNjb876kbms1CayxEuytb) | [KANNA](https://open.spotify.com/artist/6ItXOiEgzkn6cAiw6PT2de) | [SATURDAY](https://open.spotify.com/album/1kQveuKBIsXx3KfPEL6Hhs) | 2:39 |
 | 69 | [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 |
 
-Snapshot ID: `AAAAAMxn6p/smxEm6FTzL06rLcRsJyhs`
+Snapshot ID: `AAAAAIQOsEFBYhpdVhYDmpW35pJ+e4Oe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,346 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,348 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Mandrake](https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Mandrake](https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk) | 2:37 |
 | 50 | [Arrocha da Treta](https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL) | [Nenê DJ](https://open.spotify.com/artist/7aYfvqdPOA5AGSXi10b982), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Magrinho](https://open.spotify.com/artist/7tTInKzPELyaWbm4ciVSEB), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Arrocha da Treta](https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ) | 2:24 |
 
-Snapshot ID: `aYPdgAAAAACAzax/J2qRumURDpSqEQ3E`
+Snapshot ID: `aYPdgAAAAACqU9zPxaswKBJL2Q2MJykg`

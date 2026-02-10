@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-92 songs - 4 hr 50 min
+93 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 | 2024-06-07 |  |
 | [Longue vie](https://open.spotify.com/track/11c33jkE3WmwfTY7VlYG2Q) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 3:22 | 2024-06-07 |  |
 | [Love Therapy](https://open.spotify.com/track/0gIphsFucR85iYwuMcqxiv) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 5:08 | 2024-06-07 |  |
+| [Lumière blanche \(Ad Finem\)](https://open.spotify.com/track/4DN2XME2ip9fGnuwq5tbbL) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:30 | 2026-02-09 |  |
 | [M'en aller](https://open.spotify.com/track/7LlyQndi8Sebi4YRXz4nVc) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 2:46 | 2024-07-17 |  |
 | [Ma wife](https://open.spotify.com/track/3OGISTawri5xIRd4dmmN6N) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:18 | 2024-06-07 |  |
 | [Madame Courage](https://open.spotify.com/track/5HB6o7sYMJ4n1KQ4jJZrQU) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 4:37 | 2024-06-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2016. Cover: Shakira\n\n",
-  "num_followers": 69441,
+  "num_followers": 69507,
   "original_name": "Latin Hits 2016",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 212161,
-      "name": "Si Ella Quisiera",
-      "url": "https://open.spotify.com/track/7cIkMEpDhT7Vpw1FHOQqKC"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "En la Intimidad",
         "url": "https://open.spotify.com/album/7azq3plJ1x80tMRD5IzUbk"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 256183,
       "name": "En la Intimidad",
       "url": "https://open.spotify.com/track/45qvBgXbCxkmRYKNJQFm3g"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 212161,
+      "name": "Si Ella Quisiera",
+      "url": "https://open.spotify.com/track/7cIkMEpDhT7Vpw1FHOQqKC"
     },
     {
       "added_at": "2024-07-13 01:19:45",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-13 01:19:45",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
-    },
-    {
-      "added_at": "2024-07-13 01:19:45",
-      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/2xVWpgjaOYXIBaci6rRaWc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 196520,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/6TGwxVbZHpRNZmMW43SRLS"
+    },
+    {
+      "added_at": "2024-07-13 01:19:45",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
     },
     {
       "added_at": "2024-07-13 01:19:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Es tu oportunidad! <a href="https://pegao.vercel.app/">Dinos aquí qué tema te gustaría ver en PEGAO.</a><br/>Feat\. W Sound, Myke Towers, Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,496,407 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496,445 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

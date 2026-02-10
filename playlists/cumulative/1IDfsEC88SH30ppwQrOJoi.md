@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world.
 
-461 songs - 23 hr 43 min
+462 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Need Your Love](https://open.spotify.com/track/2BHvTbPBEaojVBM7nNrhVl) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Taite Imogen](https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL) | [Need Your Love](https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb) | 3:52 | 2023-09-30 | 2024-05-01 |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-12-08 | 2024-08-03 |
 | [Nervous](https://open.spotify.com/track/3pmvlaUJyRWNQvDWpKMymy) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Nervous](https://open.spotify.com/album/7vCX3NRICUJi7YpntCds1R) | 2:52 | 2023-12-08 | 2024-03-14 |
+| [Never Let You Go](https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q) | 3:01 | 2026-02-09 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 | 2023-06-13 | 2024-03-14 |
 | [New Madonna](https://open.spotify.com/track/456QkXYfOSZrxBjZzfp3dk) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [New Madonna](https://open.spotify.com/album/5r6GBoCOCrhSOGFfjDxPmr) | 2:55 | 2024-04-26 | 2024-08-03 |
 | [No Guest List](https://open.spotify.com/track/0VV3oJBcpiGey8r4LifmAc) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 2:38 | 2024-08-02 | 2025-10-15 |

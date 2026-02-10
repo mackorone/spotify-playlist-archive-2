@@ -77509,6 +77509,24 @@
     },
     {
       "album": {
+        "name": "por si volvemos a vernos",
+        "url": "https://open.spotify.com/album/2OnJ5NLeXNtClUS8QjuDfP"
+      },
+      "artists": [
+        {
+          "name": "Farga",
+          "url": "https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "por si volvemos a vernos",
+      "url": "https://open.spotify.com/track/7zfMEvobbkGhhMyqSQR0Ab"
+    },
+    {
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/4cpQRyl9xHBfWJPmAhas70"
       },

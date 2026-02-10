@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Precious Pepala on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,692 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,667 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 59 | [I Dare You](https://open.spotify.com/track/1s166KHIHNHlsmREqxQm5Y) | [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [I Dare You](https://open.spotify.com/album/26IkVnsFMO6WiWat5WYV4f) | 3:05 |
 | 60 | [Crucify Me](https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Crucify Me](https://open.spotify.com/album/0xklVGzqJfLr2w2IJeLyEB) | 2:20 |
 
-Snapshot ID: `AAAAAL6RZEc3tRgFjpldWhMc10CT0nl9`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

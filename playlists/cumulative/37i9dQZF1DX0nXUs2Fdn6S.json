@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Sooper Dooper Anthem",
+        "url": "https://open.spotify.com/album/1Dd7ZS7uEDPWDJLAt4VgQk"
+      },
+      "artists": [
+        {
+          "name": "Ashley Milred",
+          "url": "https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63406,
+      "name": "Sooper Dooper Anthem",
+      "url": "https://open.spotify.com/track/21FgFVf7fYGUlbM9GaEJWv"
+    },
+    {
+      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/6QQILo7GjRRqXlKsgoF3B1"
       },

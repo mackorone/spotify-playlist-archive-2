@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:0qc4BFxcwRFZfevTck4fOi">Fakemink</a>
 
-2,698 songs - 4 day 23 hr 9 min
+2,699 songs - 4 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [BLOW DIS STRAIN](https://open.spotify.com/track/316EmqluW1Osj2QIYY2I5c) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BLOW DIS STRAIN](https://open.spotify.com/album/23ZjFYiiDizpxwmirTTbW9) | 2:03 | 2023-08-04 | 2023-08-19 |
 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2022-12-16 | 2023-02-11 |
 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 | 2025-06-27 | 2025-12-20 |
+| [Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:25 | 2026-02-09 |  |
 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 | 2023-12-29 | 2024-04-19 |
 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 | 2023-12-22 | 2024-08-31 |
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-08-30 | 2024-10-05 |
@@ -830,7 +831,7 @@
 | [Flush Em](https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Flush Em](https://open.spotify.com/album/3BiLSwYY5MYLOhpyzOWPqY) | 3:16 | 2024-09-20 | 2024-09-28 |
 | [Flyest in The City \(feat\. A Boogie Wit da Hoodie & Jeremih\)](https://open.spotify.com/track/3LzcF35kaoR15JSBJflDZ7) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [C3](https://open.spotify.com/album/3IyUsMKChk9h8J9NeZYWl0) | 3:51 | 2023-07-14 | 2023-09-23 |
 | [FMJ \(feat\. Che\)](https://open.spotify.com/track/4iLsg1kZif1DGcdywxEP3M) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1), [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [psykotic](https://open.spotify.com/album/1jlNLn16ksXKSVGSFGCeDQ) | 3:09 | 2025-10-17 | 2025-10-25 |
-| [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 | 2026-01-30 |  |
+| [fml .](https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:40 | 2026-01-30 | 2026-02-10 |
 | [FNBM \(feat\. NLE Choppa\)](https://open.spotify.com/track/4emujwqz4VZGMdcd32NAyK) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [FNBM \(feat\. NLE Choppa\)](https://open.spotify.com/album/6PKpQGvFAz8iLgJnlY09X4) | 2:33 | 2024-09-20 | 2024-10-26 |
 | [FOLD](https://open.spotify.com/track/2ShT0ovaAWIReCxm7RPeBm) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [FOLD](https://open.spotify.com/album/0PpsCaf0NOyhpYRAVZrMHl) | 2:37 | 2023-09-15 | 2023-11-04 |
 | [FOMV](https://open.spotify.com/track/4G5wmfVLt31zCJwLFSVKOp) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [FOMV](https://open.spotify.com/album/3tPbnB3oONoslFV9uxSX3s) | 2:12 | 2023-12-08 | 2024-02-10 |

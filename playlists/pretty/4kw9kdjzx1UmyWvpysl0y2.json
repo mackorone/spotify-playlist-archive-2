@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124353,
+  "num_followers": 124349,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVGDqu13OGm1KJ7hYHrgSfdfKqLwi8",
+  "snapshot_id": "AAAVGQsboK5tZq4QPqMZe0OLhkJau1dp",
   "tracks": [
+    {
+      "added_at": "2026-02-09 15:41:00",
+      "album": {
+        "name": "the unicorn who believed in love",
+        "url": "https://open.spotify.com/album/4Ji0jYiDG2pSI78Fuk8VWh"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 150379,
+      "name": "ur such a JERK!",
+      "url": "https://open.spotify.com/track/1uKVaRz9nJVcNa9dCcW6js"
+    },
     {
       "added_at": "2026-02-06 15:47:05",
       "album": {

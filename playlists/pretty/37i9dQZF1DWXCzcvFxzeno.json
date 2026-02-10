@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry + Shl\u00f8mo",
-  "num_followers": 469820,
+  "num_followers": 470127,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,18 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "WTF?",
-        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
+        "name": "Crowd Operator",
+        "url": "https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo"
       },
       "artists": [
         {
           "name": "Restricted",
           "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
-        },
-        {
-          "name": "Anderex",
-          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 222574,
-      "name": "WTF?",
-      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
+      "duration_ms": 225000,
+      "name": "Crowd Operator",
+      "url": "https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -675,18 +671,22 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Crowd Operator",
-        "url": "https://open.spotify.com/album/4bZgI0aJv7TCz0nMpX0Tbo"
+        "name": "WTF?",
+        "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
       },
       "artists": [
         {
           "name": "Restricted",
           "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Crowd Operator",
-      "url": "https://open.spotify.com/track/5I11zu7bajz0ctX3vYVML0"
+      "duration_ms": 222574,
+      "name": "WTF?",
+      "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "Hard Is Our Way Of Life",
+        "url": "https://open.spotify.com/album/4DbaJQEEWQeWVm7Bmgq7D4"
+      },
+      "artists": [
+        {
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Hard Is Our Way Of Life",
+      "url": "https://open.spotify.com/track/2NL5rY2hCEwMW8mEIvzoGJ"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "Havana Bounce",
         "url": "https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w"
       },
@@ -1135,22 +1155,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "EUROCLUB",
         "url": "https://open.spotify.com/album/3dErNe80z63631S7obJfB5"
       },
@@ -1167,6 +1171,22 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "Omnes EP",
         "url": "https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 289472,
       "name": "All In This - Original mix",
       "url": "https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "Hard Is Our Way Of Life",
-        "url": "https://open.spotify.com/album/4DbaJQEEWQeWVm7Bmgq7D4"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "Chaos Project",
-          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
-        }
-      ],
-      "duration_ms": 206545,
-      "name": "Hard Is Our Way Of Life",
-      "url": "https://open.spotify.com/track/2NL5rY2hCEwMW8mEIvzoGJ"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Alte Keks",
         "url": "https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 178964,
       "name": "Alte Keks",
       "url": "https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
+        "name": "Touch It (feat. Jazmine Johnson)",
+        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "duration_ms": 142454,
+      "name": "Touch It (feat. Jazmine Johnson)",
+      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
         "name": "Give Me Acid",
         "url": "https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ"
       },
@@ -1463,42 +1483,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Touch It (feat. Jazmine Johnson)",
-        "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
-        }
-      ],
-      "duration_ms": 142454,
-      "name": "Touch It (feat. Jazmine Johnson)",
-      "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
-      },
-      "artists": [
-        {
-          "name": "Luciid",
-          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
-        }
-      ],
-      "duration_ms": 294207,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "SexyBack (TechnoBack)",
         "url": "https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
+      },
+      "artists": [
+        {
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
+        }
+      ],
+      "duration_ms": 294207,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Fury EP",
-        "url": "https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fury",
-      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
-    },
-    {
-      "added_at": "2026-02-03 09:20:55",
-      "album": {
         "name": "Mystical Energy EP",
         "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
+    },
+    {
+      "added_at": "2026-02-03 09:20:55",
+      "album": {
+        "name": "Ashes (VIP)",
+        "url": "https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Ashes - VIP",
+      "url": "https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV"
     },
     {
       "added_at": "2026-02-03 09:20:55",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2026-02-03 09:20:55",
       "album": {
-        "name": "Ashes (VIP)",
-        "url": "https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29"
+        "name": "Fury EP",
+        "url": "https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E"
       },
       "artists": [
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Ashes - VIP",
-      "url": "https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV"
+      "duration_ms": 240000,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi"
     },
     {
       "added_at": "2026-02-03 09:20:55",

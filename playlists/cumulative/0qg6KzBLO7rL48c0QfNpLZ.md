@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,366 songs - 2 day 12 hr 19 min
+1,368 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Find My Way To You](https://open.spotify.com/track/1kKhd9tL8oPAPatishvp7Z) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Find My Way To You](https://open.spotify.com/album/5C6iBu6TprId84XSKolqy4) | 2:54 | 2025-05-24 | 2025-08-02 |
 | [Find You](https://open.spotify.com/track/4pupB5o3t5oFMqPpZxhh5f) | [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Find You](https://open.spotify.com/album/67Rpd9k40WvlveiUOG3Yjp) | 2:23 | 2025-01-24 | 2025-03-22 |
 | [Fire](https://open.spotify.com/track/5VWmalHBOhuSonWy5SGNQX) | [Juron Cole](https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng), [idyllic](https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL) | [Fire](https://open.spotify.com/album/2QQhpqoBrt1liMJwYxCHpD) | 2:05 | 2025-08-28 | 2026-02-09 |
+| [Fire In Her Eyes](https://open.spotify.com/track/748VBDgvTskcuvozGHLJcM) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Fire In Her Eyes](https://open.spotify.com/album/2Ev5d8BbdYKYkvAyLjN9zl) | 1:56 | 2026-02-09 |  |
 | [Fire In You](https://open.spotify.com/track/6GpncNJ5M1OgSEKjbo02gY) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [Fire In You](https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm) | 2:15 | 2025-01-03 | 2026-01-03 |
 | [Floating](https://open.spotify.com/track/557wRaFFKogsJ42cuktzqu) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Floating](https://open.spotify.com/album/1wbunGgTE31NEdxboGCXUI) | 2:36 | 2024-04-05 | 2025-02-05 |
 | [Flora](https://open.spotify.com/track/6bsqAKUCs6GU9MGGYDG0jr) | [aural](https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY) | [Flora](https://open.spotify.com/album/2Uof02VZdreIpcDYWK6MS6) | 2:26 | 2024-06-15 | 2024-08-10 |
@@ -1209,6 +1210,7 @@
 | [The Way](https://open.spotify.com/track/5FNALpsFw15M8reZbqzVzi) | [TMPST](https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI), [Maynørr](https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [The Way](https://open.spotify.com/album/7m7s5EX8lHc8BEUlMBkGR5) | 2:55 | 2025-03-21 | 2025-04-09 |
 | [The Way I Feel](https://open.spotify.com/track/1TORMWybnBpQQPikp0iNIm) | [Ten Pictures](https://open.spotify.com/artist/56JblCBPFFJbOhsHoPrJ4e) | [The Way I Feel](https://open.spotify.com/album/6K7exqhDh7ydCvFjq1ldI6) | 2:15 | 2025-07-11 | 2025-08-24 |
 | [The Way It Goes](https://open.spotify.com/track/59s5URqAqfW3zbXwt0BKH2) | [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [The Way It Goes](https://open.spotify.com/album/2YDpeYuc4U0oz9nMPPuhIu) | 1:57 | 2024-11-29 | 2025-03-29 |
+| [The World Feels True](https://open.spotify.com/track/3ir4gIfgHfdOkEuZepdRev) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [The World Feels True](https://open.spotify.com/album/05odgw6F8Yw93f7Nb250VP) | 2:42 | 2026-02-09 |  |
 | [There For You](https://open.spotify.com/track/7Ib2eZ6V8sSEswFwzhrj1b) | [S3S](https://open.spotify.com/artist/0av9yMRjEnYSRdv3gKLxpq) | [There For You](https://open.spotify.com/album/5Pb7ECyY4QWBHDDDBNl1m7) | 2:21 | 2024-03-29 | 2025-03-08 |
 | [There For You](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb) | [There For You](https://open.spotify.com/album/7m7TiLJUQeSys6WE9rwcRI) | 2:54 | 2026-01-09 | 2026-02-07 |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2023-12-04 | 2024-09-15 |

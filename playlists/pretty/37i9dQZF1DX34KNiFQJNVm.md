@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Papatinho com Anitta e DJ Biel do Furduncinho, Mayara & Maraisa, Liniker, Calvin Harris, Clayton & Romário, BaianaSystem e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,252,119 likes - 95 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,252,099 likes - 95 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

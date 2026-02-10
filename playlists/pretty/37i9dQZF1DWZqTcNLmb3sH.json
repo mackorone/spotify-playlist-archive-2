@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Mark",
-  "num_followers": 67474,
+  "num_followers": 67487,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/wXr3TlKKauRqQjlRh66YnDznM",
+  "snapshot_id": "AAAAAET4bq0Yd1nxqCvflsPXjT1jsftC",
   "tracks": [
     {
       "added_at": "2026-01-14 10:57:55",
@@ -107,6 +107,106 @@
       "duration_ms": 265716,
       "name": "Ellinda Bande Neenu (From \"Katle\")",
       "url": "https://open.spotify.com/track/1PgXIN7REIlNzO32ZNlNrC"
+    },
+    {
+      "added_at": "2026-02-09 10:45:55",
+      "album": {
+        "name": "Bayakegalu Beruridaga",
+        "url": "https://open.spotify.com/album/3QpZsnSpVggPz0RbpImrFd"
+      },
+      "artists": [
+        {
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        },
+        {
+          "name": "Karthik Venkatesh",
+          "url": "https://open.spotify.com/artist/4eMDiDZnpRf8NhkIYjo2VN"
+        },
+        {
+          "name": "Yatish John Kumar",
+          "url": "https://open.spotify.com/artist/1yQN8nCulZtOxgOGzHnqND"
+        },
+        {
+          "name": "Akarsh Aditya",
+          "url": "https://open.spotify.com/artist/7AGh6O4t1N9IbGLxx56jMo"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Modala Notake",
+      "url": "https://open.spotify.com/track/4qfP55nlXDiNJtQiELq4Xr"
+    },
+    {
+      "added_at": "2026-02-09 10:58:27",
+      "album": {
+        "name": "Tata Tata (From \"Balaramana Dinagalu\")",
+        "url": "https://open.spotify.com/album/5BHrrV7SoVhniXYT7LZ5v3"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 184079,
+      "name": "Tata Tata (From \"Balaramana Dinagalu\")",
+      "url": "https://open.spotify.com/track/1bA8IUvgOIUo4PKeLdBIJI"
+    },
+    {
+      "added_at": "2026-02-09 10:51:40",
+      "album": {
+        "name": "Love You Muddu",
+        "url": "https://open.spotify.com/album/3dSj599UyalidurfGuJkKI"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "Arav Rishik",
+          "url": "https://open.spotify.com/artist/2pptUL6I2TefhaXsMGwTQr"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 294570,
+      "name": "Barutide Aluvu",
+      "url": "https://open.spotify.com/track/0n4X57rsBGR9jHxIhKQXai"
+    },
+    {
+      "added_at": "2026-02-09 10:43:32",
+      "album": {
+        "name": "Sukhibhavaa",
+        "url": "https://open.spotify.com/album/74JFWSJsVAiw7mcodYdq4R"
+      },
+      "artists": [
+        {
+          "name": "Sharan",
+          "url": "https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq"
+        },
+        {
+          "name": "Viyaan",
+          "url": "https://open.spotify.com/artist/2fC7rS9qqzUSbjsFBCPqWP"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Beda Macha Beda",
+      "url": "https://open.spotify.com/track/0NEV1R1ovmn3F3DLt5zyAj"
     },
     {
       "added_at": "2026-02-06 13:51:20",
@@ -1613,74 +1713,6 @@
       "url": "https://open.spotify.com/track/6caIpgTk0IghWvmd9m1Rvh"
     },
     {
-      "added_at": "2025-12-18 06:44:13",
-      "album": {
-        "name": "Ondhe Maathali Helodaadare (From \"PYAAR\")",
-        "url": "https://open.spotify.com/album/5rtCD78ZHJjsQmDBCQW0Zd"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Palani D Senapathy",
-          "url": "https://open.spotify.com/artist/1sVRtYm6jaV5W4FXPVZnP3"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 304062,
-      "name": "Ondhe Maathali Helodaadare (From \"PYAAR\")",
-      "url": "https://open.spotify.com/track/5wA5KpnG90qW2ndXjzgRXK"
-    },
-    {
-      "added_at": "2025-12-18 06:37:12",
-      "album": {
-        "name": "Aadhe Neenu Dhushyantha (From \"Katle\")",
-        "url": "https://open.spotify.com/album/3d0vm2RkeQSmp6uclEHmKN"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        },
-        {
-          "name": "V Sridhar Sambhram",
-          "url": "https://open.spotify.com/artist/4gWwXX46KPq97oov9NfYMC"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 234423,
-      "name": "Aadhe Neenu Dhushyantha (From \"Katle\")",
-      "url": "https://open.spotify.com/track/0yJs9Ymsq9nH3IPqNADsW0"
-    },
-    {
-      "added_at": "2025-12-18 06:36:42",
-      "album": {
-        "name": "Galaate (From \"Congratulations Brother\")",
-        "url": "https://open.spotify.com/album/3nI9Xx4eE1R0D9cT6MMABc"
-      },
-      "artists": [
-        {
-          "name": "Rakshith Nag",
-          "url": "https://open.spotify.com/artist/0tZ66z4SLB7DVoIL8nqZSO"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "Galaate (From \"Congratulations Brother\")",
-      "url": "https://open.spotify.com/track/6qlh9Txhlkoc9Nh3TxcdEH"
-    },
-    {
       "added_at": "2025-12-18 06:32:58",
       "album": {
         "name": "Ista Ade (From \"Chowkidar\")",
@@ -1703,30 +1735,6 @@
       "duration_ms": 267417,
       "name": "Ista Ade (From \"Chowkidar\")",
       "url": "https://open.spotify.com/track/1OIKe5qVw5loMBoW0VbVhS"
-    },
-    {
-      "added_at": "2025-12-18 06:36:09",
-      "album": {
-        "name": "Vrusshabha (KANNADA)",
-        "url": "https://open.spotify.com/album/6mSPZhIGLVG2ZU1XKEpn3d"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        },
-        {
-          "name": "Kaavir",
-          "url": "https://open.spotify.com/artist/1JhpivscZnsqobXp6HRWLx"
-        }
-      ],
-      "duration_ms": 229205,
-      "name": "Om Namah Shivaya",
-      "url": "https://open.spotify.com/track/4k9g9lqWtcV6k3bHkysBeM"
     },
     {
       "added_at": "2025-12-15 05:16:36",

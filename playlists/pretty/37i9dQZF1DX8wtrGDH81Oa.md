@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,146 likes - 224 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,287 likes - 224 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 223 | [Poolside Bliss](https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Poolside Bliss](https://open.spotify.com/album/3j7LhV4pQJj4vtaqhfkQCK) | 3:33 |
 | 224 | [Alure](https://open.spotify.com/track/0zAHNEIq9KkXLh3dIJ8pgy) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Alure](https://open.spotify.com/album/4wl6APQXBR7ac8IWIkR7Bn) | 2:53 |
 
-Snapshot ID: `AAAAAHKbP/jj4qSfKSy/IH+GmkiAUfM9`
+Snapshot ID: `AAAAABsk49Q4NkIwmSc1nY1b9jDfIJNY`

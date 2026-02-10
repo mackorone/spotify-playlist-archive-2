@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,033 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Knock Knock](https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker: Folie à Deux \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB) | 1:38 |
 | 50 | [The Sound of Snow](https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Eyvind Kang](https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV), [David Thor](https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Amedeo](https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT), [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Anthony Burr](https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU) | [Sería II](https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz) | 3:58 |
 
-Snapshot ID: `aYPdgAAAAAA2VtrMfRiQ7ivKaz/W3DNS`
+Snapshot ID: `aYPdgAAAAABqALn02Q5dcTgU5viV/Tr+`

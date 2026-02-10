@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,842 likes - 99 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,873 likes - 99 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beethoven's Piano Sonata No\. 8, Pathetique](https://open.spotify.com/track/7hdbfMdjsdclkZONmT7lD6) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Voice](https://open.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu) | 5:13 |
 | 2 | [Clair de Lune](https://open.spotify.com/track/7pa1EJv9TrLtrx1ogsGtPL) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Epic](https://open.spotify.com/album/4XpN8C7ulShkadw4dGJuPy) | 11:07 |
 | 3 | [The Inn Beneath the Starry Sky \- From “The Neverending Dream”](https://open.spotify.com/track/0xgDz6kiqn3Y0gd0zzSz9N) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8) | [The Inn Beneath the Starry Sky \(From “The Neverending Dream”\)](https://open.spotify.com/album/1OwCN32jbGiridEzLAd9zB) | 3:12 |
-| 4 | [Olivieri: Tornerai \(J'attendrai\)](https://open.spotify.com/track/400NQykSDo0hWSas1IEzC6) | [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Pianosong](https://open.spotify.com/album/5LiBVnao9DWpxzzzToHNYx) | 3:50 |
+| 4 | [Olivieri: Tornerai \(J'attendrai\)](https://open.spotify.com/track/400NQykSDo0hWSas1IEzC6) | [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG), [Pierre Dumoussaud](https://open.spotify.com/artist/1qkUNRzKSPvScNgIu9hVPN), [Orchestre National Bordeaux Aquitaine](https://open.spotify.com/artist/3pCPus3pU3880L4RVwppF9) | [Pianosong](https://open.spotify.com/album/5LiBVnao9DWpxzzzToHNYx) | 3:50 |
 | 5 | [Autumn Glow](https://open.spotify.com/track/3ryQJmDz1Ni3z09i62LnRW) | [Brian Dickinson](https://open.spotify.com/artist/0mgC0hGoO4Jdd5SkHpSklG), [Penderecki String Quartet](https://open.spotify.com/artist/26UZ3kgvb33yqfdbh3xV4J), [Kelly Jefferson](https://open.spotify.com/artist/5RVwfGgHvUsK7QqR4wogkN), [Jim Vivian](https://open.spotify.com/artist/6cmoYqjh9eAKOxyc55iBk1) | [Autumn Glow](https://open.spotify.com/album/2wVjJ4kgWYd2BcZys8yLXD) | 8:26 |
 | 6 | [When I Fall in Love \(Arr\. Evans / Transcr\. Trifonov for Piano\)](https://open.spotify.com/track/2lLthkA5PPN11uar9McseV) | [Victor Young](https://open.spotify.com/artist/3HqN7Sq7rmpOEI9UV5ERuz), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Young: When I Fall in Love \(Arr\. Evans / Transcr\. Trifonov for Piano\)](https://open.spotify.com/album/5YCR5u6aiAiVyhiY0Wgn2t) | 2:59 |
 | 7 | [Gnossienne No\. 1](https://open.spotify.com/track/5mjFeu4fGH6RgpklX4vAAs) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 6:56 |

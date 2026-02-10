@@ -1071,6 +1071,42 @@
     },
     {
       "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218344,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217429,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
+    },
+    {
+      "album": {
         "name": "Hero of My Life",
         "url": "https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR"
       },
@@ -1122,6 +1158,24 @@
       "duration_ms": 228048,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J"
+    },
+    {
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE"
+      },
+      "artists": [
+        {
+          "name": "Jenine",
+          "url": "https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Hover",
+      "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
     },
     {
       "album": {
@@ -1392,6 +1446,24 @@
       "duration_ms": 252586,
       "name": "Last String",
       "url": "https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI"
+    },
+    {
+      "album": {
+        "name": "Leaving For The Summer",
+        "url": "https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232731,
+      "name": "Leaving For The Summer",
+      "url": "https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX"
     },
     {
       "album": {
@@ -1962,6 +2034,24 @@
       "duration_ms": 158571,
       "name": "Pumping on Your Stereo",
       "url": "https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX"
+    },
+    {
+      "album": {
+        "name": "Purple Wings",
+        "url": "https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52"
+      },
+      "artists": [
+        {
+          "name": "Golden Greyline",
+          "url": "https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341743,
+      "name": "Purple Wings",
+      "url": "https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC"
     },
     {
       "album": {
@@ -2592,6 +2682,24 @@
       "duration_ms": 232000,
       "name": "Una nana",
       "url": "https://open.spotify.com/track/6HbrzgWazWzGxPkXtr11cC"
+    },
+    {
+      "album": {
+        "name": "We're Not Lovers",
+        "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Butler",
+          "url": "https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167402,
+      "name": "We're Not Lovers",
+      "url": "https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk"
     },
     {
       "album": {

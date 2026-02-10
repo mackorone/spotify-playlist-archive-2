@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ramma + Cindy Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,885 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,761 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [Como en el Idilio](https://open.spotify.com/track/3a4qpvbWmBF82u72x3nBOZ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Como en el Idilio](https://open.spotify.com/album/41JrkRjJsRo8EgXELTlhsn) | 4:27 |
 | 9 | [MUCHO CON DEMASIAO'](https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [MUCHO CON DEMASIAO'](https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu) | 2:19 |
 | 10 | [COOK](https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [COOK](https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP) | 2:50 |
-| 11 | [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 4:29 |
+| 11 | [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 3:38 |
 | 12 | [Barranquilla Está De Moda](https://open.spotify.com/track/168R1Z55BafUjCwjJk3oHT) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Barranquilla Está De Moda](https://open.spotify.com/album/4aKBp8ipnnJk25s5QgIcY0) | 3:47 |
 | 13 | [Te Dedico](https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Te Dedico](https://open.spotify.com/album/6hG7Y2YydErFBY0jsg3sY1) | 3:45 |
 | 14 | [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 |

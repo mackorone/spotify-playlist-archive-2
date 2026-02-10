@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,463 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,566 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 80 | [Mi Mejor Inspiración](https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 5:07 |
 | 81 | [Anochece / Manifiesto](https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 13:10 |
 | 82 | [No Tengo Nada](https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [No Tengo Nada](https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90) | 3:37 |
-| 83 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
-| 84 | [Mala Suerta con el 13 \(feat\. La Mala Rodríguez\)](https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Residente o Visitante](https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH) | 4:30 |
+| 83 | [Mala Suerta con el 13 \(feat\. La Mala Rodríguez\)](https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Residente o Visitante](https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH) | 4:30 |
+| 84 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
 | 85 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
 | 86 | [Los Zurdos Mueren Antes](https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Almanauta](https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV) | 7:36 |
 | 87 | [Pasame la Yesca](https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Lo Necesario](https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY) | 3:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 95 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 96 | [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 |
 | 97 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 |
-| 98 | [Suelo soñar](https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi) | [Zenit](https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2) | [Producto Infinito Version 0.4](https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME) | 4:58 |
-| 99 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
+| 98 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
+| 99 | [Suelo soñar](https://open.spotify.com/track/3bUZA8syssxjVdvJDExkRi) | [Zenit](https://open.spotify.com/artist/7lN4AnSBcgqEyqVs5reCy2) | [Producto Infinito Version 0.4](https://open.spotify.com/album/0MoNYk7bMv3Vwt8VFyssME) | 4:58 |
 | 100 | [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 |
 
 Snapshot ID: `AAAAAAbs8JYerE9Jh35YB04viBfXyDi9`

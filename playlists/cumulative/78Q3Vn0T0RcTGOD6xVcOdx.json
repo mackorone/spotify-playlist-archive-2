@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/6L2AarSy8Spgw3TejARFBN"
+      },
+      "artists": [
+        {
+          "name": "Chicoselfie",
+          "url": "https://open.spotify.com/artist/2jiH07cfJhSjf95VGyJsrR"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1fCFjHamH9I3w9Qd32vjW3"
+    },
+    {
+      "album": {
         "name": "Fuera de Control",
         "url": "https://open.spotify.com/album/0NPpGRge0wJIhrnYfHSRtb"
       },

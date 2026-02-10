@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 
 > 👯‍♀️ Sanremo queens unite 👯‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,737 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,741 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come saprei](https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Come Thelma E Louise](https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj) | 5:00 |
-| 2 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 |
+| 1 | [Sinceramente](https://open.spotify.com/track/2O7jON0xYyTaSkWj9wZXCJ) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Sinceramente](https://open.spotify.com/album/6Ftqr86cfGFu8mQ0Vt2jse) | 3:35 |
+| 2 | [Come saprei](https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Come Thelma E Louise](https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj) | 5:00 |
 | 3 | [Maledetta primavera](https://open.spotify.com/track/3U4yZniE7s9tDA037nUG2r) | [Loretta Goggi](https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO) | [I Grandi Successi: Loretta Goggi](https://open.spotify.com/album/0kxiJm9eISHVZ9LW8A3uNW) | 4:13 |
 | 4 | [Sono solo parole](https://open.spotify.com/track/4SjRtuCDZvO68N2agNkahv) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [RossoNoemi 2012 Edition](https://open.spotify.com/album/0pYNUeFVkFgAemaKmtKcuL) | 3:37 |
 | 5 | [La notte](https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Amami](https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 | 64 | [Zingara](https://open.spotify.com/track/4kzOYNpDNmkSGs9w6Z7dVB) | [Iva Zanicchi](https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9) | [Italian Classics: Iva Zanicchi Collection, Vol\. 1](https://open.spotify.com/album/5wJwNAENAfgsAecab15bIh) | 2:33 |
 | 65 | [Chi Non Lavora Non Fa L'Amore \- Remastered 2009](https://open.spotify.com/track/5QNEUi7oFTKcOrEMzLA9uV) | [Claudia Mori](https://open.spotify.com/artist/0c5nXKT37cYsbaXiw5mFVk) | [Claudiamoricollection](https://open.spotify.com/album/4Gt6wfxjDhC6W1eu21hunV) | 2:58 |
 
-Snapshot ID: `AAAAAO/l8A+mpOdVMEOBCmfHYzHoiDqR`
+Snapshot ID: `AAAAABqr4vhArjOAXVafAbRW8f8wQqw0`

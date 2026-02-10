@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 19537,
+  "num_followers": 19545,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-29 08:29:42",
       "album": {
-        "name": "Tell me you love me",
-        "url": "https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Tell me you love me",
-      "url": "https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ"
-    },
-    {
-      "added_at": "2026-01-29 08:29:42",
-      "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-01-29 08:29:42",
+      "album": {
+        "name": "Tell me you love me",
+        "url": "https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Tell me you love me",
+      "url": "https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ"
     },
     {
       "added_at": "2026-01-29 08:29:42",

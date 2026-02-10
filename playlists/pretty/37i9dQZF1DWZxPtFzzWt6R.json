@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 109195,
+  "num_followers": 109210,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-02-06 14:30:37",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2026-02-06 14:30:37",
+      "album": {
         "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
         "url": "https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 274261,
       "name": "Voc\u00ea Vai Sobreviver (Ao Vivo)",
       "url": "https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9"
-    },
-    {
-      "added_at": "2026-02-06 14:30:37",
-      "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2026-02-06 14:30:37",

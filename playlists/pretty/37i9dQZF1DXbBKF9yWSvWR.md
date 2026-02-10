@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Naaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,580 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,581 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cold](https://open.spotify.com/track/2mvK0PyeLd2KXy13Wq7QTE) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Cold](https://open.spotify.com/album/0esHbIarakR9uJcZ1UetOk) | 3:54 |
 | 2 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 |
 | 3 | [Didn't I](https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Didn't I](https://open.spotify.com/album/3Mkk2I7FdtnPRIczgmA1wF) | 3:36 |
-| 4 | [The Void \(The Room\)](https://open.spotify.com/track/2n4CiuSkOp0DMMG0t32Nki) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [The Void \(The Room\)](https://open.spotify.com/album/36yBhLSyBoMIvUFYaHPuZd) | 4:02 |
-| 5 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
+| 4 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 |
+| 5 | [The Void \(The Room\)](https://open.spotify.com/track/2n4CiuSkOp0DMMG0t32Nki) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [The Void \(The Room\)](https://open.spotify.com/album/36yBhLSyBoMIvUFYaHPuZd) | 4:02 |
 | 6 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 |
 | 7 | [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 |
 | 8 | [Of Er Nog Iets Terugkaatst](https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Maybe When I'm Ready](https://open.spotify.com/track/7obdksarukkPPOZWnKpkUs) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Maybe When I'm Ready](https://open.spotify.com/album/0PgMO4z0O9sBiSRMdpr6g8) | 3:41 |
 | 100 | [Song by the sea](https://open.spotify.com/track/3WTqcDHVgFgFygCb5FqMUY) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [Song by the sea](https://open.spotify.com/album/6uB3pctEPQZjQKdBp5cBCX) | 3:18 |
 
-Snapshot ID: `AAAAAO4hHaAcDjCLOqDmoubKZHU6qYRR`
+Snapshot ID: `AAAAAEFt3NLZAT+1dJgo2qLcJPazwyJH`

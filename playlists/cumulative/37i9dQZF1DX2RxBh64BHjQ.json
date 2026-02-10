@@ -6739,6 +6739,24 @@
     },
     {
       "album": {
+        "name": "The Boy who cried Terrified .",
+        "url": "https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145374,
+      "name": "Blow The Speaker .",
+      "url": "https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18"
+    },
+    {
+      "album": {
         "name": "Blue Devils",
         "url": "https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw"
       },
@@ -16684,7 +16702,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 160870,
       "name": "fml .",
       "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"

@@ -4896,6 +4896,10 @@
         {
           "name": "Saikapian Manmohan Singh",
           "url": "https://open.spotify.com/artist/4VNvaHBrdMNiIDADDpDWvl"
+        },
+        {
+          "name": "Arish",
+          "url": "https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX"
         }
       ],
       "date_added": "2026-02-06",
@@ -9282,6 +9286,32 @@
       "duration_ms": 212330,
       "name": "Noorie (Two Sides)",
       "url": "https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz"
+    },
+    {
+      "album": {
+        "name": "O Maayi Ri (From \"The Kerala Story 2 Goes Beyond\") - Single",
+        "url": "https://open.spotify.com/album/6ny587paqj2pFADfDpA7hp"
+      },
+      "artists": [
+        {
+          "name": "Mannan Shaah",
+          "url": "https://open.spotify.com/artist/7N2dclX5B3iviso9v9TlUT"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275416,
+      "name": "O Maayi Ri (From \"The Kerala Story 2 Goes Beyond\")",
+      "url": "https://open.spotify.com/track/5PirzDD3bwx7dFD64eg53n"
     },
     {
       "album": {
@@ -13742,7 +13772,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 253833,
       "name": "Uyi Amma - From \"Azaad\"",
       "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"

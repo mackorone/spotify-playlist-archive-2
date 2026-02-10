@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten",
-  "num_followers": 110485,
+  "num_followers": 110505,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
         "name": "Lust In Lagos",
         "url": "https://open.spotify.com/album/1p64taGG5alX0Um08kFN1N"
       },
@@ -779,6 +795,22 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
+        "name": "I Wish I Had More Time",
+        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
+      },
+      "artists": [
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "duration_ms": 189999,
+      "name": "I Wish I Had More Time",
+      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
         "name": "Novacaine",
         "url": "https://open.spotify.com/album/1Xx313px4lu947MnygS9ej"
       },
@@ -795,22 +827,6 @@
       "duration_ms": 192000,
       "name": "Novacaine",
       "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
-        "name": "I Wish I Had More Time",
-        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 189999,
-      "name": "I Wish I Had More Time",
-      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -875,22 +891,6 @@
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
-        "name": "Dumb",
-        "url": "https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Cavy In The City",
-        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 151529,
-      "name": "General",
-      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "444PLAY",
         "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 154960,
       "name": "i2SABI",
       "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Cavy In The City",
+        "url": "https://open.spotify.com/album/1RMuLxHOH6unGqvqGlzvRa"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 151529,
+      "name": "General",
+      "url": "https://open.spotify.com/track/0aG4heCOR0XzZqU7HmDLjt"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk"
+        "name": "AYAP",
+        "url": "https://open.spotify.com/album/61hRMpzz0VWqk4gJIgngcK"
       },
       "artists": [
         {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+          "name": "SPL Daddy",
+          "url": "https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN"
         },
         {
-          "name": "Allan Harvey",
-          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
         }
       ],
-      "duration_ms": 155335,
-      "name": "Wicked",
-      "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
+      "duration_ms": 169541,
+      "name": "AYAP",
+      "url": "https://open.spotify.com/track/75LVCF2Qw6LTO0CWZTYcbl"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1219,6 +1219,26 @@
       "duration_ms": 237683,
       "name": "Economy",
       "url": "https://open.spotify.com/track/4m7JyFCJMDxbkobBjwFfLk"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/3vvnRjJyZZlyl6FcqZsNMk"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Allan Harvey",
+          "url": "https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt"
+        }
+      ],
+      "duration_ms": 155335,
+      "name": "Wicked",
+      "url": "https://open.spotify.com/track/34BRP7EOk9XtnfpQXoVePk"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1283,26 +1303,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Yaa Abrefi",
-        "url": "https://open.spotify.com/album/1zDyM2RYqhIcQmgVhN7uab"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Ablekuma Nana Lace",
-          "url": "https://open.spotify.com/artist/3h3h0wq7sfdJTbvfUchkxC"
-        }
-      ],
-      "duration_ms": 170738,
-      "name": "Yaa Abrefi",
-      "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Lock In",
         "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
       },
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ"
+        "name": "Yaa Abrefi",
+        "url": "https://open.spotify.com/album/1zDyM2RYqhIcQmgVhN7uab"
       },
       "artists": [
         {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Ablekuma Nana Lace",
+          "url": "https://open.spotify.com/artist/3h3h0wq7sfdJTbvfUchkxC"
         }
       ],
-      "duration_ms": 152568,
-      "name": "Fighting",
-      "url": "https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc"
+      "duration_ms": 170738,
+      "name": "Yaa Abrefi",
+      "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1355,22 +1359,18 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "AYAP",
-        "url": "https://open.spotify.com/album/61hRMpzz0VWqk4gJIgngcK"
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ"
       },
       "artists": [
         {
-          "name": "SPL Daddy",
-          "url": "https://open.spotify.com/artist/7wkiUZstpMbAfSzWebQDPN"
-        },
-        {
-          "name": "Dan Drizzy",
-          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
         }
       ],
-      "duration_ms": 169541,
-      "name": "AYAP",
-      "url": "https://open.spotify.com/track/75LVCF2Qw6LTO0CWZTYcbl"
+      "duration_ms": 152568,
+      "name": "Fighting",
+      "url": "https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc"
     },
     {
       "added_at": "2026-02-06 00:01:18",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-06 00:01:18",
       "album": {
-        "name": "Catch Me If U Can",
-        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
-      },
-      "artists": [
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 202812,
-      "name": "Catch Me If U Can",
-      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
-    },
-    {
-      "added_at": "2026-02-06 00:01:18",
-      "album": {
         "name": "Shigege",
         "url": "https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 155744,
       "name": "Shigege",
       "url": "https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu"
+    },
+    {
+      "added_at": "2026-02-06 00:01:18",
+      "album": {
+        "name": "Catch Me If U Can",
+        "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 202812,
+      "name": "Catch Me If U Can",
+      "url": "https://open.spotify.com/track/2qVE04XUbgnn76GmUnz3Ix"
     },
     {
       "added_at": "2026-02-06 00:01:18",

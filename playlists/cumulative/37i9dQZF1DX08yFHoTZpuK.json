@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Attracted to you",
+        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
+      },
+      "artists": [
+        {
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        },
+        {
+          "name": "AFAMoo",
+          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
+        },
+        {
+          "name": "Lily June",
+          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162711,
+      "name": "Attracted to you",
+      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
+    },
+    {
+      "album": {
         "name": "Baiu mirage (Risa Taniguchi Remix)",
         "url": "https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB"
       },
@@ -54,6 +80,28 @@
       "duration_ms": 326999,
       "name": "Beautiful Moment - Original Floor Mix",
       "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
+    },
+    {
+      "album": {
+        "name": "Big Love (feat. Liset Alea)",
+        "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
+      },
+      "artists": [
+        {
+          "name": "Snowk",
+          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+        },
+        {
+          "name": "Liset Alea",
+          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293170,
+      "name": "Big Love (feat. Liset Alea)",
+      "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
     },
     {
       "album": {
@@ -322,7 +370,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 243626,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
@@ -694,7 +742,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
@@ -1006,7 +1054,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
@@ -1126,6 +1174,28 @@
       "duration_ms": 354800,
       "name": "The Endless Lovers - Pasocom Music Club Remix",
       "url": "https://open.spotify.com/track/53tuINhmAtikGpXPmNlUQO"
+    },
+    {
+      "album": {
+        "name": "The Moon's Elbow",
+        "url": "https://open.spotify.com/album/69quTR1SlD7t3cAjoNhvYZ"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "The Moon's Elbow",
+      "url": "https://open.spotify.com/track/25qXnyckAQv0djLzPQ6ECh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 328,
+  "num_followers": 335,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABL3muOt2+ZPwSbRbzos20fgesZ4ge",
+  "snapshot_id": "AAABNWOtwXVb09XzVRGksYxz148wnUyj",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -923,6 +923,102 @@
       "duration_ms": 172826,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi"
+    },
+    {
+      "added_at": "2026-02-09 21:58:06",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
+    },
+    {
+      "added_at": "2026-02-09 22:11:05",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 218344,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2"
+    },
+    {
+      "added_at": "2026-02-09 22:24:55",
+      "album": {
+        "name": "Leaving For The Summer",
+        "url": "https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 232731,
+      "name": "Leaving For The Summer",
+      "url": "https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX"
+    },
+    {
+      "added_at": "2026-02-09 22:28:25",
+      "album": {
+        "name": "Hover",
+        "url": "https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE"
+      },
+      "artists": [
+        {
+          "name": "Jenine",
+          "url": "https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Hover",
+      "url": "https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH"
+    },
+    {
+      "added_at": "2026-02-09 22:32:34",
+      "album": {
+        "name": "We're Not Lovers",
+        "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Butler",
+          "url": "https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a"
+        }
+      ],
+      "duration_ms": 167402,
+      "name": "We're Not Lovers",
+      "url": "https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk"
+    },
+    {
+      "added_at": "2026-02-09 22:40:18",
+      "album": {
+        "name": "Purple Wings",
+        "url": "https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52"
+      },
+      "artists": [
+        {
+          "name": "Golden Greyline",
+          "url": "https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l"
+        }
+      ],
+      "duration_ms": 341743,
+      "name": "Purple Wings",
+      "url": "https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC"
     }
   ],
   "unique_name": "Local Rock Bands",

@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270360,
+      "name": "Lumi\u00e8re blanche (Ad Finem)",
+      "url": "https://open.spotify.com/track/4DN2XME2ip9fGnuwq5tbbL"
+    },
+    {
+      "album": {
         "name": "En temps r\u00e9el",
         "url": "https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI"
       },

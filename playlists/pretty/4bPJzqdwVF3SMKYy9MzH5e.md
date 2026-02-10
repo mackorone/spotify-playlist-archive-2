@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,321 songs - 5 day 4 hr 25 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,323 songs - 5 day 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2329,5 +2329,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2319 | [Heart Dub](https://open.spotify.com/track/6YOzFoMadiyRiXSYcBkshT) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:31 |
 | 2320 | [Mothers](https://open.spotify.com/track/7HwsHnOYth2MsW25gDEGWV) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Mothers](https://open.spotify.com/album/2gRso3E2lJR6xOBFuJqVH6) | 3:12 |
 | 2321 | [Tommy](https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy](https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT) | 4:34 |
+| 2322 | [Suck My Electro](https://open.spotify.com/track/5bc9luLb1Hd0jqXHx5qr57) | [Taly & Smith](https://open.spotify.com/artist/7wanVtHKgFPsQeBRnS4cZz), [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [Bomber](https://open.spotify.com/album/5AO9SUWGhSnAAUdGhdmKQG) | 3:47 |
+| 2323 | [Your Need \(не должен\) \- Deep Mix](https://open.spotify.com/track/0JDRpa08T4GhnDhE9O68bE) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:36 |
 
-Snapshot ID: `AAAFEDCMRBtWJF46moDMUw3pc8WjFZlI`
+Snapshot ID: `AAAFEv8ZIlffvueTgZ9MqXcGNFu5pQR0`

@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98036,
+  "num_followers": 98041,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Gimme What I Want",
-        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
-      },
-      "artists": [
-        {
-          "name": "Ros\u00e9",
-          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Gimme What I Want",
-      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Arrogant",
         "url": "https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222159,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Gimme What I Want",
+        "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
+      },
+      "artists": [
+        {
+          "name": "Ros\u00e9",
+          "url": "https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Gimme What I Want",
+      "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "I Love Being A Whore!",
-        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "I Love Being A Whore!",
-      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Know-It-All",
         "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 268459,
       "name": "Know-It-All",
       "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "I Love Being A Whore!",
+        "url": "https://open.spotify.com/album/44Jm9Qa4nMZTsVTYlHbXdU"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "I Love Being A Whore!",
+      "url": "https://open.spotify.com/track/5z7QaUpalTZil1kMVTw0aJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -863,8 +863,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -947,8 +947,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "GRATIFY",
-        "url": "https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx"
-      },
-      "artists": [
-        {
-          "name": "Divina De Campo",
-          "url": "https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9"
-        }
-      ],
-      "duration_ms": 215434,
-      "name": "Gratify",
-      "url": "https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Out of Office",
         "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 194000,
       "name": "Out of Office",
       "url": "https://open.spotify.com/track/2quoLHVf67QT7yPDoMQlTE"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "GRATIFY",
+        "url": "https://open.spotify.com/album/4p8gkNRIpOy9OkbxDXhUwx"
+      },
+      "artists": [
+        {
+          "name": "Divina De Campo",
+          "url": "https://open.spotify.com/artist/2aQPlCSNFXtHbem9TfV8Y9"
+        }
+      ],
+      "duration_ms": 215434,
+      "name": "Gratify",
+      "url": "https://open.spotify.com/track/3oAa776TeEtmmbvJ7fH4Bt"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">read our Substack here! </a>  Cover: Quadeca ☆
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX\-sCFgsgIpORHNyGB28r1NujobZdmw/viewform">talk to us about music! </a>  Cover: Quadeca ☆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,867 likes - 176 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,840 likes - 176 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 175 | [Enjoy Yourself \- very cool tutorials Remix](https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua), [very cool tutorials](https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO) | [Enjoy Yourself \(very cool tutorials Remix\)](https://open.spotify.com/album/6E1ZtxNZe5CjMni64qIfHF) | 2:42 |
 | 176 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 |
 
-Snapshot ID: `AAAAABc5yohpTxtZmPrheYIJd4276NzO`
+Snapshot ID: `AAAAAJSROeAHtIQE8k6XxZxnrviC8o0i`

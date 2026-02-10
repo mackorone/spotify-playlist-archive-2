@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 176037,
       "name": "Anheral Motions",
       "url": "https://open.spotify.com/track/0qP5XbQTNpzXPf43AM4fuD"
@@ -3695,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Distant Halo",
+        "url": "https://open.spotify.com/album/2lQCUiR09dvEDC5MKqZq9x"
+      },
+      "artists": [
+        {
+          "name": "Alsephina",
+          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156842,
+      "name": "Distant Halo",
+      "url": "https://open.spotify.com/track/7DQovD1SdgmwhuVaPyFf56"
+    },
+    {
+      "album": {
         "name": "Divine Whispers",
         "url": "https://open.spotify.com/album/5Mdurk34BwuUmBydmCwa0E"
       },
@@ -3958,7 +3976,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 170000,
       "name": "Dreamplay",
       "url": "https://open.spotify.com/track/2LkRhuE955ZZ5QLCYNU1HM"
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 159314,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD"
@@ -7979,6 +7997,24 @@
     },
     {
       "album": {
+        "name": "Lowlit",
+        "url": "https://open.spotify.com/album/0PvjZ14CXC0UAK7Iixo6PW"
+      },
+      "artists": [
+        {
+          "name": "Arctilok",
+          "url": "https://open.spotify.com/artist/40mS9P51UfvhIamB24wx91"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Lowlit",
+      "url": "https://open.spotify.com/track/7eqFzunTpMeG6GrkcvQC2o"
+    },
+    {
+      "album": {
         "name": "Lo\u00b4s Magma",
         "url": "https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb"
       },
@@ -7994,6 +8030,24 @@
       "duration_ms": 186000,
       "name": "Lo\u00b4s Magma",
       "url": "https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV"
+    },
+    {
+      "album": {
+        "name": "Lucenor",
+        "url": "https://open.spotify.com/album/1KhtbKhWWA7MYaRfZFZ1AV"
+      },
+      "artists": [
+        {
+          "name": "Moktar Debous",
+          "url": "https://open.spotify.com/artist/5gWsUOTIaNIIeyOaxfxA91"
+        }
+      ],
+      "date_added": "2026-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Lucenor",
+      "url": "https://open.spotify.com/track/5jrgFpfGWfZwPIDiWPtTYl"
     },
     {
       "album": {

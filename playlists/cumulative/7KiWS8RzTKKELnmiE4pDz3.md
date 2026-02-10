@@ -4,7 +4,7 @@
 
 > 
 
-1,333 songs - 2 day 22 hr 15 min
+1,336 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [dont wait til it's late](https://open.spotify.com/track/0R2aitHLTmi85Jsswg6b6A) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [dont wait til it's late](https://open.spotify.com/album/1lMC5ZRLsDzF8bMyhwGGCm) | 2:03 | 2022-07-28 | 2025-05-21 |
 | [Dont Wait Til Its Late](https://open.spotify.com/track/3cn8MxXWtMRZpeqYDQ0hsZ) | [Summr Worldwide](https://open.spotify.com/artist/43A3EKKOLJ8qaUoNSe1fG8) | [Dont Wait Til Its Late](https://open.spotify.com/album/6AFOjMI50XbFfdy2xfrNzf) | 2:03 | 2024-08-23 | 2025-05-21 |
 | [Doomsday \(with Juice WRLD & Cordae\)](https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Doomsday](https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb) | 2:30 | 2023-06-23 | 2023-12-14 |
+| [Doubie Ashtray](https://open.spotify.com/track/4uwO6u45R7sG4giwhG5AT0) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Just Tryin ta Live](https://open.spotify.com/album/10Go46gFX8CCawdQgaObfS) | 5:17 | 2026-02-09 |  |
 | [Down as a Great \(feat\. Kirko Bangz\)](https://open.spotify.com/track/4eLkXBFYBsIPwTa1pLSa2M) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:28 | 2025-11-11 |  |
 | [Drank Head](https://open.spotify.com/track/44OjMPqUb5G9da3myAJGXh) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Thot Breaker](https://open.spotify.com/album/67c9XHAeXUcTVgXWYVNlEf) | 3:53 | 2022-07-28 | 2023-04-12 |
 | [dream hollywood \(k suave\)](https://open.spotify.com/track/416hYURzddnHWH8lMNUoXd) | [sem](https://open.spotify.com/artist/2qUcgTpHYclRajlkjgLsyn) | [dream hollywood \(k suave\)](https://open.spotify.com/album/0YHLvhrQcqUB8rQPBPevvb) | 2:04 | 2023-03-20 | 2023-05-09 |
@@ -360,6 +361,7 @@
 | [F&N](https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:09 | 2024-12-04 | 2026-02-08 |
 | [F\*cked A Fan](https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [F\*cked A Fan](https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV) | 3:10 | 2024-12-15 |  |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
+| [F.I.L.O\. \(feat\. Shing02\)](https://open.spotify.com/track/43pWChQ7AOab9wlSGy0dN6) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:31 | 2026-02-10 |  |
 | [Faceshot](https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:55 | 2024-11-16 | 2026-02-08 |
 | [FACET!ME](https://open.spotify.com/track/0lZ4QMio1QUV6an6gaKpt6) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:02 | 2025-08-06 |  |
 | [FadaPhilippe](https://open.spotify.com/track/5UY1FDxfCPoM6sushUpSh9) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/2KBhWSNNxOF2Ve94KvhlZy) | 2:46 | 2025-05-16 |  |
@@ -434,6 +436,7 @@
 | [Get Right](https://open.spotify.com/track/1reODpPaa9HlnYn8ysiPH9) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:08 | 2022-06-10 | 2023-05-09 |
 | [Get Ta Steppin'](https://open.spotify.com/track/4zOPcDeRdPTwjkMN4YZYBO) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:37 | 2026-01-13 |  |
 | [Get Your Mind Right](https://open.spotify.com/track/12Thqf0zERYjFHNlWbb6rc) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:31 | 2025-04-16 | 2026-02-08 |
+| [Getting Out The Game](https://open.spotify.com/track/6cft8Dv0XXzwYrX0PXlUQ1) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Take'Em To The Cleaners](https://open.spotify.com/album/3ML87nypNxX5ueuol1OMF0) | 3:10 | 2026-02-10 |  |
 | [Ginseng](https://open.spotify.com/track/0SIBZ4mKy6LTeyKEwsedN1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Ginseng](https://open.spotify.com/album/1STfJ3C23c0QivER7mI9KL) | 2:44 | 2022-11-16 | 2023-04-12 |
 | [Girl Like U](https://open.spotify.com/track/5qf8hsPoCJpP1xod7Vzpac) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:35 | 2025-08-22 |  |
 | [Give It 2 Me](https://open.spotify.com/track/6G7d2cbkZSaAOE0H6K1ohb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:47 | 2025-08-21 |  |

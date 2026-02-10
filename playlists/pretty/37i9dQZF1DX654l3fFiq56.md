@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,845 likes - 40 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,844 likes - 42 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,25 +28,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 | 18 | [集體孤獨 Being Lonesome Together](https://open.spotify.com/track/6LaxVtnbsRhRZ9Qssfsj73) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [集體孤獨 Being Lonesome Together](https://open.spotify.com/album/1eM4ypMWnrm50Tp98pnv0a) | 3:33 |
 | 19 | [99](https://open.spotify.com/track/17cxua75ZCuluD9Wfbwy8w) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [99](https://open.spotify.com/album/7m9ZTCJkt3JQg6qoEdMBgn) | 4:42 |
 | 20 | [心安即是歸處](https://open.spotify.com/track/0u9bxTSi0K3GhOtte2azMd) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [心安即是歸處](https://open.spotify.com/album/1IUuIESjb4BZJ6O4Q6dKOK) | 4:44 |
-| 21 | [可惜沒如果](https://open.spotify.com/track/0E8P8DNhj10IAF62AAjpgd) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4ej0iaGUNXJOUCudwbESIQ) | 4:58 |
-| 22 | [愛, 很簡單](https://open.spotify.com/track/3OXHwY8gI2QUh0QliXBwrI) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [陶喆同名專輯](https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q) | 4:29 |
-| 23 | [親愛的那不是愛情](https://open.spotify.com/track/1MAv2SJPGVVDHyFlhflmYR) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Ang5.0](https://open.spotify.com/album/29RamBzPMMkBTnnBLD483C) | 4:16 |
-| 24 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 |
-| 25 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
-| 26 | [寶貝\(In The Night\)](https://open.spotify.com/track/1G9KctNOyAM8wMkCFhR3EZ) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 2:41 |
-| 27 | [陪妳過假日](https://open.spotify.com/track/4w99eXGKJ64oxJSNF9tPNs) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [藝術家脾氣](https://open.spotify.com/album/7mqEZ8eBuI7l3qrIQEmI92) | 3:17 |
-| 28 | [氣球](https://open.spotify.com/track/4puQ780e9ir0Kjmu7IcaL1) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [氣球](https://open.spotify.com/album/5FrPCsBhMpYx964CRqrVoP) | 4:17 |
-| 29 | [Messed Up ft.邱鋒澤](https://open.spotify.com/track/2SG8JgxuAIbtRsLjgTjW7U) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4), [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [還原](https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI) | 3:40 |
-| 30 | [我喜歡你](https://open.spotify.com/track/4L3TxI7RVYMEkECaglyhfP) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [洪安妮 我喜歡你](https://open.spotify.com/album/68d3GHX04ivXPnSG9hv6bP) | 4:06 |
-| 31 | [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 |
-| 32 | [黃昏](https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [Transfer](https://open.spotify.com/album/7DpdMbp6mDHG5jJVFppI1p) | 5:44 |
-| 33 | [信愛成癮](https://open.spotify.com/track/1e3revlbqWb7wn8TvXaQz8) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/40j1P0pTMtw141uIqmZY8l) | 4:34 |
-| 34 | [想你的夜 \(未眠版\)](https://open.spotify.com/track/5hDVVxJefgZfcGqhuy0Gtt) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [寂寞 \(特別版\)](https://open.spotify.com/album/1U3yARZdeV7J9gjYammDEK) | 4:44 |
-| 35 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 |
-| 36 | [心如止水](https://open.spotify.com/track/45mkA7zdhjdl3qajixhiJt) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [心如止水](https://open.spotify.com/album/4DNdTOLbWP90QOCglGFeSr) | 4:02 |
-| 37 | [冬季到台北來看雨](https://open.spotify.com/track/59db3kNoPFmph8WgnGRzw0) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [冬季到台北來看雨](https://open.spotify.com/album/3NB932AkcvgzMNkxUEAyad) | 5:09 |
-| 38 | [当你孤单你会想起谁](https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [From Now On 新歌＋精选](https://open.spotify.com/album/5KM8hybz2fW6ThBDWETbX1) | 4:15 |
-| 39 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
-| 40 | [雨蝶](https://open.spotify.com/track/4PLVAN7d2k4brMHmFTjKRa) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [誓言謊言](https://open.spotify.com/album/1kTSEPqCFKUYDrk18OlCDo) | 3:50 |
+| 21 | [SEMI\-FINAL](https://open.spotify.com/track/6hJ6Ws24hrcnt3eRyqk2MU) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [SEMI\-FINAL](https://open.spotify.com/album/2f3WhJGOgW4IAUmQKjijEV) | 2:51 |
+| 22 | [可惜沒如果](https://open.spotify.com/track/0E8P8DNhj10IAF62AAjpgd) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4ej0iaGUNXJOUCudwbESIQ) | 4:58 |
+| 23 | [愛, 很簡單](https://open.spotify.com/track/3OXHwY8gI2QUh0QliXBwrI) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [陶喆同名專輯](https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q) | 4:29 |
+| 24 | [親愛的那不是愛情](https://open.spotify.com/track/1MAv2SJPGVVDHyFlhflmYR) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Ang5.0](https://open.spotify.com/album/29RamBzPMMkBTnnBLD483C) | 4:16 |
+| 25 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 |
+| 26 | [訣愛 \(劇集《蒼蘭訣》片頭曲\)](https://open.spotify.com/track/6la3Kme7O7D01fJPxgpAS5) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [訣愛](https://open.spotify.com/album/11KVIZFGZ34hRCfrIr1oSt) | 3:09 |
+| 27 | [寶貝\(In The Night\)](https://open.spotify.com/track/1G9KctNOyAM8wMkCFhR3EZ) | [Deserts Chang](https://open.spotify.com/artist/7v9Il42LvvTeSfmf1bwfNx) | [My Life Will...](https://open.spotify.com/album/7x0DIwQu2yNMjg05DxPhHu) | 2:41 |
+| 28 | [陪妳過假日](https://open.spotify.com/track/4w99eXGKJ64oxJSNF9tPNs) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [藝術家脾氣](https://open.spotify.com/album/7mqEZ8eBuI7l3qrIQEmI92) | 3:17 |
+| 29 | [氣球](https://open.spotify.com/track/4puQ780e9ir0Kjmu7IcaL1) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [氣球](https://open.spotify.com/album/5FrPCsBhMpYx964CRqrVoP) | 4:17 |
+| 30 | [Messed Up ft.邱鋒澤](https://open.spotify.com/track/2SG8JgxuAIbtRsLjgTjW7U) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4), [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [還原](https://open.spotify.com/album/7DxCILyrU4E6TabC9Bt4lI) | 3:40 |
+| 31 | [我喜歡你](https://open.spotify.com/track/4L3TxI7RVYMEkECaglyhfP) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [洪安妮 我喜歡你](https://open.spotify.com/album/68d3GHX04ivXPnSG9hv6bP) | 4:06 |
+| 32 | [離開我的依賴](https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [離開我的依賴](https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz) | 3:53 |
+| 33 | [黃昏](https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [Transfer](https://open.spotify.com/album/7DpdMbp6mDHG5jJVFppI1p) | 5:44 |
+| 34 | [信愛成癮](https://open.spotify.com/track/1e3revlbqWb7wn8TvXaQz8) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [WHY NOT](https://open.spotify.com/album/40j1P0pTMtw141uIqmZY8l) | 4:34 |
+| 35 | [想你的夜 \(未眠版\)](https://open.spotify.com/track/5hDVVxJefgZfcGqhuy0Gtt) | [Grady Guan](https://open.spotify.com/artist/2aFNEQB9JnQ171stH9Ljh5) | [寂寞 \(特別版\)](https://open.spotify.com/album/1U3yARZdeV7J9gjYammDEK) | 4:44 |
+| 36 | [後來](https://open.spotify.com/track/2wzXhxWPX0aODraKNXoJYY) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我等你](https://open.spotify.com/album/2P6sQ9RlHZQv0FOK0X3P3B) | 5:41 |
+| 37 | [心如止水](https://open.spotify.com/track/45mkA7zdhjdl3qajixhiJt) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [心如止水](https://open.spotify.com/album/4DNdTOLbWP90QOCglGFeSr) | 4:02 |
+| 38 | [冬季到台北來看雨](https://open.spotify.com/track/59db3kNoPFmph8WgnGRzw0) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [冬季到台北來看雨](https://open.spotify.com/album/3NB932AkcvgzMNkxUEAyad) | 5:09 |
+| 39 | [当你孤单你会想起谁](https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [From Now On 新歌＋精选](https://open.spotify.com/album/5KM8hybz2fW6ThBDWETbX1) | 4:15 |
+| 40 | [冷戰](https://open.spotify.com/track/4fq1wnzohJvzP1yhx5kQQw) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [做舊](https://open.spotify.com/album/3MBFGMhVo9a0nlXbH9CONV) | 3:43 |
+| 41 | [雨蝶](https://open.spotify.com/track/4PLVAN7d2k4brMHmFTjKRa) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [誓言謊言](https://open.spotify.com/album/1kTSEPqCFKUYDrk18OlCDo) | 3:50 |
+| 42 | [玉蘭](https://open.spotify.com/track/3TWobisc8YIIIe24QFsRz0) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [玉蘭](https://open.spotify.com/album/4SeVQIQ7MklclsPKJBwnb8) | 3:15 |
 
-Snapshot ID: `AAAAAKvFO1aY7GIw6mL/4yCBQaGLY4uN`
+Snapshot ID: `AAAAAFZbMFFtnpxT4dqeIe1KUjBls8YK`

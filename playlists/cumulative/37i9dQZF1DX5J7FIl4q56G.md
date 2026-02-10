@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Haste The Day
 
-10,924 songs - 30 day 5 hr 42 min
+10,925 songs - 30 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1978,6 +1978,7 @@
 | [Cracked Open](https://open.spotify.com/track/0hclYOnd9jjwINMmgI66P5) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Cracked Open](https://open.spotify.com/album/7b5Us9qlthGrxBOatHuP2t) | 3:39 | 2023-06-09 | 2023-06-17 |
 | [Cracks](https://open.spotify.com/track/53EbxMsn5HW3k8UK2JazcF) | [HOLOSOIL](https://open.spotify.com/artist/291jYLLShyXEpGH6LHKiuN) | [Cracks](https://open.spotify.com/album/0xPUWoI2kRfPbqqz5gwlAF) | 3:28 | 2025-12-12 | 2026-01-03 |
 | [Cracks in the Pyre](https://open.spotify.com/track/4KVI1m8p8oFAUiO4cOVjYp) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ) | [Cracks in the Pyre](https://open.spotify.com/album/7t3dnVTvKZgHu0vNnFnvPO) | 7:22 | 2022-05-27 | 2022-06-10 |
+| [Cradle of Twigs & Bone](https://open.spotify.com/track/6cKAkWciz4161bbPiQZBgD) | [Feral Nature](https://open.spotify.com/artist/6GWAz8O11jtULZ4XDpuot1) | [Cradle of Twigs & Bone](https://open.spotify.com/album/73HEkLk33fvytVsTEcymy6) | 3:57 | 2026-02-09 |  |
 | [Cradle To The Grave](https://open.spotify.com/track/3BpoxTcVUDJEaUr3UBJJKT) | [Integrity](https://open.spotify.com/artist/3L3FDQpQskFnHiISPYHmBo) | [All Death is Mine: Total Domination](https://open.spotify.com/album/2eetsbBNEu22MDdsR2UIg2) | 4:17 | 2024-01-12 | 2024-01-20 |
 | [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 | 2024-08-23 | 2024-08-31 |
 | [Crank The Heat](https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:42 | 2022-07-01 | 2022-07-08 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Wale
+> Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,281 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,495 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [Nothings Promised](https://open.spotify.com/track/6ciVJWoXXNZeZXfOFd3hhT) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 3:32 |
 | 101 | [HOP OUT CHO FEELINS](https://open.spotify.com/track/0kTaVR84OJ6jb8tDw4wj35) | [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [HOP OUT CHO FEELINS](https://open.spotify.com/album/1IcdpXhLeRuXHo363pYL8F) | 3:48 |
 
-Snapshot ID: `AAAAAMOaH7YB1QEKNGncdE7fIacgFDu8`
+Snapshot ID: `AAAAABeiiVzTEN57E9WC6GM4r4FOBtFL`

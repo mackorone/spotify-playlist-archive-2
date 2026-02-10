@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Eladio Carrion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,690 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,723 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 13 | [Shine](https://open.spotify.com/track/1kwwdtEtFoG7zcXCjleVOs) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Shine](https://open.spotify.com/album/5hLYi8XhkeF3vNzJP03stp) | 2:21 |
 | 14 | [Luna](https://open.spotify.com/track/4bTinPC6ZWa6TKpR25tOOR) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Luna](https://open.spotify.com/album/4dt6NtfmJpcuS1chOHfGMN) | 3:25 |
 | 15 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
-| 16 | [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 4:29 |
+| 16 | [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 3:38 |
 | 17 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 |
 | 18 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 19 | [PANTI Y COLALE 2.0](https://open.spotify.com/track/11mDIi9MNeOXoeSqiYQnWI) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX), [Ronny GTA](https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu), [Ezzy R](https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX) | [PANTI Y COLALE 2.0](https://open.spotify.com/album/4uG8w5nxJNBtZnQ9VFP3ep) | 4:39 |

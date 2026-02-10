@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 370299,
+  "num_followers": 370377,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-02-06 16:08:55",
       "album": {
+        "name": "Gba Stage, Vol. 4",
+        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "S\u00f3 por Ti, Jesus",
+      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2026-02-06 16:08:55",
+      "album": {
         "name": "UM - Origem",
         "url": "https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 294658,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0"
-    },
-    {
-      "added_at": "2026-02-06 16:08:55",
-      "album": {
-        "name": "Gba Stage, Vol. 4",
-        "url": "https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "S\u00f3 por Ti, Jesus",
-      "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
     },
     {
       "added_at": "2026-02-06 16:08:55",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-02-06 16:08:55",
       "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
+        "name": "Eu Descansarei",
+        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         }
       ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
+      "duration_ms": 378461,
+      "name": "Eu Descansarei",
+      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
     },
     {
       "added_at": "2026-02-06 16:08:55",
@@ -527,18 +523,22 @@
     {
       "added_at": "2026-02-06 16:08:55",
       "album": {
-        "name": "Eu Descansarei",
-        "url": "https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ"
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
         }
       ],
-      "duration_ms": 378461,
-      "name": "Eu Descansarei",
-      "url": "https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0"
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
     },
     {
       "added_at": "2026-02-06 16:08:55",
@@ -559,6 +559,26 @@
       "duration_ms": 256824,
       "name": "Milagre de Amor",
       "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "added_at": "2026-02-06 16:08:55",
+      "album": {
+        "name": "Atr\u00e1s do Temporal",
+        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 275242,
+      "name": "Atr\u00e1s do Temporal",
+      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
     },
     {
       "added_at": "2026-02-06 16:08:55",
@@ -683,26 +703,6 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2026-02-06 16:08:55",
-      "album": {
-        "name": "Atr\u00e1s do Temporal",
-        "url": "https://open.spotify.com/album/7DxudzZT8MjDJyjT6iEt4e"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 275242,
-      "name": "Atr\u00e1s do Temporal",
-      "url": "https://open.spotify.com/track/72RRX9piGwAcHYrIQ6eqnN"
     },
     {
       "added_at": "2026-02-06 16:08:55",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-02-06 16:08:55",
       "album": {
+        "name": "Minha Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
+      },
+      "artists": [
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 236442,
+      "name": "S\u00f3 por Ti Jesus",
+      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
+    },
+    {
+      "added_at": "2026-02-06 16:08:55",
+      "album": {
         "name": "O Encontro",
         "url": "https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 333728,
       "name": "Abra\u00e7a-Me Forte",
       "url": "https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr"
-    },
-    {
-      "added_at": "2026-02-06 16:08:55",
-      "album": {
-        "name": "Minha Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c"
-      },
-      "artists": [
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 236442,
-      "name": "S\u00f3 por Ti Jesus",
-      "url": "https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA"
     },
     {
       "added_at": "2026-02-06 16:08:55",

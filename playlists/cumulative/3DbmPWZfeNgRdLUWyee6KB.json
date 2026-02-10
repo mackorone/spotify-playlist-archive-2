@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd"
+    },
+    {
+      "album": {
         "name": "Arsura",
         "url": "https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV"
       },
@@ -4277,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "If I Was God",
+        "url": "https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222273,
+      "name": "If I Was God",
+      "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
+    },
+    {
+      "album": {
         "name": "If You Want To Be Famous",
         "url": "https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc"
       },
@@ -5368,6 +5404,24 @@
       "duration_ms": 142080,
       "name": "Lifespan",
       "url": "https://open.spotify.com/track/061iJoemR1JeGwFZa0339j"
+    },
+    {
+      "album": {
+        "name": "Like a Seagull",
+        "url": "https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb"
+      },
+      "artists": [
+        {
+          "name": "Eden Rose",
+          "url": "https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199433,
+      "name": "Like a Seagull",
+      "url": "https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms"
     },
     {
       "album": {
@@ -9061,24 +9115,6 @@
     },
     {
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mettias",
-          "url": "https://open.spotify.com/artist/4ucQ2IJMrnXJ17ntrWXiqh"
-        }
-      ],
-      "date_added": "2026-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203881,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd"
-    },
-    {
-      "album": {
         "name": "Stars Align",
         "url": "https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S"
       },
@@ -9236,6 +9272,28 @@
       "duration_ms": 367346,
       "name": "Stories",
       "url": "https://open.spotify.com/track/4cNWqguYmDvLD0kqHbg5ew"
+    },
+    {
+      "album": {
+        "name": "STORMS",
+        "url": "https://open.spotify.com/album/32QfuzXnW1duhSfDplrcfq"
+      },
+      "artists": [
+        {
+          "name": "NAMUT",
+          "url": "https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH"
+        },
+        {
+          "name": "sriyam",
+          "url": "https://open.spotify.com/artist/4x4yvxLpjikj9ixZAqHXE2"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195463,
+      "name": "STORMS",
+      "url": "https://open.spotify.com/track/2qnM4vSaQ0VG98sbNyUWKV"
     },
     {
       "album": {
@@ -10780,6 +10838,24 @@
       "duration_ms": 204547,
       "name": "Tu sei il mattino - Piano Session",
       "url": "https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm"
+    },
+    {
+      "album": {
+        "name": "Tut mir leid",
+        "url": "https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354285,
+      "name": "Tut mir leid",
+      "url": "https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q"
     },
     {
       "album": {

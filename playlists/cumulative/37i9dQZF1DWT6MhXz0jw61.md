@@ -2,7 +2,7 @@
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Wale
+> Chillout hip\-hop vibes\. Cover: J\. Cole
 
 1,445 songs - 3 day 4 hr 15 min
 

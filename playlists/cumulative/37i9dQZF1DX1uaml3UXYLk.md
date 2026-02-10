@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-796 songs - 1 day 21 hr 55 min
+804 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Dance In The Air](https://open.spotify.com/track/3Ow81q74hjgsWPWJFO2C6u) | [Helio Lush](https://open.spotify.com/artist/4gtfDaFcQA61xtmw5GenXa) | [Dance In The Air](https://open.spotify.com/album/0y2IvJ4f0Z1wH0VWimgjyg) | 4:16 | 2024-04-09 | 2025-03-01 |
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 | 2023-12-02 |
 | [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
+| [Dawn](https://open.spotify.com/track/1WGbfsJ3hLAyCJEEugKE3Q) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Dawn](https://open.spotify.com/album/2yWxlbq714I1r5eQkX2ejq) | 2:56 | 2026-02-09 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
 | [Daydreaming](https://open.spotify.com/track/7aJslKRTPKYWGOPmhrW9zZ) | [Nordsky](https://open.spotify.com/artist/0yixcVWpULGQAcURRVLxRr) | [Daydreaming](https://open.spotify.com/album/5FhOLeSOWgvEXssDOOgPDa) | 2:37 | 2025-11-28 | 2026-01-17 |
 | [Dayglow](https://open.spotify.com/track/4bes7ffMOJqS54hbUD8rKe) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Dayglow](https://open.spotify.com/album/3hsi2iHQOSaYlrXii69cN0) | 2:31 | 2025-07-25 |  |
@@ -186,6 +187,7 @@
 | [Determination](https://open.spotify.com/track/3Xxt0tIwZXTAdVGTysU5uy) | [Guille Bianchetti](https://open.spotify.com/artist/3JqwtW5C92SUeX85A9DrRy) | [Determination](https://open.spotify.com/album/71Zr1m0srLoB48UBBMoQ30) | 4:42 | 2022-01-21 | 2022-02-11 |
 | [Deviation](https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Deviation](https://open.spotify.com/album/40RIVcikWbOKylm2r3ehbW) | 4:02 | 2020-10-20\* | 2020-10-30 |
 | [Differentia](https://open.spotify.com/track/7vPDIGMLri3GgfhHERDMMz) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Differentia](https://open.spotify.com/album/4YUyPcYe3sp1l44sAhIgLY) | 5:43 | 2021-02-12 | 2021-03-25 |
+| [Dim Visage](https://open.spotify.com/track/2myTGFXobAwBwwt4UIJW5i) | [Latency Bloom](https://open.spotify.com/artist/4XftFgTUJvTtVD9z6Nar2a) | [Dim Visage](https://open.spotify.com/album/1hgiSLCB0yFUn5uABq4XMu) | 2:21 | 2026-02-09 |  |
 | [Dimensions](https://open.spotify.com/track/5rTy1sH9jfGEHzdZ5oUG3P) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Dimensions](https://open.spotify.com/album/6908Dm8onq9f0UfdmhFzg2) | 3:16 | 2021-11-10 | 2022-08-05 |
 | [Discovery](https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Discovery](https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f) | 2:31 | 2021-07-09 | 2024-12-07 |
 | [Distance](https://open.spotify.com/track/0gvKnOM5kxr8k7ft05abKD) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Parallel](https://open.spotify.com/album/5TAPx8rt1i2YaAXA93vOne) | 5:47 | 2020-11-21 | 2020-12-24 |
@@ -301,7 +303,9 @@
 | [high life](https://open.spotify.com/track/2FSx5IGIgDDz1AzHdAfKcF) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [high life](https://open.spotify.com/album/79rXk3IeLcL1vm5TDhUkGf) | 2:16 | 2025-02-28 |  |
 | [Higher Than We've Been](https://open.spotify.com/track/4MCoF79Tm9ajUIifhNJe4I) | [Jake Velo](https://open.spotify.com/artist/0GJVtOp4lnjibklaAC3XWv) | [Higher Than We've Been](https://open.spotify.com/album/6Lj83J8uR7CopeJW1iNnO2) | 2:27 | 2026-01-02 |  |
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2021-10-16 | 2022-01-22 |
+| [Hold the Moment](https://open.spotify.com/track/0JwMohVlSXmykh7s6bA2rt) | [Sean Rivers](https://open.spotify.com/artist/7k8ThbMOx8Qg3rtkMEUI7R) | [Hold the Moment](https://open.spotify.com/album/1R0CCWV4dZrOY9lUz9Zc3K) | 2:35 | 2026-02-09 |  |
 | [Hold U](https://open.spotify.com/track/6CRjHjpt2jl4Ga7TsrtQja) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Hold U](https://open.spotify.com/album/1vXChZQ7cOhiFjsHqAGJng) | 2:35 | 2021-10-16 | 2025-01-18 |
+| [Holiday Memories](https://open.spotify.com/track/3pAo8Fmy6rttOkSEgEqBd3) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Holiday Memories](https://open.spotify.com/album/1QbmSatxF5quNPbQbzcSrq) | 2:39 | 2026-02-09 |  |
 | [Home Again](https://open.spotify.com/track/2Fy3Gx4TPeJ69bzFkQrFdl) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Home Again](https://open.spotify.com/album/3mtNd5bVlK1FCbTF3WBIsS) | 2:22 | 2023-08-18 |  |
 | [Hooked on You](https://open.spotify.com/track/0washXlWqFEj5oCjNWwA2E) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [Hooked](https://open.spotify.com/album/2xS5Vj4er6u3W6aCBnq2iN) | 6:23 | 2021-01-29 | 2021-02-20 |
 | [Hop Notch](https://open.spotify.com/track/6EbSt5wjOSSxTA4FKNdBoc) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Hop Notch](https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS) | 3:19 | 2021-06-23 | 2022-01-22 |
@@ -320,6 +324,7 @@
 | [I Can’t Even](https://open.spotify.com/track/1hZDvLGzGTvbBRP8CqU0rD) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [I Can’t Even](https://open.spotify.com/album/2vqmwm05G6x3QOKwZRCaJh) | 2:51 | 2022-12-09 | 2025-02-01 |
 | [I got you, girl](https://open.spotify.com/track/7oVj0NATzaibl8rEj5JDkc) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [I got you, girl](https://open.spotify.com/album/3I6jjB1yTr03PeSiXw7v1J) | 2:55 | 2023-09-22 |  |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2020-12-11 | 2022-08-05 |
+| [I Will Ask](https://open.spotify.com/track/6FuQQskykvMAVHfuy6qqNN) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [I Will Ask](https://open.spotify.com/album/3sKTaJz58oPSQlMuSjhsFq) | 2:26 | 2026-02-09 |  |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-01-07 | 2021-08-25 |
 | [If I Could I Would](https://open.spotify.com/track/0wx7ZtHC12OTHIWW9hJafV) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Euch die Uhren uns die Zeit](https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9) | 7:19 | 2020-11-13 | 2022-05-11 |
 | [If You Say So](https://open.spotify.com/track/3IppHec07ScWmamyuKYtLc) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [If You Say So](https://open.spotify.com/album/6axhsdjQzJqKkElmcernqx) | 6:14 | 2024-07-14 | 2024-09-03 |
@@ -332,6 +337,7 @@
 | [In the Morning We Shine](https://open.spotify.com/track/0Mw8IH4cKB3Ldnuh61Ro5h) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Aerial Navigation](https://open.spotify.com/album/6jjVN8tN951F1YaJdYC6lw) | 5:50 | 2020-10-20\* | 2020-11-13 |
 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 | 2020-12-11 | 2021-07-09 |
 | [In Your Soul](https://open.spotify.com/track/7Heda6sejvVw5h2kXGfAuL) | [waybackwhenish](https://open.spotify.com/artist/5xUhQ7Qw36TylM9KRtbY9a) | [In Your Soul](https://open.spotify.com/album/4AMPnwQzIwTRCwasYH0U7a) | 2:04 | 2023-11-17 | 2025-12-13 |
+| [Indicate](https://open.spotify.com/track/1WV1YLfAkCQjBgTwoSDmak) | [Jake Velo](https://open.spotify.com/artist/0GJVtOp4lnjibklaAC3XWv) | [Indicate](https://open.spotify.com/album/16kP6alx7GO3ziyNLp701d) | 2:35 | 2026-02-09 |  |
 | [Infinite Groove](https://open.spotify.com/track/4NEDsWuhVTedyjuw2S8YMh) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Infinite Groove](https://open.spotify.com/album/5d2mVratPrQmvZNJd75z4l) | 2:42 | 2025-10-10 |  |
 | [Infinity](https://open.spotify.com/track/0uomUgmlzoqOLV4eY40pdQ) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Infinity](https://open.spotify.com/album/752s25GbJsvKft227zye2X) | 2:30 | 2025-05-16 |  |
 | [Inflections](https://open.spotify.com/track/2BANJeYC53KTE0h3iDBbpm) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Inflections](https://open.spotify.com/album/1qWaRfbau9xnyWI7Og9ab8) | 2:28 | 2024-09-02 |  |
@@ -341,6 +347,7 @@
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2021-03-06 | 2022-07-01 |
 | [Invisible](https://open.spotify.com/track/4n94rR0i171llDsLO6psCn) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [Invisible](https://open.spotify.com/album/7g322Oah98S5w7qjfAKvPg) | 3:02 | 2024-12-20 | 2025-04-26 |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2021-06-23 | 2024-12-07 |
+| [It didn’t work](https://open.spotify.com/track/5QF8HTekLtCvG1hcCOR7qt) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [It didn’t work](https://open.spotify.com/album/6pq02A3lQdLujjRqLISE8A) | 2:31 | 2026-02-09 |  |
 | [It's a Barnacle](https://open.spotify.com/track/66fDGcBzHL8zaJ089ee0pz) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 2:33 | 2020-12-24 | 2021-06-23 |
 | [It's all clear now](https://open.spotify.com/track/7c15nLM8jar2WY7Pm6eaVo) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:03 | 2020-12-11 | 2021-05-13 |
 | [it's alright now](https://open.spotify.com/track/5ZcF8Bf3GhQaoQPK1w8ZMH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [it's alright now](https://open.spotify.com/album/7uDsly7ClfwzfUAlwSOCCP) | 2:40 | 2020-10-20\* | 2020-11-21 |
@@ -780,6 +787,7 @@
 | [Waves](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [Waves](https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU) | 2:14 | 2022-10-07 | 2025-11-18 |
 | [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 | 2025-01-18 |
 | [Weighted](https://open.spotify.com/track/469uSkgXM3zccp9Oz9ykJo) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Weighted](https://open.spotify.com/album/6NIy3wI2JPiGxTfwTePCPp) | 6:57 | 2021-01-21 | 2021-06-23 |
+| [Went Out And Left](https://open.spotify.com/track/6U7JKEZmF6suzGjYyhlpNp) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Went Out And Left](https://open.spotify.com/album/3jYVeDRR4bA2ozoO1CbUGJ) | 2:12 | 2026-02-09 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2021-11-10 |  |
 | [Whale Shark](https://open.spotify.com/track/2uh0mszoKvH7gqrbf5xcXm) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Sticky Bottle EP](https://open.spotify.com/album/3qV8k73DqSusDiqVyVoFMn) | 2:36 | 2020-12-24 | 2022-08-05 |
 | [When I Get You Back Again](https://open.spotify.com/track/7y3C2tcH0b8E3MSOejPmiA) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Communion](https://open.spotify.com/album/230UdUGhv4EIyXMuygaOUK) | 5:59 | 2020-10-20\* | 2021-01-15 |

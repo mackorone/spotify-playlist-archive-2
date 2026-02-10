@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "New folk & americana driving the current, every week. Cover: Jensen McRae",
+  "description": "New folk & americana driving the current, every week. Cover: Mon Rov\u00eea",
   "name": "Folk Frequency",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 319693,
       "name": "Come Love Come",
       "url": "https://open.spotify.com/track/3VMgj5W7ui3LIbf3XYc8WB"
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "K\u00f6ln (Lost in Time)",
+        "url": "https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218046,
+      "name": "K\u00f6ln (Lost in Time)",
+      "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
+    },
+    {
+      "album": {
         "name": "The Sun Still Rises",
         "url": "https://open.spotify.com/album/5A2d8cOxuyeVrPW4pa9BXf"
       },
@@ -1603,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149435,
+      "name": "Old Fort Steel Trail",
+      "url": "https://open.spotify.com/track/0LUMAJihTHPlPGOPDfhdG8"
+    },
+    {
+      "album": {
         "name": "one more",
         "url": "https://open.spotify.com/album/4PmUFaFkjEDpnxJBFca7ua"
       },
@@ -1798,6 +1834,24 @@
       "duration_ms": 224755,
       "name": "Short and Sweet",
       "url": "https://open.spotify.com/track/2Qtk2DM442dGv6n9Fmbs5s"
+    },
+    {
+      "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Silk And Velvet",
+      "url": "https://open.spotify.com/track/0DBYse5Fm3xehgr0TkscJk"
     },
     {
       "album": {
@@ -2660,7 +2714,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 229094,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/0QhwvzrkLWjjPgvwHfqQvG"

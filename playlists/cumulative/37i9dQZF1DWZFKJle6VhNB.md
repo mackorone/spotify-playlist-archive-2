@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-177 songs - 9 hr 16 min
+178 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Apaixonadin \(feat\. Thiaguinho\) \- Ao Vivo](https://open.spotify.com/track/5HJq5FP7lFSWQc4kfs8Uef) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Apaixonadin \(feat\. Thiaguinho\) \[Ao Vivo\]](https://open.spotify.com/album/3JBeuppWRn7u6dnzjInNdQ) | 3:03 | 2022-02-10 | 2023-04-21 |
 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2022-02-10 | 2024-04-19 |
 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/62LiYpeFoJaixqkaNRGg47) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico Tão Feliz \- Deluxe](https://open.spotify.com/album/0Vyc1CPiHapppuNmA7rGTV) | 2:56 | 2022-02-10 | 2022-07-29 |
-| [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 | 2022-02-10 |  |
+| [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 | 2022-02-10 | 2026-02-10 |
 | [Atrasadinha \- Live](https://open.spotify.com/track/4DfPhCFm0Cx6VXr5Rxkx6D) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:52 | 2022-02-10 |  |
 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 | 2022-02-10 | 2024-04-19 |
 | [Balada \- Ao Vivo](https://open.spotify.com/track/5xeTiizOpClzA1Bb7Ak8YW) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo em São Paulo](https://open.spotify.com/album/4W9hStkV2XU2CZLdMeDG0T) | 3:40 | 2022-02-10 | 2022-05-05 |
@@ -117,6 +117,7 @@
 | [Minha Mulher Não Deixa Não](https://open.spotify.com/track/71F7cORbt75AidwDRJhrRC) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Minha Mulher Não Deixa Não](https://open.spotify.com/album/2Qb0yE1xctB0wSThzLDvXq) | 3:08 | 2022-02-10 | 2022-07-29 |
 | [Morena](https://open.spotify.com/track/235BOGYon3gz23rKrtNwle) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Adrenalizou](https://open.spotify.com/album/1Un9ukysYPYwQiwKWtSgMZ) | 2:44 | 2022-02-10 | 2022-07-29 |
 | [Morena](https://open.spotify.com/track/5UOBna7TimaJuyxB8Dg2jI) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 2:44 | 2022-02-10 | 2024-04-19 |
+| [Muriçoca](https://open.spotify.com/track/57gfBvTXrBURvvnkR4xaPQ) | [Rei da Cacimbinha](https://open.spotify.com/artist/1oYhynFI8ZgMAlYbyttb3f) | [Rei da Cacimbinha](https://open.spotify.com/album/4hNVFhigspLJm5GVT7L80a) | 3:10 | 2022-02-10 |  |
 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 | 2022-02-10 |  |
 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 | 2022-02-10 |  |
 | [Nosso Sonho](https://open.spotify.com/track/2utewTyarSbTNi8T6TB7sr) | [Claudinho & Buchecha](https://open.spotify.com/artist/4avp60HMZY8XgYe7VGi4SU) | [Novo Millennium](https://open.spotify.com/album/2PEn9XdR7UtrtNEXu9AtG4) | 5:04 | 2022-02-10 |  |

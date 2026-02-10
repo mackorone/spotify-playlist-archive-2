@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86034,
+  "num_followers": 86050,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
+  "snapshot_id": "AAAAAKpA7Ki1LeTivA2+esXPb/r4L0HU",
   "tracks": [
     {
       "added_at": "2026-01-30 12:23:04",
@@ -111,30 +111,18 @@
     {
       "added_at": "2026-01-30 12:23:04",
       "album": {
-        "name": "Stekker",
-        "url": "https://open.spotify.com/album/4mH2sHg1r5B7puLTOTIjkO"
+        "name": "Zomer Op Het Platteland",
+        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
       },
       "artists": [
         {
-          "name": "Hans Glock",
-          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        },
-        {
-          "name": "Ruthless",
-          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
-        },
-        {
-          "name": "Harrie Snijders",
-          "url": "https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S"
+          "name": "Beatcrooks",
+          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
         }
       ],
-      "duration_ms": 149298,
-      "name": "Stekker",
-      "url": "https://open.spotify.com/track/6nscTeH7uVeUgKEMTlu8sh"
+      "duration_ms": 150000,
+      "name": "Zomer Op Het Platteland",
+      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
     },
     {
       "added_at": "2026-01-30 12:23:04",
@@ -211,18 +199,26 @@
     {
       "added_at": "2026-01-30 12:23:04",
       "album": {
-        "name": "Zomer Op Het Platteland",
-        "url": "https://open.spotify.com/album/0eje2YhBe7SEHckRuoFu7m"
+        "name": "Gas Geven (Official Karnaval Festival 2025 Anthem)",
+        "url": "https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970"
       },
       "artists": [
         {
-          "name": "Beatcrooks",
-          "url": "https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b"
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Zomer Op Het Platteland",
-      "url": "https://open.spotify.com/track/3va9avvxP8THnv2ZFpZFpF"
+      "duration_ms": 138217,
+      "name": "Gas Geven - Official Karnaval Festival 2025 Anthem",
+      "url": "https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID"
     },
     {
       "added_at": "2026-01-30 12:23:04",
@@ -271,22 +267,26 @@
     {
       "added_at": "2026-01-30 12:23:04",
       "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/6vU3A351HmbFKWVo5cx8hJ"
+        "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
+        "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
       },
       "artists": [
         {
-          "name": "WESCALATIE",
-          "url": "https://open.spotify.com/artist/5v8NhwxY9vLSXmoLLBIobl"
+          "name": "Parla & Pardoux",
+          "url": "https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M"
         },
         {
-          "name": "Mike Versteeg",
-          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/1Ml2DLnhImfvYuOo4sJnpn"
+      "duration_ms": 180292,
+      "name": "Libert\u00e9 - Sefa & Outsiders Remix",
+      "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
     },
     {
       "added_at": "2026-01-30 12:23:04",
@@ -335,54 +335,6 @@
     {
       "added_at": "2026-01-30 12:23:04",
       "album": {
-        "name": "Gas Geven (Official Karnaval Festival 2025 Anthem)",
-        "url": "https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "Buren Van De Brandweer",
-          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
-        },
-        {
-          "name": "Villain",
-          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
-        }
-      ],
-      "duration_ms": 138217,
-      "name": "Gas Geven - Official Karnaval Festival 2025 Anthem",
-      "url": "https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID"
-    },
-    {
-      "added_at": "2026-01-30 12:23:04",
-      "album": {
-        "name": "Libert\u00e9 (Sefa & Outsiders Remix)",
-        "url": "https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO"
-      },
-      "artists": [
-        {
-          "name": "Parla & Pardoux",
-          "url": "https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        }
-      ],
-      "duration_ms": 180292,
-      "name": "Libert\u00e9 - Sefa & Outsiders Remix",
-      "url": "https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI"
-    },
-    {
-      "added_at": "2026-01-30 12:23:04",
-      "album": {
         "name": "Hartslag (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE"
       },
@@ -403,6 +355,34 @@
     {
       "added_at": "2026-01-30 12:23:04",
       "album": {
+        "name": "Stekker",
+        "url": "https://open.spotify.com/album/4mH2sHg1r5B7puLTOTIjkO"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        },
+        {
+          "name": "Ruthless",
+          "url": "https://open.spotify.com/artist/0xMCuSqF7uPefaatWnEx7F"
+        },
+        {
+          "name": "Harrie Snijders",
+          "url": "https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S"
+        }
+      ],
+      "duration_ms": 149298,
+      "name": "Stekker",
+      "url": "https://open.spotify.com/track/6nscTeH7uVeUgKEMTlu8sh"
+    },
+    {
+      "added_at": "2026-01-30 12:23:04",
+      "album": {
         "name": "Epic Sax Song",
         "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
       },
@@ -415,26 +395,6 @@
       "duration_ms": 176212,
       "name": "Epic Sax Song",
       "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
-    },
-    {
-      "added_at": "2026-01-30 12:23:04",
-      "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX"
     },
     {
       "added_at": "2026-01-30 12:23:04",
@@ -455,6 +415,26 @@
       "duration_ms": 178540,
       "name": "Jouw Liefste Wens (Happy H\u00f8ken)",
       "url": "https://open.spotify.com/track/2IujWWMdXhPYB2WLGtr4XN"
+    },
+    {
+      "added_at": "2026-01-30 12:23:04",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 158986,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX"
     },
     {
       "added_at": "2026-01-30 12:23:04",
@@ -487,6 +467,26 @@
       "duration_ms": 151775,
       "name": "Ik Ben Kachel - Hardstyle Remix",
       "url": "https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr"
+    },
+    {
+      "added_at": "2026-01-30 12:23:04",
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/6vU3A351HmbFKWVo5cx8hJ"
+      },
+      "artists": [
+        {
+          "name": "WESCALATIE",
+          "url": "https://open.spotify.com/artist/5v8NhwxY9vLSXmoLLBIobl"
+        },
+        {
+          "name": "Mike Versteeg",
+          "url": "https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/1Ml2DLnhImfvYuOo4sJnpn"
     },
     {
       "added_at": "2026-01-30 12:23:04",

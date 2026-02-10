@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "3 \u0412 1",
       "url": "https://open.spotify.com/track/0eMGY2LlWkgklI8WhHjR0y"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 63919,
       "name": "Balls balls balls balls",
       "url": "https://open.spotify.com/track/04sxgjJL9yQRd8LD9SysdX"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 199830,
       "name": "Beneath My Skin",
       "url": "https://open.spotify.com/track/3YS9z1r7MUsI8RxhdnCFnI"
@@ -6208,7 +6208,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 288679,
       "name": "Chained in Love",
       "url": "https://open.spotify.com/track/0aTRzhRcF9TLGIbKhrE1BM"
@@ -8848,7 +8848,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 221425,
       "name": "Dinle - Yeni Versiyon",
       "url": "https://open.spotify.com/track/70VZGGj3EMq5pMlvBtdwGL"
@@ -19772,7 +19772,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -20758,7 +20758,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 207240,
       "name": "Lu\u010de moje",
       "url": "https://open.spotify.com/track/7iMN7lixf6eLIGH1NKb7yT"
@@ -27990,7 +27990,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 123437,
       "name": "PUTKATA DARJI MI SE NAHALNO!",
       "url": "https://open.spotify.com/track/6CcuvRarafF2LSeCzISBJL"
@@ -37191,6 +37191,24 @@
     },
     {
       "album": {
+        "name": "Versatile - The Dark Triad (Slowed + Low Honor)",
+        "url": "https://open.spotify.com/album/544701joUsTjzSZSxcqOtb"
+      },
+      "artists": [
+        {
+          "name": "slenderpill",
+          "url": "https://open.spotify.com/artist/237rawiOSdfQRCfAhlowSx"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Versatile - The Dark Triad - Slowed + Low Honor",
+      "url": "https://open.spotify.com/track/0dLohoopycOGpzoaFROXvk"
+    },
+    {
+      "album": {
         "name": "Antologia Chast I (Anthology Part I)",
         "url": "https://open.spotify.com/album/25N9cGMDOc3ml4FQDg87nt"
       },
@@ -45626,7 +45644,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 206037,
       "name": "\u0422\u0410\u041c \u041a\u042a\u0414\u0415\u0422\u041e",
       "url": "https://open.spotify.com/track/3IpUgtsVCcZWwvh1VyIFOb"

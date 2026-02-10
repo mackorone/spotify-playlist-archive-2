@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "eyecandy",
+        "url": "https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69"
+      },
+      "artists": [
+        {
+          "name": "Roji",
+          "url": "https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120697,
+      "name": "eyecandy",
+      "url": "https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW"
+    },
+    {
+      "album": {
         "name": "FACT",
         "url": "https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM"
       },

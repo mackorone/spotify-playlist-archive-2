@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Mana ShankaraVaraprasad Garu
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,081 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,579 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [23 Theme \(From "AA23"\)](https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hector Salamanca](https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [23 Theme \(From "AA23"\)](https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2) | 0:47 |
 | 50 | [BHAJANA](https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn), [CLOWNY BEATZZ](https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm) | [BHAJANA](https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE) | 2:35 |
 
-Snapshot ID: `AAAAAPoEjlMZO2a3kwZ6KP6M3ei09Iup`
+Snapshot ID: `AAAAAOiCRSdwO+3cxbpqNMCOqBu0Lv4Q`

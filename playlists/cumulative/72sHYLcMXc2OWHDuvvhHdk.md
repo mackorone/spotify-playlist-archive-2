@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,030 songs - 4 day 22 hr 52 min
+2,034 songs - 4 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Dead Friends](https://open.spotify.com/track/3op93ySCVGjQdJmsK3W9t9) | [The Dream Eaters](https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf) | [Dead Friends](https://open.spotify.com/album/77336Ob8XEwoeeIfcJM5xM) | 3:12 | 2025-10-09 |  |
 | [Dead Maps](https://open.spotify.com/track/4fwi28PUijx79d4Ue0mi0p) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Dead Maps](https://open.spotify.com/album/7Lm97iW0QEuTxi5HS4Y076) | 2:20 | 2025-09-17 |  |
 | [Dead To Me](https://open.spotify.com/track/0P9XoT0xpvQUSU8PfkJ9Al) | [GATE49](https://open.spotify.com/artist/3H6d2Ium6kqak079Rg0LHG) | [Dead To Me](https://open.spotify.com/album/0naLIat48W6NkYybVCckCo) | 2:13 | 2025-06-13 |  |
+| [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 | 2026-02-10 |  |
 | [Deathbed Confession](https://open.spotify.com/track/272fKwbSnBABixCNI3gqEO) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 2:41 | 2025-03-12 |  |
 | [Decade](https://open.spotify.com/track/5JZdrxMCmXnbEOW7bk29b6) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Decade](https://open.spotify.com/album/4l7Ifnqf99rwBlT8SIV0ak) | 1:57 | 2025-03-04 |  |
 | [December](https://open.spotify.com/track/7HbI0dDQnXKOszPzgvG01l) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [December](https://open.spotify.com/album/4GeysprOGKnLm9WoOBHv7J) | 3:30 | 2024-06-03 |  |
@@ -1517,6 +1518,7 @@
 | [Sleepwalker](https://open.spotify.com/track/6b0NRaHddphO4X9UIMxUYc) | [Inal Bilsel](https://open.spotify.com/artist/6proJZlRKgCAFVgfvwzdtT) | [Sleepwalker](https://open.spotify.com/album/4MYh0dRCe08AYx8KAiLBCa) | 5:23 | 2024-11-26 |  |
 | [Slow Motion](https://open.spotify.com/track/0HMdlUyqI2DBWypxiNgYdC) | [Mantinø](https://open.spotify.com/artist/3VJKPyX6vzH0xc4qHaJM4a) | [Slow Motion](https://open.spotify.com/album/58NgB3KNwM9fCPw8yBEPu2) | 2:18 | 2025-12-29 |  |
 | [Slow Secrets](https://open.spotify.com/track/74MjRwoVB9uVAzmgcnwaAq) | [Was a Wolf](https://open.spotify.com/artist/1EHTnpulUzfLp6suYQ31FV) | [Slow Secrets](https://open.spotify.com/album/2o1LzVli8YVUiXM903SeEx) | 3:45 | 2025-08-04 |  |
+| [Smoke](https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ) | [Clejan](https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl), [Ohd Beats](https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58) | [Smoke](https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11) | 2:08 | 2026-02-10 |  |
 | [Smoke Spot](https://open.spotify.com/track/0P2RQZocAubwcVTTDU45WF) | [Aflu Enza](https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz), [Devin C Askounis](https://open.spotify.com/artist/2jWWcQXysR4kG07VaImzHp) | [Smoke Spot](https://open.spotify.com/album/31LA6JcQ6O7ZmHh6SvuS75) | 2:18 | 2025-10-13 |  |
 | [Smokin Gun](https://open.spotify.com/track/7iH7iYqyfBs6oHcVKkefkZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Smokin Gun](https://open.spotify.com/album/6eKjxfU6Pbyn0uomUD11fC) | 2:32 | 2024-08-28 |  |
 | [Snowdrifts](https://open.spotify.com/track/48JXXf8E3VdS8mynCRl0wn) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [The Eyes of Argus](https://open.spotify.com/album/41RRynM4jWTWPoIcfvBJ8r) | 7:27 | 2025-08-13 |  |
@@ -1618,6 +1620,7 @@
 | [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 | 2025-12-30 |  |
 | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6iE7zxU2d2kv6T9gAtKcXD) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/6YJlzprDtsi3CAMsSzUxOu) | 3:38 | 2025-05-19 |  |
 | [Survival](https://open.spotify.com/track/4SehfhHiVu5A0t76uJ87X3) | [Kat Farley](https://open.spotify.com/artist/7FDvSNqPqTyvaRCarX4mdB) | [Shadow & Shine](https://open.spotify.com/album/5E9YQ4OKJ4uP0g4stFd3c4) | 3:08 | 2025-06-20 |  |
+| [Susmuyor Düşünceler](https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Susmuyor Düşünceler](https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS) | 2:18 | 2026-02-09 |  |
 | [Sweet Ann](https://open.spotify.com/track/74xu3P3jkaWFflsNltWcin) | [Bedford Bells](https://open.spotify.com/artist/457xGOVmJGT5KdngsyRHb4) | [Sweet Ann](https://open.spotify.com/album/1DSotgaWt8znRNiYDAA3fa) | 3:09 | 2025-01-27 |  |
 | [Sweet Army of Mine](https://open.spotify.com/track/7qzVz3tBYpK0HOS2JTp2Dn) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Sweet Army of Mine](https://open.spotify.com/album/6aXp2kTTvb73rAQY7q66S3) | 2:44 | 2025-07-09 |  |
 | [Sweet Blue Moon](https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW) | [Victoria Staff](https://open.spotify.com/artist/1CxFiD1ixwWLP3xhETS60s) | [Sweet Blue Moon](https://open.spotify.com/album/6k4f04JZ886TCHFKzAWmQL) | 2:50 | 2026-02-03 |  |
@@ -1879,6 +1882,7 @@
 | [Warm In Your Arms \- Vintage Hall Version](https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs) | [Aqua Music](https://open.spotify.com/artist/4ePcCXBWcHkxBflhVSM5rd) | [Aquarius](https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz) | 3:20 | 2025-07-13 |  |
 | [Was Ist Schon Perfekt?](https://open.spotify.com/track/2vLPHbLEXuhj5YvrMj9vfA) | [NAHO](https://open.spotify.com/artist/41uWslIMyRwwThLcprJvNb) | [Was Ist Schon Perfekt?](https://open.spotify.com/album/0eiFvrV8VIHqbJRkVB2CAj) | 2:46 | 2025-08-01 |  |
 | [Wasted Time](https://open.spotify.com/track/650vvNfkO4iOKeRi8g7Z8T) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/13xLE4SXqI8IpRTeP4pudt) | 4:11 | 2025-11-06 |  |
+| [Wasting Time](https://open.spotify.com/track/3nczBTLEklKhGnqJjbOtLP) | [Hazy Oak](https://open.spotify.com/artist/3KNkF4bGScih7yD1o08Kro) | [The Downfall](https://open.spotify.com/album/0T2Teicw5xgqPIGUgWGFtQ) | 4:10 | 2026-02-09 |  |
 | [Wastin’ My Life](https://open.spotify.com/track/5G0zBtxJ3O7Jao2zZxcIV0) | [Randall Stephens](https://open.spotify.com/artist/1WCPd1QOC0eRBgZjepF0M9) | [The Lesser American Songbook](https://open.spotify.com/album/7ayApN9Ctp5muqksfpGRIE) | 2:58 | 2025-09-02 |  |
 | [Water](https://open.spotify.com/track/0hHXX57LmZYQPJJ7NN0ypz) | [sreehariotb](https://open.spotify.com/artist/6MXkKl75NEZsmdoMSQEpB4) | [Water](https://open.spotify.com/album/2JCurKmWjgrYFFmPFWApnQ) | 2:33 | 2024-11-26 |  |
 | [Water, Whiskey & Blood](https://open.spotify.com/track/3Ltv7PJ9QKOJvY5FI8ukwS) | [Jason Crowe](https://open.spotify.com/artist/0sLGB6Q7Zlr75d7lwVkDH3) | [Water, Whiskey & Blood](https://open.spotify.com/album/470YgndgnC6im6gsrbL8c8) | 3:40 | 2025-03-06 |  |

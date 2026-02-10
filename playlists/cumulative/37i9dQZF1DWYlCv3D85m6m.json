@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158106,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/7tB2UA9Rty4yj9VwcMzO3z"
+    },
+    {
+      "album": {
         "name": "Taste of Love",
         "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
       },
@@ -1086,6 +1104,24 @@
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/1w6b63TmaXFk1jhPOY0FkY"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Do not touch",
+      "url": "https://open.spotify.com/track/5TgnIL0nXiFPnaKpUpyzer"
     },
     {
       "album": {
@@ -2142,6 +2178,24 @@
       "duration_ms": 140466,
       "name": "Identity",
       "url": "https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/0BOF9xTXyotoFuPpoLtFdz"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/5JV3lNagaK0pemTiS7Npw3"
     },
     {
       "album": {

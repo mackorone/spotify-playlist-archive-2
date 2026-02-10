@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > La lista donde viven los hits más grandes de la Isla del Encanto\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,093 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 2 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 3 | [BIENVENIDA](https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [No vuelve a suceder \(calentamiento pre álbum\)](https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB) | 1:45 |
-| 4 | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [KARBeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4) | 3:33 |
-| 5 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
+| 1 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
+| 2 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
+| 3 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
+| 4 | [BIENVENIDA](https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [No vuelve a suceder \(calentamiento pre álbum\)](https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB) | 1:45 |
+| 5 | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [KARBeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/7c6vZUg8HMdXnAtBHUFLT4) | 3:33 |
 | 6 | [NETFLIX AND CHILL](https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [NETFLIX AND CHILL](https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR) | 3:40 |
 | 7 | [Te Capie](https://open.spotify.com/track/4WXVp5dzCDDaQjr4Ueukbm) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Underwater](https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y) | 3:02 |
 | 8 | [Loyalty 4 Ever](https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Loyalty 4 Ever](https://open.spotify.com/album/6paSdgWQaYeRJtvhiHdvg1) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 49 | [Rose](https://open.spotify.com/track/0zY6VwcJajbJdXdTaIKfb8) | [yovngmanota](https://open.spotify.com/artist/6EDVu3xVa0VFfMhxKbBxuJ) | [Rose](https://open.spotify.com/album/5WOmHHQ1SHgLHaG4LrwgmK) | 2:26 |
 | 50 | [⁠LUCES DE COLORES](https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:36 |
 
-Snapshot ID: `AAAAAAzDec69BB25vC8aqdgca0xIdUd9`
+Snapshot ID: `AAAAAFtakwTOdftzrBF/+U0eOqehe8QR`

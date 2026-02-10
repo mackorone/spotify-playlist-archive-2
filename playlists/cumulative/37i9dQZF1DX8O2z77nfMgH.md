@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Ramma + Cindy Cats
 
-12,465 songs - 27 day 11 hr 41 min
+12,465 songs - 27 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8081,7 +8081,7 @@
 | [OCÉANO](https://open.spotify.com/track/1We9poQpHkLdfayc6MiHuM) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [OCÉANO](https://open.spotify.com/album/7Art4AUInCgrGg6FE5FHvd) | 3:48 | 2025-02-21 | 2025-03-01 |
 | [Odiame](https://open.spotify.com/track/5uXRXeVRkDF93pPRPmcNRA) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Odiame](https://open.spotify.com/album/6S364bPOgvVmneoVXVAuBT) | 3:01 | 2024-03-15 | 2024-03-23 |
 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 | 2023-04-21 | 2023-04-29 |
-| [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 4:29 | 2026-02-06 |  |
+| [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 3:38 | 2026-02-06 |  |
 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-12 | 2023-05-20 |
 | [Odio Madrid](https://open.spotify.com/track/5ffZqe9Yjrbwq6fXIUcJfZ) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Lunática](https://open.spotify.com/album/5CGFf2A8xcEMh1KawO9ztV) | 3:59 | 2025-10-17 | 2025-10-25 |
 | [Odio Odiarme](https://open.spotify.com/track/3KACg25zaLJqra1gvIRLwX) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Odio Odiarme](https://open.spotify.com/album/7aTXNvIk94LtvPOVJq0Fbq) | 2:06 | 2025-04-04 | 2025-04-12 |

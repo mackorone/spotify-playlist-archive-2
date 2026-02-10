@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 482,
+  "num_followers": 483,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACk84Ept32k3BRZESy2brrOdeP7RH5",
+  "snapshot_id": "AAACmcNa4YXmF+4GuLtg45jEFsHLw/Gt",
   "tracks": [
     {
       "added_at": "2026-02-07 19:33:06",
@@ -1155,6 +1155,102 @@
       "duration_ms": 239000,
       "name": "One of a Kind",
       "url": "https://open.spotify.com/track/3E0wt0y6e6lNaX2fsyhAop"
+    },
+    {
+      "added_at": "2026-02-09 14:19:25",
+      "album": {
+        "name": "Horrible Parallel",
+        "url": "https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7"
+      },
+      "artists": [
+        {
+          "name": "Angelic Bipolar",
+          "url": "https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe"
+        }
+      ],
+      "duration_ms": 174125,
+      "name": "Smokky",
+      "url": "https://open.spotify.com/track/4EIYedHpU8bSOZzyYL8yA3"
+    },
+    {
+      "added_at": "2026-02-09 15:04:31",
+      "album": {
+        "name": "No Independent Thought",
+        "url": "https://open.spotify.com/album/6PsLu1yTyG9WulgZf6a3Ui"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 156839,
+      "name": "... to Rule the Ashes",
+      "url": "https://open.spotify.com/track/2LnVI1xVzHJnpIfwHBDGJy"
+    },
+    {
+      "added_at": "2026-02-09 16:02:00",
+      "album": {
+        "name": "We're Not Lovers",
+        "url": "https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Butler",
+          "url": "https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a"
+        }
+      ],
+      "duration_ms": 167402,
+      "name": "We're Not Lovers",
+      "url": "https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk"
+    },
+    {
+      "added_at": "2026-02-09 17:21:42",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/036WIs8gZARURbPzsx82od"
+      },
+      "artists": [
+        {
+          "name": "Early Exit",
+          "url": "https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/0gqElVc5uE7vMDD10MSA1d"
+    },
+    {
+      "added_at": "2026-02-09 17:44:26",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ"
+    },
+    {
+      "added_at": "2026-02-09 18:13:37",
+      "album": {
+        "name": "Tic toc",
+        "url": "https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko"
+      },
+      "artists": [
+        {
+          "name": "Lucy Benedetti",
+          "url": "https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Tic toc",
+      "url": "https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

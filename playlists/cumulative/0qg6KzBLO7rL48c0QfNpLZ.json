@@ -8929,6 +8929,24 @@
     },
     {
       "album": {
+        "name": "Fire In Her Eyes",
+        "url": "https://open.spotify.com/album/2Ev5d8BbdYKYkvAyLjN9zl"
+      },
+      "artists": [
+        {
+          "name": "Johny Luv",
+          "url": "https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116500,
+      "name": "Fire In Her Eyes",
+      "url": "https://open.spotify.com/track/748VBDgvTskcuvozGHLJcM"
+    },
+    {
+      "album": {
         "name": "Fire In You",
         "url": "https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm"
       },
@@ -25868,6 +25886,24 @@
       "duration_ms": 117124,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/59s5URqAqfW3zbXwt0BKH2"
+    },
+    {
+      "album": {
+        "name": "The World Feels True",
+        "url": "https://open.spotify.com/album/05odgw6F8Yw93f7Nb250VP"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162172,
+      "name": "The World Feels True",
+      "url": "https://open.spotify.com/track/3ir4gIfgHfdOkEuZepdRev"
     },
     {
       "album": {

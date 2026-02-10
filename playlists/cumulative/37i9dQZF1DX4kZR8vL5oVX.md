@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Myra \(du titre \#1 au \#15\).
 
-1,855 songs - 4 day 0 hr 14 min
+1,856 songs - 4 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 | 2023-11-07 | 2023-11-30 |
 | [En tas](https://open.spotify.com/track/311ssPqcNd2wVwT1tj6QsE) | [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [En tas](https://open.spotify.com/album/4kH0PIZSyDbUC4Iyj5ZcoT) | 2:34 | 2024-04-30 | 2024-06-05 |
 | [En vrai](https://open.spotify.com/track/7xSSggcH3eyq3drcXLm7IL) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [En vrai](https://open.spotify.com/album/4YMqcQqGuONqWkXpNahXLe) | 2:51 | 2022-05-03 | 2022-06-01 |
+| [Enchantée](https://open.spotify.com/track/4HqhK1ouZ3L4TyAeVJZeUE) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Enchantée](https://open.spotify.com/album/7sptntglnOlnYaIEB7fySz) | 2:18 | 2026-02-09 |  |
 | [Encore](https://open.spotify.com/track/0kEJMP9Dtn4BV6oBQt2STI) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [ENCORE](https://open.spotify.com/album/1EK3ArOlQEaQCqBOlx59V0) | 1:57 | 2025-04-02 | 2025-05-07 |
 | [Encore](https://open.spotify.com/track/5DsYQhuJeUqNbGxIr8Ans5) | [Céline Aviani](https://open.spotify.com/artist/4tRlZZ759Bi8Z9xoxBntOt) | [Encore](https://open.spotify.com/album/0RJTRnY0n5OdmalJAUNy5J) | 2:56 | 2023-09-05 | 2023-10-04 |
 | [Encore](https://open.spotify.com/track/2nCRT5GUUrHFrTqJUJHT7U) | [LAURA LTX](https://open.spotify.com/artist/6R9YLj49EhRnmpe5OZ5vjN), [Blackbrown](https://open.spotify.com/artist/6oRauNWH0RFcITK3CF4PbQ) | [Encore](https://open.spotify.com/album/6tR2hrEphEYyLNChyuVlzv) | 2:19 | 2023-08-01 | 2023-09-06 |

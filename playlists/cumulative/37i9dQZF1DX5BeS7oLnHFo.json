@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 214222,
       "name": "Influenza",
       "url": "https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi"
@@ -1144,6 +1144,28 @@
       "duration_ms": 193604,
       "name": "Storm",
       "url": "https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7"
+    },
+    {
+      "album": {
+        "name": "TABOOT",
+        "url": "https://open.spotify.com/album/66ZgAfsd41sy3kRELM40N3"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "MSati 7",
+          "url": "https://open.spotify.com/artist/6ZsgDzHYazjnG5NzMfPHC9"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144053,
+      "name": "TABOOT",
+      "url": "https://open.spotify.com/track/6motnIl1IffKpaWvHGAk1w"
     },
     {
       "album": {

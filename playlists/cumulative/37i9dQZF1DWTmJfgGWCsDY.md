@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Kidene Fighter
 
-179 songs - 11 hr 48 min
+180 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 | 2023-09-14 |  |
 | [Kijumbe](https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Kijumbe](https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG) | 3:22 | 2025-06-05 | 2025-07-18 |
 | [Kinondoni](https://open.spotify.com/track/0ST4KqPk1JIKfuksh2jjOG) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Kinondoni](https://open.spotify.com/album/57gSV4FBKYQhvEAWVnv6lh) | 3:02 | 2025-11-27 | 2026-01-24 |
-| [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 | 2023-09-01 |  |
+| [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 | 2023-09-01 | 2026-02-10 |
 | [Kosa Langu](https://open.spotify.com/track/29Ef4yxnARlU2yykvmHq7s) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Don Breezy](https://open.spotify.com/artist/2W2NVgvQhDjg6eAWHRxRmy) | [Kosa Langu](https://open.spotify.com/album/0BKfyfvpxZj4j69IzW64ME) | 4:29 | 2025-11-20 | 2026-01-27 |
 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 | 2022-11-24 | 2025-10-17 |
 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 | 2022-08-05 |  |
@@ -183,6 +183,7 @@
 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 | 2022-08-05 |  |
 | [Wee Wee](https://open.spotify.com/track/1ViX2vdIpIAnDYOJs6agc3) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Wee Wee](https://open.spotify.com/album/0aoFdkqRzD37EHINWBLAeL) | 3:48 | 2025-05-22 | 2025-10-08 |
 | [Weeeweeeeeeee](https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Weeeweeeeeeee](https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o) | 3:50 | 2025-06-19 |  |
+| [Wewe Hapo](https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Mr Blue](https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf) | [Wewe Hapo](https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl) | 2:28 | 2026-02-05 |  |
 | [Wezi](https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wezi](https://open.spotify.com/album/47kpUKtAt0sDQKYeXuZX1Y) | 3:25 | 2025-11-13 |  |
 | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa) | 3:45 | 2025-05-16 |  |
 | [Yaleyale](https://open.spotify.com/track/6BDkCGJ1IoHmmHdMzH6JkB) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm), [Kidensa Mc](https://open.spotify.com/artist/4Cgp65TL9ELS0HZY6Kz4nm) | [Yaleyale](https://open.spotify.com/album/0Qdy7p98e9Fz9UyTag69RB) | 4:24 | 2025-12-05 | 2026-01-20 |

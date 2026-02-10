@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,134 likes - 173 songs - 10 hr 8 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,125 likes - 165 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,13 +173,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 163 | [Fallback](https://open.spotify.com/track/2IcsKxwSl5wmZPqDCw2OL9) | [Dhezz](https://open.spotify.com/artist/0dNeAYX3VGWjkKQp3W4nLZ) | [Fallback](https://open.spotify.com/album/2C77CCNDgKGkpW1D9JY1lN) | 2:39 |
 | 164 | [No King in no Castle](https://open.spotify.com/track/28KmAN5LFhU7pULUbQhJlv) | [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [No King in no Castle](https://open.spotify.com/album/0QABYOAWkmMdCWwZP4OWMQ) | 3:06 |
 | 165 | [sad forever](https://open.spotify.com/track/2giOAvgiB3uJUwWYWwKu84) | [Eliana](https://open.spotify.com/artist/6at6gA54NPGopl52Hbsd1K) | [sad forever](https://open.spotify.com/album/5F0N3X76szNkulPkX5grdT) | 3:17 |
-| 166 | [For a While](https://open.spotify.com/track/2FKKTm0sYw1B7YNahklj8w) | [Eduardo](https://open.spotify.com/artist/3WsZM6YC4gxvcEMvGCbYXq) | [For a While](https://open.spotify.com/album/4FxbcjjaRIuG0WefZyPVFF) | 3:59 |
-| 167 | [17](https://open.spotify.com/track/0IHb6jmy7znHrHf7OgqeIQ) | [Tahani](https://open.spotify.com/artist/7L4VxMAtqFNfhO4oWBMuQb) | [17](https://open.spotify.com/album/5gP4TU7UyUOJLS3sokcdpE) | 3:41 |
-| 168 | [This Is the Year](https://open.spotify.com/track/7GbmNgVVEJCHrLaZnF5vCK) | [Sean Kiely](https://open.spotify.com/artist/05N3mPsPMp6wxqMLgrstbp), [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [This Is the Year](https://open.spotify.com/album/3atPFMgIdFC1YaAVjxWPZi) | 3:19 |
-| 169 | [summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR) | 2:31 |
-| 170 | [NOCHES DE GALERIA](https://open.spotify.com/track/5C8NG1A26GXJl8XndEC1Nc) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Yung Luv](https://open.spotify.com/artist/5jKGPJIjXocoSDC3q1AxgG), [GZII](https://open.spotify.com/artist/1IKOU0wPUwcE8Q9C7ZWRT6) | [CERTIFIED BLOCK BOYZ](https://open.spotify.com/album/5rArszEuw71TvYTk8UggXv) | 3:27 |
-| 171 | [Brenda Debbie & Karen](https://open.spotify.com/track/7HNcxKWMyx78oxJjpVpdSL) | [Lauren Rose Thayer](https://open.spotify.com/artist/7yOvJ5Sif14Qf0pbdvaXdb) | [Brenda Debbie & Karen](https://open.spotify.com/album/7hHq8H1Trk5BqNZwaYLH3D) | 2:48 |
-| 172 | [Creating Something](https://open.spotify.com/track/0tirjUN9SZJEuCBALqTbTS) | [Troy Patterson](https://open.spotify.com/artist/6oGNwXXxiWaGnJpRO9GFLX) | [Creating Something](https://open.spotify.com/album/177v92wKKWK3EacuS2WdXI) | 3:21 |
-| 173 | [Wagmi](https://open.spotify.com/track/34HmEuy37dFc2iDFFpsrHw) | [Everyday Dolores](https://open.spotify.com/artist/1GauKV9tnRnsA5i6apwwDO) | [Wagmi](https://open.spotify.com/album/53UQIfW3qZEgsmYeLsvbBX) | 4:15 |
 
-Snapshot ID: `AAA33DhCCTBcALp88MZUvryXnHU8kzzo`
+Snapshot ID: `AAA33WElCkh1M5fcnYZGi6bcLeQtGaEO`

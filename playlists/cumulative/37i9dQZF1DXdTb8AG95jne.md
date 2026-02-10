@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CHOSNG\(초승\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,240 songs - 3 day 3 hr 6 min
+1,243 songs - 3 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 | 2025-07-23 |
 | [Baby Step \(feat\. siso\)](https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Baby Step](https://open.spotify.com/album/2mZfRTmfhY6eQXYcfIqxRq) | 3:01 | 2025-06-26 | 2025-07-07 |
 | [Back to zero](https://open.spotify.com/track/3xDCorvyyw6kwnRVo6wYdG) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Back to zero](https://open.spotify.com/album/3QQ2iixWjRfdk25MMks8zO) | 2:50 | 2025-12-04 |  |
+| [bad friend](https://open.spotify.com/track/6uCPuIVSEE2xXBjROxJAPg) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [bad friend](https://open.spotify.com/album/1pjxuYytNXtjCEfw2SAtMM) | 2:42 | 2026-02-09 |  |
 | [Bad News](https://open.spotify.com/track/62n9pY9ASBu876GnTNESYO) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Bad News](https://open.spotify.com/album/3Ypjq0ayZL9QeSzpc6iyZj) | 3:12 | 2025-09-22 | 2025-11-03 |
 | [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 | 2024-05-10 |
 | [Bad Thinkin'](https://open.spotify.com/track/6LaJ5XmWySED10xKG3edR7) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [Bad Thinkin'](https://open.spotify.com/album/7xKsX3msABCAOOpcl7j6HQ) | 2:44 | 2024-06-06 | 2024-06-19 |
@@ -111,7 +112,7 @@
 | [BEAUTY](https://open.spotify.com/track/0inDmDmSGkTRVqURPRqhVZ) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side D'](https://open.spotify.com/album/3DGVCqVjWMTUAdATGUoqYR) | 3:17 | 2022-03-31 | 2022-04-18 |
 | [because of summer night](https://open.spotify.com/track/0WICLp41X7Iz67jLTgpGxA) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [because of summer night](https://open.spotify.com/album/72wqyP6TYjLZy5D0zKCXpw) | 3:09 | 2025-07-23 | 2025-09-02 |
 | [been waiting](https://open.spotify.com/track/7Jkl4CQWdyUoimJKnLglf8) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [been waiting](https://open.spotify.com/album/7pEQJyIfqnRSLp75bPIMJ0) | 3:18 | 2022-04-12 | 2022-04-17 |
-| [Belated Christmas](https://open.spotify.com/track/3XmBthfu3EcoDPfW7CL9Db) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Belated Christmas](https://open.spotify.com/album/27EieiDW9ozKSI90Ms5Gvq) | 4:06 | 2026-01-05 |  |
+| [Belated Christmas](https://open.spotify.com/track/3XmBthfu3EcoDPfW7CL9Db) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Belated Christmas](https://open.spotify.com/album/27EieiDW9ozKSI90Ms5Gvq) | 4:06 | 2026-01-05 | 2026-02-10 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2021-12-21 | 2022-07-22 |
 | [Best I Ever Had \(Feat\. Vincent Blue\)](https://open.spotify.com/track/45p2wCkqKM9tK71azx6609) | [EB](https://open.spotify.com/artist/370Xs2iZzYs6RSjSmtgmS5), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Best I Ever Had](https://open.spotify.com/album/3obrbXrfwc8oDmhTiJ5nDz) | 2:59 | 2025-04-22 | 2025-05-21 |
 | [Better Better](https://open.spotify.com/track/4BC3Yz9D5BS1APX5IP4ZP9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Ma Lil Planet](https://open.spotify.com/album/0u9OtiNg7h34f5qc9VLVVn) | 3:10 | 2025-03-04 | 2025-04-11 |
@@ -737,7 +738,7 @@
 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 | 2022-07-27 | 2023-07-03 |
 | [No Parking](https://open.spotify.com/track/0WB8Mlh8kAuCzMOLRPViBa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [No Parking](https://open.spotify.com/album/7jbvIztCHFiJ9kBHzIFx7W) | 4:17 | 2024-12-19 | 2025-03-05 |
 | [No Reason](https://open.spotify.com/track/2bFKSblSou0f9BnGsO1lSA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [No Reason](https://open.spotify.com/album/0s2AqRLQOx2w57ZX4CfFWk) | 2:49 | 2022-03-31 | 2022-06-21 |
-| [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 | 2026-01-14 |  |
+| [No Worry Salon](https://open.spotify.com/track/0qTny0XZx8NOzJLjiOLQoU) | [sanha](https://open.spotify.com/artist/3SSkfDFsKDXm5gwMK47uBR) | [No Worry Salon](https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu) | 4:11 | 2026-01-14 | 2026-02-10 |
 | [Nobody \(With Mac curly\)](https://open.spotify.com/track/0mCOeuPYwQbEjReOmQhDhX) | [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [PREVIEW \- Vincent Park](https://open.spotify.com/album/5SZJbfMzxp0QTJBhBm2eR0) | 3:07 | 2021-12-21 | 2022-06-02 |
 | [Nobody can find us](https://open.spotify.com/track/18sJ7LfYeLdZIHJKC3wc9g) | [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa) | [Nobody can find us](https://open.spotify.com/album/6FOdQu6OKJdVZcfn6XjGEk) | 3:24 | 2022-04-12 | 2022-04-21 |
 | [Nobody Knows](https://open.spotify.com/track/23qUzPqxqNOfeMfxO5LhoS) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [Lasha](https://open.spotify.com/album/1mtNGgqIJJJongT6SqK4Um) | 4:24 | 2024-09-10 | 2024-10-05 |
@@ -797,6 +798,7 @@
 | [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 | 2025-06-17 | 2025-06-30 |
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
+| [Pieces of You](https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Pieces of You](https://open.spotify.com/album/5esntY1qMQj4JEfadP5aIX) | 3:36 | 2026-02-09 |  |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 | 2025-06-14 |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
@@ -1098,6 +1100,7 @@
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-15 |
 | [Universe](https://open.spotify.com/track/1PADgC899dnHdG6fXHBLS9) | [Blue Lamb](https://open.spotify.com/artist/1Cr1LdGDo0RY3ihHkXQt7m) | [Universe](https://open.spotify.com/album/4C3NODVeITNjrOpiyCFUIa) | 3:55 | 2022-03-31 | 2022-04-21 |
 | [unsaid](https://open.spotify.com/track/52KCHvo4qZRGqiu3W7hk17) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [unsaid](https://open.spotify.com/album/3Zj0XuAa3Xzl439gDiFArR) | 3:08 | 2025-11-28 | 2026-02-03 |
+| [Unstable](https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp) | [Itzel](https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O) | [Unstable](https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI) | 2:54 | 2026-02-09 |  |
 | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 | 2024-01-30 | 2024-05-10 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |
 | [Untitled Youth](https://open.spotify.com/track/2seJWl70G8rJa4eNI2bef6) | [RYE](https://open.spotify.com/artist/1cxx3blWps3N86tFei5Yji) | [Untitled Youth](https://open.spotify.com/album/6UINEg2FXlzPV4WEDyx4Tp) | 3:29 | 2025-04-30 | 2025-05-14 |
@@ -1232,7 +1235,7 @@
 | [별, 사이\(2026\)](https://open.spotify.com/track/0Vxb8VgxTidGl8jfsux5Kt) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [별, 사이\(2026\)](https://open.spotify.com/album/5GXWNgcRwppo8csrzEHyPy) | 3:45 | 2026-02-02 |  |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-10 | 2024-10-10 |
-| [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/track/1x51l9lzqwmvVZQY4YCHAm) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/album/0zo5w36seemxcNKNMuhG5n) | 2:57 | 2026-01-05 |  |
+| [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/track/1x51l9lzqwmvVZQY4YCHAm) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/album/0zo5w36seemxcNKNMuhG5n) | 2:57 | 2026-01-05 | 2026-02-10 |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |
 | [사탕가루](https://open.spotify.com/track/74FLPLC9oWghQQ9Z40ChKK) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [사탕가루](https://open.spotify.com/album/3ycU2bmGecgKaHPYuizzjD) | 3:02 | 2025-02-12 | 2025-04-11 |
 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2024-01-15 | 2024-03-02 |

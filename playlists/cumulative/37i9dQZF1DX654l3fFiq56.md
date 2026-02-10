@@ -4,7 +4,7 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-130 songs - 8 hr 40 min
+132 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Playlist](https://open.spotify.com/track/2qBJN3eYfsr4vUjyG1MUg5) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [Playlist](https://open.spotify.com/album/5TAz6li7lgyrWcMqhVOrg7) | 2:48 | 2023-01-15 | 2024-01-24 |
 | [Reset](https://open.spotify.com/track/2xgcpJvCKyqlZtDud3abbH) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 4:37 | 2023-01-15 | 2024-01-24 |
 | [Rewind](https://open.spotify.com/track/1Z0sk4J3E8Nc7ELs1UWG3x) | [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [Rewind](https://open.spotify.com/album/3QO2j6MBJjtVKA2iSCoQAc) | 2:47 | 2026-01-25 |  |
+| [SEMI\-FINAL](https://open.spotify.com/track/6hJ6Ws24hrcnt3eRyqk2MU) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [SEMI\-FINAL](https://open.spotify.com/album/2f3WhJGOgW4IAUmQKjijEV) | 2:51 | 2026-02-09 |  |
 | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/track/4jXWHwvxZreFh1fjXIStWs) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Take Me to the Edge《地獄里長》插曲](https://open.spotify.com/album/6els5e7eyVp1WPF1MBtvqE) | 3:20 | 2024-01-23 | 2025-01-11 |
 | [Wait With Me \- Movie "KIDS" Ending Song](https://open.spotify.com/track/0BD2aB9XkKit3cxDaybByd) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Movie "KIDS" Soundtrack](https://open.spotify.com/album/1me16pQ0TSCXwvIeNBtAN0) | 4:58 | 2024-01-23 | 2024-04-19 |
 | [《不渝》（電視劇《鳳凰臺上》片頭主題曲）](https://open.spotify.com/track/2I41HXwakMNrpcNzpvwz4I) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [《不渝》（電視劇《鳳凰臺上》片頭主題曲）](https://open.spotify.com/album/0ndnNg1ZfUpiKZ4kWhs1fE) | 4:26 | 2026-01-25 |  |
@@ -111,6 +112,7 @@
 | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/track/2Al1p39pSexbE022iobU8m) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO), [楊和蘇KeyNG](https://open.spotify.com/artist/49CtkDvDlgQjW3ZoUySsMQ) | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/album/3Z4zJXOM2XK1MPdShAya6X) | 3:43 | 2026-01-25 |  |
 | [沙粒 \- 電影《野夏天》插曲](https://open.spotify.com/track/5NOFfWTJgzyv84qmYXO1q6) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [沙粒 \(電影《野夏天》插曲\)](https://open.spotify.com/album/5uz2psSQ2emMyc9jXmyJtL) | 3:01 | 2023-01-15 | 2024-01-24 |
 | [消化不良](https://open.spotify.com/track/70f6tdZuoGjsWLpNzjIvEU) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [消化不良](https://open.spotify.com/album/3qfr0K1yzBx2JpqECx1ED1) | 3:51 | 2023-01-15 | 2024-01-24 |
+| [玉蘭](https://open.spotify.com/track/3TWobisc8YIIIe24QFsRz0) | [J\. WALK](https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP) | [玉蘭](https://open.spotify.com/album/4SeVQIQ7MklclsPKJBwnb8) | 3:15 | 2026-02-09 |  |
 | [生日禮物2020](https://open.spotify.com/track/4xDPYSavntN5EiS193bT7u) | [關喆](https://open.spotify.com/artist/0mSrTqOYx263280W4EiuJE) | [生日禮物2020](https://open.spotify.com/album/2Ff32hV23ytsfAScLNmA1a) | 3:54 | 2022-01-11 | 2025-01-11 |
 | [白飯](https://open.spotify.com/track/02vfLD7qje4PUTjjWfLado) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [消化不良](https://open.spotify.com/album/3qfr0K1yzBx2JpqECx1ED1) | 3:24 | 2022-01-11 | 2023-01-16 |
 | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S) | 5:00 | 2026-01-25 |  |

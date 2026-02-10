@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain](/playlists/plain/37i9dQZF1DX6qjeIoR93rs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6qjeIoR93rs)
 
-### [Hit Falastini](https://open.spotify.com/playlist/37i9dQZF1DX6qjeIoR93rs)
+### [Palestine Hits](https://open.spotify.com/playlist/37i9dQZF1DX6qjeIoR93rs)
 
-> أغاني من فلسطين وإليها
+> Songs from Palestine, and to Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,279 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,286 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 49 | [Ll Abad](https://open.spotify.com/track/3qvSGDv3FfrAMIaCEO2p0y) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/4ShkzqUhBTAiPYj4bEaWEL) | 3:32 |
 | 50 | [Asfur](https://open.spotify.com/track/6vuMqisW5jWBMNgh2EzAdd) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Amal](https://open.spotify.com/album/5Lx6Qo1efOKGYOLRc5u76S) | 5:24 |
 
-Snapshot ID: `AAAAALk8c8+aSeTymQyu65AQILQTPN8M`
+Snapshot ID: `AAAAAOUO7ZxCU0QxmXCqDlNe+WcBFk7O`

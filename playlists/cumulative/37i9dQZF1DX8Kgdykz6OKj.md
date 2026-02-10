@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-511 songs - 1 day 4 hr 14 min
+512 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [I Ain't Finished Yet](https://open.spotify.com/track/2VnRyG7aChzsHCGTZkKQvl) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [I Ain't Finished Yet](https://open.spotify.com/album/5qI4s1myzXxn6pvUowjhOl) | 2:38 | 2021-12-16 | 2022-07-29 |
 | [I Dont Care](https://open.spotify.com/track/4I70anTWgyPenS8ddgs2OL) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [I Dont Care](https://open.spotify.com/album/4AQBDWkc7iZYCFrGsJSYTK) | 2:36 | 2025-04-18 | 2025-06-10 |
 | [i don’t mind](https://open.spotify.com/track/57CL8B4evdteoj7aIkzEZc) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Eric Godlow](https://open.spotify.com/artist/6lhr0nzsM2U8LzazhOvZAj), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3) | [i don’t mind](https://open.spotify.com/album/5v552VdSpVJ6pxDF9sNlGP) | 3:08 | 2022-04-11 | 2024-10-12 |
+| [ICON](https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [ICON](https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw) | 2:11 | 2026-02-06 |  |
 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 | 2022-07-15 | 2022-07-19 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-18 |  |
 | [In My Room](https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [In My Room](https://open.spotify.com/album/6wHtvk49fos5YKb0Q9eEsV) | 3:31 | 2021-12-16 | 2022-12-09 |
@@ -324,7 +325,7 @@
 | [New Harrison](https://open.spotify.com/track/3HZKBjeOyPZo2DLRIz6Ikr) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Head Above the Waters](https://open.spotify.com/album/4r9bPy9QBOI2PVNIn540fM) | 3:50 | 2021-12-16 | 2022-07-29 |
 | [Nigga Dreams](https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Nigga Dreams](https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr) | 2:57 | 2024-03-01 | 2024-10-24 |
 | [Nightmare](https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Tiff the Gift](https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO) | [Nightmare](https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F) | 2:27 | 2024-10-18 | 2025-01-19 |
-| [NIGHTS LIKE THIS](https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [NIGHTS LIKE THIS](https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5) | 2:07 | 2024-11-15 |  |
+| [NIGHTS LIKE THIS](https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [NIGHTS LIKE THIS](https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5) | 2:07 | 2024-11-15 | 2026-02-10 |
 | [Nina Sky](https://open.spotify.com/track/4lsayzFvLkV8JNZuSXGBHn) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [Lord Sko](https://open.spotify.com/artist/4okQpk1QkE8PGtiwyakP4h) | [I Did More with Less \(V1\)](https://open.spotify.com/album/1KaGHXmdSfbjkhZB00La6E) | 3:02 | 2025-02-14 | 2025-03-19 |
 | [Njalo Njalo \- Radio Mix](https://open.spotify.com/track/6MwwAnJKFmH2B3X9f8RFSW) | [Nomisupasta](https://open.spotify.com/artist/3K27bM6ECoV2uZNwuwnIWV), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [madLib](https://open.spotify.com/artist/1qwAiZ37SviNEoEZV0xQXb) | [Njalo Njalo](https://open.spotify.com/album/2dAR7NXlgqYI4cAaw4uFKT) | 2:41 | 2025-11-21 |  |
 | [No Gangster](https://open.spotify.com/track/2QVD1WfdzJGWOaXQontw3S) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Untitled \(18 Artists\)](https://open.spotify.com/album/5EVA3YYmgJNdwdKZCzKtut) | 3:33 | 2021-12-16 | 2022-07-25 |

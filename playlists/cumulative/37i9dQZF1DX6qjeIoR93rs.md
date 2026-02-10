@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6qjeIoR93rs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6qjeIoR93rs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6qjeIoR93rs)
 
-### [Hit Falastini](https://open.spotify.com/playlist/37i9dQZF1DX6qjeIoR93rs)
+### [Palestine Hits](https://open.spotify.com/playlist/37i9dQZF1DX6qjeIoR93rs)
 
-> أغاني من فلسطين وإليها
+> Songs from Palestine, and to Palestine.
 
 154 songs - 9 hr 45 min
 

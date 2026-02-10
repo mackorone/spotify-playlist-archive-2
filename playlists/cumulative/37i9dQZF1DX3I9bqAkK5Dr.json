@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Ritesh G Rao",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Jagdish Chintala",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -3268,7 +3268,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 141969,
       "name": "Kalavarinche Kshanam",
       "url": "https://open.spotify.com/track/4DkxdK8rt1uxBmptVsNrOF"
@@ -4976,6 +4976,36 @@
       "duration_ms": 197540,
       "name": "Naa Praanama",
       "url": "https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC"
+    },
+    {
+      "album": {
+        "name": "Naa Rakshasi",
+        "url": "https://open.spotify.com/album/0ajeD6b6xFRnBgTl4AcPGE"
+      },
+      "artists": [
+        {
+          "name": "Adithya Rkay",
+          "url": "https://open.spotify.com/artist/2YObV4LlxjIDCRAZleXF1a"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        },
+        {
+          "name": "Nimshi Zacchaeus",
+          "url": "https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz"
+        },
+        {
+          "name": "Suresh Banisetti",
+          "url": "https://open.spotify.com/artist/3gcOBaedkasgxYjFVE81Km"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Naa Rakshasi",
+      "url": "https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx"
     },
     {
       "album": {
@@ -9896,7 +9926,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 214354,
       "name": "Yedhola Undhe",
       "url": "https://open.spotify.com/track/612qQo2RvmknnS3p49uwI6"
@@ -10054,6 +10084,24 @@
       "duration_ms": 192874,
       "name": "YOU ARE MINE",
       "url": "https://open.spotify.com/track/0Cue1z0aXGfQRYU4CqIAuW"
+    },
+    {
+      "album": {
+        "name": "You Are My Dream Girl",
+        "url": "https://open.spotify.com/album/4yQzV17US8W5IfBomjfaU6"
+      },
+      "artists": [
+        {
+          "name": "Vamsikanth Rekhana",
+          "url": "https://open.spotify.com/artist/7p1XLCC9lLV6T3KIlZrMkG"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "You Are My Dream Girl",
+      "url": "https://open.spotify.com/track/2GE2bi23poertoQ4IEoK1P"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr"

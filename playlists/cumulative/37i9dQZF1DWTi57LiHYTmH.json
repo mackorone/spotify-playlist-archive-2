@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 154230,
       "name": "Dappled",
       "url": "https://open.spotify.com/track/5ZBtOcvLBT4EuQtI3vA8Gv"
@@ -2404,6 +2404,36 @@
       "duration_ms": 158373,
       "name": "Dolly Suite, Op. 56: I. Berceuse",
       "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Let Me Be Misunderstood",
+        "url": "https://open.spotify.com/album/5j0VQMnEWUlIV2Xowno00i"
+      },
+      "artists": [
+        {
+          "name": "Bennie Benjamin",
+          "url": "https://open.spotify.com/artist/7ERDtbmv3l9goJ4dHzn715"
+        },
+        {
+          "name": "Sol Marcus",
+          "url": "https://open.spotify.com/artist/4ZhtwsXB88HB2F2geIgt3N"
+        },
+        {
+          "name": "Gloria Caldwell",
+          "url": "https://open.spotify.com/artist/7rKdx0Qj3ZwMSOJiNPBpaL"
+        },
+        {
+          "name": "Ashley Jackson",
+          "url": "https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Don\u2019t Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6pw5t0h16zgr2Tymgzyvac"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-129 songs - 7 hr 35 min
+130 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Soulful Voices](https://open.spotify.com/track/1ona7GxXxe6QQbbiqXSjf7) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Soulful Voices](https://open.spotify.com/album/1qwVe0uGm8SW1j0YHI92lK) | 3:50 | 2025-12-16 | 2026-02-02 |
 | [Spring flow](https://open.spotify.com/track/6bfDxRfn9l0SakKPBu5nEq) | [Tropicalmonroe](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ) | [Spring flow](https://open.spotify.com/album/6YHSQHMf0xOBDgQK0pOl5c) | 2:33 | 2025-03-16 | 2025-12-17 |
 | [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 |  |
+| [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 | 2026-02-09 |  |
 | [Summer Suite](https://open.spotify.com/track/3glAritAmxyFSc772bZhU3) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite](https://open.spotify.com/album/3VzaxX50Ecet1LbYJs0ijG) | 3:56 | 2026-02-06 |  |
 | [Superbloom](https://open.spotify.com/track/0LLLu9OpHI8woWnSJrWm72) | [Carolyn Barela](https://open.spotify.com/artist/07eQgknO4HhywtQGVoW50f), [Catty.L](https://open.spotify.com/artist/68FNAoroAsIuNLoecJRIZP) | [Superbloom](https://open.spotify.com/album/32P8hqUIsWNZn0gAZAfNkm) | 3:08 | 2024-06-02 |  |
 | [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 |  |

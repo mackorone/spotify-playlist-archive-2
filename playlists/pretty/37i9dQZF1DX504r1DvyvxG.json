@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2645691,
+  "num_followers": 2645617,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Watchman's Gone",
-      "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Best of Faces: Good Boys When They're Asleep",
         "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214960,
       "name": "Ooh La La - 2004 Remaster",
       "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Watchman's Gone",
+      "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "We're Children Of Coincidence And Harpo Marx",
-        "url": "https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK"
-      },
-      "artists": [
-        {
-          "name": "Dory Previn",
-          "url": "https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Woman Soul",
-      "url": "https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 165440,
       "name": "You Don't Mess Around With Jim - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "We're Children Of Coincidence And Harpo Marx",
+        "url": "https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK"
+      },
+      "artists": [
+        {
+          "name": "Dory Previn",
+          "url": "https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Woman Soul",
+      "url": "https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 225506,
       "name": "Operator - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Tea For The Tillerman (Remastered)",
-        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2026-01-26 17:08:09",

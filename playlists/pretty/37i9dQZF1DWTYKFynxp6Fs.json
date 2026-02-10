@@ -1,37 +1,13 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Sarvam Maya",
-  "num_followers": 613247,
+  "num_followers": 613986,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZ1uTgRV6m4u9kHmIGmBHyovdPe",
+  "snapshot_id": "AAAAABGmnfStz82RcKepD+5+whx8JUFx",
   "tracks": [
-    {
-      "added_at": "2026-01-07 07:41:31",
-      "album": {
-        "name": "Vellarathaaram (From \"Sarvam Maya\")",
-        "url": "https://open.spotify.com/album/76xhNcZY5zLItrivJ5Bz3Z"
-      },
-      "artists": [
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Manu Manjith",
-          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Vellarathaaram (From \"Sarvam Maya\")",
-      "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
-    },
     {
       "added_at": "2025-11-26 07:40:57",
       "album": {
@@ -59,6 +35,74 @@
       "duration_ms": 234489,
       "name": "KALYANI",
       "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
+    },
+    {
+      "added_at": "2026-01-07 07:41:31",
+      "album": {
+        "name": "Vellarathaaram (From \"Sarvam Maya\")",
+        "url": "https://open.spotify.com/album/76xhNcZY5zLItrivJ5Bz3Z"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Manu Manjith",
+          "url": "https://open.spotify.com/artist/2Ac7n5L5b7LMXonUHZRrWy"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Vellarathaaram (From \"Sarvam Maya\")",
+      "url": "https://open.spotify.com/track/2LzLaaGYFBzg7esTGqmpDR"
+    },
+    {
+      "added_at": "2025-12-01 06:53:26",
+      "album": {
+        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
+      },
+      "artists": [
+        {
+          "name": "Johnpaul George",
+          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
+        },
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 284210,
+      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
+      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
+    },
+    {
+      "added_at": "2026-02-09 06:30:29",
+      "album": {
+        "name": "CHEMBARATHI",
+        "url": "https://open.spotify.com/album/7b8TzluGoR96DLTSgpbWGA"
+      },
+      "artists": [
+        {
+          "name": "Lil PAYYAN",
+          "url": "https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "CHEMBARATHI",
+      "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
     },
     {
       "added_at": "2026-02-05 07:38:20",
@@ -211,30 +255,6 @@
       "duration_ms": 254823,
       "name": "Neeye Punchiri - One Side Love",
       "url": "https://open.spotify.com/track/1yioABzRG4WFEkO98WV5l7"
-    },
-    {
-      "added_at": "2025-12-01 06:53:26",
-      "album": {
-        "name": "Kunjikkavil Meghame (From \"Aashaan\")",
-        "url": "https://open.spotify.com/album/2KhiAM5udaWOv0ohiipVBS"
-      },
-      "artists": [
-        {
-          "name": "Johnpaul George",
-          "url": "https://open.spotify.com/artist/3odIxuvJWJpYybFS0fDI4X"
-        },
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 284210,
-      "name": "Kunjikkavil Meghame (From \"Aashaan\")",
-      "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
     },
     {
       "added_at": "2026-02-02 04:31:00",
@@ -1051,22 +1071,6 @@
       "duration_ms": 191808,
       "name": "Neon Ride (From \"Officer On Duty\")",
       "url": "https://open.spotify.com/track/4cK4HVmv6VkF1fYf9q7o9X"
-    },
-    {
-      "added_at": "2025-05-20 06:33:14",
-      "album": {
-        "name": "Johny Walker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0vNuoVon5CBMw8yqg0AEo3"
-      },
-      "artists": [
-        {
-          "name": "K. J. Yesudas",
-          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
-        }
-      ],
-      "duration_ms": 325799,
-      "name": "Santhamee Rathri",
-      "url": "https://open.spotify.com/track/3jJpvQCe9y25vLRwoaTwvL"
     },
     {
       "added_at": "2024-12-04 09:23:09",

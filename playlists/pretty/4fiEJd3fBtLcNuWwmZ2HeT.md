@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 433 songs - 1 day 1 hr 1 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 434 songs - 1 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -441,5 +441,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 431 | [.....\. \- MARETU Remix](https://open.spotify.com/track/37TZpH55FF8LxIDShZuLLp) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz), [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [人形](https://open.spotify.com/album/6OiLP3mN9ntclPFqqyIS0c) | 2:40 |
 | 432 | [Spot Late](https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [Spot Late](https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE) | 3:03 |
 | 433 | [Medianoche](https://open.spotify.com/track/4frNQ6DvaOl96cemtTgW7q) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Medianoche](https://open.spotify.com/album/5zi9SzPGFgLazFD7C9ICym) | 3:49 |
+| 434 | [eyecandy](https://open.spotify.com/track/5t3WG41rP9uEcxTkQhdosW) | [Roji](https://open.spotify.com/artist/2Ul2czund8h5v5dekxbiJc) | [eyecandy](https://open.spotify.com/album/3Md7daZJ9GBkhN4xO3sC69) | 2:00 |
 
-Snapshot ID: `AAAJ3ZFfiyL8NAUFKtHbgdbpHAWpKsiQ`
+Snapshot ID: `AAAJ3hor+jDSEv5B1xrGvxJXLvK1lAKs`

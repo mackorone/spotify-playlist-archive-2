@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "A Prayer for the Dancefloor",
+        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Conduit",
+          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414918,
+      "name": "A Prayer for the Dancefloor (feat. Conduit)",
+      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
+    },
+    {
+      "album": {
         "name": "Abandoned",
         "url": "https://open.spotify.com/album/4tnCbX1nWwPHzmDop1Ik5D"
       },
@@ -274,6 +296,28 @@
       "duration_ms": 322442,
       "name": "Abattoir",
       "url": "https://open.spotify.com/track/2r1SS9pGxNeKcLhqbhcP55"
+    },
+    {
+      "album": {
+        "name": "HATCH EP",
+        "url": "https://open.spotify.com/album/3zJU4CPesaYmaj2RxZ5W8a"
+      },
+      "artists": [
+        {
+          "name": "Mython",
+          "url": "https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5"
+        },
+        {
+          "name": "BCCO",
+          "url": "https://open.spotify.com/artist/69SUktMJzS3cOmdylYubj0"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336675,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/02YaYu24flwztce8lXQ1uN"
     },
     {
       "album": {
@@ -1018,7 +1062,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 269903,
       "name": "Alle werden alt",
       "url": "https://open.spotify.com/track/4H6IFl3r8jtbQbbUdeLZMq"
@@ -1964,6 +2008,28 @@
       "duration_ms": 320949,
       "name": "Bassiani",
       "url": "https://open.spotify.com/track/5UWlHCUy09ojLqdpV0tlbt"
+    },
+    {
+      "album": {
+        "name": "Desiderati 4.13",
+        "url": "https://open.spotify.com/album/1aNo1Rv0GX5iHnebYPMccj"
+      },
+      "artists": [
+        {
+          "name": "SAMDMA",
+          "url": "https://open.spotify.com/artist/6Owh7v152RbV64SfQ5zJL4"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "Bassline Slvt",
+      "url": "https://open.spotify.com/track/6qlpNprSWUnmcXDEajFbRm"
     },
     {
       "album": {
@@ -3910,7 +3976,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 222720,
       "name": "Control Your Mind",
       "url": "https://open.spotify.com/track/7jmDKUD9sJRzbSetZKl6Km"
@@ -7101,6 +7167,24 @@
     },
     {
       "album": {
+        "name": "Flight School",
+        "url": "https://open.spotify.com/album/0IisCCnzSTDGzZfy9XyRT9"
+      },
+      "artists": [
+        {
+          "name": "Gary Beck",
+          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "Flight School",
+      "url": "https://open.spotify.com/track/2G8cjlRIdMJtRWJ4fXNJNE"
+    },
+    {
+      "album": {
         "name": "Flight Tracker",
         "url": "https://open.spotify.com/album/6p6or25rIx4zyozCAGPb28"
       },
@@ -7334,7 +7418,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 229821,
       "name": "Formula Loca",
       "url": "https://open.spotify.com/track/26mmUj1B5LfOgUqvudhjLq"
@@ -10680,7 +10764,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 156400,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/0Ba0tdpmErpaTYxtT0wvr8"
@@ -11583,6 +11667,24 @@
     },
     {
       "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/31EoERf5EzIjfkRpxofjRD"
+      },
+      "artists": [
+        {
+          "name": "Hertz",
+          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351968,
+      "name": "Maverick",
+      "url": "https://open.spotify.com/track/5XQRc9fhRoWs4qkxkulbFK"
+    },
+    {
+      "album": {
         "name": "MAVI VE MOR EP",
         "url": "https://open.spotify.com/album/48TQN7mfCiFDRR5y71jkL3"
       },
@@ -12204,7 +12306,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 174400,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/4jBbrIJcFHziR8N2Js6eqb"
@@ -12894,7 +12996,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 339310,
       "name": "Nero",
       "url": "https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw"
@@ -13798,7 +13900,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 288625,
       "name": "One Kiss in Space",
       "url": "https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa"
@@ -14372,6 +14474,24 @@
       "duration_ms": 375523,
       "name": "Paulus",
       "url": "https://open.spotify.com/track/4LNMpGnLPMy44Ojm1ME9I9"
+    },
+    {
+      "album": {
+        "name": "People Are Strange",
+        "url": "https://open.spotify.com/album/3FGoyELhn8ohJIfcviVxXe"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218486,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1JZTOdIWnFFeAcJf0k7nYL"
     },
     {
       "album": {
@@ -14974,7 +15094,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 230000,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/3ev4VGMM6IcWTrOTVO9ySB"
@@ -16475,6 +16595,32 @@
     },
     {
       "album": {
+        "name": "Route 27 (Alex Stein & Victor Ruiz Remix)",
+        "url": "https://open.spotify.com/album/7KeYHBj26e3EXB6ZxK5HJD"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239774,
+      "name": "Route 27 - Alex Stein & Victor Ruiz Remix",
+      "url": "https://open.spotify.com/track/1KcoibEQeIEFodYDTWJ9Bn"
+    },
+    {
+      "album": {
         "name": "Rudeboi",
         "url": "https://open.spotify.com/album/3aFcW1f1Deq9F7cwJDkbd5"
       },
@@ -17289,6 +17435,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/4QYHe60Lm3EDsyn2Omp6hA"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/64fCdEGvplmVXUXj87JSwA"
+    },
+    {
+      "album": {
         "name": "Shadows Come Alive",
         "url": "https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L"
       },
@@ -17406,6 +17570,24 @@
       "duration_ms": 238260,
       "name": "Signal",
       "url": "https://open.spotify.com/track/3TAPQ9FqT9nRBvpdGxMEt4"
+    },
+    {
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/5mRTgzm8ukqunZwLmortHz"
+      },
+      "artists": [
+        {
+          "name": "Simone Zino",
+          "url": "https://open.spotify.com/artist/6YkTODi4efYQyfNgiVE32c"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299986,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/1XNpwtD97A7AluSgLqf0yn"
     },
     {
       "album": {
@@ -19684,7 +19866,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 228181,
       "name": "The Substance",
       "url": "https://open.spotify.com/track/6kpHtj3elCs5I5j6sW537G"
@@ -19720,7 +19902,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 525027,
       "name": "The Techno Code",
       "url": "https://open.spotify.com/track/66Ti3A11JHtaBhMAyeVADv"
@@ -19938,6 +20120,24 @@
     {
       "album": {
         "name": "Time",
+        "url": "https://open.spotify.com/album/3fK8npjsaD6ku7XGucgZtz"
+      },
+      "artists": [
+        {
+          "name": "Endica",
+          "url": "https://open.spotify.com/artist/1KtGPlm0CUKG51IwTy2fC8"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189107,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5rFVJmACKepgJUOJXAQnjF"
+    },
+    {
+      "album": {
+        "name": "Time",
         "url": "https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9"
       },
       "artists": [
@@ -20068,6 +20268,24 @@
       "duration_ms": 403308,
       "name": "Timeless - Original Mix",
       "url": "https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub"
+    },
+    {
+      "album": {
+        "name": "Titan",
+        "url": "https://open.spotify.com/album/1HSOQOC3U4Ojq5xq9T10e8"
+      },
+      "artists": [
+        {
+          "name": "Nelayan",
+          "url": "https://open.spotify.com/artist/4fYxGwfAZYoZoYaqfqI3rU"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388235,
+      "name": "Titan - Original Mix",
+      "url": "https://open.spotify.com/track/0PryXxpPW2Q7Bov1i8aY7F"
     },
     {
       "album": {
@@ -21566,7 +21784,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 186694,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/5h5NunUyEgiZRG4UynJ5iO"

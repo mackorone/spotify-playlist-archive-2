@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAKixWMhnefr60mCiEkTk0TzZQv6a63",
+  "snapshot_id": "AAAKj08/UquPusujSza60XZ0esQIpN7Q",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -145095,6 +145095,70 @@
       "duration_ms": 212966,
       "name": "\u30b9\u30a4\u30fc\u30c8\u30de\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/3pbLWubWlKosF66612qaQ9"
+    },
+    {
+      "added_at": "2026-02-09 02:57:03",
+      "album": {
+        "name": "Mask Singer 14th (Live Version)",
+        "url": "https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 274756,
+      "name": "\uc78a\uc9c0\ub9d0\uc544\uc694 (\uc18c\ub140\uac10\uc131 \uc6b0\uccb4\ud1b5)",
+      "url": "https://open.spotify.com/track/4PyCczqVXtpoXgcg8iuu8r"
+    },
+    {
+      "added_at": "2026-02-09 22:49:49",
+      "album": {
+        "name": "REAL (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5w2N2CfwUcgczLNeZW5Q7K"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "NEO UNIVERSE - Remastered 2022",
+      "url": "https://open.spotify.com/track/3cFdPmh23RnHrpNOWNkSHH"
+    },
+    {
+      "added_at": "2026-02-09 22:50:01",
+      "album": {
+        "name": "ark (Remastered 2022)",
+        "url": "https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "duration_ms": 250615,
+      "name": "Driver's High - Remastered 2022",
+      "url": "https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt"
+    },
+    {
+      "added_at": "2026-02-09 22:50:07",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/1GnrW9Luba7DskLyeEqhqS"
+      },
+      "artists": [
+        {
+          "name": "L'Arc-en-Ciel",
+          "url": "https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x"
+        }
+      ],
+      "duration_ms": 298266,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/1BymrzeFs03QuOyC8nO3w7"
     }
   ],
   "unique_name": "Purge",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1169,
+  "num_followers": 1170,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANP6xR7QUJNLMP+yrgg4sgsmTduWoC",
+  "snapshot_id": "AAANQ+95sq6AsU6nK1AqkPdIHE/pCNVX",
   "tracks": [
     {
       "added_at": "2026-02-07 16:20:06",
@@ -1107,6 +1107,70 @@
       "duration_ms": 213820,
       "name": "Bloodshot Eyes",
       "url": "https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8"
+    },
+    {
+      "added_at": "2026-02-09 12:12:07",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0JYhnrBfLAwi34NVupv5eW"
+      },
+      "artists": [
+        {
+          "name": "Mitch Meyer",
+          "url": "https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mulholland Drive",
+      "url": "https://open.spotify.com/track/5TvDjzLUJNizl2KIHQ3aqv"
+    },
+    {
+      "added_at": "2026-02-09 20:20:24",
+      "album": {
+        "name": "Invisible Chameleon",
+        "url": "https://open.spotify.com/album/6qJ2aQIuviVelqtS7pgPpx"
+      },
+      "artists": [
+        {
+          "name": "Moonsette",
+          "url": "https://open.spotify.com/artist/1KtNJP9zW7ZZIByvCCPwnF"
+        }
+      ],
+      "duration_ms": 315177,
+      "name": "I Heard You",
+      "url": "https://open.spotify.com/track/7mXEeXZHgJADXpA6sibuEA"
+    },
+    {
+      "added_at": "2026-02-09 20:20:35",
+      "album": {
+        "name": "Paranormally",
+        "url": "https://open.spotify.com/album/61NrQ5EfvtV6tSh8GnD9vM"
+      },
+      "artists": [
+        {
+          "name": "YAK",
+          "url": "https://open.spotify.com/artist/2cfnqx5PqimmwBtZBB3BwR"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "A 1917 Story",
+      "url": "https://open.spotify.com/track/2zWA7lJ1D6XHbUwMCioIuB"
+    },
+    {
+      "added_at": "2026-02-09 20:20:50",
+      "album": {
+        "name": "Letter (for the Quiet)",
+        "url": "https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS"
+      },
+      "artists": [
+        {
+          "name": "Dave D.",
+          "url": "https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK"
+        }
+      ],
+      "duration_ms": 135288,
+      "name": "Letter (for the Quiet)",
+      "url": "https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

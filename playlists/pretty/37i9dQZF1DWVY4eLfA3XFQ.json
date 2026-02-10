@@ -1,12 +1,12 @@
 {
   "description": "50% techno, 50% house \ud83e\udd41 Tech house operators, featuring Jackie Hollander",
-  "num_followers": 698647,
+  "num_followers": 699234,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJuVeMw0K7sVM8f7f6tuZIl6PcW",
+  "snapshot_id": "AAAAAJ3M2I84cFujplDnDlhu73cXkG/u",
   "tracks": [
     {
       "added_at": "2026-01-23 05:00:24",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 163336,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "Touched EP",
         "url": "https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu"
       },
@@ -225,6 +241,22 @@
       "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
     },
     {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
       "added_at": "2026-01-30 05:00:45",
       "album": {
         "name": "Misbehave",
@@ -243,42 +275,6 @@
       "duration_ms": 223636,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Out of My Mind EP",
-        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 204737,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
-    },
-    {
-      "added_at": "2026-01-23 06:01:32",
-      "album": {
-        "name": "TOOLS 4 HARDWORKERS 006",
-        "url": "https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "MC Rog\u00ea",
-          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
-        }
-      ],
-      "duration_ms": 327392,
-      "name": "Saquarema",
-      "url": "https://open.spotify.com/track/3pbiigBVIFmCP3cRpDtcCb"
     },
     {
       "added_at": "2026-01-28 18:57:38",
@@ -397,6 +393,26 @@
       "url": "https://open.spotify.com/track/5NzJ7hfmBiCzGwdKGJmGO7"
     },
     {
+      "added_at": "2026-01-23 06:01:32",
+      "album": {
+        "name": "TOOLS 4 HARDWORKERS 006",
+        "url": "https://open.spotify.com/album/5kqrsFdNSEup2N3bshTjPZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "MC Rog\u00ea",
+          "url": "https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui"
+        }
+      ],
+      "duration_ms": 327392,
+      "name": "Saquarema",
+      "url": "https://open.spotify.com/track/3pbiigBVIFmCP3cRpDtcCb"
+    },
+    {
       "added_at": "2026-01-09 17:15:25",
       "album": {
         "name": "Mi Gentee EP",
@@ -443,22 +459,6 @@
       "duration_ms": 140005,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/4uLCVPSgCWxrTP4nkVGXop"
-      },
-      "artists": [
-        {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
-        }
-      ],
-      "duration_ms": 163336,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/5PVxaSGZSU8LCA3AhChMUJ"
     },
     {
       "added_at": "2026-01-30 05:00:45",

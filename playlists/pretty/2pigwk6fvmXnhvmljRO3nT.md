@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,180 songs - 20 day 19 hr 14 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,184 songs - 20 day 19 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8188,5 +8188,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8178 | [Saturn](https://open.spotify.com/track/6zafxiHm5C24EJzlV9Rupa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Tadashii Itsuwarikarano Kishou](https://open.spotify.com/album/6nmn6P50KHM6BZgoyHejs7) | 4:10 |
 | 8179 | [Legend\-Changer](https://open.spotify.com/track/6K8wNiOhqoEbK0r8o9YgOG) | [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU), [エルコンドルパサー \(CV\. 髙橋ミナミ\)](https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE), [ナリタブライアン \(CV\. 衣川里佳\)](https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO), [シンボリルドルフ \(CV\. 田所あずさ\)](https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO), [シーキングザパール \(CV\. 福原綾香\)](https://open.spotify.com/artist/2bs5PbDgEpU8vQoHGu0M3S), [スマートファルコン \(CV\. 大和田仁美\)](https://open.spotify.com/artist/083XOxhruihHWXyNpxX9bV), [ミスターシービー \(CV\. 天海由梨奈\)](https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr), [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS), [シリウスシンボリ \(CV\. ファイルーズあい\)](https://open.spotify.com/artist/1MezhL25G6S7YrKwrru2TN), [メジロラモーヌ \(CV\. 東山奈央\)](https://open.spotify.com/artist/1roYojC4aUOyrkZnsqDKGL), [ホッコータルマエ \(CV\. 菊池紗矢香\)](https://open.spotify.com/artist/6zWzCyy6vyWd21Vx3cQGwD), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD), [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM), [ジェンティルドンナ \(CV\. 芹澤 優\)](https://open.spotify.com/artist/7bMKVYI9MuADIRL7VBpXqM), [アーモンドアイ \(CV\. 石原夏織\)](https://open.spotify.com/artist/74UuDtgGrBWSKA2cjYgpnx), [実況 \(男性\) \(CV\. 茂木淳一\)](https://open.spotify.com/artist/6Ma0ScsIz9Up4QXuVs9duN) | [『ウマ娘 プリティーダービー』WINNING LIVE 26](https://open.spotify.com/album/6FO7lWwH7dD6bUjw9AdYtO) | 4:01 |
 | 8180 | [スイートマジック](https://open.spotify.com/track/3pbLWubWlKosF66612qaQ9) | [鳳えむ](https://open.spotify.com/artist/5i94WQNVMViXkTFxm8zNiB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム ワンダーランズ×ショウタイム](https://open.spotify.com/album/44QtOmDSqlazhtmEGsBUJ7) | 3:32 |
+| 8181 | [잊지말아요 \(소녀감성 우체통\)](https://open.spotify.com/track/4PyCczqVXtpoXgcg8iuu8r) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Mask Singer 14th \(Live Version\)](https://open.spotify.com/album/7ASCzTIuaYbAsZjIGh09wh) | 4:34 |
+| 8182 | [NEO UNIVERSE \- Remastered 2022](https://open.spotify.com/track/3cFdPmh23RnHrpNOWNkSHH) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [REAL \(Remastered 2022\)](https://open.spotify.com/album/5w2N2CfwUcgczLNeZW5Q7K) | 4:08 |
+| 8183 | [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 |
+| 8184 | [flower](https://open.spotify.com/track/1BymrzeFs03QuOyC8nO3w7) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/1GnrW9Luba7DskLyeEqhqS) | 4:58 |
 
-Snapshot ID: `AAAKixWMhnefr60mCiEkTk0TzZQv6a63`
+Snapshot ID: `AAAKj08/UquPusujSza60XZ0esQIpN7Q`

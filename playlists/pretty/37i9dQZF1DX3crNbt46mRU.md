@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Pronto, Loredana, sombr, J Balvin and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,292 likes - 102 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,297 likes - 102 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

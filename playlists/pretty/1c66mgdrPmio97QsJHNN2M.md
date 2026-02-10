@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,998 likes - 249 songs - 13 hr 59 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,008 likes - 259 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 5 | [Frayed Edges](https://open.spotify.com/track/16Vl5jE1fu5J1o4gQ8dl1r) | [Elle Gee](https://open.spotify.com/artist/2y3v0be3sxtxdsBmIDCGFf), [Vin](https://open.spotify.com/artist/3BWBXl8rNC6nUozBkVF9BJ) | [Frayed Edges](https://open.spotify.com/album/0UFo7PsOzm5R2fX4eR8QxS) | 3:10 |
 | 6 | [Body On Me](https://open.spotify.com/track/3uD74LCzCjXIDq3YvfES8R) | [DJ Tuncay Albayrak](https://open.spotify.com/artist/2pZVWiNZfYqFRiDaZO4Xbl) | [Body On Me](https://open.spotify.com/album/6Ocmo2MAXip9PUnKHTETaa) | 2:38 |
 | 7 | [Teacher Teach Me](https://open.spotify.com/track/4WpcT6H2c7h0DolObTbaDE) | [Alexandra Datman](https://open.spotify.com/artist/599EH2iNWc47EKgNMpFqvw) | [Teacher Teach Me](https://open.spotify.com/album/7jvhdOWCxtYBRvfEcTS8GG) | 2:55 |
-| 8 | [The Final](https://open.spotify.com/track/4xXuDMY8vwePGjKvW2UYmW) | [ZeeNOVA](https://open.spotify.com/artist/3DRQRM5F5itVFi25fbHsG8) | [I Think It's My Birthday](https://open.spotify.com/album/6BrjaKpmFRabVnLRSojiai) | 2:51 |
+| 8 | [The Final](https://open.spotify.com/track/4xXuDMY8vwePGjKvW2UYmW) | [ZeeNOVA](https://open.spotify.com/artist/3DRQRM5F5itVFi25fbHsG8) | [Are you who you want to be?](https://open.spotify.com/album/6BrjaKpmFRabVnLRSojiai) | 2:51 |
 | 9 | [Back Seat](https://open.spotify.com/track/4oWtSjCf9apCaEVxGgCX3H) | [Lacy Dooms](https://open.spotify.com/artist/48he0UqhM1eHhdmAIwp6f9) | [Lacy Dooms EP](https://open.spotify.com/album/6QUtSvbkEm7PPPADghScST) | 3:17 |
 | 10 | [Victor \- birthday drop](https://open.spotify.com/track/1QtdlV9sb77sNN9siEW8OV) | [Max Wong](https://open.spotify.com/artist/6dt6t2Uu1mQDzccRNsrLSw) | [Victor \(birthday drop\)](https://open.spotify.com/album/7JwvFmghIc0UxIVxeMzbLv) | 2:45 |
 | 11 | [Green Flag](https://open.spotify.com/track/0QpEceuZn0UrAMPjgFSeln) | [Ariadna Millet](https://open.spotify.com/artist/2kUrPAt14wNg4br0zmQ93V) | [Green Flag](https://open.spotify.com/album/4cQxJoJOfbn9gKjuADPfEJ) | 3:14 |
@@ -257,5 +257,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 247 | [I See God](https://open.spotify.com/track/38OGoN03KEHYraWpJvHCcw) | [B\. Michelle](https://open.spotify.com/artist/28cXBZIFsQpoD102bPZdKh) | [Just Me](https://open.spotify.com/album/6vnDapgvI2Sc6Zw26mkZ4T) | 3:43 |
 | 248 | [Solar Panel](https://open.spotify.com/track/0nSVq3PkZQtw8mH4pyli7a) | [Gavriel Kahane](https://open.spotify.com/artist/2V32grgqKmpe1SAA5bbJ2K) | [Solar Panel](https://open.spotify.com/album/589u25gbA8pIv6wd7i7UPI) | 3:55 |
 | 249 | [andrew](https://open.spotify.com/track/1a2WURNqDpXPTSeCsQIOK1) | [Teddy Tonkin](https://open.spotify.com/artist/02y70UZdrITbaxXY2U22xS) | [adrenaline](https://open.spotify.com/album/1Dcsg7p1WOkxjynSalviGq) | 3:10 |
+| 250 | [Nonstop](https://open.spotify.com/track/1FBo9A315j7URLFVTao8XY) | [Prizecard](https://open.spotify.com/artist/1BcCMApD8OexJp7iyqjhv8) | [Nonstop](https://open.spotify.com/album/184kqhFDdnSWdUOnAgkjwV) | 3:22 |
+| 251 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 |
+| 252 | [Mystery](https://open.spotify.com/track/6gSDJTdaI238R2Wf5M4jVt) | [Baby Su](https://open.spotify.com/artist/23dj9yeQbApt10q6OhCYbt) | [Mystery](https://open.spotify.com/album/11moSmjmgyzcadqmFZUqNl) | 3:17 |
+| 253 | [Bollywood Dream](https://open.spotify.com/track/0hkiW31UfPobaadcJAmCyz) | [Zoya Haque](https://open.spotify.com/artist/3YrWefCiqgTRGW8jzT0oT7) | [Bollywood Dream](https://open.spotify.com/album/4pUk45B8c2dhKq4Ndm1MbU) | 3:28 |
+| 254 | [Where Silence Ends](https://open.spotify.com/track/3fZOxR3Uk3z90WPpC5g73J) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Can't Care EP](https://open.spotify.com/album/72sZtvFifXoP92K0TCYPz6) | 2:20 |
+| 255 | [Love Me Tenderly](https://open.spotify.com/track/1T9e9KfZqVRXStewmPJkUZ) | [Myckon](https://open.spotify.com/artist/5OWengxn46u0Ek59ocDbLE) | [Tenderly Love](https://open.spotify.com/album/3Ff4qGFAPBhjxli8HVphi0) | 3:36 |
+| 256 | [Switch On](https://open.spotify.com/track/3y4wqRa6dYiHKqwHrOmuVR) | [Tom Lirico](https://open.spotify.com/artist/2vTGE5pKixhOTIWNQfrBND) | [Switch On](https://open.spotify.com/album/0Yt4WKjDzKmeier0Dqqo4d) | 3:15 |
+| 257 | [TIME](https://open.spotify.com/track/4I4WNyVowkLGNLLDOkHvsn) | [NOSTALGIC](https://open.spotify.com/artist/2NZBrHEPJL6Y2dWgBWt4d9) | [DIGITAL ROCKSTARS](https://open.spotify.com/album/6Xi1tnpXDdH0xKsCkuOGCz) | 2:42 |
+| 258 | [Inception](https://open.spotify.com/track/5tY1whESw6sN5WBRMAEII6) | [Sun Sand](https://open.spotify.com/artist/0FjNOXPb3bC89r7gbKFAth) | [Inception](https://open.spotify.com/album/54XVCUwf8B4eaPe6L1jpwA) | 4:53 |
+| 259 | [Wifey Material](https://open.spotify.com/track/6sll6APTnjY4dhp1Xqdu6y) | [BERENICE](https://open.spotify.com/artist/4jETzCgqCaZ7DemKihsrZG) | [Wifey Material](https://open.spotify.com/album/1KsLj4rQ13QbcVxe3QbMWq) | 3:11 |
 
-Snapshot ID: `AAA0ZS2vF8+gCridee6kbk+NHHVUa3+7`
+Snapshot ID: `AAA0bzDRrjEMR0Aj9oDWt4ln0lHAVA8p`

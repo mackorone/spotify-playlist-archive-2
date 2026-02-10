@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Déyyess
 
-2,282 songs - 5 day 1 hr 19 min
+2,283 songs - 5 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Avery](https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/2sD6iY7aOhjFC2Dxqt4h1Q) | 3:14 | 2020-11-13 | 2021-02-06 |
 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 | 2022-01-21 | 2022-07-24 |
 | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-03-29 | 2024-04-13 |
+| [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 | 2025-12-12 |  |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-06-24 | 2022-08-06 |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2021-03-07 | 2021-05-24 |
 | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/track/1VRQFOvXE70lVleKrcopIh) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/album/4eS0bDrkm4AD5z65zrmjcC) | 3:30 | 2021-08-06 | 2022-04-11 |
@@ -1499,7 +1500,7 @@
 | [On Repeat \(feat\. Cigarettes After Sex & Lexi Jayde\)](https://open.spotify.com/track/76y9kdLOsF0g2uMpQKdJk7) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC), [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 | 2021-02-28 | 2022-04-15 |
 | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout \(feat\. Raffaella\)](https://open.spotify.com/album/3Pa9zmTEmVn16bzR0DWibl) | 3:49 | 2020-10-24 | 2021-03-06 |
 | [On This Love](https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [On This Love](https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd) | 2:49 | 2025-05-02 | 2025-07-22 |
-| [Once In A Blue Moon](https://open.spotify.com/track/0gzCU2A9sTjBsZGjoeBuqs) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Once In A Blue Moon](https://open.spotify.com/album/5pKJrUZ4MA213FyShJ25Uf) | 4:19 | 2026-01-23 |  |
+| [Once In A Blue Moon](https://open.spotify.com/track/0gzCU2A9sTjBsZGjoeBuqs) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Once In A Blue Moon](https://open.spotify.com/album/5pKJrUZ4MA213FyShJ25Uf) | 4:19 | 2026-01-23 | 2026-02-10 |
 | [One Good Reason](https://open.spotify.com/track/6WXeA4DuQ9l5OnDtmoUCrg) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 3:14 | 2020-10-13\* | 2020-11-20 |
 | [One Minute](https://open.spotify.com/track/1ukoQmzrdk1L9sfbX81xPT) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [One Minute](https://open.spotify.com/album/3EyN8ULbGWbt3uxHNDOp2Y) | 3:28 | 2020-10-16 | 2021-05-26 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-05-21 |

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-582 songs - 1 day 0 hr 13 min
+583 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [NIGHT RIDER](https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [sophisticated silence](https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z) | 2:35 | 2024-10-26 | 2026-02-02 |
 | [Night Shift](https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Night Shift](https://open.spotify.com/album/5MxnbwEmkDQWxSUE8GoMQZ) | 1:40 | 2020-01-14 | 2020-10-21 |
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-08-31 | 2025-01-11 |
-| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2024-11-15 |  |
+| [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 | 2024-11-15 | 2026-02-10 |
 | [Night Vision](https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/2l9Ag3O0tfmogbuJ8ravko) | 1:30 | 2023-04-13 | 2023-05-19 |
 | [Night Vision](https://open.spotify.com/track/62TWSulSg6OuPEwEdmIMQL) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Night Vision](https://open.spotify.com/album/6GblXcxt5814Mq4kIT7ZII) | 1:30 | 2023-05-19 | 2024-04-19 |
 | [nightfall](https://open.spotify.com/track/7KPcjAcacdXvba3njXGCXT) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [nightfall](https://open.spotify.com/album/2YSgbVJI3mec5LKx3bOtLl) | 2:51 | 2021-05-07 | 2021-09-10 |
@@ -581,6 +581,7 @@
 | [Woodstock](https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Woodstock](https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE) | 2:45 | 2020-06-19 |  |
 | [wunnation](https://open.spotify.com/track/5MDfhCCTQlIgz2JugdcCXx) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [0.2](https://open.spotify.com/album/0KY09V02sg1UpM893scHXS) | 2:37 | 2019-05-26\* | 2019-06-15 |
 | [Yesterday](https://open.spotify.com/track/0Vg1lQpk2IHk2JU8UfAa5d) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Love Japan](https://open.spotify.com/album/1JKqsdbwfOK1233EOT67ZM) | 1:11 | 2019-05-26\* | 2021-07-31 |
+| [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 | 2026-02-10 |  |
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2025-08-26 |
 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 | 2023-08-31 |  |
 | [Yugure](https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR) | [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Yugure](https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ) | 2:06 | 2025-01-10 |  |

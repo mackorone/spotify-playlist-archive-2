@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1243,
+  "num_followers": 1244,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQSHzRydXB/R6imkRzBbfDZNKSrOeo",
+  "snapshot_id": "AAAQTTUp0ZXQ7lkzcOhuf3zZcAHDBW6r",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -39,6 +39,22 @@
       "duration_ms": 253085,
       "name": "Kiss Me Before I Die",
       "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
+    },
+    {
+      "added_at": "2026-02-09 08:09:44",
+      "album": {
+        "name": "Tut mir leid",
+        "url": "https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw"
+      },
+      "artists": [
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd"
+        }
+      ],
+      "duration_ms": 354285,
+      "name": "Tut mir leid",
+      "url": "https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q"
     },
     {
       "added_at": "2026-02-08 23:07:21",
@@ -411,17 +427,17 @@
     {
       "added_at": "2026-01-26 17:38:11",
       "album": {
-        "name": "Standing My Ground",
+        "name": "",
         "url": "https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5"
       },
       "artists": [
         {
-          "name": "Matthew Mettias",
-          "url": "https://open.spotify.com/artist/4ucQ2IJMrnXJ17ntrWXiqh"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 203881,
-      "name": "Standing My Ground",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd"
     },
     {
@@ -2475,6 +2491,74 @@
       "duration_ms": 142697,
       "name": "Uomini Da Sogno",
       "url": "https://open.spotify.com/track/4EUq72rSPUqo430b0bEM3W"
+    },
+    {
+      "added_at": "2026-02-09 10:13:34",
+      "album": {
+        "name": "STORMS",
+        "url": "https://open.spotify.com/album/32QfuzXnW1duhSfDplrcfq"
+      },
+      "artists": [
+        {
+          "name": "NAMUT",
+          "url": "https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH"
+        },
+        {
+          "name": "sriyam",
+          "url": "https://open.spotify.com/artist/4x4yvxLpjikj9ixZAqHXE2"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "STORMS",
+      "url": "https://open.spotify.com/track/2qnM4vSaQ0VG98sbNyUWKV"
+    },
+    {
+      "added_at": "2026-02-09 10:13:46",
+      "album": {
+        "name": "Shiny Silvery Things",
+        "url": "https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Second Hand Clothes",
+      "url": "https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU"
+    },
+    {
+      "added_at": "2026-02-09 10:13:52",
+      "album": {
+        "name": "If I Was God",
+        "url": "https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 222273,
+      "name": "If I Was God",
+      "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
+    },
+    {
+      "added_at": "2026-02-09 10:13:58",
+      "album": {
+        "name": "Like a Seagull",
+        "url": "https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb"
+      },
+      "artists": [
+        {
+          "name": "Eden Rose",
+          "url": "https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl"
+        }
+      ],
+      "duration_ms": 199433,
+      "name": "Like a Seagull",
+      "url": "https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms"
     }
   ],
   "unique_name": "New Indie Music",

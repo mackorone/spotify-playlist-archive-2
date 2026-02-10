@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Bird On The Edge",
+        "url": "https://open.spotify.com/album/2pFz5fjBwZwKcK86LAOoVm"
+      },
+      "artists": [
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Bird On The Edge",
+      "url": "https://open.spotify.com/track/53T5mZuqAjvm0pinUfwIXr"
+    },
+    {
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
       },
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
@@ -1816,6 +1834,24 @@
       "duration_ms": 207293,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe"
+    },
+    {
+      "album": {
+        "name": "The Uncanny Counter (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/2knMaAPOJG94PH3blGVLkr"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211999,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/6cxe7wIuwH7ul9XI7D853w"
     },
     {
       "album": {
@@ -2585,6 +2621,24 @@
     },
     {
       "album": {
+        "name": "Soar - The 2nd Album",
+        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Wake From The Dark",
+      "url": "https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU"
+    },
+    {
+      "album": {
         "name": "From Midnight To Sunrise",
         "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
       },
@@ -2990,7 +3044,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 179026,
       "name": "\uc218\uace0\ud588\uc5b4, \uc624\ub298\ub3c4 Cheer Up",
       "url": "https://open.spotify.com/track/74S870utHcrils7QiOw0Jh"

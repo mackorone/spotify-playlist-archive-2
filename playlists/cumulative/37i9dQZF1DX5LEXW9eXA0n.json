@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uae40\ubbfc\uc11d (Kim Min seok)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc591\uc694\uc12d (YANG YO SEOP)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -6686,7 +6686,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 167880,
       "name": "Expected",
       "url": "https://open.spotify.com/track/4KMKL4nfY5fy5PvfZfroRP"
@@ -6744,6 +6744,24 @@
       "duration_ms": 257920,
       "name": "Fade away",
       "url": "https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ"
+    },
+    {
+      "album": {
+        "name": "Unloved Echo",
+        "url": "https://open.spotify.com/album/2MNTQQzdCudEKka9udbqBJ"
+      },
+      "artists": [
+        {
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6rEl0Yj0Y7Zp84ur7soQHY"
     },
     {
       "album": {
@@ -7808,6 +7826,24 @@
       "duration_ms": 311933,
       "name": "Forsake",
       "url": "https://open.spotify.com/track/4riSqVzNeyDqCADUJkf2G8"
+    },
+    {
+      "album": {
+        "name": "Monday Kiz's Footprints Vol.2",
+        "url": "https://open.spotify.com/album/7Hr4bSfZcLSUNaZmFToUOe"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323040,
+      "name": "Forsake",
+      "url": "https://open.spotify.com/track/59DN9dv9Eve47ueymquSDH"
     },
     {
       "album": {
@@ -10722,7 +10758,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 299000,
       "name": "I Regret It",
       "url": "https://open.spotify.com/track/41zOdDjsAiTzAdFZupq7JS"
@@ -14262,7 +14298,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 194000,
       "name": "Like That Smiling Face Letting Me Go",
       "url": "https://open.spotify.com/track/0iOQgqh8aUo8g86yNy7Mwb"
@@ -24396,6 +24432,28 @@
       "duration_ms": 257956,
       "name": "THE MIRACLE",
       "url": "https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp"
+    },
+    {
+      "album": {
+        "name": "Asterism",
+        "url": "https://open.spotify.com/album/3yVBWbnnr7EnjaJiPWdbAK"
+      },
+      "artists": [
+        {
+          "name": "Song I Han",
+          "url": "https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm"
+        },
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "The Miracle of Us (Feat. Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/1yDW6SxPAcvdtEO1GVgM6g"
     },
     {
       "album": {

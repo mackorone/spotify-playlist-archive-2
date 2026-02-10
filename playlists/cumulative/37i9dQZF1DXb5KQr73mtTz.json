@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "After A Long Time",
+        "url": "https://open.spotify.com/album/4yAwgNjDnvbdfK3IIlAL2H"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "After A Long Time",
+      "url": "https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.20",
         "url": "https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 259056,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
@@ -3883,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "note to",
+        "url": "https://open.spotify.com/album/4Qw7Z9V0xNSp3qQAMgvk0Q"
+      },
+      "artists": [
+        {
+          "name": "\uc6b0\uc218\ud604",
+          "url": "https://open.spotify.com/artist/0JjuaT60jLgBmyqcMkTDjD"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266282,
+      "name": "note to",
+      "url": "https://open.spotify.com/track/393rs3KVL8HuRNy2SIesC1"
+    },
+    {
+      "album": {
         "name": "Remainder",
         "url": "https://open.spotify.com/album/0IaKtWIDNhBVbjpd3Oke8A"
       },
@@ -4244,7 +4280,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 297000,
       "name": "RETURN",
       "url": "https://open.spotify.com/track/4I076YFZbGheb8JXMe3rBA"
@@ -4583,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "Sorry for Crying",
+        "url": "https://open.spotify.com/album/2EZd8xV8l8F9ZEoAnE7sW2"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Sorry for Crying",
+      "url": "https://open.spotify.com/track/7G82cGh3BQKnuPOLPHfUDl"
+    },
+    {
+      "album": {
         "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
       },
@@ -4768,7 +4822,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 192466,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"

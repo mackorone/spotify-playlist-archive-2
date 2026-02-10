@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: ZEROBASEONE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: IVE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -6232,7 +6232,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 236000,
       "name": "A Love Just For You",
       "url": "https://open.spotify.com/track/7jQp6vs7mSfvIsRvynDh9Q"
@@ -6996,7 +6996,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 241690,
       "name": "a sad invitation(2026)",
       "url": "https://open.spotify.com/track/3Gh2h3MOaRFRILbyKrbsZu"
@@ -21222,6 +21222,24 @@
       "duration_ms": 203773,
       "name": "Bandit",
       "url": "https://open.spotify.com/track/3mQH4pXsnixxr8EDK7ZZVa"
+    },
+    {
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
     },
     {
       "album": {
@@ -50550,7 +50568,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 207000,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/2bAc5lIgEuoDOWtgMiIox7"
@@ -71226,6 +71244,24 @@
       "duration_ms": 278110,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4V9iqsS5CwQeZgSCXnpD6i"
+    },
+    {
+      "album": {
+        "name": "Unloved Echo",
+        "url": "https://open.spotify.com/album/2MNTQQzdCudEKka9udbqBJ"
+      },
+      "artists": [
+        {
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6rEl0Yj0Y7Zp84ur7soQHY"
     },
     {
       "album": {
@@ -102352,7 +102388,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 219545,
       "name": "How we were written (feat. Yu kyeongmo)",
       "url": "https://open.spotify.com/track/1yzpgc1tELi6hL8x6tlpWM"
@@ -110212,7 +110248,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 242000,
       "name": "i wanna believe something",
       "url": "https://open.spotify.com/track/2Kx1TevXau92x9faOQcW9Y"
@@ -153832,7 +153868,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 174000,
       "name": "MIRO",
       "url": "https://open.spotify.com/track/3MtYafyNz7jYirfhdoUuCq"
@@ -164728,6 +164764,24 @@
       "duration_ms": 164920,
       "name": "Nice Guy",
       "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
+    },
+    {
+      "album": {
+        "name": "Nice to see you again (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146360,
+      "name": "Nice to see you again (Korean Ver.)",
+      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
     },
     {
       "album": {
@@ -185050,7 +185104,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 104462,
       "name": "Power Ranger",
       "url": "https://open.spotify.com/track/6ZTxEh2wWqGO7VShxWjiho"
@@ -187042,6 +187096,24 @@
       "duration_ms": 175826,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc"
+    },
+    {
+      "album": {
+        "name": "Haunted Blade : Hunters (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3LkEgTiuou6km548RlMO3c"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Pull You In",
+      "url": "https://open.spotify.com/track/7sUXSjHHavQr3HfDJ05TNO"
     },
     {
       "album": {
@@ -199266,6 +199338,24 @@
       "duration_ms": 187169,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/0Dl9zaQa98CBI888R8KGEh"
+    },
+    {
+      "album": {
+        "name": "Save me",
+        "url": "https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218732,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP"
     },
     {
       "album": {
@@ -214143,6 +214233,24 @@
     },
     {
       "album": {
+        "name": "My Little New Diary, Pt. 2",
+        "url": "https://open.spotify.com/album/5622Rh01mPdRI5InulUMo5"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Sparkling Yellow Stars",
+      "url": "https://open.spotify.com/track/1Eyimsotbp2gNLkn091VBi"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NUn2bpUugGemKtw5udFGO"
       },
@@ -216052,6 +216160,24 @@
       "duration_ms": 191020,
       "name": "Star",
       "url": "https://open.spotify.com/track/1QB7cW8oJPrlSnnvHeoU7u"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/6YCRkKU7yjm8d3VrRCcDkz"
+      },
+      "artists": [
+        {
+          "name": "MILLIGRAM",
+          "url": "https://open.spotify.com/artist/1K9B1uiDf6ZSA8mshCQnqv"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4SShZF2CETTC32MIetxVSQ"
     },
     {
       "album": {
@@ -219408,7 +219534,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 173732,
       "name": "Still In Time",
       "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
@@ -221862,7 +221988,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 229173,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
@@ -224856,6 +224982,24 @@
       "duration_ms": 149000,
       "name": "Super Model",
       "url": "https://open.spotify.com/track/7nsR6s2b00Hm8m3aIPe841"
+    },
+    {
+      "album": {
+        "name": "Girl Meets Boy",
+        "url": "https://open.spotify.com/album/3Ea4taL21BnrmGDUsPIE56"
+      },
+      "artists": [
+        {
+          "name": "MADEIN",
+          "url": "https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Super Obvious",
+      "url": "https://open.spotify.com/track/077jEiOrEal1E7iGANgexy"
     },
     {
       "album": {
@@ -260665,6 +260809,24 @@
     },
     {
       "album": {
+        "name": "When You Became a Star",
+        "url": "https://open.spotify.com/album/6eEpSBIxHvrCSZnH2F8uND"
+      },
+      "artists": [
+        {
+          "name": "The Stray",
+          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "When You Became a Star",
+      "url": "https://open.spotify.com/track/7DRzEb2kNQriZlccLw5DIA"
+    },
+    {
+      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW"
       },
@@ -280700,7 +280862,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 246000,
       "name": "\ubc14\ub78c\uc5d0 \uae30\ub300\uc5b4 \ub108\ub97c \ubd88\ub7ec\ubcf8\ub2e4",
       "url": "https://open.spotify.com/track/2B5i2W1aD1iJW38GTjYuRc"
@@ -283068,6 +283230,28 @@
       "duration_ms": 204133,
       "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
       "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
+    },
+    {
+      "album": {
+        "name": "\uc22b\uc790\ub9cc \ub0a8\uc740 \ub108\uc758 \ubc88\ud638",
+        "url": "https://open.spotify.com/album/2lCVSgGZW15vTus5EuUyGK"
+      },
+      "artists": [
+        {
+          "name": "Jung Chang Yong",
+          "url": "https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx"
+        },
+        {
+          "name": "Paul Lim",
+          "url": "https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215016,
+      "name": "\uc22b\uc790\ub9cc \ub0a8\uc740 \ub108\uc758 \ubc88\ud638",
+      "url": "https://open.spotify.com/track/3uw8uro19N8N5U5aFx9uoG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Nucleya
 
-102 songs - 5 hr 40 min
+103 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Shakthi](https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Shakthi](https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1) | 3:08 | 2025-10-06 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:04 | 2024-06-06 |  |
 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 | 2023-10-20 |  |
+| [Sooper Dooper Anthem](https://open.spotify.com/track/21FgFVf7fYGUlbM9GaEJWv) | [Ashley Milred](https://open.spotify.com/artist/0XtbBAgEHkxh36kqmHFXyA) | [Sooper Dooper Anthem](https://open.spotify.com/album/1Dd7ZS7uEDPWDJLAt4VgQk) | 1:03 | 2026-02-09 |  |
 | [Sukoon](https://open.spotify.com/track/1uTUkqfimheOAVA0mi9Bp3) | [Aatma](https://open.spotify.com/artist/6zaWFQYU5em3iUkjvzbF70) | [Sukoon](https://open.spotify.com/album/6QQILo7GjRRqXlKsgoF3B1) | 3:38 | 2026-01-16 |  |
 | [Summer Tune](https://open.spotify.com/track/3LyOG6zAbh8zfMRQ5QGxgl) | [Shranay Shahane](https://open.spotify.com/artist/65Jmv6ckflB3P1XWBtyuF2), [Oskar T.T](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY) | [Summer Tune](https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S) | 2:41 | 2023-10-20 |  |
 | [Survived](https://open.spotify.com/track/4vgM82J1Uo424bJVzTDWvn) | [Kian Parikh](https://open.spotify.com/artist/211K7A9MTHN86gfHvy4Rfi) | [Survived](https://open.spotify.com/album/71bBM2D5yNrsDVi7rdgcvR) | 3:06 | 2023-10-20 |  |

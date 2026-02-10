@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Hannes✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,625 likes - 242 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,620 likes - 242 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Haste The Day",
-  "num_followers": 783827,
+  "num_followers": 783861,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHV2eZFJ7TSoVuvAgmb1PB3mWTnS",
+  "snapshot_id": "AAAAANJf8TljYO9IIzZF3owAp48LtEHG",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:40",
@@ -193,20 +193,20 @@
       "url": "https://open.spotify.com/track/63QNo9BTld0Wo2xCJ0kg25"
     },
     {
-      "added_at": "2026-02-06 05:00:40",
+      "added_at": "2026-02-09 16:35:25",
       "album": {
-        "name": "ATL",
-        "url": "https://open.spotify.com/album/6aZLjoJeY9ZFu75psLOP6X"
+        "name": "Cradle of Twigs & Bone",
+        "url": "https://open.spotify.com/album/73HEkLk33fvytVsTEcymy6"
       },
       "artists": [
         {
-          "name": "Attila",
-          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+          "name": "Feral Nature",
+          "url": "https://open.spotify.com/artist/6GWAz8O11jtULZ4XDpuot1"
         }
       ],
-      "duration_ms": 170729,
-      "name": "ATL",
-      "url": "https://open.spotify.com/track/1uVxKUgNMMaS4eVpPopvlT"
+      "duration_ms": 237757,
+      "name": "Cradle of Twigs & Bone",
+      "url": "https://open.spotify.com/track/6cKAkWciz4161bbPiQZBgD"
     },
     {
       "added_at": "2026-02-06 05:00:40",
@@ -243,6 +243,22 @@
       "duration_ms": 254722,
       "name": "Dying Son",
       "url": "https://open.spotify.com/track/0PrFpMByl3SoBNx8GwgGDz"
+    },
+    {
+      "added_at": "2026-02-06 05:00:40",
+      "album": {
+        "name": "ATL",
+        "url": "https://open.spotify.com/album/6aZLjoJeY9ZFu75psLOP6X"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "duration_ms": 170729,
+      "name": "ATL",
+      "url": "https://open.spotify.com/track/1uVxKUgNMMaS4eVpPopvlT"
     },
     {
       "added_at": "2026-02-06 05:00:40",

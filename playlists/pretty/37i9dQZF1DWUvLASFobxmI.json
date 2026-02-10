@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Aktitud en portada.",
-  "num_followers": 526277,
+  "num_followers": 526336,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Tal Vez Quiere",
-        "url": "https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 179718,
-      "name": "Tal Vez Quiere",
-      "url": "https://open.spotify.com/track/7qnGZ5kRxpgAU263eR7cxG"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Prision De Amor",
         "url": "https://open.spotify.com/album/74JcszRMjbUxbMxjG90MPe"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 179840,
       "name": "Prision De Amor",
       "url": "https://open.spotify.com/track/1dn9QUFZYRdBJG4wVQs1rG"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Tal Vez Quiere",
+        "url": "https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 179718,
+      "name": "Tal Vez Quiere",
+      "url": "https://open.spotify.com/track/7qnGZ5kRxpgAU263eR7cxG"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
-        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
-      },
-      "artists": [
-        {
-          "name": "La Novedad Norte\u00f1a de Israel Leyva",
-          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
-        }
-      ],
-      "duration_ms": 188744,
-      "name": "Los Besos No Se Piden",
-      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Un Mill\u00f3n De Primaveras",
         "url": "https://open.spotify.com/album/2HSpiTwy6jsiHkZPNr2Otw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 187578,
       "name": "Estoy Enamorado De Ti",
       "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Gracias Por Estar Aqu\u00ed Vol. 4",
+        "url": "https://open.spotify.com/album/1SMWGZmsySxBLIDRb1eQ4u"
+      },
+      "artists": [
+        {
+          "name": "La Novedad Norte\u00f1a de Israel Leyva",
+          "url": "https://open.spotify.com/artist/3QtJuj3Rl1hzwue4LOWPgh"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Los Besos No Se Piden",
+      "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Privado",
-          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
-        },
-        {
-          "name": "Anakin Larios",
-          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
-        }
-      ],
-      "duration_ms": 162134,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/1h3qsWhQq2OTwCUnZPpNXX"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 156576,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        },
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "duration_ms": 162134,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/1h3qsWhQq2OTwCUnZPpNXX"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "En Vivo FP Vol. 2",
         "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Las Que M\u00e1s Nos Gustan",
-        "url": "https://open.spotify.com/album/2FQeIReMdopM98YBPPyPO7"
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Derecho De Antig\u00fcedad",
-      "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -939,6 +923,22 @@
       "duration_ms": 144791,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Las Que M\u00e1s Nos Gustan",
+        "url": "https://open.spotify.com/album/2FQeIReMdopM98YBPPyPO7"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Derecho De Antig\u00fcedad",
+      "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
-      },
-      "artists": [
-        {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Tu Clavo",
         "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 182399,
       "name": "Tu Clavo",
       "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
+      },
+      "artists": [
+        {
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
     },
     {
       "added_at": "2026-02-06 05:12:57",

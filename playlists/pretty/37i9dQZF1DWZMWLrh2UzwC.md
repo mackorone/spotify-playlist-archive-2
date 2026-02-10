@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from ZAYN, Nick Jonas, Joji, Misha Omar, Insomniacks, Yonnyboii, In\-Team, Maher Zain  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,662 likes - 109 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,661 likes - 109 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Eladio Carrion.
 
-1,359 songs - 2 day 22 hr 32 min
+1,359 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,7 +890,7 @@
 | [Obsesivo](https://open.spotify.com/track/3aQGPXHMveRnur1DqMkAbW) | [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [AFLUENTES DELUXE](https://open.spotify.com/album/2EiNgbqOZxixg3cXWRHSD6) | 2:12 | 2025-06-27 |  |
 | [Obsesión](https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Obsesión](https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq) | 2:16 | 2024-12-06 | 2025-04-12 |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-06-16 | 2023-08-26 |
-| [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 4:29 | 2026-02-06 |  |
+| [Odio](https://open.spotify.com/track/7n8GKPyW7mj6X2xuJdGmrA) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Odio](https://open.spotify.com/album/5JC8kXH1Jc3m4HPd7s00e2) | 3:38 | 2026-02-06 |  |
 | [Oe Bebé](https://open.spotify.com/track/57pj5sOWSCAqZm088LMcE4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Oe Bebé](https://open.spotify.com/album/3L71xIS0NwOIMaM3OSWLPx) | 3:06 | 2024-06-07 | 2024-09-07 |
 | [Oe Oe Oe](https://open.spotify.com/track/5HQ0ZXklrECrLZ5Jxpa0gZ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:10 | 2022-11-30 | 2023-03-25 |
 | [Oh Mama \- Premium](https://open.spotify.com/track/1En6OzqLa2XWiY1We4jHms) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Oh Mama \(Premium\)](https://open.spotify.com/album/0MGVcqP9pH0t0JthM9xuC2) | 3:04 | 2022-01-07 | 2022-02-12 |

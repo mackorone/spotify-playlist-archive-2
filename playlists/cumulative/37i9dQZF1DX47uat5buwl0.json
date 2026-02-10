@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 163969,
       "name": "3D",
       "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
@@ -608,6 +608,24 @@
       "duration_ms": 152727,
       "name": "Dans Gewoon",
       "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
+    },
+    {
+      "album": {
+        "name": "Dansen Met Een Engel",
+        "url": "https://open.spotify.com/album/5mwYNIoM2DnIKQfKjZsqH7"
+      },
+      "artists": [
+        {
+          "name": "Muda",
+          "url": "https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156824,
+      "name": "Dansen Met Een Engel",
+      "url": "https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN"
     },
     {
       "album": {
@@ -1855,6 +1873,32 @@
     },
     {
       "album": {
+        "name": "Mee Naar Daar",
+        "url": "https://open.spotify.com/album/5L14pkXzwXowGBEpvwQVD4"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Hoffmann",
+          "url": "https://open.spotify.com/artist/5lgMJQvrjHohqKs3gCJV7q"
+        },
+        {
+          "name": "Laurence Koch",
+          "url": "https://open.spotify.com/artist/07DcKIZlMlQhecgr0VG8Q8"
+        },
+        {
+          "name": "K.N.S.R.B. Varsity",
+          "url": "https://open.spotify.com/artist/4L6ijvaBlisS1In4cizawv"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Mee Naar Daar",
+      "url": "https://open.spotify.com/track/3rxzDyK2niEuvoS13RlTnJ"
+    },
+    {
+      "album": {
         "name": "messy",
         "url": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP"
       },
@@ -3046,10 +3090,32 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-10",
       "duration_ms": 130571,
       "name": "\u00c7a Va",
       "url": "https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb"
+    },
+    {
+      "album": {
+        "name": "Tot Het Eind Van Mij",
+        "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172938,
+      "name": "\u2060Als Ik Ga",
+      "url": "https://open.spotify.com/track/1iycr8PISLyOC4pQkl51qu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0"

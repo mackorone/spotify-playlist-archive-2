@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 198499,
+  "num_followers": 198500,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-12-14 00:22:52",
       "album": {
+        "name": "Crashings",
+        "url": "https://open.spotify.com/album/11IdVYUil7tSZcx3x8AH81"
+      },
+      "artists": [
+        {
+          "name": "Falling Up",
+          "url": "https://open.spotify.com/artist/0qJxsH9kWhslWau4Ork4Zm"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/2YD9ge4vpiztCSCLfRWzMn"
+    },
+    {
+      "added_at": "2025-12-14 00:22:52",
+      "album": {
         "name": "I Get Wicked",
         "url": "https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 213693,
       "name": "I Get Wicked - Reignited",
       "url": "https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5"
-    },
-    {
-      "added_at": "2025-12-14 00:22:52",
-      "album": {
-        "name": "Crashings",
-        "url": "https://open.spotify.com/album/11IdVYUil7tSZcx3x8AH81"
-      },
-      "artists": [
-        {
-          "name": "Falling Up",
-          "url": "https://open.spotify.com/artist/0qJxsH9kWhslWau4Ork4Zm"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Broken Heart",
-      "url": "https://open.spotify.com/track/2YD9ge4vpiztCSCLfRWzMn"
     },
     {
       "added_at": "2025-12-14 00:22:52",

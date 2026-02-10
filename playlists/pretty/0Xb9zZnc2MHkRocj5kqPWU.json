@@ -1,13 +1,105 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 59610,
+  "num_followers": 59600,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIXXhi0t/kWKF2QpaU4xFI+9yg3HpO",
+  "snapshot_id": "AAAIZVTxdXuU0t9YkeuRpptwWjnHcrkT",
   "tracks": [
+    {
+      "added_at": "2026-02-09 18:05:10",
+      "album": {
+        "name": "12 Romances, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+        "url": "https://open.spotify.com/album/7iS9aKarntg9ayUf1QANzG"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alexander Malofeev",
+          "url": "https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "12 Romances, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+      "url": "https://open.spotify.com/track/50X1nyQm1C8wZyqtCr3WKy"
+    },
+    {
+      "added_at": "2026-02-09 18:05:49",
+      "album": {
+        "name": "\u00c1gua e Vinho",
+        "url": "https://open.spotify.com/album/47i4FQmpvmh1lM7iidv5ax"
+      },
+      "artists": [
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "\u00c1gua e Vinho",
+      "url": "https://open.spotify.com/track/3KtOkgLtQb6iybT5IIFHTH"
+    },
+    {
+      "added_at": "2026-02-09 18:07:18",
+      "album": {
+        "name": "Her Smile",
+        "url": "https://open.spotify.com/album/2Z6HmjkBhjvF3uPSEbzlyZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "Her Smile",
+      "url": "https://open.spotify.com/track/2XAhuWJNjsb9Qf2Kssl5HT"
+    },
+    {
+      "added_at": "2026-02-09 18:06:32",
+      "album": {
+        "name": "Human Universe",
+        "url": "https://open.spotify.com/album/1lQFEZutkw8GBJACT06LM3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/4eKmsF29beK8ZTTCE2sAzh"
+    },
+    {
+      "added_at": "2026-02-09 18:07:39",
+      "album": {
+        "name": "Chopin: Largo in E-Flat Major, B.109",
+        "url": "https://open.spotify.com/album/3nImlMZcDa2uTvrLai8ZSM"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 147079,
+      "name": "Largo in E-Flat Major, B.109",
+      "url": "https://open.spotify.com/track/6KrVSJVLH5WHa8ke8nOV7g"
+    },
     {
       "added_at": "2026-01-19 17:35:44",
       "album": {
@@ -27,6 +119,26 @@
       "duration_ms": 132240,
       "name": "Pr\u00e9lude, Op. 10",
       "url": "https://open.spotify.com/track/49e1lqr3leVmHLKfpLFz1A"
+    },
+    {
+      "added_at": "2026-02-09 18:06:53",
+      "album": {
+        "name": "Scarlatti: Sonata in A Major, K 208",
+        "url": "https://open.spotify.com/album/4PaMzIhaXKNnAJRzDmqzug"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Scarlatti: Sonata in A Major, K 208",
+      "url": "https://open.spotify.com/track/3SmNh0tqlDs0jQJMsRbGlY"
     },
     {
       "added_at": "2026-01-19 17:51:59",
@@ -51,26 +163,6 @@
       "duration_ms": 125871,
       "name": "Ellie's Lullaby",
       "url": "https://open.spotify.com/track/3SsQQsmGOlggT2suZeMTKD"
-    },
-    {
-      "added_at": "2026-01-19 17:36:59",
-      "album": {
-        "name": "Bach: Prelude in C Major, BWV 846",
-        "url": "https://open.spotify.com/album/4lXJIom4VKW31OE40Ce8iK"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 125133,
-      "name": "Bach: Prelude in C Major, BWV 846",
-      "url": "https://open.spotify.com/track/5wdsUY4zVLrFmLQj5X4jk3"
     },
     {
       "added_at": "2026-01-19 17:39:52",
@@ -129,6 +221,26 @@
       "url": "https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql"
     },
     {
+      "added_at": "2026-01-19 17:36:59",
+      "album": {
+        "name": "Bach: Prelude in C Major, BWV 846",
+        "url": "https://open.spotify.com/album/4lXJIom4VKW31OE40Ce8iK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 125133,
+      "name": "Bach: Prelude in C Major, BWV 846",
+      "url": "https://open.spotify.com/track/5wdsUY4zVLrFmLQj5X4jk3"
+    },
+    {
       "added_at": "2026-01-19 17:52:19",
       "album": {
         "name": "Nocturnes, Op. 9, No. 2 in E-Flat Major",
@@ -147,6 +259,26 @@
       "duration_ms": 307979,
       "name": "Nocturnes, Op. 9, No. 2 in E-Flat Major",
       "url": "https://open.spotify.com/track/32lUBU716zn8eRFz5sGQir"
+    },
+    {
+      "added_at": "2026-02-09 18:05:29",
+      "album": {
+        "name": "3 \u00c9tudes for Piano, Op. 31: No. 3. La nuit",
+        "url": "https://open.spotify.com/album/0dtl1TrkhgFnmLvQro9Q8H"
+      },
+      "artists": [
+        {
+          "name": "Alexander Glazunov",
+          "url": "https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u"
+        },
+        {
+          "name": "Alexander Malofeev",
+          "url": "https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "3 \u00c9tudes for Piano, Op. 31: No. 3. La nuit",
+      "url": "https://open.spotify.com/track/10ew52LkxWEEQaPiYwWBnR"
     },
     {
       "added_at": "2026-01-19 17:49:33",

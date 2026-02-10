@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-162 songs - 8 hr 42 min
+163 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Chill Maaro Chill Maaro](https://open.spotify.com/track/7EFE9jUQ0uFTQ69xWQtixm) | [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Macherla Niyojakavargam](https://open.spotify.com/album/22mNmPQpxxjSbQCJqBe44q) | 3:32 | 2022-06-03 | 2024-08-24 |
 | [Chitike \(From "Gang"\)](https://open.spotify.com/track/4cs8E7TQBRc6geyRjdsrfU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chitike \(From "Gang"\)](https://open.spotify.com/album/1rVAaLEYn3UyewBEILqvW9) | 4:00 | 2021-06-24 | 2024-08-24 |
 | [Choosa Choosa](https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK) | [Padmalatha, Sniggy](https://open.spotify.com/artist/1wuI7Wm1H1DGJKuD6a6Kth) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:20 | 2021-06-24 | 2024-08-24 |
-| [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 | 2024-08-23 |  |
+| [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 | 2024-08-23 | 2026-02-10 |
 | [Colorful Chilaka](https://open.spotify.com/track/6Tve6cDltGAxo5dqWxIF9y) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Express Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Bob85oKmvQevS83sAYHyf) | 3:48 | 2021-06-24 | 2022-07-29 |
 | [Colorful Chilaka](https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Holi Special Songs](https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A) | 3:48 | 2021-06-24 | 2024-08-24 |
 | [Colorful Chilaka](https://open.spotify.com/track/78Ew8m4IHFovprNMyj4E2y) | [Narendra](https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9) | [Express Raja](https://open.spotify.com/album/1T6t4DS8YhHLEJJk9Pbyx7) | 3:48 | 2021-06-24 | 2022-11-13 |
@@ -104,6 +104,7 @@
 | [Most Wanted Abbayi](https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI) | [Yazin Nizar, Ramya Behara](https://open.spotify.com/artist/10dw6nWjLtZ1RQoaCaERBL) | [MLA](https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7) | 4:34 | 2021-06-24 | 2024-08-24 |
 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 | 2021-06-24 | 2024-08-24 |
 | [Mysaa First Glimpse](https://open.spotify.com/track/15r90H77e3GKztWk306F3m) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Mysaa First Glimpse](https://open.spotify.com/album/7JtCG9v6nyeTXto4uvXbSD) | 1:22 | 2026-01-12 | 2026-01-28 |
+| [Nanna You Are My Hero \(From "Night Out With Nanna"\)](https://open.spotify.com/track/0M2CZsPTpNYFUTYlIosMqV) | [Rahul Jaikar](https://open.spotify.com/artist/7mLBkfgsKcQYBewjDpLj89) | [Nanna You Are My Hero \(From "Night Out With Nanna"\)](https://open.spotify.com/album/1X169NUVALh6KoEWJQ9eC1) | 1:59 | 2026-02-09 |  |
 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 | 2021-06-24 | 2024-08-24 |
 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 | 2024-08-23 |  |
 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 | 2021-06-24 | 2024-08-24 |

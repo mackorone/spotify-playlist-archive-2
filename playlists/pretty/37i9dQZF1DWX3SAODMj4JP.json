@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 161636,
+  "num_followers": 161660,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-03-07 03:01:18",
       "album": {
+        "name": "Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 141537,
+      "name": "Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
+    },
+    {
+      "added_at": "2025-03-07 03:01:18",
+      "album": {
         "name": "Estou Com Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 271154,
       "name": "Estou Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2025-03-07 03:01:18",
-      "album": {
-        "name": "Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 141537,
-      "name": "Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
     },
     {
       "added_at": "2025-03-07 03:01:18",

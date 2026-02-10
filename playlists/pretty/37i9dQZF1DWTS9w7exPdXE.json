@@ -1,6 +1,6 @@
 {
   "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
-  "num_followers": 156950,
+  "num_followers": 156974,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Danny de Munk",
         "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "De Ring die jij draagt 2.0",
+        "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
+      },
+      "artists": [
+        {
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
+        },
+        {
+          "name": "Wimmie Bouma",
+          "url": "https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "De Ring die jij draagt 2.0",
+      "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -1343,26 +1363,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "De Ring die jij draagt 2.0",
-        "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
-      },
-      "artists": [
-        {
-          "name": "Marco Kraats",
-          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
-        },
-        {
-          "name": "Wimmie Bouma",
-          "url": "https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7"
-        }
-      ],
-      "duration_ms": 192923,
-      "name": "De Ring die jij draagt 2.0",
-      "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Zin In Jou",
         "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
         "name": "Voel je dan niet",
         "url": "https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 163639,
       "name": "Voel je dan niet",
       "url": "https://open.spotify.com/track/3ZKoKdBxP6vDbXh0D2rR6U"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Lekker Lekker",
+        "url": "https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "duration_ms": 203799,
+      "name": "Pure Verleiding",
+      "url": "https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "Droomwereld",
         "url": "https://open.spotify.com/album/23kBLHQFMXTBQbsI4PZ9Kt"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 223133,
       "name": "Kleine Jongen",
       "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
-        "url": "https://open.spotify.com/album/2k1n74zKIcEQiInajgbtIk"
-      },
-      "artists": [
-        {
-          "name": "John De Bever",
-          "url": "https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p"
-        }
-      ],
-      "duration_ms": 200779,
-      "name": "Jij Krijgt Die Lach Niet Van Mijn Gezicht",
-      "url": "https://open.spotify.com/track/60VvE1ktlRQSS1RW6CSzoV"
     }
   ],
   "unique_name": "Hollandse Meezingers",

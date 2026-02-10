@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19305,
+  "num_followers": 19306,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Lata",
         "url": "https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 192194,
       "name": "Lata",
       "url": "https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Pie\u015bni Ludu",
+        "url": "https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83"
+      },
+      "artists": [
+        {
+          "name": "Zazula",
+          "url": "https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Ko\u0142omyja",
+      "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "United Kingdom Of Anxiety",
         "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Pie\u015bni Ludu",
-        "url": "https://open.spotify.com/album/2Dtr4raDfR1MDTeIfz8C83"
-      },
-      "artists": [
-        {
-          "name": "Zazula",
-          "url": "https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Ko\u0142omyja",
-      "url": "https://open.spotify.com/track/7m4kQ93BXEsFe8MJb8pJTB"
     },
     {
       "added_at": "2025-04-06 08:27:45",

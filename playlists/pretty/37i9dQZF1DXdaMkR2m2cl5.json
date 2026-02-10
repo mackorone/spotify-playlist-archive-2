@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Survivors (Acoustic)",
-        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Survivors - Acoustic",
-      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Shape & Destroy",
         "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 153466,
       "name": "In The Blue",
       "url": "https://open.spotify.com/track/2qirOEQnjo6fzfqlnvxLiG"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Survivors (Acoustic)",
+        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Survivors - Acoustic",
+      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Not Healthy Anymore",
-        "url": "https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5"
-      },
-      "artists": [
-        {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "When A Cowboy Trades His Spurs For Wings",
         "url": "https://open.spotify.com/album/4IXUHwfkm4GhHZX1yjE28f"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 183894,
       "name": "When A Cowboy Trades His Spurs For Wings",
       "url": "https://open.spotify.com/track/4DEN6S0ysyln9dZceE1YuM"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Not Healthy Anymore",
+        "url": "https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5"
+      },
+      "artists": [
+        {
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 274178,
-      "name": "Steel Pony Blues",
-      "url": "https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Together Alone",
         "url": "https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 171773,
       "name": "Brave Young Man",
       "url": "https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 274178,
+      "name": "Steel Pony Blues",
+      "url": "https://open.spotify.com/track/5xBsmg6Y5OUIdRMawv6ogS"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/4vPTv6XOfiU5nyBisBJEdu"
-      },
-      "artists": [
-        {
-          "name": "Matthew And The Atlas",
-          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
-        }
-      ],
-      "duration_ms": 188424,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/1phRuf0KNLOFGzDVE2UYIv"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Olympic Girls",
         "url": "https://open.spotify.com/album/2fXjFuPIS8mmNjzrm20t4k"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 226152,
       "name": "Sparklers",
       "url": "https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/4vPTv6XOfiU5nyBisBJEdu"
+      },
+      "artists": [
+        {
+          "name": "Matthew And The Atlas",
+          "url": "https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM"
+        }
+      ],
+      "duration_ms": 188424,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/1phRuf0KNLOFGzDVE2UYIv"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Love Gone Wrong / Good Old American Values",
-        "url": "https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b"
-      },
-      "artists": [
-        {
-          "name": "Lula Wiles",
-          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Love Gone Wrong",
-      "url": "https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 282746,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Love Gone Wrong / Good Old American Values",
+        "url": "https://open.spotify.com/album/4LLB4ANOB7t51Kv3EJWx5b"
+      },
+      "artists": [
+        {
+          "name": "Lula Wiles",
+          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Love Gone Wrong",
+      "url": "https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Narcissist - EP",
         "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 242000,
       "name": "Shouldn't Tell U",
       "url": "https://open.spotify.com/track/3KjliPJ9rqbXrSmlQo7klA"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-09-15 04:00:00",

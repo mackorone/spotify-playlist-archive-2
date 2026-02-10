@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,398 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,378 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 34 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 35 | [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 |
 | 36 | [Teu Namorado, Meu Amor](https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TANTO](https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S) | 2:30 |
-| 37 | [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 |
-| 38 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
+| 37 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
+| 38 | [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 |
 | 39 | [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 |
 | 40 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |
 | 41 | [sera que esse é mesmo o nosso fim?](https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [BASEADO EM FATOS REAIS \(menos as partes que eu inventei\)](https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1) | 3:03 |
